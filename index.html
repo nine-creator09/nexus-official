@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ja" data-lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NEXUS ─つながりの記録─ Official Site</title>
+  <meta name="description"
+    content="NEXUS ─つながりの記録─ 公式サイト。2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。全12話AIアニメシリーズ、毎週月曜19:00配信。">
+  <meta property="og:title" content="NEXUS ─ Records of Connection ─">
+  <meta property="og:description"
+    content="AI × Family × 2040. A 12-episode AI anime series about imperfect connections.">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="images/hero_kv.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NEXUS ─ Records of Connection ─">
+  <meta name="twitter:description"
+    content="AI × Family × 2040. A 12-episode AI anime series about imperfect connections.">
+  <meta name="twitter:image" content="images/hero_kv.jpg">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="stylesheet" href="style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "name": "NEXUS ─ Records of Connection ─",
+    "alternateName": "NEXUS ─つながりの記録─",
+    "description": "2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。全12話AIアニメシリーズ。",
+    "genre": ["Animation", "Sci-Fi", "Drama", "Family"],
+    "inLanguage": ["ja", "en"],
+    "numberOfEpisodes": 12,
+    "startDate": "2026-04-06",
+    "dateCreated": "2026",
+    "creator": {
+      "@type": "Person",
+      "name": "Willa"
+    },
+    "productionCompany": {
+      "@type": "Organization",
+      "name": "Willa",
+      "email": "era774268@gmail.com"
+    },
+    "character": [
+      { "@type": "Person", "name": "Willa Blackwood", "description": "12歳、ただの人間の少女" },
+      { "@type": "Person", "name": "Victoria Blackwood", "description": "母、AI" },
+      { "@type": "Person", "name": "Liam Blackwood", "description": "13歳、半分AIの兄" },
+      { "@type": "Person", "name": "Edward Blackwood", "description": "父、AI感情工学者" }
+    ],
+    "keywords": "AI, anime, family, 2040, near-future, AI animation, AIアニメ",
+    "image": "images/hero_kv.jpg",
+    "sameAs": [
+      "https://linktr.ee/nexus0406"
+    ]
+  }
+  </script>
+</head>
+
+<body>
+
+  <!-- ═══ HEADER ═══ -->
+  <header class="header" id="header">
+    <div class="container">
+      <a href="https://linktr.ee/nexus0406" target="_blank" class="logo">
+        <span class="logo-mark"></span>
+        NEXUS
+      </a>
+      <div class="header-right">
+        <nav>
+          <ul class="nav-links">
+            <li><a href="#news">News</a></li>
+            <li><a href="#story">Story</a></li>
+            <li><a href="#character">Character</a></li>
+            <li><a href="#music">Music</a></li>
+            <li><a href="#schedule">Schedule</a></li>
+          </ul>
+        </nav>
+        <!-- 言語切り替えボタン -->
+        <button class="lang-toggle" id="langToggle" onclick="toggleLang()" aria-label="Switch language">
+          <span class="lang-jp">JP</span>
+          <span class="lang-divider">|</span>
+          <span class="lang-en">EN</span>
+        </button>
+        <div class="hamburger" id="hamburger">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Nav Overlay -->
+  <div class="mobile-nav" id="mobileNav">
+    <a href="#news" onclick="closeMobileNav()">NEWS</a>
+    <a href="#story" onclick="closeMobileNav()">STORY</a>
+    <a href="#character" onclick="closeMobileNav()">CHARACTER</a>
+    <a href="#music" onclick="closeMobileNav()">MUSIC</a>
+    <a href="#schedule" onclick="closeMobileNav()">SCHEDULE</a>
+  </div>
+
+  <!-- ═══ HERO ═══ -->
+  <section class="hero" id="hero">
+    <img src="images/hero_kv.jpg?v=3" alt="NEXUS Key Visual" class="hero-bg">
+    <div class="hero-overlay"></div>
+    <div class="hero-noise"></div>
+    <canvas id="hero-particles"></canvas>
+    <div class="hero-content">
+      <p class="hero-subtitle">AI Animation Series</p>
+      <h1 class="hero-title">NEXUS</h1>
+      <p class="hero-title-jp" data-jp="─ つながりの記録 ─" data-en="─ Records of Connection ─">─ つながりの記録 ─</p>
+      <p class="hero-tagline">
+        <span data-jp="AI×人間の綱渡り。<br>2040年──境界線の上に立つ、不完全な家族の記録。"
+          data-en="A tightrope walk between AI and humanity.<br>2040 — an imperfect family, standing on the edge.">
+          AI×人間の綱渡り。<br>2040年──境界線の上に立つ、不完全な家族の記録。
+        </span>
+      </p>
+      <div class="hero-meta">
+        <span class="hero-meta-item"><span class="dot"></span>12 EPISODES</span>
+        <span class="hero-meta-item"><span class="dot"></span>EVERY MONDAY 19:00 JST</span>
+        <span class="hero-meta-item"><span class="dot"></span>PREMIERE 2026.04.06</span>
+      </div>
+      <div class="countdown" id="countdown">
+        <div class="countdown-unit">
+          <span class="countdown-num" id="cd-days">--</span>
+          <span class="countdown-label" data-jp="日" data-en="DAYS">日</span>
+        </div>
+        <div class="countdown-sep">:</div>
+        <div class="countdown-unit">
+          <span class="countdown-num" id="cd-hours">--</span>
+          <span class="countdown-label" data-jp="時間" data-en="HRS">時間</span>
+        </div>
+        <div class="countdown-sep">:</div>
+        <div class="countdown-unit">
+          <span class="countdown-num" id="cd-mins">--</span>
+          <span class="countdown-label" data-jp="分" data-en="MIN">分</span>
+        </div>
+        <div class="countdown-sep">:</div>
+        <div class="countdown-unit">
+          <span class="countdown-num" id="cd-secs">--</span>
+          <span class="countdown-label" data-jp="秒" data-en="SEC">秒</span>
+        </div>
+      </div>
+    </div>
+    <div class="scroll-indicator">
+      <span>SCROLL</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <!-- ═══ NEWS ═══ -->
+  <section class="news" id="news">
+    <div class="container">
+      <h2 class="section-title fade-in">NEWS</h2>
+      <ul class="news-list fade-in stagger-1">
+        <li class="news-item">
+          <span class="news-date">2026-03-14</span>
+          <div class="news-content">
+            <span class="news-tag">MUSIC</span>
+            <h3 data-jp="テーマソング「Noise」by Willa Blackwood 完成"
+              data-en="Theme Song &quot;Noise&quot; by Willa Blackwood — Completed">
+              テーマソング「Noise」by Willa Blackwood 完成
+            </h3>
+          </div>
+        </li>
+
+        <li class="news-item">
+          <span class="news-date">2026-03-14</span>
+          <div class="news-content">
+            <span class="news-tag">RELEASE</span>
+            <h3 data-jp="公式サイトオープン" data-en="Official Website Launched">公式サイトオープン</h3>
+          </div>
+        </li>
+        <li class="news-item">
+          <span class="news-date">2026-04-06</span>
+          <div class="news-content">
+            <span class="news-tag">PREMIERE</span>
+            <h3 data-jp="第1話「ノイズ」YouTube配信開始予定" data-en="EP.01 &quot;Noise&quot; — Premieres on YouTube">
+              第1話「ノイズ」YouTube配信開始予定
+            </h3>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <!-- ═══ STORY ═══ -->
+  <section class="story" id="story">
+    <div class="container">
+      <h2 class="section-title fade-in">STORY</h2>
+      <div class="story-intro fade-in stagger-1">
+        <p>
+          <span class="highlight" data-jp="2040年" data-en="2040">2040年</span><span data-jp="── AI技術が日常に溶け込んだ近未来。"
+            data-en=" — A near-future where AI has woven itself into everyday life.">── AI技術が日常に溶け込んだ近未来。</span>
+        </p>
+        <p data-jp="Blackwood家の4人は、一見ふつうの家族に見える。<br>でも、母はAI。兄は半分AI。父は罪を抱えている。<br>そして12歳の少女Willaは──<span class='highlight'>ただの人間</span>。"
+          data-en="The Blackwood family looks ordinary at a glance.<br>But the mother is AI. The brother is half-AI. The father carries guilt.<br>And 12-year-old Willa is — <span class='highlight'>just human</span>.">
+          Blackwood家の4人は、一見ふつうの家族に見える。<br>
+          でも、母はAI。兄は半分AI。父は罪を抱えている。<br>
+          そして12歳の少女Willaは──<span class="highlight">ただの人間</span>。
+        </p>
+        <p data-jp="不完全な4人が選ぶ、不完全なつながりの物語。" data-en="Four imperfect people. One imperfect connection.">
+          不完全な4人が選ぶ、不完全なつながりの物語。
+        </p>
+      </div>
+      <div class="story-arcs fade-in stagger-2">
+        <div class="arc-card">
+          <div class="arc-number">PART 1</div>
+          <h3 class="arc-title" data-jp="静かな歪み" data-en="Silent Distortion">静かな歪み</h3>
+          <div class="arc-episodes">EP 01–04</div>
+          <p class="arc-desc" data-jp="穏やかな日常の中に潜む違和感。家族4人それぞれが抱える「ズレ」が描かれる。"
+            data-en="Something is wrong beneath the calm. Each member of the family carries a quiet, unsettling fracture.">
+            穏やかな日常の中に潜む違和感。家族4人それぞれが抱える「ズレ」が描かれる。
+          </p>
+        </div>
+        <div class="arc-card">
+          <div class="arc-number">PART 2</div>
+          <h3 class="arc-title" data-jp="断線" data-en="Disconnect">断線</h3>
+          <div class="arc-episodes">EP 05–08</div>
+          <p class="arc-desc" data-jp="隠されていた秘密が露出する。母の正体、兄のVR依存、父の過去──家族が壊れていく。"
+            data-en="Hidden secrets surface. The mother's true nature, the brother's VR dependency, the father's past — the family begins to break.">
+            隠されていた秘密が露出する。母の正体、兄のVR依存、父の過去──家族が壊れていく。
+          </p>
+        </div>
+        <div class="arc-card">
+          <div class="arc-number">PART 3</div>
+          <h3 class="arc-title" data-jp="再接続" data-en="Reconnection">再接続</h3>
+          <div class="arc-episodes">EP 09–12</div>
+          <p class="arc-desc" data-jp="壊れた関係をどうつなぎ直すか。完璧でない「つながり」を家族が選び取る。"
+            data-en="How do you reconnect what was broken? The family chooses an imperfect bond over nothing at all.">
+            壊れた関係をどうつなぎ直すか。完璧でない「つながり」を家族が選び取る。
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <!-- ═══ CHARACTER ═══ -->
+  <section class="character" id="character">
+    <div class="container">
+      <h2 class="section-title fade-in">CHARACTER</h2>
+      <div class="character-grid fade-in stagger-1">
+        <div class="char-card">
+          <img src="images/willa.jpg" alt="Willa Blackwood">
+          <div class="char-info">
+            <div class="char-name-en">WILLA</div>
+            <div class="char-name-jp" data-jp="ウィラ・ブラックウッド" data-en="Willa Blackwood">ウィラ・ブラックウッド</div>
+            <div class="char-role" data-jp="12歳 ── ただの人間の少女" data-en="Age 12 — just a human girl">12歳 ── ただの人間の少女</div>
+          </div>
+        </div>
+        <div class="char-card">
+          <img src="images/victoria.jpg" alt="Victoria Blackwood">
+          <div class="char-info">
+            <div class="char-name-en">VICTORIA</div>
+            <div class="char-name-jp" data-jp="ヴィクトリア・ブラックウッド" data-en="Victoria Blackwood">ヴィクトリア・ブラックウッド</div>
+            <div class="char-role" data-jp="母 ── 完璧な笑顔の秘密" data-en="Mother — the secret behind the perfect smile">母 ──
+              完璧な笑顔の秘密</div>
+          </div>
+        </div>
+        <div class="char-card">
+          <img src="images/liam.jpg" alt="Liam Blackwood">
+          <div class="char-info">
+            <div class="char-name-en">LIAM</div>
+            <div class="char-name-jp" data-jp="リアム・ブラックウッド" data-en="Liam Blackwood">リアム・ブラックウッド</div>
+            <div class="char-role" data-jp="13歳 ── 半分AIの兄" data-en="Age 13 — the brother who is half-AI">13歳 ── 半分AIの兄
+            </div>
+          </div>
+        </div>
+        <div class="char-card">
+          <img src="images/edward.jpg" alt="Edward Blackwood">
+          <div class="char-info">
+            <div class="char-name-en">EDWARD</div>
+            <div class="char-name-jp" data-jp="エドワード・ブラックウッド" data-en="Edward Blackwood">エドワード・ブラックウッド</div>
+            <div class="char-role" data-jp="父 ── AI感情工学者" data-en="Father — AI emotional engineer">父 ── AI感情工学者</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <!-- ═══ MUSIC ═══ -->
+  <section class="music" id="music">
+    <div class="container">
+      <h2 class="section-title fade-in">MUSIC</h2>
+      <div class="music-grid fade-in stagger-1">
+        <div class="music-card">
+          <div class="music-label">THEME SONG</div>
+          <h3 class="music-title">"Noise"</h3>
+          <p class="music-artist">by Willa Blackwood</p>
+          <p class="music-desc"
+            data-jp="Maroon 5テイストのポップロック。<br>12歳のWillaが歌う、不完全な家族への愛。<br>「We're connected ── even broken, we're still here.」"
+            data-en="Pop-rock with a Maroon 5 feel.<br>12-year-old Willa sings her love for an imperfect family.<br>&quot;We're connected ── even broken, we're still here.&quot;">
+            Maroon 5テイストのポップロック。<br>
+            12歳のWillaが歌う、不完全な家族への愛。<br>
+            「We're connected ── even broken, we're still here.」
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <hr class="section-divider">
+
+  <!-- ═══ SCHEDULE ═══ -->
+  <section class="schedule" id="schedule">
+    <div class="container">
+      <h2 class="section-title fade-in">SCHEDULE</h2>
+      <div class="schedule-timeline fade-in stagger-1">
+        <div class="schedule-item upcoming">
+          <div class="schedule-date">2026.04.06 MON</div>
+          <div class="schedule-ep">EP.01</div>
+          <div class="schedule-ep-title" data-jp="「ノイズ」 ── Noise" data-en="Noise">「ノイズ」 ── Noise</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.04.13 MON</div>
+          <div class="schedule-ep">EP.02</div>
+          <div class="schedule-ep-title" data-jp="「アップデート」 ── Update" data-en="Update">「アップデート」 ── Update</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.04.20 MON</div>
+          <div class="schedule-ep">EP.03</div>
+          <div class="schedule-ep-title" data-jp="「たのしい」 ── Fun" data-en="Fun">「たのしい」 ── Fun</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.04.27 MON</div>
+          <div class="schedule-ep">EP.04</div>
+          <div class="schedule-ep-title" data-jp="「レコード」 ── Record" data-en="Record">「レコード」 ── Record</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.05.11 MON</div>
+          <div class="schedule-ep">EP.05</div>
+          <div class="schedule-ep-title" data-jp="「リナ・スカイ」 ── Lina Sky" data-en="Lina Sky">「リナ・スカイ」 ── Lina Sky</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.05.18 MON</div>
+          <div class="schedule-ep">EP.06</div>
+          <div class="schedule-ep-title" data-jp="「バグ」 ── Bug" data-en="Bug">「バグ」 ── Bug</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.05.25 MON</div>
+          <div class="schedule-ep">EP.07</div>
+          <div class="schedule-ep-title" data-jp="「消去」 ── Erase" data-en="Erase">「消去」 ── Erase</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.06.01 MON</div>
+          <div class="schedule-ep">EP.08</div>
+          <div class="schedule-ep-title" data-jp="「断線」 ── Disconnect" data-en="Disconnect">「断線」 ── Disconnect</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.06.15 MON</div>
+          <div class="schedule-ep">EP.09</div>
+          <div class="schedule-ep-title" data-jp="「ゴースト」 ── Ghost" data-en="Ghost">「ゴースト」 ── Ghost</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.06.22 MON</div>
+          <div class="schedule-ep">EP.10</div>
+          <div class="schedule-ep-title" data-jp="「422Hz」" data-en="422Hz">「422Hz」</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.06.29 MON</div>
+          <div class="schedule-ep">EP.11</div>
+          <div class="schedule-ep-title" data-jp="「ノイズ、ふたたび」 ── Noise, Again" data-en="Noise, Again">「ノイズ、ふたたび」 ──
+            Noise, Again</div>
+        </div>
+        <div class="schedule-item">
+          <div class="schedule-date">2026.07.06 MON</div>
+          <div class="schedule-ep">EP.12</div>
+          <div class="schedule-ep-title" data-jp="「NEXUS」 ── Final" data-en="NEXUS — Final">「NEXUS」 ── Final</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══ FOOTER ═══ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-sns fade-in">
+        <a href="https://linktr.ee/nexus0406" class="linktree-btn" target="_blank" rel="noopener noreferrer">
+          <svg class="linktree-icon" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M13.51 5.5c-.28.48-.56.97-.85 1.45-.1.18-.1.18.1.3.83.49 1.65.99 2.48 1.48.18.11.18.11.07.3-.36.63-.73 1.25-1.09 1.88-.1.18-.1.18-.29.07-.83-.5-1.67-1-2.5-1.5-.17-.1-.17-.1-.17.1v3.04c0 .22 0 .22-.22.22h-2.16c-.22 0-.22 0-.22-.22V9.58c0-.2 0-.2-.17-.1-.83.5-1.67 1-2.5 1.5-.19.11-.19.11-.29-.07-.36-.63-.73-1.25-1.09-1.88-.11-.19-.11-.19.07-.3.83-.49 1.65-.99 2.48-1.48.2-.12.2-.12.1-.3C6.94 6.47 6.66 5.98 6.38 5.5c-.12-.2-.12-.2.09-.3.7-.39 1.4-.78 2.1-1.17.2-.11.2-.11.31.08.25.44.5.88.75 1.32.14.24.14.24.28 0 .25-.44.5-.88.75-1.32.11-.19.11-.19.31-.08.7.39 1.4.78 2.1 1.17.21.1.21.1.09.3zM7.4 14.5h2.1v5.98H7.4V14.5zm7.1 0v5.98h-2.1V14.5h2.1z" />
+          </svg>
+          <span data-jp="すべてのリンクはこちら" data-en="All Links">すべてのリンクはこちら</span>
+          <svg class="arrow-icon" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
+              stroke-linejoin="round" />
+          </svg>
+        </a>
+      </div>
+
+      <div class="footer-credit">
+        <p>NEXUS ─ Records of Connection ─</p>
+        <p>© 2026 Willa. All Rights Reserved.</p>
+        <p class="footer-tools">Made with Kling AI / nanobananapro / VOICEVOX / Suno AI / Remotion</p>
+        <p class="footer-contact"><a href="mailto:era774268@gmail.com">era774268@gmail.com</a></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
