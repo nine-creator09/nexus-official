@@ -1155,6 +1155,8 @@ img {
 
 .footer-sns {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: center;
   margin-bottom: 56px;
 }
@@ -1215,6 +1217,52 @@ img {
   position: relative;
   z-index: 1;
   flex-shrink: 0;
+}
+
+/* ─── Footer Social Links ─── */
+.footer-links {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 32px;
+  margin-top: 0;
+}
+
+.footer-links a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  padding: 16px 12px;
+  border-radius: 8px;
+  border: 1px solid var(--glass-border);
+  background: var(--glass-bg);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  color: var(--text-secondary);
+  transition: all 0.4s var(--ease-out-expo);
+  min-width: 80px;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: var(--gold-100);
+  border-color: var(--gold-400);
+  box-shadow: 0 0 20px rgba(200, 149, 108, 0.2);
+  transform: translateY(-3px);
+}
+
+.footer-links a svg {
+  width: 24px;
+  height: 24px;
+}
+
+.footer-links a span {
+  font-family: var(--font-en);
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .arrow-icon {
