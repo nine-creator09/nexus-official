@@ -1483,11 +1483,43 @@ img {
 
   .character-grid {
     grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+
+  #lina-card {
+    grid-column: 1 / 3;
+    max-width: calc(50% - 6px);
+    margin-top: 12px;
+  }
+
+  .char-card {
+    aspect-ratio: auto;
+  }
+
+  .char-img-wrap {
+    position: relative;
+    height: auto;
+    aspect-ratio: 1/1;
   }
 
   .char-info {
-    transform: translateY(0);
+    position: relative;
+    transform: none;
     opacity: 1;
+    padding: 12px 8px 16px;
+    background: linear-gradient(to top, rgba(6, 6, 8, 0.95), rgba(6, 6, 8, 0.8));
+  }
+
+  .char-name-en {
+    font-size: 0.55rem;
+  }
+
+  .char-name-jp {
+    font-size: 0.82rem;
+  }
+
+  .char-role {
+    font-size: 0.65rem;
   }
 
   .tracklist-item {
@@ -1513,5 +1545,24 @@ img {
   .character-grid {
     grid-template-columns: repeat(2, 1fr);
     gap: 3px;
+  }
+
+  #lina-card {
+    grid-column: 1 / 3;
+    max-width: 50%;
+  }
+
+  .tracklist-num {
+    font-size: 1.4rem;
+    min-width: 36px;
+  }
+
+  .tracklist-title {
+    font-size: 1rem;
+    min-width: unset;
+  }
+
+  .tracklist-desc {
+    margin-left: 56px;
   }
 }
