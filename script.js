@@ -3,6 +3,18 @@
    Premium JavaScript
    ═══════════════════════════ */
 
+// ─── Hero Slideshow ───
+(function () {
+    const slides = document.querySelectorAll('.hero-slide');
+    if (slides.length <= 1) return;
+    let current = 0;
+    setInterval(() => {
+        slides[current].classList.remove('active');
+        current = (current + 1) % slides.length;
+        slides[current].classList.add('active');
+    }, 5000);
+})();
+
 // ─── Header Scroll Effect ───
 const header = document.getElementById('header');
 
@@ -246,41 +258,4 @@ function toggleLang() {
     }
 })();
 
-// ─── Countdown Timer ───
-(function () {
-    // 2026年4月6日 19:00 JST (UTC+9) = 2026-04-06T10:00:00Z
-    const PREMIERE = new Date('2026-04-06T10:00:00Z').getTime();
 
-    const $days = document.getElementById('cd-days');
-    const $hours = document.getElementById('cd-hours');
-    const $mins = document.getElementById('cd-mins');
-    const $secs = document.getElementById('cd-secs');
-    const $countdown = document.getElementById('countdown');
-
-    if (!$days) return;
-
-    function pad(n) { return n < 10 ? '0' + n : n; }
-
-    function tick() {
-        const now = Date.now();
-        const diff = PREMIERE - now;
-
-        if (diff <= 0) {
-            $countdown.innerHTML = '<span class="countdown-num" style="font-size:1.2rem">NOW STREAMING</span>';
-            return;
-        }
-
-        const d = Math.floor(diff / 86400000);
-        const h = Math.floor((diff % 86400000) / 3600000);
-        const m = Math.floor((diff % 3600000) / 60000);
-        const s = Math.floor((diff % 60000) / 1000);
-
-        $days.textContent = pad(d);
-        $hours.textContent = pad(h);
-        $mins.textContent = pad(m);
-        $secs.textContent = pad(s);
-    }
-
-    tick();
-    setInterval(tick, 1000);
-})();

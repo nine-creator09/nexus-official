@@ -5,51 +5,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NEXUS ─つながりの記録─ Official Site</title>
-  <meta name="description"
-    content="NEXUS ─つながりの記録─ 公式サイト。2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。痛みに満ちた現実と、完璧なVR聖域の間で揺れる不完全な家族の記録。全12話AIアニメシリーズ、毎週月曜19:00配信。">
+  <meta name="description" content="NEXUS ─つながりの記録─ 公式サイト。2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。不完全な4人が選ぶ、不完全な幸福の物語。">
   <meta property="og:title" content="NEXUS ─ Records of Connection ─">
-  <meta property="og:description"
-    content="AI × Family × 2040. A 12-episode AI anime series about imperfect connections.">
+  <meta property="og:description" content="AI × Family × 2040. An imperfect family choosing imperfect happiness.">
   <meta property="og:type" content="website">
   <meta property="og:image" content="images/hero_kv.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="NEXUS ─ Records of Connection ─">
-  <meta name="twitter:description"
-    content="AI × Family × 2040. A 12-episode AI anime series about imperfect connections.">
+  <meta name="twitter:description" content="AI × Family × 2040. An imperfect family choosing imperfect happiness.">
   <meta name="twitter:image" content="images/hero_kv.jpg">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link rel="stylesheet" href="style.css">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "TVSeries",
+    "@type": "CreativeWork",
     "name": "NEXUS ─ Records of Connection ─",
     "alternateName": "NEXUS ─つながりの記録─",
-    "description": "2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。痛みに満ちた現実と、完璧なVR聖域の間で揺れる不完全な家族の記録。全12話AIアニメシリーズ。",
-    "genre": ["Animation", "Sci-Fi", "Drama", "Family"],
+    "description": "2040年、AIと人間が家族になったとき「つながり」は何を意味するのか。不完全な4人が選ぶ、不完全な幸福の物語。",
+    "genre": ["Sci-Fi", "Drama", "Family"],
     "inLanguage": ["ja", "en"],
-    "numberOfEpisodes": 12,
-    "startDate": "2026-04-06",
     "dateCreated": "2026",
     "creator": {
       "@type": "Person",
       "name": "Nine"
-    },
-    "productionCompany": {
-      "@type": "Organization",
-      "name": "Nine",
-      "email": "era774268@gmail.com"
     },
     "character": [
       { "@type": "Person", "name": "Willa Blackwood", "description": "12歳、ただの人間の少女。観察者" },
       { "@type": "Person", "name": "Victoria Blackwood", "description": "母、AI。完璧な笑顔の裏に隠された秘密" },
       { "@type": "Person", "name": "Liam Blackwood", "description": "13歳、半分AIの兄。感情処理の負荷に苦しむ" },
       { "@type": "Person", "name": "Edward Blackwood", "description": "父、総合AI研究者。過去の罪を抱える" },
-      { "@type": "Person", "name": "Lina Sky", "description": "VR世界の最深部に君臨するAIアイドル。完璧な『無』を説く情報の聖母" }
+      { "@type": "Person", "name": "Lina Sky", "description": "AIアイドル。完璧な歌声で人々を魅了する" }
     ],
-    "keywords": "AI, anime, family, 2040, near-future, AI animation, AIアニメ",
+    "keywords": "AI, family, 2040, near-future, music, creative project",
     "image": "images/hero_kv.jpg",
     "sameAs": [
       "https://linktr.ee/nexus0406"
@@ -63,7 +53,7 @@
   <!-- ═══ HEADER ═══ -->
   <header class="header" id="header">
     <div class="container">
-      <a href="https://linktr.ee/nexus0406" target="_blank" class="logo">
+      <a href="#hero" class="logo">
         <span class="logo-mark"></span>
         NEXUS
       </a>
@@ -71,10 +61,10 @@
         <nav>
           <ul class="nav-links">
             <li><a href="#news">News</a></li>
-            <li><a href="#story">Story</a></li>
+            <li><a href="#world">World</a></li>
             <li><a href="#character">Character</a></li>
             <li><a href="#music">Music</a></li>
-            <li><a href="#schedule">Schedule</a></li>
+            <li><a href="#connect">Connect</a></li>
           </ul>
         </nav>
         <!-- 言語切り替えボタン -->
@@ -95,54 +85,33 @@
   <!-- Mobile Nav Overlay -->
   <div class="mobile-nav" id="mobileNav">
     <a href="#news" onclick="closeMobileNav()">NEWS</a>
-    <a href="#story" onclick="closeMobileNav()">STORY</a>
+    <a href="#world" onclick="closeMobileNav()">WORLD</a>
     <a href="#character" onclick="closeMobileNav()">CHARACTER</a>
     <a href="#music" onclick="closeMobileNav()">MUSIC</a>
-    <a href="#schedule" onclick="closeMobileNav()">SCHEDULE</a>
+    <a href="#connect" onclick="closeMobileNav()">CONNECT</a>
   </div>
 
   <!-- ═══ HERO ═══ -->
   <section class="hero" id="hero">
-    <img src="images/hero_kv.jpg?v=4" alt="NEXUS Key Visual" class="hero-bg">
+    <div class="hero-slideshow">
+      <img src="images/hero_kv.jpg?v=4" alt="NEXUS Key Visual" class="hero-bg hero-slide active">
+      <img src="images/IMG_0941.JPG" alt="NEXUS Visual 2" class="hero-bg hero-slide">
+      <img src="images/IMG_0945.JPG" alt="NEXUS Visual 3" class="hero-bg hero-slide">
+      <img src="images/IMG_0962.JPG" alt="NEXUS Visual 4" class="hero-bg hero-slide">
+    </div>
     <div class="hero-overlay"></div>
     <div class="hero-noise"></div>
     <canvas id="hero-particles"></canvas>
     <div class="hero-content">
-      <p class="hero-subtitle">AI Animation Series</p>
+      <p class="hero-subtitle">AI × Family × 2040</p>
       <h1 class="hero-title">NEXUS</h1>
       <p class="hero-title-jp" data-jp="─ つながりの記録 ─" data-en="─ Records of Connection ─">─ つながりの記録 ─</p>
       <p class="hero-tagline">
-        <span data-jp="痛みに満ちた現実と、完璧なVR聖域。<br>2040年──不完全な家族が選ぶ、不完全なつながりの記録。"
-          data-en="A pain-filled reality, and a perfect VR sanctuary.<br>2040 — imperfect connections, chosen by an imperfect family.">
-          痛みに満ちた現実と、完璧なVR聖域。<br>2040年──不完全な家族が選ぶ、不完全なつながりの記録。
+        <span data-jp="AIと人間が家族になったとき、<br>「つながり」は何を意味するのか。"
+          data-en="When AI and humans become family,<br>what does 'connection' mean?">
+          AIと人間が家族になったとき、<br>「つながり」は何を意味するのか。
         </span>
       </p>
-      <div class="hero-meta">
-        <span class="hero-meta-item"><span class="dot"></span>12 EPISODES</span>
-        <span class="hero-meta-item"><span class="dot"></span>EVERY MONDAY 19:00 JST</span>
-        <span class="hero-meta-item"><span class="dot"></span>PREMIERE 2026.04.06</span>
-      </div>
-      <div class="countdown" id="countdown">
-        <div class="countdown-unit">
-          <span class="countdown-num" id="cd-days">--</span>
-          <span class="countdown-label" data-jp="日" data-en="DAYS">日</span>
-        </div>
-        <div class="countdown-sep">:</div>
-        <div class="countdown-unit">
-          <span class="countdown-num" id="cd-hours">--</span>
-          <span class="countdown-label" data-jp="時間" data-en="HRS">時間</span>
-        </div>
-        <div class="countdown-sep">:</div>
-        <div class="countdown-unit">
-          <span class="countdown-num" id="cd-mins">--</span>
-          <span class="countdown-label" data-jp="分" data-en="MIN">分</span>
-        </div>
-        <div class="countdown-sep">:</div>
-        <div class="countdown-unit">
-          <span class="countdown-num" id="cd-secs">--</span>
-          <span class="countdown-label" data-jp="秒" data-en="SEC">秒</span>
-        </div>
-      </div>
     </div>
     <div class="scroll-indicator">
       <span>SCROLL</span>
@@ -157,6 +126,16 @@
     <div class="container">
       <h2 class="section-title fade-in">NEWS</h2>
       <ul class="news-list fade-in stagger-1">
+        <li class="news-item">
+          <span class="news-date">2026-04-06</span>
+          <div class="news-content">
+            <span class="news-tag">CHARACTER</span>
+            <h3 data-jp="リナ＝スカイ ビジュアル公開" data-en="Lina Sky Visual Debut">
+              リナ＝スカイ ビジュアル公開
+            </h3>
+          </div>
+        </li>
+
         <li class="news-item">
           <span class="news-date">2026-04-02</span>
           <div class="news-content">
@@ -185,27 +164,16 @@
             <h3 data-jp="公式サイトオープン" data-en="Official Website Launched">公式サイトオープン</h3>
           </div>
         </li>
-
-        <li class="news-item">
-          <span class="news-date">2026-04-06</span>
-          <div class="news-content">
-            <span class="news-tag">PREMIERE</span>
-            <h3 data-jp="第1話「ノイズと絶対領域」YouTube配信開始予定"
-              data-en="EP.01 &quot;The Noise and the Sanctuary&quot; — Premieres on YouTube">
-              第1話「ノイズと絶対領域」YouTube配信開始予定
-            </h3>
-          </div>
-        </li>
       </ul>
     </div>
   </section>
 
   <hr class="section-divider">
 
-  <!-- ═══ STORY ═══ -->
-  <section class="story" id="story">
+  <!-- ═══ WORLD ═══ -->
+  <section class="story" id="world">
     <div class="container">
-      <h2 class="section-title fade-in">STORY</h2>
+      <h2 class="section-title fade-in">WORLD</h2>
       <div class="story-intro fade-in stagger-1">
         <p>
           <span class="highlight" data-jp="2040年" data-en="2040">2040年</span><span data-jp="── AI技術が日常に溶け込んだ近未来。"
@@ -220,46 +188,6 @@
         <p data-jp="不完全な家族が選ぶ、不完全なつながりの物語。" data-en="An imperfect family chooses an imperfect connection.">
           不完全な家族が選ぶ、不完全なつながりの物語。
         </p>
-      </div>
-      <div class="story-arcs fade-in stagger-2">
-        <div class="arc-card">
-          <div class="arc-number">[ 起 ]</div>
-          <h3 class="arc-title" data-jp="ノイズと絶対領域" data-en="Noise and the Sanctuary">ノイズと絶対領域</h3>
-          <div class="arc-episodes">EP 01–03</div>
-          <p class="arc-desc" data-jp="穏やかな食卓に潜む、目に見えない摩擦。家族4人それぞれが抱える「ズレ」が、静かに動き出す。"
-            data-en="Invisible friction lurking beneath a calm dinner table. The 'gaps' each family member carries begin to stir.">
-            穏やかな食卓に潜む、目に見えない摩擦。家族4人それぞれが抱える「ズレ」が、静かに動き出す。
-          </p>
-        </div>
-        <div class="arc-card">
-          <div class="arc-number">[ 承 ]</div>
-          <h3 class="arc-title" data-jp="原罪のブラックボックス" data-en="The Black Box of Original Sin">原罪のブラックボックス</h3>
-          <div class="arc-episodes">EP 04–06</div>
-          <p class="arc-desc" data-jp="隠されていた秘密が、ひとつずつ露わになる。この家族の「普通」は、誰かの嘘の上に成り立っていた。"
-            data-en="Hidden secrets surface, one by one. This family's 'normal' was built on someone's lies.">
-            隠されていた秘密が、ひとつずつ露わになる。この家族の「普通」は、誰かの嘘の上に成り立っていた。
-          </p>
-        </div>
-      </div>
-      <div class="story-arcs fade-in stagger-3">
-        <div class="arc-card">
-          <div class="arc-number">[ 転 ]</div>
-          <h3 class="arc-title" data-jp="音のハッキング" data-en="Hacking by Sound">音のハッキング</h3>
-          <div class="arc-episodes">EP 07–09</div>
-          <p class="arc-desc" data-jp="消えかけた繋がりを取り戻すために、ウィラが選んだ手段。それは、テクノロジーでは届かない場所への挑戦だった。"
-            data-en="To reclaim a fading connection, Willa chooses a method that reaches where technology cannot.">
-            消えかけた繋がりを取り戻すために、ウィラが選んだ手段。それは、テクノロジーでは届かない場所への挑戦だった。
-          </p>
-        </div>
-        <div class="arc-card">
-          <div class="arc-number">[ 結 ]</div>
-          <h3 class="arc-title" data-jp="欠陥品たちの朝" data-en="The Defective Nexus">欠陥品たちの朝</h3>
-          <div class="arc-episodes">EP 10–12</div>
-          <p class="arc-desc" data-jp="完璧な世界と、不完全な現実。どちらを選ぶのか──その答えは、あなた自身の朝にも問いかけられている。"
-            data-en="A perfect world, or an imperfect reality. Which would you choose? The answer echoes into your own morning.">
-            完璧な世界と、不完全な現実。どちらを選ぶのか──その答えは、あなた自身の朝にも問いかけられている。
-          </p>
-        </div>
       </div>
     </div>
   </section>
@@ -319,13 +247,13 @@
         </div>
         <div class="char-card" id="lina-card">
           <div class="char-img-wrap">
-            <img src="images/lina_sky.jpg?v=3" alt="Saint Lina Sky">
+            <img src="images/lina_sky.jpg?v=3" alt="Lina Sky">
           </div>
           <div class="char-info">
             <div class="char-name-en">LINA SKY</div>
-            <div class="char-name-jp" data-jp="聖リナ＝スカイ" data-en="Saint Lina Sky">聖リナ＝スカイ</div>
-            <div class="char-role" data-jp="VR世界の最深部に君臨する、完璧なAI"
-              data-en="A perfect AI, reigning over the deepest reaches of VR">VR世界の最深部に君臨する、完璧なAI</div>
+            <div class="char-name-jp" data-jp="リナ＝スカイ" data-en="Lina Sky">リナ＝スカイ</div>
+            <div class="char-role" data-jp="AIアイドル ── 完璧な歌声で人々を魅了する"
+              data-en="AI Idol — captivating hearts with a perfect voice">AIアイドル ── 完璧な歌声で人々を魅了する</div>
           </div>
         </div>
       </div>
@@ -371,8 +299,8 @@
         <div class="tracklist-item tracklist-item--aether">
           <span class="tracklist-num">01</span>
           <h3 class="tracklist-title">First Breath</h3>
-          <p class="tracklist-desc" data-jp="VR聖域から響く、最初の呼吸" data-en="The first breath from the VR sanctuary">
-            VR聖域から響く、最初の呼吸</p>
+          <p class="tracklist-desc" data-jp="最初の呼吸" data-en="The first breath">
+            最初の呼吸</p>
         </div>
         <div class="tracklist-item tracklist-item--aether">
           <span class="tracklist-num">02</span>
@@ -393,82 +321,54 @@
 
   <hr class="section-divider">
 
-  <!-- ═══ SCHEDULE ═══ -->
-  <section class="schedule" id="schedule">
+  <section class="connect" id="connect">
     <div class="container">
-      <h2 class="section-title fade-in">SCHEDULE</h2>
-      <div class="schedule-timeline fade-in stagger-1">
-        <div class="schedule-item upcoming">
-          <div class="schedule-date">2026.04.06 MON</div>
-          <div class="schedule-ep">LOG #001</div>
-          <div class="schedule-ep-title" data-jp="ノイズと絶対領域 ── The Noise and the Sanctuary"
-            data-en="The Noise and the Sanctuary">ノイズと絶対領域</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.04.13 MON</div>
-          <div class="schedule-ep">LOG #002</div>
-          <div class="schedule-ep-title" data-jp="模造の温もり ── The Fabricated Warmth" data-en="The Fabricated Warmth">
-            模造の温もり</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.04.20 MON</div>
-          <div class="schedule-ep">LOG #003</div>
-          <div class="schedule-ep-title" data-jp="忘却のライセンス ── The License to Forget" data-en="The License to Forget">
-            忘却のライセンス</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.04.27 MON</div>
-          <div class="schedule-ep">LOG #004</div>
-          <div class="schedule-ep-title" data-jp="観測者の波紋 ── The Observer's Ripple" data-en="The Observer's Ripple">
-            観測者の波紋</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.05.04 MON</div>
-          <div class="schedule-ep">LOG #005</div>
-          <div class="schedule-ep-title" data-jp="暴走する箱庭 ── The Rampant Sandbox" data-en="The Rampant Sandbox">暴走する箱庭
-          </div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.05.11 MON</div>
-          <div class="schedule-ep">LOG #006</div>
-          <div class="schedule-ep-title" data-jp="原罪のブラックボックス ── The Black Box of Original Sin"
-            data-en="The Black Box of Original Sin">原罪のブラックボックス</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.05.18 MON</div>
-          <div class="schedule-ep">LOG #007</div>
-          <div class="schedule-ep-title" data-jp="感情のアンインストール ── Uninstalling Emotions" data-en="Uninstalling Emotions">
-            感情のアンインストール</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.05.25 MON</div>
-          <div class="schedule-ep">LOG #008</div>
-          <div class="schedule-ep-title" data-jp="亡霊とのチューニング ── Tuning with the Ghost" data-en="Tuning with the Ghost">
-            亡霊とのチューニング</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.06.01 MON</div>
-          <div class="schedule-ep">LOG #009</div>
-          <div class="schedule-ep-title" data-jp="音のハッキング ── Hacking by Sound" data-en="Hacking by Sound">音のハッキング</div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.06.08 MON</div>
-          <div class="schedule-ep">LOG #010</div>
-          <div class="schedule-ep-title" data-jp="痛みの引力 ── The Gravity of Pain" data-en="The Gravity of Pain">痛みの引力
-          </div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.06.15 MON</div>
-          <div class="schedule-ep">LOG #011</div>
-          <div class="schedule-ep-title" data-jp="泥だらけの創造主 ── The Muddy Creator" data-en="The Muddy Creator">泥だらけの創造主
-          </div>
-        </div>
-        <div class="schedule-item">
-          <div class="schedule-date">2026.06.22 MON</div>
-          <div class="schedule-ep">LOG #012</div>
-          <div class="schedule-ep-title" data-jp="欠陥品たちの朝 ── The Defective Nexus" data-en="The Defective Nexus">欠陥品たちの朝
-          </div>
-        </div>
+      <h2 class="section-title fade-in">CONNECT</h2>
+      <p class="connect-subtitle fade-in stagger-1" data-jp="Blackwood家の日常を、それぞれの視点から。"
+        data-en="The Blackwood family's daily life, from each perspective.">
+        Blackwood家の日常を、それぞれの視点から。
+      </p>
+      <div class="connect-grid fade-in stagger-2">
+
+        <a href="https://www.instagram.com/willa_black09/" target="_blank" rel="noopener noreferrer"
+          class="connect-card">
+          <span class="connect-emoji">🎸</span>
+          <span class="connect-name">Willa</span>
+          <span class="connect-platform">INSTAGRAM</span>
+          <span class="connect-handle">@willa_black09</span>
+        </a>
+
+        <a href="https://www.instagram.com/victoria_black09/" target="_blank" rel="noopener noreferrer"
+          class="connect-card">
+          <span class="connect-emoji">💄</span>
+          <span class="connect-name">Victoria</span>
+          <span class="connect-platform">INSTAGRAM</span>
+          <span class="connect-handle">@victoria_black09</span>
+        </a>
+
+        <a href="https://www.tiktok.com/@liam_black09" target="_blank" rel="noopener noreferrer" class="connect-card">
+          <span class="connect-emoji">🧊</span>
+          <span class="connect-name">Liam</span>
+          <span class="connect-platform">TIKTOK</span>
+          <span class="connect-handle">@liam_black09</span>
+        </a>
+
+        <a href="https://bsky.app/profile/edward-black09.bsky.social" target="_blank" rel="noopener noreferrer"
+          class="connect-card">
+          <span class="connect-emoji">🎧</span>
+          <span class="connect-name">Edward</span>
+          <span class="connect-platform">BLUESKY</span>
+          <span class="connect-handle">@edward-black09</span>
+        </a>
+
+        <a href="https://x.com/lina_sky09" target="_blank" rel="noopener noreferrer"
+          class="connect-card connect-card--lina">
+          <span class="connect-emoji">🩵</span>
+          <span class="connect-name">Lina Sky</span>
+          <span class="connect-platform">X</span>
+          <span class="connect-handle">@lina_sky09</span>
+        </a>
+
       </div>
     </div>
   </section>
@@ -476,39 +376,7 @@
   <!-- ═══ FOOTER ═══ -->
   <footer class="footer">
     <div class="container">
-      <div class="footer-sns fade-in">
-        <div class="footer-links">
-          <a href="https://linktr.ee/nexus0406" target="_blank" rel="noopener noreferrer">
-            <svg viewBox="0 0 24 24" fill="currentColor">
-              <path
-                d="M13.51 5.5c-.28.48-.56.97-.85 1.45-.1.18-.1.18.1.3.83.49 1.65.99 2.48 1.48.18.11.18.11.07.3-.36.63-.73 1.25-1.09 1.88-.1.18-.1.18-.29.07-.83-.5-1.67-1-2.5-1.5-.17-.1-.17-.1-.17.1v3.04c0 .22 0 .22-.22.22h-2.16c-.22 0-.22 0-.22-.22V9.58c0-.2 0-.2-.17-.1-.83.5-1.67 1-2.5 1.5-.19.11-.19.11-.29-.07-.36-.63-.73-1.25-1.09-1.88-.11-.19-.11-.19.07-.3.83-.49 1.65-.99 2.48-1.48.2-.12.2-.12.1-.3C6.94 6.47 6.66 5.98 6.38 5.5c-.12-.2-.12-.2.09-.3.7-.39 1.4-.78 2.1-1.17.2-.11.2-.11.31.08.25.44.5.88.75 1.32.14.24.14.24.28 0 .25-.44.5-.88.75-1.32.11-.19.11-.19.31-.08.7.39 1.4.78 2.1 1.17.21.1.21.1.09.3zM7.4 14.5h2.1v5.98H7.4V14.5zm7.1 0v5.98h-2.1V14.5h2.1z" />
-            </svg>
-            <span>Linktree</span>
-          </a>
-          <a href="https://note.com/nexus_records" target="_blank" rel="noopener noreferrer">
-            <svg viewBox="0 0 24 24" fill="currentColor">
-              <path
-                d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm-7 14H7v-2h5v2zm5-4H7v-2h10v2zm0-4H7V7h10v2z" />
-            </svg>
-            <span>note</span>
-          </a>
-          <a href="https://discord.gg/nexus-records" target="_blank" rel="noopener noreferrer" title="Discord">
-            <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-              <path
-                d="M20.317 4.37a19.79 19.79 0 0 0-4.885-1.515.074.074 0 0 0-.079.037c-.21.375-.444.864-.608 1.25a18.27 18.27 0 0 0-5.487 0 12.64 12.64 0 0 0-.617-1.25.077.077 0 0 0-.079-.037A19.74 19.74 0 0 0 3.677 4.37a.07.07 0 0 0-.032.027C.533 9.046-.32 13.58.099 18.057a.082.082 0 0 0 .031.057 19.9 19.9 0 0 0 5.993 3.03.078.078 0 0 0 .084-.028c.462-.63.874-1.295 1.226-1.994a.076.076 0 0 0-.041-.106 13.11 13.11 0 0 1-1.872-.892.077.077 0 0 1-.008-.128 10.2 10.2 0 0 0 .372-.292.074.074 0 0 1 .077-.01c3.928 1.793 8.18 1.793 12.062 0a.074.074 0 0 1 .078.01c.12.098.246.198.373.292a.077.077 0 0 1-.006.127 12.3 12.3 0 0 1-1.873.892.077.077 0 0 0-.041.107c.36.698.772 1.362 1.225 1.993a.076.076 0 0 0 .084.028 19.84 19.84 0 0 0 6.002-3.03.077.077 0 0 0 .032-.054c.5-5.177-.838-9.674-3.549-13.66a.061.061 0 0 0-.031-.03zM8.02 15.33c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.956-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.956 2.418-2.157 2.418zm7.975 0c-1.183 0-2.157-1.085-2.157-2.419 0-1.333.955-2.419 2.157-2.419 1.21 0 2.176 1.096 2.157 2.42 0 1.333-.946 2.418-2.157 2.418z" />
-            </svg>
-            <span>Discord</span>
-          </a>
-          <a href="https://space.bilibili.com/3706946127399543" target="_blank" rel="noopener noreferrer"
-            title="Bilibili">
-            <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24">
-              <path
-                d="M17.813 4.653h.854c1.51.054 2.769.578 3.773 1.574 1.004.995 1.524 2.249 1.56 3.76v7.36c-.036 1.51-.556 2.769-1.56 3.773s-2.262 1.524-3.773 1.56H5.333c-1.51-.036-2.769-.556-3.773-1.56S.036 18.858 0 17.347v-7.36c.036-1.511.556-2.765 1.56-3.76 1.004-.996 2.262-1.52 3.773-1.574h.774l-1.174-1.12a1.234 1.234 0 0 1-.373-.906c0-.356.124-.658.373-.907l.027-.027c.267-.249.573-.373.92-.373.347 0 .653.124.92.373L9.653 4.44c.071.071.134.142.187.213h4.267a.836.836 0 0 1 .16-.213l2.853-2.747c.267-.249.573-.373.92-.373.347 0 .662.151.929.4.267.249.391.551.391.907 0 .355-.124.657-.373.906L17.813 4.653zM5.333 7.24c-.746.018-1.373.276-1.88.773-.506.498-.769 1.13-.786 1.894v7.52c.017.764.28 1.395.786 1.893.507.498 1.134.756 1.88.773h13.334c.746-.017 1.373-.275 1.88-.773.506-.498.769-1.129.786-1.893v-7.52c-.017-.765-.28-1.396-.786-1.894-.507-.497-1.134-.755-1.88-.773H5.333zM8 11.107c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.25.56-.373.933-.373zm8 0c.373 0 .684.124.933.373.25.249.383.569.4.96v1.173c-.017.391-.15.711-.4.96-.249.25-.56.374-.933.374s-.684-.125-.933-.374c-.25-.249-.383-.569-.4-.96V12.44c.017-.391.15-.711.4-.96.249-.25.56-.373.933-.373z" />
-            </svg>
-            <span>Bilibili</span>
-          </a>
-        </div>
-      </div>
+
 
       <div class="footer-credit">
         <p>NEXUS ─ Records of Connection ─</p>
