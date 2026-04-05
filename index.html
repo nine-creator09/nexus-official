@@ -362,32 +362,84 @@
 
   <script src="script.js"></script>
   <script>
-    // AI News dynamic loader
+    // AI News dynamic loader with translation
+    const _aiTransCache = {};
+    let _aiArticles = [];
+
+    async function _aiTranslate(text, from, to) {
+      const k = `${from}|${to}|${text}`;
+      if (_aiTransCache[k]) return _aiTransCache[k];
+      try {
+        const u = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=${to}&dt=t&q=${encodeURIComponent(text)}`;
+        const r = await fetch(u, { signal: AbortSignal.timeout(6000) });
+        const d = await r.json();
+        const res = d[0].map(s => s[0]).join('');
+        _aiTransCache[k] = res;
+        return res;
+      } catch { return null; }
+    }
+
+    function _aiRenderNews() {
+      const list = document.getElementById('aiNewsList');
+      if (!_aiArticles.length) {
+        list.innerHTML = '<li class="news-item"><span class="news-date">—</span><div class="news-content"><h3>No articles</h3></div></li>';
+        return;
+      }
+      const lang = document.documentElement.getAttribute('data-lang') || 'ja';
+      list.innerHTML = _aiArticles.map(a => {
+        const d = new Date(a.date);
+        const dateStr = d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+        const hAgo = Math.floor((Date.now() - d.getTime()) / 3600000);
+        const ago = hAgo < 1 ? 'now' : hAgo < 24 ? hAgo + 'h' : Math.floor(hAgo / 24) + 'd';
+        const needsTrans = lang === 'ja' && a.articleLang !== 'ja';
+        return `<li class="news-item" onclick="window.open('${a.link}','_blank')" style="cursor:pointer"
+          ${needsTrans ? `data-ai-translate data-orig-title="${a.title.replace(/"/g, '&quot;')}" data-from="${a.articleLang}"` : ''}>
+          <span class="news-date">${dateStr}<br><small style="opacity:.5">${ago} ago</small></span>
+          <div class="news-content">
+            <span class="news-tag">${a.flag} ${a.source}</span>
+            <h3 class="ai-title">${a.title}</h3>
+            ${needsTrans ? '<p class="ai-trans" style="font-size:.72rem;color:rgba(200,149,108,.7);margin-top:4px;font-style:italic">翻訳中...</p>' : ''}
+          </div>
+        </li>`;
+      }).join('');
+
+      // Translate if Japanese mode
+      if (lang === 'ja') {
+        document.querySelectorAll('[data-ai-translate]').forEach(async el => {
+          const title = el.dataset.origTitle;
+          const from = el.dataset.from || 'en';
+          const transEl = el.querySelector('.ai-trans');
+          const result = await _aiTranslate(title, from, 'ja');
+          if (result && transEl) {
+            transEl.textContent = result;
+            transEl.style.fontStyle = 'normal';
+            transEl.style.color = 'rgba(200,149,108,.85)';
+          } else if (transEl) {
+            transEl.remove();
+          }
+        });
+      }
+    }
+
+    // Load articles
     (async function loadAINews() {
       try {
         const r = await fetch('ai_news_data.json?t=' + Date.now());
         const data = await r.json();
-        const articles = data.articles.slice(0, 5);
-        const list = document.getElementById('aiNewsList');
-        if (!articles.length) { list.innerHTML = '<li class="news-item"><span class="news-date">—</span><div class="news-content"><h3>No articles</h3></div></li>'; return; }
-        list.innerHTML = articles.map(a => {
-          const d = new Date(a.date);
-          const dateStr = d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
-          const hAgo = Math.floor((Date.now() - d.getTime()) / 3600000);
-          const ago = hAgo < 1 ? 'now' : hAgo < 24 ? hAgo + 'h' : Math.floor(hAgo / 24) + 'd';
-          return `<li class="news-item" onclick="window.open('${a.link}','_blank')" style="cursor:pointer">
-            <span class="news-date">${dateStr}<br><small style="opacity:.5">${ago} ago</small></span>
-            <div class="news-content">
-              <span class="news-tag">${a.flag} ${a.source}</span>
-              <h3>${a.title}</h3>
-            </div>
-          </li>`;
-        }).join('');
+        _aiArticles = data.articles.slice(0, 5);
+        _aiRenderNews();
       } catch (e) {
         const list = document.getElementById('aiNewsList');
         if (list) list.innerHTML = '<li class="news-item"><span class="news-date">⚠️</span><div class="news-content"><h3>Loading failed</h3></div></li>';
       }
     })();
+
+    // Hook into language toggle to re-render with/without translation
+    const _origApplyLang = window.applyLang;
+    window.applyLang = function (lang) {
+      _origApplyLang(lang);
+      if (_aiArticles.length) _aiRenderNews();
+    };
   </script>
 </body>
 
