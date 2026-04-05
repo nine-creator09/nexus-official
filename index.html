@@ -123,50 +123,23 @@
 
   <hr class="section-divider">
 
-  <!-- ═══ NEWS ═══ -->
+  <!-- ═══ AI NEWS ═══ -->
   <section class="news" id="news">
     <div class="container">
-      <h2 class="section-title fade-in">NEWS</h2>
-      <ul class="news-list fade-in stagger-1">
-        <li class="news-item">
-          <span class="news-date">2026-04-06</span>
+      <h2 class="section-title fade-in">AI NEWS</h2>
+      <p class="news-subtitle fade-in stagger-1" data-jp="世界中の最新AIニュースをリアルタイムで"
+        data-en="Real-time global AI news from 15+ sources">世界中の最新AIニュースをリアルタイムで</p>
+      <ul class="news-list fade-in stagger-1" id="aiNewsList">
+        <li class="news-item" style="opacity:.5;text-align:center"><span class="news-date">⏳</span>
           <div class="news-content">
-            <span class="news-tag">CHARACTER</span>
-            <h3 data-jp="リナ＝スカイ ビジュアル公開" data-en="Lina Sky Visual Debut">
-              リナ＝スカイ ビジュアル公開
-            </h3>
-          </div>
-        </li>
-
-        <li class="news-item">
-          <span class="news-date">2026-04-02</span>
-          <div class="news-content">
-            <span class="news-tag">MUSIC</span>
-            <h3 data-jp="テーマソング全6曲公開 ── NEXUS × AETHER TEMPLE"
-              data-en="All 6 Theme Songs Released — NEXUS × AETHER TEMPLE">
-              テーマソング全6曲公開 ── NEXUS × AETHER TEMPLE
-            </h3>
-          </div>
-        </li>
-
-        <li class="news-item">
-          <span class="news-date">2026-04-02</span>
-          <div class="news-content">
-            <span class="news-tag">CHARACTER</span>
-            <h3 data-jp="新キャラクター「聖リナ＝スカイ」公開" data-en="New Character Revealed: Saint Lina Sky">
-              新キャラクター「聖リナ＝スカイ」公開
-            </h3>
-          </div>
-        </li>
-
-        <li class="news-item">
-          <span class="news-date">2026-03-14</span>
-          <div class="news-content">
-            <span class="news-tag">RELEASE</span>
-            <h3 data-jp="公式サイトオープン" data-en="Official Website Launched">公式サイトオープン</h3>
+            <h3>Loading...</h3>
           </div>
         </li>
       </ul>
+      <div class="news-cta fade-in stagger-2">
+        <a href="ai_news.html" class="news-view-all" data-jp="すべてのAIニュースを見る →"
+          data-en="VIEW ALL AI NEWS →">すべてのAIニュースを見る →</a>
+      </div>
     </div>
   </section>
 
@@ -397,6 +370,34 @@
   </footer>
 
   <script src="script.js"></script>
+  <script>
+    // AI News dynamic loader
+    (async function loadAINews() {
+      try {
+        const r = await fetch('ai_news_data.json?t=' + Date.now());
+        const data = await r.json();
+        const articles = data.articles.slice(0, 5);
+        const list = document.getElementById('aiNewsList');
+        if (!articles.length) { list.innerHTML = '<li class="news-item"><span class="news-date">—</span><div class="news-content"><h3>No articles</h3></div></li>'; return; }
+        list.innerHTML = articles.map(a => {
+          const d = new Date(a.date);
+          const dateStr = d.toLocaleDateString('ja-JP', { year: 'numeric', month: '2-digit', day: '2-digit' });
+          const hAgo = Math.floor((Date.now() - d.getTime()) / 3600000);
+          const ago = hAgo < 1 ? 'now' : hAgo < 24 ? hAgo + 'h' : Math.floor(hAgo / 24) + 'd';
+          return `<li class="news-item" onclick="window.open('${a.link}','_blank')" style="cursor:pointer">
+            <span class="news-date">${dateStr}<br><small style="opacity:.5">${ago} ago</small></span>
+            <div class="news-content">
+              <span class="news-tag">${a.flag} ${a.source}</span>
+              <h3>${a.title}</h3>
+            </div>
+          </li>`;
+        }).join('');
+      } catch (e) {
+        const list = document.getElementById('aiNewsList');
+        if (list) list.innerHTML = '<li class="news-item"><span class="news-date">⚠️</span><div class="news-content"><h3>Loading failed</h3></div></li>';
+      }
+    })();
+  </script>
 </body>
 
 </html>
