@@ -1,0 +1,1277 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXUS AI NEWS — Global AI Intelligence</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/itc-benguiat" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #08090d;
+            --bg2: #0e1016;
+            --bg3: rgba(255, 255, 255, 0.025);
+            --bg-hover: rgba(200, 170, 110, 0.04);
+            --border: rgba(255, 255, 255, 0.05);
+            --border-hover: rgba(200, 170, 110, 0.2);
+            --text: #f0ede8;
+            --text2: #8a857e;
+            --text3: #4a4640;
+            --gold: #d4a853;
+            --gold-dim: rgba(212, 168, 83, 0.08);
+            --gold-glow: rgba(212, 168, 83, 0.15);
+            --blue: #5aadff;
+            --green: #4ade80;
+            --purple: #b39dff;
+            --red: #f87171;
+            --orange: #fb923c;
+            --cyan: #22d3ee;
+            --pink: #f472b6;
+            --r: 10px;
+            --hdr: rgba(8, 9, 13, 0.88);
+            --card-shadow: 0 1px 3px rgba(0, 0, 0, .3), 0 0 0 1px rgba(255, 255, 255, .02);
+            --card-hover-shadow: 0 4px 20px rgba(0, 0, 0, .4), 0 0 0 1px rgba(212, 168, 83, .08);
+        }
+
+        [data-theme="light"] {
+            --bg: #f8f7f4;
+            --bg2: #f0ede8;
+            --bg3: rgba(0, 0, 0, 0.015);
+            --bg-hover: rgba(160, 130, 70, 0.04);
+            --border: rgba(0, 0, 0, 0.06);
+            --border-hover: rgba(160, 130, 70, 0.2);
+            --text: #1a1815;
+            --text2: #6b6560;
+            --text3: #a09890;
+            --gold: #8b6d2f;
+            --gold-dim: rgba(139, 109, 47, 0.06);
+            --gold-glow: rgba(139, 109, 47, 0.1);
+            --hdr: rgba(248, 247, 244, 0.92);
+            --card-shadow: 0 1px 3px rgba(0, 0, 0, .04), 0 0 0 1px rgba(0, 0, 0, .03);
+            --card-hover-shadow: 0 4px 16px rgba(0, 0, 0, .08), 0 0 0 1px rgba(139, 109, 47, .1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            transition: background .5s ease, color .4s ease;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            background:
+                radial-gradient(ellipse at 10% -5%, rgba(212, 168, 83, .04) 0%, transparent 50%),
+                radial-gradient(ellipse at 90% 100%, rgba(90, 173, 255, .015) 0%, transparent 50%),
+                radial-gradient(ellipse at 50% 50%, rgba(179, 157, 255, .01) 0%, transparent 60%)
+        }
+
+        [data-theme="light"] body::before {
+            opacity: 0
+        }
+
+        /* Header */
+        .hdr {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: var(--hdr);
+            backdrop-filter: blur(30px) saturate(1.2);
+            -webkit-backdrop-filter: blur(30px) saturate(1.2);
+            border-bottom: 1px solid var(--border);
+            padding: 0 32px;
+            height: 54px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between
+        }
+
+        .hdr::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212, 168, 83, .15), transparent);
+            pointer-events: none
+        }
+
+        .hdr-l {
+            display: flex;
+            align-items: center;
+            gap: 16px
+        }
+
+        .logo {
+            font-family: 'ITC Benguiat', 'Outfit', serif;
+            font-size: .88rem;
+            letter-spacing: .3em;
+            color: var(--gold);
+            font-weight: 700;
+            text-shadow: 0 0 30px rgba(212, 168, 83, .15)
+        }
+
+        .logo-sub {
+            font-size: .48rem;
+            color: var(--text3);
+            letter-spacing: .15em;
+            text-transform: uppercase
+        }
+
+        .hdr-r {
+            display: flex;
+            align-items: center;
+            gap: 10px
+        }
+
+        .lang-wrap {
+            position: relative
+        }
+
+        .lang-sel {
+            appearance: none;
+            background: var(--gold-dim);
+            border: 1px solid rgba(200, 170, 110, .2);
+            border-radius: 6px;
+            color: var(--gold);
+            padding: 4px 24px 4px 8px;
+            font-size: .6rem;
+            font-weight: 600;
+            font-family: 'Inter', sans-serif;
+            cursor: pointer;
+            outline: none;
+            transition: all .25s
+        }
+
+        .lang-sel:hover {
+            border-color: var(--gold)
+        }
+
+        .lang-sel option {
+            background: #1a1d25;
+            color: #eae7e2
+        }
+
+        [data-theme="light"] .lang-sel option {
+            background: #fff;
+            color: #1a1a1a
+        }
+
+        .lang-arr {
+            position: absolute;
+            right: 7px;
+            top: 50%;
+            transform: translateY(-50%);
+            pointer-events: none;
+            color: var(--gold);
+            font-size: .48rem
+        }
+
+        .ibtn {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text3);
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: .75rem;
+            transition: all .25s
+        }
+
+        .ibtn:hover {
+            border-color: var(--gold);
+            color: var(--gold)
+        }
+
+        .ldot {
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            background: var(--green);
+            animation: pulse 2s infinite
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: .3
+            }
+        }
+
+        .stxt {
+            font-size: .56rem;
+            color: var(--text3);
+            font-family: 'JetBrains Mono', monospace
+        }
+
+        .rbtn {
+            background: var(--gold-dim);
+            border: 1px solid rgba(200, 170, 110, .15);
+            color: var(--gold);
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: .58rem;
+            letter-spacing: .06em;
+            cursor: pointer;
+            transition: all .25s;
+            font-family: 'Inter', sans-serif;
+            font-weight: 600
+        }
+
+        .rbtn:hover {
+            background: rgba(200, 170, 110, .22)
+        }
+
+        .rbtn.loading {
+            opacity: .3;
+            pointer-events: none
+        }
+
+        /* Trend */
+        .trend {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 28px;
+            border-bottom: 1px solid var(--border);
+            overflow-x: auto;
+            white-space: nowrap;
+            background: var(--bg2)
+        }
+
+        .trend::-webkit-scrollbar {
+            display: none
+        }
+
+        .trend-lbl {
+            font-size: .56rem;
+            color: var(--text3);
+            font-weight: 600;
+            letter-spacing: .1em;
+            flex-shrink: 0
+        }
+
+        .trend-tag {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            padding: 3px 10px;
+            border-radius: 12px;
+            font-size: .58rem;
+            font-weight: 500;
+            background: rgba(167, 139, 250, .08);
+            color: var(--purple);
+            border: 1px solid rgba(167, 139, 250, .15);
+            cursor: pointer;
+            transition: all .2s;
+            flex-shrink: 0
+        }
+
+        .trend-tag:hover {
+            background: rgba(167, 139, 250, .18);
+            border-color: var(--purple)
+        }
+
+        .trend-cnt {
+            font-size: .5rem;
+            font-family: 'JetBrains Mono', monospace;
+            opacity: .7;
+            background: rgba(167, 139, 250, .15);
+            padding: 1px 5px;
+            border-radius: 8px
+        }
+
+        /* Source Status */
+        .ssbar {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 6px 28px;
+            border-bottom: 1px solid var(--border);
+            overflow-x: auto;
+            white-space: nowrap;
+            background: var(--bg2)
+        }
+
+        .ssbar::-webkit-scrollbar {
+            display: none
+        }
+
+        .ss-lbl {
+            font-size: .52rem;
+            color: var(--text3);
+            font-weight: 600;
+            letter-spacing: .08em;
+            flex-shrink: 0
+        }
+
+        .ss-i {
+            display: inline-flex;
+            align-items: center;
+            gap: 3px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            font-size: .52rem;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            cursor: pointer;
+            transition: all .2s;
+            flex-shrink: 0
+        }
+
+        .ss-i:hover {
+            border-color: var(--text2)
+        }
+
+        .ss-i.active {
+            background: var(--gold-dim);
+            border-color: rgba(200, 170, 110, .3);
+            color: var(--gold)
+        }
+
+        .ss-d {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%
+        }
+
+        .ss-d.ok {
+            background: var(--green)
+        }
+
+        .ss-d.fail {
+            background: var(--red)
+        }
+
+        /* Toolbar */
+        .tb {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 8px 28px;
+            border-bottom: 1px solid var(--border);
+            flex-wrap: wrap
+        }
+
+        .sb {
+            position: relative;
+            flex: 0 0 220px
+        }
+
+        .si {
+            width: 100%;
+            padding: 6px 10px 6px 30px;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text);
+            font-size: .7rem;
+            font-family: 'Inter', sans-serif;
+            outline: none;
+            transition: border .25s
+        }
+
+        .si::placeholder {
+            color: var(--text3)
+        }
+
+        .si:focus {
+            border-color: var(--gold)
+        }
+
+        .si-icon {
+            position: absolute;
+            left: 9px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text3);
+            font-size: .68rem;
+            pointer-events: none
+        }
+
+        .tb-btn {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text3);
+            padding: 4px 10px;
+            border-radius: 16px;
+            font-size: .56rem;
+            cursor: pointer;
+            transition: all .25s;
+            font-family: 'Inter', sans-serif;
+            display: flex;
+            align-items: center;
+            gap: 4px
+        }
+
+        .tb-btn:hover {
+            border-color: var(--gold);
+            color: var(--gold)
+        }
+
+        .tb-btn.active {
+            background: var(--gold-dim);
+            border-color: rgba(200, 170, 110, .3);
+            color: var(--gold)
+        }
+
+        .stats {
+            display: flex;
+            gap: 5px;
+            margin-left: auto
+        }
+
+        .pill {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            padding: 4px 10px;
+            border-radius: 16px;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            font-size: .56rem;
+            color: var(--text2)
+        }
+
+        .pill strong {
+            color: var(--gold);
+            font-family: 'JetBrains Mono', monospace;
+            font-size: .66rem;
+            font-weight: 700
+        }
+
+        /* Main */
+        .main {
+            position: relative;
+            z-index: 1;
+            max-width: 1280px;
+            margin: 0 auto;
+            padding: 20px 32px 60px
+        }
+
+        .tg {
+            margin-bottom: 24px
+        }
+
+        .tg-lbl {
+            font-size: .6rem;
+            font-weight: 600;
+            color: var(--text3);
+            letter-spacing: .12em;
+            text-transform: uppercase;
+            padding: 0 0 8px 4px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 8px;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }
+
+        .tg-dot {
+            width: 5px;
+            height: 5px;
+            border-radius: 50%
+        }
+
+        .tg-dot.live {
+            background: var(--green)
+        }
+
+        .tg-dot.recent {
+            background: var(--blue)
+        }
+
+        .tg-dot.old {
+            background: var(--text3)
+        }
+
+        /* Card */
+        .ng {
+            display: flex;
+            flex-direction: column;
+            gap: 4px
+        }
+
+        .nc {
+            display: grid;
+            grid-template-columns: 52px 1fr 60px;
+            gap: 12px;
+            padding: 12px 14px;
+            border-radius: var(--r);
+            transition: all .3s cubic-bezier(.4, 0, .2, 1);
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            border: 1px solid transparent;
+            box-shadow: var(--card-shadow)
+        }
+
+        .nc:hover {
+            background: var(--bg-hover);
+            border-color: var(--border-hover);
+            box-shadow: var(--card-hover-shadow);
+            transform: translateY(-1px)
+        }
+
+        .nc:hover .nc-t {
+            color: var(--gold)
+        }
+
+        .nc.read {
+            opacity: .45
+        }
+
+        .nc.read:hover {
+            opacity: .75
+        }
+
+        /* Compact mode */
+        .compact .nc {
+            grid-template-columns: 52px 1fr 60px;
+            padding: 5px 12px
+        }
+
+        .compact .nc-sum,
+        .compact .nc-tr.sum {
+            display: none !important
+        }
+
+        .nc-tc {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-end;
+            padding-top: 1px;
+            gap: 3px
+        }
+
+        .nc-ago {
+            font-size: .6rem;
+            color: var(--text3);
+            font-family: 'JetBrains Mono', monospace;
+            font-weight: 500;
+            white-space: nowrap
+        }
+
+        .nc-fl {
+            font-size: .75rem
+        }
+
+        .nc-b {
+            min-width: 0
+        }
+
+        .nc-t {
+            font-size: .84rem;
+            font-weight: 500;
+            line-height: 1.5;
+            margin-bottom: 4px;
+            transition: color .25s ease;
+            letter-spacing: -.005em
+        }
+
+        .nc-tr {
+            font-size: .72rem;
+            color: var(--gold);
+            opacity: .85;
+            line-height: 1.45;
+            margin-bottom: 4px;
+            padding-left: 8px;
+            border-left: 2px solid rgba(200, 170, 110, .25)
+        }
+
+        .nc-tr.loading {
+            color: var(--text3);
+            font-style: italic;
+            font-size: .62rem
+        }
+
+        .nc-sum {
+            font-size: .68rem;
+            color: var(--text2);
+            line-height: 1.55;
+            margin-bottom: 6px;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden
+        }
+
+        .nc-m {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap
+        }
+
+        .nc-acts {
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 8px;
+            padding-top: 4px
+        }
+
+        .nc-src {
+            font-size: .52rem;
+            padding: 1px 7px;
+            border-radius: 4px;
+            font-weight: 600;
+            letter-spacing: .03em
+        }
+
+        .nc-dt {
+            font-size: .52rem;
+            color: var(--text3);
+            font-family: 'JetBrains Mono', monospace
+        }
+
+        /* Actions col */
+        .act-btn {
+            font-size: .85rem;
+            cursor: pointer;
+            opacity: .12;
+            transition: all .25s cubic-bezier(.4, 0, .2, 1);
+            user-select: none;
+            background: none;
+            border: none;
+            color: inherit;
+            padding: 2px;
+            line-height: 1
+        }
+
+        .act-btn:hover {
+            opacity: .7;
+            transform: scale(1.15)
+        }
+
+        .act-btn.saved {
+            opacity: 1;
+            color: #fbbf24
+        }
+
+        .nc:hover .act-btn {
+            opacity: .4
+        }
+
+        .nc:hover .act-btn.saved {
+            opacity: 1
+        }
+
+        .act-btn.copy-ok {
+            opacity: 1;
+            color: var(--green);
+            transform: scale(1.4);
+            filter: drop-shadow(0 0 6px rgba(74, 222, 128, .6))
+        }
+
+        /* Source colors */
+        .src-verge {
+            background: rgba(74, 158, 255, .1);
+            color: var(--blue)
+        }
+
+        .src-techcrunch {
+            background: rgba(74, 222, 128, .1);
+            color: var(--green)
+        }
+
+        .src-mit {
+            background: rgba(167, 139, 250, .1);
+            color: var(--purple)
+        }
+
+        .src-ars {
+            background: rgba(248, 113, 113, .1);
+            color: var(--red)
+        }
+
+        .src-venturebeat {
+            background: rgba(251, 146, 60, .1);
+            color: var(--orange)
+        }
+
+        .src-wired {
+            background: rgba(34, 211, 238, .1);
+            color: var(--cyan)
+        }
+
+        .src-itmedia {
+            background: rgba(244, 114, 182, .1);
+            color: var(--pink)
+        }
+
+        .src-bbc {
+            background: rgba(220, 50, 50, .1);
+            color: #e85555
+        }
+
+        .src-guardian {
+            background: rgba(0, 120, 200, .1);
+            color: #3da5f4
+        }
+
+        .src-france24 {
+            background: rgba(30, 100, 210, .1);
+            color: #5b9cf5
+        }
+
+        .src-dw {
+            background: rgba(100, 180, 255, .1);
+            color: #6dc0ff
+        }
+
+        .src-koreaherald {
+            background: rgba(200, 60, 60, .1);
+            color: #d66
+        }
+
+        .src-scmp {
+            background: rgba(255, 180, 0, .1);
+            color: #f5b800
+        }
+
+        .src-reuters {
+            background: rgba(255, 120, 0, .1);
+            color: #ff8533
+        }
+
+        .src-economictimes {
+            background: rgba(0, 150, 100, .1);
+            color: #33c78f
+        }
+
+        /* Toast */
+        .toast {
+            position: fixed;
+            bottom: 40px;
+            left: 50%;
+            transform: translateX(-50%) translateY(20px);
+            background: linear-gradient(135deg, #4ade80, #22c55e);
+            color: #fff;
+            padding: 14px 32px;
+            border-radius: 12px;
+            font-size: .85rem;
+            font-weight: 700;
+            z-index: 200;
+            opacity: 0;
+            transition: all .35s cubic-bezier(.4, 0, .2, 1);
+            pointer-events: none;
+            box-shadow: 0 8px 32px rgba(74, 222, 128, .35);
+            letter-spacing: .04em
+        }
+
+        .toast.show {
+            opacity: 1;
+            transform: translateX(-50%) translateY(0)
+        }
+
+        @keyframes cardFlash {
+            0% {
+                box-shadow: inset 0 0 0 2px rgba(74, 222, 128, .7)
+            }
+
+            100% {
+                box-shadow: inset 0 0 0 2px transparent
+            }
+        }
+
+        .nc.flash {
+            animation: cardFlash .8s ease-out;
+        }
+
+        /* Hero Banner */
+        .hero {
+            position: relative;
+            width: 100%;
+            height: 200px;
+            overflow: hidden;
+            margin-bottom: 0
+        }
+
+        .hero-img {
+            position: absolute;
+            inset: 0;
+            background: url('hero_global_network.png') center/cover no-repeat;
+            filter: brightness(.7) saturate(1.2)
+        }
+
+        .hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(180deg, rgba(11, 13, 17, .3) 0%, rgba(11, 13, 17, .85) 85%, var(--bg) 100%)
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 2;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            text-align: center;
+            gap: 6px
+        }
+
+        .hero-icon {
+            font-size: 1.8rem;
+            filter: drop-shadow(0 0 12px rgba(212, 168, 83, .5));
+            animation: heroPulse 3s ease-in-out infinite
+        }
+
+        @keyframes heroPulse {
+
+            0%,
+            100% {
+                transform: scale(1);
+                opacity: .9
+            }
+
+            50% {
+                transform: scale(1.15);
+                opacity: 1
+            }
+        }
+
+        .hero-title {
+            font-family: 'ITC Benguiat', 'Outfit', serif;
+            font-size: 2.4rem;
+            font-weight: 700;
+            letter-spacing: .18em;
+            background: linear-gradient(135deg, #e8c66a, #f5e0a0, #d4a853, #f5d89a);
+            background-size: 200% 200%;
+            animation: goldShimmer 4s ease-in-out infinite;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin: 0;
+            text-shadow: none;
+            line-height: 1.1;
+            filter: drop-shadow(0 2px 8px rgba(212, 168, 83, .2))
+        }
+
+        @keyframes goldShimmer {
+
+            0%,
+            100% {
+                background-position: 0% 50%
+            }
+
+            50% {
+                background-position: 100% 50%
+            }
+        }
+
+        .hero-sub {
+            font-family: 'Outfit', 'Inter', sans-serif;
+            font-size: .76rem;
+            color: rgba(255, 255, 255, .6);
+            font-weight: 300;
+            margin: 2px 0 0;
+            letter-spacing: .12em
+        }
+
+        .hero-stats {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 4px;
+            font-size: .6rem;
+            color: rgba(255, 255, 255, .5)
+        }
+
+        .hero-stat {
+            letter-spacing: .04em
+        }
+
+        .hero-divider {
+            opacity: .3
+        }
+
+        [data-theme="light"] .hero-img {
+            filter: brightness(.85) saturate(1.1)
+        }
+
+        [data-theme="light"] .hero-overlay {
+            background: linear-gradient(180deg, rgba(248, 247, 244, .2) 0%, rgba(248, 247, 244, .8) 80%, var(--bg) 100%)
+        }
+
+        [data-theme="light"] .hero-sub {
+            color: rgba(60, 50, 40, .7)
+        }
+
+        [data-theme="light"] .hero-stats {
+            color: rgba(60, 50, 40, .5)
+        }
+
+        /* Loading/Empty */
+        .ld {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 80px 0;
+            gap: 14px
+        }
+
+        .ld-spin {
+            width: 24px;
+            height: 24px;
+            border: 2px solid var(--border);
+            border-top-color: var(--gold);
+            border-radius: 50%;
+            animation: spin .8s linear infinite
+        }
+
+        @keyframes spin {
+            to {
+                transform: rotate(360deg)
+            }
+        }
+
+        .ld-txt {
+            font-size: .62rem;
+            color: var(--text3);
+            letter-spacing: .08em
+        }
+
+        .empty {
+            text-align: center;
+            padding: 60px 0;
+            color: var(--text3)
+        }
+
+        .empty-ico {
+            font-size: 1.8rem;
+            margin-bottom: 10px
+        }
+
+        .footer {
+            text-align: center;
+            padding: 24px 32px;
+            color: var(--text3);
+            font-size: .48rem;
+            letter-spacing: .15em;
+            text-transform: uppercase;
+            border-top: 1px solid var(--border);
+            position: relative
+        }
+
+        .footer::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212, 168, 83, .1), transparent)
+        }
+
+        @media(max-width:768px) {
+            .hdr {
+                padding: 0 14px;
+                height: 48px
+            }
+
+            .tb,
+            .trend,
+            .ssbar {
+                padding-left: 14px;
+                padding-right: 14px
+            }
+
+            .sb {
+                flex: 1 1 100%
+            }
+
+            .stats {
+                margin-left: 0
+            }
+
+            .main {
+                padding: 12px 14px 40px
+            }
+
+            .stxt {
+                display: none
+            }
+
+            .nc {
+                grid-template-columns: 40px 1fr 50px;
+                gap: 8px;
+                padding: 8px
+            }
+
+            .nc-t {
+                font-size: .76rem
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <header class="hdr">
+        <div class="hdr-l">
+            <div>
+                <div class="logo">NEXUS AI NEWS</div>
+                <div class="logo-sub" data-i18n="logoSub">Global AI Intelligence</div>
+            </div>
+        </div>
+        <div class="hdr-r">
+            <div class="lang-wrap">
+                <select class="lang-sel" id="langSelect" onchange="setLang(this.value)">
+                    <option value="ja">🇯🇵 日本語</option>
+                    <option value="en">🇺🇸 English</option>
+                    <option value="zh">🇨🇳 中文</option>
+                    <option value="ko">🇰🇷 한국어</option>
+                    <option value="fr">🇫🇷 Français</option>
+                    <option value="de">🇩🇪 Deutsch</option>
+                    <option value="es">🇪🇸 Español</option>
+                    <option value="hi">🇮🇳 हिन्दी</option>
+                </select><span class="lang-arr">▼</span>
+            </div>
+            <button class="ibtn" id="themeBtn" onclick="toggleTheme()" title="テーマ切替">🌙</button>
+            <div class="ldot"></div>
+            <span class="stxt" id="lastUpdate"></span>
+            <button class="rbtn" id="refreshBtn" onclick="refreshAll()" data-i18n="refresh">更新</button>
+        </div>
+    </header>
+
+    <!-- Hero Banner -->
+    <div class="hero">
+        <div class="hero-img"></div>
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <div class="hero-icon">🌐</div>
+            <h1 class="hero-title">NEXUS AI NEWS</h1>
+            <p class="hero-sub" data-i18n="heroSub">世界中のAIニュースをリアルタイムに</p>
+            <div class="hero-stats">
+                <span class="hero-stat">🇺🇸🇬🇧🇯🇵🇫🇷🇩🇪🇰🇷🇨🇳🇮🇳</span>
+                <span class="hero-divider">|</span>
+                <span class="hero-stat" data-i18n="heroSources">15ソース</span>
+                <span class="hero-divider">|</span>
+                <span class="hero-stat" data-i18n="heroLangs">8言語対応</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="trend" id="trendBar"><span class="trend-lbl">🔥 TREND</span></div>
+    <div class="ssbar" id="sourceStatus"><span class="ss-lbl">📡 SOURCES</span></div>
+    <div class="tb">
+        <div class="sb"><span class="si-icon">🔍</span><input class="si" type="text" id="searchInput"
+                data-i18n-ph="search" placeholder="記事を検索..." oninput="applyFilters()"></div>
+        <button class="tb-btn" id="bmToggle" onclick="toggleBMView()">⭐ <span data-i18n="bookmarks">ブックマーク</span> <span
+                id="bmCount">0</span></button>
+        <button class="tb-btn" id="compactToggle" onclick="toggleCompact()">📋 <span
+                data-i18n="compact">一覧モード</span></button>
+        <div class="stats">
+            <div class="pill"><strong id="totalCount">--</strong> <span data-i18n="articles">記事</span></div>
+            <div class="pill"><strong id="sourceCount">--</strong> <span data-i18n="sources">ソース</span></div>
+            <div class="pill"><strong id="freshCount">--</strong> <span data-i18n="recent6h">6h以内</span></div>
+        </div>
+    </div>
+    <main class="main" id="newsFeed">
+        <div class="ld">
+            <div class="ld-spin"></div>
+            <div class="ld-txt" data-i18n="loading">データ読み込み中...</div>
+        </div>
+    </main>
+    <div class="toast" id="toast"></div>
+    <footer class="footer" data-i18n="footer">NEXUS AI NEWS — Powered by NEXUS</footer>
+
+    <script>
+        // ━━━ State ━━━
+        let currentLang = "ja", allArticles = [], activeFilter = "all", showBM = false, compactMode = false, previousCount = 0;
+        const bookmarks = JSON.parse(localStorage.getItem('nxBM') || '{}');
+        const savedArticles = JSON.parse(localStorage.getItem('nxBMData') || '{}');
+        const readItems = JSON.parse(localStorage.getItem('nxRead') || '{}');
+        let sourceResults = {};
+        const FEEDS_META = [
+            { name: "The Verge", key: "verge", flag: "🇺🇸" }, { name: "TechCrunch", key: "techcrunch", flag: "🇺🇸" },
+            { name: "MIT Tech Review", key: "mit", flag: "🇺🇸" }, { name: "Ars Technica", key: "ars", flag: "🇺🇸" },
+            { name: "VentureBeat", key: "venturebeat", flag: "🇺🇸" }, { name: "Wired", key: "wired", flag: "🇺🇸" },
+            { name: "ITmedia AI+", key: "itmedia", flag: "🇯🇵" }, { name: "BBC Technology", key: "bbc", flag: "🇬🇧" },
+            { name: "The Guardian AI", key: "guardian", flag: "🇬🇧" }, { name: "France24 Tech", key: "france24", flag: "🇫🇷" },
+            { name: "DW Tech", key: "dw", flag: "🇩🇪" }, { name: "Korea Herald Tech", key: "koreaherald", flag: "🇰🇷" },
+            { name: "SCMP", key: "scmp", flag: "🇨🇳" }, { name: "Reuters", key: "reuters", flag: "🌐" },
+            { name: "Economic Times", key: "economictimes", flag: "🇮🇳" },
+        ];
+
+        // ━━━ i18n ━━━
+        const I18N = {
+            ja: { refresh: '更新', search: '記事を検索...', bookmarks: 'ブックマーク', compact: '一覧モード', articles: '記事', sources: 'ソース', recent6h: '6h以内', loading: 'データ読み込み中...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: '今日', yesterday: '昨日', thisWeek: '今週', older: 'それ以前', noArticles: '記事が見つかりません', translating: '翻訳中...', copied: '✅ コピー完了！', copyFail: '⚠ コピーに失敗しました', now: '今', minAgo: '{n}分前', hourAgo: '{n}時間前', dayAgo: '{n}日前', dataAt: '最終更新: {t}', noData: 'データを取得できませんでした', runScript: 'しばらくしてから再度お試しください', heroSub: '世界中のAIニュースをリアルタイムに', heroSources: '15ソース', heroLangs: '8言語対応', logoSub: 'グローバルAIインテリジェンス' },
+            en: { refresh: 'Refresh', search: 'Search articles...', bookmarks: 'Bookmarks', compact: 'List Mode', articles: 'articles', sources: 'sources', recent6h: '< 6h', loading: 'Loading data...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: 'Today', yesterday: 'Yesterday', thisWeek: 'This Week', older: 'Older', noArticles: 'No articles found', translating: 'Translating...', copied: '✅ Copied!', copyFail: '⚠ Copy failed', now: 'now', minAgo: '{n}m ago', hourAgo: '{n}h ago', dayAgo: '{n}d ago', dataAt: 'Updated: {t}', noData: 'Unable to fetch data', runScript: 'Please try again later', heroSub: 'Global AI News in Real-Time', heroSources: '15 Sources', heroLangs: '8 Languages', logoSub: 'Global AI Intelligence' },
+            zh: { refresh: '刷新', search: '搜索文章...', bookmarks: '书签', compact: '列表模式', articles: '篇文章', sources: '来源', recent6h: '6h内', loading: '正在加载...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: '今天', yesterday: '昨天', thisWeek: '本周', older: '更早', noArticles: '未找到文章', translating: '翻译中...', copied: '✅ 已复制！', copyFail: '⚠ 复制失败', now: '刚刚', minAgo: '{n}分钟前', hourAgo: '{n}小时前', dayAgo: '{n}天前', dataAt: '更新: {t}', noData: '无法获取数据', runScript: '请稍后再试', heroSub: '全球AI新闻实时监控', heroSources: '15个来源', heroLangs: '8种语言', logoSub: '全球AI情报' },
+            ko: { refresh: '새로고침', search: '기사 검색...', bookmarks: '북마크', compact: '목록 모드', articles: '기사', sources: '소스', recent6h: '6h 이내', loading: '데이터 로드 중...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: '오늘', yesterday: '어제', thisWeek: '이번 주', older: '이전', noArticles: '기사를 찾을 수 없습니다', translating: '번역 중...', copied: '✅ 복사 완료!', copyFail: '⚠ 복사 실패', now: '방금', minAgo: '{n}분 전', hourAgo: '{n}시간 전', dayAgo: '{n}일 전', dataAt: '업데이트: {t}', noData: '데이터를 가져올 수 없습니다', runScript: '잠시 후 다시 시도해주세요', heroSub: '글로벌 AI 뉴스 실시간 모니터링', heroSources: '15개 소스', heroLangs: '8개 언어', logoSub: '글로벌 AI 인텔리전스' },
+            fr: { refresh: 'Actualiser', search: 'Rechercher...', bookmarks: 'Favoris', compact: 'Mode liste', articles: 'articles', sources: 'sources', recent6h: '< 6h', loading: 'Chargement...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: "Aujourd'hui", yesterday: 'Hier', thisWeek: 'Cette semaine', older: 'Plus ancien', noArticles: 'Aucun article', translating: 'Traduction...', copied: '✅ Copié !', copyFail: '⚠ Échec de la copie', now: 'maintenant', minAgo: 'il y a {n}min', hourAgo: 'il y a {n}h', dayAgo: 'il y a {n}j', dataAt: 'Mis à jour: {t}', noData: 'Impossible de récupérer les données', runScript: 'Veuillez réessayer plus tard', heroSub: 'Actualités IA mondiales en temps réel', heroSources: '15 sources', heroLangs: '8 langues', logoSub: 'Intelligence IA Mondiale' },
+            de: { refresh: 'Aktualisieren', search: 'Artikel suchen...', bookmarks: 'Lesezeichen', compact: 'Listenmodus', articles: 'Artikel', sources: 'Quellen', recent6h: '< 6h', loading: 'Lade Daten...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: 'Heute', yesterday: 'Gestern', thisWeek: 'Diese Woche', older: 'Älter', noArticles: 'Keine Artikel gefunden', translating: 'Übersetze...', copied: '✅ Kopiert!', copyFail: '⚠ Kopieren fehlgeschlagen', now: 'jetzt', minAgo: 'vor {n}min', hourAgo: 'vor {n}h', dayAgo: 'vor {n}T', dataAt: 'Aktualisiert: {t}', noData: 'Daten konnten nicht abgerufen werden', runScript: 'Bitte versuchen Sie es später erneut', heroSub: 'Globale KI-Nachrichten in Echtzeit', heroSources: '15 Quellen', heroLangs: '8 Sprachen', logoSub: 'Globale KI-Intelligenz' },
+            es: { refresh: 'Actualizar', search: 'Buscar artículos...', bookmarks: 'Marcadores', compact: 'Modo lista', articles: 'artículos', sources: 'fuentes', recent6h: '< 6h', loading: 'Cargando...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: 'Hoy', yesterday: 'Ayer', thisWeek: 'Esta semana', older: 'Anteriores', noArticles: 'No se encontraron artículos', translating: 'Traduciendo...', copied: '✅ ¡Copiado!', copyFail: '⚠ Error al copiar', now: 'ahora', minAgo: 'hace {n}min', hourAgo: 'hace {n}h', dayAgo: 'hace {n}d', dataAt: 'Actualizado: {t}', noData: 'No se pudieron obtener los datos', runScript: 'Inténtelo de nuevo más tarde', heroSub: 'Noticias de IA globales en tiempo real', heroSources: '15 fuentes', heroLangs: '8 idiomas', logoSub: 'Inteligencia IA Global' },
+            hi: { refresh: 'रीफ़्रेश', search: 'लेख खोजें...', bookmarks: 'बुकमार्क', compact: 'सूची मोड', articles: 'लेख', sources: 'स्रोत', recent6h: '< 6h', loading: 'लोड हो रहा है...', footer: 'NEXUS AI NEWS — Powered by NEXUS', today: 'आज', yesterday: 'कल', thisWeek: 'इस सप्ताह', older: 'पुराने', noArticles: 'कोई लेख नहीं मिला', translating: 'अनुवाद हो रहा है...', copied: '✅ कॉपी हो गया!', copyFail: '⚠ कॉपी विफल', now: 'अभी', minAgo: '{n} मिनट पहले', hourAgo: '{n} घंटे पहले', dayAgo: '{n} दिन पहले', dataAt: 'अपडेट: {t}', noData: 'डेटा प्राप्त नहीं हो सका', runScript: 'कृपया बाद में पुनः प्रयास करें', heroSub: 'वैश्विक AI समाचार रियल-टाइम', heroSources: '15 स्रोत', heroLangs: '8 भाषाएं', logoSub: 'वैश्विक AI इंटेलिजेंस' },
+        };
+        function t(key) { return (I18N[currentLang] || I18N.ja)[key] || (I18N.ja)[key] || key }
+        function updateUILang() {
+            document.querySelectorAll('[data-i18n]').forEach(el => { el.textContent = t(el.dataset.i18n) });
+            document.querySelectorAll('[data-i18n-ph]').forEach(el => { el.placeholder = t(el.dataset.i18nPh) });
+        }
+
+        // ━━━ Theme ━━━
+        function toggleTheme() { const d = document.documentElement; const l = d.getAttribute('data-theme') === 'light'; d.setAttribute('data-theme', l ? '' : 'light'); document.getElementById('themeBtn').textContent = l ? '🌙' : '☀️'; localStorage.setItem('nxTheme', l ? 'dark' : 'light') }
+        (function () { const st = localStorage.getItem('nxTheme'); if (st === 'light') { document.documentElement.setAttribute('data-theme', 'light'); document.addEventListener('DOMContentLoaded', () => { document.getElementById('themeBtn').textContent = '☀️' }) } })();
+
+        // ━━━ Translation ━━━
+        const transCache = {};
+        async function translateText(text, from, to) { const k = `${from}|${to}|${text}`; if (transCache[k]) return transCache[k]; try { const u = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=${to}&dt=t&q=${encodeURIComponent(text)}`; const r = await fetch(u, { signal: AbortSignal.timeout(8000) }); const d = await r.json(); const res = d[0].map(s => s[0]).join(''); transCache[k] = res; return res } catch { return null } }
+        async function translateArticles() { const cards = document.querySelectorAll('[data-needs-trans]'); const p = []; cards.forEach(c => { const ti = c.dataset.origTitle, s = c.dataset.origSummary, f = c.dataset.transFrom, to = c.dataset.transTo; const te = c.querySelector('.tr-t'), se = c.querySelector('.tr-s'); if (te) p.push(translateText(ti, f, to).then(r => { if (r) te.textContent = r; else te.remove(); te.classList.remove('loading') })); if (se && s) p.push(translateText(s, f, to).then(r => { if (r) se.textContent = r; else se.remove(); se.classList.remove('loading') })) }); await Promise.allSettled(p) }
+
+        // ━━━ Language ━━━
+        function setLang(l) { currentLang = l; document.getElementById('langSelect').value = l; updateUILang(); applyFilters() }
+
+        // ━━━ Toast ━━━
+        function showToast(msg) { const el = document.getElementById('toast'); el.textContent = msg; el.classList.add('show'); setTimeout(() => el.classList.remove('show'), 2000) }
+
+        // ━━━ Copy for SNS ━━━
+        function copyForSNS(id, btn) {
+            const a = allArticles.find(x => x.id === id) || Object.values(savedArticles).find(x => x.id === id);
+            if (!a) return;
+            const text = `${a.title}\n\n${a.summary ? a.summary + '\n\n' : ''}${a.link}`;
+            const doCopy = navigator.clipboard ? navigator.clipboard.writeText(text) : new Promise((res, rej) => { try { const ta = document.createElement('textarea'); ta.value = text; ta.style.cssText = 'position:fixed;opacity:0'; document.body.appendChild(ta); ta.select(); document.execCommand('copy'); document.body.removeChild(ta); res() } catch (e) { rej(e) } });
+            doCopy.then(() => {
+                btn.textContent = '✅'; btn.classList.add('copy-ok');
+                setTimeout(() => { btn.textContent = '📋'; btn.classList.remove('copy-ok') }, 2000);
+                const card = btn.closest('.nc'); if (card) { card.classList.add('flash'); setTimeout(() => card.classList.remove('flash'), 800) }
+                showToast(t('copied'));
+            }).catch(() => { showToast(t('copyFail')) });
+        }
+
+        // ━━━ Time ━━━
+        function timeAgo(d) { const diff = Date.now() - d.getTime(); const m = Math.floor(diff / 60000), h = Math.floor(diff / 3600000), dd = Math.floor(diff / 86400000); if (m < 1) return t('now'); if (m < 60) return t('minAgo').replace('{n}', m); if (h < 24) return t('hourAgo').replace('{n}', h); return t('dayAgo').replace('{n}', dd) }
+        function getTimeGroup(d) { const now = new Date(), today = new Date(now.getFullYear(), now.getMonth(), now.getDate()); const y = new Date(today); y.setDate(y.getDate() - 1); const w = new Date(today); w.setDate(w.getDate() - 6); if (d >= today) return "today"; if (d >= y) return "yesterday"; if (d >= w) return "thisWeek"; return "older" }
+
+        // ━━━ Bookmarks & Read ━━━
+        function toggleBM(id, e) {
+            e.preventDefault(); e.stopPropagation();
+            if (bookmarks[id]) { delete bookmarks[id]; delete savedArticles[id] }
+            else { bookmarks[id] = 1; const a = allArticles.find(x => x.id === id); if (a) savedArticles[id] = { title: a.title, link: a.link, summary: a.summary, date: a.date.toISOString(), source: a.source, key: a.key, cls: a.cls, flag: a.flag, articleLang: a.articleLang, id: a.id } }
+            localStorage.setItem('nxBM', JSON.stringify(bookmarks)); localStorage.setItem('nxBMData', JSON.stringify(savedArticles)); applyFilters()
+        }
+        function markRead(id) { readItems[id] = 1; localStorage.setItem('nxRead', JSON.stringify(readItems)) }
+        function toggleBMView() { showBM = !showBM; document.getElementById('bmToggle').classList.toggle('active', showBM); applyFilters() }
+        function toggleCompact() { compactMode = !compactMode; document.getElementById('compactToggle').classList.toggle('active', compactMode); document.getElementById('newsFeed').classList.toggle('compact', compactMode) }
+
+        // ━━━ Trends ━━━
+        function buildTrends() {
+            const w = {}; const stop = new Set(['the', 'a', 'an', 'to', 'and', 'of', 'in', 'for', 'is', 'it', 'on', 'at', 'by', 'with', 'from', 'that', 'this', 'are', 'was', 'be', 'has', 'have', 'will', 'its', 'new', '—', '-', '|', 'as', 'or', 'how', 'why', 'what', 'says', 'could', 'more', 'after', 'about', 'into', 'over', 'than', 'can', 'all', 'most', 'been', 'just', 'may', 'like']);
+            allArticles.forEach(a => { (a.title.match(/[A-Z][a-zA-Z]{2,}|[a-zA-Z]{4,}/g) || []).forEach(t => { const l = t.toLowerCase(); if (!stop.has(l) && l.length > 2) w[t] = (w[t] || 0) + 1 }) });
+            const sorted = Object.entries(w).sort((a, b) => b[1] - a[1]).slice(0, 12).filter(e => e[1] >= 2);
+            const el = document.getElementById('trendBar'); let h = '<span class="trend-lbl">🔥 TREND</span>';
+            sorted.forEach(([word, c]) => { h += `<span class="trend-tag" onclick="document.getElementById('searchInput').value='${word}';applyFilters()">${word} <span class="trend-cnt">${c}</span></span>` });
+            el.innerHTML = h
+        }
+
+        // ━━━ Source Status ━━━
+        function renderSS() {
+            const el = document.getElementById('sourceStatus'); let h = '<span class="ss-lbl">📡 SOURCES</span>';
+            FEEDS_META.forEach(f => {
+                const r = sourceResults[f.key] || { status: 'fail', count: 0 }; const dot = r.status === 'ok' ? 'ok' : 'fail'; const act = activeFilter === f.key;
+                h += `<span class="ss-i ${act ? 'active' : ''}" onclick="setFilter('${f.key}')"><span class="ss-d ${dot}"></span>${f.flag} ${f.name}${r.count ? ` <span style="opacity:.5;font-family:'JetBrains Mono',monospace">${r.count}</span>` : ''}</span>`
+            });
+            el.innerHTML = h
+        }
+
+        // ━━━ Filter ━━━
+        function getFiltered() {
+            let list = [...allArticles];
+            if (showBM) { const ids = new Set(list.map(a => a.id)); Object.values(savedArticles).forEach(sa => { if (bookmarks[sa.id] && !ids.has(sa.id)) list.push({ ...sa, date: new Date(sa.date) }) }); list.sort((a, b) => b.date - a.date); list = list.filter(a => bookmarks[a.id]) }
+            if (activeFilter !== "all") list = list.filter(a => a.key === activeFilter);
+            const q = document.getElementById("searchInput")?.value.toLowerCase().trim(); if (q) list = list.filter(a => (a.title + " " + a.summary + " " + a.source).toLowerCase().includes(q)); return list
+        }
+        function applyFilters() { const f = getFiltered(); render(f); updateStats(f); document.getElementById('bmCount').textContent = Object.keys(bookmarks).length }
+        function setFilter(s) { activeFilter = activeFilter === s ? 'all' : s; renderSS(); applyFilters() }
+
+        // ━━━ Render ━━━
+        function render(articles) {
+            const feed = document.getElementById("newsFeed");
+            if (!articles.length) { feed.innerHTML = `<div class="empty"><div class="empty-ico">📡</div><p>${t('noArticles')}</p></div>`; return }
+            const groups = { today: [], yesterday: [], thisWeek: [], older: [] }; articles.forEach(a => { groups[getTimeGroup(a.date)].push(a) });
+            const dc = { today: "live", yesterday: "recent", thisWeek: "recent", older: "old" }; let html = "";
+            for (const [gk, items] of Object.entries(groups)) {
+                if (!items.length) continue;
+                html += `<section class="tg"><div class="tg-lbl"><span class="tg-dot ${dc[gk]}"></span>${t(gk)} <span style="opacity:.4;margin-left:4px;font-weight:400">${items.length}</span></div><div class="ng">`;
+                for (const a of items) {
+                    const nt = a.articleLang !== currentLang; const tp = nt ? [a.articleLang, currentLang] : null;
+                    const ta = nt ? `data-needs-trans data-orig-title="${a.title.replace(/"/g, '&quot;')}" data-orig-summary="${(a.summary || '').replace(/"/g, '&quot;')}" data-trans-from="${tp[0]}" data-trans-to="${tp[1]}"` : '';
+                    const tt = nt ? `<div class="nc-tr loading tr-t">${t('translating')}</div>` : '';
+                    const ts = nt && a.summary ? `<div class="nc-tr sum loading tr-s">${t('translating')}</div>` : '';
+                    const ir = readItems[a.id]; const ib = bookmarks[a.id];
+                    html += `<div class="nc ${ir ? 'read' : ''}" ${ta} data-link="${a.link}" data-id="${a.id}" onclick="openArticle(this,event)">
+                <div class="nc-tc"><span class="nc-ago">${timeAgo(a.date)}</span><span class="nc-fl">${a.flag}</span></div>
+                <div class="nc-b"><div class="nc-t">${a.title}</div>${tt}${a.summary ? `<div class="nc-sum">${a.summary}</div>` : ''}${ts}
+                    <div class="nc-m"><span class="nc-src ${a.cls}">${a.source}</span><span class="nc-dt">${a.date.toLocaleDateString('ja-JP', { month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit' })}</span></div></div>
+                <div class="nc-acts">
+                    <button class="act-btn copy-btn" onclick="event.stopPropagation();copyForSNS('${a.id}',this)" title="SNS投稿用コピー">📋</button>
+                    <button class="act-btn ${ib ? 'saved' : ''}" onclick="event.stopPropagation();toggleBM('${a.id}',event)" title="ブックマーク">${ib ? '★' : '☆'}</button>
+                </div></div>`}
+                html += `</div></section>`
+            }
+            feed.innerHTML = html; if (compactMode) feed.classList.add('compact'); translateArticles()
+        }
+        function openArticle(el, e) { if (e.target.closest('.act-btn')) return; const link = el.dataset.link; const id = el.dataset.id; markRead(id); window.open(link, '_blank') }
+
+        // ━━━ Stats ━━━
+        function updateStats(a) { document.getElementById("totalCount").textContent = a.length; document.getElementById("sourceCount").textContent = new Set(a.map(x => x.key)).size; document.getElementById("freshCount").textContent = a.filter(x => x.date.getTime() > Date.now() - 6 * 3600000).length }
+
+        // ━━━ New Article Notification ━━━
+        function checkNew() { const n = allArticles.length - previousCount; if (previousCount > 0 && n > 0) { document.title = `(${n}) NEXUS AI NEWS`; setTimeout(() => { document.title = "NEXUS AI NEWS — Global AI Intelligence" }, 30000) } previousCount = allArticles.length }
+
+        // ━━━ Load JSON ━━━
+        async function refreshAll() {
+            const btn = document.getElementById("refreshBtn"); btn.classList.add("loading"); btn.textContent = "...";
+            try {
+                const r = await fetch('ai_news_data.json?t=' + Date.now());
+                const data = await r.json();
+                sourceResults = data.sourceResults || {};
+                allArticles = data.articles.map(a => ({ ...a, date: new Date(a.date) }));
+                renderSS(); buildTrends(); applyFilters(); checkNew();
+                const gen = new Date(data.generated);
+                document.getElementById("lastUpdate").textContent = t('dataAt').replace('{t}', gen.toLocaleTimeString('ja-JP', { hour: '2-digit', minute: '2-digit' }));
+            } catch (e) {
+                document.getElementById("newsFeed").innerHTML = `<div class="empty"><div class="empty-ico">⚠️</div><p>${t('noData')}</p><p style="font-size:.6rem;margin-top:8px;color:var(--text3)">${t('runScript')}</p></div>`;
+            }
+            btn.classList.remove("loading"); btn.textContent = t('refresh');
+        }
+
+        // ━━━ Init ━━━
+        refreshAll();
+        setInterval(refreshAll, 5 * 60 * 1000);
+    </script>
+</body>
+
+</html>
