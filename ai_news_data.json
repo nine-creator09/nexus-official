@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-05T13:36:12.362898+00:00",
-  "articleCount": 85,
+  "generated": "2026-04-05T23:36:33.944703+00:00",
+  "articleCount": 81,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "guardian": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "scmp": {
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     "reuters": {
       "status": "ok",
-      "count": 11
+      "count": 10
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "+PwYtcBsgvzc",
+      "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+      "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+      "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "date": "2026-04-05T18:51:37+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "js8dWmByj0/7",
+      "title": "Suno is a music copyright nightmare",
+      "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "date": "2026-04-05T16:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yxWKyFCcP9so",
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "summary": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas",
+      "link": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "date": "2026-04-05T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "orfKZAsstq41",
+      "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "date": "2026-04-05T14:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "PeRZwwTdY6di",
       "title": "Grammarly’s sloppelganger saga",
@@ -74,6 +122,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "nEeXYnLgHOdO",
+      "title": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says - South China Morning Post",
+      "summary": "China’s rigid corporate culture slows AI adoption, ex-OpenAI executive says&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONk5IME5KTVNRWUlvWlhJdDBnNkNhUWxxQ2VmS2d1NTl4eWJMSExUVlBuMEZqc2lYLVZjc1l4bWlfRHRDZ2I0ZVpOLWVFZkNpem0yZ2lMUjBwU21KYkZUUk83YTJwcDZRZmY4QUVVZXpWUTRWY0k2N0FPNXdYNDlyZC1mSTR5U0tMWURBMERGOUh5Y0o3M0tHU1NBbVJyeVNlVFc0alByRzNLQ3NKLTl4YVNDX1BUdllmSV92bjg0RVl4TUxXSlQyelJtMNIBywFBVV95cUxQZURJek1OWG81NGd0VnJlb0JIV0wtTElnUy13T1NJejlpY2lJQ0RRWVNsSEJ0cnY2Z283LU0zdUEzcnVZWThFbnhNZUlGd3ZzUGl1bnBMWjJob2xmejNScVJubU0wSFJmaW5hb3pZWm8zZzI1ckEzNU9zbkhmWXZhRzQyX3ZBcmsxVlhBR3BWRWRHblV1ODUyS05NRmlTY2hnR1FaUElyZkdsTWUzN3RVem5Ha0UyYVFpc0dmZk9xMFpyMDlpRUZpZ05qUQ?oc=5",
+      "date": "2026-04-05T11:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -213,7 +273,7 @@
       "title": "AI is rewiring the world’s most prolific film industry - Reuters",
       "summary": "AI is rewiring the world’s most prolific film industry&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5",
-      "date": "2026-04-04T05:00:00+00:00",
+      "date": "2026-04-04T09:59:21+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -437,6 +497,18 @@
       "articleLang": "en"
     },
     {
+      "id": "obDJBCTtE1iq",
+      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism - Reuters",
+      "summary": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5",
+      "date": "2026-04-02T20:53:41+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "DVQvKRskHnlE",
       "title": "OpenAI buys tech talkshow TBPN in push to shape AI narrative",
       "summary": "OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolvesOpenAI is wading into the media business by acquiring TBPN, a technology-focused talkshow",
@@ -482,18 +554,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "DTCCFbsNrMa+",
-      "title": "OpenAI just bought TBPN",
-      "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "date": "2026-04-02T17:40:07+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -614,30 +674,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "17/pzHYFjGHc",
-      "title": "Premier Li Qiang pushes AI-powered, next-gen energy system amid global shocks - South China Morning Post",
-      "summary": "Premier Li Qiang pushes AI-powered, next-gen energy system amid global shocks&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa0p3S2NUTnpJcW5OcURtcGRqUnJwR1pWbU9wZ29vb3RMdmJpdWJ5R3N2eGdhSmtHWGp6dUV4M0JuVUgyMXUwU19HOWRsQXMxaFQ1OWUxOTZSOXhybHdBZjFjZl9hSjM5SGtLMGpZQXFXd0tRNjlVVkVaNDQzMHdfV3VGTFZ1NUNOVF9zY21MWjR6QUJxTHhSYldaSTNVZ1dyTjYwaG5QLWVmWV8yb01HOGFvMEdfcUkzbW9ucE43XzlrX0wxbXlFanlNNml0MXFO0gHQAUFVX3lxTE9CUXRDY01YUUlFdDFfczZjcUNlTkZXRGtmQ1J0cnlBNUZMVEhwX3gzWVFsUUh0enpLOW51N2Ixcy1UMEQzRlVkcnc5Y0l2R09BRjBvaFBSYXZtWjJKVm5JSjdPZEhoZU1ZbmV3SkZjc0gyUUFQUnNSMzdsQmt0Z2NzZXdvQ01hc0g2TGJPdXBIM0M5c1RQb0h3X3Jpbm5FRDNXZ2dySnprdGRPalgwc3E3ckpPdTFUbGRXVGdvWE5IQmt6bm9WMUpQaEszY1FUSjY?oc=5",
-      "date": "2026-04-02T06:10:42+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "obDJBCTtE1iq",
-      "title": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism - Reuters",
-      "summary": "Crisis contractor for OpenAI, Anthropic eyes a move to combat extremism&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUzB4X19KQlVrNUozZHM4enItNnRBbFlaZDhqSjUtMzI4cVNkY3BtMjJqeWR6YVBZRFEzU21sTVNCdFNaUFRYeVRFdVgybnZHSlJKcE1jeU9yY0I1U1A3WkRQZUVhMlRXWUFXRm5NV3BaVVhWWTVjR3pSUGE3NEV3Tm94M1lOSGxRdVpYLWxSY1E3WFhoLVFJZDlNd01mZW9EVXVGNnVDSGlGbnYwMlA1VUdTUHE5UGwwbEFzWS1kZEc1b2ZHbGc?oc=5",
-      "date": "2026-04-02T05:30:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -893,42 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "19tj7L4WtRoc",
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "summary": "Slack just got a whole lot more useful.",
-      "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "date": "2026-03-31T22:46:25+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ZHpFlEceYsHn",
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-      "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "date": "2026-03-31T21:25:04+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "YS1Kmif5ucev",
-      "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-      "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-      "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "date": "2026-03-31T20:01:07+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "d+dwiTYE0P68",
       "title": "AI-led selloff in contract research firms may be misjudging disruption risk - Reuters",
       "summary": "AI-led selloff in contract research firms may be misjudging disruption risk&nbsp;&nbsp;Reuters",
@@ -1025,42 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QsD0NnQUCtGm",
-      "title": "Starcloud reaches $1.1 billion valuation as AI space race heats up - Reuters",
-      "summary": "Starcloud reaches $1.1 billion valuation as AI space race heats up&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN3hoYWp5SE9lak8wNkNZWXI0cFhGczZmbkIzVEpNelRnVXdZR3NjYS0tOXZmWDlZUGF3bE9aUEw1SEtKX00zQlc5X3RrRk1NXzlOOVN5elZHRHBwbDdPOTJjcWVBUUdncDJHclFpU1lUMnRQcFJDNkE5cXQ0clZJRURlUks2R3VBYUVWdHBZTzlZWHRnX19KQjhZM1RqMTFSakNqVndsNDdhMS1DeFdFamh4SXd1Zy00SGxXM3NSTQ?oc=5",
-      "date": "2026-03-30T14:50:18+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "mW+Xv5pnu5TK",
-      "title": "De-aged casts, ChatGPT-generated programs: How AI is changing Korean TV - The Korea Herald",
-      "summary": "De-aged casts, ChatGPT-generated programs: How AI is changing Korean TV&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9JWGRWc0RNZXRkWUJwQmRjYk50MnFxYUJvYkFtZHQ2ekw2TTZETjh4NHN0NjhBcGtvN204ZEJyckNtSkp6QWJuODJ0ZmJGaW5MZFoySklDaw?oc=5",
-      "date": "2026-03-30T05:22:34+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "kF1emVdTasf7",
-      "title": "‘Brain fry’: heavy AI users report mental burnout as cognitive limits are pushed - South China Morning Post",
-      "summary": "‘Brain fry’: heavy AI users report mental burnout as cognitive limits are pushed&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORWJXYUgwZ2h3MkxObE1HNzZ2a005RVM5bEEtMHk0YWdyc1NVTEtrSWtMM2JnWGpyaTFlam81M2oyYjdfcW40Q01lMm1aZjVSUjlhU2hnU3NXVUtzeS1aVDlObTlPQU1zeDV1azBqSjIxZ2Y4VHl4bldJRTJjVGxJSEdNTXNSUThnd0l5YkpNMUZLQnl4c2ZFc3hEQWRaVXA3SV9NYXpWUmZJY1FYVExZbUVDSmU4dkwzdndWYUhhNHpBZ9IBwgFBVV95cUxPWEhrcHN4U0hwX04xWDd4ZjlJMVQ0blg1VWdsT2hIQkRNd3cwN1NGUFhiQjNadjFFcUJiRWdtbEVjSlZab1N6MjExejdDaUVLb0NzRXpxS3hacWVKMVBBWXh6NDJ6WXhuemlMNzIxZE9RRm5ERnRwU25ydE8tajNXRTB6RjhxM2xBYTA4cnloUnRfdUxYbnY0bFVjVmFHMGRfUFowV3V5VTE4N0J6cUZSRXk1WEZJb1lrVmlfb2I4V0lvUQ?oc=5",
-      "date": "2026-03-30T03:22:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "Vwi8BU1tI8fQ",
       "title": "Life with AI causing human brain 'fry' - France 24",
       "summary": "Life with AI causing human brain 'fry'&nbsp;&nbsp;France 24",
@@ -1070,18 +1034,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "4heCStGDgQqd",
-      "title": "Tech CEOs suddenly love blaming AI for mass job cuts. Why?",
-      "summary": "More tech leaders are pointing to job cuts caused by AI tools - and a need for more investment cash.",
-      "link": "https://www.bbc.com/news/articles/cde5y2x51y8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-03-29T23:07:04+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
