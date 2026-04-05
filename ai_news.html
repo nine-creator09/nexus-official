@@ -120,11 +120,35 @@
 
         .logo {
             font-family: 'Cormorant Garamond', serif;
-            font-size: .88rem;
-            letter-spacing: .3em;
-            color: var(--gold);
-            font-weight: 700;
-            text-shadow: 0 0 30px rgba(212, 168, 83, .15)
+            font-size: 1.2rem;
+            letter-spacing: .25em;
+            color: inherit;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }
+
+        .logo-mark {
+            width: 7px;
+            height: 7px;
+            background: linear-gradient(135deg, #c8956c, #d4a853);
+            border-radius: 50%;
+            animation: logoPulse 3s ease-in-out infinite
+        }
+
+        @keyframes logoPulse {
+
+            0%,
+            100% {
+                opacity: .7;
+                transform: scale(1)
+            }
+
+            50% {
+                opacity: 1;
+                transform: scale(1.2)
+            }
         }
 
         .logo-sub {
@@ -1040,8 +1064,8 @@
     <header class="hdr">
         <div class="hdr-l">
             <a href="index.html" style="text-decoration:none;color:inherit">
-                <div class="logo">NEXUS AI NEWS</div>
-                <div class="logo-sub" data-i18n="logoSub">Global AI Intelligence</div>
+                <div class="logo"><span class="logo-mark"></span>NEXUS</div>
+                <div class="logo-sub" data-i18n="logoSub">直近1週間 · 15ソース · 8言語</div>
             </a>
         </div>
         <div class="hdr-r">
