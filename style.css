@@ -255,6 +255,32 @@ img {
   width: 100%;
 }
 
+/* AI NEWS link special style */
+.nav-ai-news {
+  color: #d4a853 !important;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+}
+
+.nav-ai-news:hover {
+  text-shadow: 0 0 12px rgba(212, 168, 83, 0.4);
+}
+
+/* AI NEWS connect card */
+.connect-card--ainews {
+  background: linear-gradient(135deg, rgba(212, 168, 83, 0.08), rgba(212, 168, 83, 0.02));
+  border: 1px solid rgba(212, 168, 83, 0.2);
+}
+
+.connect-card--ainews:hover {
+  border-color: rgba(212, 168, 83, 0.5);
+  box-shadow: 0 0 20px rgba(212, 168, 83, 0.15);
+}
+
+.connect-card--ainews .connect-name {
+  color: #d4a853;
+}
+
 /* Language Toggle */
 .header-right {
   display: flex;
