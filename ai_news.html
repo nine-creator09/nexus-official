@@ -59,6 +59,10 @@
             box-sizing: border-box
         }
 
+        html {
+            overflow-x: hidden
+        }
+
         body {
             font-family: 'Inter', -apple-system, sans-serif;
             background: var(--bg);
@@ -66,7 +70,8 @@
             min-height: 100vh;
             transition: background .5s ease, color .4s ease;
             -webkit-font-smoothing: antialiased;
-            -moz-osx-font-smoothing: grayscale
+            -moz-osx-font-smoothing: grayscale;
+            overflow-x: hidden
         }
 
         body::before {
