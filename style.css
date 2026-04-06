@@ -393,14 +393,19 @@ img {
   transform: scale(1.05);
 }
 
+/* IMG_0943 (2nd) - hologram table, move down */
+.hero-slide:nth-child(2) {
+  object-position: center 40%;
+}
+
 /* IMG_0945 (3rd) - in vehicle, faces are upper-center */
 .hero-slide:nth-child(3) {
-  object-position: center 20%;
+  object-position: center 35%;
 }
 
 /* IMG_0962 (4th) - zero gravity, faces spread across image */
 .hero-slide:nth-child(4) {
-  object-position: center 45%;
+  object-position: center 60%;
 }
 
 /* IMG_0968 (5th) - standing group, faces at top */
