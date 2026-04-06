@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-06T14:38:53.153586+00:00",
+  "generated": "2026-04-06T20:03:58.937730+00:00",
   "articleCount": 79,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "mit": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,93 @@
   },
   "articles": [
     {
-      "id": "Ks7arRDiCkZ0",
-      "title": "Republicans fooled by AI-generated image of US crew member rescued in Iran",
-      "summary": "Fake image of airman surrounded by smiling military members has been reshared more than 21,000 times on the X platformSign up for the Breaking News US email to get newsletter alerts in your inboxRepub",
+      "id": "FFzoqAt/x21K",
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+      "link": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "date": "2026-04-06T18:54:33+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ASJOc8lxFlV9",
+      "title": "Iran threatens ‘Stargate’ AI data centers",
+      "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+      "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+      "date": "2026-04-06T18:06:28+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "p3xwWf0FHm0V",
+      "title": "Oracle hires Schneider Electric's Maxson as CFO amid AI spending boom - Reuters",
+      "summary": "Oracle hires Schneider Electric's Maxson as CFO amid AI spending boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSkZTYXhacXhzY2ZHc1FyUW1reElickZYMHFURFY1SHNQNW1tR0Z2LTZzSTFiOWFYcmx4Z1hXRjQ2enMyYzlDWWpodVphbUdoMWE4Umxnc0VnZ1ZKdlctX1k2NGR2MHNfcmRURi1qekdfZDltMkc2bmFqSmpjUjNxYllfdWo?oc=5",
+      "date": "2026-04-06T16:48:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Fys7qy6jeuLr",
+      "title": "The one piece of data that could actually shed light on your job and AI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is",
+      "link": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+      "date": "2026-04-06T16:33:35+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "I/HPi2rcCvL7",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa",
+      "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "date": "2026-04-06T15:55:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "gdGzjfJzkQJ3",
+      "title": "Iran threatens OpenAI’s Stargate data center in Abu Dhabi",
+      "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as r",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "date": "2026-04-06T15:54:19+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XFk70maHp9tI",
+      "title": "Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say",
+      "summary": "Conservationists warn the move could push species closer to extinction and says clearer environmental rules are needed insteadGet our breaking news email, free app or daily news podcastConservationist",
+      "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
+      "date": "2026-04-06T15:00:23+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZqlI5BN5KrEy",
+      "title": "Republicans fooled by AI-generated image of US airman rescued in Iran",
+      "summary": "Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on XSign up for the Breaking News US email to get newsletter alerts in your inboxRepublican po",
       "link": "https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
       "date": "2026-04-06T14:03:43+00:00",
       "source": "The Guardian AI",
@@ -98,6 +182,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "rZG45M/dS4Wl",
+      "title": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings - Reuters",
+      "summary": "Indian IT firms face subdued fourth quarter as war, AI concerns persist; weak rupee helps earnings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3VRNVhNUnExakZfLWl4dktJUUYzUDlXQ0Z1ZW1fU3czNTdnLUJPX1ZwUkRnN1lVZnJQUjdWZm1sU0FSNmxFdk5QUFNVQXFLczFxOEg2UXFvZUwyaS0zd0t0cUFtRXQxbkJJWEl2LTVCbEs2NnR3NUFmOVI1T0xGaXVIZks3TlppdkhCckU5RWk0VlNiMkZQU1p1OERUbEhIWFlfd1FfeG9IYVZpNWgyN2JFaXYzRXJvbmdmb01jWHIwdGNL?oc=5",
+      "date": "2026-04-06T11:38:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -545,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7kC2IQqBIRts",
-      "title": "Chatbots are now prescribing psychiatric drugs",
-      "summary": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State offici",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "date": "2026-04-03T11:43:21+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "xfAHms0trm+w",
       "title": "Washington launches export initiative to ensure ‘future of AI’ is led by US - South China Morning Post",
       "summary": "Washington launches export initiative to ensure ‘future of AI’ is led by US&nbsp;&nbsp;South China Morning Post",
@@ -585,23 +669,11 @@
       "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion - Reuters",
       "summary": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5",
-      "date": "2026-04-03T03:40:42+00:00",
+      "date": "2026-04-03T03:37:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "zvVCrRYfSBHH",
-      "title": "PSA: Anyone with a link can view your Granola notes by default",
-      "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "date": "2026-04-02T21:56:16+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -629,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "dkeAeamB4kfF",
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-      "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "date": "2026-04-02T19:21:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "zeZ1bbjSIDnP",
       "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
       "summary": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San FranciscoGoogle’s plan for a partnership with a natural gas power plant that could provide e",
@@ -661,18 +721,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HYySpsw1dqtG",
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-      "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-      "date": "2026-04-02T16:48:16+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -797,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kVjTTgAtlqAb",
-      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
-      "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-      "date": "2026-04-01T22:12:13+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "SUNinctY7Ova",
       "title": "Claude’s code: Anthropic leaks source code for AI software engineering tool",
       "summary": "Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI companyAnthropic accidentally released part of the internal source code for its AI-power",
@@ -830,18 +866,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "x9TbH37hXcSm",
-      "title": "Meta’s natural gas binge could power South Dakota",
-      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
-      "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-      "date": "2026-04-01T18:35:36+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -886,18 +910,6 @@
       "summary": "Could AI write an entire sitcom series? That’s the plot of the new season of comedy drama The Comeback. Its co-creator explains why it’s ‘very possible’ – and why the world needs to catch up with AJLT",
       "link": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
       "date": "2026-04-01T15:29:57+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "ic+ZmNs1GKIw",
-      "title": "Why is gaming becoming so expensive? The answer is found in AI",
-      "summary": "We are paying more for a PlayStation so that idiots can use ChatGPT to mislead people on dating apps – something is rotten in the state of gaming• Don’t get Pushing Buttons delivered to your inbox? Si",
-      "link": "https://www.theguardian.com/games/2026/apr/01/pushing-buttons-cost-of-gaming-artificial-intelligence-ai",
-      "date": "2026-04-01T14:00:05+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -998,18 +1010,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "3zAtRYlnhuCb",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A cou",
-      "link": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "date": "2026-03-30T16:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
