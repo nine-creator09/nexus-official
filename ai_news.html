@@ -846,8 +846,9 @@
         .hero-img {
             position: absolute;
             inset: 0;
-            background: url('hero_ai_news.png') center/cover no-repeat;
-            filter: brightness(.7) saturate(1.2)
+            background: var(--bg) url('hero_ai_news.png') center/cover no-repeat;
+            filter: brightness(.7) saturate(1.2);
+            image-orientation: from-image
         }
 
         .hero-overlay {
