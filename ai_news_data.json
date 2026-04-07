@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-06T20:03:58.937730+00:00",
-  "articleCount": 79,
+  "generated": "2026-04-07T05:59:54.626257+00:00",
+  "articleCount": 87,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "dw": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 10
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,138 @@
     }
   },
   "articles": [
+    {
+      "id": "FVdU15mJDBVT",
+      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+      "summary": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation.",
+      "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+      "date": "2026-04-07T05:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ld0zOlEnwR95",
+      "title": "ユニバーサルロボットがAIトレーニングシステム、モデルの学習と実行を支援",
+      "summary": "Universal Robots（ユニバーサルロボット）はScale AIと共同開発したAIトレーニングシステム「UR AI Trainer」を発表した。人の動作をロボットが模倣するトレーニングセルを通じて、マルチモーダルデータを取得し、基盤モデルの現場適応を迅速化する。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2604/07/news062.html",
+      "date": "2026-04-07T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Ixa3/xRW7oVi",
+      "title": "Anthropic、GoogleとBroadcomとの提携拡大　次世代「TPU」で3.5GWのAIインフラ確保へ",
+      "summary": "Anthropicは、GoogleおよびBroadcomとの提携拡大を発表した。2027年稼働予定の次世代「TPU」を活用し、3.5GW規模のAIインフラを確保する。このリソースはClaudeの需要増に対応し、Google Cloudでも活用される。同社は、AWSやNVIDIAなどマルチベンダー戦略を継続し、システムの回復力向上を目指すとしている。",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/07/news064.html",
+      "date": "2026-04-07T01:15:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "o+T6rloNQqDk",
+      "title": "Businesses scramble to get noticed by AI search",
+      "summary": "Firms are changing the way they present information on their websites, so they get noticed by AI.",
+      "link": "https://www.bbc.com/news/articles/c70n2rjgxeyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-06T23:20:52+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "7Ng+YYDsSOMm",
+      "title": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices - Reuters",
+      "summary": "Samsung flags eightfold jump in quarterly profit as AI chip demand pumps prices&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOQkZHUl9QZHhISlR6WXVmbGZtODRtQW9rR1MyR04zOTNNT0dObkFnS1o3elFFVXZvZGc0R0RtSnZqYkZaTTk5NVdESXNGakFjUl9Hd2E5V0RObzRYZlpJRTBOOG9IblVVTlJIcFVyZ2dUYzA2UlhqaHRIRUFpNThSc21fRVJoYWVjajBDQS1iMUtYSnFaMVBiVFptQW5XaXlQQWVqZlhlQWpSd25JTU9Vd0FRNk1wU25tOFprUWY0TDdjMWhnUE9laDd6Qk92U3llaS0wVE1yN3NpQl9STWhGeDVtUkxxd3M?oc=5",
+      "date": "2026-04-06T22:45:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "PHtVjNtSHfow",
+      "title": "Broadcom signs long-term deal to develop Google’s custom AI chips - Reuters",
+      "summary": "Broadcom signs long-term deal to develop Google’s custom AI chips&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQmVpQ1hueFNRMkcwRXMzZHhrSnl1bUxTb0pscFZ5cmRZNmFtUUxiMWxReTdFcVZJQVlqQjRqVEdoZTQ2WGhhSm50OU9wYUUxbUpLZDIyNVNCRkhnZ3pOdjJhRW5Ud2kweUhoTWNBTTZyRVdtXzBRbWk1aUJCZ0lwSGtsdGRkU3lmd092b283WmpRelZnUGxicG8teTVFVWxzRzB0UU9CcEdfZw?oc=5",
+      "date": "2026-04-06T22:38:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "y5iE3GEO0jKv",
+      "title": "OpenAI urges California, Delaware to investigate Musk's 'anti-competitive behavior’ - Reuters",
+      "summary": "OpenAI urges California, Delaware to investigate Musk's 'anti-competitive behavior’&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRllRd1VyOUMyWnNiWU52bE83RXh5QzVWdHY3RFNJVm9qN00wSVlIbGtTNUI1Nkc2X2lZT2llR2dFYWpwWVp1SFRMTEttbGxqODFZYnhqbUVRZkNpRFJVcm5LM0NDdTJVSjJrM3pWYmEtRjl5SlhWV1hSVlZ6NGpDbUVuLU41aHJoUklMTkVsZHhRMi1DT2s0akNsVW9qVGZsNzg5MDV5dEJaaFJ0SFRubWl1alAwNjRydFM5cXpMVkVDSTNjUWI5Uw?oc=5",
+      "date": "2026-04-06T21:57:01+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "TF9HL7f9V9QS",
+      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
+      "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+      "link": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "date": "2026-04-06T21:54:26+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "f9VtNSeC0Z4O",
+      "title": "OpenAI、「超知能時代」の産業政策を提言──週休3日制や富の分配など、アルトマンCEOが語る新たな社会契約",
+      "summary": "OpenAIは、「超知能」時代の到来に向けた政策提言書を公開した。国民全員が恩恵を享受する「公共富裕基金」の創設や、週休3日制への移行、AIへのアクセス権保障など、野心的な構想を盛り込んでいる。アルトマンCEOは、破壊的な変化に備え、ニューディール政策に匹敵する新たな社会契約と民主的な議論の必要性を訴えている。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/07/news053.html",
+      "date": "2026-04-06T21:53:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "KHCX6QoL3k1Q",
+      "title": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
+      "summary": "AI experts say we’re living in an experiment that may fundamentally change the model of workSign up for the Breaking News US email to get newsletter alerts in your inboxHundreds of thousands of tech w",
+      "link": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
+      "date": "2026-04-06T21:52:08+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "+KCXmgC7B+RU",
+      "title": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access - Reuters",
+      "summary": "Nvidia acquisition of SchedMD sparks worry among AI specialists about software access&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0tsVmdPT0xtdU9udHR6QzRpSmpCYXpHWUpsQmFvVURsOHlXb21OdGtiMVMyQjB0M3k5WTRuNmlfcGE0U0hwSUhPd2JTeTJwUFB4dy1uOU41aVNxMHBUaDJncEtVYmw5MUV2c3FBNGxEN1E3dU1GSjgzRkJqSVNrN2MxY2thTFpVX3I4Zl9jLWVqVmI0aDBubm44TFdtenc5cG90UHNRUVNheWNjaWoyVk95alJBVFprVFFHc2VEYw?oc=5",
+      "date": "2026-04-06T19:39:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "FFzoqAt/x21K",
       "title": "Google quietly launched an AI dictation app that works offline",
@@ -113,8 +245,8 @@
       "articleLang": "en"
     },
     {
-      "id": "I/HPi2rcCvL7",
-      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "id": "pGbEG8lVJT6D",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
       "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impa",
       "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
       "date": "2026-04-06T15:55:55+00:00",
@@ -137,9 +269,9 @@
       "articleLang": "en"
     },
     {
-      "id": "XFk70maHp9tI",
-      "title": "Using AI to prepare and evaluate environmental assessments risks ‘robodebt-style’ failures, scientists say",
-      "summary": "Conservationists warn the move could push species closer to extinction and says clearer environmental rules are needed insteadGet our breaking news email, free app or daily news podcastConservationist",
+      "id": "ddVN9SvOwXBW",
+      "title": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
+      "summary": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed insteadFollow our Australia news live blog for latest updatesGet our breaking news email, f",
       "link": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
       "date": "2026-04-06T15:00:23+00:00",
       "source": "The Guardian AI",
@@ -158,6 +290,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "2QYfrhK+88QL",
+      "title": "AI technologies could have saved ‘thousands of lives’ during covid, expert says - Perspective - France 24",
+      "summary": "AI technologies could have saved ‘thousands of lives’ during covid, expert says - Perspective&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVC1yMnRMNVlTaFdEVWFuYUNFeExlenBhOFhJRGdjdjlDUWR1OFRoSjUzaFVyYU82WjIzcjljcTJVLXZvRHVMVnVIN1RsYUQ3dDVBaE81Y1NGVnFPeVVkc2U5MzFDUHJpS0JsSEJLOTdUVUdJc2pZOFB1TkZOYmtKcXpkSnNmb2hZNENTLWlOVUFOUjE1cG8zS1NXaXNyRW16V1dGT0FucklkRVczQ1Q5ZFozSXY5Ri1sNzJsQ0xiWW1oMm1UYkk4c0FMNW96SEk?oc=5",
+      "date": "2026-04-06T13:24:18+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -353,6 +497,18 @@
       "articleLang": "en"
     },
     {
+      "id": "HDe6Yh4g1uha",
+      "title": "Who is Xu Rui, the ex-ByteDance executive tapped by Meta to lead AI hardware? - South China Morning Post",
+      "summary": "Who is Xu Rui, the ex-ByteDance executive tapped by Meta to lead AI hardware?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFN0ZllZUlhoeVlzamJyd2VPRGdrWm1YRVJmYkpXSjUzTjlELTNRU1ZMYUJFNGk0c1NRTFN5bUU4UFF2SGVNTkVKM0p4YjJpNUI0a1VRRWdYUDNia2R6VlNubnJmam9semFFTERLRjVBWkVkcEdMeUMtWXkwLXRpR3Z1N3lRQmtGenM4bUYxTHNiNFM3YnVlb2hWNzhUOUxBNy1kRHhvRkNrcDIwSjNLRWI2R3BkZk3SAbcBQVVfeXFMTTA2YUVsTk1IVm9FazhTOWowWEdham1ldEd4eDU2X2tCTXRFMEpnY0VBWHg4aU5RNlRCYnhYZktOVjIzclN6cm9ST3A2d0RkRV96YW1CeVB2bDM3Q3Q4cjN3NnR6enhXeEVpUk5UZ1E3R1VNekNEdmxxWWpsb1ROQ19LWDNTbnd3blJUQzhGclBkQWhERWgtbW5IYmdxNUxHZ2NpOUl2ZGVENEJTcUZWbUkzYUhUNWtv?oc=5",
+      "date": "2026-04-05T08:52:22+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "WGGIbB5ongrG",
       "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
       "summary": "After forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show upTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It",
@@ -399,18 +555,6 @@
       "cls": "src-france24",
       "flag": "🇫🇷",
       "articleLang": "en"
-    },
-    {
-      "id": "0Z0QU3FXORqP",
-      "title": "「Claude」で「OpenClaw」などの利用がサブスク対象外に　API利用や追加使用量購入が必要",
-      "summary": "Anthropicは、「Claude」のサブスクリプションが「OpenClaw」等のサードパーティツール利用をカバーしなくなると告知した。需要増加に伴うリソース管理の適正化が目的としている。影響を受けるユーザーには、1回限りのクレジット付与や割引、希望者への全額返金で対応する。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/05/news018.html",
-      "date": "2026-04-04T22:42:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "4J9/SSbnWZ1l",
@@ -473,11 +617,23 @@
       "articleLang": "en"
     },
     {
+      "id": "nsBgky1wl8PD",
+      "title": "How AI is shaping the war in Iran - DW.com",
+      "summary": "How AI is shaping the war in Iran&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RRWNSYTF0OUVXQXUxOWR2Sy0yempjVkZacTZtWTZic2Zpbzd6WjNVTWRLdTlXa2JuaEhzb2tEMWdGYmtpX2M3OEk4WUZ4WkpmTGctRUMzdHdNMTdiMGgwbG1UZlJHZkRKMnZvTkNDamdYdXhlYXJUbzhR?oc=5",
+      "date": "2026-04-04T07:33:51+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "q21pfqv8j2VX",
       "title": "AI is rewiring the world’s most prolific film industry - Reuters",
       "summary": "AI is rewiring the world’s most prolific film industry&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMlpuQ0JEaTZlYXpGSk5xVGpWY3Vnd3ZJRE5rZVJSMXhmS3pQVzk5Z3N1UEZPX1lFT2dpMzBFcy1kNUhZRFVhZlNIMEVILWR4bENWSnY4M09ZYm5CSVdVOWFBdEhBTm53MVVQbU9HLW8xR0x5VE81X2toMFQyTU50Wll1aF9BWHBnSWlNY29UaDdQMTJMem1XUEFGc1g?oc=5",
-      "date": "2026-04-04T05:14:03+00:00",
+      "date": "2026-04-04T05:03:39+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -617,18 +773,6 @@
       "articleLang": "en"
     },
     {
-      "id": "J/3Bq+7ReTUl",
-      "title": "The Facebook insider building content moderation for the AI era",
-      "summary": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior.",
-      "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "date": "2026-04-03T14:00:15+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "TVYvKjzZVnHc",
       "title": "UK’s leading AI research institute told to make ‘significant’ changes",
       "summary": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdogThe UK’s leading AI research institute has been told to make",
@@ -650,30 +794,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "ygMeddmmKznN",
-      "title": "新たな「国産LLM」公開、国立情報学研究所　「gpt-oss-20b」超えの日本語性能うたう",
-      "summary": "国立情報学研究所は、LLM「LLM-jp-4 8Bモデル」「LLM-jp-4 32B-A3Bモデル」をオープンソースライセンスで公開した。米OpenAIのオープンモデル「gpt-oss-20b」を上回る日本語性能をうたう。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/03/news092.html",
-      "date": "2026-04-03T09:47:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "64voRAH9ncCB",
-      "title": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion - Reuters",
-      "summary": "Microsoft to invest $10 billion in Japan for AI and cyber defence expansion&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS00wUDd0Y1YxQ1RaektWX1JPY0VDaEZNa0ZOczdCZWJKUVhvRjJlWWxqX3FyWnRwU1N3Z0NqMkdLbDdiZU9xa3Vxb1lBZ2pvWEJiMjJvX2Z3eExGVGx4SWpPeHkzb0FCTm9Hakg5ZTBXaEZYWFBuRGdaSkpMRklnTXRYM01ybW9BTm5BbG9xR0dCV1JIY2ZTa05CRWRmLWpfODNFajNUZDFyaFBEM0J1WE5xTnlpbDFsQUpN?oc=5",
-      "date": "2026-04-03T03:37:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -797,9 +917,9 @@
       "articleLang": "en"
     },
     {
-      "id": "D/t6Gx+IXPdi",
-      "title": "FuriosaAI unveils AI chip to challenge Nvidia in inference - The Korea Herald",
-      "summary": "FuriosaAI unveils AI chip to challenge Nvidia in inference&nbsp;&nbsp;The Korea Herald",
+      "id": "mNZgn66PujlJ",
+      "title": "FuriosaAI unveils AI chip to challenge Nvidia in inference - koreaherald.com",
+      "summary": "FuriosaAI unveils AI chip to challenge Nvidia in inference&nbsp;&nbsp;koreaherald.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10WDJQal9oUW54XzZwb0hqR0RfUUt6R19BcTBZaDhtcnZZZXNHT0NHZnFBa3B1d0d3Sy05NDlDdXUzQzgtLTZ1ckNBSWJma2dIdmtoekZZOA?oc=5",
       "date": "2026-04-02T07:57:09+00:00",
       "source": "Korea Herald Tech",
@@ -857,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uGa1Dt+hk8UM",
-      "title": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus - Reuters",
-      "summary": "Artificial Intelligencer: OpenAI’s $852 billion problem: finding focus&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWQzV1dHTmNpcEgzMVl5SGFVWEVHaUJldnpfMEZSeUxlRFRMd20zS2N6ZUNVQTdNQUtVaFpVU3Jyc0RuZ2VTWXliZ3dCV0hjWS1pTVdKR1RlY2J2c2dpV19WVTA2bjJxV0lKRXdsYldkOURGMm9DZ255X2NueTV4LTBSSzJKM1l6R3c1a0xrR1dPel9hb0N6dktodXNrYVdJRmsxNWpsZEptSFRtQUkxOWl2Q2I0dUVaTEtiUTBWTEh1b0k1bGdRcmxBNmlYRHFLU1JV?oc=5",
-      "date": "2026-04-01T19:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "dq2afdXP0jdp",
       "title": "The Guardian view on the BBC’s future: who decides what news means? | Editorial",
       "summary": "AI is interpreting journalism without regard for truth. The BBC must build the capacity to ensure its reporting is understood on its own termsAppointing Matt Brittin, a former Google executive, as BBC",
@@ -905,18 +1013,6 @@
       "articleLang": "en"
     },
     {
-      "id": "eT0PKlKRvWM+",
-      "title": "‘We got cancelled and we’re still here!’ Michael Patrick King on The Comeback – and why And Just Like That will age well",
-      "summary": "Could AI write an entire sitcom series? That’s the plot of the new season of comedy drama The Comeback. Its co-creator explains why it’s ‘very possible’ – and why the world needs to catch up with AJLT",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
-      "date": "2026-04-01T15:29:57+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "XB9UaEq0KYuK",
       "title": "The Download: gig workers training humanoids, and better AI benchmarks",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The gig workers who are training humanoid robots a",
@@ -938,6 +1034,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "G1OAlaSbKaUd",
+      "title": "As Mandarin dominates Cantonese, this Hong Kong AI firm is pushing back - South China Morning Post",
+      "summary": "As Mandarin dominates Cantonese, this Hong Kong AI firm is pushing back&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOM0tpekpFbzAtNEFQWVNlb1Vsb1c3VHd2QkdMZkp3RXZSU1lWRjJlWVRxQ21MUGRwQVRqZ1FzOEdkdVY5SDVEN1hwWl84d3FPZWd4eURMZGJtVXNsOHo5Ry1tdkJDOXJmVktFMlZOX2o0N0pwa1FaZ3hsdHJzd1cxaGJ2aklBaVdNaTQxalNERmVkUDl0LTl3OTZWWWRKaVpLbktFM1U4ZFhocUw1QllWT1Z6eUNGeklRTGU2dFdmakJseFI2eHfSAcYBQVVfeXFMT1prXzVDeVprZlREQXVjMEFXaHF4S3RsNnlvYnNwYTBkTktVNXBRX1VkSmVuNERwWGNERmRianpaUkktNXRCX3BudFV3VGVnVi1EZmR1OVNXRFY2QkNkZ185ZjZXZUlhelprYTkzd0R2enU4MUhUWDNZY2ZxV3N5T1kxbVdnejhWLXcxdzgzYUZhR0NHS1JsWVRVSEoxOXVBb2hGdENtVEVaU2hTMmxVOVFQeXpSTDhHVVFrbUZLYldacEwwUEZB?oc=5",
+      "date": "2026-04-01T01:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -998,18 +1106,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "UhBJk+0gutqQ",
-      "title": "Majority of US federal judges are using AI, study finds - Reuters",
-      "summary": "Majority of US federal judges are using AI, study finds&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2JjaW9CWjltYUVVWExxbS13cHgyYTJTZVVOSWg0aUxNNzdoclUxQlFqR3hlUGRfQy1sS0l3bnJacWZxZHJrc3h6aGhDRTNOdFRoT21xYmdDRXEzU2JlUThtbGVkMGRRdU1nbGhpZkNoN2lYbW8ycWxpTDhlYzRKaC16YWI4b0ZQcGZKMms3U0VCOUZQb2EwdnVkSjF4Um9KWUFBdF9lQQ?oc=5",
-      "date": "2026-03-30T20:48:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
