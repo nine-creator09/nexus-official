@@ -1,0 +1,900 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEXUS AI TOOLS — 世界のトレンドAIツール</title>
+    <meta name="description" content="世界のトレンドAIツールを完全網羅。画像・動画・音楽・音声・AIアシスタント・3Dの各分野で注目のAIツールをNEXUSが厳選紹介。">
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --bg: #08090d;
+            --bg2: #0e1016;
+            --bg3: rgba(255, 255, 255, 0.025);
+            --bg-hover: rgba(200, 170, 110, 0.04);
+            --border: #2d3039;
+            --border-hover: rgba(200, 170, 110, 0.2);
+            --text: #eaeaea;
+            --text2: #a1a3a8;
+            --text3: #757880;
+            --gold: #d4a853;
+            --gold-glow: #dbb170;
+            --gold-dim: rgba(212, 168, 83, .12);
+            --r: 12px;
+
+            /* Glassmorphism Variables */
+            --glass-bg: rgba(255, 255, 255, 0.025);
+            --glass-bg-hover: rgba(255, 255, 255, 0.04);
+            --glass-border: rgba(255, 255, 255, 0.08);
+            --glass-shadow: rgba(0, 0, 0, 0.5);
+            --glass-glow: rgba(212, 168, 83, 0.15);
+            --blue: #5aadff;
+            --green: #4ade80;
+            --purple: #b39dff;
+            --red: #f87171;
+            --orange: #fb923c;
+            --cyan: #22d3ee;
+            --pink: #f472b6;
+            --hdr: rgba(8, 9, 13, 0.88);
+            --card-shadow: 0 1px 3px rgba(0, 0, 0, .3), 0 0 0 1px rgba(255, 255, 255, .02);
+            --card-hover-shadow: 0 8px 32px rgba(0, 0, 0, .5), 0 0 0 1px rgba(212, 168, 83, .1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box
+        }
+
+        html {
+            overflow-x: hidden;
+            scroll-behavior: smooth
+        }
+
+        body {
+            font-family: 'Inter', -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            transition: background .5s ease, color .4s ease;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            background:
+                radial-gradient(ellipse at 10% -5%, rgba(212, 168, 83, .04) 0%, transparent 50%),
+                radial-gradient(ellipse at 90% 100%, rgba(90, 173, 255, .015) 0%, transparent 50%)
+        }
+
+        [data-theme="light"] body::before {
+            opacity: 0
+        }
+
+        /* Header */
+        .hdr {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: var(--hdr);
+            backdrop-filter: blur(30px) saturate(1.2);
+            border-bottom: 1px solid var(--border);
+            padding: 0 32px;
+            height: 54px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between
+        }
+
+        .hdr::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(212, 168, 83, .15), transparent);
+            pointer-events: none
+        }
+
+        .hdr-l {
+            display: flex;
+            align-items: center;
+            gap: 16px
+        }
+
+        .logo {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.2rem;
+            letter-spacing: .25em;
+            color: inherit;
+            font-weight: 600;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            text-decoration: none
+        }
+
+        .logo-mark {
+            width: 7px;
+            height: 7px;
+            background: linear-gradient(135deg, #c8956c, #d4a853);
+            border-radius: 50%;
+            animation: logoPulse 3s ease-in-out infinite
+        }
+
+        @keyframes logoPulse {
+
+            0%,
+            100% {
+                opacity: .7;
+                transform: scale(1)
+            }
+
+            50% {
+                opacity: 1;
+                transform: scale(1.2)
+            }
+        }
+
+        .logo-sub {
+            font-size: .48rem;
+            color: var(--text3);
+            letter-spacing: .15em;
+            text-transform: uppercase
+        }
+
+        .hdr-r {
+            display: flex;
+            align-items: center;
+            gap: 10px
+        }
+
+        .ibtn {
+            background: none;
+            border: 1px solid var(--border);
+            color: var(--text3);
+            width: 28px;
+            height: 28px;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: .75rem;
+            transition: all .25s
+        }
+
+        .ibtn:hover {
+            border-color: var(--gold);
+            color: var(--gold)
+        }
+
+        .back-link {
+            font-size: .6rem;
+            color: var(--text3);
+            text-decoration: none;
+            letter-spacing: .06em;
+            transition: color .25s;
+            display: flex;
+            align-items: center;
+            gap: 4px
+        }
+
+        .back-link:hover {
+            color: var(--gold)
+        }
+
+        /* Hero */
+        .hero {
+            position: relative;
+            overflow: hidden;
+            padding: 80px 32px 48px;
+            text-align: center;
+            background: var(--bg2)
+        }
+
+        .hero-img {
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: .25;
+            pointer-events: none;
+            filter: blur(1px)
+        }
+
+        .hero-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(8, 9, 13, .3), var(--bg));
+            pointer-events: none
+        }
+
+        [data-theme="light"] .hero-overlay {
+            background: linear-gradient(to bottom, rgba(248, 247, 244, .3), var(--bg))
+        }
+
+        .hero-content {
+            position: relative;
+            z-index: 1
+        }
+
+        .hero h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 4.5rem;
+            font-weight: 300;
+            letter-spacing: .3em;
+            margin-bottom: 16px;
+            background: linear-gradient(180deg, #fcefd4, #dbb170, #c8956c);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-transform: uppercase;
+        }
+
+        .hero p {
+            font-size: .78rem;
+            color: var(--text2);
+            letter-spacing: .04em;
+            max-width: 500px;
+            margin: 0 auto
+        }
+
+        /* Hero badges removed by user request */
+
+        /* Category Filter */
+        .cat-bar {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 10px 28px;
+            border-bottom: 1px solid var(--border);
+            overflow-x: auto;
+            white-space: nowrap;
+            background: var(--bg2)
+        }
+
+        .cat-bar::-webkit-scrollbar {
+            display: none
+        }
+
+        .cat-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            padding: 5px 14px;
+            border-radius: 16px;
+            font-size: .62rem;
+            font-weight: 600;
+            letter-spacing: .04em;
+            background: var(--bg3);
+            border: 1px solid var(--border);
+            color: var(--text2);
+            cursor: pointer;
+            transition: all .25s;
+            font-family: 'Inter', sans-serif;
+            flex-shrink: 0
+        }
+
+        .cat-btn:hover {
+            border-color: var(--text2)
+        }
+
+        .cat-btn.active {
+            background: var(--gold-dim);
+            border-color: rgba(200, 170, 110, .3);
+            color: var(--gold)
+        }
+
+        .cat-cnt {
+            font-size: .5rem;
+            font-family: 'JetBrains Mono', monospace;
+            opacity: .7;
+            background: rgba(255, 255, 255, .06);
+            padding: 1px 5px;
+            border-radius: 8px
+        }
+
+        .cat-btn.active .cat-cnt {
+            background: rgba(212, 168, 83, .15)
+        }
+
+        /* Main */
+        .main {
+            position: relative;
+            z-index: 1;
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 28px 32px 80px
+        }
+
+        /* Category Section */
+        .cat-section {
+            margin-bottom: 36px
+        }
+
+        .cat-title {
+            font-size: .62rem;
+            font-weight: 600;
+            color: var(--text3);
+            letter-spacing: .12em;
+            text-transform: uppercase;
+            padding: 0 0 10px 4px;
+            border-bottom: 1px solid var(--border);
+            margin-bottom: 12px;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }
+
+        .cat-icon {
+            font-size: .85rem
+        }
+
+        /* Tool Card Grid */
+        .tool-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 12px
+        }
+
+        /* Tool Card */
+        .tool-card {
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+            background: var(--glass-bg);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid var(--glass-border);
+            border-radius: var(--r);
+            transition: all .5s cubic-bezier(.25, 1, .5, 1);
+            cursor: pointer;
+            text-decoration: none;
+            color: inherit;
+            position: relative;
+            overflow: hidden;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.05);
+        }
+
+        .tool-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at 50% 0%, var(--glass-glow) 0%, transparent 60%);
+            opacity: 0;
+            transition: opacity 0.5s ease;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .tool-card:hover {
+            transform: translateY(-4px) scale(1.02);
+            border-color: rgba(212, 168, 83, 0.4);
+            background: var(--glass-bg-hover);
+            box-shadow: 0 20px 40px var(--glass-shadow), inset 0 0 20px rgba(212, 168, 83, 0.05);
+        }
+
+        .tool-card:hover::before {
+            opacity: 1;
+        }
+
+        .tool-card:hover .tool-name {
+            color: var(--gold)
+        }
+
+        .tool-top,
+        .tool-desc,
+        .tool-meta {
+            position: relative;
+            z-index: 1;
+        }
+
+        .tool-top {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            margin-bottom: 12px
+        }
+
+        .tool-icon {
+            width: 44px;
+            height: 44px;
+            border-radius: 12px;
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.3rem;
+            flex-shrink: 0;
+            box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.03);
+            position: relative;
+            overflow: hidden;
+            transition: all .5s ease;
+        }
+
+        .tool-icon::after {
+            content: '';
+            position: absolute;
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle at center, rgba(255, 255, 255, 0.08) 0%, transparent 40%);
+            top: -25%;
+            left: -25%;
+            opacity: 0.5;
+            transition: all .5s ease;
+        }
+
+        .tool-card:hover .tool-icon {
+            border-color: rgba(212, 168, 83, 0.5);
+            box-shadow: inset 0 0 15px rgba(212, 168, 83, 0.15);
+            transform: scale(1.05);
+        }
+
+        .tool-card:hover .tool-icon::after {
+            background: radial-gradient(circle at center, rgba(212, 168, 83, 0.25) 0%, transparent 40%);
+            opacity: 1;
+        }
+
+        .tool-name {
+            font-size: .88rem;
+            font-weight: 600;
+            letter-spacing: .01em;
+            transition: color .25s
+        }
+
+        .tool-desc {
+            font-size: .7rem;
+            color: var(--text2);
+            line-height: 1.6;
+            margin-bottom: 12px;
+            flex: 1
+        }
+
+        .tool-meta {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            flex-wrap: wrap
+        }
+
+        .tool-tag {
+            font-size: .5rem;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            letter-spacing: .03em
+        }
+
+        .tag-nexus {
+            background: linear-gradient(135deg, rgba(212, 168, 83, .15), rgba(212, 168, 83, .08));
+            color: var(--gold);
+            border: 1px solid rgba(212, 168, 83, .25)
+        }
+
+        .tag-free {
+            background: rgba(74, 222, 128, .1);
+            color: var(--green);
+            border: 1px solid rgba(74, 222, 128, .15)
+        }
+
+        .tag-paid {
+            background: rgba(167, 139, 250, .08);
+            color: var(--purple);
+            border: 1px solid rgba(167, 139, 250, .12)
+        }
+
+        .tag-freemium {
+            background: rgba(251, 146, 60, .08);
+            color: var(--orange);
+            border: 1px solid rgba(251, 146, 60, .12)
+        }
+
+        .tag-opensource {
+            background: rgba(34, 211, 238, .08);
+            color: var(--cyan);
+            border: 1px solid rgba(34, 211, 238, .12)
+        }
+
+        .tool-arrow {
+            font-size: .65rem;
+            color: var(--text3);
+            margin-left: auto;
+            transition: all .25s;
+            opacity: 0
+        }
+
+        .tool-card:hover .tool-arrow {
+            opacity: 1;
+            transform: translateX(3px)
+        }
+
+        /* Footer */
+        .footer {
+            text-align: center;
+            padding: 24px 32px;
+            border-top: 1px solid var(--border);
+            font-size: .52rem;
+            color: var(--text3);
+            letter-spacing: .08em
+        }
+
+        .footer a {
+            color: var(--gold);
+            text-decoration: none
+        }
+
+        .lang-wrap {
+            position: relative;
+            display: inline-flex;
+            align-items: center
+        }
+
+        .lang-sel {
+            appearance: none;
+            background: transparent;
+            border: 1px solid var(--border);
+            color: var(--text2);
+            padding: 4px 24px 4px 8px;
+            border-radius: 6px;
+            font-size: .6rem;
+            cursor: pointer;
+            transition: all .25s;
+            font-family: Inter, sans-serif
+        }
+
+        .lang-sel:hover {
+            border-color: var(--gold);
+            color: var(--gold)
+        }
+
+        .lang-sel option {
+            background: #1a1a1e;
+            color: #e0e0e0
+        }
+
+        [data-theme="light"] .lang-sel option {
+            background: #fff;
+            color: #222
+        }
+
+        .lang-arr {
+            position: absolute;
+            right: 8px;
+            font-size: .45rem;
+            color: var(--text3);
+            pointer-events: none
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            .hero h1 {
+                font-size: 1.8rem;
+                letter-spacing: .12em
+            }
+
+            .hero {
+                padding: 60px 20px 36px
+            }
+
+            .main {
+                padding: 20px 16px 60px
+            }
+
+            .cat-bar {
+                padding: 8px 16px
+            }
+
+            .tool-grid {
+                grid-template-columns: 1fr
+            }
+
+            .hdr {
+                padding: 0 16px
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="hdr">
+        <div class="hdr-l">
+            <a href="index.html" class="logo">
+                <span class="logo-mark"></span>
+                NEXUS
+            </a>
+            <!-- Removed logo-sub AI TOOLS text -->
+        </div>
+        <div class="hdr-r">
+            <div class="lang-wrap">
+                <select class="lang-sel" id="langSelect" onchange="setLang(this.value)">
+                    <option value="ja">🇯🇵 日本語</option>
+                    <option value="en">🇺🇸 English</option>
+                    <option value="zh">🇨🇳 中文</option>
+                    <option value="ko">🇰🇷 한국어</option>
+                    <option value="fr">🇫🇷 Français</option>
+                    <option value="de">🇩🇪 Deutsch</option>
+                    <option value="es">🇪🇸 Español</option>
+                    <option value="hi">🇮🇳 हिन्दी</option>
+                </select><span class="lang-arr">▼</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero -->
+    <section class="hero">
+        <img src="hero_ai_tools.png" alt="" class="hero-img">
+        <div class="hero-overlay"></div>
+        <div class="hero-content">
+            <h1>NEXUS AI TOOLS</h1>
+            <p>世界のトレンドAIツールを完全網羅。<br>NEXUSプロジェクトで実際に使用しているツールも紹介。</p>
+        </div>
+    </section>
+
+    <!-- Category Filter -->
+    <nav class="cat-bar" id="catBar">
+        <button class="cat-btn active" data-cat="all">ALL <span class="cat-cnt" id="cntAll">0</span></button>
+        <button class="cat-btn" data-cat="image">🎨 画像生成 <span class="cat-cnt" id="cntImage">0</span></button>
+        <button class="cat-btn" data-cat="video">🎬 動画生成 <span class="cat-cnt" id="cntVideo">0</span></button>
+        <button class="cat-btn" data-cat="3d">🧊 3D生成 <span class="cat-cnt" id="cnt3d">0</span></button>
+        <button class="cat-btn" data-cat="music">🎵 音楽生成 <span class="cat-cnt" id="cntMusic">0</span></button>
+        <button class="cat-btn" data-cat="voice">🎙️ 音声生成 <span class="cat-cnt" id="cntVoice">0</span></button>
+        <button class="cat-btn" data-cat="ai">🤖 AI アシスタント <span class="cat-cnt" id="cntAi">0</span></button>
+        <button class="cat-btn" data-cat="other">📦 その他 <span class="cat-cnt" id="cntOther">0</span></button>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main" id="toolsContainer"></main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>NEXUS AI TOOLS — Curated by <a href="index.html">NEXUS</a></p>
+        <p style="margin-top:4px">© 2026 Nine. All Rights Reserved.</p>
+    </footer>
+
+    <script>
+        // ━━━ Tool Data ━━━
+        const TOOLS = [
+            // 🎨 画像生成（おすすめ順）
+            { name: "Midjourney", cat: "image", icon: "🖼️", desc: "Discord上で動作するAI画像生成の代表格。アート性の高いビジュアルを生成可能。", url: "https://midjourney.com", tags: ["paid"] },
+            { name: "Kling AI", cat: "image", icon: "🎨", desc: "中国・快手発の高精度AI画像＆動画生成ツール。リアルな人物生成に強みがあり、NEXUSのキャラクター画像制作で活躍。", url: "https://klingai.com", tags: ["nexus", "freemium"] },
+            { name: "DALL·E 3", cat: "image", icon: "🎯", desc: "OpenAIの画像生成モデル。ChatGPT上から自然言語で精密な画像を生成できる。", url: "https://openai.com/dall-e-3", tags: ["freemium"] },
+            { name: "Flux", cat: "image", icon: "⚡", desc: "Black Forest Labs発の高品質オープンソース画像生成モデル。Stable Diffusionの後継的存在。", url: "https://blackforestlabs.ai", tags: ["opensource", "free"] },
+            { name: "Stable Diffusion", cat: "image", icon: "🔓", desc: "Stability AI発のオープンソース画像生成モデル。ローカル実行や自由なカスタマイズが可能。", url: "https://stability.ai", tags: ["opensource", "free"] },
+            { name: "Ideogram", cat: "image", icon: "✏️", desc: "テキスト入り画像の生成に圧倒的に強いAI画像生成ツール。ロゴやポスター制作に最適。", url: "https://ideogram.ai", tags: ["freemium"] },
+            { name: "Leonardo AI", cat: "image", icon: "🎮", desc: "ゲーム・コンセプトアートに特化したAI画像生成プラットフォーム。独自のモデルトレーニング機能も。", url: "https://leonardo.ai", tags: ["freemium"] },
+            { name: "Adobe Firefly", cat: "image", icon: "🔥", desc: "Adobe製品と完全統合されたAI画像生成。商用利用にも安心のライセンス設計。", url: "https://firefly.adobe.com", tags: ["freemium"] },
+
+            // 🎬 動画生成（おすすめ順）
+            { name: "Kling AI", cat: "video", icon: "🎬", desc: "テキストや画像から高品質な動画を生成。NEXUSアニメーションシリーズの映像制作に使用中。", url: "https://klingai.com", tags: ["nexus", "freemium"] },
+            { name: "Runway Gen-3", cat: "video", icon: "🎞️", desc: "プロクリエイター向けAI動画生成ツール。映像編集やVFXとの統合ワークフローに強み。", url: "https://runwayml.com", tags: ["paid"] },
+            { name: "Sora", cat: "video", icon: "🌐", desc: "OpenAIの動画生成モデル。リアルな世界のシミュレーションを目指す次世代ツール。", url: "https://openai.com/sora", tags: ["paid"] },
+            { name: "Luma Dream Machine", cat: "video", icon: "✨", desc: "高品質なAI動画生成。リアリスティックなモーションとカメラワークが特徴。", url: "https://lumalabs.ai/dream-machine", tags: ["freemium"] },
+            { name: "Veo", cat: "video", icon: "🔮", desc: "Google DeepMind発のAI動画生成モデル。高解像度・長尺のリアルな映像生成が可能。", url: "https://deepmind.google/technologies/veo", tags: ["paid"] },
+            { name: "Pika", cat: "video", icon: "🎥", desc: "テキストだけで動画を生成できるシンプルなAI動画ツール。直感的なUI。", url: "https://pika.art", tags: ["freemium"] },
+            { name: "Hailuo AI", cat: "video", icon: "🌊", desc: "MiniMax発の高品質AI動画生成ツール。無料枠が充実しており、気軽に試せるのが魅力。", url: "https://hailuoai.video", tags: ["freemium"] },
+            { name: "HeyGen", cat: "video", icon: "👤", desc: "AIアバター動画生成プラットフォーム。リアルなデジタルヒューマンでマーケティング動画を瞬時に制作。", url: "https://heygen.com", tags: ["freemium"] },
+
+
+            // 🧊 3D生成（おすすめ順）
+            { name: "Tripo AI", cat: "3d", icon: "🧊", desc: "テキストや画像から高品質な3Dモデルを自動生成。ゲームやアニメーション素材の制作に。", url: "https://tripo3d.ai", tags: ["freemium"] },
+            { name: "Meshy", cat: "3d", icon: "🔷", desc: "AI 3Dモデル生成プラットフォーム。テクスチャ適用まで自動化し、即座に使える3Dアセットを出力。", url: "https://meshy.ai", tags: ["freemium"] },
+            { name: "Luma Genie", cat: "3d", icon: "✨", desc: "Luma AI発のテキスト/画像から3Dモデルを生成するツール。高品質なメッシュとテクスチャを出力。", url: "https://lumalabs.ai/genie", tags: ["freemium"] },
+            { name: "Spline AI", cat: "3d", icon: "🎯", desc: "AIアシスト付き3Dデザインツール。ブラウザ上で直感的に3Dシーンやオブジェクトを作成可能。", url: "https://spline.design", tags: ["freemium"] },
+
+            // 🎵 音楽生成（おすすめ順）
+            { name: "Suno AI", cat: "music", icon: "🎵", desc: "テキストから楽曲を丸ごと生成するAI音楽プラットフォーム。NEXUSの全BGM・劇中歌を制作。", url: "https://suno.com", tags: ["nexus", "freemium"] },
+            { name: "Udio", cat: "music", icon: "🎶", desc: "高品質なAI音楽生成ツール。多様なジャンルとスタイルに対応し、プロレベルの楽曲を出力。", url: "https://udio.com", tags: ["freemium"] },
+            { name: "AIVA", cat: "music", icon: "🎼", desc: "クラシック・映画音楽に特化したAI作曲プラットフォーム。感情豊かなサウンドトラックを自動生成。", url: "https://aiva.ai", tags: ["freemium"] },
+
+            // 🎙️ 音声生成（おすすめ順）
+            { name: "ElevenLabs", cat: "voice", icon: "🎙️", desc: "超リアルなAI音声合成プラットフォーム。多言語対応とボイスクローニング機能。NEXUSのSFXに使用。", url: "https://elevenlabs.io", tags: ["nexus", "freemium"] },
+            { name: "VOICEVOX", cat: "voice", icon: "🗣️", desc: "無料のテキスト音声合成ソフト。多彩なキャラクターボイスが利用可能。NEXUSの321ボイスラインに使用。", url: "https://voicevox.hiroshiba.jp", tags: ["nexus", "free"] },
+            { name: "Descript", cat: "voice", icon: "📝", desc: "音声編集＋ボイスクローン機能を搭載。ポッドキャスト・動画ナレーション制作に最適。", url: "https://descript.com", tags: ["freemium"] },
+
+            // 🤖 AI アシスタント（おすすめ順）
+            { name: "Claude", cat: "ai", icon: "🧠", desc: "Anthropicの対話AI。長文理解・コード生成・創作支援に優れ、NEXUSの開発パートナー。", url: "https://claude.ai", tags: ["nexus", "freemium"] },
+            { name: "ChatGPT", cat: "ai", icon: "💬", desc: "OpenAIの対話AI。GPT-4oベースで、テキスト・画像・音声のマルチモーダル対応。", url: "https://chat.openai.com", tags: ["freemium"] },
+            { name: "Gemini", cat: "ai", icon: "💎", desc: "GoogleのAI。Google Workspaceとの統合やマルチモーダル機能が特徴。", url: "https://gemini.google.com", tags: ["freemium"] },
+            { name: "DeepSeek", cat: "ai", icon: "🌊", desc: "中国発の高性能オープンソースAI。低コストでGPT-4級の性能を実現し、業界に衝撃を与えた。", url: "https://deepseek.com", tags: ["opensource", "free"] },
+            { name: "Grok", cat: "ai", icon: "�", desc: "Elon Musk率いるxAIの対話AI。リアルタイム情報とX（Twitter）データへのアクセスが特徴。", url: "https://grok.x.ai", tags: ["freemium"] },
+            { name: "Perplexity", cat: "ai", icon: "🔍", desc: "AI搭載の次世代検索エンジン。ソース付きで正確な回答をリアルタイムに生成。", url: "https://perplexity.ai", tags: ["freemium"] },
+            { name: "Meta AI (Llama)", cat: "ai", icon: "🦙", desc: "Meta発のオープンソースLLM。DeepSeekと並ぶOSS界の巨頭で、世界中の開発者に利用されている。", url: "https://ai.meta.com", tags: ["opensource", "free"] },
+            { name: "Mistral", cat: "ai", icon: "�🇺", desc: "欧州発の高性能AI。コンパクトかつ高速なモデルで、EU市場を中心に存在感を拡大中。", url: "https://mistral.ai", tags: ["freemium"] },
+            { name: "GitHub Copilot", cat: "ai", icon: "�", desc: "GitHub公式AIコーディング支援。エディタ内でリアルタイムにコード補完・生成を行う開発者必携ツール。", url: "https://github.com/features/copilot", tags: ["paid"] },
+            { name: "Cursor", cat: "ai", icon: "⌨️", desc: "AI搭載コードエディタ。Claude/GPTと連携し、コーディングを強力にサポート。", url: "https://cursor.com", tags: ["freemium"] },
+            { name: "Windsurf", cat: "ai", icon: "🏄", desc: "AI搭載コードエディタ。フロー状態を維持したスムーズなコーディング体験が特徴。", url: "https://codeium.com/windsurf", tags: ["freemium"] },
+            { name: "Bolt.new", cat: "ai", icon: "⚡", desc: "プロンプトからフルスタックアプリを自動生成。ブラウザ上で開発からデプロイまで完結。", url: "https://bolt.new", tags: ["freemium"] },
+            { name: "v0", cat: "ai", icon: "🎨", desc: "Vercel製のAI UIジェネレーター。プロンプトからReactコンポーネントやウェブアプリを即座に生成。", url: "https://v0.dev", tags: ["freemium"] },
+            { name: "Lovable", cat: "ai", icon: "❤️", desc: "AIでウェブアプリを即座に構築。自然言語の指示だけで本格的なアプリ開発が可能。", url: "https://lovable.dev", tags: ["freemium"] },
+
+            // 📦 その他（おすすめ順）
+            { name: "NotebookLM", cat: "other", icon: "📓", desc: "Google製AIノートブック。アップロードした資料を基にAIポッドキャストを自動生成する機能も。", url: "https://notebooklm.google.com", tags: ["free"] },
+            { name: "Gamma", cat: "other", icon: "📊", desc: "AIプレゼンテーション＆ドキュメント生成ツール。テキストから美しいスライドを自動作成。", url: "https://gamma.app", tags: ["freemium"] },
+        ];
+
+        const CAT_META = {
+            image: { id: "cntImage" },
+            video: { id: "cntVideo" },
+            "3d": { id: "cnt3d" },
+            music: { id: "cntMusic" },
+            voice: { id: "cntVoice" },
+            ai: { id: "cntAi" },
+            other: { id: "cntOther" }
+        };
+
+        const TAG_LABELS = {
+            nexus: { text: "★ NEXUS使用", cls: "tag-nexus" },
+            free: { text: "FREE", cls: "tag-free" },
+            paid: { text: "PAID", cls: "tag-paid" },
+            freemium: { text: "FREEMIUM", cls: "tag-freemium" },
+            opensource: { text: "OPEN SOURCE", cls: "tag-opensource" },
+        };
+
+        let currentCat = "all";
+        let currentLang = "ja";
+
+        // ━━━ i18n UI Texts ━━━
+        const UI = {
+            ja: {
+                back: "← ホームへ戻る", heroDesc: "世界のトレンドAIツールを完全網羅。<br>NEXUSプロジェクトで実際に使用しているツールも紹介。", nexusTag: "★ NEXUS使用", footer1: "NEXUS AI TOOLS — Curated by", footer2: "© 2026 Nine. All Rights Reserved.",
+                cats: { image: "🎨 画像生成", video: "🎬 動画生成", "3d": "🧊 3D生成", music: "🎵 音楽生成", voice: "🎙️ 音声生成", ai: "🤖 AI アシスタント", other: "📦 その他" },
+                badges: ["🎨 画像生成", "🎬 動画生成", "🧊 3D生成", "🎵 音楽生成", "🎙️ 音声生成", "🤖 AI アシスタント", "📦 その他"],
+                filterBtns: { all: "ALL", image: "🎨 画像生成", video: "🎬 動画生成", "3d": "🧊 3D生成", music: "🎵 音楽生成", voice: "🎙️ 音声生成", ai: "🤖 AI アシスタント", other: "📦 その他" }
+            },
+            en: {
+                back: "← Back to Home", heroDesc: "A comprehensive guide to the world's trending AI tools.<br>Including tools used in the NEXUS project.", nexusTag: "★ NEXUS PICK", footer1: "NEXUS AI TOOLS — Curated by", footer2: "© 2026 Nine. All Rights Reserved.",
+                cats: { image: "🎨 Image Generation", video: "🎬 Video Generation", "3d": "🧊 3D Generation", music: "🎵 Music Generation", voice: "🎙️ Voice Synthesis", ai: "🤖 AI Assistants", other: "📦 Others" },
+                badges: ["🎨 Image", "🎬 Video", "🧊 3D", "🎵 Music", "🎙️ Voice", "🤖 AI", "📦 Others"],
+                filterBtns: { all: "ALL", image: "🎨 Image", video: "🎬 Video", "3d": "🧊 3D", music: "🎵 Music", voice: "🎙️ Voice", ai: "🤖 AI", other: "📦 Others" }
+            },
+            zh: {
+                back: "← 返回首页", heroDesc: "全球热门AI工具完全收录。<br>包含NEXUS项目实际使用的工具。", nexusTag: "★ NEXUS精选", footer1: "NEXUS AI TOOLS — 策划", footer2: "© 2026 Nine. 保留所有权利。",
+                cats: { image: "🎨 图像生成", video: "🎬 视频生成", "3d": "🧊 3D生成", music: "🎵 音乐生成", voice: "🎙️ 语音合成", ai: "🤖 AI 助手", other: "📦 其他" },
+                badges: ["🎨 图像", "🎬 视频", "🧊 3D", "🎵 音乐", "🎙️ 语音", "🤖 AI", "📦 其他"],
+                filterBtns: { all: "全部", image: "🎨 图像", video: "🎬 视频", "3d": "🧊 3D", music: "🎵 音乐", voice: "🎙️ 语音", ai: "🤖 AI", other: "📦 其他" }
+            },
+            ko: {
+                back: "← 홈으로", heroDesc: "전 세계 트렌드 AI 도구를 완전 수록.<br>NEXUS 프로젝트에서 실제 사용 중인 도구도 소개.", nexusTag: "★ NEXUS 사용", footer1: "NEXUS AI TOOLS — 큐레이션", footer2: "© 2026 Nine. All Rights Reserved.",
+                cats: { image: "🎨 이미지 생성", video: "🎬 영상 생성", "3d": "🧊 3D 생성", music: "🎵 음악 생성", voice: "🎙️ 음성 합성", ai: "🤖 AI 어시스턴트", other: "📦 기타" },
+                badges: ["🎨 이미지", "🎬 영상", "🧊 3D", "🎵 음악", "🎙️ 음성", "🤖 AI", "📦 기타"],
+                filterBtns: { all: "전체", image: "🎨 이미지", video: "🎬 영상", "3d": "🧊 3D", music: "🎵 음악", voice: "🎙️ 음성", ai: "🤖 AI", other: "📦 기타" }
+            },
+            fr: {
+                back: "← Retour", heroDesc: "Guide complet des outils IA tendance dans le monde.<br>Inclut les outils utilisés dans le projet NEXUS.", nexusTag: "★ NEXUS", footer1: "NEXUS AI TOOLS — Par", footer2: "© 2026 Nine. Tous droits réservés.",
+                cats: { image: "🎨 Génération d'images", video: "🎬 Génération vidéo", "3d": "🧊 Génération 3D", music: "🎵 Génération musicale", voice: "🎙️ Synthèse vocale", ai: "🤖 Assistants IA", other: "📦 Autres" },
+                badges: ["🎨 Image", "🎬 Vidéo", "🧊 3D", "🎵 Musique", "🎙️ Voix", "🤖 IA", "📦 Autres"],
+                filterBtns: { all: "TOUT", image: "🎨 Image", video: "🎬 Vidéo", "3d": "🧊 3D", music: "🎵 Musique", voice: "🎙️ Voix", ai: "🤖 IA", other: "📦 Autres" }
+            },
+            de: {
+                back: "← Zurück", heroDesc: "Vollständiger Leitfaden zu den angesagtesten KI-Tools der Welt.<br>Einschließlich der im NEXUS-Projekt verwendeten Tools.", nexusTag: "★ NEXUS", footer1: "NEXUS AI TOOLS — Kuratiert von", footer2: "© 2026 Nine. Alle Rechte vorbehalten.",
+                cats: { image: "🎨 Bilderzeugung", video: "🎬 Videoerzeugung", "3d": "🧊 3D-Erzeugung", music: "🎵 Musikerzeugung", voice: "🎙️ Sprachsynthese", ai: "🤖 KI-Assistenten", other: "📦 Sonstiges" },
+                badges: ["🎨 Bild", "🎬 Video", "🧊 3D", "🎵 Musik", "🎙️ Stimme", "🤖 KI", "📦 Sonstiges"],
+                filterBtns: { all: "ALLE", image: "🎨 Bild", video: "🎬 Video", "3d": "🧊 3D", music: "🎵 Musik", voice: "🎙️ Stimme", ai: "🤖 KI", other: "📦 Sonstiges" }
+            },
+            es: {
+                back: "← Volver", heroDesc: "Guía completa de herramientas IA en tendencia en el mundo.<br>Incluye herramientas usadas en el proyecto NEXUS.", nexusTag: "★ NEXUS", footer1: "NEXUS AI TOOLS — Curado por", footer2: "© 2026 Nine. Todos los derechos reservados.",
+                cats: { image: "🎨 Generación de imágenes", video: "🎬 Generación de vídeo", "3d": "🧊 Generación 3D", music: "🎵 Generación musical", voice: "🎙️ Síntesis de voz", ai: "🤖 Asistentes IA", other: "📦 Otros" },
+                badges: ["🎨 Imagen", "🎬 Vídeo", "🧊 3D", "🎵 Música", "🎙️ Voz", "🤖 IA", "📦 Otros"],
+                filterBtns: { all: "TODO", image: "🎨 Imagen", video: "🎬 Vídeo", "3d": "🧊 3D", music: "🎵 Música", voice: "🎙️ Voz", ai: "🤖 IA", other: "📦 Otros" }
+            },
+            hi: {
+                back: "← होम पर वापस", heroDesc: "दुनिया के ट्रेंडिंग AI टूल्स की पूरी गाइड।<br>NEXUS प्रोजेक्ट में उपयोग किए गए टूल्स भी शामिल।", nexusTag: "★ NEXUS", footer1: "NEXUS AI TOOLS — द्वारा क्यूरेट", footer2: "© 2026 Nine. सभी अधिकार सुरक्षित।",
+                cats: { image: "🎨 छवि निर्माण", video: "🎬 वीडियो निर्माण", "3d": "🧊 3D निर्माण", music: "🎵 संगीत निर्माण", voice: "🎙️ वॉइस सिंथेसिस", ai: "🤖 AI सहायक", other: "📦 अन्य" },
+                badges: ["🎨 छवि", "🎬 वीडियो", "🧊 3D", "🎵 संगीत", "🎙️ वॉइस", "🤖 AI", "📦 अन्य"],
+                filterBtns: { all: "सभी", image: "🎨 छवि", video: "🎬 वीडियो", "3d": "🧊 3D", music: "🎵 संगीत", voice: "🎙️ वॉइस", ai: "🤖 AI", other: "📦 अन्य" }
+            }
+        };
+
+        function t(key) { return (UI[currentLang] || UI.ja)[key] || UI.ja[key]; }
+
+        function getDesc(tool) {
+            if (currentLang === "ja") return tool.desc;
+            if (window.TOOL_I18N && window.TOOL_I18N[currentLang] && window.TOOL_I18N[currentLang][tool.name]) {
+                return window.TOOL_I18N[currentLang][tool.name];
+            }
+            return tool.desc;
+        }
+
+        function renderTools() {
+            const container = document.getElementById("toolsContainer");
+            const cats = currentCat === "all" ? Object.keys(CAT_META) : [currentCat];
+            const ui = UI[currentLang] || UI.ja;
+            let html = "";
+            cats.forEach(cat => {
+                const tools = TOOLS.filter(t => t.cat === cat);
+                if (!tools.length) return;
+                html += `<section class="cat-section">
+                    <h2 class="cat-title">${ui.cats[cat]}</h2>
+                    <div class="tool-grid">
+                        ${tools.map(t => {
+                    const tagHtml = t.tags.map(tag => {
+                        if (tag === "nexus") return `<span class="tool-tag tag-nexus">${ui.nexusTag}</span>`;
+                        const info = TAG_LABELS[tag];
+                        return info ? `<span class="tool-tag ${info.cls}">${info.text}</span>` : '';
+                    }).join('');
+                    return `<a href="${t.url}" target="_blank" rel="noopener noreferrer" class="tool-card">
+                                <div class="tool-top">
+                                    <div class="tool-icon">${t.icon}</div>
+                                    <div class="tool-name">${t.name}</div>
+                                    <span class="tool-arrow">→</span>
+                                </div>
+                                <div class="tool-desc">${getDesc(t)}</div>
+                                <div class="tool-meta">${tagHtml}</div>
+                            </a>`;
+                }).join('')}
+                    </div>
+                </section>`;
+            });
+            container.innerHTML = html;
+        }
+
+        function updateUI() {
+            const ui = UI[currentLang] || UI.ja;
+            document.getElementById("backLink").textContent = ui.back;
+            document.querySelector(".hero-content p").innerHTML = ui.heroDesc;
+            const badges = document.querySelectorAll(".hero-badge");
+            ui.badges.forEach((b, i) => { if (badges[i]) badges[i].textContent = b; });
+            const btns = document.querySelectorAll(".cat-btn");
+            const keys = ["all", "image", "video", "3d", "music", "voice", "ai", "other"];
+            btns.forEach((btn, i) => {
+                const cnt = btn.querySelector(".cat-cnt");
+                const cntHtml = cnt ? ` ${cnt.outerHTML}` : "";
+                btn.innerHTML = ui.filterBtns[keys[i]] + cntHtml;
+            });
+            const fp = document.querySelectorAll(".footer p");
+            if (fp[0]) fp[0].innerHTML = `${ui.footer1} <a href="index.html">NEXUS</a>`;
+            if (fp[1]) fp[1].textContent = ui.footer2;
+        }
+
+        function updateCounts() {
+            document.getElementById("cntAll").textContent = TOOLS.length;
+            Object.keys(CAT_META).forEach(cat => {
+                const cnt = TOOLS.filter(t => t.cat === cat).length;
+                document.getElementById(CAT_META[cat].id).textContent = cnt;
+            });
+        }
+
+        function setLang(l) {
+            currentLang = l;
+            document.getElementById("langSelect").value = l;
+            updateUI();
+            renderTools();
+        }
+
+        // Category filter
+        document.getElementById("catBar").addEventListener("click", e => {
+            const btn = e.target.closest(".cat-btn");
+            if (!btn) return;
+            document.querySelectorAll(".cat-btn").forEach(b => b.classList.remove("active"));
+            btn.classList.add("active");
+            currentCat = btn.dataset.cat;
+            renderTools();
+        });
+
+        // Feature removed by request
+
+        // Init
+        updateCounts();
+        renderTools();
+    </script>
+    <script src="ai_tools_i18n.js" defer></script>
+</body>
+
+</html>
