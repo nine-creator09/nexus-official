@@ -19,10 +19,12 @@
 const header = document.getElementById('header');
 
 window.addEventListener('scroll', () => {
-    if (window.scrollY > 80) {
-        header.classList.add('scrolled');
-    } else {
-        header.classList.remove('scrolled');
+    if (header) {
+        if (window.scrollY > 80) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
     }
 });
 
@@ -30,15 +32,17 @@ window.addEventListener('scroll', () => {
 const hamburger = document.getElementById('hamburger');
 const mobileNav = document.getElementById('mobileNav');
 
-hamburger.addEventListener('click', () => {
-    hamburger.classList.toggle('active');
-    mobileNav.classList.toggle('open');
-    document.body.style.overflow = mobileNav.classList.contains('open') ? 'hidden' : '';
-});
+if (hamburger && mobileNav) {
+    hamburger.addEventListener('click', () => {
+        hamburger.classList.toggle('active');
+        mobileNav.classList.toggle('open');
+        document.body.style.overflow = mobileNav.classList.contains('open') ? 'hidden' : '';
+    });
+}
 
 function closeMobileNav() {
-    hamburger.classList.remove('active');
-    mobileNav.classList.remove('open');
+    hamburger?.classList.remove('active');
+    mobileNav?.classList.remove('open');
     document.body.style.overflow = '';
 }
 
@@ -68,7 +72,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         e.preventDefault();
         const target = document.querySelector(this.getAttribute('href'));
         if (target) {
-            const headerHeight = header.offsetHeight;
+            const headerHeight = header ? header.offsetHeight : 0;
             const targetPos = target.getBoundingClientRect().top + window.pageYOffset - headerHeight;
             window.scrollTo({
                 top: targetPos,
@@ -82,7 +86,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const heroBg = document.querySelector('.hero-bg');
 
 window.addEventListener('scroll', () => {
-    if (window.scrollY < window.innerHeight) {
+    if (heroBg && window.scrollY < window.innerHeight) {
         const offset = window.scrollY * 0.25;
         heroBg.style.transform = `translateY(${offset}px) scale(1.05)`;
     }
@@ -91,12 +95,14 @@ window.addEventListener('scroll', () => {
 // ─── Hero Mouse Parallax (Desktop Only) ───
 if (window.innerWidth > 768) {
     const hero = document.querySelector('.hero');
-    hero.addEventListener('mousemove', (e) => {
-        const rect = hero.getBoundingClientRect();
-        const x = ((e.clientX - rect.left) / rect.width - 0.5) * 8;
-        const y = ((e.clientY - rect.top) / rect.height - 0.5) * 8;
-        heroBg.style.transform = `translate(${x}px, ${y}px) scale(1.05)`;
-    });
+    if (hero) {
+        hero.addEventListener('mousemove', (e) => {
+            const rect = hero.getBoundingClientRect();
+            const x = ((e.clientX - rect.left) / rect.width - 0.5) * 8;
+            const y = ((e.clientY - rect.top) / rect.height - 0.5) * 8;
+            if (heroBg) heroBg.style.transform = `translate(${x}px, ${y}px) scale(1.05)`;
+        });
+    }
 }
 
 // ═══════════════════════════
@@ -226,21 +232,37 @@ function applyLang(lang) {
     html.setAttribute('lang', lang === 'ja' ? 'ja' : 'en');
     html.setAttribute('data-lang', lang);
 
-    // data-jp / data-en 属性を持つ全要素のテキストを切り替え
-    // lang='ja' → data-jp, lang='en' → data-en
-    const attrKey = lang === 'ja' ? 'data-jp' : 'data-en';
-    document.querySelectorAll('[data-jp][data-en]').forEach(el => {
-        el.innerHTML = el.getAttribute(attrKey);
+    // data-jp / data-en などを使用する要素のテキストを切り替え
+    // 存在しない言語（fr, zhなど）は 'data-en' にフォールバックする
+    document.querySelectorAll('[data-jp], [data-en]').forEach(el => {
+        const targetAttr = `data-${lang}`;
+        const fallbackAttr = 'data-en';
+
+        // 優先順位: 選択言語 > 英語 > 現状維持
+        const text = el.getAttribute(targetAttr) || el.getAttribute(fallbackAttr);
+        if (text) {
+            el.innerHTML = text;
+        }
     });
 
-    // ボタンのアクティブ状態を更新
+    // 古いボタンスタイルのアクティブ状態を更新（後方互換性用）
     const btn = document.getElementById('langToggle');
     if (btn) {
         btn.querySelector('.lang-jp').classList.toggle('lang-active', lang === 'ja');
         btn.querySelector('.lang-en').classList.toggle('lang-active', lang === 'en');
     }
 
+    // 新しいセレクトドロップダウンの値を更新
+    const sel = document.getElementById('langSelect');
+    if (sel && sel.value !== lang) {
+        sel.value = lang;
+    }
+
     localStorage.setItem('nexus-lang', lang);
+}
+
+function setLang(lang) {
+    applyLang(lang);
 }
 
 function toggleLang() {

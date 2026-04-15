@@ -17,7 +17,7 @@
   <meta name="twitter:description" content="AI × Family × 2040. An imperfect family choosing imperfect happiness.">
   <meta name="twitter:image" content="images/hero_kv.jpg">
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
-  <link rel="stylesheet" href="style.css?v=15">
+  <link rel="stylesheet" href="style.css?v=1.3">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -60,19 +60,26 @@
       <div class="header-right">
         <nav>
           <ul class="nav-links">
-            <li><a href="ai_news.html" class="nav-ai-news">AI NEWS</a></li>
-            <li><a href="ai_tools.html" class="nav-ai-news">AI TOOLS</a></li>
+            <li><a href="ai_news.html">AI NEWS</a></li>
             <li><a href="#youtube">YOUTUBE</a></li>
+            <li><a href="ai_tools.html">AI TOOLS</a></li>
             <li><a href="#character">CHARACTER</a></li>
             <li><a href="#music">MUSIC</a></li>
           </ul>
         </nav>
-        <!-- 言語切り替えボタン -->
-        <button class="lang-toggle" id="langToggle" onclick="toggleLang()" aria-label="Switch language">
-          <span class="lang-jp">JP</span>
-          <span class="lang-divider">|</span>
-          <span class="lang-en">EN</span>
-        </button>
+        <!-- 言語切り替えドロップダウン -->
+        <div class="lang-wrap">
+          <select class="lang-sel" id="langSelect" onchange="setLang(this.value)">
+            <option value="ja">🇯🇵 日本語</option>
+            <option value="en">🇺🇸 English</option>
+            <option value="zh">🇨🇳 中文</option>
+            <option value="ko">🇰🇷 한국어</option>
+            <option value="fr">🇫🇷 Français</option>
+            <option value="de">🇩🇪 Deutsch</option>
+            <option value="es">🇪🇸 Español</option>
+            <option value="hi">🇮🇳 हिन्दी</option>
+          </select><span class="lang-arr">▼</span>
+        </div>
         <div class="hamburger" id="hamburger">
           <span></span>
           <span></span>
@@ -84,9 +91,9 @@
 
   <!-- Mobile Nav Overlay -->
   <div class="mobile-nav" id="mobileNav">
-    <a href="ai_news.html" class="nav-ai-news" onclick="closeMobileNav()">🌐 AI NEWS</a>
-    <a href="ai_tools.html" class="nav-ai-news" onclick="closeMobileNav()">🛠️ AI TOOLS</a>
+    <a href="ai_news.html" onclick="closeMobileNav()">AI NEWS</a>
     <a href="#youtube" onclick="closeMobileNav()">YOUTUBE</a>
+    <a href="ai_tools.html" onclick="closeMobileNav()">AI TOOLS</a>
     <a href="#character" onclick="closeMobileNav()">CHARACTER</a>
     <a href="#music" onclick="closeMobileNav()">MUSIC</a>
   </div>
@@ -167,25 +174,41 @@
         </p>
       </div>
       <div class="youtube-cards fade-in stagger-2">
-        <div class="youtube-card">
-          <span class="youtube-card-number">01</span>
-          <h3 class="youtube-card-title" data-jp="オリジナルストーリー" data-en="Original Stories">オリジナルストーリー</h3>
-          <p class="youtube-card-desc" data-jp="好きなキャラクターを選んで、あなただけの物語を作ろう"
-            data-en="Pick your favorite character and craft your own story">好きなキャラクターを選んで、あなただけの物語を作ろう</p>
-        </div>
-        <div class="youtube-card">
-          <span class="youtube-card-number">02</span>
-          <h3 class="youtube-card-title" data-jp="スピンオフ &amp; IF" data-en="Spin-offs &amp; What-Ifs">スピンオフ &amp; IF</h3>
-          <p class="youtube-card-desc" data-jp="AIと人間が共存する世界でのスピンオフやIFストーリー"
-            data-en="Create spin-offs and what-if stories in a world where AI and humans coexist">
-            AIと人間が共存する世界でのスピンオフやIFストーリー</p>
-        </div>
-        <div class="youtube-card">
-          <span class="youtube-card-number">03</span>
-          <h3 class="youtube-card-title" data-jp="日常のワンシーン" data-en="Everyday Moments">日常のワンシーン</h3>
-          <p class="youtube-card-desc" data-jp="推しキャラの何気ない日常をあなたの視点で"
-            data-en="Capture quiet everyday moments of your favorite character">推しキャラの何気ない日常をあなたの視点で</p>
-        </div>
+        <a href="https://www.youtube.com/@nexus_records" target="_blank" rel="noopener noreferrer" class="youtube-card">
+          <div class="youtube-card-image">
+            <img src="assets/img/youtube_original.png" alt="Original Stories Concept">
+          </div>
+          <div class="youtube-card-content">
+            <span class="youtube-card-number">01</span>
+            <h3 class="youtube-card-title" data-jp="オリジナルストーリー" data-en="Original Stories">オリジナルストーリー</h3>
+            <p class="youtube-card-desc" data-jp="好きなキャラクターを選んで、あなただけの物語を作ろう"
+              data-en="Pick your favorite character and craft your own story">好きなキャラクターを選んで、あなただけの物語を作ろう</p>
+          </div>
+        </a>
+        <a href="https://www.youtube.com/@nexus_records" target="_blank" rel="noopener noreferrer" class="youtube-card">
+          <div class="youtube-card-image">
+            <img src="assets/img/youtube_spinoff.png" alt="Spin-offs Concept">
+          </div>
+          <div class="youtube-card-content">
+            <span class="youtube-card-number">02</span>
+            <h3 class="youtube-card-title" data-jp="スピンオフ &amp; IF" data-en="Spin-offs &amp; What-Ifs">スピンオフ &amp; IF
+            </h3>
+            <p class="youtube-card-desc" data-jp="AIと人間が共存する世界でのスピンオフやIFストーリー"
+              data-en="Create spin-offs and what-if stories in a world where AI and humans coexist">
+              AIと人間が共存する世界でのスピンオフやIFストーリー</p>
+          </div>
+        </a>
+        <a href="https://www.youtube.com/@nexus_records" target="_blank" rel="noopener noreferrer" class="youtube-card">
+          <div class="youtube-card-image">
+            <img src="assets/img/youtube_everyday.png" alt="Everyday Moments Concept">
+          </div>
+          <div class="youtube-card-content">
+            <span class="youtube-card-number">03</span>
+            <h3 class="youtube-card-title" data-jp="日常のワンシーン" data-en="Everyday Moments">日常のワンシーン</h3>
+            <p class="youtube-card-desc" data-jp="推しキャラの何気ない日常をあなたの視点で"
+              data-en="Capture quiet everyday moments of your favorite character">推しキャラの何気ない日常をあなたの視点で</p>
+          </div>
+        </a>
       </div>
 
 
@@ -217,34 +240,35 @@
           data-en="42 curated tools across image, video, 3D, music, voice &amp; AI assistants,<br>organized by category for creators.">
           画像・動画・3D・音楽・音声・AIアシスタントなど、<br>クリエイターに役立つ42の厳選ツールをカテゴリ別に紹介。
         </p>
-        <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin-bottom:32px">
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🎨
-            画像生成</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🎬
-            動画生成</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🧊
-            3D生成</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🎵
-            音楽生成</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🎙️
-            音声生成</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">🤖
-            AI アシスタント</span>
-          <span class="tag"
-            style="background:rgba(212,168,83,.12);color:#d4a853;border:1px solid rgba(212,168,83,.25);padding:6px 14px;border-radius:20px;font-size:.7rem;letter-spacing:.04em">📦
-            その他</span>
+        <div class="museum-teaser-grid">
+          <a href="ai_tools.html" class="museum-case">
+            <div class="museum-image-wrapper">
+              <img src="assets/img/museum_midjourney.png" alt="Midjourney Gallery Display">
+            </div>
+            <h3 class="museum-plaque-title">Midjourney</h3>
+            <p class="museum-plaque-desc">最高峰の画像生成エンジン<br>クリエイティブ・コア</p>
+          </a>
+          <a href="ai_tools.html" class="museum-case">
+            <div class="museum-image-wrapper">
+              <img src="assets/img/museum_kling.png" alt="Kling AI Gallery Display">
+            </div>
+            <h3 class="museum-plaque-title">Kling AI</h3>
+            <p class="museum-plaque-desc">驚異的な空間理解を持つ<br>高精度動画ジェネレーター</p>
+          </a>
+          <a href="ai_tools.html" class="museum-case">
+            <div class="museum-image-wrapper">
+              <img src="assets/img/museum_elevenlabs.png" alt="ElevenLabs Gallery Display">
+            </div>
+            <h3 class="museum-plaque-title">ElevenLabs</h3>
+            <p class="museum-plaque-desc">息遣いや感情の機微まで再現<br>ニューラル音声プラットフォーム</p>
+          </a>
         </div>
       </div>
       <div class="youtube-cta fade-in stagger-2" style="text-align:center">
-        <a href="ai_tools.html" class="youtube-btn" style="display:inline-flex;align-items:center;gap:8px">
-          <span style="font-size:1.1rem">🔧</span>
-          <span data-jp="AIツール一覧を見る" data-en="Browse AI Tools">AIツール一覧を見る</span>
+        <a href="ai_tools.html" class="youtube-btn"
+          style="background:transparent; border:1px solid rgba(212,168,83,0.5); color:#dbb170; display:inline-flex; align-items:center; gap:8px;">
+          <span style="font-size:1.1rem">✨</span>
+          <span data-jp="全てのAIツールを探索する" data-en="Explore All AI Tools">全てのAIツールを探索する</span>
         </a>
       </div>
     </div>
@@ -260,48 +284,59 @@
 
         <div class="carousel-item">
           <div class="carousel-img-wrap">
-            <img src="images/willa.jpg?v=2" alt="Willa Blackwood">
+            <img src="images/willa.jpg?v=3" alt="Willa Blackwood">
           </div>
           <div class="carousel-info">
-            <h3 class="carousel-name">WILLA</h3>
+            <h3 class="carousel-name">WILLA BLACKWOOD</h3>
             <p class="carousel-role" data-jp="HUMAN / AGE 12" data-en="HUMAN / AGE 12">HUMAN / AGE 12</p>
           </div>
         </div>
 
         <div class="carousel-item">
           <div class="carousel-img-wrap">
-            <img src="images/victoria.jpg?v=2" alt="Victoria Blackwood">
+            <img src="images/victoria.jpg?v=3" alt="Victoria Blackwood">
           </div>
           <div class="carousel-info">
-            <h3 class="carousel-name">VICTORIA</h3>
+            <h3 class="carousel-name">VICTORIA BLACKWOOD</h3>
             <p class="carousel-role" data-jp="AI / MOTHER" data-en="AI / MOTHER">AI / MOTHER</p>
           </div>
         </div>
 
         <div class="carousel-item">
           <div class="carousel-img-wrap">
-            <img src="images/liam.jpg?v=2" alt="Liam Blackwood">
+            <img src="images/liam.jpg?v=3" alt="Liam Blackwood">
           </div>
           <div class="carousel-info">
-            <h3 class="carousel-name">LIAM</h3>
+            <h3 class="carousel-name">LIAM BLACKWOOD</h3>
             <p class="carousel-role" data-jp="HALF-AI / BROTHER" data-en="HALF-AI / BROTHER">HALF-AI / BROTHER</p>
           </div>
         </div>
 
         <div class="carousel-item">
           <div class="carousel-img-wrap">
-            <img src="images/edward.jpg?v=2" alt="Edward Blackwood">
+            <img src="images/edward.jpg?v=3" alt="Edward Blackwood">
           </div>
           <div class="carousel-info">
-            <h3 class="carousel-name">EDWARD</h3>
-            <p class="carousel-role" data-jp="AI RESEARCHER / FATHER" data-en="AI RESEARCHER / FATHER">AI RESEARCHER /
-              FATHER</p>
+            <h3 class="carousel-name">EDWARD BLACKWOOD</h3>
+            <p class="carousel-role" data-jp="GENERAL AI ARCHITECT / FATHER" data-en="GENERAL AI ARCHITECT / FATHER">
+              GENERAL AI ARCHITECT / FATHER</p>
           </div>
         </div>
 
         <div class="carousel-item">
           <div class="carousel-img-wrap">
-            <img src="images/lina_sky.jpg?v=3" alt="Lina Sky">
+            <img src="images/lewis_rockwell.jpg?v=3" alt="Lewis Rockwell">
+          </div>
+          <div class="carousel-info">
+            <h3 class="carousel-name">LEWIS ROCKWELL</h3>
+            <p class="carousel-role" data-jp="LEGAL & STRATEGIC RISK ADVISOR" data-en="LEGAL & STRATEGIC RISK ADVISOR">
+              LEGAL & STRATEGIC RISK ADVISOR</p>
+          </div>
+        </div>
+
+        <div class="carousel-item">
+          <div class="carousel-img-wrap">
+            <img src="images/lina_sky.jpg?v=4" alt="Lina Sky">
           </div>
           <div class="carousel-info">
             <h3 class="carousel-name">LINA SKY</h3>
@@ -375,8 +410,8 @@
       <div class="tracklist fade-in stagger-1">
 
         <div class="tracklist-header">
-          <span class="tracklist-label">NEXUS</span>
-          <span class="tracklist-artist">Willa Blackwood</span>
+          <span class="tracklist-label">NEXUS OFFICIAL</span>
+          <span class="tracklist-artist">Nine</span>
         </div>
 
         <div class="tracklist-item">
@@ -392,21 +427,16 @@
           <h3 class="tracklist-title">Sincerely Yours</h3>
         </div>
 
-        <div class="tracklist-header tracklist-header--aether">
-          <span class="tracklist-label tracklist-label--aether">AETHER TEMPLE</span>
-          <span class="tracklist-artist">Lina Sky</span>
-        </div>
-
-        <div class="tracklist-item tracklist-item--aether">
-          <span class="tracklist-num">01</span>
+        <div class="tracklist-item">
+          <span class="tracklist-num">04</span>
           <h3 class="tracklist-title">First Breath</h3>
         </div>
-        <div class="tracklist-item tracklist-item--aether">
-          <span class="tracklist-num">02</span>
+        <div class="tracklist-item">
+          <span class="tracklist-num">05</span>
           <h3 class="tracklist-title">Imperfect World</h3>
         </div>
-        <div class="tracklist-item tracklist-item--aether">
-          <span class="tracklist-num">03</span>
+        <div class="tracklist-item">
+          <span class="tracklist-num">06</span>
           <h3 class="tracklist-title">焔流し</h3>
         </div>
 
