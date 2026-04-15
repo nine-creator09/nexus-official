@@ -226,33 +226,62 @@ if (window.innerWidth > 768) {
     });
 }
 
-// ─── Language Toggle ───
+// ─── Dynamic Language Translation Core ───
+const _uiTransCache = {};
+
+async function _uiTranslate(text, to) {
+    const from = 'ja';
+    const gtLang = to === 'zh' ? 'zh-CN' : to;
+    const k = `${from}|${gtLang}|${text}`;
+    if (_uiTransCache[k]) return _uiTransCache[k];
+    try {
+        const u = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=${from}&tl=${gtLang}&dt=t&q=${encodeURIComponent(text)}`;
+        const r = await fetch(u, { signal: AbortSignal.timeout(6000) });
+        const d = await r.json();
+        const res = d[0].map(s => s[0]).join('');
+        _uiTransCache[k] = res;
+        return res;
+    } catch (e) {
+        return null;
+    }
+}
+
 function applyLang(lang) {
     const html = document.documentElement;
-    html.setAttribute('lang', lang === 'ja' ? 'ja' : 'en');
+    html.setAttribute('lang', lang);
     html.setAttribute('data-lang', lang);
 
-    // data-jp / data-en などを使用する要素のテキストを切り替え
-    // 存在しない言語（fr, zhなど）は 'data-en' にフォールバックする
-    document.querySelectorAll('[data-jp], [data-en]').forEach(el => {
-        const targetAttr = `data-${lang}`;
-        const fallbackAttr = 'data-en';
+    document.querySelectorAll('[data-jp]').forEach(async el => {
+        const targetAttr = lang === 'ja' ? 'data-jp' : `data-${lang}`;
 
-        // 優先順位: 選択言語 > 英語 > 現状維持
-        const text = el.getAttribute(targetAttr) || el.getAttribute(fallbackAttr);
+        let text = el.getAttribute(targetAttr);
         if (text) {
             el.innerHTML = text;
+        } else if (lang !== 'ja' && lang !== 'en') {
+            // Translate dynamically if not ja/en and not previously translated
+            const jpText = el.getAttribute('data-jp');
+            if (jpText) {
+                // Show loading state temporarily if desired, or just wait for resolution
+                const translated = await _uiTranslate(jpText, lang);
+                if (translated) {
+                    el.setAttribute(targetAttr, translated); // Cache in DOM
+                    el.innerHTML = translated;
+                    return;
+                }
+            }
+            // fallback
+            el.innerHTML = el.getAttribute('data-en') || el.getAttribute('data-jp');
+        } else {
+            el.innerHTML = el.getAttribute('data-jp');
         }
     });
 
-    // 古いボタンスタイルのアクティブ状態を更新（後方互換性用）
     const btn = document.getElementById('langToggle');
     if (btn) {
         btn.querySelector('.lang-jp').classList.toggle('lang-active', lang === 'ja');
         btn.querySelector('.lang-en').classList.toggle('lang-active', lang === 'en');
     }
 
-    // 新しいセレクトドロップダウンの値を更新
     const sel = document.getElementById('langSelect');
     if (sel && sel.value !== lang) {
         sel.value = lang;
@@ -262,19 +291,28 @@ function applyLang(lang) {
 }
 
 function setLang(lang) {
-    applyLang(lang);
+    if (window.applyLang !== applyLang) {
+        window.applyLang(lang);
+    } else {
+        applyLang(lang);
+    }
 }
 
 function toggleLang() {
     const current = document.documentElement.getAttribute('data-lang') || 'ja';
-    applyLang(current === 'ja' ? 'en' : 'ja');
+    const nextLang = current === 'ja' ? 'en' : 'ja';
+    if (window.applyLang !== applyLang) {
+        window.applyLang(nextLang);
+    } else {
+        applyLang(nextLang);
+    }
 }
 
 // ページ読み込み時に保存済み言語を適用
 (function () {
     const saved = localStorage.getItem('nexus-lang');
-    if (saved === 'en') {
-        applyLang('en');
+    if (saved) {
+        applyLang(saved);
     } else {
         applyLang('ja');
     }
