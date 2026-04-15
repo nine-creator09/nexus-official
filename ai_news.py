@@ -109,6 +109,31 @@ def fetch_all(hours=168):
 
     return unique, results
 
+def inject_inline(data, html_path):
+    """ai_news.html 内のインラインデータを更新する"""
+    try:
+        html = html_path.read_text(encoding='utf-8')
+        json_str = json.dumps(data, ensure_ascii=False, separators=(',', ':'))
+        
+        start_pattern = re.compile(r'^([ \t]*)// __AI_NEWS_INLINE_START__', re.MULTILINE)
+        end_pattern = re.compile(r'^([ \t]*)// __AI_NEWS_INLINE_END__', re.MULTILINE)
+        
+        start_match = start_pattern.search(html)
+        end_match = end_pattern.search(html)
+        
+        if start_match and end_match:
+            indent = start_match.group(1)
+            new_block = f"{indent}// __AI_NEWS_INLINE_START__\n{indent}window.__AI_NEWS_DATA__ = {json_str};\n{indent}// __AI_NEWS_INLINE_END__"
+            
+            html = html[:start_match.start()] + new_block + html[end_match.end():]
+            html_path.write_text(html, encoding='utf-8')
+            return True
+        else:
+            print(f"  ⚠️ マーカーが見つかりません: {html_path.name}")
+    except Exception as e:
+        print(f"  ⚠️ HTML inline injection failed: {e}")
+    return False
+
 def main():
     jst = timezone(timedelta(hours=9))
     now = datetime.now(jst)
@@ -130,6 +155,19 @@ def main():
         "articles": articles,
     }
     OUTPUT_FILE.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding='utf-8')
+
+    # ai_news.html および index.html へのインライン埋め込み（file:// CORS対策）
+    html_candidates = [
+        OUTPUT_FILE.parent / "ai_news.html",
+        Path("/Users/blackwood/Desktop/NEXUS_Production/website/ai_news.html"),
+        Path("/Users/blackwood/Desktop/NEXUS_Production/website/index.html"),
+    ]
+    injected_count = 0
+    for html_path in html_candidates:
+        if html_path.exists():
+            if inject_inline(data, html_path):
+                print(f"  🔗 {html_path.name} にインライン埋め込み完了")
+                injected_count += 1
 
     ok = sum(1 for r in results.values() if r['status'] == 'ok')
     fail = sum(1 for r in results.values() if r['status'] == 'fail')
