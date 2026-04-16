@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-15T20:31:52.775706+00:00",
-  "articleCount": 113,
+  "generated": "2026-04-16T06:23:20.606318+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "scmp": {
       "status": "ok",
-      "count": 20
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,119 @@
   },
   "articles": [
     {
-      "id": "uhvvDzaHXEZb",
-      "title": "ECB to quiz bankers about risks of Anthropic's new AI model, source says - Reuters",
-      "summary": "ECB to quiz bankers about risks of Anthropic's new AI model, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR19YSmRjV2FWbXVVZ255YkwzWnR2enI4UWN3dDlGcDJkY1NLN3BBNzBYMy12RXNvWl9NdllUNzh3Vm0wYjZzWXZRZFdXZU9OVkdEc3d5Mk1JZFpqRVg3WGtidUI0UzgtTmp3b1JUUkNCY0tYRXlNMGF3Y25LWDUtQk5SZlY1OERvR2JKZnNFZExRSDk1MkhrTS1QRF9wa2FrUDdieQ?oc=5",
-      "date": "2026-04-15T19:56:07+00:00",
+      "id": "yI7LgHR2HQMC",
+      "title": "Google、次世代音声AI「Gemini 3.1 Flash TTS」　自然言語で表現を制御可能に",
+      "summary": "Googleは、自然な音声を生成するAIモデル「Gemini 3 Flash TTS」を発表した。新たに導入された「音声タグ」機能により、自然言語の指示で話速や感情を細かく制御できるのが特徴だ。生成音声には電子透かし「SynthID」が適用され、安全性を確保。高品質で低コストな音声生成によって、次世代の音声アプリ構築を支援する。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/16/news090.html",
+      "date": "2026-04-16T05:21:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "c+SGUoPmSbqI",
+      "title": "Australian federal court warns lawyers over ‘unacceptable’ use of AI",
+      "summary": "New guidance to legal profession ‘embraces’ use of technology but flags penalties for lawyers who ‘mislead the court’ with AI-generated errorsFollow our Australia news live blog for latest updatesGet",
+      "link": "https://www.theguardian.com/law/2026/apr/16/australia-federal-court-warning-lawyers-ai-artificial-intelligence",
+      "date": "2026-04-16T04:14:52+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ax+sJd/9LL5B",
+      "title": "China doubles ‘AI for science’ computing scale in 2 months using no US chips - South China Morning Post",
+      "summary": "China doubles ‘AI for science’ computing scale in 2 months using no US chips&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU3NieElyd2JvUlN0NFNMWWJ0RUdVT2tTU0s3UkNQaFhrYVdpUWFxYjdvZm9sdHFMU0kyNVlvMDVDbFdtak04MVBPYWVDbFpRQjlzZ1MtVF9TTWMzcGFvWjE1X21MWWZyLWNVMFBsd0h6bHJQeXdYNV9SVG5Ea1NQOTRVQ2hUcXRONGtCM0VuZmNhV05RclEwTDE1MnhIOUJsNVIwLV90RV9yUFpEdkc3WXU4cDFULURzSXZDaVpEd3LSAcABQVVfeXFMTjFVdFJOaGRkaG1DUXlWZEtpeUJ0Yi1zY1Vuc2k0ZFA0djRreVVmdS1HMlYyalZWM2J5YUtJaDZDb2ZIRlpPQWo1Z25iQTlvYl8xdW01WGxIT2NVWUNFY0tLM2tERE9LN0p5c1VqdGVobmw3TlJTYVFzTG1vZnZfYkdGZkVfVTJOVXV3WVBabDJ3RVI5NnVjTWRjQ0c2cE5GWEJjRmlVUFdWdUY1clhoU25qcXBQXzNPSTJHRU9FOFNK?oc=5",
+      "date": "2026-04-15T22:00:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "natQYCb0k4z4",
+      "title": "Breakingviews - China's AI token obsession may be misguided - Reuters",
+      "summary": "Breakingviews - China's AI token obsession may be misguided&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVVZMTBLOW4zV1NJS1ZOVnFmN0NEZl8tSnZPVDNKUTBUQWVaRkg2bU9pdzFxLTNoZnZsWThjM0lpNExkQ3lSNHlWQWNOM2FQeF9MamdCYWtXUkpKaGZSRWIwV0Q2emRJVjVvQkU5UHlVMEFqSDdBQ1BPeGtKR3JnNk1ocklla0FBWDFjallLb0VJRjhGbVBsbldCclBmdER6eEtDNnNB?oc=5",
+      "date": "2026-04-15T22:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "IfFV6J0ukuYe",
+      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
+      "summary": "Cadence, Nvidia working together on developing AI for robotics&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
+      "date": "2026-04-15T21:42:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "EhZZ7mh+ex8X",
+      "title": "Shares in Allbirds surge after maker of wool sneakers announces pivot to AI",
+      "summary": "Rebrand as NewBird AI sent shares up 582% in bizarre and rapid turnaround for firm that had fallen on hard timesAllbirds, the maker of minimalist wool sneakers beloved by Silicon Valley, announced on",
+      "link": "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot",
+      "date": "2026-04-15T21:00:47+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "5Cijc6/cyO58",
+      "title": "Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing",
+      "summary": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect hostThere is a fun game you can play",
+      "link": "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review",
+      "date": "2026-04-15T21:00:38+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "jLitMuRv2O9O",
+      "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+      "summary": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis areaA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally sp",
+      "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+      "date": "2026-04-15T20:58:07+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "rxXE5rtC+kCo",
+      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
+      "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
+      "date": "2026-04-15T20:31:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "pc6zsfA4tUFt",
+      "title": "Lawyer's use of AI was ‘perilous shortcut’ in Walmart case, US judge says - Reuters",
+      "summary": "Lawyer's use of AI was ‘perilous shortcut’ in Walmart case, US judge says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcEhyM2pmY2JFRGVkTE9VRDUxNkRmOW9FYXE0WFBfM0JHeUo3a3FDanVkZkNGR2d4MFdMSjktVHItYVJpWHp5Y2hIWGhXUk5sZjh0UzBBNjBlWVFZSWhmR2ZSTUx1Nmh6cnlpR0o3eGZ6UTRzcTB1UnJpUWtRd1dsZi1aakhOYlF6UmJ1RFY5ZG0tMHd2WmEyZnZiWVNBTkN4cGJUQnVfcTA1WVgxOW1pb2d6OVpuRjhYd3JR?oc=5",
+      "date": "2026-04-15T20:12:10+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -98,6 +206,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DLIpC22Jacvl",
+      "title": "Breakingviews - Allbirds lacks footing for dramatic AI pivot - Reuters",
+      "summary": "Breakingviews - Allbirds lacks footing for dramatic AI pivot&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJuS0cxTldQcGlhaU5HUi1aLTVhbnk2OC04V2Q0c2YtMnphd081QTRqWXZqdjVBZzdYYlNDVl9KelZaRGFxZTVkaUVPVDVndXhvQVRLQU9ZRHFZVDIzZkVzZ1dFZHpvNFR1aDJZakRuTEhkY0IyaHNRSTYydm0tMGdRRVlUbXU5S1hhcFFqdUlSMGtQNnZXN015UkJhTVVSR2VR?oc=5",
+      "date": "2026-04-15T19:00:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -146,18 +266,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "IfFV6J0ukuYe",
-      "title": "Cadence, Nvidia working together on developing AI for robotics - Reuters",
-      "summary": "Cadence, Nvidia working together on developing AI for robotics&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcW9FTG1SQ2ZEZVE0RzI0OU9vcUZLcFlWRG5ucHFiWkxnMlRVRVR5U3FnU0dLcWVSd2hjT0FaSE5HQ0kwQS05MHM0Smt4dnAtQTcwUWp4ck1jUUk5TklmYlBRTWY5QWdDenE1SFpaWV9WZjhtX3J1TWpSVWFsblNjdno2ZGlNb29RVjBlSUk3cklpcW5qZXMyb1ZmUlY3Y0lzZDQw?oc=5",
-      "date": "2026-04-15T18:25:47+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -221,18 +329,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6vyNhzZxLpLP",
-      "title": "Adobe releases AI assistant for creative tools, says it will work with Anthropic's Claude - Reuters",
-      "summary": "Adobe releases AI assistant for creative tools, says it will work with Anthropic's Claude&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZGS0dHUEk4T2dmejEtOTlmYzBPX2RpWi1TSTNTVGVJbEJhZUZWNDNPakxNTlBqVXZUTzFXcFo5S1RqWUNZeXgzNUlwNWx5bjFaSmNDTUZlc1ZBQmhhTVRKdUp2bGJTTTZSRVg0UllxNTBIeFlrelJZdmVXeWxOU2FXRi1vaV9SX3pZOHZRRmh4b19RM2RCbGRiamJuYWg4M3dreUM1aXNiUlVtRTk1UFBpdGo5dWZPMHQ5Q2hYVlBkVXc3LVdmeQ?oc=5",
-      "date": "2026-04-15T16:48:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "IjfHhnIYAFKo",
       "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
       "summary": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa",
@@ -266,18 +362,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "rxXE5rtC+kCo",
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
-      "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
-      "date": "2026-04-15T15:10:02+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -329,18 +413,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oL87SlDkjWxd",
-      "title": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency - Reuters",
-      "summary": "Snap to cut 1,000 jobs after activist pressure, bets on AI efficiency&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeXhCWnBQOUtZeEEyUmZXUzlfVFVYTFR1N1FmQkx5TVE3SThobUJxWG41YnJ2Wnd6MXVselBtT0t4NW1hQXVpX0VCNHBpQ2xTaUI4SnFkbnU4ZllCY0hSLXJDNm5HVmFFcTVSLTdsYWN4MlBHTGhPbFRxeWVJaWR4NnIyeGx5VUIzZ21STzNlcw?oc=5",
-      "date": "2026-04-15T14:13:14+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "14PSxHsVlQPf",
       "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
       "summary": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
@@ -350,6 +422,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6vyNhzZxLpLP",
+      "title": "Adobe releases AI assistant for creative tools, says it will work with Anthropic's Claude - Reuters",
+      "summary": "Adobe releases AI assistant for creative tools, says it will work with Anthropic's Claude&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdnZGS0dHUEk4T2dmejEtOTlmYzBPX2RpWi1TSTNTVGVJbEJhZUZWNDNPakxNTlBqVXZUTzFXcFo5S1RqWUNZeXgzNUlwNWx5bjFaSmNDTUZlc1ZBQmhhTVRKdUp2bGJTTTZSRVg0UllxNTBIeFlrelJZdmVXeWxOU2FXRi1vaV9SX3pZOHZRRmh4b19RM2RCbGRiamJuYWg4M3dreUM1aXNiUlVtRTk1UFBpdGo5dWZPMHQ5Q2hYVlBkVXc3LVdmeQ?oc=5",
+      "date": "2026-04-15T13:03:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -465,7 +549,7 @@
       "title": "US: Maine pushes for statewide pause on AI data centers - DW.com",
       "summary": "US: Maine pushes for statewide pause on AI data centers&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSXVENHhVeGs5cFFmdkdiamVJQ1NITzA3OEZzcHNtS2lwYVpuQ0ZESFRiVlh2MWp2c3JhWmVtRkdPeHNqYzRocVlzc081OG5udlczMHl3S01EcHBnTlcwRHJTWm5pRFdDaFpsRFhUTEJBMkRpby1QUy1POGhpVGxyemYyTjlIaERmaEpXbjRsR19Ram8yeEtxZtIBmAFBVV95cUxNZW9aMHBQakhJLUtMYVRYaWJDZmJCanN1QTNFZHJaeVpCWUNTNGpKVWFUS2M1R3FSN2FzMnFkZ2FXb2NsVU1UMlRjeUplbC0wei1PNV92OTEtRzhjWlVBTVJDTXl2ckVZNjhDTlBrTnZRNDRfUGFhNkFKZmZGMjRjWGY0eVhEc3U2Y3Z1dUFKdlZldkhZS0luTw?oc=5",
-      "date": "2026-04-15T04:38:06+00:00",
+      "date": "2026-04-15T05:45:47+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -557,23 +641,23 @@
       "articleLang": "ja"
     },
     {
-      "id": "jLitMuRv2O9O",
-      "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
-      "summary": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis areaA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally sp",
-      "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
-      "date": "2026-04-14T22:19:02+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "CTaoPnW5iHl9",
       "title": "Meta extends custom chips deal with Broadcom to power AI ambitions - Reuters",
       "summary": "Meta extends custom chips deal with Broadcom to power AI ambitions&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNURIUzJlUG5yTm5uR21LUFdnX3ZkY1Ruc0lLdF9UREwxanVOLWJUY1NrRC0zQW9USkZVU1B4Y1BCMUFDSDh1dWxDQ2hob2xQMUVKTG5iOUNlbG4yMnJMQkhWUmVCT0NoTDB2Tm8wY0lBclRMa3lMNS1Gb1JCaWg4YnJyQ2NOV041SFFfdkhXNEdNQ2M?oc=5",
       "date": "2026-04-14T21:19:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "dpNoyOT8aGV+",
+      "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development - Reuters",
+      "summary": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVd5WmtCdF9IWmtsMmY2YjRnRDhZZHhTMWFYZE9MMkJiUjc0dHJZeUkyX3pfZjQ2YjQzdEJOTjlCR0R6Nk5FRHM2RmlGUlp5Z2JJSHJtWEhvX3VSNDQ1RFR1TkQza0FHS1JURUY1eGd6LWtwbi1NdmdYazU3NGdqZ1ZocVVZRnVLUEN0cTIyXzhjSFZsWFNCNnVKQjIxNktGTmdlQjZ2WDdiN0Z6bW5OYTFLd25SazRrcXE5dEtwVQ?oc=5",
+      "date": "2026-04-14T20:54:06+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -610,18 +694,6 @@
       "summary": "Amazon launches AI research tool to speed early-stage drug discovery&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaFlYMTJlQzk0TWpDal9acThxOUs3VTVpY3AzTzRBZm05X0l2YUhlVmhIdE4tVVdtUjF6YjNUV1hyNWNEMlZlOWI5eG1hQzZEUTA3cExia1pGUVhJSGZBZ0JfOExpWUlUZXkwN0lhM3hCaUNkaDFyVUd3OE9NVUl6N3hvNHhURVJoRzdCbWl4WVhINy15X1RuOGpMOHZURlp5aDJVUl9xYjZEc1ZycmM3VWNnS3pNSko0UFhCWDN6WWVSMGdEcFNMRkxoYVVaNmtVWksw?oc=5",
       "date": "2026-04-14T18:44:02+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Qg35kE2KWo1o",
-      "title": "BoE's Bailey sees major cybersecurity risks in new Anthropic model - Reuters",
-      "summary": "BoE's Bailey sees major cybersecurity risks in new Anthropic model&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYjNJS3AtTi1yWUk2Z1NGdG9RaFpmZW1MMzdOckozRy1nbl8tV1RMVG91QXVlY0JSUUlUM3FGclZhMjByMXdPV2F0LWRiRnF2UXVtcWhseWJOWm9rT3hncjVpLTd0Y3VJYkRta2gyN01uU3NzbzFSUFExNkFZUzNnTzlJdzVIVGd1THV4eVAzcUprOWpwWEZGSVlkcjlfYldhcnF4RG80VS1sS2s?oc=5",
-      "date": "2026-04-14T18:24:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -698,6 +770,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WKsVrLBXTgjE",
+      "title": "Anthropic adds Novartis CEO Vas Narasimhan to its board - Reuters",
+      "summary": "Anthropic adds Novartis CEO Vas Narasimhan to its board&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHVwb2NjRTR3dFMtZXBzVGl1QktqcDRjZXFSbXowblNvb25KdTBCNTNkcmMxWkJpRHVNQUVuTlYwY29tUl84X0RhR1pPRFpVSlNnOGlUMi1MdHZSanlXcmV4Nld5aHplT05MNy1IcmE4bERMZ3ZxWVNHVEhfM3c3M3NJU3F6MXdseXU2MUdLTVZCT0RxLWFXZG02QS1LeWxj?oc=5",
+      "date": "2026-04-14T15:49:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -869,18 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Ogbut3qnJ2rp",
-      "title": "国産AI開発「取り組みは重要」小野田紀美担当相　ソフト・NEC・ホンダ・ソニー連合",
-      "summary": "小野田紀美人工知能（AI）戦略担当相は14日の記者会見で、国産AIの基盤モデル作りについて、「民間企業の取り組みは非常に重要だ」と述べた。",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/14/news121.html",
-      "date": "2026-04-14T09:38:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "a8eDvlV/zTlE",
       "title": "China profits from US AI boom despite Washington’s tech curbs, research says - South China Morning Post",
       "summary": "China profits from US AI boom despite Washington’s tech curbs, research says&nbsp;&nbsp;South China Morning Post",
@@ -893,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "dpNoyOT8aGV+",
-      "title": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development - Reuters",
-      "summary": "Wegovy-maker Novo Nordisk partners with OpenAI to speed drug development&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVd5WmtCdF9IWmtsMmY2YjRnRDhZZHhTMWFYZE9MMkJiUjc0dHJZeUkyX3pfZjQ2YjQzdEJOTjlCR0R6Nk5FRHM2RmlGUlp5Z2JJSHJtWEhvX3VSNDQ1RFR1TkQza0FHS1JURUY1eGd6LWtwbi1NdmdYazU3NGdqZ1ZocVVZRnVLUEN0cTIyXzhjSFZsWFNCNnVKQjIxNktGTmdlQjZ2WDdiN0Z6bW5OYTFLd25SazRrcXE5dEtwVQ?oc=5",
-      "date": "2026-04-14T06:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Q9qSUoqjNinK",
       "title": "Chinese team shows quantum tech can disrupt AI in a real-world task - South China Morning Post",
       "summary": "Chinese team shows quantum tech can disrupt AI in a real-world task&nbsp;&nbsp;South China Morning Post",
@@ -914,18 +974,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "EQNDmnrb3MqB",
-      "title": "Korean AI chip startup DeepX prepares public share offering - Reuters",
-      "summary": "Korean AI chip startup DeepX prepares public share offering&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNWNDcWx2b2VMTFgwWTRqUUJXeGNGU3JwOHFyamNySXFnQmlscVRaZm42QXZaYmN5WUplb3Y2SmVQcUwxTHhlQmZQN2VPQ3JhYzJ1V0wwMzZkQkxzeVhoWWJKSm1lVnBWTkpka2dqWElqWFR0VFE1ZmxKRE4yZ3NUMlFaVmo1bS1QNEZ5VGVTRnFxX0hiQkE5cElVdTdQcF9QMFVnTWd5MnFWY1pYYU5IS1RtTWZXOFpFWnc?oc=5",
-      "date": "2026-04-14T04:12:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -950,30 +998,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Te2IYl3BZtoe",
-      "title": "Heartflow sues rival Cleerly over AI cardiology technology - Reuters",
-      "summary": "Heartflow sues rival Cleerly over AI cardiology technology&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFdVdzJFdjRGa3ZIZHAyazdIV0tTWWNXaVVBaGdjNWtLYnJNems0eF9XTzN3WHN6a2FHVmZiZnBXNXBxd1NHVFdWcUp5eFdqMThuU1VUSlpHSnYzYzl0OXZWbG9oVUk2SmdLeUpoLWxUMjRDQVlQSzNqNDNBc3BhWERLX1FpMFRQRU0wVmdPTTdFcEFUalFqbGNTczFxanpqalNJa2hzN3RfakxFdXh3eg?oc=5",
-      "date": "2026-04-13T21:33:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "A2CUl8/XRIcP",
-      "title": "Anthropic talking to the Trump administration about its next AI model, co-founder says - Reuters",
-      "summary": "Anthropic talking to the Trump administration about its next AI model, co-founder says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYVY2SFlMRWFIaklsVmluT2pLR2NIa0tOdUtEamZjRWVyRWl3MHlxUGFsdnAtbW9oUkVFYzNnMGk3WUlsMFRKTDREU3FnTGFHaTdWWWJ2c1VJcHJHSHJkMEFxb0FGbW5BLXowZ3FmS2xJVnJtRzVqZFFvaXFacWx2TFVkdVJSejRtYmVpS1lMMmt4aUE1cl9wZ0NTQlhXSVpJWktUR2pNTDFEeTk3Uk5UWXdRQVBibVVLdWxUZQ?oc=5",
-      "date": "2026-04-13T21:03:21+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,35 +1133,11 @@
       "articleLang": "en"
     },
     {
-      "id": "z+tv0fx/R8J5",
-      "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
-      "summary": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug that w",
-      "link": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
-      "date": "2026-04-13T09:00:43+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "tzGRNM2qyvC+",
       "title": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say - Reuters",
       "summary": "Chinese AI startup StepFun to unwind offshore structure to pave way for IPO, sources say&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdldCcU9ZUl9aZmplZ29ZRnU4NXJFWm9wVWZwcEpVNnJUNVZkOFNwNk5pTmU2UU5Sb2p3ZWFtdC1HT3ZDRENfbjVaa0ZrVVZkY3ZWWjdCNmFuT3dvR05aZ0thN0tDZW8zWm1Ca3A3LWVNbTRPemxHVzZxYzhpTDNjNHItS3hBanppME1FbF9XQUpCVkxSdTR2RUFOUmo1UUtKd000cXpVUUxoOUltTG9uNDFiSG9GcnhmRFFiQWtXWHZMR2s?oc=5",
       "date": "2026-04-13T06:56:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "lbhSsJCmW//v",
-      "title": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll - Reuters",
-      "summary": "China's exports set to lose momentum as Iran war undercuts AI-driven boom: Reuters poll&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdERDRjNUTDdSVjN3VTNORUVPajA1eEVTLUU2UWdmN1BHblZkc2hnVGNwa0JtWS1ZSWtjWW9nZ1k3ckNXbkwzNFphMG9Wc3MxaDEySThzRk1BR1RHYXF5Q2pmMEotb3RQR1dkY3AzaWxlc0JRZzA1b2dxbjVrU0I3eDk2U1R6cU1EYXhZVldCOFA2UGNrbkNJbVNVM200TWo3aC14VEozWVhVSWRycWQ3OTIyQ00?oc=5",
-      "date": "2026-04-13T05:16:16+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1161,7 +1161,7 @@
       "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand - Reuters",
       "summary": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDlubVppNDRWVEVzemdMd3oydHYwRHZUYWJGdEdWMy1vSkR5VTU5M2hUeVdYc0c2c2MyNUVwb2FVNDRxNVVMNDFxbWxEV1gxUXBxa29BZnpCaUVUMFVRbDNLLWhZVGFVZ0toQnpJTWpETmllWDZOSGFnOVpIb1dXV1ZELUtnME5hQ2J2MVdGMGlYNHNzeTY4VmI2Z2VTcll6R01XOFY0b3pnR1pNd2ctRFBtdWlhc2FxT1k0aGZvbXl4dElvOFVnMGdtd09uQQ?oc=5",
-      "date": "2026-04-13T03:09:45+00:00",
+      "date": "2026-04-13T03:09:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1193,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/Hj+l8w/f8QL",
-      "title": "The Guardian view on AI politics: US datacentre protests are a warning to big tech | Editorial",
-      "summary": "In both Republican and Democratic states, scepticism and hostility towards an unregulated construction boom is growingWhen blue-collar Trump voters and Maga-friendly midwest states join the same cause",
-      "link": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-ai-politics-us-datacentre-protests-are-a-warning-to-big-tech",
-      "date": "2026-04-12T16:42:51+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "Ov1wwkxkhFjt",
       "title": "Why Anthropic's new AI model is too powerful to release - France 24",
       "summary": "Why Anthropic's new AI model is too powerful to release&nbsp;&nbsp;France 24",
@@ -1226,18 +1214,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "jz9mi1NixRdP",
-      "title": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
-      "summary": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding outEver since I was a teenager, I have kept some fo",
-      "link": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
-      "date": "2026-04-12T13:00:18+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1340,7 +1316,7 @@
       "id": "24Mog1KB8CWQ",
       "title": "China’s Li Qiang hosts Moonshot AI chief, urges faster industrial AI roll-out - South China Morning Post",
       "summary": "China’s Li Qiang hosts Moonshot AI chief, urges faster industrial AI roll-out&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHYzM3M5bXk5WlRCWkNaVl92WGxDS05lWnVDX1JJSXZMaWZOZHpMSW1mdmRUVzlfdWxsTEVqNTVCYWxCSnE3Tm5iLU9sZFdrS2RrS2RlU1NBclhfemc4bmlXS0FKaS1IaHA4eXdRbEpLZUNYQUJ0TTdBYmRnLUZtMzBUWnFLTlV6YnFhdmlGOXlPaTZzVmRpVE5lYTgzMno0eFJLZDNMWTl3VFRqb1l1R0ljMTR5TkR6UTNGV0V3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRHYzM3M5bXk5WlRCWkNaVl92WGxDS05lWnVDX1JJSXZMaWZOZHpMSW1mdmRUVzlfdWxsTEVqNTVCYWxCSnE3Tm5iLU9sZFdrS2RrS2RlU1NBclhfemc4bmlXS0FKaS1IaHA4eXdRbEpLZUNYQUJ0TTdBYmRnLUZtMzBUWnFLTlV6YnFhdmlGOXlPaTZzVmRpVE5lYTgzMno0eFJLZDNMWTl3VFRqb1l1R0ljMTR5TkR6UTNGV0V30gG-AUFVX3lxTE1aYnBrbU9NMjI0ekZuSDlKbzdndy1MTVZNRDVud2JUUllzdjhHVjBHcGZhQ29NaXU2TGRzYl9xclFFTjNoMjdOaXVzOGpLQ1VPemtsQ29PLWpEMkIzUTZWYVlwYldYb3AtRkF4aTlSUkdnMFRoaHh2MGJMSW03VWJOWXk3Z2V1WEJTbWJTM09VOEZEQ0dVU2hQNWFNYjdXdHljV210alVNRThVZEhYRDJubWRYdlFxRWJyWklfM3c?oc=5",
       "date": "2026-04-10T15:30:08+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1366,54 +1342,6 @@
       "summary": "Tencent moves to rein in AI content flood on WeChat with stricter rules&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2ZhNkUweFpsX21ldWtmQ0x0U3RfNl9KV0d4Q2JTRXhUcVJ5Vi1PRlZGLTMzbkhwQ2NqVWY3aS1JWDZ0SWpweThZeWF2QWZRaFIzVFdTenY1LUhHSmpJMzA3U2RsM2ZiOVlyNjlJVVpLSVFKblVlQlJqd1FNZHNKSWk4S2ktTzdNTW5kdUhZNmRMUXBjaHB4b0FReVBGVUx10gGgAUFVX3lxTE5KalFMNC1xSmRheldwbERVZ1VfVjFIRXdYVXkwNFF5Nk82RV9BSERWejUyUnpzVnlCdGlCb20xVTlpandsdlVidmNSRWswWlZ4WEJ0bEJQSlBYVUNzYVFrTVpJT3NHLTdvbmJKbU5QcWhlX0dzNDI3cnpPc0pQel83NHZSd0hYZDM0V0prMWVmVTJtQ2ljSnotZ25sMzl4NlI?oc=5",
       "date": "2026-04-10T13:31:11+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "FrdK0GjGeUL/",
-      "title": "Alibaba takes on Seedance as AI rivalry offers glimpse into race for top talent - South China Morning Post",
-      "summary": "Alibaba takes on Seedance as AI rivalry offers glimpse into race for top talent&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQd0k0MTM1OVFUNmdjeDBYWGw0T1d0RXMyYzh0ZzlMZ2NYOUJLR19UbkFkNUpmN2JhYmlkTDI4VmtGUTFvbUM1Z216UmwxZFJFblNUSV9zeDQ3OWdoTno5dGNMYzYtbUQ1Zm9CUDZaVkg0ejlDbGFpbWhQZTBDLTNfQkJHMkdQdUExUGxxeVRCMlhLYWxEZUZYTWpYVXpJNjhWcU1rTUVVMUZUVFZDaHZRNTJGM3RreEVpMjFjalljRkR6R3Zh0gHEAUFVX3lxTFB4VHcwS1RVcXhlVnZKcllLQnJiWTRxMTlzZTRJOXpiQ1EySUNBUzFoLXBBWXg2NUUyZVhaMURQX0V3OEVqNXVJUUg5SEc2bVE0OTlZYzRrelh1VWUybUlnRXE5Tk1XQ1BTT0kwQWlEMXB5X0pfNXlLQ0VHLXd6SU1pbkVnSW9xWEd0bGVISGFBeFN6Y2JzdzVHb19LaVRrZGV6MDJxSzJERFk3akdieUdQS0hTd1hWWDlialhMOHpBNENmdmk?oc=5",
-      "date": "2026-04-10T12:30:14+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "99PGEtEB+N9x",
-      "title": "Opinion | Despite its hype, AI is just a means to economic resilience - South China Morning Post",
-      "summary": "Opinion | Despite its hype, AI is just a means to economic resilience&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcjBDNGhycm1KY0pxTFd5ZTJpdGVGNVpCNXdMVEhGQkJycFFnampBLTRrbGN1cG5jekhwLVRqZFdIdGo1YnVaMVJTeTg2a0YwakM2TTlmOGg4MTkxUDllZE44R1ZNYk1lRW44Zk1aX1Y5UzBiMHB0R0dwbWo4b3dpNi1JUkFOWkg0aUhtWlBxVTRnNmp2NWlLMUlDeEZJN3RfdWd6NGs0aXVfeHRTVWfSAa4BQVVfeXFMT3huYm0wSnFxNEpfVERGeWNKQ3F6UTNyTEE5MDhod1dSWnpjVGNtZVJkZ1dFSXJZVkFRVWd6RTYzSlk5RS1IcHY1aVhHR3dMTUJITTQ4RHp2OHZndm5ObHdQeGNSTFc1cmhENlpnSjgxU1I5c1BDUTFNemVkZUh1d1VsOFBsd0FJbHRsVnVLNllBU25UVENIc2hlWWNHVW5fUzI1RXNMeWJLMlNqekp3?oc=5",
-      "date": "2026-04-10T12:30:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "sJcj4UVnv0pg",
-      "title": "Power, not chips, may decide Korea’s AI future - The Korea Herald",
-      "summary": "Power, not chips, may decide Korea’s AI future&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DbFhOUEZmcThxQjZaZTNCMVdLc1V5b0I4MXdWS09MdVIxUUM5dDg5OU9wRGxodmtoeDEtMUVYak5JRFRRSGhGSGJDdHNZNHhKcXJvc21iWQ?oc=5",
-      "date": "2026-04-09T06:15:55+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "ghxEM/3i6tCv",
-      "title": "Is a leading US AI-robot scholar about to join China’s tech talent pool? - South China Morning Post",
-      "summary": "Is a leading US AI-robot scholar about to join China’s tech talent pool?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMzc0XzNqX1VlSW5lOFh1LU01YWsza0dFM19UdUgyclZHazJ4ZnJId2JjSWM1Z1VCS0RHVDdWTTh5V3JOYVB3ZFNyeVJhTFQydFNQSnNLaDdvQ082Y0w1ZUpCa1J2ZHFvbS00Q0xuMnVCd19mRTNpYmNHRm5XdVFvUzhQR3hicmdZYWlNNUJwdnhTQk0yQVBwRkJmLTN2THBlcVNQLXhWMjh4M2dsUDFRc25nTlRHZzJxdGRicTZHVm10S0HSAcMBQVVfeXFMTW55S19sZUNMa1BONzhELVVXSXpVaTVXZEZjdDhjemZqc0htbEFoMXNSSVRCLVlOb3JBd2dYbm9ob18wRTE3Tmh6QmRjUFpWcmNuVm0wUGhkNDZCV202VV9hRGlFaGNVWUdUNjItb1h2Q1cxb2g5NldpSDFSUkd5dVlza2wwel9WdnduOFR1MzRQb1RvMWgwZjVUVDJvdnhBY0pIanpCVkhhcXMwaFpDdUZsbXpoWEt4dmV2d3oxZnh2OVRr?oc=5",
-      "date": "2026-04-09T04:00:08+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
