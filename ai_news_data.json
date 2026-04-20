@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-19T19:56:20.191221+00:00",
-  "articleCount": 102,
+  "generated": "2026-04-20T07:28:32.053414+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 4
     },
     "bbc": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 21
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,54 @@
   },
   "articles": [
     {
+      "id": "/jtFI/ujgnDb",
+      "title": "Grimes joining LinkedIn is artwashing at its most brazen. I should know – I released my new film on there",
+      "summary": "The networking platform – social media’s answer to boomer grandparents – is rapidly becoming an AI slop dystopia. Which made it the perfect place for my Nvidia-inspired fairytaleWhen electronic musici",
+      "link": "https://www.theguardian.com/film/2026/apr/20/grimes-linkedin-ai-nvidia",
+      "date": "2026-04-20T07:00:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "nKsAdjqbdWfm",
+      "title": "Teacher v chatbot: my journey into the classroom in the age of AI – podcast",
+      "summary": "I was a newcomer, negotiating all of the usual classroom difficulties for the first time. Throwing AI into the mix felt like downing a coffee in the middle of a panic attackBy Peter C Baker. Read by A",
+      "link": "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast",
+      "date": "2026-04-20T04:00:01+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6/d0EH+gz9SL",
+      "title": "ExcelとPowerPointを行き来する手間解消　Claudeの「コンテキスト共有」と「スキル」で業務自動化",
+      "summary": "Anthropicは「Claude for Excel」と「Claude for PowerPoint」を強化し、複数ファイル間でコンテキストを共有できる機能を導入した。定型ワークフローをワンクリックで実行する「スキル」機能も追加された。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/20/news024.html",
+      "date": "2026-04-20T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "nWvcBQ6HPwxr",
+      "title": "OpenAI’s existential questions",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "date": "2026-04-19T21:24:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "GtWzkx/YH/Gq",
       "title": "The 12-month window",
       "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
@@ -74,6 +122,30 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "PLCK0Kswkn/J",
+      "title": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports - Reuters",
+      "summary": "US security agency is using Anthropic's Mythos despite blacklist, Axios reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZVQxQUdjUjgtWnUzUnNfXzI5WFdiMXNkOC1qakZhZ0hfMEZvUVBpckJXQWlFTkdKTzljaU1vQm5hSDFOY3ZHc2p3M1pSSVp5enZuS0VfS3RiT3o4MWx4MnE2dkNHaWNDNVZlR0xUZDRpbEc5eW83V3BmQm9CX1JTeWxvdXJubnJwT19lTXJaLUotTzJ6X1ZER0poQ2N5VEMzOUNuWUxJZWxqYnlRVFNjQzJHeUhCalNNY21KMDJLSQ?oc=5",
+      "date": "2026-04-19T18:32:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "dR+jaFlKKkNK",
+      "title": "Germany's Merz says industrial AI needs less stringent EU regulation - Reuters",
+      "summary": "Germany's Merz says industrial AI needs less stringent EU regulation&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDRQSWFpczBwbHNaWHBwcHRuNWFfVFA3aHFZVzdCcTRtLXhtTW9DdXV1NV80ejk4VjNsVEk1UmZsa0drcmRSYTlCZFVTZWJFOXpQLU5TajctdmxQc2xGWmdmRUJVOFV1ZEJaclRXWjB0cE9zQkFST2dKTm5kWE9ZOWpzNC1uVUZXX2U3ZmZqcjJCaVM3bl9weXlYcTlYUlA0cUlTa0R3aWRxTy15M2pQeXl3?oc=5",
+      "date": "2026-04-19T18:27:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -221,15 +293,15 @@
       "articleLang": "en"
     },
     {
-      "id": "sV9Qvgh4NkGR",
-      "title": "White House and Anthropic CEO discuss working together amid rising fear about Mythos model - Reuters",
-      "summary": "White House and Anthropic CEO discuss working together amid rising fear about Mythos model&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGRzSHhnbEhCQjM5UWpyQllSNzBfRWhMdGFPQ2N2VmNDNVh1NFZoVnNqMEFyS19MZkZGTVBKelFuckZEc2x2Z2ZuVnFDallPR3Rmeng0em5tT1kzZC13YXhyZ0xZdlV2N2tJS1RhYVdEbjRPSWRpOTB2NVY1VWhqalZFRHpYMkNJZEs3Y0hXYmxvR2pENURpZnV3?oc=5",
-      "date": "2026-04-17T22:55:41+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "2NJctuH2Nbzu",
+      "title": "White House and Anthropic CEO discuss working together amid Mythos AI fears - South China Morning Post",
+      "summary": "White House and Anthropic CEO discuss working together amid Mythos AI fears&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3JvUHFkbkFWMEtlSUNXZkEtS1FSQkttYnA5dmRRWDVnX3JvNHNWTkl5MFVUbGxSdG1Ud2NUWXV0NUF6d1FvU0tZNVFGVVFzcG9Sd2hzUUxYcnlpVVcyMklyOXg4ZGZoWG5CTWNQZTRGam5RNnFuTjE1SEozYkw2ZW95OGI4Tkpscm5hRTNnM0s3OVNYdWdSZnVURTliNkVFeWNDNER6eWsyWkR6blF3Vnk5LVlQNWE0SUs4YjBJQzhNdEFscHkydXozRHNiQjMwZm9NSmZSZG55VFda0gHcAUFVX3lxTE1tek9SNmNpZTFjd216MnJnZ2MySHAya2xnWDNqNzJoT1d2QjB5UEFBLWRIZVR1c0pwU3lPbWR3WXktczlyb3BOc0I1VlpkVWZsSUI4em1iN1BTRThNbUZ2bG5RRENOS1hFcmJTSWVTQTNFcVk4OThldGM0SnBPU2xsXzZLWTRRM0tqRG01WVg2Z05FdUFNcGs3U2dXa1lDejlscm5qY1Z6R2ZRRi1CN1ZtVGRHTE1tbXMxdjRHUm84N3FTYTYyMUF0NFEwRGk0WTlycTVacFY3S1ZoVVE?oc=5",
+      "date": "2026-04-17T23:17:51+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -243,6 +315,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "jrfU19ClE+vG",
+      "title": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings - Reuters",
+      "summary": "Nvidia rival Cerebras discloses US IPO filing as AI boom drives listings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZWotMXdBZ2tfaWJuV25qNGlFSjE1ckpoTHdnRTc0QkpFOXQ5Y2lTenFXeXFFb0hRWHVBUzV0VmUtcElFWkNSeFFmVjVId0daX05EV2dKbXkxRHBOSUQyRWJoNEZCWnk3a0ozcTFwWUVJWDhyZGJ6OWc1S1ZscS1qOGxMc1Q5TE5ubl9LZ2MwVVNCLWtxdmxVTmpxSEpPSnNHaUl0V0thTk9hMG5HRkdKak9HYUM?oc=5",
+      "date": "2026-04-17T21:42:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "LvYAKhpGZDou",
@@ -341,6 +425,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Tgta4cx1WP+c",
+      "title": "Thousands of authors seek share of Anthropic copyright settlement - Reuters",
+      "summary": "Thousands of authors seek share of Anthropic copyright settlement&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmlrRVJyYUQ1OTRMdE1WU1Zhdi1oeFdncnNNOHdPOVFMYUdaSXpNaVdMdnl0a3I2OHNiWFN2aXdKYTh6eHlsVnhOeWZ5dU9TbzhLZkdGa210V1BoU2N1Qk4yQUJGYXBnOFU4WDgzM0l6UDVpWXdidHByY0hZQ3N0TkRLMmxmdEMzQXN3cS1DMmNhZHB4OHVWbUxJQTl0VHBQQTF6Ti11aEJ2MURWbHhuUEN3?oc=5",
+      "date": "2026-04-17T16:43:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "BAF49wA+WZ2D",
       "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
       "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ",
@@ -410,18 +506,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7MymSF3gwiMZ",
-      "title": "Ericsson lags profit expectations as AI demand drives up chip bill - Reuters",
-      "summary": "Ericsson lags profit expectations as AI demand drives up chip bill&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTi1WWWdrcFZIRmpIbEh6VTNVUVZkUklnLVI4MGdPdTZRdW1pT2ktc1lEZm9vekdiRmxaTS1jTUxESjZQcnpmMmlJc3VIT3h0UnYwQXFnWHhyV1NDRzVIbHZvQTN4c0RuRWJUM1VOdVdsSk5Rd3lkZWFWc0MwcklMaWxLMG9lcm8yQWlpTmJjRW5hMWk4c3JQZ2tua1gtLWtYbUZxY21SMGpfZXM4RnM2Nm80eFRPZ1E0?oc=5",
-      "date": "2026-04-17T13:05:14+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -497,6 +581,18 @@
       "articleLang": "en"
     },
     {
+      "id": "7MymSF3gwiMZ",
+      "title": "Ericsson lags profit expectations as AI demand drives up chip bill - Reuters",
+      "summary": "Ericsson lags profit expectations as AI demand drives up chip bill&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTi1WWWdrcFZIRmpIbEh6VTNVUVZkUklnLVI4MGdPdTZRdW1pT2ktc1lEZm9vekdiRmxaTS1jTUxESjZQcnpmMmlJc3VIT3h0UnYwQXFnWHhyV1NDRzVIbHZvQTN4c0RuRWJUM1VOdVdsSk5Rd3lkZWFWc0MwcklMaWxLMG9lcm8yQWlpTmJjRW5hMWk4c3JQZ2tua1gtLWtYbUZxY21SMGpfZXM4RnM2Nm80eFRPZ1E0?oc=5",
+      "date": "2026-04-17T07:54:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "+8wwRCzhyQn8",
       "title": "ソフトバンク、米新興のAIスマホを1年間の国内独占販売　“ユーザーの行動先読み”うたう「Natural AI Phone」",
       "summary": "ソフトバンクは4月17日、AI機能搭載スマートフォン「Natural AI Phone」を国内で販売すると発表した。同日に予約受付を始め、24日から国内で1年間独占販売する。",
@@ -533,16 +629,16 @@
       "articleLang": "en"
     },
     {
-      "id": "ho7Jg0xLElZP",
-      "title": "Claude Opus最新版「4.7」公開　「難しいコーディングも任せられる」「指示を無視せずちゃんと守る」　プロンプト再調整推奨",
-      "summary": "「ユーザーからは、これまで綿密な監視が必要だった最も困難なコーディング作業を安心して任せられるとの声が寄せられている」「指示の順守能力が大幅に向上している」",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/17/news072.html",
-      "date": "2026-04-17T01:23:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
+      "id": "Q0Q0ipYVHHOo",
+      "title": "Chinese AI firm SenseTime to raise US$415 million via share placement - South China Morning Post",
+      "summary": "Chinese AI firm SenseTime to raise US$415 million via share placement&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2Y1WVE3SVdoZ2d1V1Y5eFJGallOY1dWQTZHZjFyQ1NEZGFabGY1c3JyZC1TT193QXB2Y1liQUJMaFJJTnlFLU1QajRIcUdmZF9Tczl6dGNnWVU4WG92QkExRC1BNGl5LXdyVDhDcTVEeUNsaXhKdTZnVXp0d1I3ZDJkMUNZd2xFeEFsTWstMVBfaTA5TVJ5ZXg4aHVRN1RJTWtMams1cE1DNG9EQW1JTk1OR1RTSFpWY3BtNnNwc9IBvwFBVV95cUxNMUpSTjk5RjA1WGV1U0ZJa1ZndXd4VEEzUmdpUW43ZXpadFVtOG5udENDc3Y2cFE3cW00WWYtRjVRSmNZN3pZeW9IeWhHSEtEdHdybHhmR3JPZFB5QVh6QW0zTmlubTh6NW03Yjk3SXB3NFktVG5lSWtYMm9jeFNuVmhjTXNDSy0xaGFUN2lOZTVJNDY3djNTa0lDUGNqR0xhNjJLZkQyRmpNM1Bnekh0SkhjckJPNWFranlFN3VDOA?oc=5",
+      "date": "2026-04-17T04:33:00+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "mhCKx4Jf5WGX",
@@ -555,18 +651,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "eySDKWJY2+Cg",
-      "title": "OpenAI、「Codex」刷新　PCの直接操作に対応し汎用作業エージェントへ",
-      "summary": "OpenAIは、コーディングエージェント「Codex」の大幅アップデートを発表した。画面認識によるPCの直接操作や、90以上の外部ツール連携に対応し、「汎用作業エージェント」へと進化。画像生成モデルとの統合やメモリ機能も追加され、UI設計から開発ワークフローの自動化まで、広範なタスク実行を支援する。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news071.html",
-      "date": "2026-04-17T00:38:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "qxEYTPKzwYLK",
@@ -658,42 +742,6 @@
       "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
       "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
       "date": "2026-04-16T19:18:41+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "kz/B+DlkA81B",
-      "title": "Myseum takes flight after Allbirds in fresh AI rebrand wave - Reuters",
-      "summary": "Myseum takes flight after Allbirds in fresh AI rebrand wave&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOTFnNTAtSnJoVVExWkQ5OEk2cF9pNGdmYWlrNW9DSFBpNUYxSDJQTnF0OGhESW5qN0phanVkcGRVcEtNY0x2a1JoSk8yM21Nek1rQUl2QTZ3aGlKU2ljbFpnTFF0eDExdjZySVZWbDZUdVhQSVh4dzFLZHJjdDBQYWYzRm1VVS10WHpzcnBnUjhyZlFVTkpWaHl6WEpNTlF1OUxv?oc=5",
-      "date": "2026-04-16T19:15:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "yuVAseim0G/P",
-      "title": "OpenAI launches AI model GPT-Rosalind for life sciences research - Reuters",
-      "summary": "OpenAI launches AI model GPT-Rosalind for life sciences research&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVW1lVG9kQXRYc1hlRFZ4UVlGaWlUcENoRzRlUDNzYnJSWDN4bG9YbFhzaHdqY0R2Qmc5dEdYVTU5QlJBYVBFTXBUY2phS2dDQk9WeGdvUm1SLUlxMGhrTHZMQUJOQlMzZnl2Nmw5ZTJIdXg4bV9TVVh5V09VN0hFbFFIdlZsclNMUklKbkZaQVVFOXJKWThDVEFiYnFDNVR5REdGTmUyS0dveFEwcVhXZ3JWSXMtSWV2ZEFxWWZkUEVtc3d4UFZxdlpzTWQ?oc=5",
-      "date": "2026-04-16T19:07:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "VB+lc/BoorB0",
-      "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-      "summary": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse — that the largest AI labs will come to dominate software businesses, a thesis",
-      "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "date": "2026-04-16T18:28:42+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -797,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "a5B1m59Px3Yy",
-      "title": "「Claude Opus 4.7」登場　難関コーディングを「任せきれる」レベルに、画像認識は解像度3倍超",
-      "summary": "米Anthropicが最新AIモデル「Claude Opus 4.7」の一般提供を開始。前世代の「Opus 4.6」からソフトウェア開発能力と画像認識能力を強化したほか、指示への忠実度や長時間タスクの安定性も向上させている。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/17/news064.html",
-      "date": "2026-04-16T15:31:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "F8x7wBl533dg",
       "title": "AmEx to buy Altman-backed Hyper in push for AI-powered expense tools - Reuters",
       "summary": "AmEx to buy Altman-backed Hyper in push for AI-powered expense tools&nbsp;&nbsp;Reuters",
@@ -821,11 +857,11 @@
       "articleLang": "en"
     },
     {
-      "id": "kEHuucHXROoM",
-      "title": "Strong ASML, TSMC forecasts signal AI spending boom is intact - Reuters",
-      "summary": "Strong ASML, TSMC forecasts signal AI spending boom is intact&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWdsakpJVzdMNzZYY0xnWnB4cnh1NWdRUmg3UHY2LUEzZlhVT3dpUUNjbnFDeXZTNEg0QzF2SUJxYzhmM1hWNDMwQmY4YTNwRnBGckNCR00tbHhUSnpweVpkVVRscFMtLWJqN3dveGlpME5NOTRTUWxOSWhhcUZwNW9PUUtSTkJOQUJ2cFUtWlNUMW4zOU5lVzZQOHVkM28xZEt2TmdJVms?oc=5",
-      "date": "2026-04-16T13:59:11+00:00",
+      "id": "YOFR0TkrkoOn",
+      "title": "OpenAI CEO Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit - Reuters",
+      "summary": "OpenAI CEO Altman seeks dismissal of sister's punitive damages claims in sexual abuse lawsuit&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdW9IT1ByaDJmTHFUN2hERXhoeU1IaklKbkpwMzZyb2d5cXVxd01sR2JOcVhwZ1E2X2h6VUoyRURGLWJ6YmxzWTV0ZWNVVnFUMUNCZEtUYWdjZGdLRzI2S29xZUJVLU1DR1MwUU4yMlFnOGYzVFZxalA3U0NTbks3WU5iNGI2eWQtdTBJWk4wX1F4SHYtUVYtNzhZRENTQXV6ZlpnYjVsNU1wQ2MxQlNsalVGOVhWSjVTbFlQUVY5QnhGMFJFazFVR2hEWTA1Z2Q1QmRB?oc=5",
+      "date": "2026-04-16T14:25:15+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -926,18 +962,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "j4iV2xd1MShf",
-      "title": "German banks examine risks of Anthropic's Mythos with authorities - Reuters",
-      "summary": "German banks examine risks of Anthropic's Mythos with authorities&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeDBLNkVLOThDTUZGWjNyTS1VZnR4bVU4ZlRzRGkwdTdkSnM1eTdFeVFOSTRIMXo2VURwNVE2OEZOSE1LY0FNeWltWjJyZGU4OWYySzlyOU92VEx0WUM5WmVqR085ZGtSMEg3ak52ZmtaMmpEYVA1QVl6ZFd0Z2JxcWZvbFRMTGV0ZmlGeFdtajB1MnIzVUFBdlpUTU9DM1JtZHZBSFB3dWNiQ3RSb0g2eFhsVmw?oc=5",
-      "date": "2026-04-16T09:41:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1061,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "DLIpC22Jacvl",
-      "title": "Breakingviews - Allbirds lacks footing for dramatic AI pivot - Reuters",
-      "summary": "Breakingviews - Allbirds lacks footing for dramatic AI pivot&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJuS0cxTldQcGlhaU5HUi1aLTVhbnk2OC04V2Q0c2YtMnphd081QTRqWXZqdjVBZzdYYlNDVl9KelZaRGFxZTVkaUVPVDVndXhvQVRLQU9ZRHFZVDIzZkVzZ1dFZHpvNFR1aDJZakRuTEhkY0IyaHNRSTYydm0tMGdRRVlUbXU5S1hhcFFqdUlSMGtQNnZXN015UkJhTVVSR2VR?oc=5",
-      "date": "2026-04-15T19:05:08+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "M2ekDDMWPIOe",
       "title": "The Pitt and Game of Thrones spinoff given age ratings as BBFC deploys new AI tool",
       "summary": "Regulator says tool, which creates reports for humans to review, has helped classify entire UK catalogue of HBO MaxTV shows including The Pitt and a Game of Thrones spinoff have received age ratings i",
@@ -1094,30 +1106,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "aXwLAcUgQoWj",
-      "title": "‘Misogyny with a marketing budget’: UK AI firm accused of sexist advert",
-      "summary": "Narwhal Labs ad for ‘AI employee’ contains strapline: ‘She outworks everyone. And she’ll never ask for a raise’A British AI company that recently secured millions of pounds of investment has been accu",
-      "link": "https://www.theguardian.com/media/2026/apr/15/ai-firm-accused-sexist-advert-narwhal-labs-misogyny",
-      "date": "2026-04-15T14:17:30+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "j1fDcu8Dx8Pt",
-      "title": "Foreign media group slams Israel military over AI image of killed Lebanese reporter - France 24",
-      "summary": "Foreign media group slams Israel military over AI image of killed Lebanese reporter&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdHJ4MU9kM29EcDV0MWM1OWttU0pRR1lhaldNbHFVV3k1YzdmYkNFdlJKaWJ4ZUp6OXZYS29WZTIxbEpMNzhwWWJrNHhwSVJBa0NPNlhVc0N6OU9WcDc3RHRZMW9sVUZScjc2X19GU21HcldPNTlKZVlYOGxzQmQtQ0RnU3hfWjVTRmE1R24yU21xQ21aVWJBckg0bWdXUUJubkE0MGFub2NJTEZ5N29YS241U01CaGRzamJ2bGxWMkVPVm1GM1BUNE1B?oc=5",
-      "date": "2026-04-15T11:51:10+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -1173,7 +1161,7 @@
       "title": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI - Reuters",
       "summary": "Korean AI chip startup DEEPX, Hyundai work on robots powered by generative AI&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQN3dqQ0UtTjhzTnZrd1YxcGJMTzR0Rmhha3lCaU9raENRaFlnUXlEckh5RjhMU2NBYXU1MC04bzk0YmF6LWZGZFRqRWJRdG9GRlZzZE5QV0NLaXczaS1Lb2dkd3M2Q2tlUEdEZWZfTmZvQ0xPVmdGU2ZBQS1nZUdnbkZPWWljcnk4QUVIcTNBUnVEcEJEOTBpcjROSjBwaWZvSEZGa1k1eU1ZWXBPN21NTEJzY2RXZkdXY1hLOUZqQ2FNWm5oMWp3Q29ueHJKRzRyLUx1cGdB?oc=5",
-      "date": "2026-04-15T03:03:00+00:00",
+      "date": "2026-04-15T03:06:27+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
