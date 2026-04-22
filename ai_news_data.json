@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-22T15:58:10.383154+00:00",
-  "articleCount": 112,
+  "generated": "2026-04-22T21:11:17.646776+00:00",
+  "articleCount": 115,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "mit": {
       "status": "ok",
@@ -24,15 +24,15 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 21
+      "count": 23
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,162 @@
     }
   },
   "articles": [
+    {
+      "id": "uxNrVMes1cq2",
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil",
+      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+      "date": "2026-04-22T20:29:05+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WCllGP4RRYj8",
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI give",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "date": "2026-04-22T20:09:02+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZZfUd9Undrnh",
+      "title": "Claude Opus 4.7は“最強で最恐”？　圧倒的な性能なのに使いたくないわけ",
+      "summary": "Claude Opus 4.7は、一般公開モデルとしては最強クラスの性能を示した一方で、実際のユーザー評価は大きく割れている。本稿では、Anthropicの公式情報に加え、初期ユーザーの反応も踏まえながら、その強さと「怖さ」を整理する。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2604/23/news011.html",
+      "date": "2026-04-22T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ZVLHHROiqDVp",
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+      "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "date": "2026-04-22T18:39:27+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1YnEqRhCCKbL",
+      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
+      "summary": "Google puts AI agents at heart of its enterprise money-making push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
+      "date": "2026-04-22T18:15:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "oXy813oC/KQR",
+      "title": "5 AI Models Tried to Scam Me. Some of Them Were Scary Good",
+      "summary": "The cyber capabilities of AI models have experts rattled. AI’s social skills may be just as dangerous.",
+      "link": "https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/",
+      "date": "2026-04-22T18:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "+Or035Oza+SE",
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+      "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "date": "2026-04-22T17:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qW4dd+LnlQZ6",
+      "title": "Pentagon asks for $54bn in pivot towards AI-powered war",
+      "summary": "Budget outlines funding for autonomous drone warfare program as experts say military unprepared for risksThe Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warf",
+      "link": "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
+      "date": "2026-04-22T17:24:02+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VPtLwEivhpzA",
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+      "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "date": "2026-04-22T16:58:27+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/o9IMJAr88+I",
+      "title": "Anthropic&#8217;s Mythos rollout has missed America’s cybersecurity agency",
+      "summary": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinato",
+      "link": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "date": "2026-04-22T16:57:36+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "t8liQhfo6xgE",
+      "title": "AI Overviews are coming to your Gmail at work",
+      "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.",
+      "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "date": "2026-04-22T16:46:10+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7bo/kmP52Jha",
+      "title": "Google Meet will take AI notes for in-person meetings too",
+      "summary": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as f",
+      "link": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "date": "2026-04-22T16:38:19+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0f4u4kg7uyAk",
+      "title": "AI Tools Are Helping Mediocre North Korean Hackers Steal Millions",
+      "summary": "One group of hackers used AI for everything from vibe coding their malware to creating fake company websites—and stole as much as $12 million in three months.",
+      "link": "https://www.wired.com/story/ai-tools-are-helping-mediocre-north-korean-hackers-steal-millions/",
+      "date": "2026-04-22T16:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "T2hbO7AqK8CG",
       "title": "What is Mythos AI and why could it be a threat to global cybersecurity?",
@@ -125,15 +281,15 @@
       "articleLang": "en"
     },
     {
-      "id": "1YnEqRhCCKbL",
-      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
-      "summary": "Google puts AI agents at heart of its enterprise money-making push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
-      "date": "2026-04-22T13:12:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "6DoDWJ5Tkfrg",
+      "title": "Can ‘token exports’ give China an edge in the AI era? - South China Morning Post",
+      "summary": "Can ‘token exports’ give China an edge in the AI era?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjV2YzN4eW5jaFpPMzVIZ0hreENRQk1NZHJtTUV6UzVtdTBBS0lWb1pUQlJXZ1czSFZUNm1UX1hNbHJ4NlV6RkpCQTlBZ0VlaTlseVB6V2dmRmJXU1B4dmhxLUUwcEV6b0h4Ni1OQnZsVGJLMkxjT01xYnJIdTJ0V2ZhYWxWbG9WSEHSAYoBQVVfeXFMTjNlYWJNZjhIMVFsbDhSbDV3SUNDakd3VHJWdDdzVTYxWUhqQ3NLZmU4TUE2SXd2VlB3OXRXRlZSR1BhM3BMT2pkdTIwVDg0SWhiQkQzT0RsLVZ5VjlvWjNTOHFsZm9aU3hBazkweGsxRXNaQTBIUVBEYnNSdVlsNGMtUDM1QWtGNGRB?oc=5",
+      "date": "2026-04-22T14:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -149,8 +305,8 @@
       "articleLang": "en"
     },
     {
-      "id": "xCaYxVXj2sg3",
-      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "id": "BS7ENSbltDyO",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "summary": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules.",
       "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
       "date": "2026-04-22T13:00:00+00:00",
@@ -173,10 +329,10 @@
       "articleLang": "en"
     },
     {
-      "id": "7fAaP/rmRq2K",
-      "title": "The most interesting startups showcased at Google Cloud Next 2026",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "id": "Gab0rTkVgmYr",
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
       "date": "2026-04-22T12:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -187,7 +343,7 @@
     {
       "id": "0h/KsO1Jii4L",
       "title": "Google Maps is about to get a big dose of AI",
-      "summary": "Generative AI is being infused into Google's popular feature within Maps.",
+      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
       "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
       "date": "2026-04-22T12:00:00+00:00",
       "source": "TechCrunch",
@@ -197,10 +353,10 @@
       "articleLang": "en"
     },
     {
-      "id": "lXBZepnxTzBr",
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
-      "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
-      "link": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "id": "7fAaP/rmRq2K",
+      "title": "The most interesting startups showcased at Google Cloud Next 2026",
+      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
       "date": "2026-04-22T12:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -257,18 +413,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+FkL1/wRLyjr",
-      "title": "Software makers' best may not be good enough as AI fears mount - Reuters",
-      "summary": "Software makers' best may not be good enough as AI fears mount&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZkJmeE56eTBwalAwa2xjNUJpeGFKMkZiNTU0MTlDTVViSDRMM2QwX2V5STdzNFQyRW5zWVIyTUU4QjBDejI2T2VMQzZzSDJPTWpFR18xaWN6bEdaeTQ4VlFLTDlBbjJRZXZmVU04VHNIbkJiS1VmZ1ozeTQ4WFVHRllKM1BIWVphMFQ5anZsbFZEUFpzVlVSMnVUVmRlVl9NRVczcmJn?oc=5",
-      "date": "2026-04-22T10:06:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "g8Pu332U+0bz",
       "title": "AI needs a strong data fabric to deliver business value",
       "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, h",
@@ -305,6 +449,18 @@
       "articleLang": "en"
     },
     {
+      "id": "b+9b6IlK8r96",
+      "title": "How China’s AI carbon accounting model points the finger at the US - South China Morning Post",
+      "summary": "How China’s AI carbon accounting model points the finger at the US&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQW9za3VXRWVscHpSVmptdVAxSVljY0RUWC01WEM1QkdGbG1kTXJGTzVnZXU0aEFGbWoweTl2M3MzYUcxMUoyZEVSMjhCUEhpSHF4cDRoS0oydFZqaEltb3FsV1l1X00xUUkzN2E5Vkk2bVhZSWtnVDVycHlDM1FIb0hscXNwN3VyWjRNZVc4ZWwwU3l5R2twZU1WdW9HZWVUM0FmSTJieFlacmtIeU1JUTlXQlDSAbQBQVVfeXFMTy1SVFVaaEhYc1Axb3FzbW1kWmcyOENBSnBCeGpOQmxTdUE2Y0E1QVdKTjJreEQ0S0w2dzNEOTMzRHVZLTlxZUhHUDJlUVFNd01zd3ZjLTVaV2RzdTQxRlV0N09PcEM1MEZkU0JoN1FZNXBncmR5MHV2UFNSNktNYloyZWdFTEE4Q3BUeFZWaUZVSTR0REtjU0t0LVVCNXV0WVlWM1VVMXJqS1RZaG1SMXdEaGZS?oc=5",
+      "date": "2026-04-22T09:21:20+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "25xv0pf2hnh4",
       "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
       "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A",
@@ -314,6 +470,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Vuis+PvCIctg",
+      "title": "Semiconductors | China bets on RISC-V in global AI race - South China Morning Post",
+      "summary": "Semiconductors | China bets on RISC-V in global AI race&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RlOXhHa2Rnd3NfV3FfLUh6U2M3aXQ4bzlPYkF2WEVUOGFYVGthV0hSaUV2bnpzZUhsVlhiTjBHRFNadEQxSzNVWVZGbzNHUjQ1Y1dNNWpBVTZIR0lqSks2cDItU2lOSTNwMTZ5YkF3dFJNc19GMFo5NGZmNVhDbEI2UTBnZ0NkeDZrOHlpOXFXTDNucnZ3UA?oc=5",
+      "date": "2026-04-22T09:16:00+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -377,18 +545,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Z7pkxFlXBu8/",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-04-22T07:07:15+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "9bCCHr8p+0PR",
       "title": "Google、「Gemini 3.1 Pro」搭載の自律型リサーチAI「Deep Research／Research Max」発表",
       "summary": "Googleは「Gemini 3.1 Pro」ベースの自律型リサーチエージェント「Deep Research」と「Deep Research Max」を発表した。調査の自動化に特化し、社内データや専門的な金融データとの連携が可能。上位のMax版は高い推論能力を備え、複雑なレポート作成や高度なデータ視覚化をネイティブにサポートする。",
@@ -435,6 +591,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "dqloYfrUBSJJ",
+      "title": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now - Reuters",
+      "summary": "Japan exports rise for seventh month as AI demand blunts Mideast risks for now&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUtDc2RDOE8xVG9KSlR1d3NRODhPTnpzc0htVzlMNEtta18xSTdqbWtTZThZU0dSLXJFdzA5S3VTMkdQX1BpNUR2ZTl2eXNjckRKNXdJUFcxbGdQeWJXN3NNMDJDT0lnUnlDeE5VaHNteU9CRnMxQ1ZocUZBNnBWSXZxZTlxVDJ6bVk0cFBTREZEOFhSNC1YclF6WlltYWdxRGo2YXJjejdJNXdZT19EU1c3dw?oc=5",
+      "date": "2026-04-22T00:14:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "SDeI/2TQ4U9S",
@@ -569,18 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oiFq4iaJXfz9",
-      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
-      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-      "date": "2026-04-21T20:04:08+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Q2PpYHFAMf9Q",
       "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
       "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
@@ -689,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RCNMkfVEJGdl",
-      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-      "summary": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
-      "date": "2026-04-21T17:30:24+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "uSySL9Ns25qN",
       "title": "Sullivan & Cromwell law firm apologizes for AI 'hallucinations' in court filing - Reuters",
       "summary": "Sullivan & Cromwell law firm apologizes for AI 'hallucinations' in court filing&nbsp;&nbsp;Reuters",
@@ -722,6 +866,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "oiFq4iaJXfz9",
+      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
+      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
+      "date": "2026-04-21T16:28:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,42 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "h3UThSmMnM66",
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-      "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "date": "2026-04-21T15:02:06+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "xRoaqwbJ2/TW",
-      "title": "OpenAI leans on global consultancies to expand Codex use in large companies - Reuters",
-      "summary": "OpenAI leans on global consultancies to expand Codex use in large companies&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ200anNnTWF3V2d6TkxKaDc3SzNzQ2dkVml6YzkwRks0WTQ2bVE4SnpNSDlqbXQ5alRGZ2tscW10b0dFRE1aTUlfNmUza213U0R1b01zcnZLUGtEMTlfQ0F0Zm9HS2hyNGxRTUtKTUtjWDVITno2a05Dd29IZVRMcWRocUNHb3ZWbG5VZl9HdEFIdmZNUlhzZmxjNUhob0RSbzhjOXgtakhsS2lrdU9IXw?oc=5",
-      "date": "2026-04-21T13:57:55+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "kv8QKeSmBWz0",
-      "title": "John Ternus’ first big problem is AI",
-      "summary": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
-      "date": "2026-04-21T13:37:55+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "H69dS2PsS9Sx",
       "title": "Alternative asset managers brace for investor test over AI, redemptions - Reuters",
       "summary": "Alternative asset managers brace for investor test over AI, redemptions&nbsp;&nbsp;Reuters",
@@ -806,18 +926,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "wfvo+99gnQko",
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-      "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "date": "2026-04-21T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -857,15 +965,15 @@
       "articleLang": "en"
     },
     {
-      "id": "hn2GUnKe3PWE",
-      "title": "Yelp is making its AI chatbot way more useful",
-      "summary": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one o",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-      "date": "2026-04-21T11:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "+2pTAIMF0kRg",
+      "title": "Apple's Ternus era hints at renewed hardware focus, AI growth push - Reuters",
+      "summary": "Apple's Ternus era hints at renewed hardware focus, AI growth push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVlDX01DSlhBZmtkSTZIX3J2TUZHVDU1emNoVkpNdVotdU9ldkNyQ2NOUjdBRkxQdEtpM0prOXpGTTJldmV1SWNpVFY1SEpEMDd5LVJSb0NLemE3aUxaWU9lSG9uY05sYzRMV0EtZzQxSEl4LWozSEd3Zi00cUk2V1BnWDhPTEZtLVpiQWNTR3ExbmNrTE5uV09aWG4ycTUxbmYtZFRoYjlGY1ZDWmE0Qg?oc=5",
+      "date": "2026-04-21T11:08:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -929,30 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hn3XHF/vnoOx",
-      "title": "Mythos: are fears over new AI model panic or PR? – podcast",
-      "summary": "Earlier this month the AI company Anthropic said it had created a model so powerful that, out of a sense of responsibility, it was not going to release it to the public. Anthropic says the model, Myth",
-      "link": "https://www.theguardian.com/science/audio/2026/apr/21/mythos-are-fears-over-new-ai-model-panic-or-pr-podcast",
-      "date": "2026-04-21T04:00:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Vuis+PvCIctg",
-      "title": "Semiconductors | China bets on RISC-V in global AI race - South China Morning Post",
-      "summary": "Semiconductors | China bets on RISC-V in global AI race&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RlOXhHa2Rnd3NfV3FfLUh6U2M3aXQ4bzlPYkF2WEVUOGFYVGthV0hSaUV2bnpzZUhsVlhiTjBHRFNadEQxSzNVWVZGbzNHUjQ1Y1dNNWpBVTZIR0lqSks2cDItU2lOSTNwMTZ5YkF3dFJNc19GMFo5NGZmNVhDbEI2UTBnZ0NkeDZrOHlpOXFXTDNucnZ3UA?oc=5",
-      "date": "2026-04-21T02:44:47+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "Hf/Wa/dt9fka",
       "title": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI - South China Morning Post",
       "summary": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI&nbsp;&nbsp;South China Morning Post",
@@ -989,18 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "564bz+KH/Kyh",
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-      "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "date": "2026-04-20T23:10:27+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "DsvbhItKqqwb",
       "title": "A Humanoid Robot Set a Half-Marathon Record in China",
       "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
@@ -1025,18 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JDN2rzilXRHZ",
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t",
-      "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "date": "2026-04-20T22:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "EgBucZKvb1l4",
       "title": "AI company deleted OKCupid user photos, data after FTC scrutiny - Reuters",
       "summary": "AI company deleted OKCupid user photos, data after FTC scrutiny&nbsp;&nbsp;Reuters",
@@ -1049,23 +1109,23 @@
       "articleLang": "en"
     },
     {
-      "id": "VK4IybIGAMIR",
-      "title": "It’s not just one thing — it’s another thing",
-      "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guar",
-      "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "date": "2026-04-20T19:37:07+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "HAAtN34nFm97",
       "title": "Marvell shares gain on report of deal talks with Google to develop two AI chips - Reuters",
       "summary": "Marvell shares gain on report of deal talks with Google to develop two AI chips&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDQyQnRRNy0wTk0zdFRrZjFqY0NHQUVRT1BFb040cld0M2FwdUVySFdUcldXVEh6OFc3TmNERHp1MmNnMzAtbmtTZlBDMk9Dc0xtM09GU1dNRU83U0k3QmhnaGJQRU5fVkZjaGE5U0lhejNqNTdUSGdMWWlqcjZvbXl2cmlQM1pDT0N2TXE0b3piWTMydWM1NkZ6QVM2Y3FNZU4xcjNtTFdUcEhjZVowRDdaX2dDQQ?oc=5",
       "date": "2026-04-20T14:19:27+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "eAf0oP8YRiM5",
+      "title": "Adobe launches AI suite for corporate clients as competition heats up - Reuters",
+      "summary": "Adobe launches AI suite for corporate clients as competition heats up&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm9aNGpPVmo2N1laZGtNVEwyMzE0WGlNaF9oSVlSZU1nc1o0V3FWZkRMdDNyYUpDVGtnSjczUklnR2JwdW8zN3VCZS1aZTJIUW1ZbmdLendNZTIzTFdQUk4zaGhlQm9lMkFXaE1qQ1dSTHB1RWpJeUlkYzZUTFhYX2lrUFhPcXl1UFdKdkVxUUdtRGJFTlVGUmotcmhpQXRrQ3RRa2dKY1pKRkRvbDVYQ1ZqeklfVENyTGJFMDh6XzM?oc=5",
+      "date": "2026-04-20T14:13:22+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1106,18 +1166,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "E1qr8akqpZrq",
-      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-      "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-      "link": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
-      "date": "2026-04-20T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1289,6 +1337,18 @@
       "articleLang": "en"
     },
     {
+      "id": "dMPm03thaFnN",
+      "title": "What is Claude Mythos and what risks does it pose?",
+      "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world.",
+      "link": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17T13:41:01+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "uzeuQNLad9Cb",
       "title": "‘Horrible’ for US if DeepSeek AI models run on Huawei chips: Nvidia CEO - South China Morning Post",
       "summary": "‘Horrible’ for US if DeepSeek AI models run on Huawei chips: Nvidia CEO&nbsp;&nbsp;South China Morning Post",
@@ -1382,30 +1442,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "qrUpsFK/2la4",
-      "title": "Big Tech and AI look to bring on the dealmaking under Trump - Reuters",
-      "summary": "Big Tech and AI look to bring on the dealmaking under Trump&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDBTZTBwUmM4OWJDWi1WRDlCeThPRjczbWo0eE5raC1IbTc1OVZGbXhEMFJVeDNnZGgxVTNUVGNKQ1I0QWxIdmFOcjJ3WFFkVmhWZTNKd3dWQlczbGx4dkxtLWgzTUo4ZEJScVBieFFsUF9YdFBhWl9tSjNFdU41UGYzSlZiUzhTdDgxazdURVVseV9yQTQzSWlVS1hwdnRyOHd5OXlIaw?oc=5",
-      "date": "2026-04-15T21:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "rxXE5rtC+kCo",
-      "title": "AI ruling prompts warnings from US lawyers: Your chats could be used against you - Reuters",
-      "summary": "AI ruling prompts warnings from US lawyers: Your chats could be used against you&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPR2ZtWkI5VERwRTZkZDVXU3VuVUxiY2N6N3FfYlNpNUZ6OFViQVhvTmwtYVpTb1VjM1NCWWVfM2Q2dkI3YzdZb3NyTkR0VG5TNXNveWlQTGlrYWlqYmEwTWYxVk12TkRQbTlxYTlLaXJZbzU2UkFwVjZsSnlnT1RWVm5MdDU4RW56Rnc1cEZybnR4anQ0dGsyNTdwV0Vpay1TajV4d2RPZ0ZldzdfRmRMdHRoOFgtVVJfVFU2SnNteHdmSFVnZWc?oc=5",
-      "date": "2026-04-15T20:31:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
