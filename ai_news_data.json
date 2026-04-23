@@ -1,14 +1,14 @@
 {
-  "generated": "2026-04-23T13:27:57.771739+00:00",
-  "articleCount": 110,
+  "generated": "2026-04-23T19:10:34.042717+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 25
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -65,15 +65,195 @@
   },
   "articles": [
     {
+      "id": "gU9v7NSLkvh2",
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+      "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+      "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "date": "2026-04-23T18:29:29+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "d6j4Js8d80bb",
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "summary": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "date": "2026-04-23T18:24:56+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZLXJ8uncZEew",
+      "title": "At 'AI Coachella,' Stanford Students Line Up to Learn From Silicon Valley Royalty",
+      "summary": "CS 153 has gone viral on the Palo Alto campus—and on X. Not everyone is happy about it.",
+      "link": "https://www.wired.com/story/stanford-cs-class-ai-coachella-ben-horowitz/",
+      "date": "2026-04-23T18:24:37+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "dLwqq8dwkOLM",
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-04-23T10:02:39+00:00",
+      "date": "2026-04-23T18:02:23+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "lqPtfTq8JQ6C",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "summary": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "date": "2026-04-23T18:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "L0GPRxL7dxuv",
+      "title": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
+      "summary": "Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internetAnthropic announced its latest AI model, Claude Mythos, this mont",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
+      "date": "2026-04-23T17:27:59+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "heMJUr6qsSw/",
+      "title": "Ben Jennings on the Met’s interest in using Palantir AI technology – cartoon",
+      "summary": "Continue reading...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon",
+      "date": "2026-04-23T17:22:45+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GMcca88v1xwj",
+      "title": "White House accuses China of industrial-scale theft of AI technology - Reuters",
+      "summary": "White House accuses China of industrial-scale theft of AI technology&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1FHUldGQ1UwR3ppd3BRakxvUE1TbTF6bWJ1N1gybEIxSXNLM012c1AzWmtfbURSOWFmWlRxUDBLWElBakNkMkYteHBMUnNYVTF2ZnBPUUE1SjFnX1JtQzZQSnhwVVFhNGVvUzV0WU05VHRHNXI1aFBfYVU5UHRFSHlyRzBKaENrUklWVVdjQlNIaEZPNlVlZzExWlpHekpwdEFvZ05KcFl3OHZBa1JwNVp0VF9xQQ?oc=5",
+      "date": "2026-04-23T16:58:48+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "y2YCX04THPmQ",
+      "title": "Era raises $11M to build a software platform for AI gadgets",
+      "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+      "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+      "date": "2026-04-23T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yMAAwO866PQl",
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "summary": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calli",
+      "link": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "date": "2026-04-23T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "k8CEBxgd8l/s",
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "summary": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident.",
+      "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "date": "2026-04-23T14:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FUX3F4lHZD/1",
+      "title": "Applied Digital signs $7.5 billion AI data center lease with US hyperscaler - Reuters",
+      "summary": "Applied Digital signs $7.5 billion AI data center lease with US hyperscaler&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWERocTM1dGVVOElOd0h5V3c5UkNJUWtyMTBqNEVIY2lLcGVJc2Q0UE5KbHdMNGlnVVdBTWJjcEp6VmVpcVRabXpHa2ZtVVd3MUF5cGJSRHc1YnVLa01LX1QxQkw4Y2NyREdNX25KOFdlcVBHMXF0R3FaSkN5QWYwRl84QmJCRklZYVRzOFhmQmNqQkZNZTdIUWZfcE5MbWJDaW42c0VlZ2FqbFNwS2xYOVVYMzFlSEFfYUE?oc=5",
+      "date": "2026-04-23T13:45:33+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "k4bnc20s5IoF",
+      "title": "You’re about to feel the AI money squeeze",
+      "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthro",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "date": "2026-04-23T13:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "19MTwfw2u2ZF",
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "summary": "Astronomers are turning to GPUs to find needles in the galactic haystack.",
+      "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "date": "2026-04-23T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "cTKy31Jax3q/",
+      "title": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI - Reuters",
+      "summary": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkU0MVV1QlJvMDZDT1BaaXlnS1VmdlcwYTdOLS1oZ0pQbmowbmpjLU53VV9nUGNSQ1NNNmR5RzU0dzlKd3NJYW54OWNTd1BreDdkRkU2WnhCTU5Nb3FRcXBBUVl1MjZmd050Y0QwSktlOWxHWHZMMDNhc2d0azc4QVZnMkJFN2QwZTVuNmt0dUZjWnhlV01YeDVXOA?oc=5",
+      "date": "2026-04-23T11:06:30+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Vuis+PvCIctg",
+      "title": "Semiconductors | China bets on RISC-V in global AI race - South China Morning Post",
+      "summary": "Semiconductors | China bets on RISC-V in global AI race&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RlOXhHa2Rnd3NfV3FfLUh6U2M3aXQ4bzlPYkF2WEVUOGFYVGthV0hSaUV2bnpzZUhsVlhiTjBHRFNadEQxSzNVWVZGbzNHUjQ1Y1dNNWpBVTZIR0lqSks2cDItU2lOSTNwMTZ5YkF3dFJNc19GMFo5NGZmNVhDbEI2UTBnZ0NkeDZrOHlpOXFXTDNucnZ3UA?oc=5",
+      "date": "2026-04-23T09:12:00+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -87,18 +267,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "9/hiQZAyCpC1",
-      "title": "Europe risks falling behind US, China on AI data centre build-up, Nokia CEO says - Reuters",
-      "summary": "Europe risks falling behind US, China on AI data centre build-up, Nokia CEO says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVNPUHFwU0taSVBsZVp3blVydzhoWVd5VmNVUVdEaHhsQ1NKdWthRDJ1YlRrcXNfak9WdE9acThscXFIQ0FsTFBneFRaYVBSc3NJdGpNcjhET084NDl0b3owbmlyd3ItaG9CSjl0Q1B6RkJfUTF0Y0hxS290WTMwZlhuZ2kwSlBpWks2enhoT3VzUE9CU3RqUllHNXowVkhpSjJNMW5FLW9ITkpJcDNjVXU2dTVjUEpCWFIyYUZkWG55S2VCRThkQmszNk9QUUk?oc=5",
-      "date": "2026-04-23T08:18:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "uC/N9n/xostz",
@@ -473,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "1IJXN5inkgxo",
-      "title": "Now Meta will track what employees do on their computers to train its AI agents",
-      "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees'",
-      "link": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-      "date": "2026-04-22T14:22:35+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "SfUjjdae5FBD",
       "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
       "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization,",
@@ -593,35 +749,11 @@
       "articleLang": "en"
     },
     {
-      "id": "0h/KsO1Jii4L",
-      "title": "Google Maps is about to get a big dose of AI",
-      "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
-      "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7fAaP/rmRq2K",
-      "title": "The most interesting startups showcased at Google Cloud Next 2026",
-      "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-      "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "date": "2026-04-22T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "f2OFKjTHewfQ",
-      "title": "In the AI era, Apple's strengths may become its constraints - Reuters",
-      "summary": "In the AI era, Apple's strengths may become its constraints&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2JzUVYtVFM4Wlp1YldqMmRjSHUydmNyRFFkeHE2U2pYTVhkV1FjcVRzYmkwdHJob0FEMDBXcTRwRHVQUXBrUF9xcndleDZYWU82LWNIQmlKNkRVTkFsYy1IXzdWUHVvdEZYd2R2NW9lSGRFenRfa3A2VkpiWEU3eGZTbnRvbWo3RFF0YzNMTFFPaTBRNVJ6NHRlbE5ya19hR25GYUU2dFVEeGlhV2hoYkc5d09kNUt6MWo4TzI5aHBPS3A1?oc=5",
-      "date": "2026-04-22T11:16:44+00:00",
+      "id": "oiFq4iaJXfz9",
+      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
+      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
+      "date": "2026-04-22T11:20:40+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -686,18 +818,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "25xv0pf2hnh4",
-      "title": "Anthropic’s most dangerous AI model just fell into the wrong hands",
-      "summary": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
-      "date": "2026-04-22T09:18:40+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -797,30 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "yVfKLNYn+Pyw",
-      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-      "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "date": "2026-04-21T23:45:21+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "javN5gOoRh71",
-      "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-      "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "date": "2026-04-21T23:26:45+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0N2ZMCRDnrGS",
       "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
       "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes.",
@@ -830,18 +926,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Tcf9jIEY59aA",
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same co",
-      "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "date": "2026-04-21T22:58:22+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -881,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Q2PpYHFAMf9Q",
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-      "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "date": "2026-04-21T19:11:29+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "edMzph070SQZ",
       "title": "Trump says Anthropic is 'shaping up,' open to deal with Pentagon - Reuters",
       "summary": "Trump says Anthropic is 'shaping up,' open to deal with Pentagon&nbsp;&nbsp;Reuters",
@@ -902,18 +974,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "tx1yF2zi8HFR",
-      "title": "AI backlash is coming for elections",
-      "summary": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies a",
-      "link": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-      "date": "2026-04-21T19:00:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -965,47 +1025,11 @@
       "articleLang": "en"
     },
     {
-      "id": "oiFq4iaJXfz9",
-      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
-      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-      "date": "2026-04-21T16:28:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "WtnXhoDgQp1S",
-      "title": "Lloyds pilots AI investment guidance tool as UK regulator studies impact - Reuters",
-      "summary": "Lloyds pilots AI investment guidance tool as UK regulator studies impact&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWkdJQ1VkZlFjeURSSUVNdUZMMFhyWGwwX19ZZ0ZKM3ZHLWl1TFRoQkd3UlEtMmdINGw0NHFtVVpac2FqSUhTU09kOE1FZnpUVjlNR3B4bGFvUHlqMVVPS0tiT2c2SEhud1RlRmVWUVpSSFBfTkhrT1BvWmY1emxBQWEzakpaVElGYUJ0M3lNUVkzMWpJUjNGNGE5aXFmNFUwa1hXeHc0MWFxM0xMdVg1Q0stcXFra3pmRUFkdU43VQ?oc=5",
-      "date": "2026-04-21T16:17:54+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "FULcKGCFVt+f",
       "title": "Tesla registers its AI-driven voice assistant in Shanghai - Reuters",
       "summary": "Tesla registers its AI-driven voice assistant in Shanghai&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlTcUtfaWhYNkl4LW0xOEVPM09Kai12ZUlYbExSRFBkeXJaNjVneTZicDd3VkRCTlBBWHFRS2RBTGZWUElqMG13S1k1NjRQWHpvRTR1YllTMDNLQ3FncWhqZDJZdi0xN1lrbHB5NHZxUXRqN3FGdXRKWktEVmZfRW1rOVg5emhKbVBCaUtxX3J5RzQzd0tGY2VwT0RwZWF4a3p1WGlzMlNvd0dyM2lOeGZMeTJMN2JlSGJmOA?oc=5",
       "date": "2026-04-21T15:03:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "xRoaqwbJ2/TW",
-      "title": "OpenAI leans on global consultancies to expand Codex use in large companies - Reuters",
-      "summary": "OpenAI leans on global consultancies to expand Codex use in large companies&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ200anNnTWF3V2d6TkxKaDc3SzNzQ2dkVml6YzkwRks0WTQ2bVE4SnpNSDlqbXQ5alRGZ2tscW10b0dFRE1aTUlfNmUza213U0R1b01zcnZLUGtEMTlfQ0F0Zm9HS2hyNGxRTUtKTUtjWDVITno2a05Dd29IZVRMcWRocUNHb3ZWbG5VZl9HdEFIdmZNUlhzZmxjNUhob0RSbzhjOXgtakhsS2lrdU9IXw?oc=5",
-      "date": "2026-04-21T13:57:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1073,30 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Wn465hryO1Vi",
-      "title": "‘Uber for nurses’: gig-work apps lobby to deregulate healthcare, report finds",
-      "summary": "Growing use of AI tech comes at expense of workers’ rights, protections and pay, report warnsBillion-dollar tech platforms are aggressively pushing for deregulation of the “Uber for nursing” industry",
-      "link": "https://www.theguardian.com/us-news/2026/apr/21/healthcare-nurses-gig-work-ai-apps",
-      "date": "2026-04-21T10:00:46+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "iHARuj7qj9O7",
-      "title": "Why are respected film-makers suddenly embracing AI?",
-      "summary": "From Soderbergh to Aronofsky, esteemed Hollywood directors are starting to find ways to include artificial intelligence in the production of their filmsIn Steven Soderbergh’s beguiling new movie The C",
-      "link": "https://www.theguardian.com/film/2026/apr/21/ai-film-soderbergh-aronofsky",
-      "date": "2026-04-21T09:00:20+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "Hf/Wa/dt9fka",
       "title": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI - South China Morning Post",
       "summary": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI&nbsp;&nbsp;South China Morning Post",
@@ -1109,35 +1109,11 @@
       "articleLang": "en"
     },
     {
-      "id": "DsvbhItKqqwb",
-      "title": "A Humanoid Robot Set a Half-Marathon Record in China",
-      "summary": "An autonomous robot from the company Honor ran a half marathon in 50:26, beating the human record by 7 minutes.",
-      "link": "https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/",
-      "date": "2026-04-20T22:33:27+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6/mTofjfP8fa",
       "title": "Banking industry scrambles for Anthropic's Mythos as global regulators review risks - Reuters",
       "summary": "Banking industry scrambles for Anthropic's Mythos as global regulators review risks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRHBGdXc4MW82dlM2U21Kc05mVkdsbERMSEVKQ3Y4Ty12WElOQ3dkdmRKQTF2S18zQzcweXhQSmJZWEY2UTFnTEFEazl6Q1ZnakxuRXZocnhwY0NwVjVLMTB5bDdCdW41THBWQXluLTdQM0tTaS1aVHV1UHp0RGtmN3F5bWNYeWdQSjJ1OEdEX0hIYXBad04tMFBwN0dXT2RCTzQtV294bVlma2pRS1A0dloyVWtUN1FzdVhqb3EyZC1RaTRX?oc=5",
       "date": "2026-04-20T22:11:38+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "wtTQftsOP0lp",
-      "title": "Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age - Reuters",
-      "summary": "Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2tfRV9rV3hGbUtzQjdsRm1KN2s5UDQzRXBOdHJwdmpfV3p4Rk04ZmowNDl6M1RKSzZrZi1JMUVHbkVtX1BYWUl4ZkhyT2tTRGRyMEh5MzZVaVNBbzFMRTg0RldaMW5FckVBYktNb1hFQm81RV9MMVFGaWY0NWpuR3JIQXVNU2xWSlZ5RkZ4X1pkcFlPZHdlWkphZFp0VDZEZWdlRi1WblNiM1FvQWpz?oc=5",
-      "date": "2026-04-20T20:36:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1265,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "w9yH+Eaulf2U",
-      "title": "In hi-tech South Korea, AI shamans take place of traditional human practitioners - South China Morning Post",
-      "summary": "In hi-tech South Korea, AI shamans take place of traditional human practitioners&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcThEQWVnXzNsUnZWZmJnck1Oa21PaU5VOV9jN0FJOXNEYXZ4UldKQkRKUXZVeUJwRmgzcktlTW02VnZ4MWF5dHgwS0g5N0MxRUdXT25RS0RWWkFXY1FNM0FNT3VKMVBfMzV4NzZhdmtadFRibTVHR2VWbFlKdmZrY0R6UXZyYjdITjhfRFRud0x4YjdMM3YwT09ralFvcXdnT1FReFhyZ1E0T19PeG13U0Rn0gGyAUFVX3lxTE1ucGVtMGFWZDBsSEhGSzZhbUU1dmhkLUJrWk9jMVg5bjFLVnhsdGpsTHNUSlFaWDZaam1GSHJIVXgwYWp4MmplM1B5SDNQTEVwZDQ2SEJqblhTRkF0QlBVeHpPaDlCSTMtdXMwM3oyZHZadkdNLThMazV6Rnk1U3dtamlnVVpqVWs3eW1QM3UyTXVXdEtHbXN4cGx4RDRsTkJBNldxYUZ6ZHFZZUFQS3ZlR2c?oc=5",
-      "date": "2026-04-18T04:20:27+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "ehpOJamqjmrK",
       "title": "China’s drug makers are speeding up – will AI be their secret weapon? - South China Morning Post",
       "summary": "China’s drug makers are speeding up – will AI be their secret weapon?&nbsp;&nbsp;South China Morning Post",
@@ -1310,18 +1274,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "2NJctuH2Nbzu",
-      "title": "White House and Anthropic CEO discuss working together amid Mythos AI fears - South China Morning Post",
-      "summary": "White House and Anthropic CEO discuss working together amid Mythos AI fears&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS3JvUHFkbkFWMEtlSUNXZkEtS1FSQkttYnA5dmRRWDVnX3JvNHNWTkl5MFVUbGxSdG1Ud2NUWXV0NUF6d1FvU0tZNVFGVVFzcG9Sd2hzUUxYcnlpVVcyMklyOXg4ZGZoWG5CTWNQZTRGam5RNnFuTjE1SEozYkw2ZW95OGI4Tkpscm5hRTNnM0s3OVNYdWdSZnVURTliNkVFeWNDNER6eWsyWkR6blF3Vnk5LVlQNWE0SUs4YjBJQzhNdEFscHkydXozRHNiQjMwZm9NSmZSZG55VFda0gHcAUFVX3lxTE1tek9SNmNpZTFjd216MnJnZ2MySHAya2xnWDNqNzJoT1d2QjB5UEFBLWRIZVR1c0pwU3lPbWR3WXktczlyb3BOc0I1VlpkVWZsSUI4em1iN1BTRThNbUZ2bG5RRENOS1hFcmJTSWVTQTNFcVk4OThldGM0SnBPU2xsXzZLWTRRM0tqRG01WVg2Z05FdUFNcGs3U2dXa1lDejlscm5qY1Z6R2ZRRi1CN1ZtVGRHTE1tbXMxdjRHUm84N3FTYTYyMUF0NFEwRGk0WTlycTVacFY3S1ZoVVE?oc=5",
-      "date": "2026-04-17T23:17:51+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
