@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-22T21:11:17.646776+00:00",
-  "articleCount": 115,
+  "generated": "2026-04-23T06:28:20.488370+00:00",
+  "articleCount": 112,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "bbc": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 23
+      "count": 20
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,126 @@
     }
   },
   "articles": [
+    {
+      "id": "qfN9MxXf6OX4",
+      "title": "India’s app market is booming — but global platforms are capturing most of the gains",
+      "summary": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers.",
+      "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "date": "2026-04-23T04:38:45+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0EXMhXrCacfD",
+      "title": "OpenAI、個人情報保護モデル「Privacy Filter」を公開　商用利用可能な軽量設計",
+      "summary": "OpenAIは、個人情報を自動検知してマスキングするオープンウェイトモデル「Privacy Filter」を公開した。15億パラメータの軽量モデルで、ローカル環境での動作が可能。名前や口座番号など8カテゴリを文脈から識別する。Apache 2.0ライセンスで提供され、AI開発におけるプライバシー保護インフラの普及を目指す。",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news103.html",
+      "date": "2026-04-23T04:20:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "AawWNoSLs/1h",
+      "title": "To be human is to live with friction. That’s something AI boosters will never understand | Alexander Hurst",
+      "summary": "We’re being sold a world where there’s no room for reflection or spontaneity. This is the Black Mirror stage of capitalismHow fast do you have to strike a match to get it to light? Not the chemistry o",
+      "link": "https://www.theguardian.com/commentisfree/2026/apr/23/humanity-friction-artificial-intelligence-capitalism-black-mirror",
+      "date": "2026-04-23T04:00:46+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ng248cUsygsg",
+      "title": "「Qwen3.6-27B」登場　グラボ1枚で一部「Claude Opus 4.5」に迫る性能うたう",
+      "summary": "中国Alibabaは、オープンなAIモデル「Qwen3.6-27B」を発表した。デスクトップPC用GPUに収まるサイズでありながら、高いコーディング性能をうたっている。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news085.html",
+      "date": "2026-04-23T03:32:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Cte1Z5XysuG6",
+      "title": "MAGA支持者は「超バカ」インドの医学生、AIが生成した金髪女性のビキニ写真で荒稼ぎ",
+      "summary": "トランプ米大統領が掲げる「MAGA（米国を再び偉大に）」を支持する男性の間で人気を博した金髪の女性インフルエンサー「エミリー・ハート」は実在せず、インドの医学生が生成人工知能（AI）で作った虚像だったことを、米誌WIREDが明らかにした。医学生は、SNSを介してビキニ写真を売り荒稼ぎ、購入者を「超バカ」と評したという。",
+      "link": "https://www.itmedia.co.jp/news/articles/2604/23/news067.html",
+      "date": "2026-04-23T01:42:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "TFKGekH3g0Yd",
+      "title": "OpenAI、ChatGPT向けクラウド自律AIエージェント「workspace agents」提供開始",
+      "summary": "OpenAIは、業務を自律的に実行するクラウドベースの「workspace agents」をChatGPTで提供開始した。従来の「GPTs」を進化させたもので、バックグラウンドでの長時間稼働や外部ツールとの連携が可能。組織内のノウハウを共有・定着させるエージェントとして、営業やITサポートなど多岐にわたるタスクを自動化する。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news063.html",
+      "date": "2026-04-23T01:26:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "hpiuNm5ASC9j",
+      "title": "Google Cloud Next 2026での発表内容まとめ　自律型AIエージェントへ",
+      "summary": "Google Cloudは年次イベントで、自律型AIエージェントが主導する「Agentic Enterprise」への移行を提唱した。「Gemini 3.1」や「Nano Banana 2」を統合した開発基盤、第8世代TPU、Wiz統合によるセキュリティ機能などを発表。インフラからアプリまでフルスタックで、AIが自律行動する企業環境の構築を支援する。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/23/news061.html",
+      "date": "2026-04-22T23:19:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "oT8d8fGI1nQf",
+      "title": "Google updates Workspace to make AI your new office intern",
+      "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+      "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "date": "2026-04-22T22:44:26+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1YnEqRhCCKbL",
+      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
+      "summary": "Google puts AI agents at heart of its enterprise money-making push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
+      "date": "2026-04-22T22:37:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "dyi7B4bXcdEw",
+      "title": "Hands on with X’s new AI-powered custom feeds",
+      "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+      "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "date": "2026-04-22T22:25:53+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "uxNrVMes1cq2",
       "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
@@ -89,6 +209,18 @@
       "articleLang": "en"
     },
     {
+      "id": "2mC54MG7lUiH",
+      "title": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams - Reuters",
+      "summary": "Tesla lifts 2026 spending plans by a quarter as Musk funds AI and robotic dreams&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdG1nY0hsQks1UXZDNmhhLVY2cFg1TmRQeGlrM2M1QUpMUzdSel90UGJHYlhPQ1pzLW8ybkFLTVJmcjRNeHdvalUzYVU0T1lYUWpDSVBZMllPUjJGM1FPWW5PX3YyQzBkek9KdldBcDdiUWxZcEZrWlY1WVNjbU9wMFIwcWRTcV95WjlQN0FsV0hySk4zQzA1bGZ4NlRKV25TX25pbmc1bHE1dlJOVDRpeQ?oc=5",
+      "date": "2026-04-22T20:06:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ZZfUd9Undrnh",
       "title": "Claude Opus 4.7は“最強で最恐”？　圧倒的な性能なのに使いたくないわけ",
       "summary": "Claude Opus 4.7は、一般公開モデルとしては最強クラスの性能を示した一方で、実際のユーザー評価は大きく割れている。本稿では、Anthropicの公式情報に加え、初期ユーザーの反応も踏まえながら、その強さと「怖さ」を整理する。",
@@ -101,6 +233,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "KkFIjmpZAW5e",
+      "title": "Merck to partner with Google Cloud on AI initiatives - Reuters",
+      "summary": "Merck to partner with Google Cloud on AI initiatives&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2xKSGxmOUFlY2FBdkRKT3A4UDlyOHp4YVNqZzh4VGozRnFaS2ppdlJrSTdJcXBpT3lMSTJmNzBIVlo0RE9XOTItTDV4WmVEWjM0N2t1b0p2U2w1bjRTM2lqeHVCdGtWODVjdnZvci1MQmE0UFFXSWVuRUpJREFHVnR1eExwOG1GTjhXd1h5blFDVlZaendvQU1UanV6enN2?oc=5",
+      "date": "2026-04-22T19:55:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ZVLHHROiqDVp",
       "title": "Google Cloud launches two new AI chips to compete with Nvidia",
       "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
@@ -110,18 +254,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "1YnEqRhCCKbL",
-      "title": "Google puts AI agents at heart of its enterprise money-making push - Reuters",
-      "summary": "Google puts AI agents at heart of its enterprise money-making push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaC1SX002a0pCeURJUGFrcmxHQmNlM2k2dldpYVFzTDgxQjhlaWp4NmJja1FHNS1sdkt3SzFFcWxpVlJJekVQUFdsTFJob3lLb1h1Rk1XSXpDRGR0VXVZWDI3UUhWVnFBelV4SVNYSVRtNkVta3dIMFNucGZCMGdSaERNTkU3Rk5TeTlpT1FsQ29PaXdwRDlIU2ZtamVSNGZYOFU0ZDdlMUU?oc=5",
-      "date": "2026-04-22T18:15:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -146,6 +278,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6lnpYg/5RjE2",
+      "title": "Microsoft to integrate Anthropic's Mythos into its security development program - Reuters",
+      "summary": "Microsoft to integrate Anthropic's Mythos into its security development program&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXhjQ2htNVUyLUp0c3AyUW8zclU2MTlpa2dDYXRxZkFocTB0T0ZGTHkzU3d4SFJEaTNjZjhkai1OMUxINnVkQXF1azFFMWIzaWJMMkxySWhwLUVCYUItUVNEV1FJUVZUU3R0M0RCb1hDV0swVm10czhRa2ROaVozUWgwd0QzdzNxYTQta0FZdlF4b0s1NmVVRmJncnVCSlgyaWxZdkdZZWgwU005SHptTERaTlRSVnRYaE1vei11SQ?oc=5",
+      "date": "2026-04-22T17:25:02+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -269,6 +413,18 @@
       "articleLang": "en"
     },
     {
+      "id": "RXgMXJRCLGK4",
+      "title": "Italy is euro zone laggard on AI usage, official data shows - Reuters",
+      "summary": "Italy is euro zone laggard on AI usage, official data shows&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEZkU1RyLU1ReUc2VmVUT25XdkNZOUthZE93bmp6R0ZJS2QzbXQxUzM5aFpfRFp6SGVLTzE1cGQyd3l3dWdoYTRMVzhQc3U2TnZXM3BMUUMzT0I4NnM0NVY4WlUzTF9zLUlGdEF6ZHV0eV9sWEZEYkp5c3RTR18wcUdRM1hXeHdRWHFJVldoMkIzaV93ZmZxVk9ySGw1anVjZ3c?oc=5",
+      "date": "2026-04-22T14:01:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "hC4oegsttBnr",
       "title": "Met police in talks to buy Palantir AI tech for use in criminal investigations",
       "summary": "Exclusive: Internal concerns over allowing US firm linked to ICE and Israeli military to process highly sensitive data The Metropolitan police has held talks with Palantir that could lead to the Londo",
@@ -290,6 +446,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "4qEZQQrx9FzL",
+      "title": "Gaming industry could unlock $22 billion in profits on AI-driven cost cuts, says Morgan Stanley - Reuters",
+      "summary": "Gaming industry could unlock $22 billion in profits on AI-driven cost cuts, says Morgan Stanley&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWDlpQ3VWYUdselFwdV9ROTBJTFQ1SXdvUVozWlFmUkpKSmJGNFpJWEQ1ZzRMOE0zbG1vVW9XelRyU210bXY1Y2ZXcUJtSEJjRzltcGdReV9NenNra3ZMQmxkQ0NOOGdnWm9BNVFRb085NjNiMk9KY2phenVpZkI3ckdGWjByX29sMFhBMnV5el9Ra29ndkx3NHNVQjJhTzJIOVZpTkQ0OW9EMk1aZlo0RmdfeUUzb0FWQUM0?oc=5",
+      "date": "2026-04-22T13:27:07+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -389,18 +557,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RszgQUJ8DBSb",
-      "title": "「Claude Mythos」に“許可を得ていないユーザーがアクセス”か　海外報道",
-      "summary": "米Anthropicの新しいAIモデル「Mythos」に、許可を得ていない少数のユーザーグループがアクセスした──米Bloombergが関係文書や事情に詳しい関係者の話としてこう報じた。",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/22/news138.html",
-      "date": "2026-04-22T10:51:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "gjk7vmuvJ/ZR",
       "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
       "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.",
@@ -497,18 +653,6 @@
       "articleLang": "en"
     },
     {
-      "id": "mGsIHd9Zwy8E",
-      "title": "話題の「Claude Mythos」、なんて読む？　「ミトス」か「ミソス」か、はたまた「ミュトス」か",
-      "summary": "米Anthropicが4月7日に発表し、そのセキュリティ性能などから世間をにぎわす次世代大規模言語モデル「Claude Mythos」。日本では「（クロード）ミトス」「ミソス」「ミュトス」などと書かれ、日本政府や大手報道機関でも読みや表記が揺れている。正しい読み方はどれか。",
-      "link": "https://www.itmedia.co.jp/news/articles/2604/22/news129.html",
-      "date": "2026-04-22T08:21:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "7BXaGhwpKpnr",
       "title": "AI hallucinations found in high-profile Wall Street law firm filing",
       "summary": "Sullivan &amp; Cromwell apologises to New York federal judge for string of errors in documents for Prince Group caseBusiness live – latest updatesThe elite Wall Street law firm Sullivan &amp; Cromwell",
@@ -545,18 +689,6 @@
       "articleLang": "en"
     },
     {
-      "id": "9bCCHr8p+0PR",
-      "title": "Google、「Gemini 3.1 Pro」搭載の自律型リサーチAI「Deep Research／Research Max」発表",
-      "summary": "Googleは「Gemini 3.1 Pro」ベースの自律型リサーチエージェント「Deep Research」と「Deep Research Max」を発表した。調査の自動化に特化し、社内データや専門的な金融データとの連携が可能。上位のMax版は高い推論能力を備え、複雑なレポート作成や高度なデータ視覚化をネイティブにサポートする。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news109.html",
-      "date": "2026-04-22T06:37:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "dZ8g3okLdjC+",
       "title": "IT firms can't get past the AI question - Reuters",
       "summary": "IT firms can't get past the AI question&nbsp;&nbsp;Reuters",
@@ -579,18 +711,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "sR+2s+7JS/K2",
-      "title": "Claude、Proプラン新規ユーザーの一部への「Claude Code」提供を停止するテスト実施　既存ユーザーは影響なし",
-      "summary": "Anthropicが「Claude」の「Pro」プランに新規登録した一部のユーザーに対して「Claude Code」の提供を停止するテストを実施した。同社は「ユーザーに素晴らしい体験を提供し続けるために、さまざまな選択肢を検討している」と説明している。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news075.html",
-      "date": "2026-04-22T02:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "dqloYfrUBSJJ",
@@ -665,18 +785,6 @@
       "articleLang": "en"
     },
     {
-      "id": "R1T/E0OyIxp9",
-      "title": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting - Reuters",
-      "summary": "Florida launches criminal probe into OpenAI and ChatGPT over deadly shooting&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHBhZWNJTTg2V29MelhaU0RKSFVrZldSdXNwRUNISVBHMkk1TGF6eW1jV1hENzdCOHVJbWJOU0F4Zl9vWWVzY2FLRU55em92M3gtN3Bzel9TWENlRHM5dS0wR25jMklIaDl0WGRyMklxaDNOdHNHeWg5QnNNNV9RcFV2ZDJNaHRURktXNXZxRFVCZ2Q4blQ0M3Q0SkdZTk4xOVNFcTR1c0NyTndxcWluX2plWGlGT0RZ?oc=5",
-      "date": "2026-04-21T22:48:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "cmT2Ok3z/PgE",
       "title": "Meta to track workers' clicks and keystrokes to train AI",
       "summary": "The firm will take data from the way employees work for its artificial intelligence models.",
@@ -687,18 +795,6 @@
       "cls": "src-bbc",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "W6cUtCAWM82j",
-      "title": "OpenAI、“視覚的思考パートナー”「ChatGPT Images 2.0」発表　Web検索結果を反映する画像生成も可能に",
-      "summary": "OpenAIは、画像生成AI「ChatGPT Images 2.0」をリリースした。新機能「Thinking capabilities」（思考モード）により、Web検索と推論が可能になり、図解や地図の正確性が向上。日本語を含む多言語テキストの描画能力も大幅に強化された。1度の指示で最大10枚の連続画像を生成でき、実写からマンガまで幅広い用途に対応する。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/22/news057.html",
-      "date": "2026-04-21T22:19:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "RIrk4XEgwQpS",
@@ -746,18 +842,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "edMzph070SQZ",
-      "title": "Trump says Anthropic is 'shaping up,' open to deal with Pentagon - Reuters",
-      "summary": "Trump says Anthropic is 'shaping up,' open to deal with Pentagon&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ2MwQWNqRkplMmk4UWlLOVhBMnJwbDBKbUF4VWFUUTVqOGhDVVdoS1lkWF9IUlZOQmdydmhvZjhfRzd0MzVGZzdWNmF0a2pGMW9RNHFUWHltUXdNMGRxLU55c2ZacUlybTc4Y3Z6SHVLUC05dDlRN1dZVzhsZkNVQkRyNHZJMjJITmVzeXItSXZsYzQyVERYaXI3WEsyWmJGc2NtUF9qWG9EZFFpc29Yaw?oc=5",
-      "date": "2026-04-21T19:02:14+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -809,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "NdV5+HPiA/Hy",
-      "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
-      "summary": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than",
-      "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "date": "2026-04-21T18:51:52+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "cy50CHc7Lhu8",
       "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
       "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
@@ -857,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "n19gZukCMMCB",
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents.",
-      "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "date": "2026-04-21T17:11:01+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "oiFq4iaJXfz9",
       "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
       "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
@@ -893,27 +953,15 @@
       "articleLang": "en"
     },
     {
-      "id": "daXHxKIVyRqt",
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "summary": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game.",
-      "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "date": "2026-04-21T16:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "M1U8tX3Q7eeA",
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "summary": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app.",
-      "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-      "date": "2026-04-21T15:24:29+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "FULcKGCFVt+f",
+      "title": "Tesla registers its AI-driven voice assistant in Shanghai - Reuters",
+      "summary": "Tesla registers its AI-driven voice assistant in Shanghai&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlTcUtfaWhYNkl4LW0xOEVPM09Kai12ZUlYbExSRFBkeXJaNjVneTZicDd3VkRCTlBBWHFRS2RBTGZWUElqMG13S1k1NjRQWHpvRTR1YllTMDNLQ3FncWhqZDJZdi0xN1lrbHB5NHZxUXRqN3FGdXRKWktEVmZfRW1rOVg5emhKbVBCaUtxX3J5RzQzd0tGY2VwT0RwZWF4a3p1WGlzMlNvd0dyM2lOeGZMeTJMN2JlSGJmOA?oc=5",
+      "date": "2026-04-21T15:03:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1013,30 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FbzvDhm82jHD",
-      "title": "“Mythos級”AI到来に備え、自民党が日本版「Project Glasswing」組成を検討",
-      "summary": "自民党が「Claude Mythos Preview」のような高度なAIによる脅威に対抗するための対策強化について検討を開始した。金融分野を念頭に、国の重要インフラの防御を目指すプロジェクトの立ち上げを図る。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/21/news114.html",
-      "date": "2026-04-21T07:05:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "laUxWfmt/5nn",
-      "title": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
-      "summary": "Alarm caused by posts of Alex Karp, tech firm’s CEO, championing US military dominance and of AI weaponsThe US spy tech company Palantir published a manifesto extolling the benefits of American power",
-      "link": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
-      "date": "2026-04-21T05:00:16+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "Hf/Wa/dt9fka",
       "title": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI - South China Morning Post",
       "summary": "Opinion | The world can look to Hong Kong as a pioneer of ethical AI&nbsp;&nbsp;South China Morning Post",
@@ -1054,18 +1078,6 @@
       "summary": "Jeff Bezos' AI lab nears $38 billion valuation in funding deal, FT reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeWVBNjZ0aGR2WVdEbFZVVVdMR0Q4LUxja2Q2Ynh3UGNLTjZvdVEzZzhMb2g4eXJGdXhSWU9QZWR3UFVUOFN5c3NJZUJ6VVMtSHB3SkpSMTA4UGUzV25pMnRHTkp3NWF5c1ZzM2NzZmxlYlk3cUlVemU0MTNNLTZPTG5PYzNOZVJCS1FJdV9ZZ2M1UDJON1NFY0R6LWtaWGdmN2VqOFpGX0dLVFRkd3ZVNmxGX2hYUQ?oc=5",
       "date": "2026-04-21T01:21:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "oTueJzoxIoe1",
-      "title": "'AI or die' - but can Big Tech's profits survive the energy squeeze? - Reuters",
-      "summary": "'AI or die' - but can Big Tech's profits survive the energy squeeze?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTWFSUEUxMVB6dkpJZkRPNl8yUGRzSS1lUWUxUVNBSGQ2YWFXa2xqSWxZc1FkZDBQX05nLVdPcVB4VUFhT1laZnpvOUNtZGhielJvX0JhZVhMNEZidFRvOUFibUotSWtWY0FkbW5vVFNJYlRCeDBOOEJPaWFuTDBlckE1YXZtbnVHR3pvM3RsMTRld18zT2lUUG1OdHhjZkZzanRzTG5FM240a2QtYU1r?oc=5",
-      "date": "2026-04-20T23:31:46+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1097,11 +1109,11 @@
       "articleLang": "en"
     },
     {
-      "id": "EgBucZKvb1l4",
-      "title": "AI company deleted OKCupid user photos, data after FTC scrutiny - Reuters",
-      "summary": "AI company deleted OKCupid user photos, data after FTC scrutiny&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnpEdUdNTTFrLXJHRER6bXIyTmZEbEhwSU9mMFlxNVVDeF9EdEhmS0l0a1pWUzhUTEFkeTlHcTVKU0tKMXlId0h1bkZGcGtPQ2FlOHRJQTNRZXZLajQ4YVFCTUQzRGlnUXlWSVdYaFhBbW50aHBoQW11SE9XeW1YZVdkUFVpdzlGdWhtb2QzYzVhVU9HQjc0WTZNU2U0X1hmVmRwMGRMVEt0Z1pKT3A2ekJsZGxEQQ?oc=5",
-      "date": "2026-04-20T21:09:26+00:00",
+      "id": "wtTQftsOP0lp",
+      "title": "Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age - Reuters",
+      "summary": "Apple turns to hardware veteran Ternus as CEO to succeed Cook in AI age&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM2tfRV9rV3hGbUtzQjdsRm1KN2s5UDQzRXBOdHJwdmpfV3p4Rk04ZmowNDl6M1RKSzZrZi1JMUVHbkVtX1BYWUl4ZkhyT2tTRGRyMEh5MzZVaVNBbzFMRTg0RldaMW5FckVBYktNb1hFQm81RV9MMVFGaWY0NWpuR3JIQXVNU2xWSlZ5RkZ4X1pkcFlPZHdlWkphZFp0VDZEZWdlRi1WblNiM1FvQWpz?oc=5",
+      "date": "2026-04-20T20:36:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1114,18 +1126,6 @@
       "summary": "Marvell shares gain on report of deal talks with Google to develop two AI chips&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZDQyQnRRNy0wTk0zdFRrZjFqY0NHQUVRT1BFb040cld0M2FwdUVySFdUcldXVEh6OFc3TmNERHp1MmNnMzAtbmtTZlBDMk9Dc0xtM09GU1dNRU83U0k3QmhnaGJQRU5fVkZjaGE5U0lhejNqNTdUSGdMWWlqcjZvbXl2cmlQM1pDT0N2TXE0b3piWTMydWM1NkZ6QVM2Y3FNZU4xcjNtTFdUcEhjZVowRDdaX2dDQQ?oc=5",
       "date": "2026-04-20T14:19:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "eAf0oP8YRiM5",
-      "title": "Adobe launches AI suite for corporate clients as competition heats up - Reuters",
-      "summary": "Adobe launches AI suite for corporate clients as competition heats up&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm9aNGpPVmo2N1laZGtNVEwyMzE0WGlNaF9oSVlSZU1nc1o0V3FWZkRMdDNyYUpDVGtnSjczUklnR2JwdW8zN3VCZS1aZTJIUW1ZbmdLendNZTIzTFdQUk4zaGhlQm9lMkFXaE1qQ1dSTHB1RWpJeUlkYzZUTFhYX2lrUFhPcXl1UFdKdkVxUUdtRGJFTlVGUmotcmhpQXRrQ3RRa2dKY1pKRkRvbDVYQ1ZqeklfVENyTGJFMDh6XzM?oc=5",
-      "date": "2026-04-20T14:13:22+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1373,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Q0Q0ipYVHHOo",
-      "title": "Chinese AI firm SenseTime to raise US$415 million via share placement - South China Morning Post",
-      "summary": "Chinese AI firm SenseTime to raise US$415 million via share placement&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT2Y1WVE3SVdoZ2d1V1Y5eFJGallOY1dWQTZHZjFyQ1NEZGFabGY1c3JyZC1TT193QXB2Y1liQUJMaFJJTnlFLU1QajRIcUdmZF9Tczl6dGNnWVU4WG92QkExRC1BNGl5LXdyVDhDcTVEeUNsaXhKdTZnVXp0d1I3ZDJkMUNZd2xFeEFsTWstMVBfaTA5TVJ5ZXg4aHVRN1RJTWtMams1cE1DNG9EQW1JTk1OR1RTSFpWY3BtNnNwc9IBvwFBVV95cUxNMUpSTjk5RjA1WGV1U0ZJa1ZndXd4VEEzUmdpUW43ZXpadFVtOG5udENDc3Y2cFE3cW00WWYtRjVRSmNZN3pZeW9IeWhHSEtEdHdybHhmR3JPZFB5QVh6QW0zTmlubTh6NW03Yjk3SXB3NFktVG5lSWtYMm9jeFNuVmhjTXNDSy0xaGFUN2lOZTVJNDY3djNTa0lDUGNqR0xhNjJLZkQyRmpNM1Bnekh0SkhjckJPNWFranlFN3VDOA?oc=5",
-      "date": "2026-04-17T04:33:00+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "mhCKx4Jf5WGX",
       "title": "How the rise of AI agents could finally make China’s open-source models pay - South China Morning Post",
       "summary": "How the rise of AI agents could finally make China’s open-source models pay&nbsp;&nbsp;South China Morning Post",
@@ -1409,18 +1397,6 @@
       "articleLang": "en"
     },
     {
-      "id": "lN2rBE+6CB1Y",
-      "title": "Overheating hurts AI. So China’s scientists are adding diamonds to copper - South China Morning Post",
-      "summary": "Overheating hurts AI. So China’s scientists are adding diamonds to copper&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWjZKbHl3MnNCVVlORFE0ZXFCbE9sSHRjcW9mUHA5WkFQcUIzTzNnWGtSdzN5ZktmSzJyVHFQT3V1cGt3V2ZtNElhR3RtQ1otdE9yMFlnRTVuWUYxM2VkS0J3LU1iYVJ2c1ZYdno4UU0xUmVmRlEwQl9mNGF6eUxNSUNmTjc0dk92Rnc1dlRxTFkyWUIzNVZEdjYyVlNjTEktVGtmOWdycmhHVkUtdU9RUWFESEtlY2xmUHNtODBCRm11RFpQYkRIU9IByAFBVV95cUxOMHFvc0xBRzBjcy12Rm9qTUU2M1ZRVFlUV3Z5bEQ5OU5pRVNZSnNBVUlEZW5KN0hXbVhENXZqSVpDak9xOHlmNFotd19kazc0SE1BN3BiUHVzTldNOEUyOVVxMnRmTXlLWFlyS1RFenZBaHdVaS1vQ0NJX2FYY3BIeFMtMjlLOFpKckhxaDBvUXBuNUlPZWs3dVBVUEk3My1lS09nOGNmWlU4VDZIYWpPc1EzSXpyQTVuY05pYTdWVUZ6bVlVOFBjNg?oc=5",
-      "date": "2026-04-16T22:00:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "ydxe33G69cyK",
       "title": "Israeli military admits to posting AI photo of Lebanese journalist it killed - Truth or Fake - France 24",
       "summary": "Israeli military admits to posting AI photo of Lebanese journalist it killed - Truth or Fake&nbsp;&nbsp;France 24",
@@ -1430,18 +1406,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "B97fnvFbpwBz",
-      "title": "Chinese tech giants, AI ‘godmother’ Li Fei-Fei race into world models - South China Morning Post",
-      "summary": "Chinese tech giants, AI ‘godmother’ Li Fei-Fei race into world models&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWmtuekFlcWFlZE9GUHhCQWZzazM0R2REd2hPWndCUy1JNTE0enpyWUJ1NVNCZ1dwRXJIa3c4QlcyMXZKbGpLd1JPTUxnTGdtYVBCN05kaDY3QU5JX3hzeldaUU42aV90czdvMjByUFozMUVKV2NJOVp3bUtzNEE0QjNnSlozd3hSS2dqUWVlS0E0MTF1RG9EcVdKR0g2V0ZMcFFvc09HSU1ZVWxMU21KU1pNU2ZmTjJRaThYU2RlSFnSAcABQVVfeXFMT05zVTc4aHVCMEJ4Q0pRcm1uelpOLXlPWmZwQ2lYV3U3T2JlQzJvWldfRUt4Tjc2cU1XakNJU1NSVVh4dEpFcGozS2ZyME9CYWZmRUhxY0V0R2lKU0dxSFc3eXNhWXQtV1lodFhkekhyMVNEMkZiMlVMOG1YVlg3VXB6c3NoOGh3UWhfaDVUWllHMDZuNlZ5bTRoQ0ZucHEyWTltejJlN1lqYmxKaFpWXzdBSHF2aW5nZlI5aGs0N0VO?oc=5",
-      "date": "2026-04-16T13:00:14+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
