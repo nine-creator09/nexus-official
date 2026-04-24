@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-24T08:02:28.081096+00:00",
-  "articleCount": 103,
+  "generated": "2026-04-24T13:22:32.646381+00:00",
+  "articleCount": 111,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "ars": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "bbc": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     "dw": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,138 @@
     }
   },
   "articles": [
+    {
+      "id": "bI1cE2Jm6OaN",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT",
+      "link": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "date": "2026-04-24T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/zqizjj9ouI+",
+      "title": "Elon Musk and Sam Altman’s court showdown will dish the dirt",
+      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "date": "2026-04-24T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "dtTuhJ5rjEKw",
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+      "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "date": "2026-04-24T12:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "uuEA1LjuDhbe",
+      "title": "China’s DeepSeek previews new AI model a year after jolting US rivals",
+      "summary": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
+      "date": "2026-04-24T09:45:30+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "vGmrIjHfSpkx",
+      "title": "Prestigious photo contest answers ‘what is a photo?’",
+      "summary": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celeb",
+      "link": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
+      "date": "2026-04-24T09:40:07+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xNF5x6Wb+IZT",
+      "title": "The Men Behind Your Favorite AI Gay Thirst Traps",
+      "summary": "A viral red carpet moment shone light on a group of hunky Instagram influencers—and the followers who are too horny to care that they’re not real.",
+      "link": "https://www.wired.com/story/gay-ai-instagram-influencers-red-carpet/",
+      "date": "2026-04-24T09:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DzWJ2ODFX+ZD",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient rec",
+      "link": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "date": "2026-04-24T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "VAk54lVx1gs0",
+      "title": "5 Reasons to Think Twice Before Using ChatGPT—or Any Chatbot—for Financial Advice",
+      "summary": "As people increasingly rely on AI chatbots for guidance, even on financial matters, a healthy dose of skepticism is critical.",
+      "link": "https://www.wired.com/story/5-reasons-to-think-twice-before-using-chatgpt-for-financial-advice/",
+      "date": "2026-04-24T09:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kYm2lf1KW4Gs",
+      "title": "Googleの“AI講座”人気　無料枠1万人分が1日で終了　受講者は「Google AI Pro」3カ月無料",
+      "summary": "AIスキルを学べるトレーニングプログラム「Google AI プロフェッショナル認定証」の日本語版がスタートした。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/24/news116.html",
+      "date": "2026-04-24T08:14:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "dLwqq8dwkOLM",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-04-24T08:02:49+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "xrbtaZ2hjPOz",
+      "title": "How Intel is riding the ‘CPU comeback’ as AI shifts - and where China stands - South China Morning Post",
+      "summary": "How Intel is riding the ‘CPU comeback’ as AI shifts - and where China stands&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNczMxYWRqVFp1eUc0Q1B6MHVKVUxJYU1TRWc1X0FvX1MyUmd1UTlBUWEyMzItSTJwd0c1XzBFd3BxYjdCdW1CdWkwa0ZGcW1iVWdmLXE5WlByTzJuWFhpcVJ1c0pWMjFiZGZyM0ttblpPaGU4bWtyMWVSR0tTYWVCSEcxY25IRjNLcXFvNktQU0ItWDlwNGRWM1hPRklCR1RhU2hoUXNrVFR1NzdPX3k2WVV2SnZoTWvSAbcBQVVfeXFMTVFYcDNqcVJkMURhQ0NPWmEzNWczUklwQUlOc3dYZ0o1b2txMHhEOVV0eVFiYThCZk56cFV4ZVpxZ2w4ZjhLTnZXQ0hFYUNLVnBRakVmZnlvREI1ZDdhZDh4R0dOVGpHbnhyTU1LV1JVNVdhMHgzaW4xWHhEUWJZQ2M3ZDBWSVJkdUFxMFpzX0k3eVJFdzJVY2pYOVNlaDNQTy00emtWMTBqY3VqYXQ3Z3Q2Q1N1Umlr?oc=5",
+      "date": "2026-04-24T08:00:21+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "Cgdq2z3CKTR5",
       "title": "Meta to cut one in 10 jobs after spending billions on AI",
@@ -101,15 +233,27 @@
       "articleLang": "en"
     },
     {
-      "id": "dLwqq8dwkOLM",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-04-24T05:00:58+00:00",
+      "id": "UcitYvyy+O+G",
+      "title": "China's DeepSeek launches preview of new AI model - DW.com",
+      "summary": "China's DeepSeek launches preview of new AI model&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yVWNVNmNtTGlQc1ppV3lZNW55TjJiUVJxOHhOTG9ESWhzeFJQNlZJck9HVXNzX3hkWWhfRnNfTDlmdEx2TGJuRGJvN1pfcndnUFQyUUpnbFA0emdSZHVISDVCNm4xRWY5dlNKWmxMRdIBb0FVX3lxTE84MDl4aHFpdzVZLVZQZ1o1RmFrNzhmMHVWVXo1elpZUG5LWjdvTVFVMnp0aUl4WXNtcGxhR2tOQktaVDg1WU5GVm1kN0oxYVVOWUFMdzNTSlpDVG80SU1Da0FHZVBOZFhQMlZkYVY2Zw?oc=5",
+      "date": "2026-04-24T05:12:27+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "leBm6XSYPlul",
+      "title": "US-China AI race intensifies as DeepSeek releases 'reduced' cost model - France 24",
+      "summary": "US-China AI race intensifies as DeepSeek releases 'reduced' cost model&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1B1X3BGd1JSU0lBWjVtVEp0S0tiTzhCU2pHRkVlVEswRW45U1BFdjRQZHBQNlB2Y1VWOFJGU21NRnF2dnhQNHo1MnJiUUZucXRoWWdlbUdQR04ySmUzaTFzM3JycnJMTlZrbnNPMW83MXRvdkptM2FxdWNPZ1ZpZXZyQ2tUYlJ3NExqRHBXejJ6Mlhrek9TUW42MXVVLVpNQU5PNW1UbUlWQXNrTTQ3b2NQRDVtc2JCSUdDdA?oc=5",
+      "date": "2026-04-24T04:39:12+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -122,6 +266,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "XrzK4VH9rZQM",
+      "title": "'Clearly me': AI drama accused of stealing faces - France 24",
+      "summary": "'Clearly me': AI drama accused of stealing faces&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGNRbmZSNTFULVJ6dEtvVngzenZCU2xBRnZIVng5ZDEtUG55VFgwZk1KbXZ2LUJXYjBITm9zMzRRVXM2Ni1vT3RDZ1dpdTMybUhQMGs3eU53MnVFYlRMSk80WDRFdUUxVmtGWDFUQ3RQSWJINFFtSlR6QnJZOHA1VGFTSnJ6eHE5ZXU3T1VvcjhHS0hXWWlZ?oc=5",
+      "date": "2026-04-24T02:55:34+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -173,6 +329,30 @@
       "articleLang": "en"
     },
     {
+      "id": "dA7uD4Vwn7mG",
+      "title": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry - Reuters",
+      "summary": "Singapore emerging as neutral ground as AI firms navigate Sino-US rivalry&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ3dqS3loMEw5OGZKWDhDbnYzY2NlV1Q0U0ZRbG5DMWVuUmU5S092b0hFSi1lSEJ4Q2ZxV2E3YTFfeXVnMlh4VVhrVmRBeDdWTzdLc2VHc2d2RjZFUk5WaTB4WFFjSTk2VFdJVFM3ZVhOenJDWGgxdWNIMWlXYWNrUEp4Zi1MYWMya1BWZnpnSWJ4Rmpsd3M0MnZ1dWlaZFhFRlJsMTJMTC1zZDZleHhfSTNWTkt5QQ?oc=5",
+      "date": "2026-04-24T00:31:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "S1d4z4xVN880",
+      "title": "Chinese EV makers bet on in-house chips to make cars smarter and more autonomous - South China Morning Post",
+      "summary": "Chinese EV makers bet on in-house chips to make cars smarter and more autonomous&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbGFfTUVySklZWmFvUmtVRmhaN0l0ZDRPNzkwQWx5R1NHLWs5bkZ6Q3dFbUY0X2I4MFZwMGREb25DVnVBVmhKQTQtcVpJUWNWLUlVTi1GZEtjd0xNN2k5dlN0OXJCclEtTDUzQnVmTUJFbnBQQUctNEdmQktOMmZtRkhiQWwzRHQzSmRlUW5PTlpQVkl4OFltNTlXRFJxd0NqSEx2RWlhaFhPR0tSWlFIVkdGd0hKS3M2S0lWUVJJMldiZzJTMWk0MXo2NDPSAcwBQVVfeXFMTkhvSWVXemRGa2FTS25Lcy0yM0ZtTm52Ql9NZDg5TXhVMUhFTmQwZmtjN0ZZOG5ucGQ2RUVWRWlNRzZUZ3N2TXFhT1luTWRPX293QUJ6UjZuS01fMWVrRWNoVFJKN1g5QjZ6SDdFVnhiX0dZWmNkQmc1LWhLVEt4RUFkMC12dWh6bVVIM2Q5Yk91bExmbHFFcFZPREcwNkZxU0NwMWxJX2NhU0hUZ3VDUUR4ZkVCS0FpS1d1UDM1bm5xYkgteU50dG80bUg3?oc=5",
+      "date": "2026-04-24T00:30:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Vha0Zlfj/YBy",
       "title": "NEC、Anthropicと協業　「Claude Cowork」活用の業務特化型ソリューションを共同開発",
       "summary": "NECがAnthropicとの協業開始を発表した。「Claude Cowork」を活用した業種別、業務特化型のAIソリューションを共同で開発する。",
@@ -195,6 +375,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "3mJjLq7Iu9ue",
+      "title": "Meta to cut workforce by 10% as artificial intelligence spending surges - France 24",
+      "summary": "Meta to cut workforce by 10% as artificial intelligence spending surges&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNckhjYklhLUYyZW5xSzVhNXNTWXo3OXFKcFJ2bWs5eGZYQURvTU5CampaMEpYRDAyQ0ktQkpsVndFUEFDbjhjSkJjenJIVm91TzA0aGt4TmE5Q2diZUtxM0RlSjFGWFhuVlo3NGJfQlNpR2lkU1kyd0JaWTBnT0FJZWJTSHh0dGY2UUlYUVFvTXh0UHE4UWNvbFZoVXNKYnktNHJya3k5VzA0bEZQMFhyUGZRZVFobzRkQWpSMDVkOWhpdTFVRENn?oc=5",
+      "date": "2026-04-24T00:12:12+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
     },
     {
       "id": "ng2bcOXwxJq+",
@@ -267,18 +459,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "GMcca88v1xwj",
-      "title": "White House accuses China of industrial-scale theft of AI technology - Reuters",
-      "summary": "White House accuses China of industrial-scale theft of AI technology&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1FHUldGQ1UwR3ppd3BRakxvUE1TbTF6bWJ1N1gybEIxSXNLM012c1AzWmtfbURSOWFmWlRxUDBLWElBakNkMkYteHBMUnNYVTF2ZnBPUUE1SjFnX1JtQzZQSnhwVVFhNGVvUzV0WU05VHRHNXI1aFBfYVU5UHRFSHlyRzBKaENrUklWVVdjQlNIaEZPNlVlZzExWlpHekpwdEFvZ05KcFl3OHZBa1JwNVp0VF9xQQ?oc=5",
-      "date": "2026-04-23T19:51:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "HFWN4itVWnBa",
@@ -355,7 +535,7 @@
     {
       "id": "heMJUr6qsSw/",
       "title": "Ben Jennings on the Met’s interest in using Palantir AI technology – cartoon",
-      "summary": "Continue reading...",
+      "summary": "Discover and buy more of Ben’s cartoons hereOrder your own print of this cartoon from the Guardian Print Shop Continue reading...",
       "link": "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon",
       "date": "2026-04-23T17:22:45+00:00",
       "source": "The Guardian AI",
@@ -374,6 +554,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GMcca88v1xwj",
+      "title": "White House accuses China of industrial-scale theft of AI technology - Reuters",
+      "summary": "White House accuses China of industrial-scale theft of AI technology&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1FHUldGQ1UwR3ppd3BRakxvUE1TbTF6bWJ1N1gybEIxSXNLM012c1AzWmtfbURSOWFmWlRxUDBLWElBakNkMkYteHBMUnNYVTF2ZnBPUUE1SjFnX1JtQzZQSnhwVVFhNGVvUzV0WU05VHRHNXI1aFBfYVU5UHRFSHlyRzBKaENrUklWVVdjQlNIaEZPNlVlZzExWlpHekpwdEFvZ05KcFl3OHZBa1JwNVp0VF9xQQ?oc=5",
+      "date": "2026-04-23T14:27:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -413,6 +605,18 @@
       "articleLang": "en"
     },
     {
+      "id": "S9e40N70BODI",
+      "title": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets - Reuters",
+      "summary": "Tesla's $25 billion spending plan tests investor faith in unproven AI bets&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRnRObUNiSVFjY2VMa3FfRHJJM2xPZmdKYmM1M0t5bjVzY0Ziakx6ZTZTbmtXcU1BbnUxS2VBcVFZYU5MNWRoUUdaNFVvVThMeGVMdnFOQlhMRHM0TGhzdzViazF2LTBFS0NPbXN5dWh0QXlCZG9rMml2TXZaU3NkdnVjOURYYjZlN1hkRDl3eXF6Wm1xOE5KaURHckNkT1RZS1QtY0hHZmE2Y1hNbDE1MjlIVVhoUjJJWmc3U3NiMDV6c2NzRHBrYklCMnV0SEFy?oc=5",
+      "date": "2026-04-23T13:45:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "k4bnc20s5IoF",
       "title": "You’re about to feel the AI money squeeze",
       "summary": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthro",
@@ -441,23 +645,11 @@
       "title": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI - Reuters",
       "summary": "Exclusive: SpaceX conquered the stars, now eyes bigger opportunity in AI&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYkU0MVV1QlJvMDZDT1BaaXlnS1VmdlcwYTdOLS1oZ0pQbmowbmpjLU53VV9nUGNSQ1NNNmR5RzU0dzlKd3NJYW54OWNTd1BreDdkRkU2WnhCTU5Nb3FRcXBBUVl1MjZmd050Y0QwSktlOWxHWHZMMDNhc2d0azc4QVZnMkJFN2QwZTVuNmt0dUZjWnhlV01YeDVXOA?oc=5",
-      "date": "2026-04-23T11:06:30+00:00",
+      "date": "2026-04-23T10:04:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Vuis+PvCIctg",
-      "title": "Semiconductors | China bets on RISC-V in global AI race - South China Morning Post",
-      "summary": "Semiconductors | China bets on RISC-V in global AI race&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY1RlOXhHa2Rnd3NfV3FfLUh6U2M3aXQ4bzlPYkF2WEVUOGFYVGthV0hSaUV2bnpzZUhsVlhiTjBHRFNadEQxSzNVWVZGbzNHUjQ1Y1dNNWpBVTZIR0lqSks2cDItU2lOSTNwMTZ5YkF3dFJNc19GMFo5NGZmNVhDbEI2UTBnZ0NkeDZrOHlpOXFXTDNucnZ3UA?oc=5",
-      "date": "2026-04-23T09:12:00+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -565,30 +757,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "uxNrVMes1cq2",
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "summary": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil",
-      "link": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "date": "2026-04-22T20:29:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "WCllGP4RRYj8",
-      "title": "OpenAI now lets teams make custom bots that can do work on their own",
-      "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI give",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
-      "date": "2026-04-22T20:09:02+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -746,18 +914,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "SfUjjdae5FBD",
-      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-      "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization,",
-      "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-      "date": "2026-04-22T14:22:10+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1013,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RIrk4XEgwQpS",
-      "title": "Roundtables: Unveiling The 10 Things That Matter in AI Right Now",
-      "summary": "Listen to the session or watch below Subscribers saw a special edition of Roundtables simulcast live from EmTech AI, MIT Technology Review’s signature conference for AI leadership. Subscribers got an",
-      "link": "https://www.technologyreview.com/2026/04/21/1135486/roundtables-unveiling-the-10-things-that-matter-in-ai-right-now/",
-      "date": "2026-04-21T22:09:25+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "wC8FROnA4BHj",
       "title": "Opinion | US-China AI race must strike a balance between security and openness - South China Morning Post",
       "summary": "Opinion | US-China AI race must strike a balance between security and openness&nbsp;&nbsp;South China Morning Post",
@@ -1061,47 +1205,11 @@
       "articleLang": "en"
     },
     {
-      "id": "cy50CHc7Lhu8",
-      "title": "Mozilla Used Anthropic’s Mythos to Find and Fix 271 Bugs in Firefox",
-      "summary": "The Firefox team doesn’t think emerging AI capabilities will upend cybersecurity long term, but they warn that software developers are likely in for a rocky transition.",
-      "link": "https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/",
-      "date": "2026-04-21T18:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "fPhASL9LfxuV",
-      "title": "Tim Cook’s Legacy Is Turning Apple Into a Subscription",
-      "summary": "The soon-to-exit Apple CEO went all in on services. Now, the incoming CEO, John Ternus, will need to embrace the AI era.",
-      "link": "https://www.wired.com/story/apple-tim-cook-subscription-business/",
-      "date": "2026-04-21T17:35:12+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "uSySL9Ns25qN",
       "title": "Sullivan & Cromwell law firm apologizes for AI 'hallucinations' in court filing - Reuters",
       "summary": "Sullivan & Cromwell law firm apologizes for AI 'hallucinations' in court filing&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcms1NFRURDE2Q0JHNW81OGdRLS1kT3V5U2NNYmJfTG9zVHFOVXdOeGhUX2c2b2d6czRTSWV4enUxZzZHUkxmc2dsb2h1amxSazJUYTBybXI5QXlFNGpBMTZtOVlObV9BeURsTC0tal8zeFdlX0lLSzBCeUtLZURrMnJRVDluQlByZ2hUZUxDXzhFYkVJanlzWElNSDk4LUs3Rms0UTczQ2NETFJlUm5fVVJ0WUhWYmpoMWstS1dn?oc=5",
       "date": "2026-04-21T17:20:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "FULcKGCFVt+f",
-      "title": "Tesla registers its AI-driven voice assistant in Shanghai - Reuters",
-      "summary": "Tesla registers its AI-driven voice assistant in Shanghai&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQVlTcUtfaWhYNkl4LW0xOEVPM09Kai12ZUlYbExSRFBkeXJaNjVneTZicDd3VkRCTlBBWHFRS2RBTGZWUElqMG13S1k1NjRQWHpvRTR1YllTMDNLQ3FncWhqZDJZdi0xN1lrbHB5NHZxUXRqN3FGdXRKWktEVmZfRW1rOVg5emhKbVBCaUtxX3J5RzQzd0tGY2VwT0RwZWF4a3p1WGlzMlNvd0dyM2lOeGZMeTJMN2JlSGJmOA?oc=5",
-      "date": "2026-04-21T15:03:44+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1286,18 +1394,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "B2JeZSrklrsv",
-      "title": "Pope Leo warns AI boom could fuel polarisation, violence in Cameroon address - France 24",
-      "summary": "Pope Leo warns AI boom could fuel polarisation, violence in Cameroon address&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb24xbUZWZExlUGdvMlE2MlZBRFMwWml4aTNLRl9qQjVOdFZpSjZ1WHI2ZTVhZTZneVd1aGEtdm9hTHVGZDZmZkpiZ3RFMjVWd3Qxb0JmdHBGQWdBdnBrZ1JGRlBkbTFfdjVTQ3FLbWlKVUQ1eGs4M1VNczNGQWhfWnZLRXNLczU2SVhvakhDNlNCVUJNbUcyLWpHbWVnV2ZvSjBZVW1lM19Banc?oc=5",
-      "date": "2026-04-17T08:25:53+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
