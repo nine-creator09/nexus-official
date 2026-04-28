@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-28T02:49:56.200686+00:00",
-  "articleCount": 109,
+  "generated": "2026-04-28T08:24:20.027095+00:00",
+  "articleCount": 111,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "bbc": {
       "status": "ok",
@@ -36,15 +36,15 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 17
+      "count": 14
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "utZkbOSdw3ib",
+      "title": "OpenAI、Microsoftとの独占契約を緩和し他クラウドでモデル提供可能に　早速「Amazon Bedrock」で解禁へ",
+      "summary": "OpenAIとMicrosoftが提携契約を改訂。OpenAIの全ての製品がAzure以外のクラウドサービスで提供可能になる。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2604/28/news088.html",
+      "date": "2026-04-28T05:11:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "1Z/MBL4iFg4Y",
+      "title": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+      "summary": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors al",
+      "link": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "date": "2026-04-28T03:39:33+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hhdLNien060E",
+      "title": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports - Reuters",
+      "summary": "OpenAI falls short of revenue and user targets as it races toward IPO, WSJ reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQzhER0JjUGFMTFlWVFNCQjlGOHp6cHBlWEhVQkpoQkppazFKVVJRQVRqQ2hJTjl1OXQ1UThSeEJaR3N1QWhFS0M5MkRqQXlKWElWWWc1dUNnQnBrMDRucGVPcFdaT0x4enRCSXVYdUFpZVBCbUpuSEw0aUVhVG5nT2FkMTg0TGEwM2piMWdFdTNmUGxoWnJwcFI3SzktLS10SFJEdU5GbTVGdUFybFBYMVhYQkl5RG8?oc=5",
+      "date": "2026-04-28T03:10:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "igH7P8f/EO2O",
+      "title": "China blocks Meta's $2B acquisition of AI startup Manus - dw.com",
+      "summary": "China blocks Meta's $2B acquisition of AI startup Manus&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00cEFBSDBiTTdaaTRuNHVqdmpYX0R6YjRQTldFX2dxVmJRNlVVSERUbG1vSG5hU2lXRzBOYzdoLU9zY25jNWctRzZSSU1hLUJYbkZiTGM0b1hyMW9RNEMyOURHWG1TaGNqMEVlajBoaFFXTGfSAXNBVV95cUxNWDBnSXA4eFd3VnE2cUJWSzFyVklNRGhSVzgtZFo0V3VuQVdTLXVhTWtvQk8wVm1oalJRWE1YQ2szTFhfMnUyem9SalppaFpraEF5SnVFTnhkeXNsVFZqNmZPNXhKa3NNUHRoUG9rTm9hdk5F?oc=5",
+      "date": "2026-04-28T02:26:02+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "l1sB191XOCAL",
+      "title": "Photonics chipmaker Lightelligence surges 400% in Hong Kong debut amid AI frenzy - South China Morning Post",
+      "summary": "Photonics chipmaker Lightelligence surges 400% in Hong Kong debut amid AI frenzy&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQenRHTldJSy1Oek9QeUdyNV9TMDh6TWpfY2JhWmNiUXgyX0VyV2tSV2ZoSFFOaFBCM0VMTy13Ymo5VDRZbDdWUGVHakUtWGxhX0Nqand2UEU0aGxuN0J1YnhVVkk0aDZvczdCZ2l3UkQzTW00MTVIbEIyS081cEx6R3ctTUJXTFZvMVlWTlV3c080dlVxY1B5VWFtVzlVVGJ4WGJfQ1F6UUJYNXhiY0VBNHhib1dSaVE0aFVITmVUZ3pfdmE2TWlN0gHHAUFVX3lxTFBMWkV2UUVPLWFfbm15Q3paLXdNV09vbFA2VGRGMW9faG5SeWVySmVwVExpLWNvMkpzNFFMWWJLTmNQdzd3RjRvbnVJWmpCRkJHOG1wWjI3N3BzUHBoOWt5MzR2YklaMzhOZmxIaENVOHdlLWhvNVZmcDY3VkF3X25iRmlmNWZTTWdSd2FDVURRUFR1QmpEYmktUWEzZXhHTDRGaDhqSERQSTBrSDNSY2NlQ1RWOWRBZjhxemF1UW43TGl0d3licmM?oc=5",
+      "date": "2026-04-28T02:03:55+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "okSUrpI7bef/",
       "title": "Some Musk v. Altman Jurors Don't Like Elon Musk",
@@ -113,18 +173,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "UKTRIKsJQQHn",
-      "title": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others - Reuters",
-      "summary": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWJqVk9uV3RUa0tsclVNMjc5WFQ3SW9ZUC1MbXdKOVY3clg0aUU4QnhOYlJzRUJGcldaLVF3ZU8wZXgxVWlwQ2l6ckdZOWM3QnFoTXRkOGEzZ0E4LUhZNW1uVXF0bUpHYnM1Sl9rWTRLSWNEZjl3RXdUZ2dQeFpSMU9obmZjbzZMOUctaXRUSjdrZFpGS2pxWEhHM2dvekUtdG9KdktB?oc=5",
-      "date": "2026-04-27T22:53:18+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "EAvMgLe+q1sV",
       "title": "Elon Musk and Sam Altman are going to court over OpenAI’s future",
       "summary": "After a yearslong legal feud, Elon Musk and OpenAI CEO Sam Altman are heading to trial this week in Northern California in a case that could have sweeping consequences. Ahead of OpenAI’s highly antici",
@@ -134,6 +182,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fqbFADFnt6rj",
+      "title": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes - Reuters",
+      "summary": "Taylor Swift files to trademark her voice, likeness to ward off AI deepfakes&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzBYWGlrOXJWMzM3ZmlzdmRMSGdDT3Nza0JPRTV5S3p3QnV2dENrRGc4TFd2aHdtMmdpNGRtcE5fRjliQWlsc3ljcFd6VERhZ0hnVDE0d1hTYXpoREE4VWRxdmFYcHI1cngzeS1rUGRqRnRCY2dIMHVsVmZlalc4ZjBMSUJqOVY5TVNRYUV1V2lYcHZfWUY0bWx5TFk4bWdsdG00bHhXcWY0Sl94bkFnZVVCenN6M1V3eDN3d3BWOA?oc=5",
+      "date": "2026-04-27T22:49:05+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -154,6 +214,18 @@
       "summary": "Cadence lifts annual revenue forecast on sustained AI chip-design boom&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcV9OQzVYM01iYWRrc2IyX00xR3I1VmZQM3hBZFhndDR0UXhMd0c1ZnJDaEZHUVZPZzBrd2Z4TE1LV1RoYm1CZng1Zkk2SmU4dHMzYUZiMzNhc1B4N1UyV0YyS1VMUkF1N1lSenFtUFVDV1lHcjJnZmhJcTRiSkQtX3MxVHhWakpBR2lQbWlVaXY4VDFEeU5KZ0x0eElvRW1rQ0w4cWVXSHVMYnBsT05Gbzl3?oc=5",
       "date": "2026-04-27T22:16:18+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "PXXszK2gI3Yf",
+      "title": "Box to launch Box Automate to speed up customers' business with AI, CEO says - Reuters",
+      "summary": "Box to launch Box Automate to speed up customers' business with AI, CEO says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS1VWenFpcjZfUVZKTFpLUTRrR0Z0TXZqTjlnNVo1TG85LTdNYi1jdVJNWDlibnhoMVNha3RiZGZQcm5CRTU3cmVUU0hoYmJsQmd2NERtT3V5SlU5emw5TlcwRXF0dVFtR2JRNWp4MGNfUW5DSmYySHNVUVByNHlMN1RfMGdoTFpuS1hubTM2S2JxQ3dYY29Vc0hBaEZvTWwyd1BKLS0wQVhUM1ZYbUpkcGJNamk2RzA4VllhQ2dBU3FCR0ty?oc=5",
+      "date": "2026-04-27T22:05:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -233,11 +305,11 @@
       "articleLang": "ja"
     },
     {
-      "id": "dLwqq8dwkOLM",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
+      "id": "Z7pkxFlXBu8/",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-04-27T19:36:32+00:00",
+      "date": "2026-04-27T19:40:06+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -245,11 +317,11 @@
       "articleLang": "en"
     },
     {
-      "id": "z/Nb8b9H8cX9",
-      "title": "Meta pokes holes in China's great AI firewall - Reuters",
-      "summary": "Meta pokes holes in China's great AI firewall&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX2FXV2x4Z0VGdlg5MWdNVV96ajQ4OGZmcVhRaXVxYThmVklhczF3OTE5clBlSnJWZWxxTGRtWllaaVVTUXdPa0t1TFZIQUMzWnVwRVBpYmUyajdEd0tjcjhwUmZfa3J2cnE2VWlmYVhPWlc0QkV0M2N4Rm5wbTdWYV85anU4bDBQcWFmZ2ZUa0Fid01RN1Utekdn?oc=5",
-      "date": "2026-04-27T19:16:37+00:00",
+      "id": "z4IjCPW8K94q",
+      "title": "Breakingviews - Meta pokes holes in China's great AI firewall - Reuters",
+      "summary": "Breakingviews - Meta pokes holes in China's great AI firewall&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOVZRNzNUTnh5d2dTNXkzWm5IanR6VnZ5WFJGMm40R180UnFBbWJPYldvSnJ2UG9qTkxGaDlrNXZGU3k2T2JjUWZVQzFla05ONGNjRi0xaVZiX2dBTk0wM3Yyb0Z6WG05WTlnQ3l6blBhcnp1NkVha2I1NUJhY3hjY1NJU1JreDdMbTkxTlllOEhmQkI2dkwtRjdiYnZGNGhGcUJGUg?oc=5",
+      "date": "2026-04-27T18:58:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -413,18 +485,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hU6oYfCjnZMd",
-      "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada’s ARC in $13.6bn deal – as it happened",
-      "summary": "Rolling coverage of the latest economic and financial newsChina blocks $2bn Meta takeover of AI agent developer ManusShares in athletic apparel and footwear company Adidas have jumped by almost 1.75%",
-      "link": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
-      "date": "2026-04-27T15:39:33+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "dw6eF1isY84+",
       "title": "How AI job scams are destroying people’s hopes | Letters",
       "summary": "Sasha Cooklin, Darryl Dixon and Niall Leonard respond to an article by Victoria Turk about the boom in AI-driven fraud in recruitmentArtificial intelligence isn’t just being used by scammers to promis",
@@ -485,6 +545,18 @@
       "articleLang": "en"
     },
     {
+      "id": "39Yfhn2AKo80",
+      "title": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand - South China Morning Post",
+      "summary": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1Y0SkhrajNXTmxXeS1kUEgtLWxseEdiUmFXb2pZLWwyTGNYTkJNZ0NEdHgtZzRrRGZSUnJxTjVzVzBBcUtCem91UWJ2eVJ0cmhlc3BjWDIzaF8zWU5BU2U5dlhLQVZTZUEtaWgzV3F2VnlJVDRwaFJiSjdLXzNxRnIwQ0gxMUpEdzQ1eFJhc29zUjJKc0VmaXZiQVVvN090LUxJbFJvQ04xcnB0RFc3ejhqSjM0U2dXLWVHU0JWWUtPMzdMNWZQdjRxb9IBywFBVV95cUxPNkdpaG03VWwydjUyN0Z6YWJ6Q3lKSlhiUmhlUjFjVjV6MjhwTHduYlp3SWFIYVE2Mmtyd1ZEYWQyTmlVamZwSjl5dEoyV2EwM3FNc1lPcnpsT0lpYjhRX2d5UEJNM29zNXp4WklrQVl1eU8ydk84X1FOM3dtdDdfMG1rbEtEenJvWmFsR25xV2pUMVhDb1BURGJBY0IyU19jZmdQQjhFUWlEWTlMaE9HcTczXzNPNWk1R24wXzJ5ejNJUXVDTTg4ZVB4QQ?oc=5",
+      "date": "2026-04-27T14:00:35+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "VJsQx0vmU1hC",
       "title": "The Man Behind AlphaGo Thinks AI Is Taking the Wrong Path",
       "summary": "David Silver has a new billion-dollar company that aims to build AI “superlearners.”",
@@ -506,6 +578,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "UKTRIKsJQQHn",
+      "title": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others - Reuters",
+      "summary": "Microsoft, OpenAI change terms of deal so startup can court Amazon and others&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONWJqVk9uV3RUa0tsclVNMjc5WFQ3SW9ZUC1MbXdKOVY3clg0aUU4QnhOYlJzRUJGcldaLVF3ZU8wZXgxVWlwQ2l6ckdZOWM3QnFoTXRkOGEzZ0E4LUhZNW1uVXF0bUpHYnM1Sl9rWTRLSWNEZjl3RXdUZ2dQeFpSMU9obmZjbzZMOUctaXRUSjdrZFpGS2pxWEhHM2dvekUtdG9KdktB?oc=5",
+      "date": "2026-04-27T13:11:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -545,6 +629,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Ef0dAlaMMOai",
+      "title": "Qualcomm surges on report of OpenAI tie-up for AI smartphone processors - Reuters",
+      "summary": "Qualcomm surges on report of OpenAI tie-up for AI smartphone processors&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUVSN21od3ZzSUQ0aVg5dG1rWHUxMzdJdkN3YjFiOXQwNHhXVG40Y2xXZlA1TW9oTEd3cnV1bGUyODVqT09TMEdKNUJ6Y3FQRmoyM3VocnN4TlExSEJidk9KaF9VQnRkS05hUTQwR1NUaXdGTlhfeDFyc0FJM1U3NG5TM2ZqbmI2dTA1emtTcW1QLVhUc1NPNzFxNTQwOGtDbUpzclVzYlAwd0JkbWc?oc=5",
+      "date": "2026-04-27T12:10:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "I1zgYZBOWW03",
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Three reasons why DeepSeek’s new model matters On",
@@ -581,11 +677,11 @@
       "articleLang": "en"
     },
     {
-      "id": "XnhHfMWejMKE",
-      "title": "Musk vs. OpenAI trial gets underway - DW.com",
-      "summary": "Musk vs. OpenAI trial gets underway&nbsp;&nbsp;DW.com",
+      "id": "dmZdiNj2D+WI",
+      "title": "Musk vs. OpenAI trial gets underway - dw.com",
+      "summary": "Musk vs. OpenAI trial gets underway&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqYUljNTV5T185b1FPSGNFOGRIZlhKMXZiZTk4d0xtWHROb2h0VWMxeUNCVWpUWE1KVV9kYjFKREh6a1NiR0RJcnpMdUZKVkRPQkMxdTNSTHZYOTdKVGFoV3gwOXZZS2FpcVBuX0ExVEpQdVEzbHfSAXZBVV95cUxPbXdIeXp3OEtOWHF0cWZHT2dCTHFWRjVSbVdLRWN3MlVTUmJmeGYtaDN1Z3YxNGgtRkt0dHI1M0hMSVN3YU9KckhKWUx4X1lNd1pmanV6U01jNXZvamcwTE9DYjJHVVhVa2Z4cWtEdF9QQ3ozczd3?oc=5",
-      "date": "2026-04-27T10:14:04+00:00",
+      "date": "2026-04-27T10:15:25+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -653,6 +749,18 @@
       "articleLang": "en"
     },
     {
+      "id": "ByuU8m+hPD/r",
+      "title": "AI is already getting boring - Tech 24 - France 24",
+      "summary": "AI is already getting boring - Tech 24&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUlaMXowMU01WDdjeVNCN0ZNZ2FMLVR3RU1Ub3h5aFlzcjRibnd3TFBheUpPT1FLaWk2cnVWWFRqYjZxaHpXMFRGWlhxMUhGa0ZaZ2hqYi1VSXBUMVM5VVo1bnlVWTlhUUhKUW44U1AzOWtGbGNpMzJVdW9TNGUtdnRVdk9qcS1iRXc?oc=5",
+      "date": "2026-04-26T14:28:02+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "rbPRWc/Tilw7",
       "title": "UK departments at odds over energy demands of AI datacentres",
       "summary": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making",
@@ -662,6 +770,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "/xS365tFiezL",
+      "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms - Reuters",
+      "summary": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVRVY1RiN1lqaW50bmtBZUFoUmdqU3JaNUdaenlmd21LT0NXQnFySjJBMzl2QzVQTjBCRlNEMG1OMWhtQU1PUmhkdlJrUXU4ZXZZUlZHZWwxNlYwSmdWV2ltbHNCU1pqQmprdXhHMXJ4MmdZbkFqMkRjWUhtYWwxNkRRZnRWZThrN0M3Y0VQNFhTdnl3cURCNlpxUUd6bzJNY3N3Q1pvMjhmZGpURjdaR1RleGlwSjRlaE1tRWFhajVIRjg?oc=5",
+      "date": "2026-04-26T07:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -773,6 +893,18 @@
       "articleLang": "en"
     },
     {
+      "id": "LfZiq2Qc7xmS",
+      "title": "OpenAI apologizes for not reporting Canada mass shooter - dw.com",
+      "summary": "OpenAI apologizes for not reporting Canada mass shooter&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVVRzVG4tLV93ME1hNWJHTktFWUJ0YlNVbXdLTklncFJjSXpIVW1oMEhIZTdQTWRadVNEYmVvdnhPRkg4ak1UeVd3ci1qcmhVOERwbUttWUNUa3FsS0llS216RDZKaURWQVhDc19UMXgxMTNPekwzbzlseG85ODB2SERNNlQwMDRULUhOQVBFTmZkUdIBkgFBVV95cUxObTR1RVoyWTEtRHJLLThiTEt1eDdGOUxzQm1DdWh3ZndON1NfdkhjSUFjQ1V6dk9jSndhWHJHOGJFNk9ROFE0bnNJZlhHR0N2NnBEa0RzZEZZVF8tS3U5T01tWTZNOWZZMm1jOEZ0TGloUWVNUEFNUkJZVVpfRGQ0NlN2WFhaUGZlX1NRVWloRnZvUQ?oc=5",
+      "date": "2026-04-25T02:17:42+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "KHi5FH0/KJIq",
       "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
       "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.",
@@ -782,18 +914,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "/xS365tFiezL",
-      "title": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms - Reuters",
-      "summary": "Exclusive: US State Dept orders global warning about alleged AI thefts by DeepSeek, other Chinese firms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbVRVY1RiN1lqaW50bmtBZUFoUmdqU3JaNUdaenlmd21LT0NXQnFySjJBMzl2QzVQTjBCRlNEMG1OMWhtQU1PUmhkdlJrUXU4ZXZZUlZHZWwxNlYwSmdWV2ltbHNCU1pqQmprdXhHMXJ4MmdZbkFqMkRjWUhtYWwxNkRRZnRWZThrN0M3Y0VQNFhTdnl3cURCNlpxUUd6bzJNY3N3Q1pvMjhmZGpURjdaR1RleGlwSjRlaE1tRWFhajVIRjg?oc=5",
-      "date": "2026-04-24T22:32:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -941,18 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Raagx3Scskjy",
-      "title": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips - Reuters",
-      "summary": "DeepSeek-V4, the Chinese AI model adapted for Huawei chips&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWHNGM0lqMWwzNGo5QXFCYjBNYzlKc0VWT05hOUg0RWVscnlHRnVVVWMtS1hEOWtuSzQ3SUVyT2hTZWJZR18tSkRSVXhzWnhsMnNuakM0ZmNHMzlmMGt6MDBWODhsdUZRWVR3eGRnZVJaS2t1Nl9hd200QUduM2ZMb0tEMWl4Tzd5dk8wQnE5OTJVaTU1TEk4bHlRNEZSUQ?oc=5",
-      "date": "2026-04-24T14:04:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "bI1cE2Jm6OaN",
       "title": "The Download: supercharged scams and studying AI healthcare",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT",
@@ -961,18 +1069,6 @@
       "source": "MIT Tech Review",
       "key": "mit",
       "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "CdOlkkXTGaw/",
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "summary": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "date": "2026-04-24T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1037,18 +1133,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zJ5kvBJw4lKV",
-      "title": "Intel soars on signs AI boom for CPUs is here - Reuters",
-      "summary": "Intel soars on signs AI boom for CPUs is here&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTljTXlld2NZUEpMNUZ6RFlXS2VVNFJWcTd6UGQ5M3d5RkJJU1U3WEJnOXhnbVI5UmRIT09mdnNmQXk4QW9tcVVESzJyaU1KM3BQSndIdWowN19fSHdlY2ZWN1kxTTNId1VWTDZKRzlpUHB1MGNFbml0dWNqajNIVUg0Yl9nbG00RnNXbi1DeTBFU2dCOFZ2U0VZcHRWR3lDZkVVZE1FVWhqZEw0WXVV?oc=5",
-      "date": "2026-04-24T09:28:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "DzWJ2ODFX+ZD",
       "title": "Health-care AI is here. We don’t know if it actually helps patients.",
       "summary": "I don’t need to tell you that&#160;AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with note-taking. AI-based tools are trawling through patie",
@@ -1070,6 +1154,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "o8/eVfI+6kt4",
+      "title": "AI transforms livestock farming - dw.com",
+      "summary": "AI transforms livestock farming&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hdHExNGNUb1o5OF9Zb2pCTlVQVk5kRTE2bjFRRWJqN0xpNm1SMTlPUTVIa2RTVFRpWHphZ0J2d3JpbU9rczh6R2h5Vm5JdUZnTzZZZ1VCaTVLRml6cFN1M1pfckdkZnFvMlpRXy1oS2ZBenplUmJZ?oc=5",
+      "date": "2026-04-24T08:18:57+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1109,9 +1205,9 @@
       "articleLang": "en"
     },
     {
-      "id": "UcitYvyy+O+G",
-      "title": "China's DeepSeek launches preview of new AI model - DW.com",
-      "summary": "China's DeepSeek launches preview of new AI model&nbsp;&nbsp;DW.com",
+      "id": "sHh7xsHQGQLj",
+      "title": "China's DeepSeek launches preview of new AI model - dw.com",
+      "summary": "China's DeepSeek launches preview of new AI model&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yVWNVNmNtTGlQc1ppV3lZNW55TjJiUVJxOHhOTG9ESWhzeFJQNlZJck9HVXNzX3hkWWhfRnNfTDlmdEx2TGJuRGJvN1pfcndnUFQyUUpnbFA0emdSZHVISDVCNm4xRWY5dlNKWmxMRdIBb0FVX3lxTE84MDl4aHFpdzVZLVZQZ1o1RmFrNzhmMHVWVXo1elpZUG5LWjdvTVFVMnp0aUl4WXNtcGxhR2tOQktaVDg1WU5GVm1kN0oxYVVOWUFMdzNTSlpDVG80SU1Da0FHZVBOZFhQMlZkYVY2Zw?oc=5",
       "date": "2026-04-24T05:30:45+00:00",
       "source": "DW Tech",
@@ -1133,9 +1229,9 @@
       "articleLang": "en"
     },
     {
-      "id": "JUDrp0La11Dr",
-      "title": "Meta, Microsoft purge jobs amid AI build-up - DW.com",
-      "summary": "Meta, Microsoft purge jobs amid AI build-up&nbsp;&nbsp;DW.com",
+      "id": "G3q6DbnG0hpg",
+      "title": "Meta, Microsoft purge jobs amid AI build-up - dw.com",
+      "summary": "Meta, Microsoft purge jobs amid AI build-up&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd2R4ZC1OS0ZQSlQzQTMyWHpDT1UydnhwZFEzbHFuYnJIUXphY0RhRUQtdHUzTkpncTV2c0MzdHJkTGFtZlNCemlYTDNpVC04bW54U0w0RnhDblBMVmZ3VDEwa1U0QWpDVXQzQ3d1al9IZ0J2Z0F5d01tRXJ1MXRLdNIBgAFBVV95cUxOOFZLSU5DNjd0aDlWTkk1YmN1UWhNWWllZ3FoRmpTZUtEb0F6U3YwNHY4WDRaa05kNkkzeGVndWtLa19yeWRLR2w4dEJtRVR6RmdYTjhpS0JTbVBxSXRFV2Q2NDQ2cDhFVkdFX0xCTkROcF80U3FMTm44X3c3cWROSg?oc=5",
       "date": "2026-04-24T03:59:33+00:00",
       "source": "DW Tech",
@@ -1181,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ki4So9vfZJKa",
-      "title": "Will the backlash against AI turn violent? – podcast",
-      "summary": "An attack on the home of OpenAI’s CEO Sam Altman – and on the company’s headquarters – has led to concerns the backlash against AI could become violent. Guardian journalist Nick Robins-Early and resea",
-      "link": "https://www.theguardian.com/news/audio/2026/apr/24/will-the-backlash-against-ai-turn-violent-podcast",
-      "date": "2026-04-24T02:00:27+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "yGbD3wPuYPNM",
       "title": "White House memo claims mass AI theft by Chinese firms",
       "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models.",
@@ -1217,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ng2bcOXwxJq+",
-      "title": "Microsoft and Meta announce large staff reductions as they spend big on AI",
-      "summary": "Meta said it would cut 10% of it employees while Microsoft will offer voluntary retirement to about 7% of workersMeta and Microsoft are trimming their workforces by thousands as they make heavy invest",
-      "link": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
-      "date": "2026-04-23T22:51:49+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "s32Yk+OpVzvO",
       "title": "Lawyers should disclose when AI causes errors, appeals court says - Reuters",
       "summary": "Lawyers should disclose when AI causes errors, appeals court says&nbsp;&nbsp;Reuters",
@@ -1238,18 +1310,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "zJuy6aaDv6ww",
-      "title": "EdUHK Prof Hans Ladegaard Affirms Language and Linguistics as Vital Human Capacities Amid the AI Tide - South China Morning Post",
-      "summary": "EdUHK Prof Hans Ladegaard Affirms Language and Linguistics as Vital Human Capacities Amid the AI Tide&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOcXRMOVJmMS0xWDhqVDhzd2tRQjFjenZ2ZzYzNVNaZlgybHgySDNlRVpFand0bUNBS2lVbkItYWRJUzdYMVJYR2JKWUFWeE5xd0xSN3FJZDVya0dmY1BPT3djZUtsRmpvc2QxSDFUMFZUX201a2Jvd1BCUTQ2YVBGSmR3VmhqSWpPa3pfSi1CUzhIUUgzSFVzeGdsVTVEZHdVUVkzc0p4QUpUYVJKaWd4Nl9YdGVGQnpMeWw5M3NmUVRrcncxV2tKZ2V0ZUdjQzhqd21zU0ZYelptTzFBUjBpRVdJSjl0Qm9QaFRMUlNlRkNKSW0tZm9sMXdaaVlvTG1jMWlwOUx3RXE4ZU1ZeWhqTXZR?oc=5",
-      "date": "2026-04-23T16:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1274,18 +1334,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "9/hiQZAyCpC1",
-      "title": "Europe risks falling behind US, China on AI data centre build-up, Nokia CEO says - Reuters",
-      "summary": "Europe risks falling behind US, China on AI data centre build-up, Nokia CEO says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcVNPUHFwU0taSVBsZVp3blVydzhoWVd5VmNVUVdEaHhsQ1NKdWthRDJ1YlRrcXNfak9WdE9acThscXFIQ0FsTFBneFRaYVBSc3NJdGpNcjhET084NDl0b3owbmlyd3ItaG9CSjl0Q1B6RkJfUTF0Y0hxS290WTMwZlhuZ2kwSlBpWks2enhoT3VzUE9CU3RqUllHNXowVkhpSjJNMW5FLW9ITkpJcDNjVXU2dTVjUEpCWFIyYUZkWG55S2VCRThkQmszNk9QUUk?oc=5",
-      "date": "2026-04-23T08:18:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1325,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oiFq4iaJXfz9",
-      "title": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data - Reuters",
-      "summary": "Exclusive: Meta to start capturing employee mouse movements, keystrokes for AI training data&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalZ5MS1JQUVHSTFGSjhCWFhVSW1HdkFvYzRNc0oyU2xaSGllSF9IYXBsNUU4Tmp2SG9wc0IwRlBRMjdQaHJKdUxUWUxqQWctZ2lRYVhoSHpOVDRjZTJZcXRSc1F2T2R0QmNXY0E0d2dXS3pyVWJ5UjFBaFgyWkxYMlRLeFBfWWFPTS1aMGFpVVlnS0twR3M0U2FtVklvY0hQSGJSWGhTdVRlY2NFNHAtdURESVY0N241VHhGazh4QVdVS1F1LXF5aUlSYzFKWTlNT29aZ1dZWV9qbWpuSlVzeXNvZw?oc=5",
-      "date": "2026-04-22T11:20:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "gjk7vmuvJ/ZR",
       "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
       "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities.",
@@ -1358,18 +1394,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "wC8FROnA4BHj",
-      "title": "Opinion | US-China AI race must strike a balance between security and openness - South China Morning Post",
-      "summary": "Opinion | US-China AI race must strike a balance between security and openness&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTl9HcE5mR0Rvb2hjdktpejE5ZEhOTnVnU29HQU1qRUZEUUtDN3cyMGlsaXZadktzSjNDRWNFWFd5Y0x2OUlncEprY2N3MkhiTmhnYTRvZGtWejB5Szd4MGpQUHJxZWd0YXdXckh6N0IxQjM5VS1lb3R3UjF1dVJOcGZnVzlTaTZFOHgwR2NBVGJZRm8ydnJlejIxaHh5WndCRmFXeU5QUTBnc0J5b2QyVlVjb0wyc1RyTWJHVXFiRjVCcmPSAcMBQVVfeXFMT3pCeDRvY3c2cnJFY043SVBnRnRENDZKNTZuQ3hWcEpkemZUS3VlOTU2THJYb0tkcjVXTl92SERsZ0lpbkdWUG90d3ZNVm85ZnpSUFNMLVlOUExaRWMxLXM2cGpmcXNvcmpWY1doSzJiR1FKYWJVc1lyN2NQNng1N1hWUjJfNmdPUmo5NWlKQzdMUGhickdXVTg5azJTQUdOVnBXT1hKU0Q4UmRnWl9wRHZOQndvTnFIV2ZFQWszbE1xZ0VV?oc=5",
-      "date": "2026-04-21T21:30:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
