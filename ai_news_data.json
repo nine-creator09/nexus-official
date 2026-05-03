@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-03T13:08:28.297013+00:00",
-  "articleCount": 126,
+  "generated": "2026-05-03T18:58:41.221220+00:00",
+  "articleCount": 123,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,42 @@
     }
   },
   "articles": [
+    {
+      "id": "cwd/McOtRknb",
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+      "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "date": "2026-05-03T18:00:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0qplpeimv2nc",
+      "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+      "summary": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate useHow does live facial recognition work and how many police forces use it? Guilty unt",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+      "date": "2026-05-03T16:00:02+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "+3B/nRUO3UF7",
+      "title": "From footwear to AI services: China moves up the value chain in exports - South China Morning Post",
+      "summary": "From footwear to AI services: China moves up the value chain in exports&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWTZneFRVbktFUjZjY1VtX0M3ZkYxcDEyNTdsNkF2RnR5N0hCMFRnU3A5SXBYY3djRnFFaU9XcTg1ZjFYbzgyd3VmSVlEQmhaM3lNcjBQV2hiVW9kemtqQ1VjRURlWnUwMHBtVG5rdVdybllrbUM3U0FjTGd1RmxDUHZ2UXdVYjlqajlEdXd2MVlWcW5mZ1hzS0Z30gGaAUFVX3lxTE05S3lwRC1nS19rX1FSaElhY0dpcmhzZlkxOFRJSXBJNHVvVXQxQkcxenNLcnhtUk8wWGFfdkxKQXlzdFpLRE9Mbmd5SVRLQkhyclFvMzBOVnJ1N0Rycm5hc1JISlF4YnItMUhsMlJCX0cwVW1ndk5OMDVLVkhJZEwtaGR4N1R3dkxubXlxaV9KdnB0Y2NpNUpua1E?oc=5",
+      "date": "2026-05-03T12:30:12+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "EShAiAB53DIb",
       "title": "AI music is flooding streaming services — but who wants it?",
@@ -941,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "sZsThimVUbg8",
-      "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-      "summary": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too.",
-      "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-      "date": "2026-04-30T16:06:49+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "Ga+JopWKeDXK",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a mo",
@@ -1070,6 +1094,18 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qNY/NnxHuaxP",
+      "title": "China launches months-long campaign against AI misuse - Reuters",
+      "summary": "China launches months-long campaign against AI misuse&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzlmUnZoV2cyZzg4RmIwWFoweUVOQkZaNGZ3U0xCa1lHQ2U0dnN6Vy1MQVNxU1Y1MlIwWm1DaEQ3TWFnaGZoelRkSnVHVDNsWTh6eFNIYkRzX3BxbEFQekp4TlkwcE5la1p3UzdrV3I1Z1phMVJWcGQ5cFNKczVqbGszRWVNZzFfcjBCc2VKQXA4aVk2MWpwR0FrZ3pVdjhFanJjNVZUZGhLUQ?oc=5",
+      "date": "2026-04-30T10:50:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1241,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0TOA7lt6FVYQ",
-      "title": "Meta shares fall on concerns over AI spending, legal scrutiny - Reuters",
-      "summary": "Meta shares fall on concerns over AI spending, legal scrutiny&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNFNSQmtUam5teWJnNHNkcDVSSHVwbGl4d0luVzYwSUxaVnVpcVNmcW9LcXFGZ1IyWWxsZ1VPbmJ4N0FrR1ZXbkFfZG16cUJYQUFSdnhmdU95TUVXaUstaWF3M1drcXVDbHRjVlZVMTUwY3h0VnhhMVEycnRWbC1TNElfamZrNDlXQjNGbTg0dGN0MEN6ZDYwSDgtLUV6MW5HcXlDdlEtQmxJQQ?oc=5",
-      "date": "2026-04-29T20:05:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "MX58XrFF6LzR",
       "title": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
       "summary": "Chatbots programmed to respond warmly even cast doubts on Apollo moon landings and fate of Hitler, researchers sayThe rush to make AI chatbots more friendly has a troubling downside, researchers say.",
@@ -1289,18 +1313,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TNqviNFt/wu/",
-      "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
-      "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talentLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral mome",
-      "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-      "date": "2026-04-29T13:49:55+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "YDSwBSh7IeSb",
       "title": "Cambricon vaults to China’s costliest stock after profits soar 185% amid AI boom - South China Morning Post",
       "summary": "Cambricon vaults to China’s costliest stock after profits soar 185% amid AI boom&nbsp;&nbsp;South China Morning Post",
@@ -1333,18 +1345,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "rs0AuhE73V5p",
-      "title": "Meet the AI jailbreakers: ‘I see the worst things humanity has produced’",
-      "summary": "To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional costA few mo",
-      "link": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
-      "date": "2026-04-29T09:00:51+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -1517,18 +1517,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Ro897Upf0IqO",
-      "title": "Archaeologists use AI to reconstruct Pompeii victim’s face and final moments - South China Morning Post",
-      "summary": "Archaeologists use AI to reconstruct Pompeii victim’s face and final moments&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0tfWlV3WjV2Q0hyS1dTUFF0NEFlS0hxTXFrWUpfWjRQMm53amFIVk9OTHBzYzRsX19HTkZuT1pXd0Q3NFJHLVZ2SWJlcVl6ZnZRbEVJa3VmUEhYS0VIMDVNLWs2SXkzMm1IRVNrRjM5aWh0bWdNbnhkbVNpeTNhczdyRk92UTliZHdNMmNPMWdVWXMtRW1tTkRYTExGV2V5SC1wQnA4QWNSclVn0gGsAUFVX3lxTE9aZm9FQXpLTUZ6WTcxWmtGaXUyZDF0S2w5aHd0dUN2dkpmUG5QNEc1RWE5d2I5WWdxYkVFdUc3VF9aYzZOaGlFeGVZWFBJV2pzMC1TSkFibloyaksxcTJULXNyaWtsUVpHU3hBbWptTVczQ0xOV3FrMVdXV01FSDVoSDdlTWwta1RqRzZHS0lHeXZJRGlhYkJQZGFadmFjVHpybDVyU01BQnhkTEo?oc=5",
-      "date": "2026-04-27T17:04:04+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "8VSPfy5bFebk",
       "title": "Archaeologists use AI to generate image of Pompeii victim - Reuters",
       "summary": "Archaeologists use AI to generate image of Pompeii victim&nbsp;&nbsp;Reuters",
@@ -1541,18 +1529,6 @@
       "articleLang": "en"
     },
     {
-      "id": "39Yfhn2AKo80",
-      "title": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand - South China Morning Post",
-      "summary": "Chinese optical chipmaker’s profit soars 1,153% on strong AI demand&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1Y0SkhrajNXTmxXeS1kUEgtLWxseEdiUmFXb2pZLWwyTGNYTkJNZ0NEdHgtZzRrRGZSUnJxTjVzVzBBcUtCem91UWJ2eVJ0cmhlc3BjWDIzaF8zWU5BU2U5dlhLQVZTZUEtaWgzV3F2VnlJVDRwaFJiSjdLXzNxRnIwQ0gxMUpEdzQ1eFJhc29zUjJKc0VmaXZiQVVvN090LUxJbFJvQ04xcnB0RFc3ejhqSjM0U2dXLWVHU0JWWUtPMzdMNWZQdjRxb9IBywFBVV95cUxPNkdpaG03VWwydjUyN0Z6YWJ6Q3lKSlhiUmhlUjFjVjV6MjhwTHduYlp3SWFIYVE2Mmtyd1ZEYWQyTmlVamZwSjl5dEoyV2EwM3FNc1lPcnpsT0lpYjhRX2d5UEJNM29zNXp4WklrQVl1eU8ydk84X1FOM3dtdDdfMG1rbEtEenJvWmFsR25xV2pUMVhDb1BURGJBY0IyU19jZmdQQjhFUWlEWTlMaE9HcTczXzNPNWk1R24wXzJ5ejNJUXVDTTg4ZVB4QQ?oc=5",
-      "date": "2026-04-27T14:00:35+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "dmZdiNj2D+WI",
       "title": "Musk vs. OpenAI trial gets underway - dw.com",
       "summary": "Musk vs. OpenAI trial gets underway&nbsp;&nbsp;dw.com",
@@ -1562,18 +1538,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "ByuU8m+hPD/r",
-      "title": "AI is already getting boring - Tech 24 - France 24",
-      "summary": "AI is already getting boring - Tech 24&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcUlaMXowMU01WDdjeVNCN0ZNZ2FMLVR3RU1Ub3h5aFlzcjRibnd3TFBheUpPT1FLaWk2cnVWWFRqYjZxaHpXMFRGWlhxMUhGa0ZaZ2hqYi1VSXBUMVM5VVo1bnlVWTlhUUhKUW44U1AzOWtGbGNpMzJVdW9TNGUtdnRVdk9qcS1iRXc?oc=5",
-      "date": "2026-04-26T14:28:02+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
