@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-06T19:45:14.437843+00:00",
-  "articleCount": 122,
+  "generated": "2026-05-07T02:47:00.371726+00:00",
+  "articleCount": 118,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 6
     },
     "techcrunch": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "guardian": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     "reuters": {
       "status": "ok",
@@ -65,11 +65,119 @@
   },
   "articles": [
     {
+      "id": "a7nQhIKPqhnT",
+      "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+      "summary": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+      "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+      "date": "2026-05-06T23:23:45+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "m4R2V1ypt1cy",
+      "title": "Shivon Zilis, mother of four of Elon Musk’s children, testifies in OpenAI trial",
+      "summary": "Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenAI’s board from 2020 to 2023Shivon Zilis, a Neuralink executive and the mother of four of Elon Musk’s children, took the st",
+      "link": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
+      "date": "2026-05-06T22:58:58+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "dHqA2g1JyV/i",
+      "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+      "summary": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+      "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+      "date": "2026-05-06T21:57:56+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "nFbmX61Ip1na",
+      "title": "Anthropic、マスク氏のSpaceXと契約　GPU22万基超を確保し「Claude」の利用制限を緩和",
+      "summary": "Anthropicは、SpaceXとデータセンター「Colossus 1」の全演算能力を利用する契約を締結した。NVIDIA製GPUを22万基以上備えた環境を確保し、Claudeの利用制限を大幅に緩和する。マスク氏は同社の能力を高く評価しており、将来的な宇宙データセンター構想への協力も視野に入れている。",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
+      "date": "2026-05-06T21:48:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "BaOzigMlcd/s",
+      "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+      "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+      "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+      "date": "2026-05-06T21:43:24+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "moD1ZDxKw8gk",
+      "title": "Is xAI a neocloud now?",
+      "summary": "xAI's real business may be more about building data centers than training AI models.",
+      "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+      "date": "2026-05-06T21:32:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hdE56/fM+5Uy",
+      "title": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives - Reuters",
+      "summary": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDBWMjRUdGd0bmo4ajdVc244Ul9PbFdhME5zb25uUWMxVlJualFIZktMMHFzbkowWXF0RnhoMllGenlGWFR6Q253aF9mOG9yRWVWTWUtUmNscEFEaFJ5M0xNOXJJVXBRMVVRMXRWZmhuN3hmeUxNakNBX0JncmV4NmsxR2J2R3Rhclc5SHdwUkpaQmhwcFljSGVSU1g5V18xYWFRdGZza1FHem5HS1ptX2pWTjlia01Kalo5aUNLd1BLT2hySXNyb29Ocm0?oc=5",
+      "date": "2026-05-06T20:47:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "8WaaOstJdl5d",
+      "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+      "summary": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI.",
+      "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-06T20:05:02+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "/y+9FrPKpTWW",
       "title": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding - Reuters",
       "summary": "Anthropic strikes SpaceX data center deal as it plows ahead on AI coding&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZVdlUV96SVZwQ3BPZTVOYjlMN3NRWDN5OGFSSGZGWWhhaUZ4TmNFaUVvVEJkZ1RMYWlUSGdHbjJjVlV5SDVnd09UQVJHQjd0MzdCeXIxV2NqcG1qVVBERWdiZy1lMWZJMWZ6Q0pZaE1tT2RxcmZ3dHBROXZ0RHlOZy12Q0QySUZrbU5jRDU4UGtkTmdqdjgtbWszd2o2ZVJIejFGRE9kbUloLUpReVA3amh3ZlYwVGl5YjBiM3lpcjRWTGkzMnc?oc=5",
       "date": "2026-05-06T19:32:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "pJjIFfk+Ejtj",
+      "title": "Hut 8 signs about $10 billion AI data center lease in Texas, shares jump - Reuters",
+      "summary": "Hut 8 signs about $10 billion AI data center lease in Texas, shares jump&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNnFJWVJTcFo3OHlGNmRMcV9yOE1VMnZWNmxnNFZCZUNfbDFZR25EMklzQzBleGtfV040UjVZTEZqM0JBOTlvMFVMeThfbkI4elZkTHdEY0FZUWJNX0pzVnpGNXZ3SHlBdmNmV3M1azVUNzBqUE5PMksyOXQ2MzVoLTdONERtQnZzcHVTclI2RlpqRmpXbEhzUTc0V2xLRG1lQ3AxVQ?oc=5",
+      "date": "2026-05-06T18:57:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -134,18 +242,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "bqJjqS4m9mJO",
-      "title": "Shivon Zilis, mother of Elon Musk’s children, testifies in lawsuit against OpenAI",
-      "summary": "Zilis, an executive at Musk’s brain implant startup Neuralink, served on OpenAI’s board from 2020 to 2023Shivon Zilis, a Neuralink executive and the mother of four of Elon Musk’s children, took the st",
-      "link": "https://www.theguardian.com/technology/2026/may/06/shivon-zilis-testimony-elon-musk-openai-lawsuit",
-      "date": "2026-05-06T17:13:57+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -259,7 +355,7 @@
     {
       "id": "7z7WHWXcitIv",
       "title": "‘Your craft is obsolete’: WiseTech staff in limbo as AI touted as better than humans",
-      "summary": "The software company said in February it would cut 7,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will goGet our breaking news email, free app or daily news",
+      "summary": "The software company said in February it would cut 2,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will goFollow our Australia news live blog for latest updat",
       "link": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
       "date": "2026-05-06T15:00:23+00:00",
       "source": "The Guardian AI",
@@ -386,6 +482,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "xHnvpdF4/ncQ",
+      "title": "AI | AI ecosystems in China and US grow apart amid tech war - South China Morning Post",
+      "summary": "AI | AI ecosystems in China and US grow apart amid tech war&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSkQtSUdWR21aS3diRU9neThoWl9hYmpGbU1MaU1raFVtU3o0eGo5aEVWeVBMTXNNUW4wVmR6U0xtN09JZFJaa1BDb19xeFBGWkNBeU41TVNSQ3RwZlJlOGtUT19mSl9IekhfaWwzM0s5WVZYMzFtM1prVFhxekxwOVBxRmVucm56aVFVbHJGRjVNOGh5M1RNTXprYVl0bFdubVRTdVRJdkExcjA?oc=5",
+      "date": "2026-05-06T04:15:04+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -605,30 +713,6 @@
       "articleLang": "en"
     },
     {
-      "id": "o2/lsEeB9eMG",
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "summary": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform",
-      "link": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "date": "2026-05-05T19:54:37+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "8yFWt+KmI/Jc",
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "summary": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third",
-      "link": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "date": "2026-05-05T19:45:30+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "BEg5U9v96epm",
       "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
       "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
@@ -701,18 +785,6 @@
       "articleLang": "en"
     },
     {
-      "id": "OUmQPjRoqqzR",
-      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-      "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
-      "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-      "date": "2026-05-05T17:46:10+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "oulPbjn0o5sE",
       "title": "Anthropic deepens finance push as CEO Amodei warns of software disruption - Reuters",
       "summary": "Anthropic deepens finance push as CEO Amodei warns of software disruption&nbsp;&nbsp;Reuters",
@@ -734,30 +806,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mnvYOc/+h4CC",
-      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-      "summary": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-      "date": "2026-05-05T17:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "gYI1vKV/oipY",
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
-      "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "date": "2026-05-05T17:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -794,18 +842,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "UgSdtOwJ92iP",
-      "title": "PayPal says it’s ‘becoming a technology company again’ — that means AI",
-      "summary": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack.",
-      "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "date": "2026-05-05T15:49:55+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -953,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rbF4b3Y79n2O",
-      "title": "Greg Brockman Defends $30B OpenAI Stake: ‘Blood, Sweat, and Tears’",
-      "summary": "OpenAI’s cofounder and president revealed in federal court on Monday that he’s one of the largest individual stakeholders in the AI lab.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-musk-v-altman-trial/",
-      "date": "2026-05-04T23:19:52+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6Uz4Rjh57WGa",
       "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
       "summary": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
@@ -1025,18 +1049,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JMVqL2Nu45/o",
-      "title": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet - Reuters",
-      "summary": "Long Lake to buy Amex GBT for $6.3 billion in AI travel bet&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUNIUXBSYTl0ZFUzdXZmX015ZzFHYzhSQTVyUUcydHhUNnVCMzlCYXAtTkt3RzZBWnBGWW5tcnpfc000T3VFWmIxc0QxaUQxTERZN0NFNDhyTmwtdlRCVDJzNnhaRi1RcW9qb0pNTXoycVV5NHliM1hIX3hOenBWZHBTQjJQemF1SjNmcjVPMUFzdmJscFlkakxhNTk2czNIOVBBVGV5S1RLcTkwT2V6SQ?oc=5",
-      "date": "2026-05-04T15:03:35+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "ZMC9bxr+Muya",
       "title": "Vine video-sharing app is back – and battling AI slop",
       "summary": "Twitter co-founder Jack Dorsey is backing new version of app called Divine, where content must be made by a humanAs a pioneer of the short-form video format, Vine has been credited as one of the most",
@@ -1077,11 +1089,23 @@
       "title": "As Formula One evolves, AI becomes part of the race - Reuters",
       "summary": "As Formula One evolves, AI becomes part of the race&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjlIX0JUZjhLMGdrRzc0cmt6b2JxcndUYjVRa1JsRl9rbFFDNnR0UmM0MGxSRURrc0NMaWRIZWExQ3k2UjJXNmNDVENhVm9UUzE4aHZrRmN1ME5Sb1VaTE51R3gtY2NNcVhZckdhbjdaeU5mVG5NVDk1UWVDSG9RTHhZMWY3SldWRDVhNXF4Q3I?oc=5",
-      "date": "2026-05-04T09:32:00+00:00",
+      "date": "2026-05-04T11:44:19+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "iVBPF1zjZQQX",
+      "title": "Hong Kong puts its own spin on DeepSeek with China-chip AI push abroad - South China Morning Post",
+      "summary": "Hong Kong puts its own spin on DeepSeek with China-chip AI push abroad&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb1g1MWd6YmY1dTBPQ3lSZ0dUdi15OUJpc3B5MWhsSjFubWIyMmUwT25xSTR2NlRqbmNrYzAtd29iemMxR3dIeEgyX2J5dktJdnZQYWZ0WWtVS21jX2R1V0RTaEZqZXNHOEZjbTdObHloQU4zLWs1anhodDFBc1FFNVZ5YWtDVUJ3bzRfMHhUaTRWekpRNWtoaFFVVjRSajJjTFF3M0dqejB1RGluSVAwQlpJMnJLMknSAbcBQVVfeXFMTTdSTmx1YVJlM3Jpc0c5cUVaT1RhYkNSd2R4SDJSbGoxbWNVQ1VjVVY3V3JnWHI1NlUtbzRTN1k1Y2pwT20yLUxxZV9CTklyOUN0RWgtejJTZnNDcUdHRkFIemc4YUctdi0tWU5fRjdQaVUzSkRULUVSb1dhUWFKU0IwS1gzZGhEc2ZMemMzRXdMM0xUZzhmaEVfQW1iRllLYUdaOS11ZTNUSnRtdVhIbEhacnRRMVU4?oc=5",
+      "date": "2026-05-04T11:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1101,7 +1125,7 @@
       "title": "India's markets regulator to soon issue advisory on emerging AI risks - Reuters",
       "summary": "India's markets regulator to soon issue advisory on emerging AI risks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXZ2ZThpMmZmcWx0bWNvY3hYRjE5bXVSOGRJYmtHSjBROTlaNVNSNVdiSC1MWThlMWk3YXc4MFFKSXZvTk4yS0g3Mk83TFBPaG9ybDRaeDV2N0hCZDVJZ3E4RU1zcDJ2eHp4d2JpS2Y3ZElLZjVnOEMydF9lYUFWVWZjYjVVa0plcnFvaEw4MU9jd2JBTVFEVnRsYjZGNTJaeDBNME1ISU5YZ2c1VDdiSjloVkFHZw?oc=5",
-      "date": "2026-05-04T05:11:43+00:00",
+      "date": "2026-05-04T05:07:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1118,18 +1142,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "n8HedEwycxoI",
-      "title": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports - Reuters",
-      "summary": "Anthropic nears $1.5 billion AI joint venture with Wall Street firms, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVE1KSnhHTjJYWGNSUEpEdDRFZlFoMTJXRzE3TE9XeDBlUzAySUNMTVFyWHhzaWo4aEs1YVJYSEZQNDRJYzh5OHRCdjZuSng1eEU2cmJaQTB5NVlndmRJT2V5TkZHb1Qxbmh2VlFzTUZyenZGUlg4bDJlNEJ2ZzBnNTBUaGZzRFVOVTNNMzE0dkdqdG1jdkloU0h0NjhVeUxhMU1kRm9Ma0gwMnhUNC10RHlzUkYySU5QSTVVRkZkbDhNbThpaHNtQThDY2hkM3c?oc=5",
-      "date": "2026-05-04T02:35:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1421,54 +1433,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Mn8HBwcKGIKd",
-      "title": "AI×シミュレーションでタイヤ開発を加速　横浜ゴムの金型設計支援システム",
-      "summary": "横浜ゴムは、シミュレーションとAI技術を融合したタイヤの金型設計支援システムを独自開発した。これにより、経験の浅い技術者でも金型設計が容易となり、開発スピードの向上やコスト削減に加え、手戻りの少ない金型設計を実現できる。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2605/01/news024.html",
-      "date": "2026-04-30T21:15:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "VWY4+AwxkRCF",
-      "title": "Musk vs Altman: Beyond battle of egos, who gets final say on AI? - The Debate - France 24",
-      "summary": "Musk vs Altman: Beyond battle of egos, who gets final say on AI? - The Debate&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRDZFbVhUNGMtYXJtTW92dF9TRmU1Sm43QUwzLUNtQlpSdEF0Zm5HQ0g4Zm5XLTJjQjRvRUVncWlYZ2lZLVZyNEgzVTgwN2VJYUVaU3Y0Yk9XNnJsRGJJSVFoTUtDQVJKYUQyaVpSMG9XSVNoZFNyLUZtVTZNd1BDSGl4V3ZGSWRKSTZmc3l6RjBOSHZlU05ZTkZmYUd3R1RNOE5yZjRxQnZJNG5SdGFycDRLTnI3Y1YtVXc?oc=5",
-      "date": "2026-04-30T18:14:49+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "EqkAeAtqsdIy",
-      "title": "Anthropic、セキュリティ特化ツール「Claude Security」　AIがコードをスキャン→脆弱性を修正",
-      "summary": "米Anthropicは、セキュリティに特化したAIツール「Claude Security」（パブリックβ版）の提供を始めた。AIがコードをスキャンして脆弱（ぜいじゃく）性を検出し、ワンストップで修正できる。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/01/news051.html",
-      "date": "2026-04-30T17:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "S7UAg1GcbT40",
-      "title": "Is China’s Manus block a warning for other AI firms with global ambitions? - South China Morning Post",
-      "summary": "Is China’s Manus block a warning for other AI firms with global ambitions?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdjgtRk9uSF9fUnJfdkU3VDZqTEFXZFVocjZYY1ExZFBjTjRvVDVuM2x3aG5HU0l0ampTTTR3ejhmV0YzMFVVbmE3bVhNaXgyaG9CY2M2RjNwNEtJbnlCVDhBZHoxQ3oxZUxxTnZRZmVFUHNPVWhfaVI4RlRKSGd3WDI4SHdFMXBSRldsSWNGWHBFOElQZjRTNnlGV2NjdHBXMUtvRUhORXI1am5jbGUwWGwtaVkwZE9C0gG4AUFVX3lxTE05cEk3NnZBVmJCaktiSjh6QTJKRjVrMlVLcGpoNDRlNElpN1ROUWxicUgyTUUxZmNFS2ZoYlVBNEFSdWRSYXNnVUJzTG1wV0paWEs3c2ljekhIejJkS1pKZEN1MkwxWGt3cTBtbnAwclppTnlFdG9ZYTZTOHlYTTZULU5JTTZ4QkNpdi1NOXh5akdDLXJfUU1xSkRRckM3MnJ4akZkTmd2WFRaMmxWc0JqeHpYN1ZjMGQ?oc=5",
-      "date": "2026-04-30T15:00:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "Z4nfsifn0Q04",
       "title": "Chinese firms face pressure on AI investments as US peers’ spending soars - South China Morning Post",
       "summary": "Chinese firms face pressure on AI investments as US peers’ spending soars&nbsp;&nbsp;South China Morning Post",
@@ -1478,18 +1442,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "2aj/8/3o3HBH",
-      "title": "AI Bubble incoming? - DW.com",
-      "summary": "AI Bubble incoming?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qVnUtQVlneDA1clRKUXY2cEZ5NGNnaUtUTU1rZ3JqbWItWHh6aF9YRmNfT0pydXVIdUZTYlU0U0FJMnZNVmxqaU9CNnBDb0FaRlJOel9yMTU2VnVEUVRRUUZUYm42aXh1LUhIWnIzNDJ0TFNMTlE?oc=5",
-      "date": "2026-04-30T11:44:35+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
