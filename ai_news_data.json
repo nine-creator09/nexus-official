@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-07T14:06:40.523457+00:00",
+  "generated": "2026-05-07T19:42:37.289942+00:00",
   "articleCount": 111,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -65,15 +65,135 @@
   },
   "articles": [
     {
-      "id": "ivGQNxlKXxtn",
-      "title": "Financial stability risks are rising as AI fuels cyberattacks, IMF warns – business live",
+      "id": "VKwPXAgObNJo",
+      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+      "summary": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes th",
+      "link": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "date": "2026-05-07T19:39:22+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "MXVHU8gV/EuB",
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "summary": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chi",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+      "date": "2026-05-07T19:26:16+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qHXKmNBafmla",
+      "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+      "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
+      "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "date": "2026-05-07T19:21:21+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9/cQQL/KWBXU",
+      "title": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports - Reuters",
+      "summary": "Japan's SoftBank explores homegrown AI servers with Nvidia, Foxconn, Nikkei reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkQzaFBycUhVbEl2aUFVMFNaUmRMZ2VNcDE4OXhueUJ4amhwekNDMTRLekN4cWFOZDdTb3JrMWJSZTZiVkV1d0FZLXF5NWstODFqTFRNWnV0R1kzSk5RTzFIaTExaFV3cno1c2Zkb096Qm1rTVZ0QXJHM010cTF2NmlETHRYZ3VvLXk0WlQ4RlRHcU5FQXZfcFBEQnh1VkFfOGtNQ0FzSkF2V0Jvb3NwcHFRdTNtM283X3VIc2NHZnFBMGNEUEE?oc=5",
+      "date": "2026-05-07T18:42:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "IJZnZdLlvdNQ",
+      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+      "summary": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "date": "2026-05-07T18:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "uE9eJMyiHqWk",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "date": "2026-05-07T17:40:50+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "l5BE5lBZK8yk",
+      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
+      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
+      "date": "2026-05-07T16:25:48+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Yn+2BBmrEsto",
+      "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+      "summary": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox.",
+      "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "date": "2026-05-07T16:05:48+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "G1CuHOBVOaxp",
+      "title": "Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened",
       "summary": "Rolling coverage of the latest economic and financial newsClimate campaigners attack Shell over ‘windfall’ profits from Iran warThe Danish shipping giant Maersk has maintained its profit guidance for",
       "link": "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
-      "date": "2026-05-07T14:05:29+00:00",
+      "date": "2026-05-07T15:53:57+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "LeSk+sN/ocHn",
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+      "summary": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it",
+      "link": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+      "date": "2026-05-07T14:15:40+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "rJTD5kztv3Z5",
+      "title": "Ai | Tech pioneer Chen Tianqiao’s MiroMind halts China services after the Manus saga - South China Morning Post",
+      "summary": "Ai | Tech pioneer Chen Tianqiao’s MiroMind halts China services after the Manus saga&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzYyWkVWdlRwVkZadzF4MDdxQ09sZDVMSS1JUGhyREQtTXFmR1h3T3VUUi1DOXo1dmh6RmNrc1pqbGp3NGt5OVgwaFJJWENtMkNHYVRQVVROZWFGaUtuc29QU3Mya0c0OGdFdDlYU3dXa2tZVGQtTlBLUHNaa3Q4WFVPYU1Wc1lpWUJ6SVU5bFJHRGZhcVJYY1U4d1kyV0I3TThrUFhWUC1jQ2c5X3F6ZUtocmFORWI5aVlKMFV1RTJINS12VDFGVS0zM3dweFpDT2fSAdIBQVVfeXFMTTBENHh2MGxYcnVMeFNfV1F3Z0RoaU1UMjktRXFIOWVwUHZVaG85QlJNVG4wanQ2a1NNMGY1bWRxcDhlelFfUHc0eVJZYVQ2VWk2NW1uUG9uOEU4YkI4aWZsTUhNOUNSNldVTUlLU2M4ZTZBSzZkSEk5UGNrYnNrSENlaWtSeTd6MGhFMlhiNTNCbTlEci1DQmtCSlowaUNQR3NtcmpudWlDN2hyM2thSnZXOXdudWx4QVVXWUNvN2hyN1l0TW1TeDFTUTdzSmtuWUt3?oc=5",
+      "date": "2026-05-07T14:00:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -89,8 +209,8 @@
       "articleLang": "en"
     },
     {
-      "id": "XVoogidleiMz",
-      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "id": "alSV1+A29NTf",
+      "title": "China’s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "summary": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage.",
       "link": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
       "date": "2026-05-07T13:44:25+00:00",
@@ -103,7 +223,7 @@
     {
       "id": "GoMOaXiU68ye",
       "title": "Spotify wants to become the home for AI-generated personal audio",
-      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify",
+      "summary": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify.",
       "link": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
       "date": "2026-05-07T13:00:00+00:00",
       "source": "TechCrunch",
@@ -113,8 +233,8 @@
       "articleLang": "en"
     },
     {
-      "id": "2Zui3QC3RYbj",
-      "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "id": "IKnak+JlLGnP",
+      "title": "Spotify’s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
       "summary": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese.",
       "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
       "date": "2026-05-07T12:20:04+00:00",
@@ -199,7 +319,7 @@
     {
       "id": "z/orx1+IQR2X",
       "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor",
+      "summary": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from",
       "link": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
       "date": "2026-05-07T05:25:10+00:00",
       "source": "TechCrunch",
@@ -521,35 +641,11 @@
       "articleLang": "en"
     },
     {
-      "id": "uE9eJMyiHqWk",
-      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "date": "2026-05-06T15:37:32+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "fH+Y5qTz2Xu4",
       "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
       "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
       "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
       "date": "2026-05-06T15:27:36+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "x9wRUlUZ1N+P",
-      "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-      "summary": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-      "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "date": "2026-05-06T15:12:49+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -569,30 +665,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uHqtoUVogOMn",
-      "title": "AI boom pushes Samsung to $1T",
-      "summary": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone.",
-      "link": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-      "date": "2026-05-06T13:54:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "GllU/gZgVGZK",
-      "title": "Google&#8217;s AI search summaries will now quote Reddit",
-      "summary": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from",
-      "link": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "date": "2026-05-06T13:00:30+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "2rwVO+BYDGpN",
       "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
       "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
@@ -601,18 +673,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ytnP2Cv4q/YO",
-      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
-      "summary": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User",
-      "link": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "date": "2026-05-06T10:13:09+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -641,30 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VCjT0hRIROx7",
-      "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-      "summary": "Enterprise AI will be QuTwo’s bread and butter. “AI is the north star that we will continue to aim for. Quantum is just a new type of compute,” said Sarlin, who is adamant that QuTwo is an AI company.",
-      "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "date": "2026-05-06T06:47:12+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "326AM8y3CMBN",
-      "title": "Marc Lore says that AI will soon enable anyone to open a restaurant",
-      "summary": "Wonder wants to turn its robotic kitchens into AI-powered “restaurant factories,” letting anyone spin up a virtual food brand with a prompt.",
-      "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "date": "2026-05-06T06:34:32+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "nAopRzK5UJhw",
       "title": "‘RAMageddon’: is the era of cheap phones and laptops over?",
       "summary": "Bargains are disappearing and the cost of gadgets such as MacBooks and PS5s is rising as AI competes for memory chipsThe end of the cheap laptop, the bargain phone and affordable games consoles may be",
@@ -689,18 +725,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BEg5U9v96epm",
-      "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
-      "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2wxZUl5cnpNQVpfVDlBSEM0QXVFMnF2TldxUGY1X0RGd0hWNW5GTjBlVkFFaU5uSnp3eURNX0hMZTIwbVNYYmRBcl9iM1RhZmhuWnpYc2NCOFVGd2J2UmlaSElFUEpCVkdsTTJYVzQ1NTNINHBZaV9fRVV1alBvdkpUU0xwM0lfVEpwOVNybWZ3NGxwZmVfaU81Q2FxdzBuVVYySW5HWXJuWExWS00zMFl3Z3JYb25MUllUWDY3LVFib05OTFFlSkUzUENkVTVVSGQxdFZnVnM0UUVUR0E?oc=5",
-      "date": "2026-05-06T03:31:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "mFtu0ZhEwpVv",
       "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
@@ -710,18 +734,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "BqnZy6gjmM2o",
-      "title": "‘I Actually Thought He Was Going to Hit Me,’ OpenAI’s Greg Brockman Says of Elon Musk",
-      "summary": "OpenAI’s president wrapped his testimony on Tuesday by revealing a fiery meeting with Musk in 2017 and subsequent efforts to remove several board members.",
-      "link": "https://www.wired.com/story/greg-brockman-testifies-elon-musk-fight-trial/",
-      "date": "2026-05-05T23:24:58+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -742,6 +754,18 @@
       "summary": "Meta plans advanced 'agentic' AI assistant for users, FT reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
       "date": "2026-05-05T23:10:54+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "5ZsYrcgDdl74",
+      "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar - Reuters",
+      "summary": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXF6c0FYM3pwdHlsMXJKMFF1QmZ6NWFEVGJaRE9FazdXS2RudWxZbTI5eHE5b0E4NkZ4ZG5GQy1RQ0R4bHU4YmIwWjBlM1dZUzRpQmNVSHBkMEZxTk9vVE1VUGlsREdqV2Fub29hc2QtSmZqTnRGUnQxQmFkU3lTRXhUOGxpZk9qc18za2xMeG1renEzZlE?oc=5",
+      "date": "2026-05-05T22:59:43+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -809,15 +833,15 @@
       "articleLang": "en"
     },
     {
-      "id": "ELacMaxeWaIl",
-      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-      "summary": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp",
-      "link": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "date": "2026-05-05T21:46:04+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "D5i9NhPNX2fs",
+      "title": "Apple settles lawsuit over late Siri AI features for $250 million - Reuters",
+      "summary": "Apple settles lawsuit over late Siri AI features for $250 million&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUdKam5Ra3hydDYxcUFLeTQ1WHNRUXNySlpQTlAycEdERjJMXzJDLUR4cUNvSFc0Vi0tWDBxODk4QnVSWWtkOUdNZVY0M1FWczlOeHd1UWhPcUdxOE9yQXpQdlEzaEluSEZBUjdjM1lIQ3h3X1NtM3JxQ0kxQVF6Nm9Takhrai1YV3JETFhUNDNuVGxxTHl1dDdzTmFmZlBMcnF2T3ZYYnJlVEY3NTl4bEg3cw?oc=5",
+      "date": "2026-05-05T21:30:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -838,6 +862,18 @@
       "summary": "Flex to spin off AI data-center infrastructure unit into listed company&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTdDZjBkbzRYMmZxMXZmYVNpLVJObWF4d1luZzByYkdwV3p1NURuMWpzVElJLTNnUUczTkZyZV81d3hjWndVa1FyWkdIWlpWN1lSN29QYnhtbzJJejhNQW5GUjlRS1Z3UkhFeHh2czN3eUdyVkE1ZmhlTnBKQ2hibU9GcGthakJVbm1vbVRzOGFIUkNmWUIyTHZCMXVVM0laZjRNakd1ajc5YUtyeGg5Y3lKcw?oc=5",
       "date": "2026-05-05T20:10:04+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "BEg5U9v96epm",
+      "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
+      "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2wxZUl5cnpNQVpfVDlBSEM0QXVFMnF2TldxUGY1X0RGd0hWNW5GTjBlVkFFaU5uSnp3eURNX0hMZTIwbVNYYmRBcl9iM1RhZmhuWnpYc2NCOFVGd2J2UmlaSElFUEpCVkdsTTJYVzQ1NTNINHBZaV9fRVV1alBvdkpUU0xwM0lfVEpwOVNybWZ3NGxwZmVfaU81Q2FxdzBuVVYySW5HWXJuWExWS00zMFl3Z3JYb25MUllUWDY3LVFib05OTFFlSkUzUENkVTVVSGQxdFZnVnM0UUVUR0E?oc=5",
+      "date": "2026-05-05T19:12:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1073,18 +1109,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vY1K6lNLhwrE",
-      "title": "Google DeepMind workers in UK vote to unionize amid deal with US military",
-      "summary": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’Workers developing Google’s artificial intelligence products in the UK h",
-      "link": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
-      "date": "2026-05-05T05:05:42+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "6Uz4Rjh57WGa",
       "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
       "summary": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
@@ -1277,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "HJqCk93FN6rG",
-      "title": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say - Reuters",
-      "summary": "Exclusive: US officials weigh cutting deadlines to fix digital flaws amid worries over AI-powered hacking, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMGN6dXV0LU43a3VDd0JFTE1oYkVkZVBqVDhLalNKMExITzZfNWpuLUlaWXVKWVJZZDk1aTlmLVlIVTZqbDhISXpTMHc3N3k3QXlCZU0xSERVdFB6TW5WRW1oMVJrM3JPanEzeVBNV1R1ZXNjR2tmV0ZGUS1WRTZNRXREcWdyQ3BlVUlCZkdsRVdsNmtBTXYteFA1cUI3OVJsSmdxcW85Y0JrYm0zUkx4YkdfZExlRVRRR3JjYUZRc09aSGZUQm44?oc=5",
-      "date": "2026-05-01T21:58:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "p/zLs6g2mAP+",
       "title": "US judge says senior lawyers must pay for mistakes by subordinates using AI tools - Reuters",
       "summary": "US judge says senior lawyers must pay for mistakes by subordinates using AI tools&nbsp;&nbsp;Reuters",
@@ -1382,18 +1394,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "JMIYuNLUQ/RB",
-      "title": "‘It’s hard to compete’: how China is using AI to churn out 500 dramas per day - South China Morning Post",
-      "summary": "‘It’s hard to compete’: how China is using AI to churn out 500 dramas per day&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGdfRkdzS3cxTUhtSU1QeG9IdF9iTFZpWE50UTNxTnVpOEtKTC1Fbi1LRUpDdFhJWkdmNDFsQ1lleWxOU2ZDS3B4LVk3WUF2WHRab0VEUC1hbDBYX2NvVEtfUVhCbDNsbjc0TGpMRVFPLURvTUFUVkpVWlU0UWR0Q2xWTTJJWWVFRm4tUmRVVG9zZWtQVEM1TEpmbVJNZm5weW5HQ2tMOU5maFhyQktkdVpKZTRWdDZQd1ZpMHlHOFlfcnN00gHEAUFVX3lxTFBRMjZhUjZILXdiXzR2UHhLOWJUZXZQUF92U2pvazhYV2xoMnRiOEZpS2tyU0ZBbk5YSzRMVmNTZnNYSWFjYlYtQ3k0T1Z6ak04ZFZwamFFd0k3bU1RSnpRNWt6eHRIM3ZxNFpfVlpwSnBjWmY1V3ZDVTZ5WWx3c2R6bXBMQUxjMXlucGM5Uk5SZTlHVmlndFZ4N3A3OEZyNnlRX1pqdmhiMl90Zmwtck5nLXA3Q0h0dFhseExicXBXUjFVTC0?oc=5",
-      "date": "2026-05-01T06:00:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
