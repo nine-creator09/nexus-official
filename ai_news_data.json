@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-08T02:51:15.155225+00:00",
-  "articleCount": 111,
+  "generated": "2026-05-08T07:41:18.216376+00:00",
+  "articleCount": 113,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -64,6 +64,42 @@
     }
   },
   "articles": [
+    {
+      "id": "XDkPfDPeyEQ0",
+      "title": "Why you can never get your doctor to call you back",
+      "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun",
+      "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "date": "2026-05-08T04:42:29+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jkHvXPgNKVv+",
+      "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
+      "summary": "A booming tech sector has disrupted translation jobs in publishing – but they could be needed for a while longer yetIn February 2022, while he was plugging away at rendering the US writer Dana Spiotta",
+      "link": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+      "date": "2026-05-08T04:00:37+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "0ZX510cJwg2Q",
+      "title": "「Claude Mythos」が15年前のバグも発掘、Firefoxの修正数が一挙に15倍超に",
+      "summary": "Mozillaは、AnthropicのAIモデル「Claude Mythos Preview」を活用し、Firefoxに潜んでいた271件の深刻なバグを特定、修正した。中には20年以上前の古いバグも含まれ、4月のバグ修正数は従来の約15倍となる423件に上った。報告はAIが行い、修正は人間のエンジニアが担うことで、過去最高の安全性を実現したとしている。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news068.html",
+      "date": "2026-05-08T02:41:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "2XJiz1iSt2Hz",
       "title": "The AI jailbreakers – podcast",
@@ -122,6 +158,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BeJkM3CHcQid",
+      "title": "Nvidia to invest up to $2.1 billion in IREN as part of AI data center deal - Reuters",
+      "summary": "Nvidia to invest up to $2.1 billion in IREN as part of AI data center deal&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQXRfYjlTODB1c08tend0YVFhQUl3X0FVMnVBWDZyT193ei1DcFhJeWhBX2hRSHBGQ2k2eFFtcDVkQk5ndGRNNlFIbDVHMXNMbS1VbU1jN0VXb3RXdXZpYUE3RjRyMUxGVGVIM2R0NzNMLTNtd0R1ZHRFdm03Zm1ZZ3poaWc4c0JjUk10ckxxWGhTWDRiWDlPX1diR05wS2tfd1VHZQ?oc=5",
+      "date": "2026-05-07T22:02:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -593,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "nFbmX61Ip1na",
-      "title": "Anthropic、マスク氏のSpaceXと契約　GPU22万基超を確保し「Claude」の利用制限を緩和",
-      "summary": "Anthropicは、SpaceXとデータセンター「Colossus 1」の全演算能力を利用する契約を締結した。NVIDIA製GPUを22万基以上備えた環境を確保し、Claudeの利用制限を大幅に緩和する。マスク氏は同社の能力を高く評価しており、将来的な宇宙データセンター構想への協力も視野に入れている。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
-      "date": "2026-05-06T21:48:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "BaOzigMlcd/s",
       "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
       "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
@@ -674,6 +710,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hdE56/fM+5Uy",
+      "title": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives - Reuters",
+      "summary": "In OpenAI trial, former technology chief says Altman sowed 'chaos,' distrust among top executives&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDBWMjRUdGd0bmo4ajdVc244Ul9PbFdhME5zb25uUWMxVlJualFIZktMMHFzbkowWXF0RnhoMllGenlGWFR6Q253aF9mOG9yRWVWTWUtUmNscEFEaFJ5M0xNOXJJVXBRMVVRMXRWZmhuN3hmeUxNakNBX0JncmV4NmsxR2J2R3Rhclc5SHdwUkpaQmhwcFljSGVSU1g5V18xYWFRdGZza1FHem5HS1ptX2pWTjlia01Kalo5aUNLd1BLT2hySXNyb29Ocm0?oc=5",
+      "date": "2026-05-06T18:18:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -785,18 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BEg5U9v96epm",
-      "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
-      "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2wxZUl5cnpNQVpfVDlBSEM0QXVFMnF2TldxUGY1X0RGd0hWNW5GTjBlVkFFaU5uSnp3eURNX0hMZTIwbVNYYmRBcl9iM1RhZmhuWnpYc2NCOFVGd2J2UmlaSElFUEpCVkdsTTJYVzQ1NTNINHBZaV9fRVV1alBvdkpUU0xwM0lfVEpwOVNybWZ3NGxwZmVfaU81Q2FxdzBuVVYySW5HWXJuWExWS00zMFl3Z3JYb25MUllUWDY3LVFib05OTFFlSkUzUENkVTVVSGQxdFZnVnM0UUVUR0E?oc=5",
-      "date": "2026-05-06T03:31:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "mFtu0ZhEwpVv",
       "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
@@ -826,18 +862,6 @@
       "summary": "Meta plans advanced 'agentic' AI assistant for users, FT reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3ZtblEwZm16d2hyNkcwMjRjTUtwVkd6bzJYQ1N4QnJvRXBZY3ZPeWo2WkpmSXpDY2xEZi1ZeVN5Q0lOeHF5TzllM05fZ19jLUtiT1A4SWZoNnV2U3lyUzY3OFQ4eVh3MDdiLWxLai1VbDI3LXRTOERqaWVhb3c2eVJXSjBMSHR4YklZdW5KQUM4SnYyV1hibkZzTnAwVzMyeHhRbw?oc=5",
       "date": "2026-05-05T23:10:54+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "5ZsYrcgDdl74",
-      "title": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar - Reuters",
-      "summary": "Super Micro bets on AI server demand to provide upbeat forecast, shares soar&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeXF6c0FYM3pwdHlsMXJKMFF1QmZ6NWFEVGJaRE9FazdXS2RudWxZbTI5eHE5b0E4NkZ4ZG5GQy1RQ0R4bHU4YmIwWjBlM1dZUzRpQmNVSHBkMEZxTk9vVE1VUGlsREdqV2Fub29hc2QtSmZqTnRGUnQxQmFkU3lTRXhUOGxpZk9qc18za2xMeG1renEzZlE?oc=5",
-      "date": "2026-05-05T22:59:43+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1085,18 +1109,6 @@
       "articleLang": "en"
     },
     {
-      "id": "d8oPwFI4jNcO",
-      "title": "An AI version of Milton’s Paradise Lost is fundamentally unworthy of one of the great works of art",
-      "summary": "Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any goodThe thing about unfilmable works of literature is that",
-      "link": "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
-      "date": "2026-05-05T09:25:15+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "RrZcl/j73OUi",
       "title": "A blueprint for using AI to strengthen democracy",
       "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, repr",
@@ -1124,7 +1136,7 @@
       "id": "MUl6FDCoy86S",
       "title": "Opinion | America builds AI, China uses it. That gap may decide the future - South China Morning Post",
       "summary": "Opinion | America builds AI, China uses it. That gap may decide the future&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVpUDNKS3J4Vmo0dEMyamRldmRMQ1EwUEFFcVd4N3pMRllQQ3NrOWtubnhXdkhBS1A4bzRNcGNCSEVabmVYNlowdDM4R2RiZERRX25lX3M3N1IxTm10TkN1RW1sVE1qZ0FidFRMTC1PT0Q3V21Xa2RESmJEdE9MOXR6cW5uZFZJenRMaXJ6N2NWdTc2Vm1sMG1rUkJ5cThNcWN3V2c5NkRTRUtwZ3VEd3Jn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVpUDNKS3J4Vmo0dEMyamRldmRMQ1EwUEFFcVd4N3pMRllQQ3NrOWtubnhXdkhBS1A4bzRNcGNCSEVabmVYNlowdDM4R2RiZERRX25lX3M3N1IxTm10TkN1RW1sVE1qZ0FidFRMTC1PT0Q3V21Xa2RESmJEdE9MOXR6cW5uZFZJenRMaXJ6N2NWdTc2Vm1sMG1rUkJ5cThNcWN3V2c5NkRTRUtwZ3VEd3Jn0gGyAUFVX3lxTE13WGNsSFo1Tm1YeVdSWXd0T2xBbzhpMmRvYjk5VnRfWXpLTXp5ZWVZNkw2ZUhiNGFzMlZSa2JxVVJMamJYYTd6eTB0YTd0S0EzZ0k0Rzk5RktRdE1YaVVnY0RFSm9nb3F4MXZjMXlkbWlVdEF5UXFNZy1oMnBDTElWM0NhcmtYWFhuYnZGUVZpci1MYU9wcmd0V1JZTHpFVEhfTFhUbkE1VkRxRFJyb3BEVEE?oc=5",
       "date": "2026-05-05T08:30:05+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1262,6 +1274,18 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "to6qpvlzI632",
+      "title": "Oscars bans AI actors and writers - France 24",
+      "summary": "Oscars bans AI actors and writers&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KZ1VVcG1oZmdTWTFWX1J2T192QzZoTDFRTC1GLWpKQm9sM2phYzdlbHRxemdvUDVhRWVlTlJMYWRzcTU3QmVCa0RmeEU3U2l4dE5iYkhEUkU0aVROWXB3ODA1LUZxWFd1RThVY0ZB?oc=5",
+      "date": "2026-05-02T08:12:59+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
