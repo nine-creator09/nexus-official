@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-07T19:42:37.289942+00:00",
+  "generated": "2026-05-08T02:51:15.155225+00:00",
   "articleCount": 111,
   "sourceResults": {
     "verge": {
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "guardian": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,138 @@
     }
   },
   "articles": [
+    {
+      "id": "2XJiz1iSt2Hz",
+      "title": "The AI jailbreakers – podcast",
+      "summary": "Journalist Jamie Bartlett on the people trying to get AI to say things it shouldn’t … for the safety of us allAll the major AI chatbots – from ChatGPT to Gemini to Grok to Claude – have things they sh",
+      "link": "https://www.theguardian.com/news/audio/2026/may/08/the-ai-jailbreakers-podcast",
+      "date": "2026-05-08T02:00:32+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "HgCTCb7r2PlQ",
+      "title": "Spotify、AI生成の音声コンテンツを保存できるCLIツール「Save to Spotify」公開",
+      "summary": "Spotifyは、AIエージェントが生成した音声コンテンツをライブラリに保存・再生できる新機能「Save to Spotify」を発表した。CLIツールを利用し、AIによる要約やメモを非公開のポッドキャストとしてライブラリに追加できる。「OpenClaw」「Claude Code」「OpenAI Codex」などと連携し、アップロードやメタデータ付与までを自動で行う機能だ。",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
+      "date": "2026-05-08T01:55:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "N4qruvzt89Em",
+      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
+      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
+      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
+      "date": "2026-05-08T01:42:14+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "u6fTOkccdWaW",
+      "title": "OpenAI、次世代音声API群を発表──推論・翻訳・文字起こしをリアルタイムで処理",
+      "summary": "OpenAIは、Realtime API向けの次世代音声機能群を発表した。GPT-5クラスの推論力を備えた「GPT-Realtime-2」、多言語同時通訳の「GPT-Realtime-Translate」、即時文字起こしの「GPT-Realtime-Whisper」が含まれる。音声を自然なインタフェースとして普及させ、高度な音声アシスタント構築を支援する。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/08/news057.html",
+      "date": "2026-05-08T00:08:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "nBpM9/GNqwf7",
+      "title": "OpenAI launches new voice intelligence features in its API",
+      "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+      "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "date": "2026-05-07T22:24:50+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hr35NltD+ne4",
+      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
+      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
+      "date": "2026-05-07T21:37:20+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xftjkrrLVsU/",
+      "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+      "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+      "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "date": "2026-05-07T21:02:11+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6YhmbZj5DTny",
+      "title": "How to Disable Google's Gemini in Chrome",
+      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
+      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
+      "date": "2026-05-07T20:31:57+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "JK4s3aXAsMS6",
+      "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+      "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+      "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "date": "2026-05-07T20:20:20+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "gJl5bgMO3Ggz",
+      "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+      "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+      "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "date": "2026-05-07T19:57:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jplWs3UgArJa",
+      "title": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+      "summary": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "date": "2026-05-07T19:55:22+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "VKwPXAgObNJo",
       "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
@@ -91,13 +223,37 @@
     {
       "id": "qHXKmNBafmla",
       "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-      "summary": "Can Sam Altman—or any CEO—be trusted with super intelligence?",
+      "summary": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial",
       "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "date": "2026-05-07T19:21:21+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "cfaoUmuopqet",
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "summary": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m",
+      "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "date": "2026-05-07T19:06:17+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LKo0FqcB+Me5",
+      "title": "DOJ antitrust head warns dealmakers not to mislead on AI - Reuters",
+      "summary": "DOJ antitrust head warns dealmakers not to mislead on AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUZGeDBUY0dGd1ppM2dSckF6WU10aGEzeVVsRG95YlU2WWNCeW5PdWZiM0RfWjgycmFGb0tQNXB4THdqOGt2eDRTS0Flb25WWUp5LUg1MkUyYUVqc1RjUWFKTlQzOF9UT2NEaFZNQ2t4UURCcllaWnhwUk9ZRGdxSnNyMktUTll0dFE1a1FJS2dYUUs1SHdXVi1YaUI3Ym54TDYtQ3Fn?oc=5",
+      "date": "2026-05-07T18:58:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -137,9 +293,9 @@
       "articleLang": "en"
     },
     {
-      "id": "l5BE5lBZK8yk",
-      "title": "ChatGPT Has 'Goblin' Mania in the US. In China It Will 'Catch You Steadily'",
-      "summary": "OpenAI's chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
+      "id": "2YU7PDi55amx",
+      "title": "ChatGPT Has ‘Goblin’ Mania in the US. In China It Will ‘Catch You Steadily’",
+      "summary": "OpenAI’s chatbot has some weird linguistic tics in Chinese that are driving users crazy.",
       "link": "https://www.wired.com/story/chatgpt-chinese-catch-you-steadily-sycophancy/",
       "date": "2026-05-07T16:25:48+00:00",
       "source": "Wired",
@@ -297,7 +453,7 @@
       "title": "EU reaches tentative deal on simpler AI rules - DW.com",
       "summary": "EU reaches tentative deal on simpler AI rules&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTU5WcXFRX2tCU2FLa28wNjhPMXRLSzd2QmdHbzFfU0x3UEt6dEtkbHVOMW91ZDBxYktmb0NGTlQwdmpJMXJZd2ZFVzJQbXB2T2ZQUVFCY3VIZ1ZsMktDbEdkYUFtTmhvVGhqSmdiQUFkd2hIemRyLTUtUHhKdHNmTWEyeFRUWjRlY2oycVFoeFR1UE9PbUI1emd1OWo0X1VGYldKYjF2NjLSAagBQVVfeXFMT0J2TE8tMWd4Z293clNxaWVmdWxvQTNsMmE3U3Y0TlVib3lreXV6ajU1Y0wwTDdjaWcwRWlhNk5FN0xFeTVQVVNQaURVT0RQQ2EtSTVwckp3X096QzJ2WldoOWFic1diZmpsdHo5U3FjRkNFZmRxc3J5eUVBV0t3OUNicWxtMzIwTnV1eFl1NlZRd1gtejRNR3FodGdydXBxbUZ0emFGOGVP?oc=5",
-      "date": "2026-05-07T08:28:49+00:00",
+      "date": "2026-05-07T08:08:51+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -533,30 +689,6 @@
       "articleLang": "en"
     },
     {
-      "id": "K3ueXqQd2okx",
-      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
-      "summary": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
-      "date": "2026-05-06T17:55:53+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HmSf4UC3C/5Y",
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho",
-      "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "date": "2026-05-06T17:20:34+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "BpB1YKoQLUwg",
       "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
       "summary": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
@@ -605,54 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Jcv4bnJuSa2y",
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "summary": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-      "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "date": "2026-05-06T15:49:39+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "8bcPQxd80BKH",
-      "title": "Hackers Hate AI Slop Even More Than You Do",
-      "summary": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-      "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-      "date": "2026-05-06T15:49:12+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "m3rs7K7H/QN7",
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "summary": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing",
-      "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "date": "2026-05-06T15:46:38+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "fH+Y5qTz2Xu4",
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "summary": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-      "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "date": "2026-05-06T15:27:36+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "7z7WHWXcitIv",
       "title": "‘Your craft is obsolete’: WiseTech staff in limbo as AI touted as better than humans",
       "summary": "The software company said in February it would cut 2,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will goFollow our Australia news live blog for latest updat",
@@ -662,30 +746,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "2rwVO+BYDGpN",
-      "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri’s AI Features",
-      "summary": "If you bought an iPhone 15 or 16 in the US, you could be set to pocket up to $95 per device as part of the settlement.",
-      "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
-      "date": "2026-05-06T10:41:37+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "rv0joeb3hzkT",
-      "title": "Hasan Piker, Self-Described ‘Ayatollah of Woke,’ Wants AI to Die",
-      "summary": "The far-left Twitch streamer says AI is rotting our brains. He’s also addicted to Twitter and listens to at least eight podcasts.",
-      "link": "https://www.wired.com/story/hasan-piker-user-behavior/",
-      "date": "2026-05-06T10:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -722,6 +782,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "BEg5U9v96epm",
+      "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
+      "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2wxZUl5cnpNQVpfVDlBSEM0QXVFMnF2TldxUGY1X0RGd0hWNW5GTjBlVkFFaU5uSnp3eURNX0hMZTIwbVNYYmRBcl9iM1RhZmhuWnpYc2NCOFVGd2J2UmlaSElFUEpCVkdsTTJYVzQ1NTNINHBZaV9fRVV1alBvdkpUU0xwM0lfVEpwOVNybWZ3NGxwZmVfaU81Q2FxdzBuVVYySW5HWXJuWExWS00zMFl3Z3JYb25MUllUWDY3LVFib05OTFFlSkUzUENkVTVVSGQxdFZnVnM0UUVUR0E?oc=5",
+      "date": "2026-05-06T03:31:36+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -773,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hVntYQhd0/Q4",
-      "title": "Anthropic、金融業界向けに10種のAIエージェントテンプレートを公開",
-      "summary": "Anthropicは、金融サービス企業向けに10種類のAIエージェントテンプレートを公開した。投資銀行などの専門家を対象に、ピッチブック作成や監査などの業務を支援する。Microsoft 365との連携強化や、外部データプロバイダーとの接続も発表した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
-      "date": "2026-05-05T22:53:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "NaWATlOeu6bX",
       "title": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12% - Reuters",
       "summary": "AMD forecasts revenue above expectations on strong AI demand, shares jump 12%&nbsp;&nbsp;Reuters",
@@ -807,18 +867,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "8VwS73U9gZ5S",
-      "title": "OpenAI、ChatGPTの新デフォルトモデル「GPT-5.5 Instant」　回答の根拠をユーザーが確認・管理可能に",
-      "summary": "OpenAIは次世代の標準モデル「GPT-5.5 Instant」をリリースした。前モデルの低遅延を維持しつつ、専門分野でのハルシネーションを大幅に削減。過去のチャットやGmail等を活用した高度なパーソナライズ機能や、回答の根拠を確認する新機能も導入された。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/06/news022.html",
-      "date": "2026-05-05T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "lxcKHdP0qfWT",
@@ -869,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BEg5U9v96epm",
-      "title": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial - Reuters",
-      "summary": "Musk wanted $80 billion to colonize Mars, OpenAI president testifies at trial&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU2wxZUl5cnpNQVpfVDlBSEM0QXVFMnF2TldxUGY1X0RGd0hWNW5GTjBlVkFFaU5uSnp3eURNX0hMZTIwbVNYYmRBcl9iM1RhZmhuWnpYc2NCOFVGd2J2UmlaSElFUEpCVkdsTTJYVzQ1NTNINHBZaV9fRVV1alBvdkpUU0xwM0lfVEpwOVNybWZ3NGxwZmVfaU81Q2FxdzBuVVYySW5HWXJuWExWS00zMFl3Z3JYb25MUllUWDY3LVFib05OTFFlSkUzUENkVTVVSGQxdFZnVnM0UUVUR0E?oc=5",
-      "date": "2026-05-05T19:12:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "9pMfOQAegE9I",
       "title": "US and tech firms strike deal to review AI models for national security before public release",
       "summary": "Microsoft, Google DeepMind and xAI products to be vetted for cybersecurity, biosecurity and chemical weapons risksThe US government has struck deals with Google DeepMind, Microsoft and xAI to review e",
@@ -905,23 +941,23 @@
       "articleLang": "en"
     },
     {
+      "id": "1/jFurThxoBE",
+      "title": "Italy PM Meloni warns over AI deepfakes after false photos of her circulate - South China Morning Post",
+      "summary": "Italy PM Meloni warns over AI deepfakes after false photos of her circulate&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaEplcUY4SHlocEptVTU0WWlpSFZMdUhqN2ZZdUVsNVlGd25vbWNDTzVpdjFIUlFleE9TWUlPWkdpb1RmYmlwNm0yRGVWbnRQOVhOM0N6QWtWR0diVEltMnZSWHZobDdoQTNveVF6c1hjMmRBMHNLWmx6dXhscFY0Z1VWV3gtRVdWNFdldndVSVZCYTRoQjRremhCdWdLckFmZDZranhJaDBjeTJ4aVkyLXV0SENJUkFWSVRndGNQRm04MmRjSGfSAcYBQVVfeXFMUDkzM1VyX3NNOUZ1MjB0NWtfWjU3VXpfNmk0NEhPRnVjVDFTRVNlaVFwQkdrbm5xWGQ0SUlKbW52dEpMeEI4S0tHbTB5dV81bENLcEh1ZTM4aEFoaFNKbktRZjNHWmR4NjZsNkE3V3piZVZIVGEwYmZmNV96ZGZSTFFkMWVJX2lWTE83eTdZQUd4TjZpRVFabWUtWm9hTXpXT2xlU09XTVV4UVdLYlhQaFpQSk1hSlB0bFVvOFMyVWpwYmpQY0dn?oc=5",
+      "date": "2026-05-05T18:25:58+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "8UAvQ5UmMI6t",
       "title": "AI errors in US murder case lead to discipline for Georgia prosecutor - Reuters",
       "summary": "AI errors in US murder case lead to discipline for Georgia prosecutor&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1FWVkg4NWdmakJNRGc4cWZwNW9jMU5DUFpITF9PaURwY1JlVVVpMjN4bHBIYW9GSnpKWWx1NlF1Yk42RGxCNnZtTFgzbUhDRzNDYmJXdk5JdE8xWTBPV0pUVTQ3dS1SdHAtcUk1U1l4NGx0ZUVsM2VjT1luYmh3c1ZVYXhwblUyQUxWdEtKajBIOGpudDYtNXFCOGlOUDl5dk5hMFVBQTIteE9YcE15R3Fn?oc=5",
       "date": "2026-05-05T18:16:07+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "3tRsPhotBwpz",
-      "title": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports - Reuters",
-      "summary": "Apple to let users choose rival AI models across iOS 27 features, Bloomberg News reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlNjTEJLOEpCU29oNTBDTVdFaWRGV2NVMG8xdnI2aF9KTlV5SERYRWl3aTdEdDdLenBqdFVfTzhWQ3ZXVndfZkJDYnlhbm5saTJsYWRKd3N3N18ybHY0elFhUlhVOUgwWXJSMzNyTjE0V19RZG9rOWZYeUo5ejhhUnJTRXVpbEFvc0hjUU4yalRIM1cxajJMMEttM1N0NGV1dWJjRTVYQTdyWk9oeHl1cHItc2JLTHZreHd0QV9QNkQ?oc=5",
-      "date": "2026-05-05T18:11:57+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1088,37 +1124,13 @@
       "id": "MUl6FDCoy86S",
       "title": "Opinion | America builds AI, China uses it. That gap may decide the future - South China Morning Post",
       "summary": "Opinion | America builds AI, China uses it. That gap may decide the future&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVpUDNKS3J4Vmo0dEMyamRldmRMQ1EwUEFFcVd4N3pMRllQQ3NrOWtubnhXdkhBS1A4bzRNcGNCSEVabmVYNlowdDM4R2RiZERRX25lX3M3N1IxTm10TkN1RW1sVE1qZ0FidFRMTC1PT0Q3V21Xa2RESmJEdE9MOXR6cW5uZFZJenRMaXJ6N2NWdTc2Vm1sMG1rUkJ5cThNcWN3V2c5NkRTRUtwZ3VEd3Jn0gGyAUFVX3lxTE13WGNsSFo1Tm1YeVdSWXd0T2xBbzhpMmRvYjk5VnRfWXpLTXp5ZWVZNkw2ZUhiNGFzMlZSa2JxVVJMamJYYTd6eTB0YTd0S0EzZ0k0Rzk5RktRdE1YaVVnY0RFSm9nb3F4MXZjMXlkbWlVdEF5UXFNZy1oMnBDTElWM0NhcmtYWFhuYnZGUVZpci1MYU9wcmd0V1JZTHpFVEhfTFhUbkE1VkRxRFJyb3BEVEE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQlVpUDNKS3J4Vmo0dEMyamRldmRMQ1EwUEFFcVd4N3pMRllQQ3NrOWtubnhXdkhBS1A4bzRNcGNCSEVabmVYNlowdDM4R2RiZERRX25lX3M3N1IxTm10TkN1RW1sVE1qZ0FidFRMTC1PT0Q3V21Xa2RESmJEdE9MOXR6cW5uZFZJenRMaXJ6N2NWdTc2Vm1sMG1rUkJ5cThNcWN3V2c5NkRTRUtwZ3VEd3Jn?oc=5",
       "date": "2026-05-05T08:30:05+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "6t2aNsZydut9",
-      "title": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
-      "summary": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguardsGood morning. Over the last couple of days, the Guardian has been reporti",
-      "link": "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
-      "date": "2026-05-05T05:45:43+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "6Uz4Rjh57WGa",
-      "title": "Anthropic、Blackstoneらと新会社設立へ 中小企業へのClaude導入を加速",
-      "summary": "Anthropicは、Blackstoneなどの資産運用大手と共同でエンタープライズ向けAIサービス企業を設立した。新会社は主に中小企業のClaude導入を支援し、既存のパートナー網を補完する役割を担う。同様にOpenAIも投資会社と組み、AI実装を担う新会社の設立に向けて動いていると報じられた。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/05/news023.html",
-      "date": "2026-05-04T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "SwnOzrN/ryCe",
@@ -1370,18 +1382,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "GngxD7bgDTl0",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "summary": "The music streaming platform will review criteria such as artists' live dates and social media presence.",
-      "link": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-01T11:29:35+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
