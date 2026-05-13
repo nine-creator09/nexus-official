@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-12T19:51:18.202669+00:00",
-  "articleCount": 110,
+  "generated": "2026-05-13T02:57:29.324652+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 6
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -65,10 +65,142 @@
   },
   "articles": [
     {
+      "id": "U1Gy37JU2ROR",
+      "title": "AIがAndroidスマホを操作、音声入力も効率化　「Gemini Intelligence」登場",
+      "summary": "GoogleがAndroidデバイス向けのAI機能群「Gemini Intelligence」を発表。2026年夏に発売される「Galaxy」「Pixel」シリーズのスマートフォンから順次展開予定。",
+      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/13/news080.html",
+      "date": "2026-05-13T02:14:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "5WIZgIX7NnGU",
+      "title": "Is Big Brother watching you shop? – podcast",
+      "summary": "From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and storesLive facial recognition is",
+      "link": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
+      "date": "2026-05-13T02:00:16+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "O6/LLQMiNbSE",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC",
+      "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "date": "2026-05-13T00:26:48+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "THv8rKK/GUqf",
+      "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
+      "summary": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
+      "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
+      "date": "2026-05-13T00:10:05+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "4GbT1K1U2ypN",
+      "title": "OpenAI boss Sam Altman says Musk wanted control of company - DW.com",
+      "summary": "OpenAI boss Sam Altman says Musk wanted control of company&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWRhYjhiZDhzNDd2aUlHSjNFdXNNcFkzV0tqb2pYbVVGWEphZEV4RTU3MmJmdjd6RHE3OUkzNktDNm9fUlZKaTFEX0VQTHpwMEItVHE1MVNZRThfMVdWazI3aXBOUFg5SW5ETnVzMW4zWXRh0gF0QVVfeXFMT2VSUVZ2elZrQWxXbzRGX3NnLVd1bjZOdWw5UHZWY1JMQzJVU2FSSnlxUG1KNmZPWktlbDVEUk1nWXdrUGRubEphMXMtZXlsR1otbm1zVFA3YVF5SE9USzN6cU42Z2JxMWRVT21LcUFHQndicDk?oc=5",
+      "date": "2026-05-12T23:32:36+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "dlJ5Ff1Q+ll8",
+      "title": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial - Reuters",
+      "summary": "OpenAI chief Sam Altman denies betraying Elon Musk, defends for-profit push at trial&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWlDX29DYm9TTEdFcTFmSUYxbEd2eFlxd2FPSHg3NmRHS1lERlVFOERPWTBmM3FVRzM3V2pxUkk1UmNxQmRoY1FUaEczbnJFY1ctUllsNmF6a1dxSDFGUmVqS09wNld3M1Z6Z1J2X0xWRlo4RVJSSkhyY0E0SkpsX1VISzA3aDlDaDlUa1NjMGNiSkVUbHdfd093M25aNVB4enBsaVNrcGNvMFBuWGc?oc=5",
+      "date": "2026-05-12T22:06:52+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "uXx74uj1EP98",
+      "title": "Sam Altman defends OpenAI in courtroom showdown with Elon Musk",
+      "summary": "The OpenAI chief rejects claims he deceived Elon Musk as high-stakes AI trial nears its endSign up for the Breaking News US newsletter emailThe OpenAI CEO, Sam Altman, took the stand on Tuesday to def",
+      "link": "https://www.theguardian.com/technology/2026/may/12/sam-altman-openai-trial-elon-musk",
+      "date": "2026-05-12T20:48:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "KA+PEzzUBG3D",
+      "title": "Meta won’t let you block its AI account on Threads",
+      "summary": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any tim",
+      "link": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+      "date": "2026-05-12T20:35:23+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "y19+BBQ1kb9l",
+      "title": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’",
+      "summary": "Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’Though college graduations usually consist of a speaker giving advice to students, one recent cere",
+      "link": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
+      "date": "2026-05-12T20:30:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "aHlzSkNKB23k",
+      "title": "【独自調査】日本語でAIを使うと「約1.5倍」高く付く？　AI利用のコスパを左右する“トークン効率”を比較",
+      "summary": "AIの料金体系が使用量を意識する形へ移りつつある今、「日本語」はAI利用のコストにどれほど影響するのか。GPT-5.5やClaude Opus 4.7など主要モデルを実測し、トークン効率からモデル選びを考える。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/13/news011.html",
+      "date": "2026-05-12T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "qpa0wLNpUh8W",
+      "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
+      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
+      "date": "2026-05-12T19:48:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "mYrlLxoe4iwN",
       "title": "Tech Life",
-      "summary": "Cameras, vehicles and AI technology - can our roads be made safer?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+      "summary": "Crumbling roads and other hazards - can AI make our streets safer?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-12T19:45:00+00:00",
       "source": "BBC Technology",
       "key": "bbc",
@@ -77,8 +209,20 @@
       "articleLang": "en"
     },
     {
-      "id": "UiNAXmCm2Eid",
-      "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+      "id": "GunduiEYRTWI",
+      "title": "Demi Moore calls fighting AI a losing battle ahead of Cannes opening - Reuters",
+      "summary": "Demi Moore calls fighting AI a losing battle ahead of Cannes opening&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWlURFZkUFYxUDA4b0NSSjRwQ0VRSnBIOGc2Tkwxa2hZTEd3UUtkOTE2NXI5MDNOZk1MaUFvc2h5bnBkX2FnWkNNMDBFLXZUMGhlc2tTQ0tFTjEzMVRrYjJLUXpOMDlnRHZwalRiWHBzeGNPZ1BRcmM3elZ4eGNVOFNjMWprX2pYcDllSDZNeEpXTHNGWUJiRGpzMnRGYVZWLWstUWtSNHhmSmloaU9Pd1R4U1RzVXBJMFNTN09xZw?oc=5",
+      "date": "2026-05-12T19:26:48+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "EZVbPqHSi4IW",
+      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
       "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
       "link": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
       "date": "2026-05-12T18:51:56+00:00",
@@ -91,7 +235,7 @@
     {
       "id": "MBSI24fCFsR9",
       "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-      "summary": "OpenAI's CEO recalls a \"particularly hair-raising\" conversation with the SpaceX founder.",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experie",
       "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
       "date": "2026-05-12T18:05:15+00:00",
       "source": "TechCrunch",
@@ -101,21 +245,9 @@
       "articleLang": "en"
     },
     {
-      "id": "qpa0wLNpUh8W",
-      "title": "Anthropic expands Claude's AI tools for law firms, lawyers - Reuters",
-      "summary": "Anthropic expands Claude's AI tools for law firms, lawyers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHpGV0l6eTJkRDdzV0VtWnZ0bS1CZVh1dVFpREJJZlVvVmJXSFlKVmhmc2NBVmFXYUppOThVSDhjLVllMk5neFB3TElFTS1FX2ktLWN3Z2gyTkZhOWQyd3IzdGlsazd6Rkp1dDB4enBiTVRSalc5S0RqX1o3RjhlQnF0dkdNbXliVndaeURhVURHVXRwRzZCeVRwdkJ1eDVyejdzb0hDRGM?oc=5",
-      "date": "2026-05-12T17:42:07+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "lkhYEQYm8/sW",
       "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-      "summary": "The company named Open Doors Partners, Unicorns Exchange, Pachamama Capital, Lionheart Ventures, Hiive, Forge Global, Sydecar and Upmarket as companies that are not authorized to provide access to buy",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
       "link": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
       "date": "2026-05-12T17:36:34+00:00",
       "source": "TechCrunch",
@@ -209,10 +341,10 @@
       "articleLang": "en"
     },
     {
-      "id": "J5izRpBpZ+n9",
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "summary": "Gemini Intelligence will also include Gboard based dictation and form filling capabilities",
-      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
+      "id": "Tu/jueoc4LbW",
+      "title": "Google adds Gemini-powered dictation to Gboard, which could be bad news for dictation startups",
+      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones.",
+      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
       "date": "2026-05-12T17:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -221,9 +353,9 @@
       "articleLang": "en"
     },
     {
-      "id": "zQF1VHcM3SkO",
-      "title": "The AI legal services industry is heating up. Anthropic is getting in on the action.",
-      "summary": "As the AI legal services industry heats up, Anthropic is launching its own suite of features designed to assist law firms.",
+      "id": "BCJKOGb8nkeB",
+      "title": "The AI legal services industry is heating up — Anthropic is getting in on the action",
+      "summary": "Anthropic's new tools are designed to help law firms automate specific clerical functions — things like document search and review, case law resources, deposition prep, document drafting, and other re",
       "link": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
       "date": "2026-05-12T17:00:00+00:00",
       "source": "TechCrunch",
@@ -233,10 +365,10 @@
       "articleLang": "en"
     },
     {
-      "id": "S+9qN+wMeoSl",
-      "title": "Google adds Gemini-powered Dictation to Gboard, which could be bad news for dictation startups",
-      "summary": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones",
-      "link": "https://techcrunch.com/2026/05/12/google-adds-gemini-powered-dictation-to-gboard-which-could-be-bad-news-for-dictation-startups/",
+      "id": "J5izRpBpZ+n9",
+      "title": "Google brings agentic AI and vibe-coded widgets to Android",
+      "summary": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities.",
+      "link": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
       "date": "2026-05-12T17:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -377,18 +509,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FHFvmm0PdA9b",
-      "title": "Investors say they want Trump and Xi to stay out of AI's way - Reuters",
-      "summary": "Investors say they want Trump and Xi to stay out of AI's way&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObFB6YVhTbkxmMkJ3c01WSUx6cTMzcFlRQnlIZlFrbWlrRm9TM3hHR3dveWduRkQzbTY3eFNEN1Jmb3NjV3RBUDE3S281ZjAweVdVZG9HYW9FRzBHdm41OUVXU3VOWlZBa1ZENUFjTldhNURYTUhGWHE0YWNRazM3YTFUaUxGTUhKRHdjd1FLbjE3VnQySF9CZlJtYWszdw?oc=5",
-      "date": "2026-05-12T13:54:45+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "KyALHDKbXaCl",
       "title": "Dessn raises $6M for its production-focused design tool",
       "summary": "A new startup called Dessn has raised $6 million to build AI-powered design tools that work directly with production codebases.",
@@ -466,18 +586,6 @@
       "summary": "Germany's finance watchdog to make targeted inspections amid 'substantial' AI risks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeEhpZl8xMHZZcFJVX0FtR3NaMnJMN1diZElrZ3VOU0JTYUFOcDk5aWJMUE5oWEVxQmpQSWtIcXpvcV9lTG4tYWliVTliNkZ0RS1EaHBxNU9ON2dBS2VMdWxiSlZ5bXllLUtHYThjck5KLXVjOHlyOHdzZHZZdmNxQWhuN2gxRFFPYmpQM3VDS3VLMVBGN0x5UkFoZDVienRfaUNzQ0Y3RGZnMU8ydlZhRnJURnpyZzcwX3BN?oc=5",
       "date": "2026-05-12T08:04:16+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Z5ImKvu2zJ6E",
-      "title": "India's IT shares near three‑year low as OpenAI move revives AI fears - Reuters",
-      "summary": "India's IT shares near three‑year low as OpenAI move revives AI fears&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVl0Yk5LWnc2MWx0TWtBbjh3Tnpwak1IZlE3NVpfZ01vVFg0bkpYZWowWGEyeFMxdWI1RjdIVFhpc0haVk9CTC1KdzM5R1lWWVdaMGJlb3gyOGZwbHh3VHNTX2tWYXZNQ2FvLVBmQlJCcXR6RW5NTXB6VkNnOWUxck1fNU9vbGp2d3NBaDlmLXExYlhrWHQ3UWR4WHFudW41NFFGQ0JPUktQOERSNzVQM0R2Qnpfc2ZsalB5SWd3?oc=5",
-      "date": "2026-05-12T05:42:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -601,18 +709,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KCG5q6hQs7gv",
-      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-      "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according t",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
-      "date": "2026-05-11T22:19:15+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -749,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zxrWlZD81Inb",
-      "title": "Google stopped a zero-day hack that it says was developed with AI",
-      "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor",
-      "link": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
-      "date": "2026-05-11T16:09:42+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "CIy7/jQ44rJU",
       "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
       "summary": "Criminal groups and state-linked actors appear to be using commercial models to refine and scale up attacksBusiness live – latest updatesIn just three months, AI-powered hacking has gone from a nascen",
@@ -891,18 +975,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "u+qOYrLWhgWE",
-      "title": "“ChatGPT以後”に公開のWebサイト、35％がAI生成に？　米スタンフォード大などが調査　広まる「不自然に明るい文章」",
-      "summary": "英インペリアル・カレッジ・ロンドンや米国の非営利団体Internet Archive、米スタンフォード大学に所属する研究者らが発表した論文「The Impact of AI-Generated Text on the Internet」は、インターネット上のAI生成テキストの割合と、それがもたらす真の影響を明らかにした研究報告だ。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/11/news027.html",
-      "date": "2026-05-11T03:50:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "Dmxrb0Rk8wdU",
@@ -1037,30 +1109,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hiTMdrepwb/E",
-      "title": "Voice AI in India is hard — Wispr Flow is betting on it anyway",
-      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
-      "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-      "date": "2026-05-10T02:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KornPi5Yr5UO",
-      "title": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says - Reuters",
-      "summary": "Alibaba to integrate Qwen AI with Taobao, launch agentic shopping, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVk0TDBSTlAtY3Bib0xTcHBRb1FLOVg2UXFKd3JjZWlWRURvUThTSFp4YWkzaXliRDhwOExpWDdUNjB6VlVsc0pIV2YtVkpzR0k4RmRNYWRpRUZIeGU5WWVoYVhsc3pKVTZ6eDVGVjVKdk5JQlZFMEl5NVk3eENkekVBSGxZUExCQXVkdUtOVGdCeHlGV2lpVC1fekU1UEk2T0FGOGtreGxPNlAyWm41LXhhb3ZVMHFIMXU1WlpidEQ2ZFJlX2xN?oc=5",
-      "date": "2026-05-10T01:44:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xihSlZXNKTN3",
       "title": "China’s AI drive seen widening wealth gap, testing ‘common prosperity’ push - South China Morning Post",
       "summary": "China’s AI drive seen widening wealth gap, testing ‘common prosperity’ push&nbsp;&nbsp;South China Morning Post",
@@ -1097,18 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TJWOnByICLet",
-      "title": "AI will make language barriers disappear – and diminish our understanding of other cultures",
-      "summary": "Machines may soon translate every conversation flawlessly. But language is more than information – it is curiosity, intimacy and cultural discoveryOne of my earliest assignments as a young interpreter",
-      "link": "https://www.theguardian.com/world/commentisfree/2026/may/09/ai-interpretation-diego-marani",
-      "date": "2026-05-09T04:00:47+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "4+mCS+xGG9Lp",
       "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "summary": "In the second week of the landmark trial between Elon Musk and OpenAI, Musk’s motivations for bringing the suit were under scrutiny. Last week, Musk took the stand, alleging that OpenAI CEO Sam Altman",
@@ -1133,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "lqcZ4obMVBtZ",
-      "title": "AI-powered surveillance company Palantir created a chore coat. Great, now I have no choice but to burn mine | Van Badham",
-      "summary": "The gentle French garment is now as cursed as the infamous megacorp, which has accumulated $80m in government contracts in Australia alone It’s taken me years to find a chore coat with a cut that flat",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/may/08/palantir-chore-coat-jacket-merch",
-      "date": "2026-05-08T15:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "3Aijo5Mq7o0r",
       "title": "Nick Bostrom Has a Plan for Humanity’s ‘Big Retirement’",
       "summary": "The philosopher thinks humans should pursue advanced AI and the promise of a “solved world.”",
@@ -1166,18 +1190,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6rbRCR/pDtVS",
-      "title": "White House calls Mark Hamill ‘sick’ for posting AI image of Trump in a grave",
-      "summary": "Star Wars actor later deleted post and apologized, saying president should live ‘long enough to be held accountable’The White House has branded Star Wars actor Mark Hamill “a sick individual” after an",
-      "link": "https://www.theguardian.com/us-news/2026/may/08/white-house-mark-hamill-ai-trump-picture-grave-post",
-      "date": "2026-05-08T14:04:19+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1241,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "N4qruvzt89Em",
-      "title": "Musk v. Altman Evidence Shows What Microsoft Executives Thought of OpenAI",
-      "summary": "Leaders at the tech giant were skeptical of OpenAI—but wary of pushing it into the arms of Amazon, according to emails dating back to 2018.",
-      "link": "https://www.wired.com/story/microsoft-executives-discuss-openai-sam-altman-2018/",
-      "date": "2026-05-08T01:42:14+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "5Ba3zHiQjnTV",
       "title": "EU countries, lawmakers clinch provisional deal on watered-down AI rules - Reuters",
       "summary": "EU countries, lawmakers clinch provisional deal on watered-down AI rules&nbsp;&nbsp;Reuters",
@@ -1262,30 +1262,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "hr35NltD+ne4",
-      "title": "Trump Pivots on AI Regulation, Worker Ousted by DOGE Runs for Office, and Hantavirus Explained",
-      "summary": "Today on Uncanny Valley, we’re diving into recent reports that the Trump administration is considering an executive order that would establish some sort of federal oversight over new AI models.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trump-pivots-ai-regulation-worker-ousted-by-doge-runs-for-office-hantavirus-explained/",
-      "date": "2026-05-07T21:37:20+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6YhmbZj5DTny",
-      "title": "How to Disable Google's Gemini in Chrome",
-      "summary": "Chrome users were caught off guard by a 4-GB Google AI model baked into Chrome, sparking privacy concerns. The good news: You can easily uninstall it. The bad? You might not want to.",
-      "link": "https://www.wired.com/story/you-can-disable-gemini-in-chrome-if-its-freaking-you-out/",
-      "date": "2026-05-07T20:31:57+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1304,7 +1280,7 @@
       "id": "koQykB8GeZ8C",
       "title": "Kimi developer Moonshot AI valued at US$20b as it navigates new IPO rules - South China Morning Post",
       "summary": "Kimi developer Moonshot AI valued at US$20b as it navigates new IPO rules&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVkyMjI5RUt6SFJ3S2loTDhfRjdVaVFpeFpNRjZNWTk1SG9nR21JTUNJcnByaFZfOFlhV3hSVFBxb3hJT0RwQUR4M3BsWjFYaXJZLXdldW1ONzA3b3FNbjV1WVcxRUMwQzM4dEo3UU9pcXZHWUpnLXJCNlgydjBxaldFcWI2SWlzVW1QMWppWktkcGZURUdlZmFzQnNUMFVvbXJrNVNZMWcwcDktVFhvS3JtR3lPZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNVkyMjI5RUt6SFJ3S2loTDhfRjdVaVFpeFpNRjZNWTk1SG9nR21JTUNJcnByaFZfOFlhV3hSVFBxb3hJT0RwQUR4M3BsWjFYaXJZLXdldW1ONzA3b3FNbjV1WVcxRUMwQzM4dEo3UU9pcXZHWUpnLXJCNlgydjBxaldFcWI2SWlzVW1QMWppWktkcGZURUdlZmFzQnNUMFVvbXJrNVNZMWcwcDktVFhvS3JtR3lPZ9IBtgFBVV95cUxPM21FU1ZRbk82MDJWbnlyUzlJYXJqVlhJWk9fUEJrYjV5MkYwNWZkQndyNlp0cHBqRHBQTUFkeEVOOHhTTTBncnVmVVZDSmd6T1FCVHBwOWFoa1hYOEdVa3ZLVmJXZWU3ajB5Nlp0NGp0eC1BTXRkaFdjSUV2Rk9ITkVRQ3BkQmp2eWluVzZZZEs3aEtSaGFyaXhuMy13aEtJRC1xckFrbE5XTm5pTGpISmRfZklNUQ?oc=5",
       "date": "2026-05-07T10:27:37+00:00",
       "source": "SCMP",
       "key": "scmp",
