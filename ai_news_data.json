@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-16T13:20:17.444082+00:00",
-  "articleCount": 102,
+  "generated": "2026-05-16T19:03:29.279211+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "v6uVeeltVyNU",
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "date": "2026-05-16T18:54:28+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "4vUKi/+G272n",
+      "title": "John Lennon: The Last Interview review – Soderbergh imagines there’s no people with bland AI clipshow",
+      "summary": "Cannes film festival: Succession of pointless AI-generated snippets does nothing for film about the artist’s final interview, which took place on the day of his murderComing just after his superb feat",
+      "link": "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
+      "date": "2026-05-16T16:36:08+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "WlbxzlQtvjkI",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu",
+      "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "date": "2026-05-16T15:37:05+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YTIJE56st5mw",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "date": "2026-05-16T15:33:33+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "Zi/DiINDD7uh",
       "title": "Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi",
@@ -74,6 +122,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "zjvd10RQ3rCL",
+      "title": "Is AI adoption causing ‘utilitarian’ employers to reduce entry-level hiring? - South China Morning Post",
+      "summary": "Is AI adoption causing ‘utilitarian’ employers to reduce entry-level hiring?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb3ZFZkVqc2t2YktOOC10VThvVkpSVmVLOFo2Ykowa3RTV2p3LThhQmJCcVgyT1JCM0tPR0cxVnlyNFRmTnpuQml2b3R6VFFfdFBrMHB0eGtDeWgybmNzdEdPUUxXQjctVDhMcl9rR24zbVdxNUJjaEdZU1pNamRyNGM1anB2NnY3NGRiT2xJbkxhUVNFcWl4LS1pckNWX3ZMLUpieTFXdDRSY1MzaFV0TzRwLXpIT0tEWjlsNlgxanBmRmE2bzF0eHlYTkdub3lLRzJZ0gHTAUFVX3lxTFBZLTBtVllzMS1Hb1U0VWRjX3FXSjRjUU1SWGpMUVkwUlIzMGRPQ3NZbjhrRjBUOExLN19nYTlFUWxocXFwRmg1NmVxcUNlY1VKdWl5ZnpLXzdPbVQ3YUVMRUpoNUI0b2JfZE9Ta1UzVTdTenoxQ1ZDOGRRdVpkWm0yTGpIUHY5cWVXTXZoVm03Szl2Vmt5LTNxamh3dnkxLXp1N3FyZy1SVjQ4R2NtdEdLdGctWUk3SGYyZllyN1VmXzgzTVZOVURoVlRKTkhsalZ6Rm8?oc=5",
+      "date": "2026-05-16T11:40:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -101,8 +161,8 @@
       "articleLang": "en"
     },
     {
-      "id": "ekXyE5VNU/0u",
-      "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "id": "XC6N8oXzUMzq",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involv",
       "link": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
       "date": "2026-05-15T23:39:35+00:00",
@@ -254,18 +314,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "uHmSqt70dCER",
-      "title": "Motor vehicles, AI boost US manufacturing production; supply shortages from war loom - Reuters",
-      "summary": "Motor vehicles, AI boost US manufacturing production; supply shortages from war loom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUg5c1lEVzkzQ25QWGNwLXFLZGFydTR3T2NMSkVJdllZQVN5Wk9SY1BNOURCaVdHUlNMRk1GSExnY0lJTExSUjQ3UzVyRWE3TGFNdVlFSEJ4XzczNUVjV2FKMmk3bjBGbldDdnhmRGlQclo2NE94dlZKeFR0cVlTcDJkei1nUGpJR0JnT19JWEJnX2t4U3R5RGEwMi1Wa2lFYUJCdE9Oa1Z2NGJEQjR0dWh6ZTZjRVpuampZRmhQYmU?oc=5",
-      "date": "2026-05-15T16:04:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -869,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "XEQEpR3rnuhd",
-      "title": "Notion just turned its workspace into a hub for AI agents",
-      "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
-      "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
-      "date": "2026-05-13T21:45:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "dbmpFZtp5W1i",
       "title": "Exclusive: Microsoft eyeing startup deals for life after OpenAI - Reuters",
       "summary": "Exclusive: Microsoft eyeing startup deals for life after OpenAI&nbsp;&nbsp;Reuters",
@@ -953,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "yMNJFoSRyT94",
-      "title": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals - Reuters",
-      "summary": "Tower Semi forecasts upbeat quarterly revenue, signs $1.3 billion in AI chip deals&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM0ZvbkdXaHJ2UTMxa29TdHpIOTdOMnJOWEI3TVV6OEpKNzlqRk1Lb01FRENKX0MyTHdSQ3l2SUVNNXBPMXoxTWNnNk9RQVZSV2ltUVBLSGVlZzRmZzdmYVMxMmlKdTVWUTd2YlFXaEZEdVFNN2VmSnYtVVRHcWdiaXFLSFFPSXM3OUhFUzV4UXdwY2hTOUFUWloyNzVLMzlrNDloNGJrRlktcDBKeTF0SmxiYzNhV2QtaE9Lbjd3?oc=5",
-      "date": "2026-05-13T13:41:30+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "rJkNtGlwbavc",
       "title": "Alibaba CEO signals capex boost as China tech giant forges full-stack AI path - South China Morning Post",
       "summary": "Alibaba CEO signals capex boost as China tech giant forges full-stack AI path&nbsp;&nbsp;South China Morning Post",
@@ -994,6 +1018,18 @@
       "summary": "Tech rivalry, distrust sap summit hopes for Trump-Xi AI push&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUJtM1JTcTFZOC11QVp1OU83REJBV2FzMzZTRVZSSk9Ia3JfSTlSY3lVVklWYzE4ZlVLQkMxR3AzMTFVeFc0SEhTOFlzbjRaNjluWWlsMnFpbUprNnEwYVQ0QWwzanRHbXlmeXQ1OGJSWGgwMU1FMWxOeFBOa3BoSzNpYkFaWkl3NnJEWk1Id0ZUbmRFVGJDOTJjbmhOS1MwXzFsY3R3?oc=5",
       "date": "2026-05-13T07:40:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "hAdjckYuDO/Y",
+      "title": "Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says - Reuters",
+      "summary": "Japan megabanks to gain access to Anthropic's Mythos in about two weeks, source says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHQ4Z3NVSjVBeURnYUtKbFhVVmJTQkd0cWpwX0ozZmRiZVY0UHRQckJPbzJlcDVNUGVvbGg3T2xlODJic3JmVXdEZndRc2puUDFPUlZNbDNlTzhpVE1mRU1ReVlYcGcxTGZlTXZxcnNPbTNoT2pRR3E0NWpyd3lLRFFaY0hyQWhId1R2dnFfTFlMazlEbzhFRnREMlhhVm5odGRoTWphTDhxNkdQaXdmMVBKV3VhX0tQand0cw?oc=5",
+      "date": "2026-05-13T05:30:20+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1049,9 +1085,9 @@
       "articleLang": "en"
     },
     {
-      "id": "4GbT1K1U2ypN",
-      "title": "OpenAI boss Sam Altman says Musk wanted control of company - DW.com",
-      "summary": "OpenAI boss Sam Altman says Musk wanted control of company&nbsp;&nbsp;DW.com",
+      "id": "M4fHcBfAno7d",
+      "title": "OpenAI boss Sam Altman says Musk wanted control of company - dw.com",
+      "summary": "OpenAI boss Sam Altman says Musk wanted control of company&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWRhYjhiZDhzNDd2aUlHSjNFdXNNcFkzV0tqb2pYbVVGWEphZEV4RTU3MmJmdjd6RHE3OUkzNktDNm9fUlZKaTFEX0VQTHpwMEItVHE1MVNZRThfMVdWazI3aXBOUFg5SW5ETnVzMW4zWXRh0gF0QVVfeXFMT2VSUVZ2elZrQWxXbzRGX3NnLVd1bjZOdWw5UHZWY1JMQzJVU2FSSnlxUG1KNmZPWktlbDVEUk1nWXdrUGRubEphMXMtZXlsR1otbm1zVFA3YVF5SE9USzN6cU42Z2JxMWRVT21LcUFHQndicDk?oc=5",
       "date": "2026-05-12T23:32:36+00:00",
       "source": "DW Tech",
@@ -1145,30 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FCcX1/Wkgl7b",
-      "title": "Google announces raft of free upgrades for Android phones",
-      "summary": "Tech firm to expand AI capabilities of high-end devices with Gemini Intelligence and says new range of laptops on the wayGoogle has announced a range of features coming to Android phones this year, in",
-      "link": "https://www.theguardian.com/technology/2026/may/12/google-upgrades-gemini-intelligence-android-phones",
-      "date": "2026-05-12T17:00:05+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Vhyb1FQE1C9S",
-      "title": "AI has cut my pay as a memoir writer in half | Letter",
-      "summary": "Using a large language model instead of me to write and then getting me to edit the result is a cynical way for my employer to cut my fee in half, says a freelance writerIn response to your article (‘",
-      "link": "https://www.theguardian.com/books/2026/may/12/ai-has-cut-my-pay-as-a-memoir-writer-in-half",
-      "date": "2026-05-12T16:31:13+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "mdYk0/hdgBjh",
       "title": "South Korea official floats AI profit social tax as tech giants boom - France 24",
       "summary": "South Korea official floats AI profit social tax as tech giants boom&nbsp;&nbsp;France 24",
@@ -1229,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "t2mU00/vnm0C",
-      "title": "Trading Day: AI beats Iran impasse - Reuters",
-      "summary": "Trading Day: AI beats Iran impasse&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNGtMTURYWC1ZdW14ejRtTWZNUmJvZXhJSS1rc21FSFpYM3RnZVNBbFg1S1hwWjdZZm1CWmsyNkl4dHhCWWtuVFo2ekR6MEFESHRjQl9DUGN5UG1vUVdLNUgtWVBZTjdsSXJRYUs1N3FzMlJ2bWY0OTRJOTlwREpEVGVvUGNVTm01WGtZMS1CTzRTaHg3MnN5UzVYUXFMaFN2WkFlNnpB?oc=5",
-      "date": "2026-05-11T21:04:03+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "61raYGDIGM2k",
       "title": "China deepens footprint at AI conference despite NeurIPS dispute, US tensions - South China Morning Post",
       "summary": "China deepens footprint at AI conference despite NeurIPS dispute, US tensions&nbsp;&nbsp;South China Morning Post",
@@ -1270,18 +1270,6 @@
       "summary": "China ranks third in global index for AI competitiveness in life sciences&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeXBVUWV4SVBoM0puTzhPa0ppZEJ3aEhTLXFKSV9qXzU2XzdTX0tuaC1qeC1fSkZHeDc2WWVPMl9MTHlrbGlKRkhrR0VhS3FJRFBWcEktUDI4WkJUb0ZwTXRUZVFIWHQxRjk5X2xaTW45aEFzd05NWVp4SzRjU2wzWFUzQzhQXy1ZaldqcUo1U0hhZlc5VGNZTjFWZVNUaGk3WF9neU9DeFJFQWJtbTkwX2JDc3XSAbQBQVVfeXFMTk9DNmdDU210VFo0cHJJZ0tqOHRDRVNHUHlERFplb1cyLUc4V0g0S3JrSGQ4dHJJaGpPbVRtZWU1TGZYLUZGSEVicU12OG9mOVNHZnNOVGpFWHEyU2FMX2d0RWRrT2IzbjNNZ08tWU1JVEFoaThjejRJTzNnLTEweUxOb0JBVXpyRmgtZVpqYWFia25taUVnbGlMZjBJR01TLWkxMU5lTHBOcklPY21heWVIYXJp?oc=5",
       "date": "2026-05-11T07:00:26+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "xv3hWNjs7Z6g",
-      "title": "Could military AI use be on the agenda when Chinese and US leaders meet? - South China Morning Post",
-      "summary": "Could military AI use be on the agenda when Chinese and US leaders meet?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTY3UDh1Z3IweW5qTkQ0WnpXamxhcVU5SnE4bmRQVFEwUEhEWTlZaHFJazZ4NE55cFM4blM2UmFCS2ZQYWF5WjVJSGpqQmRBRmZlb0RPaDNyM3VxRVB5cnVqMHNUYUg4bkhHMWIzX3dhVTVtbjJFbldHLXBHYzIwZ04ycmRNSHg5dm1XaU9BWmxaRFJ3OHdpcmNqQVd0MDQ3d3pfeDRsWmZkOTZuYnl6UFZ0MWNycDA5T2k4b1l30gG-AUFVX3lxTFBWWWZ6cnNOZWtTb0tXcU5lNGhSVUpOSjBfT0N5aGJiUVVkQlRCelg5dFBVazVfYkNZTmxfZDJkZ2g0WUVlN0pVQ2dxMktFZWNEYVJOT3BwS3lFMFBYb2NQcF9uMU5yaXFVdEtmZWh5TWlqZDEzSlFaMDBibWVRcXhFRXFwTFhuNE92S3UtbE1uS3N3MFN0VHE1NTBoUl9Hb3dfN08xQTloeFhiS3dyX1A4aVMzTnNkdWFJaVNlZnc?oc=5",
-      "date": "2026-05-10T14:00:07+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
