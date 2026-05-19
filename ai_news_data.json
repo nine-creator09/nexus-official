@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-19T15:18:55.469488+00:00",
-  "articleCount": 113,
+  "generated": "2026-05-19T19:50:51.519371+00:00",
+  "articleCount": 118,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
@@ -24,19 +24,19 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 18
     },
     "france24": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "scmp": {
       "status": "ok",
-      "count": 22
+      "count": 23
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,464 @@
   },
   "articles": [
     {
-      "id": "lyKrh1STjer8",
-      "title": "Former OpenAI Staffers Warn xAI's Poor Safety Record Could Complicate SpaceX’s IPO",
+      "id": "DWQxTnRdMnAT",
+      "title": "‘Obvious markers of AI’: doubts raised over winner of short story prize",
+      "summary": "Granta publisher says ‘perhaps we never will know’ true authorship of work that won Commonwealth prize A few syntactical tics – and the verdict of an AI detection platform – have sparked furore over t",
+      "link": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
+      "date": "2026-05-19T19:25:56+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "fJhfCQEGqaU3",
+      "title": "Google courts coders and consumers at I/O conference, touts cheaper AI model for enterprises - Reuters",
+      "summary": "Google courts coders and consumers at I/O conference, touts cheaper AI model for enterprises&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN19sbjlMV3dlaF9JelRyeDdycTA4U1FsZTVucnhhLTVZUUZtZzYzczBXeHd3N1BvTzNXS3NQVFFGUTVDem5tMzBqNU1MblZGaDc2TC1UWTA3SXdzYmY1bDAzY2VZTWtybkl1SVlnVlVMdzNkSElUZFJWM3M5WFppNmhCMTliMXNZekh4UzdVMlBjTkI0YWtxRU43WjRSZw?oc=5",
+      "date": "2026-05-19T19:20:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "GbjwhhjZVcDn",
+      "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+      "summary": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini.",
+      "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+      "date": "2026-05-19T19:15:31+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pFf9ubBR6y1F",
+      "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
+      "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
+      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
+      "date": "2026-05-19T18:38:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Nnml4cV9qwsX",
+      "title": "Gemini will use Volvo’s external cameras to interpret parking signs",
+      "summary": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SU",
+      "link": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+      "date": "2026-05-19T18:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XvlfrwY/UUJm",
+      "title": "The 13 biggest announcements at Google I/O 2026",
+      "summary": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura sm",
+      "link": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
+      "date": "2026-05-19T17:54:33+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "TKnq8M3Sx4tw",
+      "title": "Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’",
+      "summary": "Some employees will be moved to new teams focused on AI agents and cloud infrastructureAs Meta races to recenter itself around artificial intelligence, the tech giant is mandating that more than 7,000",
+      "link": "https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers",
+      "date": "2026-05-19T17:51:53+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "OF7uTc+88c74",
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "summary": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so",
+      "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "date": "2026-05-19T17:51:30+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YwNpgGmLgifj",
+      "title": "How to use Google’s new information agents",
+      "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+      "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "date": "2026-05-19T17:50:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ptcle93ctAmr",
+      "title": "Google wants to compete with Anthropic’s Mythos",
+      "summary": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l",
+      "link": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
+      "date": "2026-05-19T17:48:22+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "W6zJATkNygpu",
+      "title": "Google Search as you know it is over",
+      "summary": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces — a shift that could further reduce t",
+      "link": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "date": "2026-05-19T17:46:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "3V1m1qo6OzCK",
+      "title": "Google can now vibe-code you an Android app",
+      "summary": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for a",
+      "link": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lqjDmdSBYAC8",
+      "title": "Would you let robots spend your money? Google is betting on it",
+      "summary": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across",
+      "link": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "TKyPsPTXzOUL",
+      "title": "Google Search is getting its biggest changes ever",
+      "summary": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated",
+      "link": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "knZZBv41UuUk",
+      "title": "Gmail is going to start talking to you",
+      "summary": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap",
+      "link": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "KajZqgFznCwH",
+      "title": "Google is launching its own version of OpenClaw",
+      "summary": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year. Announced during Google I/O 2026, Gemini Spark is an always-on AI a",
+      "link": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Bv3/8XO9sRZR",
+      "title": "Google Pics is a new app that tries to fix AI image editing",
+      "summary": "Google is launching a new AI image generation app to Workspace that it's calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an en",
+      "link": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9xJYV641iokV",
+      "title": "Google is trying to make deepfake detection more accessible for everyone",
+      "summary": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI",
+      "link": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "34CUcjPsFySJ",
+      "title": "Google’s AI now lets you talk to your Gmail inbox",
+      "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DJDKsQKwIe9O",
+      "title": "Google’s AI Studio now lets anyone build Android apps in minutes",
+      "summary": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development.",
+      "link": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "75g4Qx7fO5tm",
+      "title": "Google’s Gemini Omni turns images, audio, and text into video — and that’s just the start",
+      "summary": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation — starting with Omni Flash.",
+      "link": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pmpJZXhx7CoR",
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "summary": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products.",
+      "link": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7VRZHbs4HuAS",
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "summary": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the  AI Pro plan alongside Antigravity 2.0 launch.",
+      "link": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "3dDLdgcc21Ca",
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "summary": "The updates signal Google’s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot.",
+      "link": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "gAH752eZf/11",
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "summary": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity.",
+      "link": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "KgvW8LHQjGuC",
+      "title": "Google just declared itself a contender in AI design",
+      "summary": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+      "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "gGSGWuJsEwAV",
+      "title": "Agentic app coding gets an upgrade with Google’s release of Android CLI",
+      "summary": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI’s Codex, allowing developers — or their AI assistants — to build And",
+      "link": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "wCwsIcDqg5Xv",
+      "title": "Demis Hassabis Thinks AI Job Cuts Are Dumb",
+      "summary": "The CEO of Google DeepMind tells WIRED that companies should use the productivity gains of AI to do more, not lay people off.",
+      "link": "https://www.wired.com/story/demis-hassabis-ai-layoffs-deepmind-google-io/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BMrQ/9m3uQ9E",
+      "title": "Google Makes It Easy to Deepfake Yourself",
+      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
+      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bYr8KIx0ehOI",
+      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
+      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
+      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Q5PonbF4FKsR",
+      "title": "Gemini Spark Is Google’s Response to OpenClaw’s 24/7 AI Agent",
+      "summary": "Google’s always-running, data-hungry AI agent is designed to spend your money and send your emails.",
+      "link": "https://www.wired.com/story/googles-response-to-openclaws-24-7-ai-agent/",
+      "date": "2026-05-19T17:45:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ixjj7y8hNwNd",
+      "title": "Dangers of putting pupils’ images on school websites | Letters",
+      "summary": "Schools can compromise children’s privacy, exposing them to potential identity fraud, harassment and AI exploitation, says Dr Claire BessantIt was concerning, but sadly unsurprising, to read a Guardia",
+      "link": "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
+      "date": "2026-05-19T16:49:33+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "hxbmOUQP0Pxv",
+      "title": "Musk v Altman: tech bros at war over OpenAI – The Latest",
+      "summary": "A long and bitter legal battle between tech billionaires Elon Musk and Sam Altman has culminated in victory for the OpenAI boss. Musk has vowed to appeal the verdict. But what did the trial reveal abo",
+      "link": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
+      "date": "2026-05-19T16:27:23+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VtWU2Q/OmKRq",
+      "title": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic - Reuters",
+      "summary": "OpenAI co-founder and former Tesla AI executive Karpathy joins Anthropic&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVGY5aXh3VWF5NnFfXzE0ZGlXUlFWMjZZd2Fma0NncENURmhIbWF3SHcwTjhON0E1dGNYS2NBZTJwaTNQUEllSnNDWTk5RmR1dXl4XzlEbkNTRm1PM3h4RklFYnZlYS1yTGdlaW4tSndtN1BXQnJ0TFF5YUJpRnR0dFJfbm1uSjM3VG1kUXpjOHBNUk82WVEwUjFwVHhtWngtQUxtQldJakpUSWFueFRkdzVBX0NsV1ZSSUprcDhFOVRiNjR3OXRvODIzbWpfWFNVQzBlejV1SWtiRjlpMXlF?oc=5",
+      "date": "2026-05-19T16:15:59+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "o1Hl8RZgj+On",
+      "title": "Healthcare AI firm Commure valued at $7 billion, raises $70 million - Reuters",
+      "summary": "Healthcare AI firm Commure valued at $7 billion, raises $70 million&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnA4ZWdrdTJvQy10VFJGRGhEamV0VGs1NlF6dDkzMF91TzdYeDFrM2g5aHVJQnh5NGY3dmlpbi16OEdSLUFRTHJ5cG5RcGhudDUyS3U3QTdkOEVfLUpzS3gxRjF5Y0xDaEZSZ25BLUhab3l6dFBxcnpDYXItaDdSMFlFZnNEOHYyZ3NOQnpnbEtpa1Z0cnlFeHdpQkQ3RXBkU2hGdFRYRWFNTzktUC02U01MZjdidXRqWUFLOUIwakJnV1BacmZ5RVdBNDhEUQ?oc=5",
+      "date": "2026-05-19T15:56:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4OKijAm1ZXoM",
+      "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+      "summary": "Pre-training is responsible for the large-scale training runs that give Claude its core knowledge and capabilities, according to the company. It's also one of the most expensive, compute-intensive pha",
+      "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+      "date": "2026-05-19T15:43:04+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XECRLdFCKNc/",
+      "title": "US software stocks rebound, seeking to loosen AI's grip - Reuters",
+      "summary": "US software stocks rebound, seeking to loosen AI's grip&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVExmQ2Fjc0VpRVpaMGh0cnVtN3VSVVk3NUs2bl9kc3Y4aTV2OWY4QzZUcjhWOXdvXzBPX0pIRE5HbExuQVVBQjR2bVV1Z0dZNHhDUGVDOHc2LUpEeWFuczFEdmNrbmdiU3Y0X1JfbTBjamNWQkhEc0Zzb00zUUt0cy13Sjdfd0pqUnZpYi1HeWUyQ05OcU9zc2hVOUd4MHBQRXBqMDlmS0xfRDg?oc=5",
+      "date": "2026-05-19T15:41:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "p1LAWRIjX+Dk",
+      "title": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters",
+      "summary": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXJQZk93RWZSZTBqb1VETW85REtQeE5ycmdtZXMxUnFXejBxMnFfNjJxM21PZHRxWHdLWXM0a0tMU2x6Tk9qYmNNU1dzdl9pUHZEaE5yT1pPb2dSWXRpVUk1ejAzRzRORlg4S2RWUGdxdy02V3pSUDloaUZuXzhLV1IzNHpyd3hBTjUtdDBSc2R4WGJVNUhURGxxNndpMWlLbE8wOW1iWkZJMmFrYmwwUS0weVU1UFBjRHc?oc=5",
+      "date": "2026-05-19T15:38:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "hHEr3gBAXs/+",
+      "title": "Former OpenAI Staffers Warn That xAI’s Poor Safety Record Could Complicate SpaceX’s IPO",
       "summary": "The ex-employees, who cofounded a new AI watchdog group, say investors deserve more information about xAI’s safety practices before SpaceX goes public.",
       "link": "https://www.wired.com/story/ex-openai-staffers-warn-spacex-investors-of-ai-safety-risks/",
       "date": "2026-05-19T15:00:28+00:00",
@@ -81,7 +537,7 @@
       "title": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation - Reuters",
       "summary": "Musk's failed court attack on OpenAI could leave lasting scars on Altman's reputation&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObXNuQ2V6WndSRFJ5QURnaUpudHRZYUREU0VTU1BPeTVPdEo2NVdZcHRyUXhjX3pVOXl6Z1MxQTlWa3Q4bDZhSXhqMm9vaVd6N1l1bWV0RlBiSGZta3JhcS1QS0JKWkVHMnlZVlQxanJxVF84SzluVE9Fdy1FenZ5TUJjVDBQQ01ZUklJcGx0b1FFQjJDTEVEeWZQVmxVTFFUNkxHaGxLZGhvbGlMNmVPcTFjbkVHM241WFBBMF8wTFlYMVJUa0E?oc=5",
-      "date": "2026-05-19T14:28:32+00:00",
+      "date": "2026-05-19T14:47:53+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -94,6 +550,18 @@
       "summary": "Workday to keep expanding Indian workforce, deepen AI investments, executive says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0VzNWdWTXVZempITlBHdXBxel9PNlpnblAtMDlvR3pEZ0VNSmtILWlfSWRUZHpNWlU4SGJQWmFiSGNRcWh1VGJXUUhQdWRiZGpDTk9ITExmUzNTY1o1VlJwRGZtZlJJel9CTlZTWW1VWlotZHJEcXU5TDYyU05IQTQ4NHU5STd3UnJvNHRqRjJRS0ZwN1NtVGowR00xcnQta1p6RkNwSEM0bWJOZmFPbGpKMlp4UElObF80Y1NHR1dsZlBTZTFLOGc1WnhyZl9F?oc=5",
       "date": "2026-05-19T12:48:06+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "c4gKqAT+5KkP",
+      "title": "Nvidia's outlook will be a test of its strategy to maintain AI dominance - Reuters",
+      "summary": "Nvidia's outlook will be a test of its strategy to maintain AI dominance&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORno4d3JQVFhGOVU4Y3BRZ0w0eU1wc1lfWHNCZVVDQjdiakJmRlBtZW9hT1RMY01lMjdkMFRneUZGZXNIMFdQRUVuMnQ3WWJYcS1fOHVTWTBMelJ6MnhKQkpDYWFnVzdBT0JtVzBfY1dKNVRlbzk2LXdHOTh3OUZzOWNMVWR1MzJrMm9CRm5IQXdOa0l3YUg4eXdHb2lmSHhOdUxCbFRNbFlSeXdmOW5IOA?oc=5",
+      "date": "2026-05-19T12:43:30+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -127,7 +595,7 @@
     {
       "id": "UK0ShIxNkGjl",
       "title": "Billionaires are trying to lull us into AI complacency. Don’t let them | Steven Greenhouse",
-      "summary": "As resistance to data centers grows, Musk and others are painting a rosy picture. But the US must institute protectionsAs Americans grow increasingly worried that AI will wipe out millions of jobs and",
+      "summary": "As resistance to datacenters grows, Musk and others are painting a rosy picture. But the US must institute protectionsAs Americans grow increasingly worried that AI will wipe out millions of jobs and",
       "link": "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance",
       "date": "2026-05-19T12:00:03+00:00",
       "source": "The Guardian AI",
@@ -185,18 +653,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BPB0b2+QWw1s",
-      "title": "Gemini is in danger of going full Copilot",
-      "summary": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy en",
-      "link": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-      "date": "2026-05-19T10:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "LJzdmjWyovsB",
       "title": "Tom Steyer Wants to Save California From Billionaires. But Also Doesn’t Want Them to Leave",
       "summary": "The hedge fund billionaire turned gubernatorial candidate wants to tax California’s ultrawealthy, regulate AI, and keep Silicon Valley happy at the same time. Good luck with that.",
@@ -211,7 +667,7 @@
     {
       "id": "jTxSVj5Wlk/Z",
       "title": "Standard Chartered to cut more than 7,000 jobs as it steps up AI use",
-      "summary": "London-headquartered bank will reduce back-office jobs and aims to move some workers to new rolesBusiness live – latest updatesStandard Chartered plans to cut more than 7,000 jobs over the next four y",
+      "summary": "London-headquartered bank will reduce back-office jobs and aims to move some workers to new rolesStandard Chartered plans to cut more than 7,000 jobs over the next four years as it increasingly uses a",
       "link": "https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london",
       "date": "2026-05-19T09:57:06+00:00",
       "source": "The Guardian AI",
@@ -219,6 +675,30 @@
       "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
+    },
+    {
+      "id": "JuoqDbb7zaMs",
+      "title": "GoogleのAIサブスク、最上位プランを値下げ　月額1万4500円の新プランも",
+      "summary": "Googleが最上位サブスクリプション「Google AI Ultra」を月額3万6400円から3万2000円に値下げ。月額1万4500円の新プランも登場。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000008/",
+      "date": "2026-05-19T09:51:43+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "a60i3JbfzDMY",
+      "title": "Google「Gemini」に個人向けAIエージェント　質問に答えるだけでなく「作業を代替」　まずは米国で",
+      "summary": "米Googleは、自律的にタスクをこなす個人向けAIエージェント「Gemini Spark」を発表した。「質問に答えるアシスタントから、あなたの指示に従って作業を代替するアシスタントに進化する」とアピールする。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000007/",
+      "date": "2026-05-19T09:51:04+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "oR9WeRUhEFIL",
@@ -257,15 +737,15 @@
       "articleLang": "en"
     },
     {
-      "id": "p1LAWRIjX+Dk",
-      "title": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters",
-      "summary": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXJQZk93RWZSZTBqb1VETW85REtQeE5ycmdtZXMxUnFXejBxMnFfNjJxM21PZHRxWHdLWXM0a0tMU2x6Tk9qYmNNU1dzdl9pUHZEaE5yT1pPb2dSWXRpVUk1ejAzRzRORlg4S2RWUGdxdy02V3pSUDloaUZuXzhLV1IzNHpyd3hBTjUtdDBSc2R4WGJVNUhURGxxNndpMWlLbE8wOW1iWkZJMmFrYmwwUS0weVU1UFBjRHc?oc=5",
-      "date": "2026-05-19T06:09:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "G/iZuYDPG/Px",
+      "title": "Chinese premier urges faster, broader adoption of AI in advanced manufacturing - South China Morning Post",
+      "summary": "Chinese premier urges faster, broader adoption of AI in advanced manufacturing&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXdKaHZva0xwTnRnY0E3THZLUl90cXBSQ1pONVZpNV9XME54bUdIZGk2R0R3WWdDMTNOU19KS1cxNnc3U0RfQ3FvY2hkQklhdE81cUlPdktHcS1TbDYwa0NiZTNjN0t5VkVnVV82aDNfM0w4cUc4SkJnNG9fV1JXR29pczhiVzR2OHhNQXV1RjBEbVhnU2hQbTducG0weXdHT09nWEZvenZ2SnFZMTMtaThqTVVnY1FmUEt4bnRFWEtfUzRreTNFZUY1emNJUGdVaUtnQk5aS2s3UdIB2gFBVV95cUxPcHh4Y2dyVURNdkRURHgyZWpzN0djYjdaQVNoZ1RITUxLX2dlVk9SSkh0aWpwQWdTTFFvSEtSMmluT2dqVkg5OTZJdzZ2blFEMmNlUDVZaGFVdTZqWlpXLXYzelZRRkhKRUFqZWpwREhPaTFZb0xDTTFkOS1JSVJ3a01NN0tiZ1llaDUzdWdJTFNaQ2x3eGRLT1RweFlucXdrOWxSVFJJdUZpSUFhSTR6NFpEX1gtZ3p0eERFbmdHaTl2Yy1vQnFIakQyNzl4Q21zSzhZM0c1Wk43dw?oc=5",
+      "date": "2026-05-19T08:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -353,30 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+C5Vk+xdilIy",
-      "title": "Anthropic to let partners share Mythos cybersecurity findings with others - Reuters",
-      "summary": "Anthropic to let partners share Mythos cybersecurity findings with others&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTU1iLXNwcmo0aHRLMlJvcW9NamNLbENsRUphbW50cWthNFBjS3Y3dHJ4MlpmWWJhVzhIUk5kOGdla3d2cDlLVW95WTQtREk0X0tIZVFkWmxNQ2p2ODBqX3RDci1VcXZJYi1XNm9HaGNxb2d3VEFka2I1YjUwSTJMSHR6MjN1T3VUYWZtYVZodGRwQktDc0RyVkZPLXFZZ3hQVGcyclR1MWVlcW94Q2lYU1Rfc1VpVllv?oc=5",
-      "date": "2026-05-18T22:30:42+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "RuhfKo82oQ8r",
-      "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters",
-      "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
-      "date": "2026-05-18T22:23:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "IV2WhscUK6Yt",
       "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
       "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
@@ -422,18 +878,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "BMQWHgVg+cRC",
-      "title": "Key moments in the Musk vs OpenAI trial - Reuters",
-      "summary": "Key moments in the Musk vs OpenAI trial&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWJ6QW5FVXU1UzdpOExwU1JPTmREQ3JvSVB0TDlQbUdtcGNNZ3cyUldHVEw2c2hXRlZ0SHFMQ1lxUTM0UlUxOXZuWHpOYkNUbl82UlNJTWxyOGd0R0M4SzYtQVR2aDU4T3FMenl2bkpKV2pQLVpDTXFxNC1feUdObHc4UDBhcnp6eFZLMTZB?oc=5",
-      "date": "2026-05-18T20:03:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -485,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VTCAuT6XQYaJ",
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "summary": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "date": "2026-05-18T19:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "U2SClRb94w68",
       "title": "Tech firms face tougher UK rules on intimate image abuse",
       "summary": "Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girlsSocial media, messaging platforms and online forums that publish intimate image abuse",
@@ -506,18 +938,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "VO5+v2MKGZj+",
-      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
-      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
-      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "date": "2026-05-18T17:49:49+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -581,15 +1001,15 @@
       "articleLang": "en"
     },
     {
-      "id": "1s2Zz5LE97MW",
-      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-      "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an",
-      "link": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
-      "date": "2026-05-18T15:55:25+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "7Q9JMNzlPG7g",
+      "title": "Global centres in India slow hiring as AI reshapes work, ANSR CEO says - Reuters",
+      "summary": "Global centres in India slow hiring as AI reshapes work, ANSR CEO says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHJuRUE5U1lDaFhsMVdfbVd0NUplb1MtazhjWDJEUmhtdlRaUW1na0JDdzJuay1TWk9PZ1o4RE9VdVhjSzhEbWR3NUg3eXlQc1pCZzdCUkJjdWhINFg0Y3lwUTJDUFN1ak44QURQc0tWaXQzY0oxck9kTk1zWVZ1OFZBWm9ibHU1MkdIeUtIVW1US0ZMWDFUck9nUFRZSkVoMzFmRi1SZUtPdHo2MkVuY3Z0VExyWXBwbnYzbTlEOA?oc=5",
+      "date": "2026-05-18T15:12:24+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -602,18 +1022,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "80bw8Uf1y4GJ",
-      "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-      "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-      "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "date": "2026-05-18T14:56:47+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -665,18 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "jR27h16e6Mf+",
-      "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms - Reuters",
-      "summary": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVIYTNmN0FtUHgyakFHYkFyTjNpQTJ5TDdzbHJILXl5cWxZU1AtSGF0eUt3VEN4TmlVSTdrRzQxT0twYUtzTnFmb2lNbEE3c292ek9uN1JERTI3b0RIeTN3T1M3X3VlUlVER1lWbUVxcDFfaGJrb2dxNHNyZk9zWlhZTk5MaGs1WHQ5WU14clVKcHdKTmFUSEhma0w4eGpJVWpaSjNIYXQtdw?oc=5",
-      "date": "2026-05-18T11:34:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "S0y53LSdyJRS",
       "title": "The return of Westworld is perfect timing for the flattery-oriented age of AI",
       "summary": "Now that real life has caught up with science fiction, the imminent danger isn’t malfunctioning cowboys, it’s the robots convincing us that we’re great and everything is totally fineAll the best scien",
@@ -686,18 +1082,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "w8NL8XmKRD4/",
-      "title": "South Korea’s LetinAR is building optics behind AI glasses",
-      "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
-      "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "date": "2026-05-18T11:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -785,78 +1169,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "fg/B0jta4Tp1",
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-      "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "date": "2026-05-17T19:46:34+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "I37sHkJWoA3f",
-      "title": "Revamped Siri will reportedly offer autodeleting chats",
-      "summary": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G",
-      "link": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "date": "2026-05-17T18:40:28+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "GWU+vi8W2cEh",
-      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-      "summary": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "date": "2026-05-17T17:22:23+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HOQBoZzh5rlo",
-      "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-      "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "date": "2026-05-17T16:32:04+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "f/eSq5tXqS07",
-      "title": "「ポンコツ」と呼ばれたM365 Copilotの逆転劇、GPT-5が転換点　活用の秘訣は“脱・プロンプト職人”",
-      "summary": "リリース当初は期待外れとの声もあった「Microsoft 365 Copilot」だが、近年は評価が変わってきているようだ。何が転換点だったのか。3人のMicrosoft MVPがその進化と活用の本質を語り合った座談会の模様をお届けする。",
-      "link": "https://www.itmedia.co.jp/aiplus/articles/2605/15/news013.html",
-      "date": "2026-05-17T16:15:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "Q1mUyZKoV4xR",
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-      "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "date": "2026-05-17T16:05:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "MsZ4tOfM3eOz",
       "title": "China ramps up building national computing power network as AI token use surges - South China Morning Post",
       "summary": "China ramps up building national computing power network as AI token use surges&nbsp;&nbsp;South China Morning Post",
@@ -869,30 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Jx3Bw+Xa1pDJ",
-      "title": "Chatbots at the drive-thru are just the beginning",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in o",
-      "link": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
-      "date": "2026-05-17T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "bo9ETDXrtl9N",
-      "title": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters",
-      "summary": "Known for his ‘Manitowoc Minute’ skits and midwestern humor, the journalist turned comedian is speaking out against the AI datacenter boom in WisconsinLast summer, journalist turned comedian Charlie B",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
-      "date": "2026-05-17T11:00:36+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "hHwM6PRrj/4J",
       "title": "Singapore AI Zoom scam: how a victim lost US$3.8 million to a fake PM Wong - South China Morning Post",
       "summary": "Singapore AI Zoom scam: how a victim lost US$3.8 million to a fake PM Wong&nbsp;&nbsp;South China Morning Post",
@@ -902,18 +1190,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "qcdhBrZ2lB2k",
-      "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
-      "summary": "‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behindGet our breaking news email, free app or daily news podcastTech entrepr",
-      "link": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
-      "date": "2026-05-17T07:38:45+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -953,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Otr7pLiTFEYc",
-      "title": "Not even Photoshopped: Plastic surgery clinics turn to AI for ads - The Korea Herald",
-      "summary": "Not even Photoshopped: Plastic surgery clinics turn to AI for ads&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13WGYyUUkycWx3TW1WWVhrajFlLXVpUGVGbjBTeUttSEVJTnZUSW5oUnJLMGswVjhwTERmWHFEaGlvcUwtOVRGeTJEZ2FyRlBMV29waFR2aw?oc=5",
-      "date": "2026-05-17T02:14:32+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "ZQc2bMVdj5YX",
       "title": "What do China’s plans for new AI law mean for future of technology? - South China Morning Post",
       "summary": "What do China’s plans for new AI law mean for future of technology?&nbsp;&nbsp;South China Morning Post",
@@ -977,66 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "wwH0XNBfTHV8",
-      "title": "The haves and have-nots of the AI gold rush",
-      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
-      "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "date": "2026-05-16T20:17:16+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "v6uVeeltVyNU",
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
-      "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "date": "2026-05-16T18:54:28+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "4vUKi/+G272n",
-      "title": "John Lennon: The Last Interview review – Soderbergh imagines there’s no people with bland AI clipshow",
-      "summary": "Cannes film festival: Succession of pointless AI-generated snippets does nothing for film about the artist’s final interview, which took place on the day of his murderComing just after his superb feat",
-      "link": "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
-      "date": "2026-05-16T16:36:08+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "WlbxzlQtvjkI",
-      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-      "summary": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu",
-      "link": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-      "date": "2026-05-16T15:37:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "YTIJE56st5mw",
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
-      "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "date": "2026-05-16T15:33:33+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "voXhY226JPsQ",
       "title": "‘Too hard’: is AI squeezing graduates out of Hong Kong’s job market? - South China Morning Post",
       "summary": "‘Too hard’: is AI squeezing graduates out of Hong Kong’s job market?&nbsp;&nbsp;South China Morning Post",
@@ -1046,18 +1250,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "SUzF1crZyu33",
-      "title": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus - Reuters",
-      "summary": "OpenAI seals deal in Malta to give all Maltese access to ChatGPT Plus&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2FfNVN5cmZ5SWF4WFBlOWluNFRfdEpkdVVwNXpKZUNyanhWN3RvZURrQkVNWFFILWptTzlkVGFpSlg2V1FKbWZIUlhGSXdJc3g4TmdQUEM1QkpsM2ctVjFWTjUxcUhvTS0teFFxekE0YnhhQ0tLZWNwNUdZZTQ5VFB2cF96STV0ZWQ2N2ladko0N1NXbzVLRWlHMnFQdHlheXlfVDJDUDE?oc=5",
-      "date": "2026-05-16T10:31:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "E4Cm6xeS4ThM",
-      "title": "OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携",
-      "summary": "OpenAIは、ChatGPTの新機能として個人向け資産管理機能のプレビュー版を米国のProプランユーザー向けにリリースした。金融データネットワークPlaidを介して銀行や証券などの口座と連携し、ダッシュボードでの資産管理や、実際の財務状況に基づいたパーソナライズされた相談が可能。将来的に全ユーザーへの拡大を計画している。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/16/news027.html",
-      "date": "2026-05-15T22:59:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "V6XYptNddTH2",
       "title": "UK firms should take steps to limit risks from frontier AI models, UK says - Reuters",
       "summary": "UK firms should take steps to limit risks from frontier AI models, UK says&nbsp;&nbsp;Reuters",
@@ -1130,66 +1310,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "EW7YXf3Sguju",
-      "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX",
-      "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-      "date": "2026-05-15T19:24:16+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "rQtx9z1xELKL",
-      "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-      "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-      "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-      "date": "2026-05-15T18:14:44+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "iFzgR7HcU1rM",
-      "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-      "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-      "link": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-      "date": "2026-05-15T17:09:17+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "cBdH+kuBClbu",
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-      "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-      "date": "2026-05-15T16:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "dIzi15Dat9rU",
-      "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-      "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-      "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-      "date": "2026-05-15T14:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1229,18 +1349,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Wcu/hojtu0P7",
-      "title": "Osaurus brings both local and cloud AI models to your Mac",
-      "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-      "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-      "date": "2026-05-15T12:19:48+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "1n2UJA87iZt9",
       "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Chinese short dramas became AI content machine",
@@ -1277,30 +1385,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IaTUpvAdopfr",
-      "title": "Mira Murati Wants Her AI to ‘Keep Humans in the Loop’",
-      "summary": "The Thinking Machines Lab founder and former CTO of OpenAI tells WIRED she isn’t interested in automating people out of jobs. Instead, she’s building AI that can collaborate.",
-      "link": "https://www.wired.com/story/mira-murati-humans-in-the-loop-ai-models-thinking-machines/",
-      "date": "2026-05-15T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "4on+vDKnXe8g",
-      "title": "The Real Losers of the Musk v. Altman Trial",
-      "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
-      "link": "https://www.wired.com/story/musk-v-altman-trial-closing-arguments/",
-      "date": "2026-05-15T00:49:53+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "HQhLR84s+3OO",
       "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
       "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years.",
@@ -1310,18 +1394,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "y45dzaJ3OA+R",
-      "title": "OpenAI says Codex is coming to your phone",
-      "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
-      "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "date": "2026-05-14T20:58:55+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1406,18 +1478,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "mYrlLxoe4iwN",
-      "title": "Tech Life",
-      "summary": "Crumbling roads and other hazards - can AI make our streets safer?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxv?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-12T19:45:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
