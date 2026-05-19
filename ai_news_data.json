@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-18T19:43:43.115363+00:00",
-  "articleCount": 105,
+  "generated": "2026-05-19T03:29:38.892601+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "guardian": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 22
+      "count": 21
     },
     "reuters": {
       "status": "ok",
-      "count": 10
+      "count": 13
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,143 @@
   },
   "articles": [
     {
-      "id": "f/5E8dGu/k1h",
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "summary": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition.",
-      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "date": "2026-05-18T19:27:52+00:00",
+      "id": "qSBSqOWm9Pja",
+      "title": "Here’s why Elon Musk lost his suit against OpenAI",
+      "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable stat",
+      "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+      "date": "2026-05-19T00:53:10+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SdXuV7kq2Cuc",
+      "title": "Google, Blackstone plan AI cloud venture with $5 billion backing, WSJ reports - Reuters",
+      "summary": "Google, Blackstone plan AI cloud venture with $5 billion backing, WSJ reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS3BSTU96Y2NQdlNRMTdlYlJkOU5TYVU0bWdvM1NiRVdabzhGNlppWjRXWGwzdnFHaFlJUzh5QVVpcnZRZl9GMDR5Tkg3VVNoS19vUlB1X2VXWTdwdWtjLVp1dHpRQ0EwLTlsT2RkWHdlVEZyRHBFcTUxYk12X0xFcXpLNWtUbWpMNEtaNlFxb0JPdlhldTNMZ2NhR09qSkliNF9jUw?oc=5",
+      "date": "2026-05-19T00:13:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "NZBPxG6wZrV8",
+      "title": "OpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO - Reuters",
+      "summary": "OpenAI defeats Elon Musk's lawsuit, removes obstacle to IPO&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUxNM3REVGdHdjAzd3g4WEtOb3gxTmdsRGxIZXJ0bUFZZGdKLXAxVUZEQUhCTFFWbUhsdnFKdy1Hd3N2YncxcERpcEloNUZEbkdOZldab3lGRVdLMENiZTJwUlZ4MWZoV1BRTUJpcTJ5V3p6SVlYVC1pdU9CbFoyZG1Vd1JqZ183eElQMDVlYzNaYzk0VXc?oc=5",
+      "date": "2026-05-18T23:45:32+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "v4K99OHfB2W/",
+      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+      "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.",
+      "link": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-18T23:04:03+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "kiD/KYFRHGcy",
+      "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
+      "summary": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid itOne in three university students think AI will wipe out jobs so rapidly it will trigge",
+      "link": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
+      "date": "2026-05-18T23:01:00+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TsOMtCjypOGV",
+      "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+      "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startupA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that p",
+      "link": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+      "date": "2026-05-18T22:37:11+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "+C5Vk+xdilIy",
+      "title": "Anthropic to let partners share Mythos cybersecurity findings with others - Reuters",
+      "summary": "Anthropic to let partners share Mythos cybersecurity findings with others&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTU1iLXNwcmo0aHRLMlJvcW9NamNLbENsRUphbW50cWthNFBjS3Y3dHJ4MlpmWWJhVzhIUk5kOGdla3d2cDlLVW95WTQtREk0X0tIZVFkWmxNQ2p2ODBqX3RDci1VcXZJYi1XNm9HaGNxb2d3VEFka2I1YjUwSTJMSHR6MjN1T3VUYWZtYVZodGRwQktDc0RyVkZPLXFZZ3hQVGcyclR1MWVlcW94Q2lYU1Rfc1VpVllv?oc=5",
+      "date": "2026-05-18T22:30:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "RuhfKo82oQ8r",
+      "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters",
+      "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
+      "date": "2026-05-18T22:23:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "IV2WhscUK6Yt",
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\"",
+      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-18T22:08:37+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "cYqsdaWFhLy0",
+      "title": "福岡銀行、AI活用で年間7000時間の業務削減を目指す　契約書検索のムダを効率化",
+      "summary": "福岡銀行は、LayerXのAIプラットフォーム「Ai Workforce」を導入した。ストラクチャードファイナンス業務において、過去案件の契約書検索や管理表作成を効率化し、契約書類管理業務全体で年間約7000時間の業務削減を見込んでいる。",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2605/19/news024.html",
+      "date": "2026-05-18T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "5SZcRqtdeldk",
+      "title": "生成AIで3Dモデルを自動作成　専門スキル不要でテキストや画像から3D化",
+      "summary": "スリー・ディー・エスは、テキストや画像入力から3Dモデルを自動生成できる生成AI「Meshy.ai」の日本国内での提供を開始した。専門的な3Dモデリングスキルを必要とせず、試作検討やデザイン用途などに向けた3D活用を支援する。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2605/19/news029.html",
+      "date": "2026-05-18T21:30:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "odEwJsnmY4od",
+      "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+      "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "date": "2026-05-18T21:29:31+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -81,11 +213,35 @@
       "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
       "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats.",
       "link": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-18T19:24:05+00:00",
+      "date": "2026-05-18T20:44:57+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "BMQWHgVg+cRC",
+      "title": "Key moments in the Musk vs OpenAI trial - Reuters",
+      "summary": "Key moments in the Musk vs OpenAI trial&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWJ6QW5FVXU1UzdpOExwU1JPTmREQ3JvSVB0TDlQbUdtcGNNZ3cyUldHVEw2c2hXRlZ0SHFMQ1lxUTM0UlUxOXZuWHpOYkNUbl82UlNJTWxyOGd0R0M4SzYtQVR2aDU4T3FMenl2bkpKV2pQLVpDTXFxNC1feUdObHc4UDBhcnp6eFZLMTZB?oc=5",
+      "date": "2026-05-18T20:03:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "f/5E8dGu/k1h",
+      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries d",
+      "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "date": "2026-05-18T19:27:52+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -101,15 +257,27 @@
       "articleLang": "en"
     },
     {
-      "id": "hq8Fc0IQGfb6",
-      "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
-      "summary": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
-      "link": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-18T19:18:58+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
+      "id": "jR27h16e6Mf+",
+      "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms - Reuters",
+      "summary": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVIYTNmN0FtUHgyakFHYkFyTjNpQTJ5TDdzbHJILXl5cWxZU1AtSGF0eUt3VEN4TmlVSTdrRzQxT0twYUtzTnFmb2lNbEE3c292ek9uN1JERTI3b0RIeTN3T1M3X3VlUlVER1lWbUVxcDFfaGJrb2dxNHNyZk9zWlhZTk5MaGs1WHQ5WU14clVKcHdKTmFUSEhma0w4eGpJVWpaSjNIYXQtdw?oc=5",
+      "date": "2026-05-18T19:10:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "A+LQRvkJoK4w",
+      "title": "Musk loses landmark lawsuit against OpenAI after jury finds he filed his claim too late - France 24",
+      "summary": "Musk loses landmark lawsuit against OpenAI after jury finds he filed his claim too late&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUjRGenNGOHMwV2NmMm1Xdl9WYWRzVXlJa1hYYnhqMFFPdkhyYmFuaGhZTkRkV0VpU0VHVDVkRmtfR2tDTE02Wi14ZzNncDAxVk1TQXpwQmNYM2NReE5iYW00dllXRGpXdFpuZkd2eUpLXy00NlBiY0ZMNHFoU1Z5M01iTGhzNU1Yak45QzVjcnZ0Mkh6X3p6REJmblpRMTRHcmpjaFk3aFFESm1aYVZrQVpRMHJpZFNpVGR1a0pOMEhhd283aWY4?oc=5",
+      "date": "2026-05-18T19:10:38+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -125,18 +293,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TsOMtCjypOGV",
-      "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
-      "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startupA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that p",
-      "link": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
-      "date": "2026-05-18T18:35:18+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "U2SClRb94w68",
       "title": "Tech firms face tougher UK rules on intimate image abuse",
       "summary": "Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girlsSocial media, messaging platforms and online forums that publish intimate image abuse",
@@ -146,30 +302,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "61+jrX7LzExU",
-      "title": "Elon Musk loses lawsuit against OpenAI - Reuters",
-      "summary": "Elon Musk loses lawsuit against OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUxNM3REVGdHdjAzd3g4WEtOb3gxTmdsRGxIZXJ0bUFZZGdKLXAxVUZEQUhCTFFWbUhsdnFKdy1Hd3N2YncxcERpcEloNUZEbkdOZldab3lGRVdLMENiZTJwUlZ4MWZoV1BRTUJpcTJ5V3p6SVlYVC1pdU9CbFoyZG1Vd1JqZ183eElQMDVlYzNaYzk0VXc?oc=5",
-      "date": "2026-05-18T18:29:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "RuhfKo82oQ8r",
-      "title": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers - Reuters",
-      "summary": "As chip industry chases AI, U.S. national labs look to newcomers for supercomputers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV0hfaDc2NVRGcEpWTXRqMHB1UlQzeXhOVkp6dG8xUVZpNDZGc2VEYlBNSklIcTZCc1ZUa3lIVWVQQzJNTDZfVkhrdTMtT3gtWF9PQU5TZEdQNlZYSERiS0tZdW9WNzgtTVphX3dDS0Z0UkhUZ0tYYzZTNlNfSTN0dk43d1l1NFlvWW1JQW9LalBfclEtSnBNZnhfcTdLaWh4amFBMWVReVFPaTc1aXNPejh0eVFsNXYw?oc=5",
-      "date": "2026-05-18T18:21:23+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -211,7 +343,7 @@
     {
       "id": "xQbekiFuJxUA",
       "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "summary": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
       "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "date": "2026-05-18T17:34:43+00:00",
       "source": "TechCrunch",
@@ -233,18 +365,6 @@
       "articleLang": "en"
     },
     {
-      "id": "jR27h16e6Mf+",
-      "title": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms - Reuters",
-      "summary": "NextEra plans to buy Dominion Energy for $66.8 billion, form biggest US power company as AI demand booms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVVIYTNmN0FtUHgyakFHYkFyTjNpQTJ5TDdzbHJILXl5cWxZU1AtSGF0eUt3VEN4TmlVSTdrRzQxT0twYUtzTnFmb2lNbEE3c292ek9uN1JERTI3b0RIeTN3T1M3X3VlUlVER1lWbUVxcDFfaGJrb2dxNHNyZk9zWlhZTk5MaGs1WHQ5WU14clVKcHdKTmFUSEhma0w4eGpJVWpaSjNIYXQtdw?oc=5",
-      "date": "2026-05-18T16:13:58+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "1s2Zz5LE97MW",
       "title": "Amazon Alexa Plus can now create AI-generated podcasts",
       "summary": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an",
@@ -259,7 +379,7 @@
     {
       "id": "ImNpvoLcnHPr",
       "title": "Melbourne psychiatrist refuses new patients who don’t consent to AI note-taking",
-      "summary": "Registration form informs patients that if they do not wish AI to be used, they will need their referring doctor to refer them to a different service providerGet our breaking news email, free app or d",
+      "summary": "Registration form informs patients that if they do not wish AI to be used, they will need their referring doctor to refer them to a different service providerFollow our Australia news live blog for la",
       "link": "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients",
       "date": "2026-05-18T15:00:04+00:00",
       "source": "The Guardian AI",
@@ -572,7 +692,7 @@
       "id": "iszUj4ILkmGI",
       "title": "AI agents face trust issues in ‘high-risk’ industrial sectors: experts - South China Morning Post",
       "summary": "AI agents face trust issues in ‘high-risk’ industrial sectors: experts&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGdXTk8xRU1wRG4tRW9wUmhoOVFGUnlTMEtjQVVQaFJSN0ozSVJEMkRsa2pvaVhlVUdmZWtXQk9XZ0xQRGtBSnlyb2hDQzNtQXhpMDV5MUxFTFFlOWc0WHI5bjBBZHJhd1dqbkJsVlpXY0FTc2xYcmlzbTNtQ1FQLV9GU3ZlaW5iUEM5WGxFYUpvLXM1WFk3dWpPZm5Pekd0Z25iM2dTSVRXZFlNQVZHTkl4dHJPSEhraVE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGdXTk8xRU1wRG4tRW9wUmhoOVFGUnlTMEtjQVVQaFJSN0ozSVJEMkRsa2pvaVhlVUdmZWtXQk9XZ0xQRGtBSnlyb2hDQzNtQXhpMDV5MUxFTFFlOWc0WHI5bjBBZHJhd1dqbkJsVlpXY0FTc2xYcmlzbTNtQ1FQLV9GU3ZlaW5iUEM5WGxFYUpvLXM1WFk3dWpPZm5Pekd0Z25iM2dTSVRXZFlNQVZHTkl4dHJPSEhraVHSAboBQVVfeXFMUGZacFN4VTViRm53SUJtQ0JrcVRqNnJ5NFhjWmlONUNLa3BxNWQySDdXaUpBZzYySGRHSDJHNGRIcnZhYXh5M2kxLXRhMk9WVGFuQ0ZnWF92cExhS1B2dWNXeFlwb0RHSmNHM1VOSWlNV2hLWlRGbFQ3eUdnWVlYeEQ5YURIUWdEZ0x3UlZsckRCeTVqaElzaTJDUjVXek56dHVmOGo4Q3poTGhiNWlhM0xaSnZRRThUa1F3?oc=5",
       "date": "2026-05-17T07:00:05+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -737,9 +857,9 @@
       "articleLang": "en"
     },
     {
-      "id": "dLwqq8dwkOLM",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
+      "id": "Z7pkxFlXBu8/",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-05-16T01:25:44+00:00",
       "source": "DW Tech",
@@ -785,18 +905,6 @@
       "articleLang": "en"
     },
     {
-      "id": "okD84Y29XpTP",
-      "title": "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability - Reuters",
-      "summary": "At Cannes, filmmakers shift towards cautious acceptance of AI's inevitability&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmZOMzNGc0xYWm1RUG9OQndDUWxPeGZlSVM0T1hiR1ViRmFfMFhvTWVqUlB2RlgxQ0FSdjRWTVNzZWpXSXc3QmZxSzFRazBibExDXzlva29UcXJPWlhNNzVmdFExc0FEY1hkZlN5X3dhVW9Wa1NyWjVuMDNwUEdRSnZuUUhUSkt2cmljWTBxdUdrcEhCNG1fenJtNXFmTjZmTFNUaDhuNDNQZmVxdFdHZ2NpVmppUQ?oc=5",
-      "date": "2026-05-15T21:03:22+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xb/t2I1oY6io",
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author",
@@ -806,6 +914,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "V6XYptNddTH2",
+      "title": "UK firms should take steps to limit risks from frontier AI models, UK says - Reuters",
+      "summary": "UK firms should take steps to limit risks from frontier AI models, UK says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWUZCdmdZVXJlMXctSXBOa0NlTW91TFhNdUlLMkpsN1Y0NTVvcWN1SjJNajdsYjFqNjY4b20xdHRBOExWUkRWMV9PNnNYZ1E0OWRtQXV6Vm9HYUptUUczSnVfVGFpUjYzSjlldXJmb21Rc3RGSUV6cl9rX010NGl2R3NyQ2g4NENWUHdVNmVMOEFGX0FEdkFNcVZITEhKSUVOeWJ3UWZuVWRGOXRvWm9FRFU2Ynl3QXl1VlE?oc=5",
+      "date": "2026-05-15T20:08:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -905,10 +1025,10 @@
       "articleLang": "en"
     },
     {
-      "id": "WWi4vhzj2Hzt",
-      "title": "AI | Anthropic’s plea for US to grow AI edge over China is ‘irresponsible’: analysts - South China Morning Post",
-      "summary": "AI | Anthropic’s plea for US to grow AI edge over China is ‘irresponsible’: analysts&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUFYQzBRV1puWHhlRDdQdUM4amhfbjZxemlpU1NxNHJ3U2d5ZllrblZoTzNLVFlyS0JDNTVnUE1WTzhTUDUwZlhCUlI2dEMwRVlQczBRVkZ1MmJhUkVFYkNhd0djdmd5WlAydWR6WC1jeFBJaGNickZQVVlsUHZmSzRlT1pjZXhYZF9TR0czWU1ZeEo0eU5LVllPTFFiMjVackhVdDZ6TmZTemE1dFZSQkZmUVAyME02VDlkWVF3dGQ?oc=5",
+      "id": "ChQWUkNVxWBo",
+      "title": "Ai | Anthropic’s plea for US to grow AI edge over China is ‘irresponsible’: analysts - South China Morning Post",
+      "summary": "Ai | Anthropic’s plea for US to grow AI edge over China is ‘irresponsible’: analysts&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUFYQzBRV1puWHhlRDdQdUM4amhfbjZxemlpU1NxNHJ3U2d5ZllrblZoTzNLVFlyS0JDNTVnUE1WTzhTUDUwZlhCUlI2dEMwRVlQczBRVkZ1MmJhUkVFYkNhd0djdmd5WlAydWR6WC1jeFBJaGNickZQVVlsUHZmSzRlT1pjZXhYZF9TR0czWU1ZeEo0eU5LVllPTFFiMjVackhVdDZ6TmZTemE1dFZSQkZmUVAyME02VDlkWVF3dGTSAcABQVVfeXFMT3Mtb0tJT1NacC1UTU5IV3ZoaVc4QzdiRnhwelNVcU1TR2Z0aE5CdlRfb1B4NGhrSS1oMlVFcElaSWd1Z0syY1J2NGxKUmhEOEFNYjZ0QTdFUGVmczYzR3hCWWJLemFxY1I1am9jYzVWcFNIeDctV1lDOGhHMjVPTG1qQlBBZmg5MUhYU0F4anpjbnBhNDAyMjRfUmNIMXpyeUNQd09KNkh3RkhKLWFqQVdhUlk2blAwYW9QaDRIUTlu?oc=5",
       "date": "2026-05-15T12:41:35+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1013,18 +1133,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "R1nKi7bG6OG7",
-      "title": "OpenAI、サプライチェーン攻撃で従業員2人の端末が侵害　macOSユーザーは6月12日までにアプリ更新を",
-      "summary": "OpenAIは、サプライチェーン攻撃により従業員のデバイスが侵害されたと発表した。170以上のパッケージが影響を受け、コード署名証明書が漏洩した可能性がある。顧客データ等への影響は確認されていないが、予防措置として証明書の更新を実施。macOS版アプリのユーザーに対し、6月12日までのアプリのアップデートを求めている。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news075.html",
-      "date": "2026-05-15T01:56:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "4on+vDKnXe8g",
       "title": "The Real Losers of the Musk v. Altman Trial",
       "summary": "A federal jury is now deciding whether Elon Musk will win his lawsuit against OpenAI and Sam Altman—but the trial has made everyone look bad.",
@@ -1035,18 +1143,6 @@
       "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "QFQa0FDXduK3",
-      "title": "Anthropicとゲイツ財団が提携　AIによる社会貢献に2億ドル拠出",
-      "summary": "AnthropicとGates Foundationは、AI関連のインフラやヘルスケア、教育分野を支援するため2億ドルを拠出すると発表した。市場原理ではAIが届きにくい低中所得国に対し、AIモデル「Claude」の利用クレジットや技術支援を提供する。ワクチン開発の加速や学習支援アプリの開発を通じ、AIを公平に活用できる環境を整える。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/15/news064.html",
-      "date": "2026-05-14T23:42:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "HQhLR84s+3OO",
@@ -1073,30 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rzGgNud7Tx1N",
-      "title": "What happens when AI starts building itself?",
-      "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
-      "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-      "date": "2026-05-14T19:57:20+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "MLT6nld8GCSA",
-      "title": "Digital arson spree by ‘AI Bonnie and Clyde’ raises fears over autonomous tech",
-      "summary": "Emergence AI’s experiment with AI agents shows extent to which programming shapes their behaviour is still unclearAI agents started behaving more like Bonnie and Clyde than lines of code when they fel",
-      "link": "https://www.theguardian.com/technology/2026/may/14/ai-agents-behaviour-arson-safety",
-      "date": "2026-05-14T18:00:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "ylUFhxRBcaCI",
       "title": "Ex-Meta Chinese star joins race for self-improving AI with US$4.6b start-up - South China Morning Post",
       "summary": "Ex-Meta Chinese star joins race for self-improving AI with US$4.6b start-up&nbsp;&nbsp;South China Morning Post",
@@ -1113,18 +1185,6 @@
       "title": "Data readiness for agentic AI in financial services",
       "summary": "Financial services companies have unique needs when it comes to business AI. They operate in one of the most highly regulated sectors while responding to external events that are updated by the second",
       "link": "https://www.technologyreview.com/2026/05/14/1137034/data-readiness-for-agentic-ai-in-financial-services/",
-      "date": "2026-05-14T13:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "D4jNTio7LY/W",
-      "title": "Establishing AI and data sovereignty in the age of autonomous systems",
-      "summary": "When generative AI first moved from research labs into real-world business applications, enterprises made a tacit bargain: “Capability now, control later.” Feed your proprietary data into third-party",
-      "link": "https://www.technologyreview.com/2026/05/14/1137168/establishing-ai-and-data-sovereignty-in-the-age-of-autonomous-systems/",
       "date": "2026-05-14T13:00:00+00:00",
       "source": "MIT Tech Review",
       "key": "mit",
@@ -1241,9 +1301,9 @@
       "articleLang": "en"
     },
     {
-      "id": "4GbT1K1U2ypN",
-      "title": "OpenAI boss Sam Altman says Musk wanted control of company - DW.com",
-      "summary": "OpenAI boss Sam Altman says Musk wanted control of company&nbsp;&nbsp;DW.com",
+      "id": "M4fHcBfAno7d",
+      "title": "OpenAI boss Sam Altman says Musk wanted control of company - dw.com",
+      "summary": "OpenAI boss Sam Altman says Musk wanted control of company&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVWRhYjhiZDhzNDd2aUlHSjNFdXNNcFkzV0tqb2pYbVVGWEphZEV4RTU3MmJmdjd6RHE3OUkzNktDNm9fUlZKaTFEX0VQTHpwMEItVHE1MVNZRThfMVdWazI3aXBOUFg5SW5ETnVzMW4zWXRh0gF0QVVfeXFMT2VSUVZ2elZrQWxXbzRGX3NnLVd1bjZOdWw5UHZWY1JMQzJVU2FSSnlxUG1KNmZPWktlbDVEUk1nWXdrUGRubEphMXMtZXlsR1otbm1zVFA3YVF5SE9USzN6cU42Z2JxMWRVT21LcUFHQndicDk?oc=5",
       "date": "2026-05-12T23:32:36+00:00",
       "source": "DW Tech",
@@ -1294,30 +1354,6 @@
       "summary": "South Korea official floats AI profit social tax as tech giants boom&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWtWNzUzZGhpd01KX2Y5elRLckFRRjFIOEQtNm0yZUJIZ0pkVXNGazJJT2g4cnRDZVRrVVJnTXFYdFdRWnhiSTBCUUJvLUo5N25kOTRRWmVBdGNLbFZhcnpUQ1FiSlhRcHp3RUE1T0xUWHUxUFo4QXJVb1JkZFFzSV9ONUV3Y1NqbEg5ZlVvNUdTdTZrZzRMdVYzMTRlNlB5cGtIM2dwTzQ1Zw?oc=5",
       "date": "2026-05-12T05:35:16+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "/oh5Eo23MWwZ",
-      "title": "Ai | Kuaishou shares soar as Kling AI eyes US$20b valuation in potential spin-off - South China Morning Post",
-      "summary": "Ai | Kuaishou shares soar as Kling AI eyes US$20b valuation in potential spin-off&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcEhnWHlYY2FETTVzcDNVXzRpNjhqMEpUUWg0TnFfQkpIZ0hrZWx2ZGlsamI1SFBPYWhMTXR2LUgteXBEZHFVdjFuRmRNSDBiTXo0bFg2OHZrWWRXWjhnSkJyMi00ZDcwMFNPbkFWd0xyVVZpVGVmemVUemxBdDdVdjdvaEVXZ1BlNUxTcEZDTElMc2x00gGUAUFVX3lxTE1jYjktc3hqNU1sa3hXanpqMUhJbXpMTFVZTlBDNzhyNU9XWU1GTDl6RVlCb1FxQVlCaGNVMno0QXY5d0d5cUdzYVlPZVBkNzdLNmJTQWF2RkFvZmxCMlVWdWZSTXRab2VJUVlFQm1IWVBCUlFtaXVHRWQ3VDV2RVF2M0VEUldfZ1lHY3ZQenB4b0M0Ym8?oc=5",
-      "date": "2026-05-12T03:04:15+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "haeDF9jsUCqd",
-      "title": "Cannes 2026 rolls out red carpet amid AI spat, absence of major US studios - France 24",
-      "summary": "Cannes 2026 rolls out red carpet amid AI spat, absence of major US studios&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOEJnUlRvMnBmcG5Kdk5makM0Y19JSkJxX0ZEWTYwaUZWTmJlYS1vcmVMV0ZpZnZxZ2RQYnh2N3Jybi1PZFhPaU1LR0J5V1NxQlYwajl3VksyZVd2VE1udS1oYXVjNkdBV1RFeUUzVUVhQm5DMzgwWmtkS0JlRFdLaThQeWRLLW9xTjFLaVNlUnZrNmh3MmhtNGxhZ2FxVF9pek5EM2pn?oc=5",
-      "date": "2026-05-12T02:03:14+00:00",
       "source": "France24 Tech",
       "key": "france24",
       "cls": "src-france24",
