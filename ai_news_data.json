@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-21T19:52:11.273235+00:00",
-  "articleCount": 122,
+  "generated": "2026-05-22T03:35:17.501401+00:00",
+  "articleCount": 121,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 4
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "guardian": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 25
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,114 @@
     }
   },
   "articles": [
+    {
+      "id": "FHZApN1dZ7gN",
+      "title": "If Australia is home to an AI gold rush, let’s not squander it. Let’s fjord a different path | Peter Lewis",
+      "summary": "Tech titans appear to be cosying up to Canberra with an eye to training data models here. An AI wealth fund could share in the profitsGet our breaking news email, free app or daily news podcastThe CEO",
+      "link": "https://www.theguardian.com/commentisfree/2026/may/22/australia-artificial-intelligence-ai-investment-wealth-fund",
+      "date": "2026-05-22T01:06:51+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "XcCLPeKHZGk1",
+      "title": "Can OpenAI’s ‘Master of Disaster’ Fix AI’s Reputation Crisis?",
+      "summary": "Global affairs chief Chris Lehane wants to tone down the debate over AI’s societal impacts—and get states to pass laws that won’t derail OpenAI’s meteoric rise.",
+      "link": "https://www.wired.com/story/openai-chris-lehane-global-affairs-pr/",
+      "date": "2026-05-22T00:04:25+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "3sWN/oDEnpXe",
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "summary": "Trump postpones AI executive order, cites need to compete with China&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-21T21:56:22+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "CjPL0A+vQeOq",
+      "title": "Meta Is in Crisis, Google Search’s Makeover, and AI Gets Booed by Graduates",
+      "summary": "In this episode of Uncanny Valley, we unpack the mass layoffs at Meta, big announcements at Google I/O, and the latest backlash against AI.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-in-crisis-google-search-makeover-ai-booed-by-graduates/",
+      "date": "2026-05-21T20:44:53+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DeB5wYuTFzEp",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "summary": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the fo",
+      "link": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "date": "2026-05-21T20:41:05+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "F8vaHS8fvDL5",
+      "title": "Spotify and Universal Music agree deal to let subscribers create AI remixes",
+      "summary": "Licensing agreement will allow listeners to use AI to create content on streaming platform for first timeSpotify and Universal Music Group have agreed on a deal that will allow subscribers to generate",
+      "link": "https://www.theguardian.com/technology/2026/may/21/spotify-and-universal-music-agree-deal-to-let-subscribers-create-ai-remixes",
+      "date": "2026-05-21T20:24:37+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VO5+v2MKGZj+",
+      "title": "All of the updates from Elon Musk and Sam Altman’s battle over OpenAI",
+      "summary": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni",
+      "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "date": "2026-05-21T20:15:18+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Lf0lQ7s7Ba3j",
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "summary": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+      "date": "2026-05-21T20:00:06+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DdgvsTcgl666",
+      "title": "Trump scraps signing AI executive order to keep ‘lead’ over China in industry - South China Morning Post",
+      "summary": "Trump scraps signing AI executive order to keep ‘lead’ over China in industry&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZDhab05yREhoNDhLbTFhaTk3clZIQ2RhcV9QSjhNbG9ENm9GcHZrdG9ZNF91Z0hnZkd4NFl0YjRxSzZnb0ZTdDA3dmEwTVREaG84ZDZFbzBnMUdwTU9MbWYzcTFRQ29QNXNHdkpGVUUxY0pDamIxWWt1dHJOSU5nMnZjY2VGMG5ZVE1mV2E0YUxYbVhoV0J0YmFNTXE2eHZsWUZxNGctZnU4OGtXTExpU3lVZU5KdnFhSUZPd2E0NEpNWjUybGRxSjFNWVFER19fM29Z0gHTAUFVX3lxTE90bm5VWFlTamYza3hvUkFxR1BsWG1PbWJxbWVsakp1RUVfZkdvSHE3LWhjVEFIWW1mY1ROQ2h0VDJITkZ5cTREMVVTMFN0enlHYmVPUEx2a196QmNETE5KTFNOaUZxVGlGV1VyZHFmdFU1TDQtN09reDE1QmkzTzBXSGx3MmJGcTNNZHAyR0NxMGpTQzdDd3ItS3ZoczZvNVBTOGNwREdoTmw2UUItR0ptN2t1c2lkQnRpak5fNGdhXy1ycHRFbzZ5YXdwWUpBT0hMMmc?oc=5",
+      "date": "2026-05-21T19:47:03+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "Aw74Aro9oOOS",
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
@@ -101,18 +209,6 @@
       "articleLang": "en"
     },
     {
-      "id": "3sWN/oDEnpXe",
-      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
-      "summary": "Trump postpones AI executive order, cites need to compete with China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
-      "date": "2026-05-21T18:59:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "i7Xh/wsIJEcG",
       "title": "Sadiq Khan sparks row with Met after blocking £50m AI deal with Palantir",
       "summary": "Exclusive: Scotland Yard criticises London mayor’s decision as disappointing and warns it could hit policing Sadiq Khan has blocked a £50m Metropolitan police deal with the controversial US tech compa",
@@ -125,8 +221,8 @@
       "articleLang": "en"
     },
     {
-      "id": "kOE4ZycViZN0",
-      "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+      "id": "QWJBTH52tKmQ",
+      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
       "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
       "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "date": "2026-05-21T17:30:45+00:00",
@@ -137,8 +233,20 @@
       "articleLang": "en"
     },
     {
-      "id": "yY6Ar4ZrRjyQ",
-      "title": "The Endless AI guitar pedal has potential",
+      "id": "i6W+yZ+9ECMv",
+      "title": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off - Reuters",
+      "summary": "Exclusive: Modal Labs valued at $4.65 billion as AI coding takes off&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRTVnSjdhUW1qa1dLaXBJTHFQQS0wdXFYMnhtdWhqRzFhRGt5bm5FcUVjbFhkc0FzZENKTWRTZ1FlNDlJaDBlTllWNVJ0ZnZDSGpwdzFCTFlBR1VucmhGUDZqU1ZHdnBpVU5rMVRkbW1iTkVPWlN0MW1LR01zbkswSkNTcjJmTDFyZE44Uk1mSTB5aTVxeXlkUklR?oc=5",
+      "date": "2026-05-21T17:03:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4+5duULO8QJt",
+      "title": "This AI guitar pedal let me roll my own effects",
       "summary": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with",
       "link": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
       "date": "2026-05-21T17:00:00+00:00",
@@ -147,6 +255,18 @@
       "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
+    },
+    {
+      "id": "EkdwU36QS5H1",
+      "title": "OpenAI、日本政府と一部企業にセキュリティ特化AI「GPT-5.5-Cyber」提供へ",
+      "summary": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
+      "date": "2026-05-21T16:40:13+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "+pwsImPHqIHk",
@@ -233,9 +353,21 @@
       "articleLang": "en"
     },
     {
+      "id": "6Zx5so15aXm2",
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "summary": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere.",
+      "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "date": "2026-05-21T15:27:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "Z4PGoVdLq+5E",
       "title": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say",
-      "summary": "ASX-listed company announced in February it would lay off almost 30% of its 7,000-strong workforce across 40 countriesGet our breaking news email, free app or daily news podcastWiseTech has begun info",
+      "summary": "ASX-listed company announced in February it would lay off almost 30% of its 7,000-strong workforce across 40 countriesGet our breaking news email, free app or daily news podcastFollow our Australia ne",
       "link": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
       "date": "2026-05-21T15:00:35+00:00",
       "source": "The Guardian AI",
@@ -259,7 +391,7 @@
     {
       "id": "6JxnfZIxgYVr",
       "title": "BT warns of smartphone price rises due to chip shortages from AI boom",
-      "summary": "Telecoms company CEO says tech firms are buying up memory chips to power datacentres relied on by AIBusiness live – latest updatesBT has said the cost of smartphones could rise as technology companies",
+      "summary": "Telecoms company CEO says tech firms are buying up memory chips to power datacentres relied on by AIBT has said the cost of smartphones could rise as technology companies buy up semiconductor chips be",
       "link": "https://www.theguardian.com/business/2026/may/21/bt-smartphone-price-rises-chip-shortages-ai-boom",
       "date": "2026-05-21T14:05:29+00:00",
       "source": "The Guardian AI",
@@ -329,11 +461,11 @@
       "articleLang": "en"
     },
     {
-      "id": "FNFZG5jtN72a",
-      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
-      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
-      "date": "2026-05-21T12:39:15+00:00",
+      "id": "Xg20ZkbvSnDd",
+      "title": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports - Reuters",
+      "summary": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObmJsTXRsV3ZUR2lvam5tbjZxQ3lheW1IM1J3WGc5MGVkaW5OVndsNzV4d1lUYzF5MTg0RG01cGJsMTkyb2JpVndzbFItVk9GY3ozSlZrLWlJSlh0QjdQb1BoZ3poVFdxZGsyRzRWSWxZTzJvZWw3S3g0MkNRLUhSNjJwbTZEWjBuT1dnby1oSjJQVzVJeFUtVjJNV3hPX3lwWWYxbk1vSkx4NWFCOUZvZkR0bHhLRHBYN3hCaktXcFdCRGdhWjdfMmZB?oc=5",
+      "date": "2026-05-21T12:59:50+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -341,11 +473,11 @@
       "articleLang": "en"
     },
     {
-      "id": "6YghTuxWeOwE",
-      "title": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows - Reuters",
-      "summary": "Trump administration seeks to supercharge US AI exports with billions in financing, document shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlJTU0QwWHg1blgyRXJEX2hfRm1VN243VHJja21LNk5qeVd0dlNOTHdQc1dYWkUwMjFuMmxtbW1rc1psTXpPTUNJN1A3R01FTVRNRXQ5dm5NTTJNRWdNUFBiNVZSbU1nbWhKeFBiNHdTTjhxREFRcVlHX3pmRmNIT2FZUnhfZ0o3RDlSTzNJZWxtcE9falZOSDNpbnFHRUpwa3gxNHlPMG5OcTNGZy1iMjUxaE80MlhocWs5WkhydEtyYmdLRENMNm9KVQ?oc=5",
-      "date": "2026-05-21T09:55:44+00:00",
+      "id": "FNFZG5jtN72a",
+      "title": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story - Reuters",
+      "summary": "Exclusive: Grok falls flat in Washington, undercutting SpaceX's AI growth story&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYkVBeG83TF9qcjAxRjBDQ3FLR25nNUxtLUFFMmI3S01nSm5obzhLS2FMTDA3MDZTeEpRdGg0TWlCOERydWI4RWlaZVJYRVM4YmN3TVEzRkFBbmtxa2NwWm9OT0xJVjJPQnl3NEZFZzRsOUdGUU13MGNLVFRqTXJZcW93dGk5SGZORExyNjJiX2s3V0tab3Zra21XbGdkaGFiUU9ydFZfaGg?oc=5",
+      "date": "2026-05-21T12:39:15+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -411,18 +543,6 @@
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "EkdwU36QS5H1",
-      "title": "OpenAI、日本政府と一部企業にセキュリティ特化AI「GPT-5.5-Cyber」提供へ",
-      "summary": "OpenAIは、サイバーセキュリティに特化した同社の最新AIモデル「GPT-5.5-Cyber」を日本の政府や一部企業に提供する方針を明かした。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/21/2000000014/",
-      "date": "2026-05-21T00:23:40+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "+35b/rnq4A9i",
@@ -506,18 +626,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "dAEvaViU1EV1",
-      "title": "White House briefs AI firms on plans for model review, the Information reports - Reuters",
-      "summary": "White House briefs AI firms on plans for model review, the Information reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1NDbjNSbFdsaEdqSUVQZDJzeXY2ZjVKcnJ1aE1zcUhFRXdWWlh5OGgzOGxnTXdVbTc2ckRLM0RoNkNCRzdNeFc4eWFNbXZmeW92RXpkZ0pWTEI3LVdMMl9YX1JqTW4xWWZUTEpVcmExNTZQS1p6Q3RZNUFSX1dFX1VVaWJHRnBuZ20zZmVvVjFLRUN4Rnl0QlVKMndCaU5oWHV0SlUzZkNKRkgtQUdja1pSamtJUVFGNjZ3?oc=5",
-      "date": "2026-05-20T20:20:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -737,6 +845,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "H4n8M2SrAMiw",
+      "title": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change - Reuters",
+      "summary": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZWg0MUNacEFmOXdIbjZqUzJ0aEUzR3NYbTVxLXNjMGM3NWhPeHcxRm84Umd0cmhnZnBZVTA1eG9VdnhydDdrYzk5XzlLaEYtLVhWYWlGZVE2QWRHcE0wcGFxUHgxZjEyNWxyTFFiZnRrbG1uVXRpNExFTU1ydnNYeHBoOGRfaE5zeXNBQzlSOFFpQzYyNWYwajUzUE82RXpkS2N5blFkOUlJVlpTQk8ycWR5RFZ4ZS00U0dIYk1CMUNqTXc?oc=5",
+      "date": "2026-05-20T07:04:31+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "FLP9FBhaVvaq",
       "title": "Real or AI: can a photographer and internet addict spot fake portraits? – video",
       "summary": "It's getting harder and harder to guess whether a face is AI. The University of New South Wales recently launched an AI faces test, which challenges users ability to distinguish between real and fake",
@@ -845,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "H4n8M2SrAMiw",
-      "title": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change - Reuters",
-      "summary": "HSBC CEO says AI will destroy and create new jobs, urges staff to embrace change&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZWg0MUNacEFmOXdIbjZqUzJ0aEUzR3NYbTVxLXNjMGM3NWhPeHcxRm84Umd0cmhnZnBZVTA1eG9VdnhydDdrYzk5XzlLaEYtLVhWYWlGZVE2QWRHcE0wcGFxUHgxZjEyNWxyTFFiZnRrbG1uVXRpNExFTU1ydnNYeHBoOGRfaE5zeXNBQzlSOFFpQzYyNWYwajUzUE82RXpkS2N5blFkOUlJVlpTQk8ycWR5RFZ4ZS00U0dIYk1CMUNqTXc?oc=5",
-      "date": "2026-05-20T01:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "6EesDijUB7uR",
       "title": "「Gemini 3.5」登場　軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
       "summary": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
@@ -941,18 +1049,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vbbt9Wvlb+JI",
-      "title": "OpenAI、Googleの「SynthID」を採用　「C2PA」と組み合わせAI生成画像の来歴証明を強化",
-      "summary": "OpenAIは、Google DeepMindが開発した不可視の電子透かし技術「SynthID」の採用を発表した。従来のC2PAメタデータが加工によって消失する課題を補い、両技術を組み合わせた多層的なアプローチで来歴証明の堅牢性を高める。両社は一般向けの検証ツールの整備やブラウザ、検索への統合も進めている。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000009/",
-      "date": "2026-05-19T19:55:39+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "qm6UBYpN8vHh",
       "title": "US lawmakers seek to undercut Chinese AI and tech sales abroad - Reuters",
       "summary": "US lawmakers seek to undercut Chinese AI and tech sales abroad&nbsp;&nbsp;Reuters",
@@ -975,18 +1071,6 @@
       "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "pFf9ubBR6y1F",
-      "title": "Google、“動画版Nano Banana”こと「Gemini Omni」公開　会話で映像を生成・編集",
-      "summary": "米Googleが開発者会議「Google I/O 2026」で、動画の生成・編集に対応するAIモデル「Gemini Omni」を発表した。自然言語による指示で動画を作成・編集でき、同社は「世界モデル」や画像生成モデル「Nano Banana」の動画版とうたう。最初のモデル「Gemini Omni Flash」の提供も開始した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/20/news063.html",
-      "date": "2026-05-19T18:38:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "TKnq8M3Sx4tw",
@@ -1013,30 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BMrQ/9m3uQ9E",
-      "title": "Google Makes It Easy to Deepfake Yourself",
-      "summary": "Google’s overhaul of its AI creation software, Flow, includes a new video model and a tool for generating selfie videos called avatars.",
-      "link": "https://www.wired.com/story/google-makes-it-easy-to-make-a-deepfake-of-yourself/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "bYr8KIx0ehOI",
-      "title": "Google Search Goes Agentic—and Doesn’t Need You Anymore",
-      "summary": "Vibe-coded results! Super widgets! Bots that never sleep! Google’s vision for the future of Search is hyper-personalized, automated, and extremely AI.",
-      "link": "https://www.wired.com/story/google-search-goes-agentic-and-doesnt-need-you-anymore/",
-      "date": "2026-05-19T17:45:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "4DpXonh8jEK8",
       "title": "AI-related data breaches surging, Verizon report says - Reuters",
       "summary": "AI-related data breaches surging, Verizon report says&nbsp;&nbsp;Reuters",
@@ -1049,27 +1109,15 @@
       "articleLang": "en"
     },
     {
-      "id": "Ixjj7y8hNwNd",
-      "title": "Dangers of putting pupils’ images on school websites | Letters",
-      "summary": "Schools can compromise children’s privacy, exposing them to potential identity fraud, harassment and AI exploitation, says Dr Claire BessantIt was concerning, but sadly unsurprising, to read a Guardia",
-      "link": "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
-      "date": "2026-05-19T16:49:33+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "hxbmOUQP0Pxv",
-      "title": "Musk v Altman: tech bros at war over OpenAI – The Latest",
-      "summary": "A long and bitter legal battle between tech billionaires Elon Musk and Sam Altman has culminated in victory for the OpenAI boss. Musk has vowed to appeal the verdict. But what did the trial reveal abo",
-      "link": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
-      "date": "2026-05-19T16:27:23+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "Ckv88ksugWCW",
+      "title": "Lawyer barred from Harvard morgue scandal case over fake AI citations - Reuters",
+      "summary": "Lawyer barred from Harvard morgue scandal case over fake AI citations&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkNUeEdiTWUzZU9sR1F3WjBQalN4czhxbTc2WTQ5Z0NBcnAtSklxU21NZEdEbE12MlNPVkhUOGVLV3ZXbXBRM2ZKeFlqZzNONnRxaVdmWGdOaTVMcHNMZlJjVFFLQkYxQW0wTmI1cUNaS1dYX0V5NXE1bWVKc3gwV2tVNFBjWnJxdUFEUW4yS1Z4U2RXb01RaXg0dTFfSnJMam44X2YybWZURjVWbnJDSWp6a0htZEFa?oc=5",
+      "date": "2026-05-19T16:14:10+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1078,6 +1126,18 @@
       "summary": "Healthcare AI firm Commure valued at $7 billion, raises $70 million&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcnA4ZWdrdTJvQy10VFJGRGhEamV0VGs1NlF6dDkzMF91TzdYeDFrM2g5aHVJQnh5NGY3dmlpbi16OEdSLUFRTHJ5cG5RcGhudDUyS3U3QTdkOEVfLUpzS3gxRjF5Y0xDaEZSZ25BLUhab3l6dFBxcnpDYXItaDdSMFlFZnNEOHYyZ3NOQnpnbEtpa1Z0cnlFeHdpQkQ3RXBkU2hGdFRYRWFNTzktUC02U01MZjdidXRqWUFLOUIwakJnV1BacmZ5RVdBNDhEUQ?oc=5",
       "date": "2026-05-19T15:56:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "jRJJQ8SinQKK",
+      "title": "Mistral AI buys Austrian physics AI startup in industrial push - Reuters",
+      "summary": "Mistral AI buys Austrian physics AI startup in industrial push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXRKTnVyTWU0dmVpMGlxUnRzTi1TY1lwaURmZ0gyUGFLWWVNVHJfQkFNNmdVLUtuaDFPdEZLMlZXYVJHUjdySk1reDZZd0I5SjNJdTE4NjQySWpSeE9BZUJEWV9handpNU13RGdoMnZ5OW5MQm5SVFJxMkk1cURFYVZwUnUycy1hM2pDU19KWUFPQVJlSnlRR0ZtcUY5YzloQmEya21vRGRkYjNUS1RnOE9DTmFoQjdFdnFUQ2pLM1JOMmc?oc=5",
+      "date": "2026-05-19T15:23:26+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1094,30 +1154,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "7rcGOSeM+iAk",
-      "title": "日立、Anthropicと提携　グループ29万人に「Claude」などAI導入　社会インフラ分野にも展開へ",
-      "summary": "日立製作所と米Anthropicが戦略的パートナーシップを締結した。Anthropicの生成AIサービス「Claude」など先進AIを日立グループ約29万人の全ビジネスプロセスに導入するほか、同社の社会インフラ向けソリューション群「HMAX by Hitachi」（HMAX）にも展開する。Anthropicを巡っては、4月にNECとの協業を発表。国内ITとの提携を進めている。",
-      "link": "https://www.itmedia.co.jp/news/articles/2605/19/news120.html",
-      "date": "2026-05-19T12:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "HMSoNd/nVeOp",
-      "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI",
-      "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
-      "date": "2026-05-19T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1181,42 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JuoqDbb7zaMs",
-      "title": "GoogleのAIサブスク、最上位プランを値下げ　月額1万4500円の新プランも",
-      "summary": "Googleが最上位サブスクリプション「Google AI Ultra」を月額3万6400円から3万2000円に値下げ。月額1万4500円の新プランも登場。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000008/",
-      "date": "2026-05-19T09:51:43+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "a60i3JbfzDMY",
-      "title": "Google「Gemini」に個人向けAIエージェント　質問に答えるだけでなく「作業を代替」　まずは米国で",
-      "summary": "米Googleは、自律的にタスクをこなす個人向けAIエージェント「Gemini Spark」を発表した。「質問に答えるアシスタントから、あなたの指示に従って作業を代替するアシスタントに進化する」とアピールする。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000007/",
-      "date": "2026-05-19T09:51:04+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "HelaW/qWSf2W",
-      "title": "Does China’s rapid chipmaking expansion threaten the global AI memory chip boom? - South China Morning Post",
-      "summary": "Does China’s rapid chipmaking expansion threaten the global AI memory chip boom?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPR0lEcHdFMk45WWVUbkYyZkNNbzlkN01sRDJKc05MQ2EtZDFLUzVCakZGbjN3LS1BVTh6X2F4YklEQlg3MC1sbmp4QjhRM084dVdfVkFWSW5QSmUtY0xYMGNkSEQ4QURwRkJ3a0p5MkdTRjJuMlU0SGVtX05NZ1Y3NnV5azlrVUlwdmxwQkY0RzNKWU0wYXlYZXlZQktOdk0zbGYyRlJQVWlJUUEyM2VZVUdRNnFnanAyYnBwb3EwZERwcm5sazVNcnByR3ZsX1BxMUdxVUZB0gHWAUFVX3lxTE5vUGdMNnBXMDBXdXRkWXdGMU9xMHFMblgtZk9RSlc2NWRSVDVvTDFBOXd3SDdLZzh1ZVl4UUcwYXR3M1B4UVlXVWNibmtkX1VDekd1Qm5SRExJOE5lVTdkNUpoLVBlWFM3SHhGV1BpWWdEeFZTMkVHek5yLWs3c3JLUUFpZnFnMzdLcmVHZDBjQmJRb3BNT1JrQ3Z1RHR3SXNCNjVLOE03SlY4d00zYlFyWm9DTXctSW9tOUJFbjdoX0FMLW84eEg5b1pMckFBRUEyaWlWZHc?oc=5",
-      "date": "2026-05-19T09:30:11+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "p1LAWRIjX+Dk",
       "title": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital' - Reuters",
       "summary": "StanChart to cut over 7,000 jobs, boost AI to replace 'lower-value human capital'&nbsp;&nbsp;Reuters",
@@ -1241,9 +1241,9 @@
       "articleLang": "en"
     },
     {
-      "id": "dLwqq8dwkOLM",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
+      "id": "Z7pkxFlXBu8/",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-05-19T08:45:22+00:00",
       "source": "DW Tech",
@@ -1382,18 +1382,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "oFUvRyYEgae6",
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.",
-      "link": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-18T09:33:53+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
