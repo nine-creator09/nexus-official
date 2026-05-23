@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-22T19:43:16.405566+00:00",
-  "articleCount": 119,
+  "generated": "2026-05-23T02:52:46.645704+00:00",
+  "articleCount": 120,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "guardian": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 24
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "k60VpC29/W7F",
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+      "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "date": "2026-05-22T23:03:33+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "M87uF2ORNluK",
+      "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+      "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND.",
+      "link": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-22T21:30:06+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "FbzjLwWnZUqn",
+      "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "date": "2026-05-22T20:40:48+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "AbCPwl0So9dS",
+      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "summary": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s",
+      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "date": "2026-05-22T20:39:54+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "18jDhsueTWAr",
       "title": "Elon, stop trying to make Grok happen",
@@ -85,18 +133,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "AbCPwl0So9dS",
-      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-      "summary": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results",
-      "link": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "date": "2026-05-22T16:01:17+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -182,18 +218,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "8xA6oCtQPNC9",
-      "title": "Novo Nordisk uses AI to fast-track drug launches, expand India role - Reuters",
-      "summary": "Novo Nordisk uses AI to fast-track drug launches, expand India role&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0s1azdmX1MzM1paZUJMNXN5c1pKUmVqeGZreWdBWVByN2VGcXRER0NvQVRSRHdIUWZ3Y3RudzY0blRQRVpabXM1Sk1XWGpTUDVoeEdON0pnNl9kUnU3dmdEem9aUlpuOEJEak5WVGpXdGpZWHlGWlBUalQwQUtlTW42Tm1fX1pWaEhiemN3bnhGcTJSVG0yR09vVTY5bXVyWHM0amRmT1didEo0Z25pMTJudGFsLVk?oc=5",
-      "date": "2026-05-22T13:13:56+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -737,18 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "j64w4yYEGQU2",
-      "title": "AI supply chain, Gen Z spending among hedge fund picks at Sohn Hong Kong - Reuters",
-      "summary": "AI supply chain, Gen Z spending among hedge fund picks at Sohn Hong Kong&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkxWZG1mV3pNYU15QmpRa3hrdDFEdUFybFhDbnFldXg4dTZHWkZ2WUx2SDQ3ZmZqWTZjcGRVUmltcHdndUowMnBrZjFWMTBCeDVhZFBMWHhkeDZhc2tscDJBOGxxQkowUWVWc3JyR21kTmlma3pWMTZDWFpSbnRDY29sdXJCd1BHbWd0aENrb2cxMTlGa1RpZlI1UTl0bVNESEptZGdETWpCeTlBWURrNmdqZVBhcEk?oc=5",
-      "date": "2026-05-21T06:32:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "yLtj4h6ESvLp",
       "title": "Alibaba signals next phase of AI growth from investment to commercialisation - South China Morning Post",
       "summary": "Alibaba signals next phase of AI growth from investment to commercialisation&nbsp;&nbsp;South China Morning Post",
@@ -819,18 +831,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "u+4JoR4R5YvU",
-      "title": "xAI burned $6.4B last year — SpaceX’s IPO filing shows why the spending is far from over",
-      "summary": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion — offering the first public look at Elon Musk's AI financials and more details about his ambitions.",
-      "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "date": "2026-05-20T22:26:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
     },
     {
       "id": "BhVrwJQYuUuR",
@@ -998,6 +998,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "B8P0hiz0qBPJ",
+      "title": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery - Reuters",
+      "summary": "Bristol Myers to deploy Anthropic's Claude AI model to speed up drug discovery&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWdsQkU0QVJWQTRMYTdTWk1RMzlPaG9rZmZLNjZRZ185aFdoRy1oR2JwMzFQb0gtdGJIUVBwM3BrZlFnVkQyN0N0aDAyMUF6OUNLTFM0Zm00ZFRaeUp2WVFUaHlFZUhVSC1lMGJUTGhvVzFaMEJmdm1rUFYyempCWWxIYTRZNk10U0lfQ1JDQWRYQzdRc3puYU8yd0NqZVVNVWdKR3VKanktS0g4NUhXeTE2WVViM0twRWdRVDNXNWsyUQ?oc=5",
+      "date": "2026-05-20T11:51:36+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1289,9 +1301,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Z7pkxFlXBu8/",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;dw.com",
+      "id": "dLwqq8dwkOLM",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 33 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 33&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-05-19T08:45:22+00:00",
       "source": "DW Tech",
