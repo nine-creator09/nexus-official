@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-23T19:08:21.868079+00:00",
-  "articleCount": 119,
+  "generated": "2026-05-24T03:32:13.324154+00:00",
+  "articleCount": 118,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "bbc": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "scmp": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "YEMocA73C1pu",
+      "title": "「Gemini」「Claude Code」「Codex」　全社展開・本番実装に役立つ5つのポイント",
+      "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
+      "date": "2026-05-23T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "WfN01UDJf7v/",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
@@ -326,6 +338,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "f5kLMdWX/z8Q",
+      "title": "Morning Bid: Brittle bonds and AI boom face off - Reuters",
+      "summary": "Morning Bid: Brittle bonds and AI boom face off&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQlhDaWF2MVZ3OFdKNDVmZFpCR1pHSGV1Z3FlZ0RhYVNzRkxJVE9QM0Jub1NvQzJHVE9JMjhnTXJvY056YnNaWG1RdUVkd2tLT3Z4Rmk4SFBMcThrcTdBNk5NWWRjdHlMdENFeVJnQ0hkYmRHNG1DUUVjbFRoeUZia2V0OVBhYnQtcHFEVG01RnU3SDl2YUZr?oc=5",
+      "date": "2026-05-22T10:45:37+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -809,6 +833,18 @@
       "articleLang": "en"
     },
     {
+      "id": "KL15RABDbcrZ",
+      "title": "AI gives China ‘God’s-eye view’ of green sector as data-centre demand booms - South China Morning Post",
+      "summary": "AI gives China ‘God’s-eye view’ of green sector as data-centre demand booms&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRlhrTU8yanBlUEU2aVNWOU9heHh3bHpXT1pMcXF6aFhnZjhTR081MmlOZmR0Z3NkWHI1dlY4eFUzaUdneWN3dkRSZVNQWjhBOGg0Mlg1cDFKOXBpSFlwWjNQWm9OOWdEamVGYVBuVkEtVHdmTTJHMEZtemljakxCN1A3N0d2T20yQTlBUXFrTkUxeU45cUQwWDZ2VWRKRHBoOHhyVDVxTFU0dF9sWVptOFRGUjlSbFdiYldfUkRDSVFzUzdheHZ3NUFBeXFCdTdDWkpGcF92Yl9obUnSAdsBQVVfeXFMTm53alNWVmNnTmJsOFdaZUhSY2h3MncyMUNkS1FoTGhoZmtqWDZ5WC1FZVZtZmR1Q0k1bDN6TXZuMjVOdE5LMU1waENPdkRzWG1RSmtmZHVkekpYWEVUWHNkbk01UWc5dlBMb2g1WFZreVcwUjBHaG9fZklETVpVRkdzeDFiUGVuT0FVU0lLR2xUVnV4clRwTjUtTjZOUE9DZTRRY3dNLW8tamVtTHg5Z1ZlY1NDbkpjbEp4ekoyRlg0TnlzMXpCcEotZzhHYlhFWFh2QXhLeFFzTnJN?oc=5",
+      "date": "2026-05-21T13:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Xg20ZkbvSnDd",
       "title": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports - Reuters",
       "summary": "Regulators question StanChart following CEO Winters' AI comments amid job cuts, Bloomberg News reports&nbsp;&nbsp;Reuters",
@@ -850,18 +886,6 @@
       "summary": "CEO Dimon says JPMorgan to hire more AI staff, fewer bankers, Bloomberg News reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUmxYYXEycDFOMXVUMlp6YUMyWnhmVFFod1JPRmFycGZjSE04Qi1JcjNGMldQemRjTWxad0hGMy1DM0o5b3k2WHhZZlViTDRBVERqajlqUVRUOE1pOGVDVFJiY1Y5LWphOFp1QXA1ZldxWWRxNDdjRVl4OXY3cjFjQzlJQll1Z1pVLWpQSm54RzgzaG1ZR1pabGxua2o4V1VnNFlNRlU2VFdZb1ZKV2pPUFV4MUFZeExualQyS2hpd2kzaTcycTFJQVFqZS1JeVdfT1NLaw?oc=5",
       "date": "2026-05-21T09:25:17+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "j64w4yYEGQU2",
-      "title": "AI supply chain, Gen Z spending among hedge fund picks at Sohn Hong Kong - Reuters",
-      "summary": "AI supply chain, Gen Z spending among hedge fund picks at Sohn Hong Kong&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdkxWZG1mV3pNYU15QmpRa3hrdDFEdUFybFhDbnFldXg4dTZHWkZ2WUx2SDQ3ZmZqWTZjcGRVUmltcHdndUowMnBrZjFWMTBCeDVhZFBMWHhkeDZhc2tscDJBOGxxQkowUWVWc3JyR21kTmlma3pWMTZDWFpSbnRDY29sdXJCd1BHbWd0aENrb2cxMTlGa1RpZlI1UTl0bVNESEptZGdETWpCeTlBWURrNmdqZVBhcEk?oc=5",
-      "date": "2026-05-21T06:32:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1085,6 +1109,18 @@
       "articleLang": "en"
     },
     {
+      "id": "3uofEz+elyw8",
+      "title": "Don't fight AI, HSBC CEO tells staff as banks begin job cuts - Reuters",
+      "summary": "Don't fight AI, HSBC CEO tells staff as banks begin job cuts&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYnctODF6UEV6WE5zWTE2MFFsWXNrdlFHWEN3eElINHlKSmg0TFZsWGxQLXp4UnFfM1hTcGhtY3JOVnJBNXJlR2VDOENaZGFfLXZIUUtqTm8yb1NWRS1MeGxHSGhaWHJST3dwdTZycmdzVExOOXZGQ1lGZkRkeG1fTER4WURDeUJ0eUhqQ3N1bTFVQVhfNC1kaDlEU0M4RnhzeDZIZGtQOG14eWpITXRBTg?oc=5",
+      "date": "2026-05-20T10:45:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "R4v4uuE2s8Yh",
       "title": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory - South China Morning Post",
       "summary": "Alibaba unveils new Qwen model, custom chips in bid to become China’s AI factory&nbsp;&nbsp;South China Morning Post",
@@ -1095,18 +1131,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "1KT8MWsOaZP1",
-      "title": "Google「25年で最大の刷新」　AI検索、新モデルで“OpenAI対抗”鮮明に【発表まとめ】",
-      "summary": "Googleは「新AIモデル『Gemini 3.5』」「AI検索の機能強化」「AIエージェントツール」などを発表した。OpenAIらへの対抗姿勢が鮮明となった発表をまとめた。",
-      "link": "https://www.itmedia.co.jp/business/articles/2605/20/news107.html",
-      "date": "2026-05-20T07:35:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "Cr3DUspLZ6g5",
@@ -1155,18 +1179,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "6EesDijUB7uR",
-      "title": "「Gemini 3.5」登場　軽量モデルは一部3.1 Pro超え、高性能モデルは6月公開予定",
-      "summary": "Googleが新しいAIモデル群「Gemini 3.5」シリーズを発表。軽量モデルの「Gemini 3.5 Flash」は発表同日から利用可能。高性能モデルの「Gemini 3.5 Pro」は6月にリリース予定。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/20/2000000010/",
-      "date": "2026-05-20T00:02:56+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "meUPbqk39KTc",
@@ -1457,18 +1469,6 @@
       "articleLang": "en"
     },
     {
-      "id": "MsZ4tOfM3eOz",
-      "title": "China ramps up building national computing power network as AI token use surges - South China Morning Post",
-      "summary": "China ramps up building national computing power network as AI token use surges&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZzFmeGRDZGNUQ0lkYnVobXR6cGNRNjZleXJQSFpQV3JRa09LdHhndXZfa1JlbVhJX013OG93bzVzUkpLSmxHcEg3c2lWd1JpaXNhM0Q3STFuY3J2NFo1bHE1WU4tUndBclU5bnRtV2lzWUY1UTQzNHZYQlVvSTNtdUo0V2dBUFo2WkNOZDhuUG44ZTF4emZPcnNoMlJTY0U4U0JnM1RlWEJGR2R2eWxNclJYaHAxdnhUdjZXdHFGQTB3eVpacnfSAcYBQVVfeXFMUGJRajJ6aF81MTlUU3dXLXRTRlJoUmlibnhPXzB0OFZkbFhDemlVdjFaakFrdmh1TGhvZmJHc0lmQndFYlpSeW13a3NxcFQySlNZZTFoVGk2NmtEcmYzOG9ydUZ6eFpUN21LS01WaU9JYXhPMDlUem5qbjNUZU1zWEJ3OVhONUJkQmotaE1RUlBobGhxZXA5bnpDeGJSNk02VmhxVnk4TmwtZDlUTkJVTHVIdmxROFQ2Ym44X2JHQjZZb0tyUWN3?oc=5",
-      "date": "2026-05-17T12:30:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "hHwM6PRrj/4J",
       "title": "Singapore AI Zoom scam: how a victim lost US$3.8 million to a fake PM Wong - South China Morning Post",
       "summary": "Singapore AI Zoom scam: how a victim lost US$3.8 million to a fake PM Wong&nbsp;&nbsp;South China Morning Post",
@@ -1478,18 +1478,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Otr7pLiTFEYc",
-      "title": "Not even Photoshopped: Plastic surgery clinics turn to AI for ads - The Korea Herald",
-      "summary": "Not even Photoshopped: Plastic surgery clinics turn to AI for ads&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13WGYyUUkycWx3TW1WWVhrajFlLXVpUGVGbjBTeUttSEVJTnZUSW5oUnJLMGswVjhwTERmWHFEaGlvcUwtOVRGeTJEZ2FyRlBMV29waFR2aw?oc=5",
-      "date": "2026-05-17T02:14:32+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
       "articleLang": "en"
     }
   ]
