@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T15:24:14.888420+00:00",
-  "articleCount": 103,
+  "generated": "2026-05-26T20:08:06.839677+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "mit": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 0
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,45 @@
   },
   "articles": [
     {
+      "id": "mYrlLxoe4iwN",
+      "title": "Tech Life",
+      "summary": "What is the role of a teacher once AI arrives in the school classroom?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxx?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-26T19:30:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "gWMWtPW65wCX",
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "summary": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here.",
+      "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "date": "2026-05-26T18:33:01+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kjUTaspCOBMR",
+      "title": "Micron joins $1 trillion club as AI race powers memory chip boom - Reuters",
+      "summary": "Micron joins $1 trillion club as AI race powers memory chip boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlpneGgtU2ZsNkc4QXF3Zy1CTHZ1ZEpESTItaEpmOVdkWE1TdkhrSlg4bXJ2eEo5TFVZSnRHWXRHcU4yU1VUZ25vRW5BOWxXVjg1ZDBOdjAwclVJaVNYbXVZT1ZId2N3VkNsbDYtVzhtRlQ4OFA1WlExQ0pDNE5nSmJ2S2ZyU1Y1Mi1faFlTRDdaaG1uaWlBbDhqVF9mNW9Ic3FETnF2Y09BUFV6?oc=5",
+      "date": "2026-05-26T17:16:48+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "vPO+43r9LiL9",
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies",
+      "summary": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies.",
       "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
       "date": "2026-05-26T14:55:05+00:00",
       "source": "TechCrunch",
@@ -86,18 +122,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "kjUTaspCOBMR",
-      "title": "Micron joins $1 trillion club as AI race powers memory chip boom - Reuters",
-      "summary": "Micron joins $1 trillion club as AI race powers memory chip boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRlpneGgtU2ZsNkc4QXF3Zy1CTHZ1ZEpESTItaEpmOVdkWE1TdkhrSlg4bXJ2eEo5TFVZSnRHWXRHcU4yU1VUZ25vRW5BOWxXVjg1ZDBOdjAwclVJaVNYbXVZT1ZId2N3VkNsbDYtVzhtRlQ4OFA1WlExQ0pDNE5nSmJ2S2ZyU1Y1Mi1faFlTRDdaaG1uaWlBbDhqVF9mNW9Ic3FETnF2Y09BUFV6?oc=5",
-      "date": "2026-05-26T14:44:01+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -185,6 +209,18 @@
       "articleLang": "en"
     },
     {
+      "id": "AVnffldco5ZV",
+      "title": "BNP Paribas steps up Mistral partnership to bolster rapid AI defences - Reuters",
+      "summary": "BNP Paribas steps up Mistral partnership to bolster rapid AI defences&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzBqRHFuVWNGUG9Tdkl6THlFQnZIUFFQY2RHelVERkY0X2RNSUhvcTREQ2hCSnVXWDVPOFRILUNjcFl2MmJTUlJTSDRxa3YzcHJlTEU0cERwQmxGT20zQlNsYmZ1OGdrZFNncFBGNXZCbV9jS2swb3ExMVJrWnpYUFVWdFhVUExKVm1GRS00dndZU3FZWUxoeDJOR0kxa3g1TG9XeHNGUkQyV29ScWxYSXM3bUFma3lNX0Jv?oc=5",
+      "date": "2026-05-26T11:53:05+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "eYth4mk28tFn",
       "title": "Hong Kong woman duped out of HK$1 million by fake AI investment app - South China Morning Post",
       "summary": "Hong Kong woman duped out of HK$1 million by fake AI investment app&nbsp;&nbsp;South China Morning Post",
@@ -221,10 +257,10 @@
       "articleLang": "en"
     },
     {
-      "id": "aELRV+3PwQgG",
-      "title": "AI Is Taking Over the Most Cursed Job in the World",
-      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
-      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
+      "id": "EHnR5uaGWVKv",
+      "title": "Quiz: Will AI Destroy Your Career?",
+      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
+      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
       "date": "2026-05-26T10:00:00+00:00",
       "source": "Wired",
       "key": "wired",
@@ -233,10 +269,10 @@
       "articleLang": "en"
     },
     {
-      "id": "EHnR5uaGWVKv",
-      "title": "Quiz: Will AI Destroy Your Career?",
-      "summary": "Some jobs may be toast. Some will survive. Click your answers to learn your fate.",
-      "link": "https://www.wired.com/story/quiz-will-ai-destroy-your-career/",
+      "id": "aELRV+3PwQgG",
+      "title": "AI Is Taking Over the Most Cursed Job in the World",
+      "summary": "There’s a mad dash to automate the world’s most hated calls. Have an unpaid bill? You’ll hear from an AI debt collector sometime soon.",
+      "link": "https://www.wired.com/story/ai-takes-over-debt-collection/",
       "date": "2026-05-26T10:00:00+00:00",
       "source": "Wired",
       "key": "wired",
@@ -305,18 +341,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IIiIMb7mEkWu",
-      "title": "Could a controversial award-winning short story signal a new era of literary 'AI slop'? - France 24",
-      "summary": "Could a controversial award-winning short story signal a new era of literary 'AI slop'?&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWhub182VmV2SVRqUXYxQURweDlmQlZzY29iVG9BQk9RRGN4NDJqN3k5YXFmTFhWYVl3RUhYRERYTHJOQnV3RHNYbGtBR29aNVgwZlFiSWJqME5BV0daX09pYnp0UHdkYUd2MEhpVzBtcnBTU3oxWm5salVtX09OQ2t4TUY0ekphUWNVejdUdWxWLUpUQkVUMnNCMlpPOTREVVotM1JpZU1USGxST1REZ1VzNnpheTlQS2Nfb1hKYm43ZGhCTVR3cUlTb3hHNHRxT2pwYzNMeTI?oc=5",
-      "date": "2026-05-26T09:53:37+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "3A8P0DL6W5RL",
       "title": "South Africa targets January 2027 for revised AI policy after earlier withdrawal - Reuters",
       "summary": "South Africa targets January 2027 for revised AI policy after earlier withdrawal&nbsp;&nbsp;Reuters",
@@ -365,6 +389,18 @@
       "articleLang": "en"
     },
     {
+      "id": "IHdftLdPhuVV",
+      "title": "China restricts overseas travel for top AI talent at Alibaba and DeepSeek, Bloomberg News reports - Reuters",
+      "summary": "China restricts overseas travel for top AI talent at Alibaba and DeepSeek, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQekFWOFQyTGt0d0JGUVpzeG9RMGxxeG51S2VpbjNIYXRXZWYyV1ZSTUYyUTBSRXV6UEg3STBxcll1b0xKT0FVTWlpa3I5UkRsV1VEWnZUS2ZVSzl4d1dtZGF5YmFac3JzcDRfZWVtbF9TZi1nNGR2OTVsY3JlUUFTaFI5WmNHS0ViQjlRaDhlMUx1cWFiblRIY1UwRzhjTW1mc0tjVHBuX1p1RlpRd0VwaHd0dVpvV241VE1fOTZRY080VmFlLS10OGljdkk?oc=5",
+      "date": "2026-05-26T08:33:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "T4ljva8DZg6o",
       "title": "US students on why they booed their pro-AI graduation speakers: ‘They’re not reading the room’",
       "summary": "Recent college grads are not very fond of commencement speakers hyping up a technology they see as a threat to their career prospectsWhen Jacob Pagel graduated from Middle Tennessee State University t",
@@ -386,6 +422,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-05-26T06:27:16+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -477,7 +525,7 @@
       "title": "Pope urges 'disarming' of AI in major manifesto - DW.com",
       "summary": "Pope urges 'disarming' of AI in major manifesto&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEp0cVRQWDE0bE1OckpzTVlvTm1sMEJEdXI4V1NwZVNxeFdRVzRPcl9PdUY1dmRmWXNRT0ZZcmJZQ2R4QTZjZUlIZXJ5VG9UM3VYUEFwemg4eThRd3lBSmdBNzhvaXVwSVNyWElqcE52UFJIMzY5ZVJyQ3JZa0tSNVZvUTjSAYQBQVVfeXFMTjBlTlNvT0d6a0dKVjByc1FaR2o2a0VPZnBnMDFGWEl4aW84aUZXMFZtZl9wR1dpNEc5cXNtRFRVX010SjVLSnoybDNJWWVCZlQ0MjRKVzB5dk5LQS1ZMlA1QXkzUVgxMTVGd2VxUFBaZlZDVDFIMUpqNlZlSWsyZTlBSnUx?oc=5",
-      "date": "2026-05-25T15:17:24+00:00",
+      "date": "2026-05-25T15:33:39+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -605,8 +653,8 @@
       "articleLang": "ja"
     },
     {
-      "id": "zmj2n/jdVnat",
-      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "id": "IEZLTIFD31yY",
+      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
       "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
       "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
       "date": "2026-05-25T10:30:00+00:00",
@@ -638,18 +686,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "axHV3Gw6LRlu",
-      "title": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto - France 24",
-      "summary": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjNqVTJNZDk3Y3A0VVhxNVFSelgwUzNiWXUxSlB0cjYxTndlQXdmN29HM3VqbFFfZDRCT3pTMVZvUmlJUW9FMjV5S0hlR0hCRklZR2FtbWJUOTMzVl9TWVo5RF9rRkNCUV9IdDVsTmN3QTJ0Z1dVS3BkN0s1akF2aHAyYkFLSjg1RDBfQTFVY1Ixam0wT3pPLXlvNkkzQQ?oc=5",
-      "date": "2026-05-25T02:51:09+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -818,18 +854,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "D7pweY9kFV5w",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-05-23T11:06:16+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1145,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LASXkOsIrl9Z",
-      "title": "Six search engines worth trying now that Google isn’t really Google anymore",
-      "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.",
-      "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "date": "2026-05-21T19:19:05+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "f5/+kwqeMo0S",
       "title": "Scaling creativity in the age of AI",
       "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: f",
@@ -1178,18 +1190,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "QWJBTH52tKmQ",
-      "title": "Trump delays AI security executive order, saying language ‘could have been a blocker’",
-      "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
-      "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "date": "2026-05-21T17:30:45+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1233,7 +1233,7 @@
       "title": "Trump to sign order on AI oversight as security fears mount among supporters - Reuters",
       "summary": "Trump to sign order on AI oversight as security fears mount among supporters&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkpmNFRzTzUwaVB0M1FjQnV3N1UzN3ZsNUVRR0xPcXdkM2hIYWdGd1kyUVg0bzBMZlNmZTV0QTJPNUVDWk1nZEFPQ2NCS3NaYlhZSFUxcUtOLWVWS0hUa0l4cGVXUE9ST2ZhUmx5eGJQWHJsRTN4NnAwS3NobS1QR2RUd2FKTDNqdWpQVjV5aEFWR0UyTV9EQ0JHdW84UlhWUmZTZkxMcE5fNXFSS3hRVlV1RDZvU3VTczg5eA?oc=5",
-      "date": "2026-05-20T22:28:47+00:00",
+      "date": "2026-05-20T22:26:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1253,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "H7cdWjiu9THA",
-      "title": "Singapore’s AI-job cuts debate flares over ‘lower-value human capital’ remark - South China Morning Post",
-      "summary": "Singapore’s AI-job cuts debate flares over ‘lower-value human capital’ remark&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNExJeVg0ZVljWkhmZnNWQ2tTSHkzU2Y5aFVjYTFJcmdqM2xCY3lxWTY1T3Y4ZHFnZnpYMHBBOHlPOVRiSXFwdDZ3cEhLTHQzaFVpZDRLeXR0a2hneTQ5X0lxcldpR1VQbjZNNGhXVl8zWnp5ekZwd2FBTk9FM09WdDFYc21WaGt5OFVRbkY3UVo5ZkdNOGdEU3ljSHl4Vk5TSlEtbUgzSTJ4ajlrSzBDVmdxUU45eUpKUERvYUFDeHdtYzZkYk1valFn0gHKAUFVX3lxTFBFTlBNdDNHSG0yX3R6ekU5VUN1X1RMN28tRW1tUHFnV1BLWkJLQlJOMlFsSTZYT0p3S294ZUVCRncxajlua0EwbXNNSVlUdGRXNWJBMEdXNkFaT09YeXk0bTQzZUVOdFowMDVyZDBZMHVDdVpWa0I0Q2F5NjU5bVJvZ2U5LW00RXhTTlIxQk9fQU1tVjdGUUpHckhpZkthS054dVRoRmg3OXd6ekhiUzdWUnVncWYwY3BNbGRlaWFLeTZsZUQ5bHRwTFE?oc=5",
-      "date": "2026-05-20T13:21:33+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "Bl3sxKTTJofr",
       "title": "Google to release first smart glasses since Google Glass flop",
       "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
@@ -1274,30 +1262,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mYrlLxoe4iwN",
-      "title": "Tech Life",
-      "summary": "We talk to an expert about the risks from AI hackers",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxw?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-19T20:00:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "4DpXonh8jEK8",
-      "title": "AI-related data breaches surging, Verizon report says - Reuters",
-      "summary": "AI-related data breaches surging, Verizon report says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV3NQdjc3NFM1eFZPR2NiUTExaV9xWnNQaVVsSk9oeDVUbXM2a0FaYjZ4WDdIT0FOM2ttVGdpNnBSYlFBUVRIbnE1RHR2anllcm10TDdyc3ZoM0FsSG1sTGRSeGRmN3JvajJSRGFxWEl0elFzTGZkUTlzRUljTXp3N1lEMHgxUUx1d196MTFJcFNVSURacmUydl9mM1JWQWpVZzZXSWwtVHJ3aE1Zd0FCay0zRDNGaHFr?oc=5",
-      "date": "2026-05-19T17:06:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
