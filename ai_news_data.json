@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-26T20:08:06.839677+00:00",
-  "articleCount": 100,
+  "generated": "2026-05-27T03:42:03.921950+00:00",
+  "articleCount": 102,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 0
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,90 @@
     }
   },
   "articles": [
+    {
+      "id": "j7kH+Qfzo5zk",
+      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
+      "link": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-27T00:43:55+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "FLFZ8Il66bKo",
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "summary": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "date": "2026-05-27T00:38:11+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "S7w6JlH7UMs0",
+      "title": "Pope Leo Schooled the Tech Bros on Tolkien",
+      "summary": "The Holy Father referenced The Lord of the Rings in his encyclical about AI—an expert (if unintentional) troll of tech billionaires who keep misinterpreting the series.",
+      "link": "https://www.wired.com/story/pope-leo-schooled-the-tech-bros-on-tolkien/",
+      "date": "2026-05-26T23:19:03+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Mup5BnDXW8Cw",
+      "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+      "summary": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out.",
+      "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "date": "2026-05-26T22:32:56+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "usofaPT3OedI",
+      "title": "Trading Day: The AI train rolls on - Reuters",
+      "summary": "Trading Day: The AI train rolls on&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGFtb1VmdlJMOG9iRzkwV1lObDN0ZFdXYnB4TVlJcmw2a21Sa3JoM0RqRnJYNS1QTEdlb1FfLThRb194TEtxYzNMeERxZTBmLUs4bVhJTWlZM3NSVXlkYU4xTUlPNTBlUkRfZVZSakVuMF9LSF9QLVpHNzZFZThlVzlSRC1YSFNGdnVoSDN1VTJvUHlYYV9vMkVRY29sMUhlS3ByYU13?oc=5",
+      "date": "2026-05-26T21:08:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "oJfNxIOgD0FQ",
+      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+      "date": "2026-05-26T20:46:03+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "2aKKFRk5WTiz",
+      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
+      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
+      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
+      "date": "2026-05-26T20:17:47+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "mYrlLxoe4iwN",
       "title": "Tech Life",
@@ -74,6 +158,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "bgf1trxOqCgn",
+      "title": "SoftBank hires banks for US IPOs of SB Energy and AI robotics spinoff Roze, sources say - Reuters",
+      "summary": "SoftBank hires banks for US IPOs of SB Energy and AI robotics spinoff Roze, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYW56R18tUlFncHQ4S0hlN2NJbkpwOWl6eDJhVS1Jdjg3VVJFWXNCUG5xSmNILWxJZlZnYVJSWS1aWm5rbFhkQ09PelFLMEtoMk1HTW5HVGNLREl1WUlvYjNkbmxtckh4LUtKampGQkk4QndTeTlYSGI1b2hQTDJTcU5JZ0lpNW13akllZWQtWE90VWFnSWNuLTZpdThqaVQ5ODVfUFRUQTlERE1mRlFTS0tCbnZEZjhw?oc=5",
+      "date": "2026-05-26T19:21:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -317,18 +413,6 @@
       "articleLang": "en"
     },
     {
-      "id": "9boG/2ZzxI63",
-      "title": "7 Ways to Get So Good at AI, People Will Think You Are AI",
-      "summary": "From killing your chatbots to optimizing your prompts, here are the best ways to go full AI native and conquer the new world.",
-      "link": "https://www.wired.com/story/7-ways-to-get-so-good-at-ai-people-will-think-you-are-ai/",
-      "date": "2026-05-26T10:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "jy2And8mTiwV",
       "title": "Uber president says AI spending is getting ‘harder to justify’",
       "summary": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp",
@@ -341,6 +425,18 @@
       "articleLang": "en"
     },
     {
+      "id": "IIiIMb7mEkWu",
+      "title": "Could a controversial award-winning short story signal a new era of literary 'AI slop'? - France 24",
+      "summary": "Could a controversial award-winning short story signal a new era of literary 'AI slop'?&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbWhub182VmV2SVRqUXYxQURweDlmQlZzY29iVG9BQk9RRGN4NDJqN3k5YXFmTFhWYVl3RUhYRERYTHJOQnV3RHNYbGtBR29aNVgwZlFiSWJqME5BV0daX09pYnp0UHdkYUd2MEhpVzBtcnBTU3oxWm5salVtX09OQ2t4TUY0ekphUWNVejdUdWxWLUpUQkVUMnNCMlpPOTREVVotM1JpZU1USGxST1REZ1VzNnpheTlQS2Nfb1hKYm43ZGhCTVR3cUlTb3hHNHRxT2pwYzNMeTI?oc=5",
+      "date": "2026-05-26T09:53:37+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "3A8P0DL6W5RL",
       "title": "South Africa targets January 2027 for revised AI policy after earlier withdrawal - Reuters",
       "summary": "South Africa targets January 2027 for revised AI policy after earlier withdrawal&nbsp;&nbsp;Reuters",
@@ -350,18 +446,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "m+CmMzyMTtOk",
-      "title": "US Law Enforcement Warns of ‘Anti-Tech Extremism’ as AI Hatred Grows",
-      "summary": "As Americans stew over the looming risk of job-stealing AI and data centers in their back yards, the feds are raising the alarm about a new category of threat, documents obtained by WIRED show.",
-      "link": "https://www.wired.com/story/us-law-enforcement-warns-of-anti-tech-extremism/",
-      "date": "2026-05-26T09:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -653,18 +737,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "IEZLTIFD31yY",
-      "title": "The AI Era Is Creating a Bug-Hunting Arms Race",
-      "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
-      "link": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-      "date": "2026-05-25T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ZgBEyhTJmcFi",
       "title": "Anthropic's Olah says AI must be guided from outside Big Tech - Reuters",
       "summary": "Anthropic's Olah says AI must be guided from outside Big Tech&nbsp;&nbsp;Reuters",
@@ -686,6 +758,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "axHV3Gw6LRlu",
+      "title": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto - France 24",
+      "summary": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjNqVTJNZDk3Y3A0VVhxNVFSelgwUzNiWXUxSlB0cjYxTndlQXdmN29HM3VqbFFfZDRCT3pTMVZvUmlJUW9FMjV5S0hlR0hCRklZR2FtbWJUOTMzVl9TWVo5RF9rRkNCUV9IdDVsTmN3QTJ0Z1dVS3BkN0s1akF2aHAyYkFLSjg1RDBfQTFVY1Ixam0wT3pPLXlvNkkzQQ?oc=5",
+      "date": "2026-05-25T02:51:09+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -809,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "YEMocA73C1pu",
-      "title": "「Gemini」「Claude Code」「Codex」　全社展開・本番実装に役立つ5つのポイント",
-      "summary": "開発現場における生成AIの利用は常態化しつつあるものの、「コード補完の域を出ない」「特定の個人のスキルに依存している」といった課題があります。本稿では、個人の生産性向上からチームへの定着、全社規模での展開、そしてAIエージェントの本番実装に至るまで、開発プロセス変革に役立つ5つのポイントを整理します。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2605/24/news007.html",
-      "date": "2026-05-23T23:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "WfN01UDJf7v/",
       "title": "Ferrari is using IBM’s AI to create F1 superfans",
       "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
@@ -902,6 +974,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "3sWN/oDEnpXe",
+      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
+      "summary": "Trump postpones AI executive order, cites need to compete with China&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
+      "date": "2026-05-22T22:57:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1010,18 +1094,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "FISPfYoUYvJY",
-      "title": "The literary world isn’t prepared for AI",
-      "summary": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection",
-      "link": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "date": "2026-05-22T14:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1157,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Aw74Aro9oOOS",
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "summary": "Spotify is partnering with  Universal Music Group￼ to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue.",
-      "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "date": "2026-05-21T19:45:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "f5/+kwqeMo0S",
       "title": "Scaling creativity in the age of AI",
       "summary": "Storytelling is core to humanity&#8217;s DNA, stemming from our impulse to express ideals, warnings, hopes, and experiences. Technology has always been woven through the medium and the distribution: f",
@@ -1178,18 +1238,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3sWN/oDEnpXe",
-      "title": "Trump postpones AI executive order, cites need to compete with China - Reuters",
-      "summary": "Trump postpones AI executive order, cites need to compete with China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzNjeDgtUzFjMXB6Z1A2MHNKWERwUm9GMXM2SjJSNnNwY2NKMjdIQy1VY25tZkxGOTl3YWlUZ241WGYzR1hVRnc0Y1Zmdm1XbGV6RkpzNDQ5dGZmTno1ZU82NHhXeUl0NWoySmhTUFQ0NkVVMk52cF83Mms4WmQxTkNISFk2a2t1aUJPVFVxZ2tyT3l3ck1sZGo3Y1dZR0lCU1cxb3ZoMkdvNm1lY1pNS3VhRzg1T2QzNHF5LQ?oc=5",
-      "date": "2026-05-21T17:57:39+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1229,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BhVrwJQYuUuR",
-      "title": "Trump to sign order on AI oversight as security fears mount among supporters - Reuters",
-      "summary": "Trump to sign order on AI oversight as security fears mount among supporters&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkpmNFRzTzUwaVB0M1FjQnV3N1UzN3ZsNUVRR0xPcXdkM2hIYWdGd1kyUVg0bzBMZlNmZTV0QTJPNUVDWk1nZEFPQ2NCS3NaYlhZSFUxcUtOLWVWS0hUa0l4cGVXUE9ST2ZhUmx5eGJQWHJsRTN4NnAwS3NobS1QR2RUd2FKTDNqdWpQVjV5aEFWR0UyTV9EQ0JHdW84UlhWUmZTZkxMcE5fNXFSS3hRVlV1RDZvU3VTczg5eA?oc=5",
-      "date": "2026-05-20T22:26:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "l4jj4JdLEQUE",
       "title": "AI financing fueling a surge in U.S. convertible bond sales - Reuters",
       "summary": "AI financing fueling a surge in U.S. convertible bond sales&nbsp;&nbsp;Reuters",
@@ -1250,18 +1286,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Bl3sxKTTJofr",
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user.",
-      "link": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-05-19T21:00:12+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
