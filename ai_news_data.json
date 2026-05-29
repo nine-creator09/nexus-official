@@ -1,14 +1,14 @@
 {
-  "generated": "2026-05-29T15:27:47.614218+00:00",
-  "articleCount": 108,
+  "generated": "2026-05-29T20:23:41.472914+00:00",
+  "articleCount": 114,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,90 @@
     }
   },
   "articles": [
+    {
+      "id": "srpX58wHPUvf",
+      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
+      "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
+      "link": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
+      "date": "2026-05-29T19:07:46+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BjlSQ3Kbx4y8",
+      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "date": "2026-05-29T18:49:19+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "CPZYic0JOyo9",
+      "title": "What happens when companies become too AI-pilled?",
+      "summary": "The people deciding that AI can replace your job are also the ones least likely to understand what your job truly involves, according to Box founder Aaron Levie, who pointed to this as an example of &",
+      "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "date": "2026-05-29T17:57:05+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "wBei5jKVsbqY",
+      "title": "Tech companies desperately want to film you doing chores",
+      "summary": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "date": "2026-05-29T17:37:43+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9ycw+DFpavX4",
+      "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "summary": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe",
+      "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "date": "2026-05-29T17:27:13+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "s+385k0WGePs",
+      "title": "We Asked the ‘Future of Truth’ Author to Explain How He Used AI. It Didn’t Go Well",
+      "summary": "A book about how AI shapes perceptions of reality came under fire for using AI-generated quotes. Its problems go beyond that.",
+      "link": "https://www.wired.com/story/future-of-truth-ai-interview/",
+      "date": "2026-05-29T16:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "k3x/JQD0nJ3y",
+      "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+      "summary": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers.",
+      "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "date": "2026-05-29T16:13:47+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "wahGxD36Ty2V",
       "title": "The Vatican’s Man Inside Anthropic",
@@ -73,6 +157,18 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "johuhrJgDQyP",
+      "title": "Kiwibit’s AI-powered bird feeder is my new backyard buddy",
+      "summary": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pokémon, give this smart feeder a try.",
+      "link": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "date": "2026-05-29T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -185,6 +281,18 @@
       "articleLang": "en"
     },
     {
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-05-29T09:48:21+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "46QhJ6fPPA6+",
       "title": "How DW uses Artificial Intelligence in journalism - DW.com",
       "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;DW.com",
@@ -194,6 +302,18 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "CFpvWduUZzM6",
+      "title": "At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage - Reuters",
+      "summary": "At Computex, Nvidia and Taiwan's expanding role in AI infrastructure set to take centre stage&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdDJHQWFLSm1mOFd1YzM1d2d6RGJjemZiTGNISy11Tlhab1NMU1k2RUFIM29ab1d4NmZnemRwQjU2dnpta2Y5U3JmdDhrZVozMUVuQXdfaUh6Z1Uwai1MVU5JeHVfd21xQ0JRLUc4TWFtQ0o3enlNaEgtcWxMTWw5ODZwcjJCZ3AyWEl4R0RydkF1Z1BsS2hFblk2OWJDNUVfVHpnYWdYcnFyQUdJMWk1ODVBcXVYMlg4c2FEQ2p2NXVjbjVR?oc=5",
+      "date": "2026-05-29T08:24:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -207,18 +327,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "SKhtDnshNtnC",
-      "title": "India's Wipro up 4% after expanded partnership to scale AI adoption - Reuters",
-      "summary": "India's Wipro up 4% after expanded partnership to scale AI adoption&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkpxVzNoVk9HbXBIMjhUWEVERVZWeFVLeWV1bmloWGsxYkJjS2M2anBjcTZBdi15YlNneGE1OTNaeUlaRXl0R05lY0hJU0Q1VFdmYUR5RllJeG5wZzR1MTBoNndjUDVyYjR6S2d1cGNZNy1BdFM4RnVFb1BESkZZc1V0bGtEZ1V4WThURDdfaTFRMXhiaTA2NE8xY3pFUVpWZ1V1Nlh5aDdPaEYxdEdj?oc=5",
-      "date": "2026-05-29T03:46:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "aKIEJH9Dd9bA",
@@ -315,18 +423,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "kU1Q1eOmio7M",
-      "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters",
-      "summary": "Anthropic's valuation surges to $965 billion, surpassing OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
-      "date": "2026-05-28T19:57:33+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "Lq/CNFM8zG57",
@@ -521,18 +617,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ES5wsQV9vSMb",
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and ‘Auto speed’",
-      "summary": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences.",
-      "link": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-      "date": "2026-05-28T14:28:47+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ipYamsWUnwez",
       "title": "Fed's Musalem says it's risky to bet that AI will ease inflation - Reuters",
       "summary": "Fed's Musalem says it's risky to bet that AI will ease inflation&nbsp;&nbsp;Reuters",
@@ -566,18 +650,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "PXC3d5kwNg2i",
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "summary": "General Compute is betting SambaNova will be the next breakout chipmaker.",
-      "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "date": "2026-05-28T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -662,18 +734,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Y1n2JWjGBdWO",
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "summary": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.",
-      "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "date": "2026-05-28T07:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -802,6 +862,18 @@
       "summary": "Capgemini says AI widens client spending pool&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzRCZnVBYy1xQ1JYVHRLS2tneUNuN1owaG9rLUxHMUI3Q1hiRjB3Smozclg0dTI5RkF0cEJFSDRsMGFqX2JLNTh2ZzFYWElnMC15Z29RZFhXNUk1TmNwRkNGcGhBMjk0bElwZVZPZGpwQVdwNzA2V25sdF9RYnJYa1JKejJUOVU4U1NFNzdjcTFESjZWV0F1VWl4MDZoTW1tc3ltNF9GNERGdw?oc=5",
       "date": "2026-05-27T16:47:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "F2opAWqLYCIq",
+      "title": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption - Reuters",
+      "summary": "OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSkxPWWY5YlBZTlZrLVRySEdkV3dXUDNrNjJwOVBPbHVsUXNOWTNOenVnSjRVNTBGal84QXkycF9FeUVReTFGWENWYVVvNzhIcEdhM19WU1J3YkFMNlhfbzNUX2xSSGw1SWhhY21wclFzQ0NyMW1CMzFmQkRza0ZPX18xMHRzMG95TlVOUmRfLU12MmhzNDVzNTN2OW5KZ2xNaDhtT0VRTjY0WjJ0UGprQ0dzTlljVHJM?oc=5",
+      "date": "2026-05-27T15:07:47+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -977,6 +1049,18 @@
       "articleLang": "en"
     },
     {
+      "id": "em57Oep0YRKZ",
+      "title": "Capgemini sets new targets building on AI consulting, but shares fall - Reuters",
+      "summary": "Capgemini sets new targets building on AI consulting, but shares fall&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQVhYRi05bVhFeG5XdGg2Z2ZtZjRBVjJvMlVfb1NGeEJXTHVfOWpybkQ2RjdnNXAzYzQzdzVhbU5SQTBySlZVMHFyODkwN19rdWFKeEIyVVhNc3dPQTd0T3JIS2JTVDNhbjdWREdBWUNnYkd5X1pka1ZITnBoRXMwR1Jia2dDd0pzQmlia0pINFE0NDFoRzZ3NHJQVXF5dmRHTGJiNkVpZzE?oc=5",
+      "date": "2026-05-27T05:23:17+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "2iLpUAq4cp4a",
       "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete.",
@@ -986,6 +1070,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GGx2iWZj4V28",
+      "title": "Trump appoints former Attorney General Bondi to White House AI panel, Axios reports - Reuters",
+      "summary": "Trump appoints former Attorney General Bondi to White House AI panel, Axios reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYm15M1JaLUowNDJKTWxCT1Z1TW90Y1h2cWJ3RHNNWWtaUDBVeDJwRm8zM1M4bS1yU0c5RVk4Wm13dzZrWmpDTXBUTjNhTEo5QU0zX2lSamh1QW1oVlBTOGJ0dXlMNkFvUXp1c19sV2tmajFkT211SWtzY3FZR2RYUGpiS3k5TElTcG1VbVc5bldBNXRfNlJVT0NCMlZjRGpuN21xMk1NVjJWWDlIMS1Bci1KMjQ3NmpFeTJSb0poUVFrdw?oc=5",
+      "date": "2026-05-27T00:35:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1010,30 +1106,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "oJfNxIOgD0FQ",
-      "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
-      "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
-      "link": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
-      "date": "2026-05-26T20:46:03+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "2aKKFRk5WTiz",
-      "title": "What Pope Leo XIV’s First Encyclical Says About the Power of AI",
-      "summary": "In Magnifica Humanitas, the Pope decries the concentration of technological power in a few global players.",
-      "link": "https://www.wired.com/story/what-pope-leo-xivs-first-encyclical-says-about-the-power-of-ai/",
-      "date": "2026-05-26T20:17:47+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1205,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "D7pweY9kFV5w",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-05-26T06:27:16+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "GT5deYFc2wsE",
       "title": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare - South China Morning Post",
       "summary": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare&nbsp;&nbsp;South China Morning Post",
@@ -1322,6 +1382,18 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "Jv9e6zYF58r+",
+      "title": "Singapore’s economy grows on back of AI boom, defying Iran war slowdown - South China Morning Post",
+      "summary": "Singapore’s economy grows on back of AI boom, defying Iran war slowdown&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm5GRnppMEZibXJ6X3pNbG1rREdxbEVuLS12YUl2TE1EYmg0cFZ2V21HYnBDZTZFYnZzVkh0ZDJqQ2lOSy03Ynptd2xHc0U3ak5YcVFTTUMzVjk0UTkxWFRBTG9mNFQ0UGZHQkkyX24tclcwSkpTNmE5TjZXd09uNF8xUE5FdnRsbXlqOGdhZGRJQmFwclNRZ0hxQWJwdFRWVUVoWURtRDZxNDZvTEFldTVEckdIa3FvM1JMaXFDNHl0bXPSAcMBQVVfeXFMUDRINFFhandoNUt6U053LUcwcEVDbC1uVGVndkhRVFhPX0ZQSDQzTnAyLVVrWTVqNi1qNWZmell4YXhGeXdrNjFNZENyVDZGREl2dXkyTVpVRXVDX3JMVEdiYjE1enJLNEJCS3IyVTRlNUdMaGYzMXlmTUJlenlqOG8yZVp0TzFfMHFkME5oYzE4bVZtOWtsY3lkWm5PNVVJZDBpVDhzOW9aQ0VINDRQbXRzQ0RLNzIwQS1Sd3AxQjR2SXUw?oc=5",
+      "date": "2026-05-25T01:29:19+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
