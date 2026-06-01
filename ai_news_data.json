@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-31T19:15:57.425024+00:00",
-  "articleCount": 109,
+  "generated": "2026-06-01T03:58:37.702466+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 6
+      "count": 4
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 22
+      "count": 24
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "gNVGVxa0/d14",
+      "title": "インテルがロボット開発の課題を解決、オープンなロボティクスライブラリで",
+      "summary": "インテルは、ロボット開発のための統合ソフトウェア開発キット「Robotics AI Suite」に、インテル製プロセッサに最適化された推論ランタイムを備えるオープンソースのロボティクスライブラリ「OpenVINO Physical AI Framework」を追加すると発表した。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/01/news082.html",
+      "date": "2026-06-01T03:45:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "nQ3Y+q58THkS",
+      "title": "How US export curbs are forcing China to redesign its AI chip industry - South China Morning Post",
+      "summary": "How US export curbs are forcing China to redesign its AI chip industry&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOGVMZklfbThua3lUeVJqUXdMbnA5OGRDaDFnV0VTOENvY1h5Wk9fZnpYMWRrMG1Ycmk2V3V6d25icWFZODhnRDJPdmR2RzRNUkFLUXIyU0pLeUN2V2JnbzM5cWNZcTJDWmxFNjhsLXg5a25GVWRlN0FfclR2bFdSRGNoWU5FbHQ0eURBelZLMHMwYk05a2ZXemFVRTM2YTVMV3hOYmFhQ1AydEZkQ3czQ0FCYk5lSjNHazZrN09XQUhqYzVHY18za25yNlY2MTgw0gHQAUFVX3lxTFB4eFd2TU8ySjdEVTVFbXduWWRWM2xDbGROZFZpUmZLWnZLa2M3OTktRFhnelhaRXpiUXpYaXdrRGZlUERMOVNhbmtmb1lWcU42bDRQdmlGNUotWFRvbjZleDlsaEhZSkJ4MkYyM0E1NC1zOG5zYnJuMmdtQ21EMmlQZ3lVdHlrN2Jvd2wxVlV5YWRKU19GZ0pRRGlOckVRVjBCeDB5RTFUVXZIS1Z4YkJiclNVWkNmZDZ4SE40UnEwR0o2UXFiWnBBcy1YdmtPUlE?oc=5",
+      "date": "2026-06-01T02:00:16+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "D91dKDM+5bbS",
+      "title": "South Korea export growth hits four-decade high on AI chip boom - Reuters",
+      "summary": "South Korea export growth hits four-decade high on AI chip boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObUZaNE0zcldLWGpoVWFONHR4OS12MTZ4Um5rN2xYNkZLdUUyM3JWbDMxX0I0WTFaNXNuRXNnaGJIeGJ3WjdxV1ltams4cGVEeURGX2Jxd1NEV1BsNFNjVHV2Rk12NnR4VGZxQmxlMHU1X1F6UTdvdUxURnJ6bHdKdUNmM0o4elVZbVozSG5McmlkLXQ1eV8tWnNPX3laNmpHOVo2eWl6ZXZKc1VQUldMMTBoQjN4TWlJNnR1MHFwckEzMWstNVdpdGI1WTQ?oc=5",
+      "date": "2026-06-01T00:54:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "2MEKJ14ez9W/",
+      "title": "AI could redefine China’s EV market: Morgan Stanley - South China Morning Post",
+      "summary": "AI could redefine China’s EV market: Morgan Stanley&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWltVGpObEhoSFVwSjNPVGtza1ZOWUluSFBPdTZOSXBjOWZtaHZkQjE0SUgtOG8zUFFfSmtteU4yQWk2bEhiYlF4U2tFTzIyYzg1VVhsWHlBcDFTRW10MmEtVnduTy04ZTU5eHhzeDYxYVBnQVRhMjZlXy1UUTF5MnFnaVVoZjEyd0R6bUhfRjQ1cVUzcWhqZERidzdSNzRYU2g3aXhNNTdUZFc0SEN6eW1oYmtZRzhsc2trSkdqRjdRZUnSAcMBQVVfeXFMTTk1TTNpbXI4VW1aSWFHdlltdHBUU0szZWdtbE1WaHdFR0djVGZkc3hvMG5zdWtiQlFQUXBBTFZuU0xSMkNMSUZUT1JfTU1UYTZhbUhXeHRYc2JzZThGcUtNTloydGtWN1MwRnZqZWRLSjNSLXRBTnJJM2oxaXdwSU1OMHhaWjlMS3lxODBHOU8zWFE4YVp3LThINXluXzR3MHZaWVV4Nlk1WjBSbDZWbGhxdW1fS2VHS0diVEZHR0pibElv?oc=5",
+      "date": "2026-05-31T23:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "8ewZAT0OfUNo",
+      "title": "US takes step to halt Nvidia AI chip shipments to Chinese overseas subsidiaries - South China Morning Post",
+      "summary": "US takes step to halt Nvidia AI chip shipments to Chinese overseas subsidiaries&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV3BwQkFjTi1qQjB5WC1zbVZWS0l2QjhjUUpNSjdXT1c1emdzYUw4eXIwcFNwdVZ2ZzR5bk1vNkhQaWFzVUVISWllRldoSktibjhQbUt5LURndVFjMzZLY3cwZ3JVZTVyYUVCeGVTa05ZNi0zakZGMU9rejREbllZUl9ydE5SenkzTUFfbE1CSnJKM2p2MjNNQ3k4X2lJa3RYcEhmWS1SZE9QbnFIYkhWR01ZY1JQNlBkWGN0dzlTVVFpZmVyenNESGI4aHVYNW44MWxaVjVmY9IB1wFBVV95cUxPU0t5cm1GaWUwc0VOZXpZemRuSFZsSGJpSnotdk1wUW56Xy12YXNKcmFWUXViR2ZoWEpfNXE2dEkyRE5yd1lwbTdJZEFsSGtUNzdWSFc5dl9YcTdlRWZFVEhCVl9ZMFo5TzVobEczSEZOMnRpSXROeHNETXpiMXJiV0ZlbGNxZ1dVT3ZLRnZmcldZRXZXOGJlM1VKRUVndzVzV1ZhenhuMklmczVXbWhjWVlvMF9BSEJBYVNlNzFEV2p5V2VhRC01V2Q2cjd1d0RMTnZSQk1kTQ?oc=5",
+      "date": "2026-05-31T21:46:33+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "bGY4A9EOADUk",
       "title": "Making sense of the debate over AI psychosis",
@@ -77,8 +137,8 @@
       "articleLang": "en"
     },
     {
-      "id": "QgcfUwx0rFe2",
-      "title": "This model is not a real person: how AI is shaking up fashion – video",
+      "id": "gd9hTJOIqIu5",
+      "title": "This model is not a real person: how AI is changing online shopping – video",
       "summary": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sel",
       "link": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
       "date": "2026-05-31T15:00:51+00:00",
@@ -533,6 +593,18 @@
       "articleLang": "en"
     },
     {
+      "id": "PtVq0nkXF4UQ",
+      "title": "HKEX revamps Tech 100 Index as benchmark struggles to keep pace with AI rally - South China Morning Post",
+      "summary": "HKEX revamps Tech 100 Index as benchmark struggles to keep pace with AI rally&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeW5pSDZaUmZndWVQdkIzMzYwbS1PeDVXR09FRl9sVC00dTRsYWJmVjAyNjRUVXk2MmN3THpFeGJLc3k4U19VaFBnLVZ1Ti1FUEoxcFlFZlVTaFlwZTI5aFBxRy0zOXdON1FINDhKbDNJODYwSlRmSEN0YzBHa2pQWnRZUkJEREJPQ0dTdlF5dFBuZEVKTENyU1NXT2w1akp6VDZfQ1lFSldxUDh0NDFGczNWWExpUVlUeUFpa1NUT2V4dGhfdWs4cjR30gHKAUFVX3lxTFBiR3BrUXE0Z0dOU3hjdVZ5ZnBITXRlSUNwMFNhUEJ4QXg3YXItWVM3MEFCbzd3bkVlck1vclIyMkZVQUYtM0JybTh0Uk8xMDlUSGJROHUtQmRKOGU5U2hEOFJpYzVsUzZ6X3RqYnhwczVISzlmWFlmXzJ6bEpFRlRoU0VqVW40WDJ1OVlXSG4tdHNrTlpOR29saEpDTy0yZnN2SDQweWMzdVdxSTBfZEt3UF9neHdHZ0xCYlY4NmF0NE9pOFhCSVd5OFE?oc=5",
+      "date": "2026-05-29T10:37:37+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Ikf4+DZ+wxqu",
       "title": "Workers need greater say over AI rollout, says TUC-backed report",
       "summary": "Exclusive: IPPR thinktank calls for new measures to boost employees’ influence at ‘pivotal moment’ in history Workers urgently need more bargaining power over the way AI is adopted in the workplace to",
@@ -581,9 +653,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8Ii7dpB7sUdy",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;dw.com",
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-05-29T09:48:21+00:00",
       "source": "DW Tech",
@@ -593,9 +665,33 @@
       "articleLang": "en"
     },
     {
-      "id": "bOFL1QkDQ90e",
-      "title": "How DW uses Artificial Intelligence in journalism - dw.com",
-      "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;dw.com",
+      "id": "0wqRNJELBs9j",
+      "title": "China extols potential of AI in guideline on marine biopharmaceuticals - South China Morning Post",
+      "summary": "China extols potential of AI in guideline on marine biopharmaceuticals&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenpEYlhaOWFmcGhvcFRVYVZtUXVOdjE1LUJpMG04N2JaRkNGSlRjODhiLVozS3ZUaVpnamNORHp6SU9fYVUtQ3otUWpFTHRodERUNzc3b0xVeGw2bVpSWkxRLTFBWFc0c3Ywdjd2V05oSlJjeUNBTzBzaXd3czNqV3dsNmNrQ2t6MHpzWWN4bFh4dUZWRnlEc1g0Q3VPNkNwdl9sRGFSQTJPNklqVmFKbWRSX3QyT21OZW13TtIBvAFBVV95cUxPbFE1VzZNcElVX2pGNTM1d24wdjBkb28zYzRMSFNBMHptbHhRNVVJTThtckFHXzdUTl9feHJONkdsTVFXbjlDWmJXY3MzN0cxeDU3WEhJUktMNkd4Vk5POTFPNWJmV25NRmhrbmVES3p0UXNxQzI3YmxBdkhWbjFnc3pZaXUwN0JQcW9LczVSRGdQSnc1bFMwZ0RLb09FMDRFNmpMX2d3Q1U4VExoY1o5SWxBUmRSRFN0aTJkUQ?oc=5",
+      "date": "2026-05-29T09:31:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "03f5zqEvzQE8",
+      "title": "Lenovo’s status as Hang Seng Index top performer validates AI push - South China Morning Post",
+      "summary": "Lenovo’s status as Hang Seng Index top performer validates AI push&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVm5iS042SVBXR1R1ZEpSVmRGSFh1RFBVU0VEWkFaZnhERVFGbWlYbkFVUkhWU2EzbF96QkJORXEtcWFTMWdoQUdvWTdYUFFYZlBJVkdWZ05acFl5Um93LUJaQk9TbkhFN3BveGJTbkdxNjZJbERrSW5rUWVfZXJjdElJQTdUdEhfRm41dTBjTHZRTFdJUmVkNWEwRUprckJzT0hEWFdtLTlSTlJ2MHJPN1Q2TFF3OTAtbzRfWXNhSkNVaFFnSlVJ0gHHAUFVX3lxTE5OdV8yc3A4aUt0Tm9HVnk1Rk9RZXJaWjh2aTRZTUFZUmZVbDdGbHAycDNlM3B0RF91YUxQX1h0bUNhOU5kTUVZMXplMERuRHhBRkZ6X1BQV3lPUGpJazgzZTNUZlBMaVl2UU9DQTVMX081QU9iNjg4LVBaZmdLVlo5eEZpd3I4aW1xUGhjNF8xN3RDQlItVk85aDdPcjdhQ3BWTTRzWEhGVWZMOWxoOElzNVpreHFmdWg4ZDZ2YTRTTTduN1FCbmc?oc=5",
+      "date": "2026-05-29T09:17:16+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "46QhJ6fPPA6+",
+      "title": "How DW uses Artificial Intelligence in journalism - DW.com",
+      "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVVptU3dQdTFYT3ZubUhsUG0xQjlXSFBPSWY2N2IyRHhwbW5na1hoVlNmQWxmbmYyaUxLS0NMaGN5M3diaDVwMWtxZU9SWkdETWF2UmoxWDgtRWpxcjRTTUxQMmJkQk9NU0UzaXVuYmtsQVB2eEhLbEhic045UjRMZ080TFoyMXhHVEE?oc=5",
       "date": "2026-05-29T08:33:03+00:00",
       "source": "DW Tech",
@@ -650,18 +746,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "kU1Q1eOmio7M",
-      "title": "Anthropic's valuation surges to $965 billion, surpassing OpenAI - Reuters",
-      "summary": "Anthropic's valuation surges to $965 billion, surpassing OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRUpjZXd5MTl2S0ZtVWhmelZRdXBNaEM1UU1KQkppbVoxOG9hWkRlSEp1cjZGZV94TG1uVi1vTHhJXzdpYUZ5ZHlTcm1qWUgtd0RGRWl4WlFTVGUxU2k5WkFwaXp4ZkVFcWF6eWhvaFVVQkwzVHZTWlllRV9iSTMtTWRmSmt0RXBJenVtbjFQU0RqQ0h6a0V2eFhrQQ?oc=5",
-      "date": "2026-05-29T01:25:20+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,30 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ToGYUAlas0EC",
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
-      "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "date": "2026-05-28T18:52:51+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "o1+F1e3Qtmy2",
-      "title": "デジタル庁、AI「源内」向け国産LLM再公募　有償の政府調達へ　評価テストは50問→300問に",
-      "summary": "初回公募は無償試用を前提に募集したが、27年度向け公募では政府調達（有償）に移行する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000036/",
-      "date": "2026-05-28T17:54:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "WCkWawVYVvB+",
       "title": "AI is changing how we think, not replacing it | Letters",
       "summary": "Richard Thackeray and Phil Snell respond to an article by Wendy Liu on using artificial intelligenceWendy Liu’s thoughtful piece on AI and cognitive sovereignty raises real concerns about labour redun",
@@ -819,18 +879,6 @@
       "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "O6Gb2U5xdO5f",
-      "title": "Anthropic、Claude Opus 4.8を一般提供　誠実さが飛躍的に向上、Mythosに並ぶアライメント性能を実現",
-      "summary": "Anthropicは、AIモデルの最新版「Claude Opus 4.8」の一般提供を開始した。前世代から推論やコーディング能力を向上させ、自らの作業の不確実性に対する「誠実さ」が劇的に改善した。また、数百のサブエージェントを並行して走らせる新機能「dynamic workflows」も追加されている。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2605/29/2000000034/",
-      "date": "2026-05-28T16:16:01+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "6dFiAyP1ch6U",
@@ -950,18 +998,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "JLHz3KdGflJc",
-      "title": "Exclusive: ByteDance developing custom CPU chips to support AI rollout, sources say - Reuters",
-      "summary": "Exclusive: ByteDance developing custom CPU chips to support AI rollout, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTGJ6YVhfWFp5MUs5QXh5WE9MRnJlVTJORzUzanhPZGdkaWZ4Q2hyVnRGR3lvNFJ6M0xnNmp4aUR2N2x5UFRVaTQtXzVOZFlra3duR2tsYWlteE4zNk56Y0ZoRFdEOEJOc1JrNWl5clJYeWRYeF92UnlRcUdPNUxaSjRDRWFWekdGU284Rlo4aVZNc0VVcmNESUFyR3FScUp3OWtpcVhBd0NkOFZMSE5tYTdmTFRIN00?oc=5",
-      "date": "2026-05-28T05:55:41+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1136,7 +1172,7 @@
       "id": "wFMz0RkYAKP5",
       "title": "Alibaba AI beats Google and OpenAI in global coding rankings - South China Morning Post",
       "summary": "Alibaba AI beats Google and OpenAI in global coding rankings&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQU5hdWFEOTFFZlY1WXNzRkRnQjZ3UDhhUVdSQ3AyVUFnM3Jrb2RMamxtNU5aRVJReW5mTkNfb3ZlZW1PbWx1NGVnQzVGMjdQWmFQcjY4dkdrYW5rM2lqQjJDSWJIY1VDRHNmNmpoR1BJYjJWU3RuYS1sOVBwX24yV09OMlZTUkFha085cDdNVkRSMk9HT1ZhQnQ5VjJFeUNpaDdQRGQ5WkpYRXRFbFhIb1lONXRXMjRLQjhVcGEyck5BZHPSAcMBQVVfeXFMT3VpclNaaHJsbVFDcHhZN0VlYUdTTDYydEs0SDgzd3VpdDgtdmw4NGp3cUxBS1JHUDAxeTJWaWtRUjNkZVg4M2F6UUhvVGVrNWFqd0I1SlM1a0RDOFljVjhkVFltNjFqRTh2OXdVbjJZVkJyTmRYYVBvZHBPTnQ1NkZnQmVUbTVfNlVURENzVGtYY00yTVlvVTFrMjk2bW9BSDhrS2dQTFVrREsyQ0hMTnp5elNIOVJnWVJhQWppbUNEYkdB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQU5hdWFEOTFFZlY1WXNzRkRnQjZ3UDhhUVdSQ3AyVUFnM3Jrb2RMamxtNU5aRVJReW5mTkNfb3ZlZW1PbWx1NGVnQzVGMjdQWmFQcjY4dkdrYW5rM2lqQjJDSWJIY1VDRHNmNmpoR1BJYjJWU3RuYS1sOVBwX24yV09OMlZTUkFha085cDdNVkRSMk9HT1ZhQnQ5VjJFeUNpaDdQRGQ5WkpYRXRFbFhIb1lONXRXMjRLQjhVcGEyck5BZHM?oc=5",
       "date": "2026-05-27T10:00:15+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1181,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "3bnckubISy4w",
-      "title": "Opinion | Why America’s AI firms are hedging when it comes to China - South China Morning Post",
-      "summary": "Opinion | Why America’s AI firms are hedging when it comes to China&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGVSRXBRN0pBWEVLT0xXYXU1RWlKdGJ6TXFtTjNVOGJaYVBVTFdobVlNSnAzNUxsTWZzS0RGSnBZQXlINVBDdWZLWmlvdHVWMjB5M05pQTJNYm1UVFJacEdlOXFTSVBoc29pWGUxX1ZJT1kyak43VkE3NHlZV2p4VlN1eXZlNTZySmJHT1NCSlpwX3JaT09LVFJVX1RRM3BHc0V3X1BOTzBfUy1zR1VwZHN1dUMtSUR3b0pv0gG7AUFVX3lxTE93NHF2MEtDcUNCWWtqTTg4MV9odzlNWVUyQUNSanlRWG42dzVwYlYycHBtWXBVcEZBRnBTSTJGUGowWWRHNWFoNzY4cnh4R0ZLblZzbFBKOGJheENqVG11N1VMelNSdWtxV0JzU2ZHbjhoVUxvY1BGdzU3RW8ydEwtNnplU193WWRNMnJEUW5PV3A0RXpUc2c1M0k0dVh6TlpoZkJISmtwc2N4dnk5S1R4cVdfREFUcTdsOU0?oc=5",
-      "date": "2026-05-27T08:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "bb66rGDITeHR",
       "title": "China expands tech replacement drive to include AI chips amid US curbs - South China Morning Post",
       "summary": "China expands tech replacement drive to include AI chips amid US curbs&nbsp;&nbsp;South China Morning Post",
@@ -1214,18 +1238,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "28vQVnP6UIYG",
-      "title": "Insilico, US partner to build AI models predicting disease decades ahead - South China Morning Post",
-      "summary": "Insilico, US partner to build AI models predicting disease decades ahead&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeGpFaWVlbWluS2djcnRjbzFQTm0ybkJSZFNBN3RoTUp3TTZFTWtBQzZ5TUFjcWdBaGl3ZGpCOWI0T01IUUE4X1V2U2Q2ODVMeGlBVUE3bTBNR3hhUlN0cGlFdUI4d1lQdzkzX3BCRERjYmg5dDlGS2R5cnBMbDkwN3drVDNUWTJMRWdaWmduM3dLQ0x0NDNFVDF4dkdleFhVd0d3SXdELXVPZndLcE5VOURTVHFmNENCYkl1d0h1ZjFFbnZxc0V4MmtIeTDSAcwBQVVfeXFMT0Nicl93dUl4R0Y4YWV0ZEd1MVhBcF9iVjc2ald5SEhlNkhfcmdQMnhWVVpaclVYWEppODVrMDMwTTMwM3BhVFBSQk03dU9kam5jbi1tUXVZN0VhcTdPMTI3NlF4cEFpZzFCbVdDcVpvbWpwMUw3X3V1ZE9PZ2RGdTZrajJxc25TSUtzQW1iSXBnb1MtdlBFcHU3RWo5bFNVUzJPTjNTRjFJVE10QkU4Yi0wWjEwd3o2T2RCcDN3QTY4b1I0THB2QXRhYWdC?oc=5",
-      "date": "2026-05-27T00:30:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1277,18 +1289,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RwFjp0jxEgU3",
-      "title": "How does China regulate AI while the US pulls back on oversight under Trump? - South China Morning Post",
-      "summary": "How does China regulate AI while the US pulls back on oversight under Trump?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPak9wSkFBQ19qaXBDekZ5QTFCTHVGZW1WcVBLbFVBSEZfcy1BaTdneTFGQUVZeEVsQVJ6eG9JdmZDcU83cjlHWjdFaDRQVGgxblM2aDlPQVFhcHNkQ0M1UHd5MWhqNjk5bldPMWZnX0xkTlppTVRhWFROdDlPcEQ0MTU2aVNDUWpmMVJRYkF1WXNzcE5SMTkzYWliZU9fWDBsN1lVaWg5NGtkRVZLMFk4RmszVnZDSzV2Y2V4NE1n0gG-AUFVX3lxTE94bVRCeUphREtXTFlvakxjU3BZLXlMbWFoTnZCOG01QVFhLVdfRVNlOExYSGllV19nbnN3dkV1b2QtWU9oMFZwT3gycC1VbmpqUV9Od3RUcmN4R25JVXlEQmhBYXVkUldxekM2SjRwY3A1bFEwTkpUWF9RU2VKbjdCTFAtTXZIdU5FZnExUjhJZVEtMnNpMzZULWRiVTRuTEQ3eUZDVERzUEpTTlZ3ODhtN2NOUmdObXF1S0I2cFE?oc=5",
-      "date": "2026-05-26T11:36:02+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "IIiIMb7mEkWu",
       "title": "Could a controversial award-winning short story signal a new era of literary 'AI slop'? - France 24",
       "summary": "Could a controversial award-winning short story signal a new era of literary 'AI slop'?&nbsp;&nbsp;France 24",
@@ -1301,9 +1301,9 @@
       "articleLang": "en"
     },
     {
-      "id": "mX47BE+OQEua",
-      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI - dw.com",
-      "summary": "Germany's Dr. Wolff cosmetics company is going all in on AI&nbsp;&nbsp;dw.com",
+      "id": "G18lIKMxaz0Y",
+      "title": "Germany's Dr. Wolff cosmetics company is going all in on AI - DW.com",
+      "summary": "Germany's Dr. Wolff cosmetics company is going all in on AI&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZl9haUpRdVNPUDJCbXVibnpReTVqRklvOHZGZE1WUm1hVUFreXBBcE1vYnNBMWttb0VzNXVGOFhacjYxODc4cGx4VHdpUnZ4MUpuTW1qeGljQzQ1TllSV241dzhvYzk4VktzdUFJbEZNMlZoZ0JZZEdwWjVCNHR1NWZ5cFBhdGoyWE5seXE0VEdfeF90WVBfdUw1dlUxaGtGM0dPVdIBpAFBVV95cUxPRDhOeDg3dnFMNFJvSFZvXzg2SEdUYjBZMUhHNjU4ajVibjRydkhkSzhHMmZyUXdGc3RpTGR5N2lpVXZlQnBNakRCcnItUnFqdVhoMG8wWlhMcW15ODdBbE1PcUNRV2tPTWNGZ0pBUl9UQlFoeENENWpXUDFsWVEwQjJOVHBfTVdOdmFNb0E5VVhwYjFHRFZDb2tVQXpSN3RrR0RxWA?oc=5",
       "date": "2026-05-26T08:13:48+00:00",
       "source": "DW Tech",
@@ -1325,18 +1325,6 @@
       "articleLang": "en"
     },
     {
-      "id": "E0aJ9LAZCEIV",
-      "title": "China has a crucial edge in the global AI race: public optimism - South China Morning Post",
-      "summary": "China has a crucial edge in the global AI race: public optimism&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUGRlbzIzN0g5RHdQdWRIS1dYZDJwZkdfWVBsMFZINXhvbThLSlR1MmpPWTVWTzMwODlpODVPWDhQVEhVWEJGNk1rQ1pRel82d0NpYV9SWHI1NUo2dDBUdVRMcjljOXRQQTNUMHdjSFlYdV9sY2R5b095UkRHaktFMTB3REZ2TnBfR19ScXV0aWZaQkphVHo5Zjd1U0czOTFIVXZHSXUxRXNSNEg4ZFh5ZlZXVGN1X0hacnQzMFhn0gG-AUFVX3lxTE94VXlwY3lteTVRODNVNElWV09TM19IbG0tOWswMlZXSzAyQ05WWDF2dnFFLWZyUWIzV040QW03bndnWUlYSjdVZmROcXhjRkdsNFBiVzV0ZkhpQjhQWWY5RTZJNUhoTXd4NmsteUZPV0EtX1J3eDNVS3pqQU1JRTJ5Z3ZjdDIyTUJaV2U4MDNUaFdacGlyUEZIWGR6Z2g4NnBPUjdVYnVLRHpaT1d3THo2ZjBlMEJmR2xjOHgyVUE?oc=5",
-      "date": "2026-05-26T07:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "GT5deYFc2wsE",
       "title": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare - South China Morning Post",
       "summary": "‘New form of war’: an insider view of China’s AI strategy in electronic warfare&nbsp;&nbsp;South China Morning Post",
@@ -1349,27 +1337,15 @@
       "articleLang": "en"
     },
     {
-      "id": "SACybkm0kggK",
-      "title": "Pope urges 'disarming' of AI in major manifesto - dw.com",
-      "summary": "Pope urges 'disarming' of AI in major manifesto&nbsp;&nbsp;dw.com",
+      "id": "mb2ci0HehiF4",
+      "title": "Pope urges 'disarming' of AI in major manifesto - DW.com",
+      "summary": "Pope urges 'disarming' of AI in major manifesto&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEp0cVRQWDE0bE1OckpzTVlvTm1sMEJEdXI4V1NwZVNxeFdRVzRPcl9PdUY1dmRmWXNRT0ZZcmJZQ2R4QTZjZUlIZXJ5VG9UM3VYUEFwemg4eThRd3lBSmdBNzhvaXVwSVNyWElqcE52UFJIMzY5ZVJyQ3JZa0tSNVZvUTjSAYQBQVVfeXFMTjBlTlNvT0d6a0dKVjByc1FaR2o2a0VPZnBnMDFGWEl4aW84aUZXMFZtZl9wR1dpNEc5cXNtRFRVX010SjVLSnoybDNJWWVCZlQ0MjRKVzB5dk5LQS1ZMlA1QXkzUVgxMTVGd2VxUFBaZlZDVDFIMUpqNlZlSWsyZTlBSnUx?oc=5",
       "date": "2026-05-25T15:33:39+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "axHV3Gw6LRlu",
-      "title": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto - France 24",
-      "summary": "Pope Leo XIV calls for 'robust' regulation of AI in sweeping manifesto&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTjNqVTJNZDk3Y3A0VVhxNVFSelgwUzNiWXUxSlB0cjYxTndlQXdmN29HM3VqbFFfZDRCT3pTMVZvUmlJUW9FMjV5S0hlR0hCRklZR2FtbWJUOTMzVl9TWVo5RF9rRkNCUV9IdDVsTmN3QTJ0Z1dVS3BkN0s1akF2aHAyYkFLSjg1RDBfQTFVY1Ixam0wT3pPLXlvNkkzQQ?oc=5",
-      "date": "2026-05-25T02:51:09+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
