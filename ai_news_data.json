@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-03T20:54:28.221578+00:00",
-  "articleCount": 118,
+  "generated": "2026-06-04T03:55:38.558081+00:00",
+  "articleCount": 119,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "esk+Uarx8bQR",
+      "title": "日本政府、AI「Mythos」アクセス権を取得　サイバー防衛強化に活用",
+      "summary": "三菱UFJ銀行、三井住友銀行、みずほ銀行もアクセス権を得たとみられている。",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/04/news073.html",
+      "date": "2026-06-04T01:27:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "V4AAzaFM4tlN",
+      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
+      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
+      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
+      "date": "2026-06-04T01:01:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ISsIvYKBIzi5",
+      "title": "Seattle, home to Amazon and Microsoft, poised to pass moratorium on new datacenters",
+      "summary": "Measure expected to succeed next week represents major rebuke to big tech as local disquiet over AI boom growsSeattle’s city government is on the verge of passing a year-long ban on the construction o",
+      "link": "https://www.theguardian.com/technology/2026/jun/03/seattle-datacenter-moratorium",
+      "date": "2026-06-04T00:17:42+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "9rK1SAIo6yPE",
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+      "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "date": "2026-06-03T22:56:51+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "K+rUD57IvHLH",
       "title": "OpenAI's Altman to urge US lawmakers not to require AI model approvals - Reuters",
@@ -281,6 +329,18 @@
       "articleLang": "en"
     },
     {
+      "id": "77uoe9MJu8cu",
+      "title": "Want to save the planet? Stop being so polite to AI chatbots - South China Morning Post",
+      "summary": "Want to save the planet? Stop being so polite to AI chatbots&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVUzV0w4ZzRYdV9WV1VhaGVucXE3aXFvNmpqblh2S1hIelBVeUxXY05wREVFTV9Hay1USDJPMjhvaTFPaUpHTlpXRGNsQ1JQc19yZTFxcVJ0T1ItVTNwLXl3QnA1OHdDZDIySk1UWHJTUjRlM0dlNmd6aE1iQXZoU01xYTJnSmRIbHh0eWpxVDduSlVmNlHSAZYBQVVfeXFMTVVtZnk3TWk4SmRCY1p1U3JMRHpubGxzU0pCMks5M19JbDgwQ1FuWF9BSGpfWWhhS1Q1dlY4d1BhM21lZVExS1phUW9LVVBRVndnN3N6eUd3UGdoeXl3LVgxcHRKREowaFdUUGxDVW5Jc0F2Y0g0RnhsRFp6VDdTVUNOQXBnVnhwVlRKOHdjUkJMUGdONHp3?oc=5",
+      "date": "2026-06-03T14:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "z53G7ifJap8v",
       "title": "Martin Scorsese accused of ‘throwing artists under bus’ with AI storyboards",
       "summary": "The director defends investment in and use of AI-generated storyboards, saying the immediacy of communicating his vision to cast and crew is ‘creatively freeing’Martin Scorsese’s announcement that he",
@@ -302,6 +362,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0MeEbJbKlU4c",
+      "title": "China’s new plan to feed 1.4 billion people: AI, gene editing and edible algae - South China Morning Post",
+      "summary": "China’s new plan to feed 1.4 billion people: AI, gene editing and edible algae&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRzdZVW9pTDZLSGQyQl9KYlh5eVBETFBZc0M1cXo1QzRZY19GTzh5RUZ4UnJOYmtZWnh0c3c1aV94Q2lfckcxOHdES1QwWU13R2xhSG5QRWp5NTNTRWsxbWF4M1pyM3NTOVpuaU96cTJZRTR0OEU0emZRRXRGckQzOG5DX0Y3R1VCUUM2MkR2WlhxeDR3RGttMk1wWnFnY09RbkppU0FObnhvTW16YXd5bGw2UXc3RnB0U2FfSllXVnNmbHk10gHEAUFVX3lxTE5VT0VsRm41Skl2ZUVuNzRKemRPVmxLWEY3QWtMUkU4OE0zN3RxVURXUV9FcVJrQW42aGt5SjZZeEZ1Q21GVWdJUnlJU0pveGpJeTFlTmExWFBpR3FzMDByOVNPS2lCckhFNXRnRVUyX3FFRFJtcUtSQ1lnYTlYY3NfWC00R1hkZEN5bWlmaFh5dTcxUXYwa3lCOW1DYl9yUGJ4azdSTVJ5a1JOTFdxMGlrNEVVX3ZGUkwwSVY2V2tNV0Q5YUk?oc=5",
+      "date": "2026-06-03T13:30:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -441,7 +513,19 @@
       "title": "India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9% - Reuters",
       "summary": "India's IT stocks head for worst day in 4 months on AI disruption worries; TCS plunges 9%&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWxqVGVuS1lOM0RNZng4aDFOV0FiUjVSSzJ1ZWpqbEhEaDlVT0xkYnZxc2hCR2JFQ1h0Y0I1N1gyOUFOdFhVLWlVSDl1OHZZWFZSWXFXenpJanlpeE1INW9CLUU1R3BHdVZVV014XzBUMHl0RDRpdWE2eXhYRkVLdFlDdnNxV0Z2bl9IWFM1NzVEdXlTSEx3YnFrcUZTMGJkNktKbGc4clI?oc=5",
-      "date": "2026-06-03T06:47:00+00:00",
+      "date": "2026-06-03T08:11:04+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "pjwZitva/xb5",
+      "title": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters",
+      "summary": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5",
+      "date": "2026-06-03T07:19:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -905,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "v5QvZbKXT93A",
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
-      "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "date": "2026-06-02T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "rT+0nRmAn0Sy",
       "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
       "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
@@ -1001,18 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fLUPIkhXXKy6",
-      "title": "AIモデル「ミュトス」のアクセス権拡大　新たに150組織が利用へ　Anthropic",
-      "summary": "米Anthropicは、サイバーセキュリティプロジェクト「Project Glasswing」を拡大し、AIモデル「Claude Mythos Preview」のアクセス権を新たに約150の組織に与えると発表した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/02/2000000048/",
-      "date": "2026-06-02T05:56:37+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "F8mtXy1q9J4I",
       "title": "Tencent shares jump 10% on expectations of AI agent within WeChat - South China Morning Post",
       "summary": "Tencent shares jump 10% on expectations of AI agent within WeChat&nbsp;&nbsp;South China Morning Post",
@@ -1049,11 +1109,11 @@
       "articleLang": "en"
     },
     {
-      "id": "pjwZitva/xb5",
-      "title": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion - Reuters",
-      "summary": "Alphabet plans to raise $80 billion for AI goals, Berkshire to invest $10 billion&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaUNJWklGZ01OTElsSDZlbDBsN1pGeFZ2NTVqdHBFNTFmdkViM2s3YmRvTWk2WTZZU2J0TnVxWHVJeU9hMjUzZVhVend5TzJOQmp4dXZFa0xfXzVTMFZYLVhBMmJKbTZfbzd0V25WTFpmV0FpUThNYzhyVkUwODQtRVR5Y0YyQVVPZXB3RkJwNEd3bVdKZS14cjZsRlUxY050SVNxVnlQbW1oWk9Y?oc=5",
-      "date": "2026-06-02T03:21:03+00:00",
+      "id": "MWeRI45XhZL4",
+      "title": "China's Zhipu AI plans to apply for Shanghai's Sci-Tech Board, issue A shares - Reuters",
+      "summary": "China's Zhipu AI plans to apply for Shanghai's Sci-Tech Board, issue A shares&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORU9pVHk1bVFVZ2QyMFFEbW8zc05fRWdaU05POU56OVR5SjlSaTlrZ3lyMXRSRjlwMzhQTkE3RFB0WGgxOHUxRmNRZjRxZjRubzlzMmd5cGM5bFNLR3hjTFl3U3pEZXd2eDFrMG9tSkY1dXk2Y192eHJSbVpuVXpnOVdycFBIZEIxdGJyY2hvWDVQSG10R0ZNNFh5NnpjaEswRXN1dVJXSTEwa3R2b2w1SWdMYUJ6cFZIV3l0Qg?oc=5",
+      "date": "2026-06-02T01:42:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1109,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Kp7u0CghnHkC",
-      "title": "Anthropic Confidentially Files for What Could Be the Largest IPO Ever",
-      "summary": "The AI giant behind Claude submitted paperwork on Monday that would take it public, just a couple of weeks after SpaceX’s splashy IPO announcement.",
-      "link": "https://www.wired.com/story/anthropic-files-s1-ipo-sec/",
-      "date": "2026-06-01T17:17:58+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "sFLHg+JMMeyV",
       "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
       "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool.",
@@ -1145,15 +1193,15 @@
       "articleLang": "en"
     },
     {
-      "id": "+P71rjrQgTlJ",
-      "title": "Xi-Trump aftermath, space tactics, AI policy change: 7 US-China relations reads - South China Morning Post",
-      "summary": "Xi-Trump aftermath, space tactics, AI policy change: 7 US-China relations reads&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0pCa0RaZm82SWc1YVNoSXlIS09kUTluNHpaVS1HN1hRcEFnTENfZEFTRm53N0tvbWlXVGdMMDRCbFNLeEtHSmlMNjBmQ1MxNGJsRFFKTVJ6UTU2SVRJb3EwbHFHa2VjR0lQWFhBTXVjSTFEQ3RXUk0yLW93YzFOUmdXb1kxQlpWcDZfLWdyXzc4LS1JMm15R3dOd3JNaDRPWVROOTI2cy05bG9EQVBGdU5EdkhyNnJ6TEg1ckcyVFdpcUFkRHptZ0w5UUR2SDjSAc8BQVVfeXFMTk5hUWQyM0xtWVp1MFF0NUdmNXhHYlMwY3hGMTJQblFvOGMwUTRSWm1lWkdjWjdRWWh0ZGhTemdORTFaRWd6bkFraTdCTmlCTmJmYS1rR2pwUXhVYnhGUFYyXzhDMlNuQzFSZ24yVGlUeFRsbGZPN2l2RzNNNGRxMUo3Zk4yXzJ6dFE4T1hGRWE0RFRhdjFaUTkyVkJwczBxUlB6RnBJR3JKZGdxMmJ1aUR0WkR3N003cExIMjNwX2R3WnV1bWtoVnlsaDNTTDRn?oc=5",
-      "date": "2026-06-01T14:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "bxgmg6umXfhr",
+      "title": "AI debt sales reshape global corporate bond markets - Reuters",
+      "summary": "AI debt sales reshape global corporate bond markets&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOV9YVVpRZUlZdVNpXzhTRkxRQVh4NzRfNi0zbXJ5MmlnbEpnbDRvdWg2eFNybjdXNVlReGdWWDZwMGtGcGZKQ25PejZhUVByYzU2b1hXc0dvd3pPMVpFOUs4QkpNMmxFd0N1U1hZanpVNzMtUHdPdEktRXgyRGhhT2QycnRLNWxwUEd4ZHNCUXBjeU4wVXMyTmREV1YwRE5SWlpfNVRKYw?oc=5",
+      "date": "2026-06-01T14:26:22+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1217,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bxgmg6umXfhr",
-      "title": "AI debt sales reshape global corporate bond markets - Reuters",
-      "summary": "AI debt sales reshape global corporate bond markets&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOV9YVVpRZUlZdVNpXzhTRkxRQVh4NzRfNi0zbXJ5MmlnbEpnbDRvdWg2eFNybjdXNVlReGdWWDZwMGtGcGZKQ25PejZhUVByYzU2b1hXc0dvd3pPMVpFOUs4QkpNMmxFd0N1U1hZanpVNzMtUHdPdEktRXgyRGhhT2QycnRLNWxwUEd4ZHNCUXBjeU4wVXMyTmREV1YwRE5SWlpfNVRKYw?oc=5",
-      "date": "2026-06-01T05:47:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "nQ3Y+q58THkS",
       "title": "How US export curbs are forcing China to redesign its AI chip industry - South China Morning Post",
       "summary": "How US export curbs are forcing China to redesign its AI chip industry&nbsp;&nbsp;South China Morning Post",
@@ -1265,9 +1301,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Tbk/NNcQu23u",
-      "title": "Alibaba signs 6-year AI deal with Uefa, will bring 360 replay tech to major events - South China Morning Post",
-      "summary": "Alibaba signs 6-year AI deal with Uefa, will bring 360 replay tech to major events&nbsp;&nbsp;South China Morning Post",
+      "id": "0uHG921QFNeV",
+      "title": "Alibaba signs 6-year AI deal with Uefa, will give fans ‘immersive experience’ - South China Morning Post",
+      "summary": "Alibaba signs 6-year AI deal with Uefa, will give fans ‘immersive experience’&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQckhrOUF6YUpZcE9hMzBKUG5FeEFnRl9EaEltMUs3cDJsd2lwRjViaTQ3X21KMXZBVFVWVEZJRS15UmxueHA5S0pDbzJseVFCRFg5T2diY0plV19nVnMtZ2ZDaHlWVUxTREJWM1ZNbHdGQzg0aEs3cGlkYjNWUFJaZmczVXR6dnVnU3lLRGcwM1NKZExucExSLWtyam5ScGpsRWpUbHlTa0N1Q2d2QWl6aE5vazl0eXpvUVh2VU1CM0trTkRhRFVqZl83VdIBywFBVV95cUxPdmpVMkQ4Q0NVZ21Xc3J5Tl96RHFsN1h1VDVCSDJoYVV2aWE4NXpnVy02RldHLVVHZjFFMXNNbW4tal93cVFocnVHX2o1bmNpZnh3c2dqclI5MzNsTnBSVFNzSS1DTURYVDNnYm9XWkkySkt0dWtNNzlxQ2pjcWhTZXNISWVObngyckd2QW9SeWl0V09xRDMwb2NIYkszM0E3MXBRajRzekludElpRWJJR2pFaGhMSkZYdDZnSzFGMmxRd3g3SzJUYUNUQQ?oc=5",
       "date": "2026-05-31T03:42:36+00:00",
       "source": "SCMP",
@@ -1318,18 +1354,6 @@
       "summary": "US judiciary asked to adopt rule to curb fake AI-generated cases in filings&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamZKbWcyZFFtVFAteUhpX1JGVjRrN05YV0ZsTUVEanZEa0duamlwMWdFSzVmdjRlajY5bE5EMVU2Tml6elphdEZwYnNVbERma2t5dHF4WWUySUltdnVaYmlkMnBYMF85d19ad05HLXIwY2ZDbVN3ZUhja3NPSjh1bVF3NWNaWTQzSjlxcmlsUTE4NWFudzRRVVd5UEdwa244T3E4cG80VExiZXpZSVkxN1lzRi1pamdnbnkw?oc=5",
       "date": "2026-05-29T21:45:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "c30OiWihEmbQ",
-      "title": "Global equity funds draw weekly inflows as AI rally boosts sentiment - Reuters",
-      "summary": "Global equity funds draw weekly inflows as AI rally boosts sentiment&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQTJocy1LUnhXclUxU3BfZTVEeGY3WGZieGRfS0JfbG43YWRUMGI3ZkctM0JFTnR3cjhBdHZEMVFvS05iNjE5T3AtOEpReEg5RUw3WlZmY21FUFFNNGlDb195NF9zSldRZUdEdm54REVVeEl2NWxVQmJteTU0VnFBeV8yY1I2Zw?oc=5",
-      "date": "2026-05-29T17:15:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1466,18 +1490,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "hTGuM0jnfKDH",
-      "title": "AI leaders soften warnings on job losses as industry reassesses impact - France 24",
-      "summary": "AI leaders soften warnings on job losses as industry reassesses impact&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON3lJWkNoa2xmSmJJYXdMeDNLTEtxWHlBc0ZQRmhRaklEcnpoc0pQZDZQU1dhcHAwaFZEd2VYbXFkQk9sejV5dlQwbzhrZV9pUFFISzJTOGFfUFluY2FmUjhBMFRUSHItcHVrTzJjMEY0c1F5U0R6Q2VlWHRqLWZsb1RBNTBxeE5DX3Znc2hZNzJhVFA2NG8yejJWWm1ycFdKWDhZRVF3YjV0Mm5wcGZFX0wxTUxsMWJ4MkE?oc=5",
-      "date": "2026-05-28T01:38:49+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
