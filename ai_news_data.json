@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-05T03:40:07.088705+00:00",
-  "articleCount": 108,
+  "generated": "2026-06-05T09:47:40.913259+00:00",
+  "articleCount": 112,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "mit": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "ars": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -40,23 +40,23 @@
     },
     "france24": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "mg56GjMJIRDp",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "summary": "This week I’ve been at SXSW London. There’s been music, film, and a lot—and I mean a lot—of talk about AI. I also had the opportunity to sit down with Gloria Mark, a psychologist at the University of",
+      "link": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
+      "date": "2026-06-05T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "x+A5mVCZNHhS",
+      "title": "AI Has Come for Serif Fonts",
+      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
+      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
+      "date": "2026-06-05T09:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "2yiVQNah/mgt",
+      "title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
+      "summary": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ09wcEJnaW5yR1lxOFRVSVFESnQya1VkSVVmdzIxZkMyWDgxbkRDeHZDMFNSOWtMaWR1WVBjTXd6cG1uR0I3d2JmT3o4VkQ5VHhMYWJQV0EzMEJfWlVJTGJJY240VVhrUkpQcnpTS1RRUnd5NDFWMFVrclgtdzNvaE0yZWJ3bnBSRDR5RW4zbVFtamdnaGt2dDAtSDl6QURzQk9GWnhSSTYza2lEUUJmTnBMMEhzeXU2OVRZRDhvWUhUbzdWZTJtM3JDNmZ6WjRXSnNpZFhR?oc=5",
+      "date": "2026-06-05T07:50:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "7XOXmUlcZPo/",
+      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
+      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+      "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05T07:17:39+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GOgMCLZzqHh/",
+      "title": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
+      "summary": "Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI toolNew claimants have come forward to take legal action against Elon Musk’s company xAI after",
+      "link": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
+      "date": "2026-06-05T06:00:28+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "MUYqprdg7Fao",
+      "title": "Japan could end up an 'AI colony' if it falls behind, digital minister warns - Reuters",
+      "summary": "Japan could end up an 'AI colony' if it falls behind, digital minister warns&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0tsNGx5MmtYTGNpT2RxdkU2dEcyYzU2dU5MdGpRMVhVTzhWaHRGQWx6SmpOcjIyaW1aRDlXUjI5dndobV9zdV9ocGR1bU9nTzFJYW1RaWJsb3pJelBIcG4xU0tONEYyQnhZNUtBZmxMWDBKYWJJZlhTcmgxN2JPX2lHYWI5d0wzeE5ZMWNGS2RMclk2WTRaYk44T3FWYko0Z1dnUlN0dG9sdmIxWndqZzVOS0ZLOEFmd0tHSlNPaXBfSmtmOTQ0YW1iLV8?oc=5",
+      "date": "2026-06-05T05:03:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "LD7hDqgUKYjC",
+      "title": "A uni professor admitted using AI to write an opinion piece. Here’s what it revealed about trust in the technology",
+      "summary": "Without disclosing that work has been generated using the technology, faith in existing industries will continue to be undermined Follow our Australia news live blog for latest updatesGet our breaking",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/05/trust-in-ai-roy-morgan-australia-university-professor-opinion-piece-technology",
+      "date": "2026-06-05T04:49:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TLShn6XIgaop",
+      "title": "'Human role narrowing': Anthropic calls for global AI slowdown as systems could escape control - France 24",
+      "summary": "'Human role narrowing': Anthropic calls for global AI slowdown as systems could escape control&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3phdmF4Q3B6UkpWVFB3NXJ6Qlk2SjIyY19TRlVWUzc2WUx1ZHBHVXVvMFVQcE1Qa0E1Y3l5bUtORndZQUZGQ0V4UVB0ZzcxSUZKMHM3QUxsemVRdG93eU5sUUZNdm94R1h4SUNDYTlwcUtfQ2pqWERYbFJfREx4YnJQc0FOUTY2WGJZWXJGeXBBaDJfWi1hT05nYWNyWnNBNHZRWDJVN09QZ0RGSVB3SU1OS2xOVDBkVFRFdW9VdldNNWc?oc=5",
+      "date": "2026-06-05T02:51:31+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
     {
       "id": "dLUkHSG10A8e",
       "title": "US officials eye government stakes in AI companies, NOTUS reports - Reuters",
@@ -137,18 +233,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Q7WssRZnMZIy",
-      "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
-      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
-      "link": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04T21:53:25+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "1h6d/nA3q2We",
       "title": "US House lawmakers release draft bill to prohibit state AI rules - Reuters",
       "summary": "US House lawmakers release draft bill to prohibit state AI rules&nbsp;&nbsp;Reuters",
@@ -197,6 +281,30 @@
       "articleLang": "en"
     },
     {
+      "id": "JAQH7OSP+lDM",
+      "title": "日立、「ミュトス」にアクセスへ　Anthropicと契約済、社会インフラの技術検証に利用",
+      "summary": "日立製作所がAnthropicが主導するサイバーセキュリティプロジェクト「Project Glasswing」に参画し、次世代モデル「Claude Mythos Preview」へのアクセス権を得る見込みだ。エネルギー分野などの社会インフラのセキュリティ強化に向けた技術検証に利用すると説明している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000063/",
+      "date": "2026-06-04T19:16:19+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "6D3KMYLi2yIZ",
+      "title": "日本政府、AI「ミュトス」アクセス権獲得　サイバー防衛強化　OpenAIやGoogle、MSとも協議へ",
+      "summary": "松本大臣は「サイバー防衛がMythosだけで完結するわけではない」とも述べ、米Googleや米Microsoft、米OpenAIなど複数のAI企業とのアクセス権の協議など「重層的にやることが重要」と話した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000056/",
+      "date": "2026-06-04T18:59:22+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
       "id": "3gnxX9hDVlJ+",
       "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
       "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
@@ -207,6 +315,18 @@
       "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
+    },
+    {
+      "id": "R50SJrU9gvh1",
+      "title": "東大松尾研が「LLM講座 基礎編」の講義資料を無料公開　期間限定で",
+      "summary": "東京大学の松尾・岩澤研究室（以下、東大松尾研）が、LLMの基礎から技術動向まで体系的にまとめた講義資料「大規模言語モデル（LLM）講座 2025 基礎編」を期間限定で無料公開している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000062/",
+      "date": "2026-06-04T18:28:26+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "s8LONkZqOYZ8",
@@ -254,6 +374,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xOhbK91WkqlF",
+      "title": "Ukraine is now the world's AI war lab - DW.com",
+      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NaVdQdEdOXzEzaGNjaUJ4UzhqcVdRYXozSU81aUU1bFJXOWJ6TlBqQWNjQTZYcFZLMFhNNXZtdFV3OHpTVVRHRVJINHRreXNlYmdLb3BybEhBWVYwVU01NWlMeGl4dGJld3I4RXVya2dybXNWMzRSOWZOTXo2UQ?oc=5",
+      "date": "2026-06-04T14:02:09+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -365,6 +497,18 @@
       "articleLang": "en"
     },
     {
+      "id": "iX8wqGXq30P7",
+      "title": "NC AI develops welding AI for Hanwha Ocean - The Korea Herald",
+      "summary": "NC AI develops welding AI for Hanwha Ocean&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE92R0oxT2ZTR0o1dGdrZDRRZzJrY3h6M1lEOEdMQWZaY2xubmZNSXl0LUdHRXlSOTBLVTFsM3dvd1BuNVY1MU1jN3VJclg0NG81N1gwNjJoTQ?oc=5",
+      "date": "2026-06-04T05:03:25+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "IEltYDqQUbvO",
       "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
       "summary": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it",
@@ -377,9 +521,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8Ii7dpB7sUdy",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;dw.com",
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-06-04T02:39:43+00:00",
       "source": "DW Tech",
@@ -482,18 +626,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "7KOOc40SeC7P",
-      "title": "Ukraine is now the world's AI war lab - dw.com",
-      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NaVdQdEdOXzEzaGNjaUJ4UzhqcVdRYXozSU81aUU1bFJXOWJ6TlBqQWNjQTZYcFZLMFhNNXZtdFV3OHpTVVRHRVJINHRreXNlYmdLb3BybEhBWVYwVU01NWlMeGl4dGJld3I4RXVya2dybXNWMzRSOWZOTXo2UQ?oc=5",
-      "date": "2026-06-03T20:02:09+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -665,6 +797,18 @@
       "articleLang": "en"
     },
     {
+      "id": "rJAV5ebGVl8/",
+      "title": "Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions - Reuters",
+      "summary": "Alphabet to raise $84.75 billion in upsized equity offering to fund AI ambitions&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdmpkczl1MS0xdHp6WmRHZ2ZRa1J3TkJCeG9majZxZnJLREVzcUpSaDNLbS02aV85TXJUZFBfN0JNOXo5d0Z4dUphZS1TZl9MU1JqQWxTYk8yU1ZXYndtRkEzaXp6d0JTNU5oSERUVURaNUk1MUZfTXMwaHhkMWV1VjBnSUFXLWlIdGE3anNLYWZiT2dLMmxPMVNST2wxZmF0NVJMdG16U0dRc2VFNFFZTC0yZGE1c2xTVWxqVVl1NmFDZVU?oc=5",
+      "date": "2026-06-03T15:37:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "qQ+j2ZwhkKa0",
       "title": "AI music startup Suno raises funding at $5.4 billion valuation - Reuters",
       "summary": "AI music startup Suno raises funding at $5.4 billion valuation&nbsp;&nbsp;Reuters",
@@ -809,47 +953,11 @@
       "articleLang": "en"
     },
     {
-      "id": "0XjyABipW96t",
-      "title": "Can autonomous AI-powered killer drones take morality onboard?",
-      "summary": "While the technology is set to play a growing role in modern warfare, there remains an unresolved ethical challengeShould the AI-powered drones of the future have a licence to kill? The question is be",
-      "link": "https://www.theguardian.com/world/2026/jun/03/can-autonomous-ai-powered-killer-drones-take-morality-onboard",
-      "date": "2026-06-03T11:00:05+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "d8KZl5VFkRMw",
-      "title": "Future AI weapons such as drones should have moral code, says former UK spy chief",
-      "summary": "Software could make ethically superior decisions to humans in high-pressure moments, claims ex-GCHQ head David OmandDrones will need to be programmed with moral guidelines as AI-driven decision making",
-      "link": "https://www.theguardian.com/science/2026/jun/03/ai-weapons-drones-moral-code-former-uk-gchq-chief-david-omand",
-      "date": "2026-06-03T11:00:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "Tv2aYXhKocS+",
       "title": "Nvidia’s RTX Spark Laptops Look Hell-Bent on Disruption",
       "summary": "The company’s RTX Spark chips might finally turn the “AI PC” into reality.",
       "link": "https://www.wired.com/story/nvidia-rtx-spark-laptop-disruption/",
       "date": "2026-06-03T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "12BnbAEOMA5w",
-      "title": "What’s Worth More Than Cash in San Francisco Real Estate? Anthropic Stock",
-      "summary": "Several real estate listings in the San Francisco Bay Area are offering to exchange a home for a piece of the AI startup.",
-      "link": "https://www.wired.com/story/whats-worth-more-than-san-francisco-real-estate-anthropic-stock/",
-      "date": "2026-06-03T10:00:00+00:00",
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
@@ -905,18 +1013,6 @@
       "articleLang": "en"
     },
     {
-      "id": "d6kY9T+cunAa",
-      "title": "Microsoft、自社開発した7つのAIモデル発表　画像編集や音声認識も",
-      "summary": "米Microsoftが自社開発した7つのAIモデル群「Microsoft AI Models」を発表しました。",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/03/news077.html",
-      "date": "2026-06-03T02:03:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Vpm8MGHb3lIS",
       "title": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud - Reuters",
       "summary": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud&nbsp;&nbsp;Reuters",
@@ -938,18 +1034,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mQiibrGOD3VO",
-      "title": "Anthropic Mythos access to quadruple to about 200 Glasswing partners - Reuters",
-      "summary": "Anthropic Mythos access to quadruple to about 200 Glasswing partners&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1JPUktDT2ZQWVZKVUFkVWNZSVdzY2QzOFFzeFkwM2VOZ09pV2lacGl3bnBUTHUzRHAtYk5hZmprVk43SlZ6N3kweDJhc3hFWmlFTFpLUGkzWmJfX2xFSnItOWREYzU5OFFSNEZJQ2ljQlh3MUlvUE40RXduaDBpcHFzVHk1cGN1b21pSE1QSUNVWFdpUnlCbjcyaWhWTWdEWm1qTHFSU0ljRXRaYnUyQktGaEk?oc=5",
-      "date": "2026-06-02T20:33:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -994,18 +1078,6 @@
       "summary": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible.",
       "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
       "date": "2026-06-02T19:11:48+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "aLS3hXuJNS1C",
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "summary": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations.",
-      "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "date": "2026-06-02T19:02:21+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -1145,9 +1217,9 @@
       "articleLang": "en"
     },
     {
-      "id": "rrQcmhtRDreK",
-      "title": "Alphabet plans $80 billion stock sale as AI spending surges - dw.com",
-      "summary": "Alphabet plans $80 billion stock sale as AI spending surges&nbsp;&nbsp;dw.com",
+      "id": "35wskxwAhLpe",
+      "title": "Alphabet plans $80 billion stock sale as AI spending surges - DW.com",
+      "summary": "Alphabet plans $80 billion stock sale as AI spending surges&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzhqUzVWTzRoRHZjV3dHUzlNblNWT1VHdzF5UzFZYXhWZEMtVmhxd3dJSWRQT1c3WG9TWlQ2YXFVdW1sWXhGMXV3M2EzcFZQM2phYUJaeGwxRnpJLWpzejNoSTR5S1RPNUNFTEt5cWxLRVltR3RXZE05UkhIanE5SGhqM0V1OGNvcUpuRzkzQ0xYUlR5MEHSAZYBQVVfeXFMTVRnN1hVVEgxeHdOVHk1YVBpYVVsTjkzdjRfUmVqU3hmTmxxOVh5eWM5MjdMdFNERXlFa0dpV2RBclUybWNtajNkbjFMMG5TTmlsOFUxakRDY1I4WkZKNEp2U3R6MlktOC14eFZJelpIdUk0R0xZZEhwVU5rWUtjOXJSN1ZVMTBTU2F2X1B4cHlBajhmVFpB?oc=5",
       "date": "2026-06-01T22:06:26+00:00",
       "source": "DW Tech",
@@ -1169,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "5bfFtDMztMoc",
-      "title": "Anthropic moves toward IPO, stepping up race with OpenAI - Reuters",
-      "summary": "Anthropic moves toward IPO, stepping up race with OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQlMzZlRMZHRFRVJRSUNpZWJMTTkwdnhmeDZFRmtOUWFlamZOMy00ejR2ZS1aMlVROEVHZzlnX1UxVDBvQTBkOVpJTVh3MHFpRDJISV9TRlR5bWhQRWIxUzktRlp6d0dKcUYxeFlmc0dKYTRyQWQ0UDE2dHk1UnJ6d3NvWVZoUnJfdGFmSzh0QmFQbVE4eWc?oc=5",
-      "date": "2026-06-01T16:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xAH+qO/Nlybl",
       "title": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push - Reuters",
       "summary": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push&nbsp;&nbsp;Reuters",
@@ -1190,18 +1250,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "+P71rjrQgTlJ",
-      "title": "Xi-Trump aftermath, space tactics, AI policy change: 7 US-China relations reads - South China Morning Post",
-      "summary": "Xi-Trump aftermath, space tactics, AI policy change: 7 US-China relations reads&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd0pCa0RaZm82SWc1YVNoSXlIS09kUTluNHpaVS1HN1hRcEFnTENfZEFTRm53N0tvbWlXVGdMMDRCbFNLeEtHSmlMNjBmQ1MxNGJsRFFKTVJ6UTU2SVRJb3EwbHFHa2VjR0lQWFhBTXVjSTFEQ3RXUk0yLW93YzFOUmdXb1kxQlpWcDZfLWdyXzc4LS1JMm15R3dOd3JNaDRPWVROOTI2cy05bG9EQVBGdU5EdkhyNnJ6TEg1ckcyVFdpcUFkRHptZ0w5UUR2SDjSAc8BQVVfeXFMTk5hUWQyM0xtWVp1MFF0NUdmNXhHYlMwY3hGMTJQblFvOGMwUTRSWm1lWkdjWjdRWWh0ZGhTemdORTFaRWd6bkFraTdCTmlCTmJmYS1rR2pwUXhVYnhGUFYyXzhDMlNuQzFSZ24yVGlUeFRsbGZPN2l2RzNNNGRxMUo3Zk4yXzJ6dFE4T1hGRWE0RFRhdjFaUTkyVkJwczBxUlB6RnBJR3JKZGdxMmJ1aUR0WkR3N003cExIMjNwX2R3WnV1bWtoVnlsaDNTTDRn?oc=5",
-      "date": "2026-06-01T14:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1268,7 +1316,7 @@
       "id": "2MEKJ14ez9W/",
       "title": "AI could redefine China’s EV market: Morgan Stanley - South China Morning Post",
       "summary": "AI could redefine China’s EV market: Morgan Stanley&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWltVGpObEhoSFVwSjNPVGtza1ZOWUluSFBPdTZOSXBjOWZtaHZkQjE0SUgtOG8zUFFfSmtteU4yQWk2bEhiYlF4U2tFTzIyYzg1VVhsWHlBcDFTRW10MmEtVnduTy04ZTU5eHhzeDYxYVBnQVRhMjZlXy1UUTF5MnFnaVVoZjEyd0R6bUhfRjQ1cVUzcWhqZERidzdSNzRYU2g3aXhNNTdUZFc0SEN6eW1oYmtZRzhsc2trSkdqRjdRZUk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWltVGpObEhoSFVwSjNPVGtza1ZOWUluSFBPdTZOSXBjOWZtaHZkQjE0SUgtOG8zUFFfSmtteU4yQWk2bEhiYlF4U2tFTzIyYzg1VVhsWHlBcDFTRW10MmEtVnduTy04ZTU5eHhzeDYxYVBnQVRhMjZlXy1UUTF5MnFnaVVoZjEyd0R6bUhfRjQ1cVUzcWhqZERidzdSNzRYU2g3aXhNNTdUZFc0SEN6eW1oYmtZRzhsc2trSkdqRjdRZUnSAcMBQVVfeXFMTTk1TTNpbXI4VW1aSWFHdlltdHBUU0szZWdtbE1WaHdFR0djVGZkc3hvMG5zdWtiQlFQUXBBTFZuU0xSMkNMSUZUT1JfTU1UYTZhbUhXeHRYc2JzZThGcUtNTloydGtWN1MwRnZqZWRLSjNSLXRBTnJJM2oxaXdwSU1OMHhaWjlMS3lxODBHOU8zWFE4YVp3LThINXluXzR3MHZaWVV4Nlk1WjBSbDZWbGhxdW1fS2VHS0diVEZHR0pibElv?oc=5",
       "date": "2026-05-31T23:00:08+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1313,6 +1361,18 @@
       "articleLang": "en"
     },
     {
+      "id": "YjUFKJVPSs9A",
+      "title": "Korea should join frontier AI race dominated by US, China: ICT minister - The Korea Herald",
+      "summary": "Korea should join frontier AI race dominated by US, China: ICT minister&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYlhVbDQ3OHVwTVQ2VHJ0ZHhRZmJ0WmhiOGR5ZWRHelppYUxseXVadWZnTkRlTFQzMkhaTHZ2MThabDdVRmt4ZEc3eUhuVUVsc3dFRHdRYw?oc=5",
+      "date": "2026-05-31T03:00:00+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "uejE9Meh0EFr",
       "title": "AI has a ‘black box’ problem. China wants to make it more transparent - South China Morning Post",
       "summary": "AI has a ‘black box’ problem. China wants to make it more transparent&nbsp;&nbsp;South China Morning Post",
@@ -1346,18 +1406,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "G4hI+7B0+KyI",
-      "title": "How DW uses Artificial Intelligence in journalism - corporate.dw.com",
-      "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;corporate.dw.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2ZGR3ZMMk1tZXRoTUlnVTlQZWxtS3JwLWtsVE05MGhpYnYtNkxaLVo5VnY3Y05UbHZVUlVnaG1HZ25kT0xlN2RKTzliN3NlbkxBOW5LbnVKVmdhUHVnYzd0Z0s2QVBUNVR0cWUxUkNGTGllYzJxN2ZWTUdfSXdYRnhnOEpxM2JSSFlsY0FOWk13UQ?oc=5",
-      "date": "2026-05-29T08:33:03+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
