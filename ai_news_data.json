@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-06T13:40:51.694961+00:00",
+  "generated": "2026-06-06T19:21:25.612625+00:00",
   "articleCount": 109,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "techcrunch": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "dw": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "tR+1fva7aB83",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "date": "2026-06-06T17:42:15+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "I6annaRaV0Lo",
+      "title": "White House AI policy adviser Krishnan to leave position - Reuters",
+      "summary": "White House AI policy adviser Krishnan to leave position&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1VVeGR4TVFlbXlnb29KQnBtQ1BqUVFUWWFBQnpuempZNmNaREFVUjZ5YlprYXZMSGctdFhwd0lZMVJlYkY0UC1xek5CS21OZGw1bVE3Ni01Z056SjNleW5XQnhKOGhDd1VpQTVsckRuNjEySW5qRVFMdDJZZlU4THJVd1poZXRFQ25uaS1SbU9sZWN3Y1JYS3dyQVNSTHBad0JjYkhFcVVkeWFBbjlEVFYxZ2laLWVyMmc?oc=5",
+      "date": "2026-06-06T17:29:26+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4YRdMTvBcbPj",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "date": "2026-06-06T16:17:21+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yBHqx1AJmV0I",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "date": "2026-06-06T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "K+rA218dhP74",
       "title": "Here comes new Siri again",
@@ -110,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-06-06T02:35:08+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -521,6 +581,18 @@
       "articleLang": "en"
     },
     {
+      "id": "R03swNaktYoc",
+      "title": "Anthropic calls for pause of global AI development - France 24",
+      "summary": "Anthropic calls for pause of global AI development&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNclNaeEVVNWNSR21jWlVLdkxCSU9oOEZMMFU1UUZGRmU0aE1yU2JIN19EV2xxOXhicFAya2d6dHViRFBSalAtQTBMWThkcEtaRERoVjB6VktlZVI3aHQ1d2lBZlprcnZURlNidTU1UU5HZUxUZTJQVHJHLVFxNmtqdEpmTUFoT1puNWl0WlZqNk9IeVpVR2ZUcm9DQ1d2UQ?oc=5",
+      "date": "2026-06-04T22:37:00+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "QgSybs5gp5Mu",
       "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
       "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
@@ -701,18 +773,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qiwZtKKHzxtD",
-      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-      "summary": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open le",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-      "date": "2026-06-04T12:12:12+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "xLPljzhhvdJs",
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated",
@@ -749,15 +809,15 @@
       "articleLang": "en"
     },
     {
-      "id": "7iVQKoKcX31P",
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "summary": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "date": "2026-06-04T09:31:14+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "3nsFc4Vatoov",
+      "title": "Macroscope | How the AI chip boom made South Korea a victim of its own success - South China Morning Post",
+      "summary": "Macroscope | How the AI chip boom made South Korea a victim of its own success&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR3JaQTRYcGotUU8zLUlkTzlrYXJwdmFkOEtfWmhRa3Q4WmdPY0sxOXFDWW9BVGdJdEpHSVFhekh1ZVN4TkFUX2FiV0k5VzdhR3pKYWNjM1U0OUdfU3RMdURyc2h2aE4xRFltYm1Rb1Y4a1JJVzFYV1hlYVhWQnRkVmRxakV5SlUwV2hGSDlBUzJnWVR0SnpVTG1pbEIyRl80TkdLYkc4ZUtMMDFBTjVWVlhZY0d2aUtVWUHSAboBQVVfeXFMTVRQUEg4YzFsLU5kX2ZNSmR1eVRpQVkzOEEyazBNcWxwY0FtZG1JZU9UMXpPdjlMeEtHN3dKUUVWbDFpVTVEMXpNam4ySmtYQUtkd0wxZWY2RHdVMUhfMnU2eXZZTTlnZGxMWnRGT1A0amFyZEZ2cHQwVUxUaENjVXVib0YxZWQyNXkycDBULTdpZUY5aE5IVExrYWpVdTloT19XUUdOZWQ3S3paNTgzVDVBZDdyU00wbGFn?oc=5",
+      "date": "2026-06-04T08:30:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -794,18 +854,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "D7pweY9kFV5w",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-06-04T02:39:43+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -905,23 +953,23 @@
       "articleLang": "en"
     },
     {
+      "id": "6Cp45xvM83KI",
+      "title": "When IPOs go wrong: SpaceX, AI firms face a delicate process - Reuters",
+      "summary": "When IPOs go wrong: SpaceX, AI firms face a delicate process&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0RqZlQyNVcwTjNwS1Jjb1AyLV94bzF0cUtBLTZwSkJOVVBUQVY1elprU0QzQmNhdFIwM2dhRmMyWGtfaTdIT2JyRFI2Y3BJdHR1R0JzZWxwTXFkZ3RtdExjTDc5Q3RWYV9KM0tkR3BHdmR5YzNLeUFRcmRPUFhYbDR3d1NqUmZ3bW1Fak1JeHhaRlBsZzFwZUJUd29PTVFYYWJvTTdJYktkMDNwZFBubVJB?oc=5",
+      "date": "2026-06-03T19:44:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "UOePOdsNXp3P",
       "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
       "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
       "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
       "date": "2026-06-03T19:38:32+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "OpScdeWt18Bf",
-      "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
-      "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "date": "2026-06-03T19:07:42+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -941,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6PMgzHdCBOdr",
-      "title": "What do UK watchdog’s new rules on Google AI results mean for publishers?",
-      "summary": "Giving news websites the power to block their content from being used in AI summaries will have global ramificationsThe UK’s competition watchdog has ordered Google to change how it uses publishers’ c",
-      "link": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
-      "date": "2026-06-03T17:17:37+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "wBAsbKPSBwk4",
       "title": "AI to double data centre power and water consumption by 2030, UN researchers say - Reuters",
       "summary": "AI to double data centre power and water consumption by 2030, UN researchers say&nbsp;&nbsp;Reuters",
@@ -962,18 +998,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "WMJqwBxmjAEP",
-      "title": "Amazon will show AI product images when you search for some reason",
-      "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
-      "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "date": "2026-06-03T15:50:26+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1241,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "xAH+qO/Nlybl",
-      "title": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push - Reuters",
-      "summary": "Investment firm Permira taps Thoma Bravo veteran Mike Hoffmann as part of AI dealmaking push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaFd5Q3pQMUxKYW53ZExBMUdHQ0tEWm1HSGU4Rno2bkJoc3NoRnM5UHlyTlBqbDZCN3dLc3Z5VjY2MnlDYnF6eXRHbUlQT2VnWnRfNmFoQnlrSG4zOFpLQWlvUGVtbVp4TXRiVWVsQUdPWjczdm5YZ3lhSHZQczNDN2YzVDJIb2o1NHN1Nmt6dFpuS0Fad1lQd0ZlLUhJd1otd3daSUdjZU11R2tTZHlrVVRFYUtKa25DLU4ya1pPTlNseVpI?oc=5",
-      "date": "2026-06-01T14:58:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "LScSHWGij0lQ",
       "title": "Ukraine: How a kamikaze drone partially operated by AI is attacking Russian convoys - France 24",
       "summary": "Ukraine: How a kamikaze drone partially operated by AI is attacking Russian convoys&nbsp;&nbsp;France 24",
@@ -1334,18 +1346,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "2MEKJ14ez9W/",
-      "title": "AI could redefine China’s EV market: Morgan Stanley - South China Morning Post",
-      "summary": "AI could redefine China’s EV market: Morgan Stanley&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcWltVGpObEhoSFVwSjNPVGtza1ZOWUluSFBPdTZOSXBjOWZtaHZkQjE0SUgtOG8zUFFfSmtteU4yQWk2bEhiYlF4U2tFTzIyYzg1VVhsWHlBcDFTRW10MmEtVnduTy04ZTU5eHhzeDYxYVBnQVRhMjZlXy1UUTF5MnFnaVVoZjEyd0R6bUhfRjQ1cVUzcWhqZERidzdSNzRYU2g3aXhNNTdUZFc0SEN6eW1oYmtZRzhsc2trSkdqRjdRZUnSAcMBQVVfeXFMTTk1TTNpbXI4VW1aSWFHdlltdHBUU0szZWdtbE1WaHdFR0djVGZkc3hvMG5zdWtiQlFQUXBBTFZuU0xSMkNMSUZUT1JfTU1UYTZhbUhXeHRYc2JzZThGcUtNTloydGtWN1MwRnZqZWRLSjNSLXRBTnJJM2oxaXdwSU1OMHhaWjlMS3lxODBHOU8zWFE4YVp3LThINXluXzR3MHZaWVV4Nlk1WjBSbDZWbGhxdW1fS2VHS0diVEZHR0pibElv?oc=5",
-      "date": "2026-05-31T23:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
