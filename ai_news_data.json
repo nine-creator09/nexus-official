@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-08T03:56:16.901348+00:00",
-  "articleCount": 106,
+  "generated": "2026-06-08T10:51:56.785830+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "ars": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 15
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,78 @@
     }
   },
   "articles": [
+    {
+      "id": "6twOfAw8F1LK",
+      "title": "Momfluencers Are Pitching AI as a Better ‘Coparent’ Than Men",
+      "summary": "Moms are outsourcing tedious household tasks to ChatGPT and selling courses teaching others to do the same. Where are all the dads?",
+      "link": "https://www.wired.com/story/momfluencers-are-pitching-ai-as-a-better-coparent-than-men/",
+      "date": "2026-06-08T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "CBJ1ql3gBTl9",
+      "title": "Bernie Sanders’ AI sovereign wealth fund plan is good. But we think this is better | Nathan E Sanders  and Bruce Schneier",
+      "summary": "While we do not outright oppose the taking of AI company stock, or of a US a sovereign wealth fund, there are better ways to achieve the senator’s goalsLet no one accuse Bernie Sanders of ducking the",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/08/bernie-sanders-ai-sovereign-wealth-fund-plan",
+      "date": "2026-06-08T10:00:22+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "OG148QanCG6R",
+      "title": "Global stock markets fall as concerns persist over tech firms at heart of AI boom",
+      "summary": "Drops follow sharp sell-off of US tech stock last week while oil prices jump after Iran and Israel exchange strikesBusiness live – latest updatesGlobal stock markets have fallen amid concern about the",
+      "link": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
+      "date": "2026-06-08T08:32:17+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "MlMktx9tDi30",
+      "title": "Aviva detects record £230m in bogus insurance claims as use of AI rises",
+      "summary": "Insurer found 18,400 suspect claims last year with some scammers using AI to fake accident scenes and documentsBogus insurance claims worth more than £230m were detected by the insurance firm Aviva la",
+      "link": "https://www.theguardian.com/business/2026/jun/08/aviva-ai-bogus-insurance-claims-rocket",
+      "date": "2026-06-08T05:00:17+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "pHI+nj/IqJ4P",
+      "title": "「AI＝質問」は遅れてる　エージェント型AI「Claude Cowork」、組織展開に向けた管理機能を拡充",
+      "summary": "Anthropicは、AIエージェントによる業務支援機能「Claude Cowork」を全ての有料プランで一般提供すると発表した。組織全体への展開に向けた管理機能も同時に拡充する。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/08/news062.html",
+      "date": "2026-06-08T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "LKgnjRJbz8mo",
+      "title": "AI×設計開発ニュースまとめ（2026年4月）",
+      "summary": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年4月）」をお送りします。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/08/news029.html",
+      "date": "2026-06-08T03:30:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "M1rjYKPF+pzR",
       "title": "DeepSeek’s bargain AI triggers price war across China’s tech sector - South China Morning Post",
@@ -87,6 +159,18 @@
       "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
+    },
+    {
+      "id": "Wd6BNjVWTc6q",
+      "title": "“AIでAIを開発”加速へ　Sakana AI　「計算資源の量ではなく、アイデアで進歩」",
+      "summary": "Sakana AIは、AIによってAIを開発する仕組みを研究するチーム「RSI Lab」を立ち上げると発表した。計算資源の量に頼ることなく、効率的にAIの性能を高める手法の構築を目指す。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000068/",
+      "date": "2026-06-08T00:09:26+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "ku5EhN2JHBjU",
@@ -113,6 +197,18 @@
       "articleLang": "en"
     },
     {
+      "id": "4//GVR98aAHl",
+      "title": "「性能低下」によりNotion AIで「Claude」一時選択不可に　原因は「サービス障害」",
+      "summary": "NotionはClaude Opus 4.7および4.8の性能低下によるNotion AIの失敗率上昇を受け、モデル選択画面でClaudeを一時無効化した。原因は「一時的なサービス障害」とし、6月8日に復旧済み。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/08/2000000066/",
+      "date": "2026-06-07T19:48:22+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
       "id": "i/1RnPZ63UcB",
       "title": "Notion restores access to Anthropic after service disruption",
       "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
@@ -134,6 +230,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "X16XkPlrrpoM",
+      "title": "My Take | China’s Confucian AI vs America’s oligarchic version - South China Morning Post",
+      "summary": "My Take | China’s Confucian AI vs America’s oligarchic version&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZDZ3d2Y0bEoxTHc2S0lyRmkxdDZqWE9xemdLVHBOTGF4WENKT0docXFvVGlSaG50V0RhX0x0dmkybjlCZFJPdlZXV2ROR0JDQV9LOGVKS1ZRR1E2d3lxTjhRSklvY3M5eWU2Ul84VGs3Vmt2NWFDSEpzM1VMeFdwNGhIbFNiNG1yZmtwUktQQ1VhbEdvalV2b1hCcw?oc=5",
+      "date": "2026-06-07T13:20:23+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -206,6 +314,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4Iwvvfn26eH9",
+      "title": "The Stock Connect problem: why can’t investors buy the mainland’s top AI stocks? - South China Morning Post",
+      "summary": "The Stock Connect problem: why can’t investors buy the mainland’s top AI stocks?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ29HUlZWY01aaWk0VVM0YndyRkE0SFM2d1M3M0NDNzhiYW11RWs4blBHTlVWVzhyZXAyWTd1LS1MZm1Fby1rR182dm9zVS1LRElzUWJ6Q2hZV051MW0yY0FQaGlVbjVmaTB2MDlVcUNMR2lxbDdyRm9Vd1ZwUHltNkZzM2VBQjBab1lmMVczc1djRFU0eU5jTDEyeVlwcl95NXNfeVZjUVRnRjN6dlFtSm9uc1Q5clVmbHfSAboBQVVfeXFMTk1xZmxzNHM3Qy1QM0RNU3pCNGdwamV0RElla2ZQampjd0JWYXdLbGxlTjVwWERUZGktQXpaakJNam4ySlAzRUEzcVNOMlBUbTk2TjFkWWIzVlowNTJGQ000ZF9jbllNTUhwb0l1M2NkNWd3OGw5V1BZa2RrcTdfUlM0R3JtNThVMk1kZmFVd05oU3FmYkM4OGpUYXIwYkswdTdrME9lRzNUX3dyWjB3TGJXcnJoZWx0bDln?oc=5",
+      "date": "2026-06-07T02:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -341,9 +461,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8Ii7dpB7sUdy",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;dw.com",
+      "id": "D7pweY9kFV5w",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-06-06T02:35:08+00:00",
       "source": "DW Tech",
@@ -417,7 +537,7 @@
       "title": "Trump says his team will 'look into' US taking stake in AI companies - Reuters",
       "summary": "Trump says his team will 'look into' US taking stake in AI companies&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQjJMRnpPRHVCampPWlVBNGFoOFl1T0N1NG5zdU81cjg4VDFocHhXbXJELWZoaS1Talg3aE5yTFI1b2dmN21TcW5kREdkYTJiS2pVbzBJYWFRbVl3c3ppNGJCdk9XRHA0bTZLRE9PRWF0RmRXdzIwNU1IdzNPeVMtS2VZNHRoamQ5QkNkanJBNF90anAyN19aX0YxZGVTV1JDNjY0QWwydEtER2FZ?oc=5",
-      "date": "2026-06-05T18:29:00+00:00",
+      "date": "2026-06-05T18:33:21+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -641,18 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "y7BpOJeX4Wgf",
-      "title": "China bets on AI to promote President Xi Jinping's thinking - Reuters",
-      "summary": "China bets on AI to promote President Xi Jinping's thinking&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGZzYi1vWnJUU2EtZC1Ua0J5VVNPdXJJbHBqQ25oNDRUZm12OUNTc2lWbXFEMHdZSHB0SzhtT0tGRF9MOU5CVjFKUzhFaWlIVXhYa0dNZ2Nmb0lfNUp2NUFOVHZ3cnJjM0M0ZUF4WjJXbjY4bllIOG5EemV2UWRZVE1yd3M1c19vZ25ZOWV0WGszcXpNOXFTTDdJYUhIZHliTFZ1Y1QyTGM4OVlJa3VVSQ?oc=5",
-      "date": "2026-06-05T07:40:58+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "7XOXmUlcZPo/",
       "title": "We need to stop AI developing without humans, says Anthropic co-founder",
       "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
@@ -710,18 +818,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "2yiVQNah/mgt",
-      "title": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff - Reuters",
-      "summary": "Exclusive: South Korea labour minister calls on tech firms to share excess AI profits with suppliers, staff&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZ09wcEJnaW5yR1lxOFRVSVFESnQya1VkSVVmdzIxZkMyWDgxbkRDeHZDMFNSOWtMaWR1WVBjTXd6cG1uR0I3d2JmT3o4VkQ5VHhMYWJQV0EzMEJfWlVJTGJJY240VVhrUkpQcnpTS1RRUnd5NDFWMFVrclgtdzNvaE0yZWJ3bnBSRDR5RW4zbVFtamdnaGt2dDAtSDl6QURzQk9GWnhSSTYza2lEUUJmTnBMMEhzeXU2OVRZRDhvWUhUbzdWZTJtM3JDNmZ6WjRXSnNpZFhR?oc=5",
-      "date": "2026-06-05T02:29:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -833,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0bLNH+dvTnGY",
-      "title": "「この1年はAI戦国時代」　メルカリに学ぶ、AIガバナンス策定の勘所",
-      "summary": "生成AIの業務利用が前提となり、AIを通じてビジネス価値をどう生み出すかが問われている一方で、「シャドーAI」をはじめとするリスクも指摘されている。先行企業はAIのリスクをどう受け止め、対策に乗り出しているのか。本稿では「AI-Native Company」への転換を宣言し、AIをフル活用するメルカリにインタビュー。AI活用・AIガバナンス策定のヒントを探る。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/05/news018.html",
-      "date": "2026-06-04T20:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "UEZNzV3dQS2s",
       "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
       "summary": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Business platform.",
@@ -857,30 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JAQH7OSP+lDM",
-      "title": "日立、「ミュトス」にアクセスへ　Anthropicと契約済、社会インフラの技術検証に利用",
-      "summary": "日立製作所がAnthropicが主導するサイバーセキュリティプロジェクト「Project Glasswing」に参画し、次世代モデル「Claude Mythos Preview」へのアクセス権を得る見込みだ。エネルギー分野などの社会インフラのセキュリティ強化に向けた技術検証に利用すると説明している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000063/",
-      "date": "2026-06-04T19:16:19+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "6D3KMYLi2yIZ",
-      "title": "日本政府、AI「ミュトス」アクセス権獲得　サイバー防衛強化　OpenAIやGoogle、MSとも協議へ",
-      "summary": "松本大臣は「サイバー防衛がMythosだけで完結するわけではない」とも述べ、米Googleや米Microsoft、米OpenAIなど複数のAI企業とのアクセス権の協議など「重層的にやることが重要」と話した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/04/2000000056/",
-      "date": "2026-06-04T18:59:22+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "3gnxX9hDVlJ+",
       "title": "The AI IPO Race Heats Up, DOGE Whistleblower Sues Elon Musk, and Instagram Gets Hacked",
       "summary": "On Uncanny Valley, we dive into the IPO bonanza that the top AI companies are embarking on to the point where some real estate listings are looking for not just regular old cash, but Anthropic stock.",
@@ -891,18 +951,6 @@
       "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "R50SJrU9gvh1",
-      "title": "東大松尾研が「LLM講座 基礎編」の講義資料を無料公開　期間限定で",
-      "summary": "東京大学の松尾・岩澤研究室（以下、東大松尾研）が、LLMの基礎から技術動向まで体系的にまとめた講義資料「大規模言語モデル（LLM）講座 2025 基礎編」を期間限定で無料公開している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/05/2000000062/",
-      "date": "2026-06-04T18:28:26+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "s8LONkZqOYZ8",
@@ -926,18 +974,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Mql2ZYMTeC7J",
-      "title": "I asked AI for help with DIY. It told me to build a subfloor on rotting stumps, but also taught me valuable lessons | Myke Bartlett",
-      "summary": "Nothing does more for your ego than realising you can make a better decision than a bot with all of human knowledge at its digital fingertipsI am not, by nature, an early adopter. There comes a point",
-      "link": "https://www.theguardian.com/technology/commentisfree/2026/jun/05/ai-artificial-intelligence-help-with-diy-valuable-lessons",
-      "date": "2026-06-04T15:00:11+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1001,18 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Vpm8MGHb3lIS",
-      "title": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud - Reuters",
-      "summary": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk5uUG5jVEZ2ZWFkZGtGc1loaVZGUEtIU09CS3hKdzBXWXJjcGNJTzhyVnFEVkNwUmJ2LXVXUXYwWktDODd0UDdVYm5oSGF0RnRFVzBMZWR4Z0dwanU1V0dRODNycFBsa2FYV25lNk11SzlOOTlzZGlWek42UlljQ2tqcUFSX1Y1Uml2ai1HSUJXTTlpLW1BZ1FJaGxvQ0gtMTUwQVAyQmQxNkFhVDBncTIyNldmbDA0UE9HSjRWdzI3Mnp1TjFWeg?oc=5",
-      "date": "2026-06-04T07:36:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "141qTr0BhLY/",
       "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI - South China Morning Post",
       "summary": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI&nbsp;&nbsp;South China Morning Post",
@@ -1037,51 +1061,15 @@
       "articleLang": "en"
     },
     {
-      "id": "IEltYDqQUbvO",
-      "title": "My year with the robots: how Joanna Stern let AI into her home, work – and heart",
-      "summary": "In 2025, the tech journalist invited artificial intelligence to do nearly everything for her, including editing the book she was writing about the experiment. Some of it was useful, some not – but it",
-      "link": "https://www.theguardian.com/technology/2026/jun/04/my-year-with-robots-joanna-stern-ai",
-      "date": "2026-06-04T04:00:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "V4AAzaFM4tlN",
-      "title": "OpenAI and Anthropic Sign Letter to Prevent AI-Developed Biological Weapons",
-      "summary": "Leading AI labs, executives, and scientists are sending a letter to lawmakers urging them to improve tracking of synthetic DNA sequences that could be used for bioweapons.",
-      "link": "https://www.wired.com/story/openai-anthropic-letter-ai-biological-weapons/",
-      "date": "2026-06-04T01:01:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7KOOc40SeC7P",
-      "title": "Ukraine is now the world's AI war lab - dw.com",
-      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;dw.com",
+      "id": "xOhbK91WkqlF",
+      "title": "Ukraine is now the world's AI war lab - DW.com",
+      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NaVdQdEdOXzEzaGNjaUJ4UzhqcVdRYXozSU81aUU1bFJXOWJ6TlBqQWNjQTZYcFZLMFhNNXZtdFV3OHpTVVRHRVJINHRreXNlYmdLb3BybEhBWVYwVU01NWlMeGl4dGJld3I4RXVya2dybXNWMzRSOWZOTXo2UQ?oc=5",
       "date": "2026-06-03T20:16:32+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "wBAsbKPSBwk4",
-      "title": "AI to double data centre power and water consumption by 2030, UN researchers say - Reuters",
-      "summary": "AI to double data centre power and water consumption by 2030, UN researchers say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3F4Sm9fUl9mNVUweWpTMHQ5WktMSmNCZU5BdGVpaE5yWGpUQmJqcjRVMEIxWFlUQmJvOXBKaTFoUTFRN2FvZmlILUJpTHBTd0pxdU94bW1mdlZvdGJraGQyR1o0bV8tbnV6SzdUMkMxNTlZdXRIekRfWktrdXpfNnVuVWJBanlTSjZ6T2h2cEtCRU5RX1ZscEFmWlFZVEMtNDViUjdoZGNxdDBreFk2TW9qaDF5dy1Qd3hyck1DR2NMdw?oc=5",
-      "date": "2026-06-03T16:20:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1169,6 +1157,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Vpm8MGHb3lIS",
+      "title": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud - Reuters",
+      "summary": "Megaport secures 4 AI deals, to raise $594 million to build inference cloud&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQk5uUG5jVEZ2ZWFkZGtGc1loaVZGUEtIU09CS3hKdzBXWXJjcGNJTzhyVnFEVkNwUmJ2LXVXUXYwWktDODd0UDdVYm5oSGF0RnRFVzBMZWR4Z0dwanU1V0dRODNycFBsa2FYV25lNk11SzlOOTlzZGlWek42UlljQ2tqcUFSX1Y1Uml2ai1HSUJXTTlpLW1BZ1FJaGxvQ0gtMTUwQVAyQmQxNkFhVDBncTIyNldmbDA0UE9HSjRWdzI3Mnp1TjFWeg?oc=5",
+      "date": "2026-06-02T22:18:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "NVORQy6IH9lx",
       "title": "Trump looks to balance ‘lead over China’ and national security with AI order - South China Morning Post",
       "summary": "Trump looks to balance ‘lead over China’ and national security with AI order&nbsp;&nbsp;South China Morning Post",
@@ -1205,18 +1205,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oUFenJHM6uEC",
-      "title": "How Meituan’s US$1b bets on AI, robotics outshine quarterly loss - South China Morning Post",
-      "summary": "How Meituan’s US$1b bets on AI, robotics outshine quarterly loss&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVDNnM2s5R01rZmNIbkp1THF2YTZEMS1YUmgyX1Y2T2JSYlZUV1VXQkN2QkFnOF9CQWR3Y0NGc0ZDdjZoZEVFX1dab3dZMEZNY29Xb2ttc25XZXRPN202aGFZaWdPQVIzNEZJVGJCZ3ctOEUtSnRxd3VMSGdmcGtROG1Vb08temZQRUNobzZoVTBQbUg3RFlQZkhqVHpKN1Q1S1o5a2Zwa2NIQkl3dEZaY21FenZBQ2R6VnfSAboBQVVfeXFMTmRDeHJMMUNqRVU5UFVNVUMzNTNlSlZmNGZteV9UVTB1TVgzNS1XNlp3eFFPdmFXQ2F0TVNhbjV1aDNjODFjcmdkOURXU083TmxCcm1qVDJUR3E2ek1GcU53bkxKcDVJR3FXY3Q4THRkYnJMcEVqU1dpY2ZPelpVbkFtaTU3WHFKMVl4c3ZKUERPUlRnODdlNzR3OTZfQjFqOHZsUDl6bFN3UHV2NUd0NzZGd3lpQVN3VmtB?oc=5",
-      "date": "2026-06-02T13:00:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "oG8B+tze+vRm",
       "title": "The Download: AI can run your admin department now",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounti",
@@ -1241,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "UU3rlYCypFDe",
-      "title": "How small businesses can leverage AI",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox,sign up here. From accounting to design t",
-      "link": "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-      "date": "2026-06-02T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "rJa5VMOivcdz",
       "title": "ByteDance loses key AI research leader behind Seed models - South China Morning Post",
       "summary": "ByteDance loses key AI research leader behind Seed models&nbsp;&nbsp;South China Morning Post",
@@ -1265,9 +1241,21 @@
       "articleLang": "en"
     },
     {
-      "id": "rrQcmhtRDreK",
-      "title": "Alphabet plans $80 billion stock sale as AI spending surges - dw.com",
-      "summary": "Alphabet plans $80 billion stock sale as AI spending surges&nbsp;&nbsp;dw.com",
+      "id": "/LXl67FbyVSZ",
+      "title": "Australia's CBA flags surging AI costs as tasks grow complex, slams 'work slop' - Reuters",
+      "summary": "Australia's CBA flags surging AI costs as tasks grow complex, slams 'work slop'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcHhhQTRKR1Fsbm5iM2gwZXZ0Q2pqVHI0M1hEZlFuaVhTc3FwRlFNQUQwUkJUNHJfNHlfWDNiLXNPeklEMjFmTXVfNGQ1TDJtQnkyVk5heDhqLXJ3cncweW5YaTRuMnIwWkNIdHlFWE4zaXY0am9MVFVDRjRkN1UxNVJPNjB2OFhhVjNFZlc2Z0xvVTRLT3NjLXU2aEVwa1hyRUxNU3pVMDdiUTNTVFEtdExENW40OVFsSDBlbV9HdFZwdk0?oc=5",
+      "date": "2026-06-02T04:18:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "35wskxwAhLpe",
+      "title": "Alphabet plans $80 billion stock sale as AI spending surges - DW.com",
+      "summary": "Alphabet plans $80 billion stock sale as AI spending surges&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNzhqUzVWTzRoRHZjV3dHUzlNblNWT1VHdzF5UzFZYXhWZEMtVmhxd3dJSWRQT1c3WG9TWlQ2YXFVdW1sWXhGMXV3M2EzcFZQM2phYUJaeGwxRnpJLWpzejNoSTR5S1RPNUNFTEt5cWxLRVltR3RXZE05UkhIanE5SGhqM0V1OGNvcUpuRzkzQ0xYUlR5MEHSAZYBQVVfeXFMTVRnN1hVVEgxeHdOVHk1YVBpYVVsTjkzdjRfUmVqU3hmTmxxOVh5eWM5MjdMdFNERXlFa0dpV2RBclUybWNtajNkbjFMMG5TTmlsOFUxakRDY1I4WkZKNEp2U3R6MlktOC14eFZJelpIdUk0R0xZZEhwVU5rWUtjOXJSN1ZVMTBTU2F2X1B4cHlBajhmVFpB?oc=5",
       "date": "2026-06-01T22:06:26+00:00",
       "source": "DW Tech",
@@ -1310,30 +1298,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "XiI0xvvFFan2",
-      "title": "MiniMax debuts AI model built for long and complex coding tasks - South China Morning Post",
-      "summary": "MiniMax debuts AI model built for long and complex coding tasks&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeldXaFUwMEJqNmJYNEVmZkxTNUhrOVdQbFI1aTh5NDNWNzdNMXBhMlU3YU9iOG50Vng5T1NQcVlaVzZwbEljOTJteUN2QmVNYlpaQmhUYVhaSHlkdDBDREFVYXVHTV9sQkpoVS04NjlBenpBVjVBUEx3YUpYQk9YNWlBSm9uaE9lcng2d2IySXNhR2hYcVVrYXU0YXFtY2ViWXp3UUdpQTZyWjN0NWRYbXlQVdIBswFBVV95cUxNOVhtRHNkUENCc1EtVU4xaVRoVlJpV0RhQUMwSzdGeWxJaENfM2daeHVCNG9GemVzYk9xekctMUx3NXpZOWZ5TnZ3T242MkZZRFYxRTNucGY1dEllV0JpbHhEaUx6MjFucTNZeW93OXJSYVBmLTEtUXFVNENKT09WaU1fN0o4V2E3RkxKMTlWN0JueUFaSlp3SWZacElPdjFPbzFmMkFkdU9NWGloM2I5cEx2VQ?oc=5",
-      "date": "2026-06-01T06:57:32+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "bxgmg6umXfhr",
-      "title": "AI debt sales reshape global corporate bond markets - Reuters",
-      "summary": "AI debt sales reshape global corporate bond markets&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOV9YVVpRZUlZdVNpXzhTRkxRQVh4NzRfNi0zbXJ5MmlnbEpnbDRvdWg2eFNybjdXNVlReGdWWDZwMGtGcGZKQ25PejZhUVByYzU2b1hXc0dvd3pPMVpFOUs4QkpNMmxFd0N1U1hZanpVNzMtUHdPdEktRXgyRGhhT2QycnRLNWxwUEd4ZHNCUXBjeU4wVXMyTmREV1YwRE5SWlpfNVRKYw?oc=5",
-      "date": "2026-06-01T05:03:25+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
