@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-09T14:48:44.852692+00:00",
-  "articleCount": 116,
+  "generated": "2026-06-09T20:05:44.323002+00:00",
+  "articleCount": 120,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
@@ -32,15 +32,15 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "france24": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,164 @@
   },
   "articles": [
     {
-      "id": "SxSjlwImnClp",
-      "title": "Apple’s AI promises are finally, almost, sort of, here",
+      "id": "BfERtkpORZBt",
+      "title": "Apple's AI Siri will be held back by aging devices, Morgan Stanley says - Reuters",
+      "summary": "Apple's AI Siri will be held back by aging devices, Morgan Stanley says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDRhQ3NHck5vamJBREFWRU1UQ1haMjVPRmtfLXlVUkp6Ykl5VHRXamxIWUZxYVFtQzE2SnRuSGJqOGNWRDNEaWNKNG83TWxMenlINTJWc0c3NmNFc0o2aXZkVG5RWWV3T1IwU1hRaUNaMUNjb2xOUUtTbExveTVicXA4eTZaek83bnk4WkJHR083X0pmQ2VPYzRXR0xTa3NQN0FHaWNrNGRCQW9ROTZTeWJOUEI?oc=5",
+      "date": "2026-06-09T19:07:20+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "hiB7wBY4BxuE",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "date": "2026-06-09T18:56:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jcsqArUQ1hVp",
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-09T18:35:59+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "oHf1Su6Rsau7",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+      "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "date": "2026-06-09T18:04:24+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1UJNcL877GO8",
+      "title": "Anthropic Offers Mythos Upgrade for Cyber Partners and a ‘Safe’ Version for the Rest of You",
+      "summary": "Anthropic is releasing Claude Mythos 5 to trusted organizations and Claude Fable 5 to the public, a version it says can’t be used for cyberattacks.",
+      "link": "https://www.wired.com/story/anthropic-releases-claude-fable-5-mythos-5/",
+      "date": "2026-06-09T17:00:46+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "NpnXToKtsPbv",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "summary": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa",
+      "link": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ggkCN8VH0Zm/",
+      "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+      "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "date": "2026-06-09T17:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "37SCO45qFCm8",
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them.",
+      "link": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-09T16:45:12+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Vlc7v23jjiRw",
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots",
+      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp.",
+      "link": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-09T16:16:12+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "c7WWgaMnUXv4",
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "summary": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accuratel",
+      "link": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "date": "2026-06-09T16:13:14+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "O7JMeYuHH/Tg",
+      "title": "It’s not FAANG anymore. It’s MANGOS.",
+      "summary": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords — and a new acronym to match. Say goodbye to FAANG and hello to",
+      "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "date": "2026-06-09T16:09:14+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "t5loGmhAujuI",
+      "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
+      "summary": "AI saves clinicians time but most lack training, survey finds&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
+      "date": "2026-06-09T15:03:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "s/9i8UnYlnpq",
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "summary": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decod",
+      "link": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "date": "2026-06-09T14:54:51+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mu5qkiO5yNtP",
+      "title": "Apple’s AI promises are finally, almost, sort of here",
       "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's poss",
       "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
       "date": "2026-06-09T14:18:18+00:00",
@@ -77,9 +233,21 @@
       "articleLang": "en"
     },
     {
+      "id": "G6tl8pV8otK3",
+      "title": "Driven by AI demand, China on track to pass US as top nuclear energy producer - South China Morning Post",
+      "summary": "Driven by AI demand, China on track to pass US as top nuclear energy producer&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaUJiWFQ4YVM5VkZvX1JnZ3RHS202U1paa2cxUnN2TkxDRnlTanhuVXk1cXpkMXIwRVhudXdhMUNYQ1JOdVNGcjRVcjZSWjZINGZxUHBTQ1dHa0wtY1ZTUHlFMDVUdzl1TS1ZU3JLdlV1YnFBRFlDazhOTlhVS2pvZ3I1S2lPUE1QZFJNaTVLd0VPVnY4TGt6R09EYkdua1FkWU5iS0lvMWhwREZJUllxVTlidWlLZ2U0U18yVHppMmVnd9IBwgFBVV95cUxOYThQOHZTdjREcDVVVjhReVdqemZqSmVhbjdraHRjSnZ4dFF1d3JaM0UzLVNtcm9ZYzFyTFpWUmRnZWQtUDkyOGRRcUI1cVg3dXJJUmtWTjBpRmRaOW1BaXh5S2NjM3oyZHVDbW9XeTR4am5TVGFobFk5SmlRUU5LRXY4QzMzNWtWN3NMdXRKNW01TWs4OXFsOHotZnFDSmpZcVd2U2pPeV91LURFOFZTdE1VbG9qNEZpc0FwdGtseUdkQQ?oc=5",
+      "date": "2026-06-09T14:00:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "JtHQ3UZf0Z/r",
       "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "summary": "Sandstone's Series A comes just six months after a Sequoia-led seed round.",
       "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "date": "2026-06-09T13:47:25+00:00",
       "source": "TechCrunch",
@@ -98,6 +266,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Xm665jtwuLvs",
+      "title": "No tech rule exemption for Apple, EU regulators say amid spat over Siri AI delay - Reuters",
+      "summary": "No tech rule exemption for Apple, EU regulators say amid spat over Siri AI delay&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzNjcTNvOF9vcGtjQlkwczJ2Znk2SGllam1yRlZ2OEdOOHVUdGV6dnl2OW1rMk13cEVxcFlXaHIyVW9FV2liTlhmVHdmT1FlZzFodV9qejNlM2ZRREZkLVNublllRTA0WGRHWnVKS3ViWFFaNEFvUm5JbkZUN0I1NC1MOFF6dXNZY2g0cUl1cFJZQVYwS3VVdnFwdmRFV0Y5TE9KVmFyc1NIMlpseDloU3FkRElFUQ?oc=5",
+      "date": "2026-06-09T13:08:24+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -149,9 +329,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8sLor/XmLZ8S",
-      "title": "OpenAI files IPO paperwork, eyes stock market debut - dw.com",
-      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;dw.com",
+      "id": "BR6twc1Dpt88",
+      "title": "OpenAI files IPO paperwork, eyes stock market debut - DW",
+      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEZUTjhMMVZpTlFodWE5WXVNemRDODEwVjZHMWZDY2g0dC01akpGOTRTXzlKRVljcDNUZHhpeVNCMW8zQ194cE51MXF3c0hpWVZacXp1RUtiaGdGaExSZk5uVFBvOEpPMlRpRk9rSGZJdHpQalAydjZLVE1vbWZmNkhsNk1jMWFQcVZj0gGLAUFVX3lxTE5TdmpVdWx2Sll5RFpsTlVOS2I1aDd4V1pteU1IXzl3elVla184b1dXd0l6Vjg2TUVoMklfbmpGcUlWQ283X0VGYXRLMGpsS1c0UGZnN0lrNmQ2bGN3MzlmVXcxWFVBQWlFWk5DdmZGTlh5VW43Y09DRFQ2dEtvQXZNRHRlYVlYdVpBbWM?oc=5",
       "date": "2026-06-09T10:58:36+00:00",
       "source": "DW Tech",
@@ -161,9 +341,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8Ii7dpB7sUdy",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;dw.com",
+      "id": "9EC9d81u8Sh5",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-06-09T10:48:15+00:00",
       "source": "DW Tech",
@@ -171,6 +351,18 @@
       "cls": "src-dw",
       "flag": "🇩🇪",
       "articleLang": "en"
+    },
+    {
+      "id": "okE3PfWv6x62",
+      "title": "Anthropic、最上位「ミュトス」級モデルを一般提供　悪用防ぐ保護機能を備えた「Claude Fable 5」",
+      "summary": "米Anthropicは6月9日（現地時間）、新AIモデル「Claude Fable 5」の一般提供を始めた。同社がOpusクラスを上回る能力を持つと位置付ける最上位の「Mythos（ミュトス）クラス」に属するモデルで、これまでセキュリティ上の懸念から一般公開を見送ってきた水準の能力を、悪用を防ぐ保護機能（セーフガード）とともに初めて全ユーザーに開放した。同時に、保護機能の一部を解除した上位版「Cl",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/10/2000000073/",
+      "date": "2026-06-09T10:34:43+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "B9E54e6GVbGn",
@@ -182,18 +374,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Tq9pOPta3K0o",
-      "title": "India’s TCS chair says AI agents may equal headcount, dampen hiring - Reuters",
-      "summary": "India’s TCS chair says AI agents may equal headcount, dampen hiring&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUdjdDQteXJTaHVFMEozeTNmUXJBZzBXcnJmM056VmFFTVU3V3AwRlF0YmtsUmdGTFFUOEIxOXJTN1NrRnR0X0NwTXBkNXN0ZlFKREhnNUQ3c0ttN2Y2ZHZNREFqWm4yQTVzLWtHWTNNeEJQLWVyV09WTUJhY0dld0VLMlRjRmZVTExjRXA2OGZSNzlWQlJHeVl2ZlUxYzVBRlRQWVhITkE0Zw?oc=5",
-      "date": "2026-06-09T09:54:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -230,18 +410,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "t5loGmhAujuI",
-      "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
-      "summary": "AI saves clinicians time but most lack training, survey finds&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
-      "date": "2026-06-09T08:31:42+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -307,7 +475,7 @@
     {
       "id": "/fH5FM0vJMTR",
       "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-      "summary": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?",
+      "summary": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?",
       "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "date": "2026-06-09T01:56:48+00:00",
       "source": "TechCrunch",
@@ -322,6 +490,18 @@
       "summary": "Perplexity plans 2028 IPO regardless of Anthropic or OpenAI listings, CNBC reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUkJnaFFVYnBCYzlxazFaZ1hqUkZuaVExZ0xlU1h3clhYX0NRSHVFMGJDenJlajFjVVFTREI1aTJkQm1WQVZJLUFCWmpVTmxXSHNXdmozLVFiVVp5SllHSkNfRkcwbjI2RXVKYzkzU2hPOGMyc3dKUFBRWV83X0p0R2FwWTRoTGxlWlZqdUpTb2lkWHN4Z2t6VDBObTJDMTY1RmhOR09hVzZNREpvaG1RVGFkUElGWkJoU1JkZnRn?oc=5",
       "date": "2026-06-09T01:18:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "8VEN5XbmAuEd",
+      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology - Reuters",
+      "summary": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5kZTNKTkVQc2hvTGVhMVJsSXEzc05aTHVPNUY4R2VfaTNzU3B1bzRrUUUxYUZxX0wtaTMzb3BXZEpRcHcyOHVGVjRZY3dmazJ6bmpaSGxTU1dPMnpPM3VCcnhjWVY4dXVqam1XMWJsdW9GbFVwOE1rUWhuMXgxSGczTERwLS12alZTaU82eXV5N0JmZERmdEJhX3ZiOE1jRzNYTnJaQy1xMFB5UHF4bldEc2lfcFNzVDQ3ODd4N0Y4N0xEYUpVamlIYk1wbEJm?oc=5",
+      "date": "2026-06-09T01:02:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -521,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "AgAx7OrTjEWt",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "summary": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI.",
-      "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "date": "2026-06-08T19:41:32+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "vabaQ33D47Dv",
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
@@ -593,18 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "lJSPpw7B2sWC",
-      "title": "Apple’s long-awaited AI Siri overhaul is finally here",
-      "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
-      "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
-      "date": "2026-06-08T17:56:21+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "oowdI+xYgTFx",
       "title": "Amazon is launching AI-generated custom merch",
       "summary": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener",
@@ -625,18 +781,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7Jyhc6ro2bnU",
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-      "summary": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize",
-      "link": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "date": "2026-06-08T17:34:24+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -686,30 +830,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "vAhu/81FHsCp",
-      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "summary": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia",
-      "link": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-      "date": "2026-06-08T16:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "DLFYvqfiR1tm",
-      "title": "Amazon now lets you design custom merch using AI",
-      "summary": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers.",
-      "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-      "date": "2026-06-08T15:49:12+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -782,18 +902,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "rae3zeXHGe3Z",
-      "title": "Microsoft’s AI chief says superintelligence is near, but won’t take your job",
-      "summary": "Today I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I’m actually going to keep today’s intro short — I’m working from my wife’s family farm this week, as you’ll see in the video, but",
-      "link": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "date": "2026-06-08T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -917,15 +1025,15 @@
       "articleLang": "en"
     },
     {
-      "id": "9+j+w4/zK+R1",
-      "title": "Citigroup lifts S&P 500 year-end target to 8,100 on earnings strength, AI 'supercycle' - Reuters",
-      "summary": "Citigroup lifts S&amp;P 500 year-end target to 8,100 on earnings strength, AI 'supercycle'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUUJzZ2RnQjZiRVhIaFd1a01Xcjg5Z0Q2S2hxWXlpck1FZkd1UE1KS2Y3TTlGN3pnWElYV0p6R19NNTh3ZjhaTkphR1lUZjdETE1zNnEwZXNXSTBrcEsycl94Vkwzem9ROG1JUm5JWDlyblVBR3hJcFZkSGI1UThDZTFydmRjTksyUy15TnBRbzlzeF9tcXdoWEFnSHBNakg5VG02Rko0UVNkX1VGbXpRQ1NGbDUxSVR0Wl9qUA?oc=5",
-      "date": "2026-06-08T09:19:51+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "zejWvzIbWzGj",
+      "title": "SK, Nvidia expand chip alliance into AI infrastructure - The Korea Herald",
+      "summary": "SK, Nvidia expand chip alliance into AI infrastructure&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02Sk1BdzkzbExEUWZpbGJoQllKRFRNR2Rqb05TUHpsREFxaGVFUGIwaVZWUDVPMUVXSjFNV2dCMU1RQzF2MDVnOFlLR1A2OXVnUjM5RVVzcw?oc=5",
+      "date": "2026-06-08T05:25:45+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
@@ -1001,18 +1109,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "ku5EhN2JHBjU",
-      "title": "NEC、富士通に先手!?　日立が「Claude Mythos」アクセス権を取得した背景",
-      "summary": "日立製作所が、Anthropicの先進AI「Claude Mythos」のアクセス権を取得した。Anthropicを巡っては、NECや富士通も協業を発表している。",
-      "link": "https://www.itmedia.co.jp/business/articles/2606/08/news058.html",
-      "date": "2026-06-07T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "X16XkPlrrpoM",
       "title": "My Take | China’s Confucian AI vs America’s oligarchic version - South China Morning Post",
       "summary": "My Take | China’s Confucian AI vs America’s oligarchic version&nbsp;&nbsp;South China Morning Post",
@@ -1025,18 +1121,6 @@
       "articleLang": "en"
     },
     {
-      "id": "WxQ8pwBESb9u",
-      "title": "Billions spent and hypothetical returns: the AI boom explained with six charts",
-      "summary": "Expenditure is growing fast and consumer take-up accelerating. But alarm bells are sounding The race is very much on. Elon Musk’s SpaceX, which makes AI models as well as space rockets, announced last",
-      "link": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts",
-      "date": "2026-06-07T11:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "yvo5POfOPo4a",
       "title": "Hong Kong to open first convenience store operated by humanoid robot in AI push - South China Morning Post",
       "summary": "Hong Kong to open first convenience store operated by humanoid robot in AI push&nbsp;&nbsp;South China Morning Post",
@@ -1046,18 +1130,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "1UvM9flu8Ms7",
-      "title": "‘A driver of political violence’: how the breakneck AI boom is fueling anti-tech extremism",
-      "summary": "Backlash against AI is taking an extremist turn, following in the footsteps of earlier techno-pessimist militantsWhen a 20-year-old man from Texas was arrested earlier this year for allegedly trying t",
-      "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
-      "date": "2026-06-07T10:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1082,18 +1154,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "3NLIQvxC9Gc7",
-      "title": "US says it will speed development and use of AI for national security - Reuters",
-      "summary": "US says it will speed development and use of AI for national security&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5TUTRobTZNTTZ5LTVzM2JRZDBuQl85YjRGV2RTMXZKZXBiMWFBVk1oZERpWm1TWkVnR0NLRjRqZDdaZWVIZ2JpR20yQm9LRElJZTJtT0YweWxCT0pLQXVLRTZYV1dVOFFfd05OeENfVm14NG1PbVNyckFhSU0xN1VMcmFnWGl6QnZTZWRwNjEwbWF3VjBnWHZtcnN0d3Rvd0g2TTA2QlI?oc=5",
-      "date": "2026-06-06T21:47:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1142,6 +1202,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "3NLIQvxC9Gc7",
+      "title": "US says it will speed development and use of AI for national security - Reuters",
+      "summary": "US says it will speed development and use of AI for national security&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPME5TUTRobTZNTTZ5LTVzM2JRZDBuQl85YjRGV2RTMXZKZXBiMWFBVk1oZERpWm1TWkVnR0NLRjRqZDdaZWVIZ2JpR20yQm9LRElJZTJtT0YweWxCT0pLQXVLRTZYV1dVOFFfd05OeENfVm14NG1PbVNyckFhSU0xN1VMcmFnWGl6QnZTZWRwNjEwbWF3VjBnWHZtcnN0d3Rvd0g2TTA2QlI?oc=5",
+      "date": "2026-06-05T20:09:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1313,18 +1385,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/3M92mvZcTYP",
-      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
-      "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\".",
-      "link": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-04T23:05:39+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "4pCwWRhGjhRW",
       "title": "Is Hong Kong losing its tech edge to the mainland’s AI boom? - South China Morning Post",
       "summary": "Is Hong Kong losing its tech edge to the mainland’s AI boom?&nbsp;&nbsp;South China Morning Post",
@@ -1397,9 +1457,9 @@
       "articleLang": "en"
     },
     {
-      "id": "7KOOc40SeC7P",
-      "title": "Ukraine is now the world's AI war lab - dw.com",
-      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;dw.com",
+      "id": "02jhrIiTN5DU",
+      "title": "Ukraine is now the world's AI war lab - DW",
+      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NaVdQdEdOXzEzaGNjaUJ4UzhqcVdRYXozSU81aUU1bFJXOWJ6TlBqQWNjQTZYcFZLMFhNNXZtdFV3OHpTVVRHRVJINHRreXNlYmdLb3BybEhBWVYwVU01NWlMeGl4dGJld3I4RXVya2dybXNWMzRSOWZOTXo2UQ?oc=5",
       "date": "2026-06-03T20:16:32+00:00",
       "source": "DW Tech",
@@ -1442,18 +1502,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "3AF32UndALoq",
-      "title": "Trump signs order seeking govt access to new AI releases - France 24",
-      "summary": "Trump signs order seeking govt access to new AI releases&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNF9aMkw5YVNoTHFxajQyZFhJaF9FN1lxQWJkMzNlVFRoS016UW5ZTmJCY0JwMXRXWFdURU1qeEF6TW9wclNiamxHTWdTRndCeGVkdzZoQ2VyRnZkR0x4SE5DUTZSWGYzVDZJQ2xuRks1N2R1NzZfMkl3MXN2eVVidE1OZ0NCa1RmMHpWZ0I2V3RZdm1ma0lmMnA1WnRSVTBUZFlBeTJvNVJzc2F6aWRkdDluVHFSSTZjWnc4b0QxOWR2SWU5ZUpPZzJXMzhzY1dseVE?oc=5",
-      "date": "2026-06-02T17:26:25+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
