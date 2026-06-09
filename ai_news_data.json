@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-09T09:41:03.805056+00:00",
-  "articleCount": 112,
+  "generated": "2026-06-09T14:48:44.852692+00:00",
+  "articleCount": 116,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,179 @@
   },
   "articles": [
     {
+      "id": "SxSjlwImnClp",
+      "title": "Apple’s AI promises are finally, almost, sort of, here",
+      "summary": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's poss",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
+      "date": "2026-06-09T14:18:18+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "JtHQ3UZf0Z/r",
+      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+      "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+      "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+      "date": "2026-06-09T13:47:25+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1neHssfkNyhb",
+      "title": "Apple’s best AI idea looks a lot like vibe coding",
+      "summary": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation",
+      "link": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
+      "date": "2026-06-09T13:34:48+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YApn9Ird/pdV",
+      "title": "All signs point to Trump pushing AI growth",
+      "summary": "Also: Anthropic advocates for a ‘pause’ on AI advancement – days after filing to go public on the US stock marketHello, and welcome to TechScape. I’m your host, Blake Montgomery, the US tech editor at",
+      "link": "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
+      "date": "2026-06-09T13:06:03+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VLMqWhy0/HIA",
+      "title": "Apple’s AI pitch will live or die by its privacy promise",
+      "summary": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/946705/apple-private-cloud-compute-ai-siri-intelligence-wwdc",
+      "date": "2026-06-09T12:55:33+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YhWVHkkMso66",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. David Sinclair plans to test whole-body rejuvenati",
+      "link": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+      "date": "2026-06-09T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "j2GbaYSZXuub",
+      "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
+      "summary": "Governor urges people to report videos on X that falsely show the men clashing in the Question Time studio The Bank of England has warned the public against falling for AI-generated scams after deepfa",
+      "link": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+      "date": "2026-06-09T11:01:05+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "8sLor/XmLZ8S",
+      "title": "OpenAI files IPO paperwork, eyes stock market debut - dw.com",
+      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEZUTjhMMVZpTlFodWE5WXVNemRDODEwVjZHMWZDY2g0dC01akpGOTRTXzlKRVljcDNUZHhpeVNCMW8zQ194cE51MXF3c0hpWVZacXp1RUtiaGdGaExSZk5uVFBvOEpPMlRpRk9rSGZJdHpQalAydjZLVE1vbWZmNkhsNk1jMWFQcVZj0gGLAUFVX3lxTE5TdmpVdWx2Sll5RFpsTlVOS2I1aDd4V1pteU1IXzl3elVla184b1dXd0l6Vjg2TUVoMklfbmpGcUlWQ283X0VGYXRLMGpsS1c0UGZnN0lrNmQ2bGN3MzlmVXcxWFVBQWlFWk5DdmZGTlh5VW43Y09DRFQ2dEtvQXZNRHRlYVlYdVpBbWM?oc=5",
+      "date": "2026-06-09T10:58:36+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "8Ii7dpB7sUdy",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-06-09T10:48:15+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "B9E54e6GVbGn",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enter",
+      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+      "date": "2026-06-09T10:20:06+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "Tq9pOPta3K0o",
       "title": "India’s TCS chair says AI agents may equal headcount, dampen hiring - Reuters",
       "summary": "India’s TCS chair says AI agents may equal headcount, dampen hiring&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUUdjdDQteXJTaHVFMEozeTNmUXJBZzBXcnJmM056VmFFTVU3V3AwRlF0YmtsUmdGTFFUOEIxOXJTN1NrRnR0X0NwTXBkNXN0ZlFKREhnNUQ3c0ttN2Y2ZHZNREFqWm4yQTVzLWtHWTNNeEJQLWVyV09WTUJhY0dld0VLMlRjRmZVTExjRXA2OGZSNzlWQlJHeVl2ZlUxYzVBRlRQWVhITkE0Zw?oc=5",
-      "date": "2026-06-09T09:16:20+00:00",
+      "date": "2026-06-09T09:54:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "HaVT0uDPd6G9",
+      "title": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports - Reuters",
+      "summary": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLVc1MVBsYnkwTWZPT2FCMy14QjFGYnc3ZzBhSmdSTGdCRTlfM1dkY3RoXzJvbjRVc0U1dXRnUC1QalZvalE1eUpoRllIOVZhN2hMSmxTaFdWMGViRF9QSS16NXN0VjRkS01NMXdMc0t6ZVNsMEc5dXRsaGNpNDRjQUl3NFNZRzN0YWxmVjJ0ZEtORG5tTnYyYU1weFctbGJwM3R1NEFWcVZ5TllWUm1NakR1elE3X3hJMVN4RUlldw?oc=5",
+      "date": "2026-06-09T09:24:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ab8TcP82EeZ8",
+      "title": "Five things you need to know about AI",
+      "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10",
+      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+      "date": "2026-06-09T09:16:45+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YcnLYdv0l0Us",
+      "title": "The world faces an AI data crunch. China has a plan to beat it - South China Morning Post",
+      "summary": "The world faces an AI data crunch. China has a plan to beat it&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3hPRDA1R19VX1ByQzRiWmNoWnU5d01sa0tBNnJGbVhqX3pyenZKN3dtd3FweEZDOUMtVmdXZld2ZC1HMlpxaDF1UVRwVTBqWEdSZl90TlFRTmY2RGFMMUVrcHZxb3NfakV5UHJMUDREM3JxQkJFekVIV3RnbnBtbjl4S2VIbGpjNUVocFNjMmpndloxZVNlOFJDSmhvY25PZDVvVEp4LWRzYXlY0gGsAUFVX3lxTE9rdGN3SWQ4REFPMXZfUjFBQ0JTcTRpOEcwS1U0cWNqTHFQcXZaTGcyS1E5NzAzdEc2SWRzVFZ5TVNERGEyT0c4OTc0N3ExT3FxV0JkaGNjT3JEaG40NVJqWUVJeTNJMWNyVXhJZVNYbWRTcDM3SXM2ODBhLVllYk5RVUx6U1ZuWmRTU2NHV21McFpRM2tscTVVS2xnVUs4dnJ4TTZBT2JORlVsZVY?oc=5",
+      "date": "2026-06-09T08:40:19+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "t5loGmhAujuI",
+      "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
+      "summary": "AI saves clinicians time but most lack training, survey finds&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
+      "date": "2026-06-09T08:31:42+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -98,6 +266,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "mpVkh69xeEEw",
+      "title": "Will AI become a public utility? - Reuters",
+      "summary": "Will AI become a public utility?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTNFVDN6anJ3V2NJQ0Ytcm5tSVVKbmttYnQ2LTc3cjJ6ZEJwX0YtTUw5Y3h5MGNMcnFrVGF3YktlLU1kdFFxNDBOaFNreGJMU202VUxhRElWU0FMVHZPMGl0R2hHMkE2Zll6ekVidDZQbjVyNGh3QXdHOC13R3pKMTlvUzEyN1BVeTVlUWN1NFhzMkprYUFoNnZDTlp6a2ctaUtwT2t3?oc=5",
+      "date": "2026-06-09T06:09:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -149,18 +329,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8VEN5XbmAuEd",
-      "title": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology - Reuters",
-      "summary": "Ahead of SpaceX IPO, Musk says AI satellites will use mostly existing technology&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTU5kZTNKTkVQc2hvTGVhMVJsSXEzc05aTHVPNUY4R2VfaTNzU3B1bzRrUUUxYUZxX0wtaTMzb3BXZEpRcHcyOHVGVjRZY3dmazJ6bmpaSGxTU1dPMnpPM3VCcnhjWVY4dXVqam1XMWJsdW9GbFVwOE1rUWhuMXgxSGczTERwLS12alZTaU82eXV5N0JmZERmdEJhX3ZiOE1jRzNYTnJaQy1xMFB5UHF4bldEc2lfcFNzVDQ3ODd4N0Y4N0xEYUpVamlIYk1wbEJm?oc=5",
-      "date": "2026-06-09T01:02:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "/ny5lGvjjIS7",
       "title": "Apple、EU当局を批判「どの解決策も受け入れず」　「Siri AI」EUのiPhone・iPadで提供見送り",
       "summary": "EU側が求めるデジタル市場法（DMA）への対応について、Appleが提示した解決策を欧州委員会がすべて拒否したためという。",
@@ -171,6 +339,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "d+FllHZ5e08p",
+      "title": "VIEW OpenAI joins Anthropic in IPO push - Reuters",
+      "summary": "VIEW OpenAI joins Anthropic in IPO push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakhHT1NMSXRBTUJSMGk4ZmtJd2JCamd0M3NCWC1Kck5QWVpTM1NGdC1Xck1DbTNuLWMtM2RSNjdMTUt0bnZ2ZndPWkJQbDVuQ1VZV0trRFUyMXZQNmQxQ25VY192LWJPcFRIM0p0WVJrdXdwMHlUU1hoS0NnOENWY1huYURDMGh5SlNHQnM4TGtLTTZ3NW1R?oc=5",
+      "date": "2026-06-08T23:13:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "hiXm6iw2BkqJ",
@@ -581,6 +761,18 @@
       "articleLang": "en"
     },
     {
+      "id": "mqMIFRW+OKQe",
+      "title": "UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding - Reuters",
+      "summary": "UK sets out $1.5 billion AI hardware plan with supercomputer, chip funding&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVpmcjByVl93d2lKdkoyTEVYdWo3Q1h2ZlRHQjROSEJMcExiTTlVRFozdTdBaFVfOGZUUGxZWC1xQVNjN3Y0WUo4SC05N3F0MzJ4OVZaQjdnOUszdjZsM2QtVWU5WlpSLWY4TG5IYm5SbUxUckJoWm5Ub01XOE10eW8zTnRaWTVKQnZtZ2JSSlptRV9DM0xGYWRqWE14SF95NnFYU2hTSzd1bk9Bbk9EWmNmbVkxV2M?oc=5",
+      "date": "2026-06-08T14:23:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "hPpAi4U+VgF7",
       "title": "China warns of security risks in relay services for foreign AI models - South China Morning Post",
       "summary": "China warns of security risks in relay services for foreign AI models&nbsp;&nbsp;South China Morning Post",
@@ -713,6 +905,18 @@
       "articleLang": "en"
     },
     {
+      "id": "86qlZHFy15ZE",
+      "title": "Xi Jinping arrives in a North Korea armed with advanced warships and AI drones - South China Morning Post",
+      "summary": "Xi Jinping arrives in a North Korea armed with advanced warships and AI drones&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzd0UjJWWTJ1NTBHNktVeEVpLW9PODczaTB2SE1HY2RmY25SSVc2Ny1pWGNhWFhiQTEyOGYwc1VtRS1JWmRJbmdmcDc3OHFGZ1FheFdnSXlWU2NiTFpZcld5U1loRTRRYTAxdHZsWWxNU3NkUFJ1VlUxM0xxQllReVlsM3FfVTJBQUdRU3JiUVZQdG14YXhCT1gzYUZYMC1vcUFEX1hNZW9vMl9XV1ZpTXdJc0J0cGZxdEtQVHk2QmFMR1V6M09TeXh5ZEvSAcwBQVVfeXFMTllmckxIMFRXaWJRakxnYTZUOWtndmpYblFpMmRvSENRNXhvb29TcmtmbmRsek1ycTZ6Z205NzI4cnE4QWItMll1RjFjWHZQa1dEZnd5NnJaRjAyZkZVVGFfUF9WZEJNSkx1WWZWajBCemZsUTJQMXNYak5XMWZNZU44SnlUTWpITWFJbU82Q19RM1BBcmZvWXBuTzgtdENtc0V5cmtXaHVMT213N1ByR2xrTkpjOVR0S3JHdGNxeWNnTVdWU3pNWVlHWTBD?oc=5",
+      "date": "2026-06-08T09:59:18+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "9+j+w4/zK+R1",
       "title": "Citigroup lifts S&P 500 year-end target to 8,100 on earnings strength, AI 'supercycle' - Reuters",
       "summary": "Citigroup lifts S&amp;P 500 year-end target to 8,100 on earnings strength, AI 'supercycle'&nbsp;&nbsp;Reuters",
@@ -809,42 +1013,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "avOnUh4MUKSX",
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "summary": "We're likely to see more price increases as the big AI companies plan to go public.",
-      "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "date": "2026-06-07T20:26:13+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "i/1RnPZ63UcB",
-      "title": "Notion restores access to Anthropic after service disruption",
-      "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
-      "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "date": "2026-06-07T17:56:22+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "XLuFE2G8OY2q",
-      "title": "OpenAI is still working on that ‘super app’",
-      "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
-      "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "date": "2026-06-07T16:23:22+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "X16XkPlrrpoM",
       "title": "My Take | China’s Confucian AI vs America’s oligarchic version - South China Morning Post",
       "summary": "My Take | China’s Confucian AI vs America’s oligarchic version&nbsp;&nbsp;South China Morning Post",
@@ -854,18 +1022,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "/CJx8PGS2Al1",
-      "title": "AI ‘content creators’ are getting harder to spot",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
-      "date": "2026-06-07T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -898,18 +1054,6 @@
       "summary": "Backlash against AI is taking an extremist turn, following in the footsteps of earlier techno-pessimist militantsWhen a 20-year-old man from Texas was arrested earlier this year for allegedly trying t",
       "link": "https://www.theguardian.com/technology/2026/jun/07/anti-ai-tech-extremism-violence",
       "date": "2026-06-07T10:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "FaylJI4OPBbD",
-      "title": "‘Poisoned’ AI: the ChatGPT shopping scams that lead to fake websites",
-      "summary": "Buyers are ripped off after assuming online stores were genuine because they are recommended by an AI toolYou want to buy a new bag and so you ask ChatGPT for help. You have always liked Russell &amp;",
-      "link": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites",
-      "date": "2026-06-07T06:00:26+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -977,18 +1121,6 @@
       "articleLang": "en"
     },
     {
-      "id": "yBHqx1AJmV0I",
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "summary": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "date": "2026-06-06T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "lZ0POvyZTJZM",
       "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
       "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
@@ -1010,18 +1142,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "9EC9d81u8Sh5",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 34 - DW",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 34&nbsp;&nbsp;DW",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-06-06T02:35:08+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1157,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "x+A5mVCZNHhS",
-      "title": "AI Has Come for Serif Fonts",
-      "summary": "AI companies are using serif to project humanity. Critics are calling it “tasteslop.”",
-      "link": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-      "date": "2026-06-05T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "7XOXmUlcZPo/",
       "title": "We need to stop AI developing without humans, says Anthropic co-founder",
       "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
@@ -1241,35 +1349,11 @@
       "articleLang": "en"
     },
     {
-      "id": "1h6d/nA3q2We",
-      "title": "US House lawmakers release draft bill to prohibit state AI rules - Reuters",
-      "summary": "US House lawmakers release draft bill to prohibit state AI rules&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcG5Sb0owaXRhbUlnSGpYRWV3c3lYOTRva2FsdE1ZYjZDYTRmU2FYS0wwa2VNYTBSblB3cHRsbjJOXzNMQllnU1QzNjU0THJmZ0ZhVmllV2hGZllQU2NZaEVhOTlYWTJxeVZPa2psOG5kOFdEaEx0MU9vSzlhemRycGotbkJUWE95aElJbjVweFhMaXZGS0tMdFRn?oc=5",
-      "date": "2026-06-04T21:44:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xLPljzhhvdJs",
       "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How courts are coping with a flood of AI-generated",
       "link": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
       "date": "2026-06-04T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "kdykP9odpINk",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "summary": "Most days in her chambers, Judge Maritza Braswell, a federal magistrate judge in Colorado, sifts through stacks of documents written by people without a lawyer. Many of them can’t afford to hire a law",
-      "link": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-      "date": "2026-06-04T10:50:18+00:00",
       "source": "MIT Tech Review",
       "key": "mit",
       "cls": "src-mit",
@@ -1313,9 +1397,9 @@
       "articleLang": "en"
     },
     {
-      "id": "02jhrIiTN5DU",
-      "title": "Ukraine is now the world's AI war lab - DW",
-      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;DW",
+      "id": "7KOOc40SeC7P",
+      "title": "Ukraine is now the world's AI war lab - dw.com",
+      "summary": "Ukraine is now the world's AI war lab&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NaVdQdEdOXzEzaGNjaUJ4UzhqcVdRYXozSU81aUU1bFJXOWJ6TlBqQWNjQTZYcFZLMFhNNXZtdFV3OHpTVVRHRVJINHRreXNlYmdLb3BybEhBWVYwVU01NWlMeGl4dGJld3I4RXVya2dybXNWMzRSOWZOTXo2UQ?oc=5",
       "date": "2026-06-03T20:16:32+00:00",
       "source": "DW Tech",
@@ -1334,30 +1418,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "77uoe9MJu8cu",
-      "title": "Want to save the planet? Stop being so polite to AI chatbots - South China Morning Post",
-      "summary": "Want to save the planet? Stop being so polite to AI chatbots&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLVUzV0w4ZzRYdV9WV1VhaGVucXE3aXFvNmpqblh2S1hIelBVeUxXY05wREVFTV9Hay1USDJPMjhvaTFPaUpHTlpXRGNsQ1JQc19yZTFxcVJ0T1ItVTNwLXl3QnA1OHdDZDIySk1UWHJTUjRlM0dlNmd6aE1iQXZoU01xYTJnSmRIbHh0eWpxVDduSlVmNlHSAZYBQVVfeXFMTVVtZnk3TWk4SmRCY1p1U3JMRHpubGxzU0pCMks5M19JbDgwQ1FuWF9BSGpfWWhhS1Q1dlY4d1BhM21lZVExS1phUW9LVVBRVndnN3N6eUd3UGdoeXl3LVgxcHRKREowaFdUUGxDVW5Jc0F2Y0g0RnhsRFp6VDdTVUNOQXBnVnhwVlRKOHdjUkJMUGdONHp3?oc=5",
-      "date": "2026-06-03T14:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "qIDLHWbSZQjs",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 5 key points in Trump&#8217;s new AI order Less th",
-      "link": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-      "date": "2026-06-03T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1394,18 +1454,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "oG8B+tze+vRm",
-      "title": "The Download: AI can run your admin department now",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How small businesses can leverage AI From accounti",
-      "link": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-      "date": "2026-06-02T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
