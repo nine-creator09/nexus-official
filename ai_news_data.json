@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-12T03:52:56.131060+00:00",
-  "articleCount": 103,
+  "generated": "2026-06-12T10:11:20.963950+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "ars": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "guardian": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 26
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,78 @@
     }
   },
   "articles": [
+    {
+      "id": "ZVyUJqerygaK",
+      "title": "Behind the scenes at OpenAI HQ: the Stephen Collins cartoon",
+      "summary": "Continue reading...",
+      "link": "https://www.theguardian.com/lifeandstyle/picture/2026/jun/12/behind-the-scenes-at-openai-hq-the-stephen-collins-cartoon",
+      "date": "2026-06-12T09:30:40+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "wFh1r9Yk+db8",
+      "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
+      "summary": "They’re about to get more AI rammed down their throats, stuck into their pension plans and investment portfoliosAmericans are growing worried about what artificial intelligence portends for their futu",
+      "link": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
+      "date": "2026-06-12T09:00:41+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "IXFklPuhOnJI",
+      "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
+      "summary": "IPO for Elon Musk’s company comes in what is predicted to be a banner year for public offerings of AI companiesSpaceX will become publicly traded on Friday after nearly two and a half decades as a pri",
+      "link": "https://www.theguardian.com/science/2026/jun/12/spacex-stock-price-ipo-spcx",
+      "date": "2026-06-12T09:00:40+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Uk1zVnHrEAhQ",
+      "title": "Pokémon Go data trained AI that could assist military drones in war zones",
+      "summary": "Location scans from the globally popular augmented reality game have helped train AI to recognise and interpret physical spacesFollow our Australia news live blog for latest updatesGet our breaking ne",
+      "link": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones",
+      "date": "2026-06-12T07:06:00+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ijz0Nky1nNRS",
+      "title": "Siri won’t be your AI girlfriend",
+      "summary": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri wo",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "date": "2026-06-12T07:00:31+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "dBuLOsfap/JN",
+      "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
+      "summary": "Avataar AI's distilled video model is priced at $0.005 for every second of generation",
+      "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+      "date": "2026-06-12T04:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "eT8OZonofGMe",
       "title": "Jeff Bezos’s Prometheus raises $12B to build an ‘artificial general engineer’ for the physical world",
@@ -98,6 +170,30 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "h+nG9e3niKXJ",
+      "title": "Could the AI ‘self-evolution’ trend add fuel to the China-US tech war? - South China Morning Post",
+      "summary": "Could the AI ‘self-evolution’ trend add fuel to the China-US tech war?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX253N2JpTjZDd3JiYXVVMHJURENHZ3ZXdEpwZ2lCQUVNM1dabFo2SG1DdS11cFI2YWdKbkZ3b1Vyb3B0ODNWSVlhSTZEMmFJWV9xV1NPZ2hOYi1BeVB6UzNlZ1lFUm9tY19DUUtpNHpCOXhCdGNsc3RwYkt2Y2hkT1dLOXpNVkd1QjNtbms5YzFMZGpWUm9jbXVPTGh0OEVKeDRQU2lBVTRJemdV0gGsAUFVX3lxTE1ZRlhJT0tIbGJ5UGpsMU1RMldzYmNvWko4c3VnMmZNWkN5dW0wRGwwMksyNEczWDhtblJLY0pMMXg1VDg3dk9aQ3pwZkJNc25kWF96ZGpRN2lvWXkxb0ZGMFFqNG1hQXpfQWZxU2ptano1WTYwWXotNHQ0Q2daWEN6bjNXQzFxbHJZRm1TWERTQjljZmNUUkFUZUt4U01qSzQ0enJtb0RDUHhlc0U?oc=5",
+      "date": "2026-06-11T22:00:14+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "70NSmprZMTst",
+      "title": "US Congress warned: AI race winner will rule world, and it must not be China - South China Morning Post",
+      "summary": "US Congress warned: AI race winner will rule world, and it must not be China&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSEE1ZzFhSUZucXBjNUgwMUFJUW9TU3kzdXhVUFRuR2N1cDlpVi0weGNtVDM3MVVnZ1FKc1hkSm9IUXFjVlU0Tjh2RWVqS3hsaEhfUFZrNWk3aFR6WmRYVXdnc2ZHczBKY3dsOWpaeDBQbFVCaTJOYVZKYjhYUV9tUlE2MWtzUFlyVFFrcE5vMTJVems5X21oT0ZkN2FZazctb1lQQS00SzVYa1pfdE5KUllZT1h1UTZNM2twUHZpZ9IBvwFBVV95cUxNRy1RNUtMOFY2cE1FTFJSekxGejZMVE9FbTdHd09oQmsxeGR6SUhlM1M2dnU1VkVrQTBxelhPeDZVdU9kMDBWemdfZkxENmdrbkprS0ZNYVA3d2hyYkdGNlkzbTVrQUdHMmY0Q281a0s2QTdMLU83SDBxRTFDRG1tQXkyTWNhb2xTcUtLdEpWM2hLclRtV3FwRTNreWlZd1h2NUkxaVdyWExJcXhiZGtBV1UyN2h2VTdIY2FxUlg2VQ?oc=5",
+      "date": "2026-06-11T21:51:25+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -142,18 +238,6 @@
       "summary": "Anthropic v. OpenAI: Behind the bitter battle for the future of AI&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5nUHlsdmNnT25PcUpTYUFLYS1FSHl3bmdpRE0wN0NfSzBSd3FRdkVtT1VPSE55bmJnczN3aGFmRUlyTmhPVlRJYlhHOElpZGl2X0hpMW1iZU0yMVJOZHhjaVU3RXVWa19xUTJTY2c4T2JUNmhRXzRVMUdsdXgtTVFhRG9yd1FQSU03SVN2ZjhnQ0I3RWdPZEh4aEVVSDc3RTdndzV2VWY?oc=5",
       "date": "2026-06-11T17:18:17+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "bW3feBk93cFY",
-      "title": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows - Reuters",
-      "summary": "Americans wary of AI-driven data center boom, Reuters/Ipsos poll shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWxuRUxydEd0V09kUXFaeXVQSVRidjljZE5zdXB0WXd3ZE5GbERPWUdFWjE0bWM0ZFFNU2JMVmFYRVRaWFlTczZ6N1haSElBNG11Y3BZWUt1cnRpN1g0WnVQTkc5Wno4bXZRRk9lNUIxMUg4S3g2MDZrdW5nQUppWkUxeEJoM0lfSjFBNFdlVVJEUEFQdDRGRWhZb3owbU5EdDBoMk05SHo2dEFMdnFF?oc=5",
-      "date": "2026-06-11T16:55:38+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -701,18 +785,6 @@
       "articleLang": "en"
     },
     {
-      "id": "xkmKdMpTrg0Z",
-      "title": "「Siri AI」の進化に「Geminiそのまま」の誤解――現地取材で見えた“新生Apple Intelligence”の全貌",
-      "summary": "「GeminiがApple Intelligenceの正体」は誤解だ。WWDC 2026の現地取材で見えてきた第3世代は、200億パラメータのAIをiPhoneで動かす革新技術、Google Cloud＋NVIDIAによるインフラ刷新、そして静かに変わる「無料」の定義まで、想像以上に深い変化を遂げていた。",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/10/news122.html",
-      "date": "2026-06-10T08:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "2Asu9rqjNvpl",
       "title": "Global watchdog calls for tighter controls on agentic AI in finance - Reuters",
       "summary": "Global watchdog calls for tighter controls on agentic AI in finance&nbsp;&nbsp;Reuters",
@@ -722,18 +794,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "lssYt3/DKiqt",
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "summary": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time.",
-      "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "date": "2026-06-10T07:05:26+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -782,18 +842,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "hldQgl4amhd7",
-      "title": "I tried Siri AI, and so far it actually works",
-      "summary": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g",
-      "link": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
-      "date": "2026-06-09T23:43:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -953,30 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "j2GbaYSZXuub",
-      "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
-      "summary": "Governor urges people to report videos on X that falsely show the men clashing in the Question Time studio The Bank of England has warned the public against falling for AI-generated scams after deepfa",
-      "link": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
-      "date": "2026-06-09T11:01:05+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "B9E54e6GVbGn",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enter",
-      "link": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-      "date": "2026-06-09T10:20:06+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "HaVT0uDPd6G9",
       "title": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports - Reuters",
       "summary": "China prepares $295 billion plan to fund nationwide AI buildout, Bloomberg News reports&nbsp;&nbsp;Reuters",
@@ -1009,18 +1033,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "2fWaE3q4WMAR",
-      "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
-      "summary": "Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technologyDoctors and the NHS could be sued for medical negligence over mistakes made by art",
-      "link": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
-      "date": "2026-06-09T08:00:48+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -1058,42 +1070,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "d+FllHZ5e08p",
-      "title": "VIEW OpenAI joins Anthropic in IPO push - Reuters",
-      "summary": "VIEW OpenAI joins Anthropic in IPO push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOakhHT1NMSXRBTUJSMGk4ZmtJd2JCamd0M3NCWC1Kck5QWVpTM1NGdC1Xck1DbTNuLWMtM2RSNjdMTUt0bnZ2ZndPWkJQbDVuQ1VZV0trRFUyMXZQNmQxQ25VY192LWJPcFRIM0p0WVJrdXdwMHlUU1hoS0NnOENWY1huYURDMGh5SlNHQnM4TGtLTTZ3NW1R?oc=5",
-      "date": "2026-06-08T23:13:08+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "hiXm6iw2BkqJ",
-      "title": "Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-      "summary": "David Lammy to announce trial of AI assistants  in crown courts in effort to cut backlog of casesA plan to roll out virtual legal assistants powered by artificial intelligence to crown courts has prom",
-      "link": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff",
-      "date": "2026-06-08T23:01:38+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "4Ej5tMt3s2Br",
-      "title": "OpenAI confidentially files for initial public offering on US stock market",
-      "summary": "ChatGPT maker expected to be valued at more than $850bn, one of most highly valued listings in market historyOpenAI has filed confidentially to go public on the US stock market, according to a company",
-      "link": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market",
-      "date": "2026-06-08T21:47:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1217,35 +1193,11 @@
       "articleLang": "en"
     },
     {
-      "id": "yvo5POfOPo4a",
-      "title": "Hong Kong to open first convenience store operated by humanoid robot in AI push - South China Morning Post",
-      "summary": "Hong Kong to open first convenience store operated by humanoid robot in AI push&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQXRZTGRjOHRPeFFCSFZaRUU3cnZMdFJqbk9SVkQ1OWR2U3BHR1pZUnRLU29YNkt0VGhGYmYtQnNEVGs2UmNhRjBuTTFjSkRXUERSNk9sSVB6NUkxM1RqV2t0VUxQSXdlMTNEdTFPenRFOXQ5WENXbjdfb0hHWHFQU1ZuUVlzbGNLVWZBdXk3LUVuaU1jLXdEcmstcWpvRW9Ga1ZMcFYzeWtGc2Ixc0dFbGxwMnJ6cjJrekE3bl9iMXVjODBhWnEyNkVoamJLYnlVRGRYVC1OUdIB1wFBVV95cUxNTjJwMG00c2wyVk8tVXFMQzhYd0FSNllxX0xid3FWaC1yWTAwV2VhWGstaUtpUklTNVpKREdLUFlpVU9HQmFuX0U2aUFCVlpJTlZTVXZnWkYxQU1USXo4cjRNbVJ6YjN3UG5QQ3EyUnZGVlFnOU5JS0l4THl5Wnl6VWc2UFpsZW9xX0p2XzZwM1NUQ2ZCcXZCS0NOeUFGaXUzTzVrUEN5b0Z4X0ZQQXd6UXpZUjlDNFV4cGM1ODZFVmdDQVNNV2FQaFRmaDlXVVV2UGhxSDJmMA?oc=5",
-      "date": "2026-06-07T10:37:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "6ixqVL0gq/O4",
       "title": "Trump AI policy adviser Sriram Krishnan to leave position - South China Morning Post",
       "summary": "Trump AI policy adviser Sriram Krishnan to leave position&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaktTQU1HcTV1STFXX3NxZXlNVFhZNUduZ2tWM2kwY3VPdF9HNnExVm13Ym50WWhpalNWckRjV24xTnp3dmczYlNFdUdZc2xxWG1OcHNqSEtaQVVmaHpoSFFHRVlkT3NiN0ZOVjRqdzhKQmVad3NINS1iV2VqMGVwdGhrZ3hfWkM5cWdKREFFa0g4Q0FKYXNuNnp5SGZPSEVUeGhYWHB3b1VFZnFmaVFPbGZIVVZTMHJtZl9CWjNrVnbSAcABQVVfeXFMT3I0eldwZG1GLUFqNnJFdGVPeVN0TTVDa3I4VmZDZHEtdW5ma0xjU0pDMzkwUThmaVBaalRZbXhnbm94cHhUeGdMaFhXUVJFeHlqLVVEcmh2dHp5bG1LWklxbWh3R1pPR2tLbjhUZ0NUTmFQVDFtSUhaeHNEOVpkeFFWUmpDTDVxX0Q2UTVud05FOExXNEpLMHZvd2hOWTB6dmlpU05ic3ZBY1d0SnlxMTQ3M2RQMmxXdjFnUDhtcll1?oc=5",
       "date": "2026-06-06T19:44:25+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "E9uG0DB6VT12",
-      "title": "What does Washington’s latest AI chip guidance mean for Chinese tech firms? - South China Morning Post",
-      "summary": "What does Washington’s latest AI chip guidance mean for Chinese tech firms?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOC1POGE4cHc0V1ZDNV9fMWQtTmpVVXdxbC1fekxQVXlDckJ4TlQ3QzV3d3hNZk9ueU1YUnNIbDhHR01uYlNrdlJsNVN0eGp6SWlvQnhFOEFMZndMbU5sQ0NMODJhbmRzcnJ0Zk4wSF9aQjFzUWRrM29uTmhlZG5vX1lidkdPR2pBODVORUtsYzBYc1lmNUJxcTVHNnFtV0JhRGZpZ3pxMWpMR3pWRkJrU2hsYUNXMmVfY1HSAboBQVVfeXFMUFBwRVFSeS1Wcjd5Zzh1RFZVYXRJblIyRnNjOWFBQjc3bTlhZVh4amVuVVRXdEhCNVlQWDdSSHd3VEgwdkdYcG91QW9oWFF2UE9tSjhtaEZ4YTVKX2pWWnJhdFVLWmF6d3ZoTWQ1Y3p1ak1iWFRuTUV3TE1QYXdEUkFyYjZGaS14N1EwVGR5YnNCbzZTNlpDTkk0UWQzM2djUktCalptLUVNSnlrTWpuTTJ5UW1Ia2l5d1dR?oc=5",
-      "date": "2026-06-06T07:00:07+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1262,6 +1214,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "p6rv5ayem/mT",
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week.",
+      "link": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-05T19:36:30+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
