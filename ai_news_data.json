@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-13T08:56:46.447021+00:00",
-  "articleCount": 100,
+  "generated": "2026-06-13T13:57:42.085597+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,150 @@
   },
   "articles": [
     {
+      "id": "Mw292kOogxLc",
+      "title": "My yard is dying, so I made an app for that",
+      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+      "date": "2026-06-13T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lS985G3ZxPQo",
+      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+      "summary": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+      "date": "2026-06-13T12:55:49+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "HeuOCtz2zzXc",
+      "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
+      "summary": "Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilitiesAnthropic said it will “abruptly disable” its most advanced AI models for all users",
+      "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
+      "date": "2026-06-13T12:37:12+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "osSwNEvsm1V2",
+      "title": "Momfluencers are co-parenting with AI. Is it better than a man? | Arwa Mahdawi",
+      "summary": "Women in heterosexual marriages continue to do most of the caregiving. Now some are offering guides to AI-fying parentingIn honour of Pride I’d like to share some important news: Being Straight is Gre",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/13/momfluencers-ai-co-parenting",
+      "date": "2026-06-13T12:00:13+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "E6BpTTQ43hlz",
+      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
+      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are",
+      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+      "date": "2026-06-13T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ynVlujUyDNIp",
+      "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
+      "summary": "Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will workOwnership of the commanding heights of the AI economy is a political",
+      "link": "https://www.theguardian.com/technology/2026/jun/13/uk-ai-hardware-london-tech-week-investment-chips",
+      "date": "2026-06-13T11:01:12+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "q0KsWwbs2fBA",
+      "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
+      "summary": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told to limit their children’s screen time. But when it comes to deciphering",
+      "link": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
+      "date": "2026-06-13T11:00:13+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VBN3hsW/wFL2",
+      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
+      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+      "date": "2026-06-13T11:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DSSPrGy/bVur",
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW",
+      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVnN0FCeWUwZThwV2pob3RhOWZscXhGNUdGRzRDT21EQkhiNDNvZkVCc01rNWRsM0FyX09PcnRtN3ZLbjU1WVNObUs5RUs3bmw4dXQ5Ukw0eXB0cHVndGQxRU9XT2RiS1puWF9kbUpzNnBZRElST2ZZUWZHN0JidVhGVldlWVVNZ254OVJpZ1ZiMWPSAZMBQVVfeXFMTU5fdTdMSWEwWml1TGRXTzdxOXdDVGpsTnV2VE9fdXNpM3VEVnI4MjlqWDNobmphcTFRQUkxdlFxOVpsLUpJTDZQbkotVjhnUjNnZnRZMFplWHVhN0tQT3FUc0Fmem1oZm4zWUY3ZG5kUXVpQm0yUW5tLWtvU1huRmp2eTZkQzkwdjZVcDFKS2hIS3A4?oc=5",
+      "date": "2026-06-13T09:46:05+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "418NQUlzKmLq",
+      "title": "A Court Has Ruled That Google Is Liable for False Statements Generated by AI Overviews",
+      "summary": "The ruling holds that a company that designs, trains, operates, and manages an AI system must assume legal liability for any damages caused by the responses it generates.",
+      "link": "https://www.wired.com/story/a-court-has-ruled-that-google-is-liable-for-false-statements-generated-by-ai-overviews/",
+      "date": "2026-06-13T09:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ED46YCFuFH0b",
+      "title": "Like US models, Chinese AI is learning to ‘game’ safety tests, research lab says - South China Morning Post",
+      "summary": "Like US models, Chinese AI is learning to ‘game’ safety tests, research lab says&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFZJb01kUFRNem84NWpRMll0U2RGOG42T3hZRXVqUWJaa2lGbUF5WHY5ak9qMVRGZW9XMEFuMFhDQlZOR0gyb0VmY2tHc1U0Zm44RjlyTHQtNkVONDgwUG1KZDBjeTBUNWpiR1RyT3ZaRTViUkZzM2dyYU1Pc1FfTWVMMVJsazA3N1BDSXF1UEdZbVAzM3dHSUtqcFJXMHZQbEdWU1lndGJ2Y0FPUlB1NHBLbmNCMWNiMXpZ0gG7AUFVX3lxTE5uSjFjaENMaDdoUGZYQUVxM3g1LTJlc19jTGt0aVNEdWVORm55dEk3S2MtS1ozenozYlZNX2RINE8wUUlMYVJGUkRQZUJua3Vra19naDhuSVNhbExxUlp5MDhUN2pmOGd1LWRvYjFHRkZrRHZTZkxLc2p4czlEQVpUMHRYczBVLWlIX3AwdnBWR0d2VHVqc0RuY0NwTldmeVc5bV84cDBwQXdnZFNUb0Y1dmdxdjVxa2Y2LW8?oc=5",
+      "date": "2026-06-13T06:00:12+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "Z/8MMeQV/XrK",
+      "title": "US blocks foreign access to Anthropic’s newest AI models over security risks - South China Morning Post",
+      "summary": "US blocks foreign access to Anthropic’s newest AI models over security risks&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaUp3aW9IU1RIcFVZX2VNSTJjdnROay1xLXFfelo2Z05Ja0ZQRUMwbmdqekJrREtaLWx6UmI0S2M3aWw3WTlWbU0yUUhlZk4wdFpzSzB2a1JtbXhrbjBiT3NXT0dkNkxZdnI3a2wwOURrLWxlU0VwQ0drUzV2MDhpek9kay02Zk9oV3Rkc2dPQ1BOWjk0WXJzUzNEdEFYX2tWeUNBNmh4eVktaHFzN3dYeXVXS0LSAbQBQVVfeXFMUE1OQW9SWm9Qd1RoU2VXYjFRRjk2MjY4enRGNUJ0STFsWmQ3NC1pNERLRUVqaTE3LS1WZWRDM3dGRzhEcVZLQnhGOUhZUk9nbkJQaHlmX2FHMEFkX2g2Mk9YRVY5ZFFGOVlRdnFlaklad2RIcjNvU3FOMnJWTUdSbGc2VDdaeW9JY2dIaWVfZFNsM0Z1VkxHUV9wQ2JwejdMSnQtN1ZZcE9qUGpDZU1zNUJXU1h3?oc=5",
+      "date": "2026-06-13T05:06:27+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "fHZvGbD8VsoQ",
       "title": "Dutch far-right party pays damages to court artist after changing image with AI",
       "summary": "Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacingA Dutch court artist has received damages after an MP for the far-right Party for Freedom (PVV) used one of h",
@@ -74,6 +218,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VPHrjzfQxxCv",
+      "title": "German court holds Google liable for fake AI answers - DW",
+      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
+      "date": "2026-06-13T03:41:52+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -158,18 +314,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "7Cx9yMy4tO6k",
-      "title": "German court holds Google liable for fake AI answers - dw.com",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
-      "date": "2026-06-12T21:39:06+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -295,7 +439,7 @@
     {
       "id": "70+1vRU+NtaW",
       "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first tri",
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.",
       "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
       "date": "2026-06-12T14:35:48+00:00",
       "source": "The Verge",
@@ -653,18 +797,6 @@
       "articleLang": "en"
     },
     {
-      "id": "js3JqyZoxZ8G",
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "summary": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "date": "2026-06-11T11:40:43+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "eElVFmEMklPE",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "summary": "Google DeepMind is funding research into the potential dangers of situations where millions of different AI agents interact with each other online. According to Rohin Shah, who directs the company’s A",
@@ -710,18 +842,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "8m1Cfgs/5PT8",
-      "title": "Deezer launches an AI music detector for other streaming services",
-      "summary": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "date": "2026-06-11T08:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -781,18 +901,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7v61h588dVTQ",
-      "title": "Anthropic Walks Back Policy That Could Have ‘Sabotaged’ AI Researchers Using Claude",
-      "summary": "The company changed course after researchers spoke out against the policy, which would have covertly limited Claude’s ability to develop competing AI models.",
-      "link": "https://www.wired.com/story/anthropic-responds-to-backlash-on-claudes-secret-sabotage-on-ai-research/",
-      "date": "2026-06-11T03:11:22+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -869,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "HBVTLAd2TW2E",
-      "title": "Claude Fable won’t answer basic biology questions",
-      "summary": "Anthropic just released Claude Fable 5, calling it the most powerful AI model it has ever made widely available and praising its skills in biology, among others. But the model won't answer basic biolo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
-      "date": "2026-06-10T18:43:34+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6GVCOx3KmVqH",
       "title": "Florida lawsuit alleges wrongful arrest after AI facial recognition error",
       "summary": "Robert Dillon was arrested at home in Florida despite living 300 miles away from where a crime was committedSign up for the Breaking News US newsletter emailA Florida man is suing several law enforcem",
@@ -890,42 +986,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "gKlAablrGLa9",
-      "title": "Microsoft, like, totally gets why students are booing AI-pilled graduation speakers",
-      "summary": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,",
-      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
-      "date": "2026-06-10T17:45:11+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "93rSBywRryTl",
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
-      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "date": "2026-06-10T17:38:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "1va7Z/VIgwWm",
-      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
-      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin",
-      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "date": "2026-06-10T17:20:36+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1010,30 +1070,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "2xIMWKlcalNm",
-      "title": "Seattle enacts year-long ban on new AI datacenters",
-      "summary": "Home city of Amazon and Microsoft passes moratorium as backlash against energy-guzzling AI infrastructure growsSeattle has passed a year-long moratorium on the construction of new datacenters. The cit",
-      "link": "https://www.theguardian.com/us-news/2026/jun/09/seattle-ai-datacenters-ban",
-      "date": "2026-06-10T00:15:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "H9mqicwKQxBn",
-      "title": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
-      "summary": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concernsAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new versio",
-      "link": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
-      "date": "2026-06-09T22:28:29+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1169,9 +1205,9 @@
       "articleLang": "en"
     },
     {
-      "id": "8sLor/XmLZ8S",
-      "title": "OpenAI files IPO paperwork, eyes stock market debut - dw.com",
-      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;dw.com",
+      "id": "BR6twc1Dpt88",
+      "title": "OpenAI files IPO paperwork, eyes stock market debut - DW",
+      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEZUTjhMMVZpTlFodWE5WXVNemRDODEwVjZHMWZDY2g0dC01akpGOTRTXzlKRVljcDNUZHhpeVNCMW8zQ194cE51MXF3c0hpWVZacXp1RUtiaGdGaExSZk5uVFBvOEpPMlRpRk9rSGZJdHpQalAydjZLVE1vbWZmNkhsNk1jMWFQcVZj0gGLAUFVX3lxTE5TdmpVdWx2Sll5RFpsTlVOS2I1aDd4V1pteU1IXzl3elVla184b1dXd0l6Vjg2TUVoMklfbmpGcUlWQ283X0VGYXRLMGpsS1c0UGZnN0lrNmQ2bGN3MzlmVXcxWFVBQWlFWk5DdmZGTlh5VW43Y09DRFQ2dEtvQXZNRHRlYVlYdVpBbWM?oc=5",
       "date": "2026-06-08T23:35:19+00:00",
       "source": "DW Tech",
