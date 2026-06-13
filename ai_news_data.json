@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-13T03:37:56.833055+00:00",
-  "articleCount": 97,
+  "generated": "2026-06-13T08:56:46.447021+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "mit": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 24
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "fHZvGbD8VsoQ",
+      "title": "Dutch far-right party pays damages to court artist after changing image with AI",
+      "summary": "Geert Wilders’ PVV altered sketch of jailed Syrian brothers to make them look more menacingA Dutch court artist has received damages after an MP for the far-right Party for Freedom (PVV) used one of h",
+      "link": "https://www.theguardian.com/world/2026/jun/13/geert-wilders-pvv-dutch-far-right-party-damages-court-artist-change-image-ai",
+      "date": "2026-06-13T04:00:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "YIwu3Kzxck9T",
       "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
@@ -146,6 +158,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "7Cx9yMy4tO6k",
+      "title": "German court holds Google liable for fake AI answers - dw.com",
+      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
+      "date": "2026-06-12T21:39:06+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -269,21 +293,9 @@
       "articleLang": "en"
     },
     {
-      "id": "7Cx9yMy4tO6k",
-      "title": "German court holds Google liable for fake AI answers - dw.com",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
-      "date": "2026-06-12T15:37:17+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "70+1vRU+NtaW",
       "title": "SpaceX’s massive IPO: all the latest news",
-      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.",
+      "summary": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first tri",
       "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
       "date": "2026-06-12T14:35:48+00:00",
       "source": "The Verge",
@@ -386,6 +398,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Blu2AVUFPmzo",
+      "title": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers - South China Morning Post",
+      "summary": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkp1UVYtQ2lybEh6ZjhfZnhkRDJVUnpON2RtYzRzNUF3LXNUU0o1aFZ0Y1BVa2ZSMl91U2JwdjVWSUh4SzhrVUtsYUFtMnJUcHNGRm9KbndRNWV5RDd5Sk5xdGV1aF81cHVpOVhxeWQtbk5pLXlzOXlCZXE1d0YtenRjUmlxSmVlLU9oX09iRjN5a3Y4MDJyQUpWNDZETGEzWHRnWEhPVVFTeG9lSVFLNUUxemVjN0HSAbcBQVVfeXFMTjJSUW5DLUdwSmZJVzRFTzBNbUkxMGUwVGpxYWRPRm9meWVQZldIWWotLVpUZlFFWFFJMTh2UE1iNzZ1VXc3b2ktbDRsLXBDSmdLbWpucHc2bkZlX0VTRjc0dlpLZld2THJlcjBUd2RqR1Vla0tFYXZCNk05c0lQTWl2Z0R4OWxtci0wRXRnbGtEemZZZ1d1eUd2OG5LQ0ZtZ3gxSUVrSHJBdmNuVDJielJPT1FIbkRJ?oc=5",
+      "date": "2026-06-12T08:59:29+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -506,6 +530,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "/J3eeQ6ngqqm",
+      "title": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports - Reuters",
+      "summary": "Anthropic pursues data center leases, seeks financial backing from Google, The Information reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWnY0TUhBUFZKdU9tZmRDQ1dKVWkxOU5FYzJ4aWhfc1dIbmZyZDByM01ULUNoeVNOakxfUjNLUGJ4MklSYWxRbTU0dTQ5MzM5UDNNUHdhWDJEd1FyaWJHSmwwTjVXMk1MY1BsYVBxTWJMSk9ST01zWk02ZHBoLWZBaU92MUJtUU5uOXRyTjBJVC1qdWdMQ0xrTzhISUMwTm8tVDhiTlp6NzZKaEc0V1ZtcjRod3JyZTJOc19LQlluSXd2Zw?oc=5",
+      "date": "2026-06-11T17:52:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,6 +797,18 @@
       "articleLang": "en"
     },
     {
+      "id": "C5PwWryKMgJm",
+      "title": "New Chinese police tech uses AI to scan suspects’ health and mental states - South China Morning Post",
+      "summary": "New Chinese police tech uses AI to scan suspects’ health and mental states&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdkZLLVBSOUUwa0F0cW1zV2ZpQnBsTGZTclhzTGd0RGR3RWFULXVwdTlMR0pMa25BeTF4aDR1cXpUVkhOSzV0d1B3U1h4Q2plUmpJQzRyZGJPZGtGbVRVZkJtTXEzVmNIU3JETUtibDZrQ3YyQWNQdVZlYWhYN1IwR1dNQlpPY0ZIemVNMUpoN3ZRbzFnM0JJYTNlMXUtRWVZTGZsSURqWUNGckFScnBOSlhMblBOeFVHakNJME1VdmZwbm5LVmpMN9IByAFBVV95cUxPejZtb2c1ZTlIOVpkQzltY1F6bXRjQmE0ZG9fUDJ3TXUydG9VWVo0NXZuVHhUbFFidTZ4cFpRS1ZQWnNKMmlLNTVJODNWTGM2cnlUcWxVNmdNZF9WRlhtSEVEUl9tenBZQ2I2S3l6MTBmRWRuTzJIZ09BTTQxR1hlSjhfNGt1ZHNmWkNtUGI4TEJyWlg4NXozU2V5bDZmYTBiSmxDR1Q3cHYzNE5BV3FPeGJjaEtYYTFqZUw1MGxBV1dqNTduRHZiSw?oc=5",
+      "date": "2026-06-11T01:00:19+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "0uCjRXuz7LbO",
       "title": "How the AI trade is stirring dotcom-era jitters across global markets - South China Morning Post",
       "summary": "How the AI trade is stirring dotcom-era jitters across global markets&nbsp;&nbsp;South China Morning Post",
@@ -857,14 +905,26 @@
       "articleLang": "en"
     },
     {
-      "id": "l88oH5wInWS8",
-      "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-      "summary": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary — yet.",
-      "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "date": "2026-06-10T17:07:35+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
+      "id": "93rSBywRryTl",
+      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
+      "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "date": "2026-06-10T17:38:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1va7Z/VIgwWm",
+      "title": "Google won’t just admit it’s feeding YouTube creators to its music AI",
+      "summary": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "date": "2026-06-10T17:20:36+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1037,18 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "t5loGmhAujuI",
-      "title": "AI saves clinicians time but most lack training, survey finds - Reuters",
-      "summary": "AI saves clinicians time but most lack training, survey finds&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdmpVWndBTzFOc0k1cHk0TUV2NDc3emJ6aHdiQWhKdkJVaEFsY2ZHc3ZlX3RScFliNF9wTlN0eWZSVnR6UGlLdkIxTDV4XzdxcjNuZmRSUGZvQlBJS0hJMng1UmxjTENqQmNCUzdEbnhza240dU4xcGVhOTZSMG96azU1R0VMdDI2bm1jbm41bmZfUE9GMC1QenE5Z2VaREFyQmdYWkNieVVuN1ZZVDJIbnUtRjBib2RtSlgwVGpNRHFEUFVheElF?oc=5",
-      "date": "2026-06-09T15:03:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "G6tl8pV8otK3",
       "title": "Driven by AI demand, China on track to pass US as top nuclear energy producer - South China Morning Post",
       "summary": "Driven by AI demand, China on track to pass US as top nuclear energy producer&nbsp;&nbsp;South China Morning Post",
@@ -1150,18 +1198,6 @@
       "summary": "Applied Digital signs $5.2 billion AI data center lease with U.S. hyperscaler&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOazJZU3JwMjdXNnVsR0ZHN0VlcGFwV09jT1lMYmgtNFdNXzVqUmtFYlBWRzNZVEIyM3Jnd2tLV3pwanNfNGttaFRhYkJVVHFNcWhhZHRlMWZTOG8yZDdYNk0yRklvVi1xc0RsR1A1OTlYR1k4dklOdkxHUmpiNEV4UFpVM21RalJ4MTZZTl9ET0hRTWNBWWthUlJYajlGc01zT2NHOHZ1RkhrRmVkbEhDdkxCVVBTNmZJOURXUA?oc=5",
       "date": "2026-06-08T20:57:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "s4N3oIxaBrvU",
-      "title": "Cerebras shares climb as Wall Street brokerages back AI chip strategy - Reuters",
-      "summary": "Cerebras shares climb as Wall Street brokerages back AI chip strategy&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHJ0VzJmTVJweXVKSTVfUUtaSzV5TllPSUExMTFRNE1EQTQxVlBIYlpqSlFLVS1DWEdTZ1QzLXFrR01uNVpuRm5QYkZYbTBOT24yUWs2UzFNZGhibjVjbkNmbEVTV0lzUEFMZUNUMXcxU2w3U3pjbkhaYUx1WDZfNnZzcFJxeVRoUmtuTWdPZ3JhbDlhOS1fQWVBMTlNME85Vm1pU01LYkRXb1NHaXZYYg?oc=5",
-      "date": "2026-06-08T14:24:14+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
