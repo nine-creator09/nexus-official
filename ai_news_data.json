@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-16T16:49:58.031251+00:00",
-  "articleCount": 106,
+  "generated": "2026-06-16T20:49:05.644877+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "ars": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -48,7 +48,7 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,104 @@
   },
   "articles": [
     {
-      "id": "9o9HQNiHY7ii",
-      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "id": "ZlZ/Cmif8UQ7",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review betwe",
+      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "date": "2026-06-16T20:35:02+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FM2Jj2F8ypRo",
+      "title": "生成AI×自動運転で注目のTesla・Waymo・NVIDIA　各社が目指す「フィジカルAI」は何が違うのか",
+      "summary": "日本政府が戦略的強化分野に掲げる「フィジカルAI」――その社会実装の最前線の一つが自動運転システムだ。熾烈な開発競争が繰り広げられている中、生成AIの進化は各社の競争にどのような変化をもたらしているのか。Tesla、Waymo、NVIDIAの最新動向を整理する。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news007.html",
+      "date": "2026-06-16T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "mYrlLxoe4iwN",
+      "title": "Tech Life",
+      "summary": "The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-16T19:30:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "8gvATn1oTJ/2",
+      "title": "SpaceX overtakes Amazon as world’s fifth biggest company",
+      "summary": "Value of Elon Musk’s firm at one point rose to $2.97tn just days after its IPO following purchase of AI coding startup CursorElon Musk’s SpaceX has overtaken Amazon as the world’s fifth-most valuable",
+      "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
+      "date": "2026-06-16T18:37:43+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "5bLUBY86Xp7Z",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "date": "2026-06-16T18:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8HkzdU6dStRs",
+      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
+      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
+      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
+      "date": "2026-06-16T17:50:52+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Lb5Iuzew+1YX",
+      "title": "France to ditch Palantir’s AI data tools in favour of domestic provider",
+      "summary": "Move to ChapsVision is to avoid ‘strategic dependencies’, says PM amid concern about reliance on US-controlled toolsFrance’s domestic intelligence service is to ditch AI data tools from the US tech co",
+      "link": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision",
+      "date": "2026-06-16T17:08:21+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "q2d7bNP/AIuS",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped Ai",
+      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "date": "2026-06-16T17:04:05+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mR8cDdxArxC4",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
       "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "date": "2026-06-16T16:49:44+00:00",
@@ -89,18 +185,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IHi6qkc7pdTZ",
-      "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
-      "summary": "SoftBank launches cybersecurity product based on OpenAI models&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5",
-      "date": "2026-06-16T15:30:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "KwxTgAfQKAd7",
       "title": "EU Commission keeps contact with Anthropic over decision to disable models in EU - Reuters",
       "summary": "EU Commission keeps contact with Anthropic over decision to disable models in EU&nbsp;&nbsp;Reuters",
@@ -110,18 +194,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "xl+Flhz2dIxV",
-      "title": "SpaceX to buy AI coding firm Anysphere for $60bn and passes Amazon valuation",
-      "summary": "Elon Musk firm adds startup behind Cursor app to its portfolio with xAI and reaches $2.8tn market capitalisationElon Musk’s SpaceX is buying the startup behind the AI-powered coding app Cursor for $60",
-      "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
-      "date": "2026-06-16T15:12:44+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -245,6 +317,18 @@
       "articleLang": "en"
     },
     {
+      "id": "V/1IZ0sTyn76",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "summary": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million.",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "date": "2026-06-16T10:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "PCFfe444jKij",
       "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
       "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
@@ -283,7 +367,7 @@
     {
       "id": "gRk45p1SmcwO",
       "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
+      "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
       "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
       "date": "2026-06-16T06:59:00+00:00",
       "source": "TechCrunch",
@@ -653,9 +737,9 @@
       "articleLang": "en"
     },
     {
-      "id": "9lG3BNP4DhTX",
-      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - dw.com",
-      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;dw.com",
+      "id": "3XJktjWZZUWV",
+      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW",
+      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWg3NzBCNkJYeGQzNWNGQ2lmNG1YQjQzRE5qQUhlT1hidjJMNkp3dHhmNEs5cjBqZjlfS0tBT0o4LUxnSExLaHdwR29sZEUtNmhfV0pjQzhLRFBJXzFsYVp4cHZOX1BrWWRLTFUtX0drOE82cVF1LTVJLTAxT2ZaRUd2QVBKOGVIT3AycVZPa04xZTYwV01FWnF3?oc=5",
       "date": "2026-06-15T06:35:59+00:00",
       "source": "DW Tech",
@@ -785,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "z6j/hteU/5hw",
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "date": "2026-06-14T16:38:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "yGfHLDYIYOku",
       "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
       "summary": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says&nbsp;&nbsp;Reuters",
@@ -869,30 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "prPzvfiSz8fM",
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "date": "2026-06-14T03:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PINtDlTBIkan",
-      "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-      "summary": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "date": "2026-06-13T21:39:26+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "hafxuTzP5PN8",
       "title": "Anthropic disables access to top-tier AI models after US ban on foreign use - France 24",
       "summary": "Anthropic disables access to top-tier AI models after US ban on foreign use&nbsp;&nbsp;France 24",
@@ -902,18 +950,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "Mw292kOogxLc",
-      "title": "My yard is dying, so I made an app for that",
-      "summary": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "date": "2026-06-13T13:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -965,9 +1001,9 @@
       "articleLang": "en"
     },
     {
-      "id": "rjBNetTlQcQd",
-      "title": "Anthropic cuts top-tier AI access after US foreigner ban - dw.com",
-      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;dw.com",
+      "id": "DSSPrGy/bVur",
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW",
+      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVnN0FCeWUwZThwV2pob3RhOWZscXhGNUdGRzRDT21EQkhiNDNvZkVCc01rNWRsM0FyX09PcnRtN3ZLbjU1WVNObUs5RUs3bmw4dXQ5Ukw0eXB0cHVndGQxRU9XT2RiS1puWF9kbUpzNnBZRElST2ZZUWZHN0JidVhGVldlWVVNZ254OVJpZ1ZiMWPSAZMBQVVfeXFMTU5fdTdMSWEwWml1TGRXTzdxOXdDVGpsTnV2VE9fdXNpM3VEVnI4MjlqWDNobmphcTFRQUkxdlFxOVpsLUpJTDZQbkotVjhnUjNnZnRZMFplWHVhN0tQT3FUc0Fmem1oZm4zWUY3ZG5kUXVpQm0yUW5tLWtvU1huRmp2eTZkQzkwdjZVcDFKS2hIS3A4?oc=5",
       "date": "2026-06-13T09:46:05+00:00",
       "source": "DW Tech",
@@ -1049,18 +1085,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "uokJyBhIfLSr",
-      "title": "Meta Employees Absolutely Hate Mark Zuckerberg’s Plan for a Companywide AI Hackathon",
-      "summary": "“I’m not sure that this company supports a hackathon culture anymore,” one employee posted in a forum open to the entire staff.",
-      "link": "https://www.wired.com/story/meta-employees-absolutely-hate-mark-zuckerbergs-hackathon-idea/",
-      "date": "2026-06-12T23:45:26+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "IXFklPuhOnJI",
       "title": "SpaceX to list on US stock market at historic $1.77tn valuation",
       "summary": "Initial public offering for aerospace and AI company made Musk the world’s first trillionaire as share prices jumpedShare your views on SpaceX’s stock market debutSpaceX made the biggest stock market",
@@ -1121,9 +1145,9 @@
       "articleLang": "en"
     },
     {
-      "id": "7Cx9yMy4tO6k",
-      "title": "German court holds Google liable for fake AI answers - dw.com",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;dw.com",
+      "id": "VPHrjzfQxxCv",
+      "title": "German court holds Google liable for fake AI answers - DW",
+      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
       "date": "2026-06-12T14:53:22+00:00",
       "source": "DW Tech",
@@ -1301,6 +1325,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Slrw7cUUJmvw",
+      "title": "First cheating cases using AI smart glasses detected in S. Korea - The Korea Herald",
+      "summary": "First cheating cases using AI smart glasses detected in S. Korea&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WSXI1eTFFNlR3OHQ5LTZHcmE3QUNHdmRKZkVoR0l2YUptNHJ1MzhIdE5BczJDek1CUzltWkNSaEpYV3lTck1UNjJxTWoydUVSQXdrZS1FVQ?oc=5",
+      "date": "2026-06-10T04:58:27+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "1C2cvwFUSjXz",
       "title": "‘I kept crying’: Hong Kong grads struggle to find jobs as AI takes over - South China Morning Post",
       "summary": "‘I kept crying’: Hong Kong grads struggle to find jobs as AI takes over&nbsp;&nbsp;South China Morning Post",
@@ -1310,30 +1346,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "jcsqArUQ1hVp",
-      "title": "Version of AI tool 'too powerful for public' released to public",
-      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
-      "link": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-09T18:35:59+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "VvIyxCkLkQkl",
-      "title": "Judge rules both sides in lawsuit misused AI, disqualifies lawyers - Reuters",
-      "summary": "Judge rules both sides in lawsuit misused AI, disqualifies lawyers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTHl4ZXhjM29Zb3gwaDNhb0lFcEdsb1dqV182bEpwX2lWbUdCSWc2VmZOZy16bkd6VjRBeFQ0bDF4eUQwZ1dkTDZxTW1WbXJCLWRORXV5c0JlNDE1UGlqWWxIeWc4WGU1RFhTU2VkS0hpa0d3OXZ1bGdQMXp0NHVPMWdMZDhEdFRVblZ6aVJ6anZWdFBnNG9pNzBRQ0NuNE1iX3JRaElsYTNNZmVvMkVsUjNQSXRXZw?oc=5",
-      "date": "2026-06-09T17:41:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
