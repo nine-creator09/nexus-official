@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-15T20:54:07.876224+00:00",
+  "generated": "2026-06-16T04:01:08.239209+00:00",
   "articleCount": 105,
   "sourceResults": {
     "verge": {
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -24,15 +24,15 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "guardian": {
       "status": "ok",
@@ -44,19 +44,19 @@
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,95 @@
   },
   "articles": [
     {
+      "id": "uEiAlzX5i/IC",
+      "title": "Inside the fight over Claude Mythos 5",
+      "summary": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. A",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "date": "2026-06-16T03:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SDtuguvHefqc",
+      "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
+      "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
+      "link": "https://www.wired.com/story/anthropic-is-still-at-odds-with-the-white-house-over-claude-fable-5/",
+      "date": "2026-06-16T00:53:46+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bOeIQ56q4ECZ",
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+      "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "date": "2026-06-15T23:51:44+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "92tE2pHbDBTT",
+      "title": "生成AI×3D CADでどこまでできるか試してみた",
+      "summary": "生成AIの活用は、文章や画像、動画だけでなく、3D CADの分野にも広がり始めています。自然言語で指示するだけで、3Dモデルのたたき台を作成できる環境も登場しつつあります。今回はAutodesk Fusionの「Autodesk Assistant」を使い、ペットボトルの3Dモデル作成を試しながら、生成AI×3D CADの可能性と課題を紹介します。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/16/news023.html",
+      "date": "2026-06-15T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "C9d93Bjd33HD",
+      "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "date": "2026-06-15T21:50:21+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7wEoKL0hkHC5",
+      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
+      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
+      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
+      "date": "2026-06-15T21:33:46+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "phAlskydbnSH",
+      "title": "Facebook’s new AI Mode search gets its info from public posts",
+      "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" an",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "date": "2026-06-15T21:15:08+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "C7qfedMr3L+U",
       "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
       "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjI5TFljaGFyWUJMSjZRNHg3WWFkcm02R2dtbzRhYXBtdmw4Rmptc1JraTgwdWc2V1F5b21wQmlGaExzdlh6eExTNkVSUHkzQWx6Z3BUT1hNTnluSEd0Z2JHLVY5cXViM3lZN3B1UldWOEFJRFRHNWVLQ29oc2xxN2VSSmsxT1h1dUZMX3FiTkFpVUpKR2luUGdjclhid3JOREZFbTB3YXVjUDN6?oc=5",
-      "date": "2026-06-15T19:31:40+00:00",
+      "date": "2026-06-15T20:28:10+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -163,7 +247,7 @@
     {
       "id": "f5kSRGzhl0Hy",
       "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos, arguing that the order is going to limit the abil",
+      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
       "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "date": "2026-06-15T15:29:51+00:00",
       "source": "TechCrunch",
@@ -173,8 +257,8 @@
       "articleLang": "en"
     },
     {
-      "id": "2IStS8OxSRkm",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "id": "Zvp0yq4Phll8",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
       "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "date": "2026-06-15T14:34:45+00:00",
@@ -233,6 +317,18 @@
       "articleLang": "en"
     },
     {
+      "id": "b82dbbyO6S1e",
+      "title": "AT&S invests up to €2 billion in Malaysia plan to capitalise on AI boom - Reuters",
+      "summary": "AT&amp;S invests up to €2 billion in Malaysia plan to capitalise on AI boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYklOX3B1OTAwQmQ0SDdXUXBXYXU0ZW1jdTVCRXlXN3B2V1RpbVBVUnhMLWZyUDVxM0kySTdHaWpBS0M2elcyNnUtVkJnbEpzVGRTLWJGWFprTmZNZnZFTUl0QmRNYmFpVmVzYlNuNUJ5WXg0WG05c0k5ZXJuWU5CVDB2S1hsSXhKaUVnZW9OS3BRN29oaGFDRkhtSjg1dzNVZDc3UkY4MHRsS2szZUVEV01n?oc=5",
+      "date": "2026-06-15T10:34:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "iBFcYq0flU3u",
       "title": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
       "summary": "Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’Get our breaking news email, free app or daily news podcastLi",
@@ -254,30 +350,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "NNzTi5QhSCcK",
-      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW.com",
-      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWg3NzBCNkJYeGQzNWNGQ2lmNG1YQjQzRE5qQUhlT1hidjJMNkp3dHhmNEs5cjBqZjlfS0tBT0o4LUxnSExLaHdwR29sZEUtNmhfV0pjQzhLRFBJXzFsYVp4cHZOX1BrWWRLTFUtX0drOE82cVF1LTVJLTAxT2ZaRUd2QVBKOGVIT3AycVZPa04xZTYwV01FWnF3?oc=5",
-      "date": "2026-06-15T06:35:59+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "rni7XsdkULtR",
-      "title": "When safety speaks 20 languages: Day in the life of foreign workers at building site with AI as their assistant - The Korea Herald",
-      "summary": "When safety speaks 20 languages: Day in the life of foreign workers at building site with AI as their assistant&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93dnhndXpvTlZRRTlhVVluTVZZLVZmSktNSi1EQnZYZXMwUE5RRUZUNS1xV3k3OHZtclJNZ0JESVktYUtQVWhJc3lNU1RocDUzdmRndVFFTQ?oc=5",
-      "date": "2026-06-15T06:27:41+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
@@ -353,6 +425,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "tBGX2w3Nppyh",
+      "title": "Breakingviews - Anthropic becomes a cautionary sovereign-AI fable - Reuters",
+      "summary": "Breakingviews - Anthropic becomes a cautionary sovereign-AI fable&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc0R1TGZXYVhEUVNtRzZ2SVdweGtjY0d3T2haX2Z1bnppeDJaaTdZT1JkX2U5bGZxM2ZoY3hVV3FZNlZieS1fQkJ5YW9pRXpaQnpZcDhZMWFuXzNFR1dmRHFrSzU1bExwLUx5Z040ZWY1MXc5ZWNPWlp2dF9pMjlTT1dmaG9GeHFJRHBlOGxEeDE3RjI3SGUzZWJSQ0FVNWQxaTczVlZfN3EzODNH?oc=5",
+      "date": "2026-06-15T01:51:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "d5MZxO/lDwmz",
       "title": "ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究",
       "summary": "米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索エンジンではどちらが学習効果が高いかを検証した研究報告だ。",
@@ -375,6 +459,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "gntIPPzvrOCH",
+      "title": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​ - Reuters",
+      "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
+      "date": "2026-06-14T21:47:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "1quKQGLlFNqn",
@@ -410,6 +506,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "NNzTi5QhSCcK",
+      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW.com",
+      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWg3NzBCNkJYeGQzNWNGQ2lmNG1YQjQzRE5qQUhlT1hidjJMNkp3dHhmNEs5cjBqZjlfS0tBT0o4LUxnSExLaHdwR29sZEUtNmhfV0pjQzhLRFBJXzFsYVp4cHZOX1BrWWRLTFUtX0drOE82cVF1LTVJLTAxT2ZaRUd2QVBKOGVIT3AycVZPa04xZTYwV01FWnF3?oc=5",
+      "date": "2026-06-14T11:20:18+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -521,18 +629,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gntIPPzvrOCH",
-      "title": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​ - Reuters",
-      "summary": "Amazon voiced concerns about Anthropic AI models before US crackdown, source says​&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYTBINmZMTlZvc1RPNEkyWjk0VkxJY29QRHRtSUpjYTlZNWMtYWJlZkVpMUwxejFzSjVxdU02MHJVS1BKYUtCNkRObWYxTkdsMWJmcF9Bb3VQTnBDZktBenJ2SjFnR2VQUGZhY3RWWXBvWGwyZFNOV250VG5QVm5sTE1fWU4tQXc3enltTUZUWXZuM1pEMTFvSmlNdlEyamFwTFBrdXRkeGFWUjU2eVp4b0ozT3p6bG5JUHNWNV9Hcm1nSjcxbHYyd1NPWHVGNFB0azJmNTFLRWM?oc=5",
-      "date": "2026-06-13T18:13:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "oBaly2S8FuAg",
       "title": "OpenAI faces investigation from state attorneys general",
       "summary": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data.",
@@ -605,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "E6BpTTQ43hlz",
-      "title": "Apple’s new AI photo editing tools mostly work, for better and worse",
-      "summary": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are",
-      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "date": "2026-06-13T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ynVlujUyDNIp",
       "title": "UK sets out AI infrastructure push at London Tech Week – how does it stack up?",
       "summary": "Government announces plans to invest billions, but questions linger over how its proposals on chips, social media and more will workOwnership of the commanding heights of the AI economy is a political",
@@ -638,18 +722,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "VBN3hsW/wFL2",
-      "title": "The future of Hollywood isn’t feeding prompts into vanilla gen AI models",
-      "summary": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "date": "2026-06-13T11:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -881,15 +953,15 @@
       "articleLang": "en"
     },
     {
-      "id": "7ZuKiIzDBZK3",
-      "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-      "summary": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;— Meta (or Microsoft, dep",
-      "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "date": "2026-06-12T16:23:25+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "9tgNptUKuy7m",
+      "title": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says - South China Morning Post",
+      "summary": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWZjZGRxaEljQlVVWmJnTm5FTlE2UDhtZktDU2dzOV9CRDFtWEpsQk9ZbTZ5b2xBRk5XeldnUjFGQWVhdXJKRkFIMFdQeHQ1YW9zMmYxd0phTzNmUi1oZVh6RlJRaFp0SF9jMkY1S0RUbEhmdXB0NnVWbjJYSHB5Nng2WmxuMmpDckpmZk13d054dVBFclpQWjVYU0lIRFFBcXF1UGRUTXdONDdaSHBOYWE2UzVyLWhXUjV4TXhsYUjSAcABQVVfeXFMUHFKOUVBZDZ0UjE3N1JpMjhFZ2pnLUk0eTZLN2hSRlpwSldKVGt2V1k0YnJ5WWtuRFJXbG00X0Y3aG1ZUXdVMWhlZ3ZBaVpyZnJfOVBYSEllZHhmbmNQNHlORkxHQnFpLWNIN0FTU2laZGFjSEZDaFEzNlRPa0pNRTZOSWd4TXVjT3RGMkZEQmk3TmdpR3N6SnVVZFFkWVJseUVNbG5hU0M2QzdNb180bXN4dnhmNmJTVzZDNDFQN3dV?oc=5",
+      "date": "2026-06-12T15:37:38+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1013,30 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cdUADIr8fa4Z",
-      "title": "Apple’s Camera Chief Thinks AI Can Give You Superpowers",
-      "summary": "The generative features in iOS 27’s new Photos app will add fake pixels to some of your shots, but Apple’s Jon McCormack says the company isn’t using AI “for the sake of AI.”",
-      "link": "https://www.wired.com/story/apple-camera-chief-thinks-ai-can-give-you-superpowers/",
-      "date": "2026-06-12T01:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "xoijqSBbOq8G",
-      "title": "Why You Might Already Own SpaceX Shares, Siri’s AI Makeover, and Knicks Owner’s Surveillance Machine",
-      "summary": "Today on Uncanny Valley, we take an early look at the SpaceX IPO and why you might find yourself among the investors without even realizing it.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-why-you-might-already-own-spacex-shares-siri-ai-makeover-knicks-owner-surveillance-machine/",
-      "date": "2026-06-11T23:37:49+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "h+nG9e3niKXJ",
       "title": "Could the AI ‘self-evolution’ trend add fuel to the China-US tech war? - South China Morning Post",
       "summary": "Could the AI ‘self-evolution’ trend add fuel to the China-US tech war?&nbsp;&nbsp;South China Morning Post",
@@ -1061,15 +1109,15 @@
       "articleLang": "en"
     },
     {
-      "id": "ldxMcOFxg+Sq",
-      "title": "Meet the OpenAI Engineer Leading ChatGPT’s Biggest Transformation Yet",
-      "summary": "Thibault Sottiaux helped make AI coding one of OpenAI’s fastest-growing businesses. Now he’s overseeing a sweeping overhaul of ChatGPT.",
-      "link": "https://www.wired.com/story/model-behavior-interview-with-openai-codex-lead-tibo-sottiaux/",
-      "date": "2026-06-11T21:21:04+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
+      "id": "ETSDAxchSNCT",
+      "title": "Deezer launches free AI music detector for users of major streaming platforms - Reuters",
+      "summary": "Deezer launches free AI music detector for users of major streaming platforms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRUWEJDRElfMzZlSzhNUnlEWUc3RUVleTVXcXJHbmhOVGFPSFhYczNfUUFJaUxkWjJVVktJam50bnR6VlpGeXlyYmtzYnRlaG1UUFVGMWFJUkdsQlU4TC1FZTF1SnBoRGhMT09oNkVIck44WnYybDNSMmVwWjBOYzNzOHIzdXYzU0NRaWd0d254RE83d2dGdkxnY196OENJU294YzJoVVVaN2hKZ3ZCQVR6S28zd2Etd0R0YkhlZzk?oc=5",
+      "date": "2026-06-11T15:42:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1205,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "O9Hx4GzQfBXC",
-      "title": "AI is boosting accuracy for clinicians, Philips North America CEO says - Reuters",
-      "summary": "AI is boosting accuracy for clinicians, Philips North America CEO says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMFljZ2sybkZLM1BDN0VKYUxPNjR5cUt4TDZsYmdkU2N3RlZxNFgzWUluamRBYWc5UEVHVEFsTUhIM1dudjRfNXl4M3RGcnAwQ2t4NmhmOVJmcEp1UEJzS1I5YnZaVG9tYkFsUU1oMHpwdUJycGVmSkszRlIzdDE1NXkwbE5mbzFUNDhGMEtzbzAyeWJxUTJFUlp3TWJhZmlSU1BMdjVQR2FraThmM082cnd3OHNtbmNHSkthalR5RjFVdkpEcjJEallwQjRicHUwYU9J?oc=5",
-      "date": "2026-06-09T19:02:10+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "jcsqArUQ1hVp",
       "title": "Version of AI tool 'too powerful for public' released to public",
       "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
@@ -1282,42 +1318,6 @@
       "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
       "link": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-09T08:02:43+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mpVkh69xeEEw",
-      "title": "Will AI become a public utility? - Reuters",
-      "summary": "Will AI become a public utility?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLTNFVDN6anJ3V2NJQ0Ytcm5tSVVKbmttYnQ2LTc3cjJ6ZEJwX0YtTUw5Y3h5MGNMcnFrVGF3YktlLU1kdFFxNDBOaFNreGJMU202VUxhRElWU0FMVHZPMGl0R2hHMkE2Zll6ekVidDZQbjVyNGh3QXdHOC13R3pKMTlvUzEyN1BVeTVlUWN1NFhzMkprYUFoNnZDTlp6a2ctaUtwT2t3?oc=5",
-      "date": "2026-06-09T06:22:48+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "U50roiFXW1JG",
-      "title": "OpenAI files IPO paperwork, eyes stock market debut - DW.com",
-      "summary": "OpenAI files IPO paperwork, eyes stock market debut&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNEZUTjhMMVZpTlFodWE5WXVNemRDODEwVjZHMWZDY2g0dC01akpGOTRTXzlKRVljcDNUZHhpeVNCMW8zQ194cE51MXF3c0hpWVZacXp1RUtiaGdGaExSZk5uVFBvOEpPMlRpRk9rSGZJdHpQalAydjZLVE1vbWZmNkhsNk1jMWFQcVZj0gGLAUFVX3lxTE5TdmpVdWx2Sll5RFpsTlVOS2I1aDd4V1pteU1IXzl3elVla184b1dXd0l6Vjg2TUVoMklfbmpGcUlWQ283X0VGYXRLMGpsS1c0UGZnN0lrNmQ2bGN3MzlmVXcxWFVBQWlFWk5DdmZGTlh5VW43Y09DRFQ2dEtvQXZNRHRlYVlYdVpBbWM?oc=5",
-      "date": "2026-06-08T23:35:19+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "N78AdbS8I9ju",
-      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-      "summary": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps.",
-      "link": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-08T21:08:49+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
