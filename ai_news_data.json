@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-17T10:53:56.989205+00:00",
-  "articleCount": 102,
+  "generated": "2026-06-17T15:26:29.761265+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "france24": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 21
+      "count": 22
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "IlZ+PkkiWuJE",
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
+      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "date": "2026-06-17T15:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "s3Urcg2SYKSe",
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
+      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "date": "2026-06-17T14:15:22+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BzOS7r6SJrcs",
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "date": "2026-06-17T13:30:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "aWAL4XcGMlLr",
+      "title": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
+      "summary": "An AI tool is no replacement for a doctor, and regulation is essential. But together, physicians and AI could prove beneficialA calf cramp should not be a brush with death. Mine almost was.For five da",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/17/blood-clot-dvt-ai-diagnosis",
+      "date": "2026-06-17T13:00:31+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Z5iyJOyFP3+n",
+      "title": "The Gemini-Powered Google Home Speaker Is Finally Here",
+      "summary": "Arriving six years after Google’s last smart speaker, the new HomePod-style device was redesigned to play host to Gemini’s chatbot.",
+      "link": "https://www.wired.com/story/the-gemini-powered-google-home-speaker-is-finally-here/",
+      "date": "2026-06-17T13:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "V/NPD7oj18cG",
+      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
+      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "date": "2026-06-17T12:38:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qL28N3nubWlX",
+      "title": "AI will lead to labour shortages, Bezos says in optimistic talk - Reuters",
+      "summary": "AI will lead to labour shortages, Bezos says in optimistic talk&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlkwRUFpc0wyN2lIMllKdm9rWkw3cDE2WHpCZVFtZkN6bnBRNmdyTTQ3SVpKR3VPVEozSXlQc3RWOE9xejNYRUU5QlMwVGtQUVlVZmxPMXBOT3hFQ3V3ekFJYzZiN2hLNWxGVmxTU1BqQlRaVmJtRENXS01hTHl5WGNFdW81MnFtV09YYjFxeDJqUXlIRkhELWRYMWZlcFZPUnV3bDhKLTBrRENaa09COHg1QQ?oc=5",
+      "date": "2026-06-17T11:28:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "WPUKkuxfGpwP",
+      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
+      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
+      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "date": "2026-06-17T11:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "E61bmZmIu0Dh",
       "title": "The curious case of Elias Thorne – and what he tells us about AI inbreeding | Arwa Mahdawi",
@@ -77,9 +173,9 @@
       "articleLang": "en"
     },
     {
-      "id": "fRMAAWdD/oa4",
-      "title": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate cyber weapons of mass destruction? | Stuart Russell",
-      "summary": "Unrestrained development of unsafe AI systems is leading to intolerable risksStuart Russell is a computer scientist known for his contributions to AI and a new Guardian US columnistThe AI company Anth",
+      "id": "3dy4GG7+TZOS",
+      "title": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate AI? | Stuart Russell",
+      "summary": "Unsafe AI systems are leading to cyber weapons of mass destruction Stuart Russell is a computer scientist known for his contributions to AI and a new Guardian US columnistThe AI company Anthropic has",
       "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
       "date": "2026-06-17T10:00:28+00:00",
       "source": "The Guardian AI",
@@ -98,6 +194,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RDvlIfsDPzxf",
+      "title": "Can Chinese silicon replace Nvidia? Here are 5 AI models trained on local chips - South China Morning Post",
+      "summary": "Can Chinese silicon replace Nvidia? Here are 5 AI models trained on local chips&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTVoTzkxZmhGY1BPTGxXdGZ1LXJPSjBubXNkaDNkNG1LNG44bDh3R1d4ekV2LXUzaW9EcmV2b1RJYkltT3VwRWxzQkhhcXZnOFFZM1ppdS1BOTZRRlAtcGdaVkhCcnhBRzVOVi1yTzNPRkhSQ3hNTnU1Ym5hcVY0bzhsXzNfX1JCTGFRLWNDMWc3NVp5MXkwc1BadGlpQWpLLWZ3VDJ4VTEydFl2cHJtUkdvYk85VzRDaTUyMHRiMjljVHBCN0VfZ9IByAFBVV95cUxQZGpDNm5BTG54ZWRMTmtmXzJjSmVhSGpCeHJ0cXliNmNnQmJ4ZFFKdkdscmFSYm9MQS1qV21RTS1vcE5EaDdTdG9aamlZYUFfakxfNWNOZFJqR0tWal9zR2JRVE5DVHRUSFFJb3lsdTAyU2hySkJxZmJZTVBvOXJfQjlQT1VYOTBlQnc0N3dqR19jcnliRmZIQ1dMVUVYWGlGX0NKaFdFN3B0dEx1dXhfM1VvbDNaaEZlcXY3OE5JRUw0T3FXb05wbw?oc=5",
+      "date": "2026-06-17T06:30:32+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -245,9 +353,9 @@
       "articleLang": "en"
     },
     {
-      "id": "nRJHym+p5J0w",
-      "title": "SpaceX overtakes Amazon as world’s fifth most valuable company",
-      "summary": "Value of Elon Musk’s firm at one point rose to $2.97tn days after its IPO following purchase of AI coding startup CursorElon Musk’s SpaceX has overtaken Amazon as the world’s fifth-most valuable compa",
+      "id": "I5iQtPcjpcAs",
+      "title": "SpaceX overtakes Amazon to become world’s fifth most valuable company",
+      "summary": "Elon Musk’s firm briefly reached $2.97tn valuation days after its IPO following purchase of AI coding startup CursorSpaceX has overtaken Amazon to become the world’s fifth most valuable company days a",
       "link": "https://www.theguardian.com/science/2026/jun/16/spacex-ai-coding-anysphere-cursor-amazon-market-valuation-xai",
       "date": "2026-06-16T18:37:43+00:00",
       "source": "The Guardian AI",
@@ -497,6 +605,18 @@
       "articleLang": "en"
     },
     {
+      "id": "DYaixrPbpaHc",
+      "title": "US saw risk of Anthropic models being diverted to foreign military intelligence - Reuters",
+      "summary": "US saw risk of Anthropic models being diverted to foreign military intelligence&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2lIMTU5TnZBOUVFUTVGeXd6OXJLQ0tCSU5FREdYcVBtMll2SzVVckFpYU5hNEljQU45dmozMTBwM2JtWFJFVTRfbDFYdVJSbTZSbEtMazRLNnZuM194VEhlTmxQRS1IX0lJTlJXaVpFbHhvTkt1Q3pvdW0yNVVXNTlobUNScUhabklSNlRoOGJwN0w1d0FSV1lwVGRmWTRDQ05IZnRPUjlWTF9sRVNwU3JkTU9xN2ZuRnc?oc=5",
+      "date": "2026-06-16T07:02:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "gRk45p1SmcwO",
       "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "summary": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.",
@@ -605,18 +725,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LIJLI+y/EfAy",
-      "title": "Social media becomes the world’s leading news source, driven by youth and AI, study says - France 24",
-      "summary": "Social media becomes the world’s leading news source, driven by youth and AI, study says&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenpJSzVTUVh3UHlGR3FYVDJoNktlbGRwVDBrWjM5cTdzTGZBR3FKaFhXTVF0cnBlSDhHanFyUUprUk9od0RNTm9OMWcxcDhyNTZWVUVJQ2FidUhoOU1BaTZfOGQ2c0ktQk5rZ3A5YUNHNjlGX2pqUDAyZnZKemFCcGdTSWdCU0dkbWZBLW9LTjV1cTRyRjFXeXFyZXVCVEJZZWI0?oc=5",
-      "date": "2026-06-16T02:26:22+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "SDtuguvHefqc",
       "title": "Anthropic Is Still at Odds With the White House Over Claude Fable 5",
       "summary": "Anthropic leaders flew to Washington, DC, to meet with White House officials on Monday. After high-level talks, they’re still split on the risk Claude Fable 5 presents.",
@@ -689,6 +797,18 @@
       "articleLang": "en"
     },
     {
+      "id": "aZFRBj1sQk0Q",
+      "title": "Microsoft sued by shareholders over expenses, cloud business, AI - Reuters",
+      "summary": "Microsoft sued by shareholders over expenses, cloud business, AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUmJQUkh0dTUzZ2dITlpFWVp1ZGp4d0t2T3RYNHZMTVVra042ZVNYTk94R1dKdjM2cU0yWTh5cXNCVlVHTkFXRDFiT3ptRnNPeDUteGR1RDV5eWVoS3M4NFJsNDVpcHlVTVluQWViLUI0a29XR0JOaERIUXZnUTJ2V2VXSWs4MFBzMlFUR2NGNHJRcEFjUWptTU84dEZ2UllET0NWX2hsTDgwRDQ?oc=5",
+      "date": "2026-06-15T20:55:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "q9yzRUFk/+In",
       "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
       "summary": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod",
@@ -713,35 +833,11 @@
       "articleLang": "en"
     },
     {
-      "id": "pyM8aA2x/PwP",
-      "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-      "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "date": "2026-06-15T18:30:58+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "UGGZBnLuTYlf",
       "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
       "summary": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block",
       "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
       "date": "2026-06-15T18:10:27+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KTIewiQp5L5V",
-      "title": "Big Tech’s desperate last push at AI regulation",
-      "summary": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presiden",
-      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "date": "2026-06-15T17:44:10+00:00",
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
@@ -761,30 +857,6 @@
       "articleLang": "en"
     },
     {
-      "id": "3r9TR6aqrTW2",
-      "title": "US factory production flat in May; AI investment supporting manufacturing - Reuters",
-      "summary": "US factory production flat in May; AI investment supporting manufacturing&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZkhZZGR2cEFxRXFLZTd1U2lxenZfYUdyTWNzR1lnUU9jN2dCWXF1akM4SmU4aEFYNmJRQ0dXT3dSZ1pVblRLWkZXMEwzaE1VMkI5Yi1SZlFsMzQtMFNlZHJIWWZzSDZ1ZHg0eGRHd19hWS1GS01vbzhqWXFYOEFqTHpHdndGY2IxdU9KQzBKN3pMR1VjNXVtaVhRLV8ySFRRdUxvV2dmQTY?oc=5",
-      "date": "2026-06-15T16:22:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "f5kSRGzhl0Hy",
-      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-      "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the abil",
-      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-      "date": "2026-06-15T15:29:51+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "gdSJJbgZx5WL",
       "title": "Strategic change management in the age of generative AI - Reuters",
       "summary": "Strategic change management in the age of generative AI&nbsp;&nbsp;Reuters",
@@ -794,54 +866,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Zvp0yq4Phll8",
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "summary": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks.",
-      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "date": "2026-06-15T14:34:45+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "unl68Gzec5N9",
-      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
-      "summary": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio’s drones in the Bay",
-      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "date": "2026-06-15T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "UJqDFm5bCVDD",
-      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-      "summary": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
-      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "date": "2026-06-15T13:46:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HiYdPucS+ADn",
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "summary": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
-      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "date": "2026-06-15T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -857,6 +881,18 @@
       "articleLang": "en"
     },
     {
+      "id": "varYkYt3qf5v",
+      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
+      "date": "2026-06-15T10:05:33+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "iBFcYq0flU3u",
       "title": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
       "summary": "Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’Get our breaking news email, free app or daily news podcastLi",
@@ -866,18 +902,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "varYkYt3qf5v",
-      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
-      "date": "2026-06-15T07:00:00+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1109,18 +1133,6 @@
       "articleLang": "en"
     },
     {
-      "id": "HE52I83t9JeT",
-      "title": "Anthropic Says It’s Taking Claude Fable 5 Offline to Comply With US Government Order",
-      "summary": "“The government believes it has become aware of a method of bypassing, or ‘jailbreaking’ Fable 5,” the company said in a blog post.",
-      "link": "https://www.wired.com/story/anthropic-says-us-government-ordered-it-to-shut-down-mythos-models/",
-      "date": "2026-06-13T02:26:10+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "5dsvxJIk9L2E",
       "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
       "summary": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies&nbsp;&nbsp;Reuters",
@@ -1160,7 +1172,7 @@
       "id": "W8ZjBw3bRBDu",
       "title": "US-China talks need to be ‘institutionalised’ to ease tensions in AI era: Haass - South China Morning Post",
       "summary": "US-China talks need to be ‘institutionalised’ to ease tensions in AI era: Haass&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFhXRm9SRjZDbjJoNjJfSmwtbmI3MVNuYjFyTHdSTHY3WlhXODFRT1hxME1ZRG03aW9KOW9ra2d1Q3JLUFdhLUI0YXV2NEt5RXJBRWRKMjRTWjg3YmJvX2VTSlI0cDhEUG9nOTd3eUtZci1wUjczWlBTVE0yUEhuZV92TkxfTHljU0x6QVJEMjRvNHlHTmk5ZVJkLWFYa0FHM1NrZmZneWUzQWlYTjRfeTBjUjgzTXFpYk1od0hpVlQyTmlNMlHSAcYBQVVfeXFMTXNORGdkZ1lqTDItUDRYN0xjQ05nb3h4TVJlV3hPSFpGdUc5eFJCTjJCMExHSjFMTHdnMmtvSXhFUkkxbUktVVdjNTAyS0NNdTNiNFQ1VnNNR08zVHBCUXBZTzg1SzREUVFNUUUzTU9ERWdsbWVQUDAtOUVBSWJCMHl1U2FUTDJVR1EyV1hIS1JkNHktQVRnRThiUjN2TThNVXAzekxmZHhMVzdqLVdFcDhMOFBTOHNUcGlFNHNEbFhNOHBTdFJR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORFhXRm9SRjZDbjJoNjJfSmwtbmI3MVNuYjFyTHdSTHY3WlhXODFRT1hxME1ZRG03aW9KOW9ra2d1Q3JLUFdhLUI0YXV2NEt5RXJBRWRKMjRTWjg3YmJvX2VTSlI0cDhEUG9nOTd3eUtZci1wUjczWlBTVE0yUEhuZV92TkxfTHljU0x6QVJEMjRvNHlHTmk5ZVJkLWFYa0FHM1NrZmZneWUzQWlYTjRfeTBjUjgzTXFpYk1od0hpVlQyTmlNMlE?oc=5",
       "date": "2026-06-12T14:00:11+00:00",
       "source": "SCMP",
       "key": "scmp",
