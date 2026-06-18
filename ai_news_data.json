@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-17T20:10:47.442588+00:00",
-  "articleCount": 102,
+  "generated": "2026-06-18T03:53:27.273579+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,90 @@
     }
   },
   "articles": [
+    {
+      "id": "4gdXZO5QZTRW",
+      "title": "How to turn off AI in your Google Docs",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "date": "2026-06-18T01:23:51+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "oPXGsjGjk7F+",
+      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
+      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
+      "date": "2026-06-18T00:25:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "oyJhEYpN7pLW",
+      "title": "「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析",
+      "summary": "コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力向上を担当するNTT人間情報研究所の風戸広史さんが解説した。",
+      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
+      "date": "2026-06-17T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ciZZwbjQZIWG",
+      "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+      "summary": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+      "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+      "date": "2026-06-17T22:52:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "a3P+mTpWUgfu",
+      "title": "EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says - Reuters",
+      "summary": "EU cybersecurity agency to meet Anthropic on Thursday, EU Commission says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSGFjQVlLQ01mTVFNMUJJcHRCQjRkVjRzU0NRcFB3NXcyOUFWZFJnblo1dk9DNUQxbEIwbUFpYzdrQlVGTWhaX1lMRFdYMnlKbzUtX3NBS1Y3cWd6aFlvaFpLbjZuQS1aMXJUMWRwWHF4dVRFMElobWRhY0ExTGZMZzdNNWdTZEtyb2F5TXVpR3paeTVyT3k4R3YwdVd6ckQwTGJqd1ZCR2hQZm40bFJGUGhjVQ?oc=5",
+      "date": "2026-06-17T22:32:22+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "O7muivfVVrIB",
+      "title": "Anthropic、デザインツール「Claude Design」を強化　Codeとの双方向連携やCanvaなどへの出力をサポート",
+      "summary": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
+      "date": "2026-06-17T21:25:34+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ZxJX4Fmgy7vx",
+      "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
+      "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+      "date": "2026-06-17T20:17:38+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "uEdtD7JUxpA2",
       "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
@@ -113,6 +197,18 @@
       "articleLang": "en"
     },
     {
+      "id": "UooI9QH/YV4D",
+      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
+      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
+      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
+      "date": "2026-06-17T18:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "BQu9/uF16A1b",
       "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
       "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
@@ -122,6 +218,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qH/gfBl6u+H8",
+      "title": "Legal AI startup Eve hit with patent infringement lawsuit - Reuters",
+      "summary": "Legal AI startup Eve hit with patent infringement lawsuit&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeC13U1l6NkhycTZLUllMeU91VFB1RTZSdHF0LXY2MHc5dzZRa3lvckQ3LUNYV19MZzBnLXV1aF91Tl9RSElRTi1sbEotMVpuYV9rREhJa05jMmR1eU5DTUFxdXRxVEZJdk13MUZJc1hoQTVVbnlRczJLTVJFa3U4V0NWOVNrWVVJLVRncXdKVVlQaS1zWEoweGl4Tk5BajMyWHhHSFliNXVRNDhaOXFRS3BnWQ?oc=5",
+      "date": "2026-06-17T17:37:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -218,6 +326,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "pWrHZzGEopXD",
+      "title": "Trump says negotiations with Anthropic are 'going fine' - Reuters",
+      "summary": "Trump says negotiations with Anthropic are 'going fine'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHk0Y0pkci1GU1pPUVItMXR0NUtraTZMY190OVdNS09FTjRhLVpMTkhjZGRlNThGV3RmaklVTjAtbUN5anp5VkpmWjF2aE0xNEM4anVMRGw0WjZIQk4zT05iMVd4eXR4WHRQS0FGQl9QLU81VTJwWEw5aW1rODdpNFV5bVRDZ3JZa05rYkxidk1TNEZackg2Sl9lSQ?oc=5",
+      "date": "2026-06-17T15:46:41+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -569,18 +689,6 @@
       "articleLang": "en"
     },
     {
-      "id": "mR8cDdxArxC4",
-      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-      "summary": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
-      "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-      "date": "2026-06-16T16:49:44+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "KwxTgAfQKAd7",
       "title": "EU Commission keeps contact with Anthropic over decision to disable models in EU - Reuters",
       "summary": "EU Commission keeps contact with Anthropic over decision to disable models in EU&nbsp;&nbsp;Reuters",
@@ -590,30 +698,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "QoD4+T9757oV",
-      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
-      "summary": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers.",
-      "link": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
-      "date": "2026-06-16T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "BXCbFh6e2UUE",
-      "title": "Robinhood’s note on 10% layoffs shows blaming AI isn’t cutting it",
-      "summary": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note",
-      "link": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
-      "date": "2026-06-16T14:50:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -677,18 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "pSH0uySkA+tn",
-      "title": "AI in Hungary could unlock productivity gains of €15 billion, McKinsey says - Reuters",
-      "summary": "AI in Hungary could unlock productivity gains of €15 billion, McKinsey says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdWFsSEZyZEtuYkFJOVpEcXJpNnllMDNNWXlKdW1mdjNRdU5XaW13UEpCOWtvNmpyaS1mWXl6cE4wS1VBcFpuY3BBT2J1ZG4tcjdjeGVKTm9tR210eFVvZVRubEdUUm40d0RrejZKNEZTYV9tY2JfSUtUcXhFb3dWVV9nbU8xUXl4cFM4Q0xtVVlrSzdpWWtlNGFVdl9vWkthTnpaUGwwZVZqT1Q5ZWdmYWwtODF1TzluYVB0SQ?oc=5",
-      "date": "2026-06-16T11:08:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "PCFfe444jKij",
       "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
       "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
@@ -749,23 +821,11 @@
       "articleLang": "en"
     },
     {
-      "id": "HDaISZGZ44Gr",
-      "title": "Claude「Fable 5」が3日で停止　Anthropicが主張する“米国政府の誤解”の正体",
-      "summary": "米国政府の指令に従い、Fable 5のサービス提供を停止したAnthropic。同社は指令について「政府の誤解に基づくもの」と主張しているが、その誤解とは具体的にどのようなものなのか。",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2606/16/news081.html",
-      "date": "2026-06-16T05:15:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "fHgDiKNZ4TYE",
       "title": "Alibaba unveils AI models for robots, amid shift from chatbots to agents - Reuters",
       "summary": "Alibaba unveils AI models for robots, amid shift from chatbots to agents&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZFWElhR1l6MFVCTU1GaTJyQ3lNV3ZnMW0xSmVUQktidV9hWkxoNzNJZXl6NURWZC01R2lLSVBsTExvN3pPbHRpTnc2T2RUclJhOTRzbzdaTUVYM1JvR2JHR0JDNGtiMkl4eGpqdUNyZ2xJRkFEbTVlU0QxNHRUYlhmZ3hzMmh2YzVlVkxmZ3hmSVNfcG0tNldPWU9YOVNKNGVBWkVRMkNBVHZ2X0tuQkNTZUY?oc=5",
-      "date": "2026-06-16T04:37:00+00:00",
+      "date": "2026-06-16T04:42:38+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -809,30 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "92tE2pHbDBTT",
-      "title": "生成AI×3D CADでどこまでできるか試してみた",
-      "summary": "生成AIの活用は、文章や画像、動画だけでなく、3D CADの分野にも広がり始めています。自然言語で指示するだけで、3Dモデルのたたき台を作成できる環境も登場しつつあります。今回はAutodesk Fusionの「Autodesk Assistant」を使い、ペットボトルの3Dモデル作成を試しながら、生成AI×3D CADの可能性と課題を紹介します。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2606/16/news023.html",
-      "date": "2026-06-15T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "7wEoKL0hkHC5",
-      "title": "Meta CTO Andrew Bosworth Admits the Company’s AI Reorg Was ‘Atrocious’",
-      "summary": "In an internal memo seen by WIRED, Bosworth promised employees more stability, better communication, and the return of workplace perks as the company seeks to improve morale.",
-      "link": "https://www.wired.com/story/andrew-bosworth-meta-employees-unrest/",
-      "date": "2026-06-15T21:33:46+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "C7qfedMr3L+U",
       "title": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI - Reuters",
       "summary": "US judge dismisses Musk's xAI trade secret lawsuit against OpenAI&nbsp;&nbsp;Reuters",
@@ -857,15 +893,15 @@
       "articleLang": "en"
     },
     {
-      "id": "JZxqvaLxy2s4",
-      "title": "AI-referred US shoppers browse longer, spend more per visit, data shows - Reuters",
-      "summary": "AI-referred US shoppers browse longer, spend more per visit, data shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdW1sbEI1bUFBYVBsWklsN3N4VHotNFE0M1d3MDdNYmlSdVVmN2RJSnVSVHBvbjZqS2xlN2E3NUZoWThtZ3JrSlZNUUdwcWNLTEFWaHRFN09mSGVnMFZPRFdEWkRPWWN1azM2SkRiTmpub1QtOVJUT3lTNmt3OWJrY3FxYzB6VlBSUkY4Z1hNd1gwalNMQW9JZXBtQjI0X0NISnZIQjRiZUxrLVUzdkExdG9XVGY1bjUtckVwbEt0aHFnU3FJRXNn?oc=5",
-      "date": "2026-06-15T16:31:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "varYkYt3qf5v",
+      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
+      "date": "2026-06-15T17:41:22+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -902,18 +938,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "varYkYt3qf5v",
-      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
-      "date": "2026-06-15T10:05:33+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -965,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bZSDWH9HG6yF",
-      "title": "Schneider Electric, Foxconn partner on AI data center infrastructure - Reuters",
-      "summary": "Schneider Electric, Foxconn partner on AI data center infrastructure&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV0hlS2tYZWRJNXBjdklpV1R6OHVaMFFQcFBJenRILVhJSW1JU2YtWVo3dnc2T1liYS1meHdHM2MzZWpzb2oycVJ2anlxWnNwN3RNdUpia25CLWFFN0xtYmVtR1lEVmYzNk5welRFbXlNUUJ0R2pnc2V1QnhyUGY0LWphbW44elBKNVFkQ3Mtd2V3YkFZRmRITDhwdnlUR09ReXhNcXpDdkJDUV8xeS1TSEdjdWdveFlyN044?oc=5",
-      "date": "2026-06-15T05:07:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "HSUO2ZQ3erco",
       "title": "Zhipu AI’s stock rockets after Chinese firm launches GLM-5.2 model - South China Morning Post",
       "summary": "Zhipu AI’s stock rockets after Chinese firm launches GLM-5.2 model&nbsp;&nbsp;South China Morning Post",
@@ -998,18 +1010,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "yGfHLDYIYOku",
-      "title": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says - Reuters",
-      "summary": "EU Commission looking at practical consequences of Anthropic decision, spokesperson says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5",
-      "date": "2026-06-14T13:47:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1217,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bVXku5oryrCh",
-      "title": "Facing US chip curbs, China launches photonics lab to power AI with light - South China Morning Post",
-      "summary": "Facing US chip curbs, China launches photonics lab to power AI with light&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGJFNjhVd3J4UWhVcmFUT2trV0tPM2toTHpTXzFsSWpWRHdQakxPQnB6b1NRODJxOE9tVnNOZFFyMmRZY0czSURxQlAxOTFEUzRUbGtVeFhqWEx3WnJfU3RxRmoxWEhkTnhXRXFmU1NCZjlUU21uOXcxMzVTNWU2VnRjN0R5TXhxN25pbVpLa2oxakV0eXlBS0duaXEzT0tFMjZVQmtHWUdfTk02YzdJcUxQRi14d9IBtgFBVV95cUxOVXE3cWZPaWE5SUZMNDNaanJ1eEpZOERrS0Q2OXNXdHhPTFNQUVlabWxYYVpSSUIwV0JDQjY4Zk1hMnc2NkpHWGVuaXlIbHlhTWNzMWRYRXdZSF9aSzd2cXBRS0ZoQl8xeGRvcjdleUJ3ZjJzWE9NWktVY3hpSVFFZmxvSmpJRUJWaURSdl9EQi1LdkxneXEwN1VvcmppYnlncFRfclQyNVlkMy01YTFaUE1pQWU2Zw?oc=5",
-      "date": "2026-06-12T11:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "Blu2AVUFPmzo",
       "title": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers - South China Morning Post",
       "summary": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers&nbsp;&nbsp;South China Morning Post",
@@ -1274,18 +1262,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "95ZVfH61qqme",
-      "title": "US shortens cyber fix window to three days as AI threats rise - Reuters",
-      "summary": "US shortens cyber fix window to three days as AI threats rise&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUJ0Y3ZPOE9IbWdjS0xqd20zczBOanREM3JhNmk5bVpDYlhkbFlhMTBwTWkxZ080TTEwcHJKVnhocTU3UTdBTGVmQUhrUDhqbE40bGpqS0tpQWI1RmNUMVhNTF9Kb09OYkZIanduaEN5ek1PUkdyZVRJOWxORW9fWFI4Q1Y0OWxYMk9XelRpWmJDVURweXBLT19ORl9RaWh2eWcyVkhmcGNqZ0tn?oc=5",
-      "date": "2026-06-10T21:48:50+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
