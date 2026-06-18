@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-18T15:21:53.415814+00:00",
-  "articleCount": 98,
+  "generated": "2026-06-18T20:24:14.133428+00:00",
+  "articleCount": 99,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,105 @@
   },
   "articles": [
     {
+      "id": "7M+szfInaQY2",
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+      "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "date": "2026-06-18T19:59:22+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "D8rUvWielS/f",
+      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
+      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
+      "date": "2026-06-18T19:29:51+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XhHenVTm3PY5",
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+      "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "date": "2026-06-18T18:51:46+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Y3t58P9lx/dK",
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+      "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "date": "2026-06-18T18:22:13+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "35EcQwJYxHsk",
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "summary": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages.",
+      "link": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "date": "2026-06-18T17:49:23+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/vjlPYJCMUOa",
+      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from",
+      "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "date": "2026-06-18T16:55:04+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mj0fyyR6PxtL",
+      "title": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks - Reuters",
+      "summary": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
+      "date": "2026-06-18T16:20:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Rt0SqpcuIBCg",
+      "title": "Space startups seek insurance for orbital AI data centers - Reuters",
+      "summary": "Space startups seek insurance for orbital AI data centers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk16VGo1blRDNzNZNF8zbFVwQzgtazlBQUhGdFR5d1k1ZFZOdkVrWFFPamJzNkc0a2tTMnFzOTdCQlZpVXdlODIxMldQQ29XbWxQbUxzSU9OOTdybWxoRTdrNVpJaXRYY2JPMndhV2tobzhUb1FKa3FLYzBJSlNDQWtCZFlwYXAwSGhEYThkdlhJT3oxdzFxYngzdHMtT1RNb0N5VFNqNTZwTlJkR1E?oc=5",
+      "date": "2026-06-18T16:09:52+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "Lu9VGNYirmRw",
       "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "summary": "General Intuition is in talks to raise around $300 million at a roughly $2 billion valuation from backers including Jeff Bezos. The startup trains AI agents on spatial-temporal reasoning.",
+      "summary": "The startup trains embodied AI and world models using Medal’s dataset of 2 billion videos per year from 10 million monthly active users.",
       "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
       "date": "2026-06-18T15:20:37+00:00",
       "source": "TechCrunch",
@@ -101,6 +197,42 @@
       "articleLang": "en"
     },
     {
+      "id": "0BLMt8Xsq27M",
+      "title": "Who decides when AI is too dangerous?",
+      "summary": "On today’s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it’s because something has gone wrong in the world of AI. Last weekend,",
+      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "date": "2026-06-18T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fpCas4lOptO1",
+      "title": "Photoshop and Premiere now have AI assistants",
+      "summary": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc",
+      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "date": "2026-06-18T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "aI9UjZsSurdc",
+      "title": "Adobe’s redesigned AI studio remembers what your creations look like",
+      "summary": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie",
+      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "date": "2026-06-18T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "9250HH4Ss/eV",
       "title": "Office workers of the world unite: it’s time to revive the three-martini lunch | Andrea Javor",
       "summary": "The three-martini lunch allowed us to mix business and pleasure, a phenomenon that is missing during the AI boomAs a 46-year-old executive who now has both people and AI agents reporting to me on the",
@@ -123,6 +255,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "KnWaRfbWAtZe",
+      "title": "AI | AI’s next frontier, world models, and why China is ahead of the pack - South China Morning Post",
+      "summary": "AI | AI’s next frontier, world models, and why China is ahead of the pack&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlGT1ozdVF2RGktSVdZNE9BOG90RzQ0RjdzWmVfTmItS1JjcW1QbFFDcFI1RGlYUExMUG43RjhtZWJoNW9QVWxkS19WUUpCZzZZaHliLU9aQ25MMEVoaVNuakRMaDFMUmtRem1qQ1VIXzJMRkVRSksxV1Fvd3k2TEpfdXRIcm5Kb2UyUG9PTWJ1R0pLUEJ0amlaR2IxRDBVeEtFYnU5WEtPeHREMFpZbg?oc=5",
+      "date": "2026-06-18T09:00:00+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "edX5l60OYAyf",
@@ -158,18 +302,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mj0fyyR6PxtL",
-      "title": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks - Reuters",
-      "summary": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
-      "date": "2026-06-18T07:45:15+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -293,6 +425,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "ASKSpfM+caWg",
+      "title": "Rhode Island joins states issuing AI rules for lawyers - Reuters",
+      "summary": "Rhode Island joins states issuing AI rules for lawyers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWRVU0piQy1sRTBhaERjb0xUaEVpNU00V0RRY3hMbjA0WkVXcS12cDZuUE1ueFdzTUFFLXIya1gxNFZBenVxSEtVNUlUT3FraUtBY0ZoekRNMkw3U3o2UUxiUnlsVnlKanF3NzV1UzdFYlpUR29EaWUzaWtkQW1lZEpET1NobHBZLUdGNTl1U3RwNTdFQTAzMFFlWG1oYlFPMGwzWktn?oc=5",
+      "date": "2026-06-17T21:02:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ZxJX4Fmgy7vx",
       "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
       "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
@@ -350,18 +494,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "FGDL37UtIb+B",
-      "title": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says - Reuters",
-      "summary": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGVHazhxdWV0VUU0S2NidTVqMjBoZ0FzNXd5bTd4c0QwOFVibUxhWS1nQ1gwNTd0QlE3ZFVjdjFiWmFIZmhybktMZW00SFMxbXliN3p2Z2lNTGZlaWhmdTd6dzc1b3BTMEtwd1h2WHpEWXVWWDF1QW5LVjhQeFlubFoyZXd3SzMtVVlGbDk3MllBdDZLOUd1d0xiZUpQQk9VXy1iU0p6OW5NMEEy?oc=5",
-      "date": "2026-06-17T18:12:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -509,30 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IlZ+PkkiWuJE",
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "summary": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved.",
-      "link": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "date": "2026-06-17T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "s3Urcg2SYKSe",
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "summary": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation — where errors can be costly and reliability is at a premium.",
-      "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "date": "2026-06-17T14:15:22+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "BzOS7r6SJrcs",
       "title": "AI search grounded in Facebook posts? What could go wrong?",
       "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode",
@@ -569,42 +677,6 @@
       "articleLang": "en"
     },
     {
-      "id": "V/NPD7oj18cG",
-      "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-      "summary": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India.",
-      "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-      "date": "2026-06-17T12:38:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "korf0Z60cbBC",
-      "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says - Reuters",
-      "summary": "AI use in UK hits 'tipping point' as companies scale up, Google exec says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1ZRSzNmOHY5Y2xFaGUxbDIxT3QtTHhCOUpqSmhCM0hURkU1cjJIYzZ1WmhEemdXY3NBOXR0VllTQWo3dWRTMGZ2QXpnbllsYXlYZkJ2U0U2Zzh6VzdaQzNFcWhRYXBsNnFqQnhxdnNiNWdyRFlObE91dTQtSV9yT2o2QTlzeUxTR0lYT29TQVY2STE5NUNva0pENXZkQkhwSmNCMFVZY3U5VV8tWGc?oc=5",
-      "date": "2026-06-17T11:15:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "WPUKkuxfGpwP",
-      "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-      "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-      "link": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-      "date": "2026-06-17T11:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "E61bmZmIu0Dh",
       "title": "The curious case of Elias Thorne – and what he tells us about AI inbreeding | Arwa Mahdawi",
       "summary": "A character bearing that name appears in a remarkable number of chatbot-generated stories. He could be a messenger from the future – or a warning that generative AI is in danger of ‘model collapse’Eve",
@@ -626,30 +698,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "nBuobQgXHDfO",
-      "title": "The next humanoid robot might not look human at all",
-      "summary": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "date": "2026-06-17T09:46:56+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KnWaRfbWAtZe",
-      "title": "AI | AI’s next frontier, world models, and why China is ahead of the pack - South China Morning Post",
-      "summary": "AI | AI’s next frontier, world models, and why China is ahead of the pack&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPajlGT1ozdVF2RGktSVdZNE9BOG90RzQ0RjdzWmVfTmItS1JjcW1QbFFDcFI1RGlYUExMUG43RjhtZWJoNW9QVWxkS19WUUpCZzZZaHliLU9aQ25MMEVoaVNuakRMaDFMUmtRem1qQ1VIXzJMRkVRSksxV1Fvd3k2TEpfdXRIcm5Kb2UyUG9PTWJ1R0pLUEJ0amlaR2IxRDBVeEtFYnU5WEtPeHREMFpZbg?oc=5",
-      "date": "2026-06-17T09:02:00+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -797,30 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "q2d7bNP/AIuS",
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "summary": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped Ai",
-      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "date": "2026-06-16T17:04:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "IHi6qkc7pdTZ",
-      "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
-      "summary": "SoftBank launches cybersecurity product based on OpenAI models&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5",
-      "date": "2026-06-16T15:30:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xSIXUfbtHMUY",
       "title": "My Father Wants to Age in Place. AI Will Be Watching",
       "summary": "Devices that monitor seniors for safety are appealing to worried loved ones and underresourced home care agencies.",
@@ -869,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "PCFfe444jKij",
-      "title": "‘Pretty Crazy’ Token Usage Is Testing Bosses’ Bet on AI",
-      "summary": "A Silicon Valley software maker and an ecommerce company reveal to WIRED how they are navigating the emerging challenge of “tokenomics.”",
-      "link": "https://www.wired.com/story/claude-tokens-compute-cost-code-8x8/",
-      "date": "2026-06-16T09:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "MebpUV6ph9av",
       "title": "AI for less: price war in China deepens amid ‘intense’ competition - South China Morning Post",
       "summary": "AI for less: price war in China deepens amid ‘intense’ competition&nbsp;&nbsp;South China Morning Post",
@@ -893,9 +905,9 @@
       "articleLang": "en"
     },
     {
-      "id": "varYkYt3qf5v",
-      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
+      "id": "nngR648fXBtJ",
+      "title": "G7: Leaders discuss economy, AI security risks - DW",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
       "date": "2026-06-16T07:08:15+00:00",
       "source": "DW Tech",
@@ -1049,9 +1061,9 @@
       "articleLang": "en"
     },
     {
-      "id": "NNzTi5QhSCcK",
-      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW.com",
-      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW.com",
+      "id": "3XJktjWZZUWV",
+      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW",
+      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWg3NzBCNkJYeGQzNWNGQ2lmNG1YQjQzRE5qQUhlT1hidjJMNkp3dHhmNEs5cjBqZjlfS0tBT0o4LUxnSExLaHdwR29sZEUtNmhfV0pjQzhLRFBJXzFsYVp4cHZOX1BrWWRLTFUtX0drOE82cVF1LTVJLTAxT2ZaRUd2QVBKOGVIT3AycVZPa04xZTYwV01FWnF3?oc=5",
       "date": "2026-06-14T11:20:18+00:00",
       "source": "DW Tech",
@@ -1145,9 +1157,9 @@
       "articleLang": "en"
     },
     {
-      "id": "kLzQoRWy9+D5",
-      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW.com",
-      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW.com",
+      "id": "DSSPrGy/bVur",
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW",
+      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVnN0FCeWUwZThwV2pob3RhOWZscXhGNUdGRzRDT21EQkhiNDNvZkVCc01rNWRsM0FyX09PcnRtN3ZLbjU1WVNObUs5RUs3bmw4dXQ5Ukw0eXB0cHVndGQxRU9XT2RiS1puWF9kbUpzNnBZRElST2ZZUWZHN0JidVhGVldlWVVNZ254OVJpZ1ZiMWPSAZMBQVVfeXFMTU5fdTdMSWEwWml1TGRXTzdxOXdDVGpsTnV2VE9fdXNpM3VEVnI4MjlqWDNobmphcTFRQUkxdlFxOVpsLUpJTDZQbkotVjhnUjNnZnRZMFplWHVhN0tQT3FUc0Fmem1oZm4zWUY3ZG5kUXVpQm0yUW5tLWtvU1huRmp2eTZkQzkwdjZVcDFKS2hIS3A4?oc=5",
       "date": "2026-06-13T09:46:05+00:00",
       "source": "DW Tech",
@@ -1169,6 +1181,18 @@
       "articleLang": "en"
     },
     {
+      "id": "5dsvxJIk9L2E",
+      "title": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies - Reuters",
+      "summary": "Exclusive: U.S. bank regulators ramp up scrutiny of AI use at financial companies&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR3pVUi0zQTJkVzRYRlFXY2tjdTExalR4UGxNZ2ZBOVRrYkg4eGdDajZmTzdLdUdNRHpKSDhmOUUtcTVrMjBSZGN4OUdSLUpiT0lnLWY3QWNsWmNkdWJ6bWtEcTNOX2dRNXdWM3BfblEyQlgxTUJsUURPaHRBeWFrTk02eDVGVzJuZTNFVUJDR0pycVgzbGpiLUpaMk1DR200Z2N3WGVYZHVxU0tKX2ttUlRVZERJdw?oc=5",
+      "date": "2026-06-12T16:53:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "9tgNptUKuy7m",
       "title": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says - South China Morning Post",
       "summary": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says&nbsp;&nbsp;South China Morning Post",
@@ -1181,27 +1205,15 @@
       "articleLang": "en"
     },
     {
-      "id": "Edx/hrsMCY7f",
-      "title": "German court holds Google liable for fake AI answers - DW.com",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW.com",
+      "id": "VPHrjzfQxxCv",
+      "title": "German court holds Google liable for fake AI answers - DW",
+      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
       "date": "2026-06-12T14:53:22+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "/olMyyI8KRMb",
-      "title": "AI has boosted the US economy. Why isn’t it doing the same for China? - South China Morning Post",
-      "summary": "AI has boosted the US economy. Why isn’t it doing the same for China?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbE4zS2lnY1pIYW5xaVMxZ09MRk1qNlhRbWRnRXBrYWtyOWNwczUxR0pBMnpJNWZJcUNwQWotdnRndE0xSUdWS2RfaHdmb0JFd3lmRWdldlo4TkFKWVRnRzFxbkR2eS03eHFzamtzOTJuUUQtUXBnakF4anpiMWRqbG85MTFWaVIxdUFSRFhZdjZVeV9XN3pWLURmWkk3WHBnRWhoYmdYczkxaG9mVVR4X2xIc3RweVV2WnMzLXBVaGFjTzBXMTBUT3VxOUZSZ9IBzgFBVV95cUxQdE9QWnBYQVhhWXRMeE5KeVd1N1JvRG9BaTZjWnhLc2Zyb0tCS0wyQ1J6dmxvd1BuTGN4ejJVdm1BdWl1Y3ZHRXZiZDczd0ZFNzNlSEY3T2txZEw2VHlYUUpmOXNJWDlIa3hsbkt3TU1WLV9VMFZYRXFnTTJreG1haG1LV2Y3ZmxNQnZqVVdzZF93VUZIanFZcVdUVnVaQ3ZhODBxc2xobnJBc1QyODk1c3NCMFVZTWhzaTZNaTBXb1pQZ1pFNkFRSlRHb3FHdw?oc=5",
-      "date": "2026-06-12T12:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1229,15 +1241,15 @@
       "articleLang": "en"
     },
     {
-      "id": "ETSDAxchSNCT",
-      "title": "Deezer launches free AI music detector for users of major streaming platforms - Reuters",
-      "summary": "Deezer launches free AI music detector for users of major streaming platforms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRUWEJDRElfMzZlSzhNUnlEWUc3RUVleTVXcXJHbmhOVGFPSFhYczNfUUFJaUxkWjJVVktJam50bnR6VlpGeXlyYmtzYnRlaG1UUFVGMWFJUkdsQlU4TC1FZTF1SnBoRGhMT09oNkVIck44WnYybDNSMmVwWjBOYzNzOHIzdXYzU0NRaWd0d254RE83d2dGdkxnY196OENJU294YzJoVVVaN2hKZ3ZCQVR6S28zd2Etd0R0YkhlZzk?oc=5",
-      "date": "2026-06-11T15:42:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "fGKjVD56SGH/",
+      "title": "'Civilians will be put in harm's way,' expert warns as first autonomous drone kills revealed - A propos - France 24",
+      "summary": "'Civilians will be put in harm's way,' expert warns as first autonomous drone kills revealed - A propos&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPejZHZmdrYV9GNW5YUFZDZHFpMmxtdVZVQnBxVTNtbmpUYlJyOHdHaDJGT3ZoUlNsS0VPMmFZTFEyYWdPc2VoOFZsdlh3TnMtOW1CNVRDaVZkN2tITlRjdjllR1pZbTVwbG5CVmExQXloTWJxUVFlWlZfVlhaYnJWVXUtRlh4VjBNc3lobnRsNkYxNXg4UERTRzRKR1JaeTVZQmh4aC1XdTFTcVNFZU44cWVGdTNBdEJjYzl4T1NSQ1RBVjBGYUl2VmE0MEU5M3NGeGlqZ2Y4aWpBUWM?oc=5",
+      "date": "2026-06-11T21:09:48+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
