@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-19T04:13:27.077091+00:00",
-  "articleCount": 98,
+  "generated": "2026-06-19T10:24:36.027118+00:00",
+  "articleCount": 95,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "mit": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "ars": {
       "status": "ok",
@@ -28,15 +28,15 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "ryCHM1nFVFgt",
+      "title": "UK's top AI regulator quits after 'inappropriate' humour",
+      "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
+      "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-19T09:55:45+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "MOQPGnYDzccK",
+      "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
+      "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/",
+      "date": "2026-06-19T08:00:51+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "7yvi/2S8bUSR",
+      "title": "GMO傘下、Unitreeの国内正規代理店に　人型ロボの導入から保守まで一気通貫で支援",
+      "summary": "GMOインターネットグループ傘下で、ロボティクス事業などを手掛けるGMO AI＆ロボティクス商事は、ロボット開発企業の中国Unitree Roboticsと日本国内正規代理店契約を締結したと発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/19/2000000109/",
+      "date": "2026-06-19T07:16:24+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "rP0sKC339AxK",
+      "title": "China tightens indium export checks as AI demand increases - Reuters",
+      "summary": "China tightens indium export checks as AI demand increases&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
+      "date": "2026-06-19T06:39:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Nnd94mL1jUyT",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "date": "2026-06-19T04:49:33+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "pHkBFLPoexo/",
       "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
@@ -149,18 +209,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/FXWT6+6EsvC",
-      "title": "AI cuts tech project times from years to months, says Deutsche Bank exec - Reuters",
-      "summary": "AI cuts tech project times from years to months, says Deutsche Bank exec&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzhXVzZqUzl4OHBoUzdiclRYdHhDRVlBYnVQYnFQVkZMdDN1dkFYVTlUQXkxZWUwVHpMb2Ffd3dkT1BkaGU3elRRdmNrNXVyVlNfMk5wQjN5dGRXbFFZMFV4elJBdDZzUUlpR3pPWndKWm8yT1JrX1RLbXVvSVFiUVJ3cDhodWpTWHFuYkx5VUlqN09panIzeXB0bFo5a18yOHdUQnQ0ZmphaEdydTBDYjdNR0o3NUE?oc=5",
-      "date": "2026-06-18T18:58:03+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "fa+MhmTAQFey",
       "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
@@ -197,9 +245,9 @@
       "articleLang": "en"
     },
     {
-      "id": "/vjlPYJCMUOa",
-      "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-      "summary": "Karamo Brown, famous for his pep talks on Netflix&#8217;s “Queer Eye,” has jumped into the wellness and AI space with his new app, Kē. After spending a year and a half focusing on his own journey—from",
+      "id": "ID06F75kVycY",
+      "title": "‘Queer Eye’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
+      "summary": "After spending a year and a half focusing on his own journey — from fitness and nutrition to meditation, sobriety, relationships, and personal growth — Brown wants to help others do the same.",
       "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "date": "2026-06-18T16:55:04+00:00",
       "source": "TechCrunch",
@@ -389,18 +437,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VavyNZYuKWdn",
-      "title": "The future of AI may be small, cheap and unprofitable - Reuters",
-      "summary": "The future of AI may be small, cheap and unprofitable&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGlBclJKdDc2ZHlidjJjT1VlLW1QYzNZNVpjMG1ySjNtcTdHcmhHUWVOOUc4Z3htYjBxYWNkbGJ5dFVaTzBDLUFKZ1JKQ1g5d3BfbEJIb1FLT2Z1ek1GUDlBYl9sei11My1tZ2loSVlXTzlucXZRajhSY1RXdVR1YlFKWUpUdkxTeWtDQ1U4SzdjenQtSUQ4cGNjVXdZTHlXSFNHT3NtQW5xckhJT3Bv?oc=5",
-      "date": "2026-06-18T06:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "dOkf/16Sfdob",
       "title": "Samsung leans on AI, cost cutting to revive consumer business - The Korea Herald",
       "summary": "Samsung leans on AI, cost cutting to revive consumer business&nbsp;&nbsp;The Korea Herald",
@@ -437,6 +473,18 @@
       "articleLang": "en"
     },
     {
+      "id": "oPXGsjGjk7F+",
+      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
+      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
+      "date": "2026-06-18T01:31:23+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "4gdXZO5QZTRW",
       "title": "How to turn off AI in your Google Docs",
       "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
@@ -446,18 +494,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "oPXGsjGjk7F+",
-      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "date": "2026-06-18T00:25:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -495,18 +531,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "O7muivfVVrIB",
-      "title": "Anthropic、デザインツール「Claude Design」を強化　Codeとの双方向連携やCanvaなどへの出力をサポート",
-      "summary": "Anthropicは、デザイン制作ツール「Claude Design」のβ機能を大幅に強化した。複数のデザインシステムを取り込んでプロジェクト横断で維持できるようになったほか、「Claude Code」とのシームレスな双方向連携を実現。AdobeやCanvaをはじめとする外部ツールへの書き出しコネクタも大幅に拡充した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000102/",
-      "date": "2026-06-17T21:25:34+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "ASKSpfM+caWg",
@@ -590,18 +614,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "UooI9QH/YV4D",
-      "title": "NEA’s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "summary": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re",
-      "link": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "date": "2026-06-17T18:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -689,30 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "pWrHZzGEopXD",
-      "title": "Trump says negotiations with Anthropic are 'going fine' - Reuters",
-      "summary": "Trump says negotiations with Anthropic are 'going fine'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbHk0Y0pkci1GU1pPUVItMXR0NUtraTZMY190OVdNS09FTjRhLVpMTkhjZGRlNThGV3RmaklVTjAtbUN5anp5VkpmWjF2aE0xNEM4anVMRGw0WjZIQk4zT05iMVd4eXR4WHRQS0FGQl9QLU81VTJwWEw5aW1rODdpNFV5bVRDZ3JZa05rYkxidk1TNEZackg2Sl9lSQ?oc=5",
-      "date": "2026-06-17T15:46:41+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "BzOS7r6SJrcs",
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "summary": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-      "date": "2026-06-17T13:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "aWAL4XcGMlLr",
       "title": "I had a blood clot. An AI diagnosis may have saved my life | Gleb Tsipursky",
       "summary": "An AI tool is no replacement for a doctor, and regulation is essential. But together, physicians and AI could prove beneficialA calf cramp should not be a brush with death. Mine almost was.For five da",
@@ -734,6 +722,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "korf0Z60cbBC",
+      "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says - Reuters",
+      "summary": "AI use in UK hits 'tipping point' as companies scale up, Google exec says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1ZRSzNmOHY5Y2xFaGUxbDIxT3QtTHhCOUpqSmhCM0hURkU1cjJIYzZ1WmhEemdXY3NBOXR0VllTQWo3dWRTMGZ2QXpnbllsYXlYZkJ2U0U2Zzh6VzdaQzNFcWhRYXBsNnFqQnhxdnNiNWdyRFlObE91dTQtSV9yT2o2QTlzeUxTR0lYT29TQVY2STE5NUNva0pENXZkQkhwSmNCMFVZY3U5VV8tWGc?oc=5",
+      "date": "2026-06-17T11:15:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -794,6 +794,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "QvEy5Mx6dJrz",
+      "title": "Latin America and Europe are bystanders in the US-China AI race: Lula adviser - South China Morning Post",
+      "summary": "Latin America and Europe are bystanders in the US-China AI race: Lula adviser&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVWEtLXdiaC03ZjZhSlYxMHhFMWEyR25zSWZ6Rm9vQ0N4Q2J3SDVvcXFEbUFZZXdTakl3amt5NVRKR3NaLWstcU5zdUdwaTFtbC1CT2FhYVJ5MzFxbE1VQ042OUM2d2twQWV2SkdwVXZadV84a2o2UTA2M3UyUjdac0tMTlJzRUJUTWNJWTF6QUR1eTVqaGdKZVZES1ZfdFdsdGl1bEdSSld2OTg1TUhRNmx5TURqZXF2eUQzZFU5TnlKQWswSVHSAcYBQVVfeXFMTXdSSUhjMXBvUE0takR2a3pOeWNVNWtwbGx3WVlueENtb0tIdUZBS0Y0MS1zclZRVWZGNC1KWnZrQ2VBVEhwbjhieFJlYUxYcWRaWWN5WTI0MHE1blpzdm9temU3NXV1a2V2S183VjVtanZwMjctOW4taGVSR21uRHFNY21IQjRPWXJtT2t2RmlCZlBiT0g4NmNBTkgzV1M5dUFXbk1qQnIySmtwazRndC1id0hHZHN0SG9OTWQxMVhkTDQxd193?oc=5",
+      "date": "2026-06-16T22:32:19+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -893,18 +905,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IHi6qkc7pdTZ",
-      "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
-      "summary": "SoftBank launches cybersecurity product based on OpenAI models&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5",
-      "date": "2026-06-16T15:30:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "5sF8js2ouyoZ",
       "title": "China’s AI outpaces global rivals but trails in trust, survey shows - South China Morning Post",
       "summary": "China’s AI outpaces global rivals but trails in trust, survey shows&nbsp;&nbsp;South China Morning Post",
@@ -953,9 +953,9 @@
       "articleLang": "en"
     },
     {
-      "id": "nngR648fXBtJ",
-      "title": "G7: Leaders discuss economy, AI security risks - DW",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW",
+      "id": "varYkYt3qf5v",
+      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
       "date": "2026-06-16T07:08:15+00:00",
       "source": "DW Tech",
@@ -989,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fHgDiKNZ4TYE",
-      "title": "Alibaba unveils AI models for robots, amid shift from chatbots to agents - Reuters",
-      "summary": "Alibaba unveils AI models for robots, amid shift from chatbots to agents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcGZFWElhR1l6MFVCTU1GaTJyQ3lNV3ZnMW0xSmVUQktidV9hWkxoNzNJZXl6NURWZC01R2lLSVBsTExvN3pPbHRpTnc2T2RUclJhOTRzbzdaTUVYM1JvR2JHR0JDNGtiMkl4eGpqdUNyZ2xJRkFEbTVlU0QxNHRUYlhmZ3hzMmh2YzVlVkxmZ3hmSVNfcG0tNldPWU9YOVNKNGVBWkVRMkNBVHZ2X0tuQkNTZUY?oc=5",
-      "date": "2026-06-16T04:42:38+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "VuyG580KFQYs",
       "title": "Could a diamond wafer as wide as a basketball be China’s trump card in AI race? - South China Morning Post",
       "summary": "Could a diamond wafer as wide as a basketball be China’s trump card in AI race?&nbsp;&nbsp;South China Morning Post",
@@ -1013,15 +1001,15 @@
       "articleLang": "en"
     },
     {
-      "id": "GXEvriyfGns8",
-      "title": "Why do South Koreans love AI so much?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. When I landed in Seoul after a grueling 12-hour flight fr",
-      "link": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-      "date": "2026-06-15T18:46:08+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
+      "id": "gdSJJbgZx5WL",
+      "title": "Strategic change management in the age of generative AI - Reuters",
+      "summary": "Strategic change management in the age of generative AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ050VXhKd0U0LS1sSVU3T2ZkNGR1ZWVrS1YzWnMtN3I4MjBUdkxXVUlsZ2FxVWtkb2NoS0lHbl9wTTJIY2JwUjI3VmtwUWV3VnVobTBUajJJVUtoc09sa3RXQVc0TEpvS3dQMVBrYlQtR2xqUkVDTXpDU0RBRFhMQjkxUVJBeVpKNlJYRm9lSEdjVU04d1hiVnZXdm45TnJ3VlE4ZkNrTTBxbU9FQ2c?oc=5",
+      "date": "2026-06-15T14:55:54+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1085,9 +1073,9 @@
       "articleLang": "en"
     },
     {
-      "id": "3XJktjWZZUWV",
-      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW",
-      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW",
+      "id": "NNzTi5QhSCcK",
+      "title": "Anthropic's Mythos, Fable blocked after US bans foreign use - DW.com",
+      "summary": "Anthropic's Mythos, Fable blocked after US bans foreign use&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWg3NzBCNkJYeGQzNWNGQ2lmNG1YQjQzRE5qQUhlT1hidjJMNkp3dHhmNEs5cjBqZjlfS0tBT0o4LUxnSExLaHdwR29sZEUtNmhfV0pjQzhLRFBJXzFsYVp4cHZOX1BrWWRLTFUtX0drOE82cVF1LTVJLTAxT2ZaRUd2QVBKOGVIT3AycVZPa04xZTYwV01FWnF3?oc=5",
       "date": "2026-06-14T11:20:18+00:00",
       "source": "DW Tech",
@@ -1169,21 +1157,9 @@
       "articleLang": "en"
     },
     {
-      "id": "HeuOCtz2zzXc",
-      "title": "Anthropic to disable its most advanced AI models after US order limiting foreign access",
-      "summary": "Company said US government believes safeguards can be bypassed and product used to identify software vulnerabilitiesAnthropic said it will “abruptly disable” its most advanced AI models for all users",
-      "link": "https://www.theguardian.com/technology/2026/jun/13/anthropic-disable-advanced-ai-models-us-government-order",
-      "date": "2026-06-13T12:37:12+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "DSSPrGy/bVur",
-      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW",
-      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW",
+      "id": "kLzQoRWy9+D5",
+      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW.com",
+      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVnN0FCeWUwZThwV2pob3RhOWZscXhGNUdGRzRDT21EQkhiNDNvZkVCc01rNWRsM0FyX09PcnRtN3ZLbjU1WVNObUs5RUs3bmw4dXQ5Ukw0eXB0cHVndGQxRU9XT2RiS1puWF9kbUpzNnBZRElST2ZZUWZHN0JidVhGVldlWVVNZ254OVJpZ1ZiMWPSAZMBQVVfeXFMTU5fdTdMSWEwWml1TGRXTzdxOXdDVGpsTnV2VE9fdXNpM3VEVnI4MjlqWDNobmphcTFRQUkxdlFxOVpsLUpJTDZQbkotVjhnUjNnZnRZMFplWHVhN0tQT3FUc0Fmem1oZm4zWUY3ZG5kUXVpQm0yUW5tLWtvU1huRmp2eTZkQzkwdjZVcDFKS2hIS3A4?oc=5",
       "date": "2026-06-13T09:46:05+00:00",
       "source": "DW Tech",
@@ -1217,27 +1193,15 @@
       "articleLang": "en"
     },
     {
-      "id": "VPHrjzfQxxCv",
-      "title": "German court holds Google liable for fake AI answers - DW",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW",
+      "id": "Edx/hrsMCY7f",
+      "title": "German court holds Google liable for fake AI answers - DW.com",
+      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
       "date": "2026-06-12T14:53:22+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "Blu2AVUFPmzo",
-      "title": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers - South China Morning Post",
-      "summary": "Anthropic’s Claude Fable 5 poses a challenge for China’s AI developers&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkp1UVYtQ2lybEh6ZjhfZnhkRDJVUnpON2RtYzRzNUF3LXNUU0o1aFZ0Y1BVa2ZSMl91U2JwdjVWSUh4SzhrVUtsYUFtMnJUcHNGRm9KbndRNWV5RDd5Sk5xdGV1aF81cHVpOVhxeWQtbk5pLXlzOXlCZXE1d0YtenRjUmlxSmVlLU9oX09iRjN5a3Y4MDJyQUpWNDZETGEzWHRnWEhPVVFTeG9lSVFLNUUxemVjN0HSAbcBQVVfeXFMTjJSUW5DLUdwSmZJVzRFTzBNbUkxMGUwVGpxYWRPRm9meWVQZldIWWotLVpUZlFFWFFJMTh2UE1iNzZ1VXc3b2ktbDRsLXBDSmdLbWpucHc2bkZlX0VTRjc0dlpLZld2THJlcjBUd2RqR1Vla0tFYXZCNk05c0lQTWl2Z0R4OWxtci0wRXRnbGtEemZZZ1d1eUd2OG5LQ0ZtZ3gxSUVrSHJBdmNuVDJielJPT1FIbkRJ?oc=5",
-      "date": "2026-06-12T08:59:29+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
