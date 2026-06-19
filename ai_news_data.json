@@ -1,14 +1,14 @@
 {
-  "generated": "2026-06-19T10:24:36.027118+00:00",
-  "articleCount": 95,
+  "generated": "2026-06-19T15:13:23.130749+00:00",
+  "articleCount": 97,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -65,15 +65,99 @@
   },
   "articles": [
     {
-      "id": "ryCHM1nFVFgt",
-      "title": "UK's top AI regulator quits after 'inappropriate' humour",
+      "id": "GJOMmwdxbDkT",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "date": "2026-06-19T14:15:29+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fsJUqzWtJqOK",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "date": "2026-06-19T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6aMAME+06dV1",
+      "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
       "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
       "link": "https://www.bbc.com/news/articles/c0eyq7rnn22o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-19T09:55:45+00:00",
+      "date": "2026-06-19T12:45:06+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1oNqPt/1C42K",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it broke through a bottleneck tha",
+      "link": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
+      "date": "2026-06-19T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fs/lorALR0Cb",
+      "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
+      "summary": "Guardian readers in the US share concerns about how the SpaceX IPO and AI boom affect their retirement accountsElon Musk became the world’s first trillionaire last week after SpaceX debuted on the sto",
+      "link": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
+      "date": "2026-06-19T12:00:33+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GjopRq0ZwKmA",
+      "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
+      "summary": "Depending on AI can also potentially decrease the ability to discern misinformation, research saysA new study from the Massachusetts Institute of Technology is the latest research to find that relying",
+      "link": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
+      "date": "2026-06-19T11:00:32+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "hd2PAYOGhR2f",
+      "title": "AI-generated ads should be exempt from EU transparency rules, retail association says - Reuters",
+      "summary": "AI-generated ads should be exempt from EU transparency rules, retail association says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXBKS05kZkNqTTFaQ2UtbnA4RlJTUWJTMTJ0MkFSVDRPbVlURzVGVXhRQ095V3dCYkFHak9NN3RhNWpxNXROeFBYWUxQTWxyNFhaSFZxOGlaWWRpYS1WWFE5Q1ByUWhnNWd2eTAwVVF2N2YyZFZXbnRFU0tod0ZsdUhZZHU1OHVpb2NKTldXV0RZZk9pN01GNWcxQldkekpza2pub0xKYmlyVlMxdzQyNGFLc1pRdFVOYUZwRjNPbm9iZ0NjTnVERXp2Vm8?oc=5",
+      "date": "2026-06-19T10:44:14+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "sa+9d5eVE19G",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models fo",
+      "link": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "date": "2026-06-19T10:40:24+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -134,6 +218,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "caP0mLif8XYz",
+      "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy - Reuters",
+      "summary": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0M4VXc1UlNSTDdMb2hUNUlobG5ZZ0tiWkZGMTBIUU0wcHJlX2E2T0prU05YcTg3cmI1YlBLOG95NlVPdk5WTGlSSzlfckNPbXl3NF9NTnFsZGw2enBQU1NfeGt1ZkZiZHpoVWhRYjBIQkZyakxESjU1LWVRdk8tTzFlTzdCRHNyRWQ2WUo4b0VKRThMNFZOM19mWW5yd1NmU25ZdDB5bFJPbldsTXZ6a3pxZlFRWWhqclZpbjdHZlIyT25nNnhicXNFNUw?oc=5",
+      "date": "2026-06-19T00:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -262,18 +358,6 @@
       "summary": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
       "date": "2026-06-18T16:20:47+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Rt0SqpcuIBCg",
-      "title": "Space startups seek insurance for orbital AI data centers - Reuters",
-      "summary": "Space startups seek insurance for orbital AI data centers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk16VGo1blRDNzNZNF8zbFVwQzgtazlBQUhGdFR5d1k1ZFZOdkVrWFFPamJzNkc0a2tTMnFzOTdCQlZpVXdlODIxMldQQ29XbWxQbUxzSU9OOTdybWxoRTdrNVpJaXRYY2JPMndhV2tobzhUb1FKa3FLYzBJSlNDQWtCZFlwYXAwSGhEYThkdlhJT3oxdzFxYngzdHMtT1RNb0N5VFNqNTZwTlJkR1E?oc=5",
-      "date": "2026-06-18T16:09:52+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -473,18 +557,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oPXGsjGjk7F+",
-      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "date": "2026-06-18T01:31:23+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "4gdXZO5QZTRW",
       "title": "How to turn off AI in your Google Docs",
       "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
@@ -494,6 +566,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "oPXGsjGjk7F+",
+      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
+      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
+      "date": "2026-06-18T00:25:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -845,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ZlZ/Cmif8UQ7",
-      "title": "Exclusive eBook: How AI is becoming the next military advisor",
-      "summary": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were originally published in MIT Technology Review betwe",
-      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-      "date": "2026-06-16T20:35:02+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "mYrlLxoe4iwN",
       "title": "Tech Life",
       "summary": "The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?",
@@ -914,18 +986,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "eBZVtpIbbmAd",
-      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This man with ALS is the first “power user” of a b",
-      "link": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
-      "date": "2026-06-16T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1085,18 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "f/gb7/MLBiro",
-      "title": "Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart",
-      "summary": "As technology advances quickly, firms should not lose sight of what qualities humans bring to jobsA robot magician called D4YRL was rejected as a member of the Magic Circle last week, for being insuff",
-      "link": "https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk",
-      "date": "2026-06-14T11:03:07+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "VGG3YBCYgl7w",
       "title": "AI 'ghost cases' haunt S. Korean courtrooms - The Korea Herald",
       "summary": "AI 'ghost cases' haunt S. Korean courtrooms&nbsp;&nbsp;The Korea Herald",
@@ -1178,30 +1226,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "9tgNptUKuy7m",
-      "title": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says - South China Morning Post",
-      "summary": "Exclusive | Huawei considering deploying Ascend AI chips in Latin America, cloud chief says&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWZjZGRxaEljQlVVWmJnTm5FTlE2UDhtZktDU2dzOV9CRDFtWEpsQk9ZbTZ5b2xBRk5XeldnUjFGQWVhdXJKRkFIMFdQeHQ1YW9zMmYxd0phTzNmUi1oZVh6RlJRaFp0SF9jMkY1S0RUbEhmdXB0NnVWbjJYSHB5Nng2WmxuMmpDckpmZk13d054dVBFclpQWjVYU0lIRFFBcXF1UGRUTXdONDdaSHBOYWE2UzVyLWhXUjV4TXhsYUjSAcABQVVfeXFMUHFKOUVBZDZ0UjE3N1JpMjhFZ2pnLUk0eTZLN2hSRlpwSldKVGt2V1k0YnJ5WWtuRFJXbG00X0Y3aG1ZUXdVMWhlZ3ZBaVpyZnJfOVBYSEllZHhmbmNQNHlORkxHQnFpLWNIN0FTU2laZGFjSEZDaFEzNlRPa0pNRTZOSWd4TXVjT3RGMkZEQmk3TmdpR3N6SnVVZFFkWVJseUVNbG5hU0M2QzdNb180bXN4dnhmNmJTVzZDNDFQN3dV?oc=5",
-      "date": "2026-06-12T15:37:38+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Edx/hrsMCY7f",
-      "title": "German court holds Google liable for fake AI answers - DW.com",
-      "summary": "German court holds Google liable for fake AI answers&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYkZHWW0wU0tSOUNzdkpwX2tZRzhLS2g1QlRyNmw5RXpGQlg3bTVVYVJXSGtzUmVocU1JVHM4QTNmeFh2bFlvT0pWelBUZURpN2k5VVlYYVlzRlU0bHVKSFJZUDFLb3RsSzZJMm5DUV8yTUVYdmR6bnpERkZqUTFNNEFhcWFRc2ZKamgzelpR?oc=5",
-      "date": "2026-06-12T14:53:22+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
