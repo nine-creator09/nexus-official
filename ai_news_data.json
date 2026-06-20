@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-20T08:54:23.090993+00:00",
-  "articleCount": 103,
+  "generated": "2026-06-20T14:01:09.673818+00:00",
+  "articleCount": 102,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "dw": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "AxNmbf6QkrxA",
+      "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+      "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in futureLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks",
+      "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+      "date": "2026-06-20T11:00:03+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "re9qByxCUhrA",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+      "link": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "date": "2026-06-20T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/gtVFtn9MPP5",
+      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+      "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?It’s 2031 and the US and China are about to tear Europe into pieces.The US plo",
+      "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+      "date": "2026-06-20T09:59:12+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "56wRxRP5yrkm",
+      "title": "Granta stops publishing short story award winners over AI controversy",
+      "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furoreThe prominent literary magazine Granta will no longer publish the winning entries of the an",
+      "link": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+      "date": "2026-06-20T09:00:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "FkKUNmWfthFT",
       "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
@@ -249,7 +297,7 @@
       "title": "US curbs Anthropic AI access, raising global concerns - DW.com",
       "summary": "US curbs Anthropic AI access, raising global concerns&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
-      "date": "2026-06-19T09:53:00+00:00",
+      "date": "2026-06-19T09:25:24+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -291,18 +339,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "rP0sKC339AxK",
-      "title": "China tightens indium export checks as AI demand increases - Reuters",
-      "summary": "China tightens indium export checks as AI demand increases&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
-      "date": "2026-06-19T06:39:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "d/cTt74zc0U5",
@@ -350,18 +386,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "caP0mLif8XYz",
-      "title": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy - Reuters",
-      "summary": "Commonwealth Bank of Australia appoints new CIO, CTO to boost technology, AI strategy&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQV0M4VXc1UlNSTDdMb2hUNUlobG5ZZ0tiWkZGMTBIUU0wcHJlX2E2T0prU05YcTg3cmI1YlBLOG95NlVPdk5WTGlSSzlfckNPbXl3NF9NTnFsZGw2enBQU1NfeGt1ZkZiZHpoVWhRYjBIQkZyakxESjU1LWVRdk8tTzFlTzdCRHNyRWQ2WUo4b0VKRThMNFZOM19mWW5yd1NmU25ZdDB5bFJPbldsTXZ6a3pxZlFRWWhqclZpbjdHZlIyT25nNnhicXNFNUw?oc=5",
-      "date": "2026-06-19T00:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -437,18 +461,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/FXWT6+6EsvC",
-      "title": "AI cuts tech project times from years to months, says Deutsche Bank exec - Reuters",
-      "summary": "AI cuts tech project times from years to months, says Deutsche Bank exec&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzhXVzZqUzl4OHBoUzdiclRYdHhDRVlBYnVQYnFQVkZMdDN1dkFYVTlUQXkxZWUwVHpMb2Ffd3dkT1BkaGU3elRRdmNrNXVyVlNfMk5wQjN5dGRXbFFZMFV4elJBdDZzUUlpR3pPWndKWm8yT1JrX1RLbXVvSVFiUVJ3cDhodWpTWHFuYkx5VUlqN09panIzeXB0bFo5a18yOHdUQnQ0ZmphaEdydTBDYjdNR0o3NUE?oc=5",
-      "date": "2026-06-18T18:58:03+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "fa+MhmTAQFey",
       "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "summary": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters.",
@@ -514,6 +526,18 @@
       "summary": "Japan bank lobby warns of potential service disruptions due to AI-enabled cyberattacks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEsyOXlNZ1hlb2FRM2NxcGVPd3VBYmt2S0pfbmFYZDkxbDVwczZzMkUyWmhIY0J3bGtHVnJMcVppRFFXbExzWXRCYWJzYTIzZklXYmhMSG9qUkJOY3V2WFBIRTVnT1U1NEk4cjVOWmNEMUZ4bnl2YlhZWEJSM3NGQURyMTRwY1g0MkFVMkw1c1lLdHQwaFhPYUVTVC1MYzBVcmtZVENGaWtFNEtEdHVSOUZ6c1AzZFhnN1kxb05XYlBLV2Z3Rl92X19HaWotUQ?oc=5",
       "date": "2026-06-18T16:20:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Rt0SqpcuIBCg",
+      "title": "Space startups seek insurance for orbital AI data centers - Reuters",
+      "summary": "Space startups seek insurance for orbital AI data centers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRk16VGo1blRDNzNZNF8zbFVwQzgtazlBQUhGdFR5d1k1ZFZOdkVrWFFPamJzNkc0a2tTMnFzOTdCQlZpVXdlODIxMldQQ29XbWxQbUxzSU9OOTdybWxoRTdrNVpJaXRYY2JPMndhV2tobzhUb1FKa3FLYzBJSlNDQWtCZFlwYXAwSGhEYThkdlhJT3oxdzFxYngzdHMtT1RNb0N5VFNqNTZwTlJkR1E?oc=5",
+      "date": "2026-06-18T16:09:52+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -665,6 +689,30 @@
       "articleLang": "en"
     },
     {
+      "id": "k6Y0ztlQeZke",
+      "title": "Europe races to close AI gap with the US - DW.com",
+      "summary": "Europe races to close AI gap with the US&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3M1R2Q1ZENfdGxQZHJIZXlFb0NEVExUVm5aTjc3aVlXUjk4VkRVTVNqNlVFaXJfTDBkMmpZdENRTGFVbE9pb2x5Ull1THZiY3VOTF9RMGVJa1ZVcERJd1JNZnRLRGRrMDM5bS1Gc3NDZjBSdVhYdVdkWXhWYTlFeEQ4SUh2WXIzR1E0blBjdE1ubknSAZMBQVVfeXFMTmUyOVUwblB1OWJ0dy1sbVNRYzRjU0ktQUgwUHlESE5BSF94WTViTmh4SlR3d2NjR0o2MkhKUFlSeVE0c0c2cEMyU1NIbkQ3SnEzU2hYZlMzanVrR24xMVQteTVLU2tzdDl2RVdUZjJoLXZBOTZLWmVPVV96UGNfZHFIOS01TGJ4dE44WC1sUjBxT1lZ?oc=5",
+      "date": "2026-06-18T07:00:00+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "VavyNZYuKWdn",
+      "title": "The future of AI may be small, cheap and unprofitable - Reuters",
+      "summary": "The future of AI may be small, cheap and unprofitable&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGlBclJKdDc2ZHlidjJjT1VlLW1QYzNZNVpjMG1ySjNtcTdHcmhHUWVOOUc4Z3htYjBxYWNkbGJ5dFVaTzBDLUFKZ1JKQ1g5d3BfbEJIb1FLT2Z1ek1GUDlBYl9sei11My1tZ2loSVlXTzlucXZRajhSY1RXdVR1YlFKWUpUdkxTeWtDQ1U4SzdjenQtSUQ4cGNjVXdZTHlXSFNHT3NtQW5xckhJT3Bv?oc=5",
+      "date": "2026-06-18T06:08:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "dOkf/16Sfdob",
       "title": "Samsung leans on AI, cost cutting to revive consumer business - The Korea Herald",
       "summary": "Samsung leans on AI, cost cutting to revive consumer business&nbsp;&nbsp;The Korea Herald",
@@ -698,18 +746,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "oPXGsjGjk7F+",
-      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "date": "2026-06-18T00:25:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -917,6 +953,18 @@
       "articleLang": "en"
     },
     {
+      "id": "korf0Z60cbBC",
+      "title": "AI use in UK hits 'tipping point' as companies scale up, Google exec says - Reuters",
+      "summary": "AI use in UK hits 'tipping point' as companies scale up, Google exec says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV1ZRSzNmOHY5Y2xFaGUxbDIxT3QtTHhCOUpqSmhCM0hURkU1cjJIYzZ1WmhEemdXY3NBOXR0VllTQWo3dWRTMGZ2QXpnbllsYXlYZkJ2U0U2Zzh6VzdaQzNFcWhRYXBsNnFqQnhxdnNiNWdyRFlObE91dTQtSV9yT2o2QTlzeUxTR0lYT29TQVY2STE5NUNva0pENXZkQkhwSmNCMFVZY3U5VV8tWGc?oc=5",
+      "date": "2026-06-17T11:15:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "Ahu2g2MGWKgM",
       "title": "Europe frets about US AI as tech world flocks to France for G7, VivaTech - Reuters",
       "summary": "Europe frets about US AI as tech world flocks to France for G7, VivaTech&nbsp;&nbsp;Reuters",
@@ -1028,7 +1076,7 @@
       "id": "mYrlLxoe4iwN",
       "title": "Tech Life",
       "summary": "The prompt that made ChatGPT generate disturbing images. What does this tell us about AI?",
-      "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_americas?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy0?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-16T19:30:00+00:00",
       "source": "BBC Technology",
       "key": "bbc",
@@ -1046,18 +1094,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "8HkzdU6dStRs",
-      "title": "‘Dangerous’ AI Models Are Coming No Matter What",
-      "summary": "The US government crackdown on Anthropic’s Claude Fable 5 and Mythos 5 hides a glaring truth: AI models with advanced hacking capabilities will soon be the norm.",
-      "link": "https://www.wired.com/story/dangerous-ai-models-are-coming-no-matter-what/",
-      "date": "2026-06-16T17:50:52+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1109,18 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "varYkYt3qf5v",
-      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
-      "date": "2026-06-16T07:08:15+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "BZKPFJGFr9q+",
       "title": "Alibaba eyes physical world with its first suite of AI models for robots - South China Morning Post",
       "summary": "Alibaba eyes physical world with its first suite of AI models for robots&nbsp;&nbsp;South China Morning Post",
@@ -1157,6 +1181,18 @@
       "articleLang": "en"
     },
     {
+      "id": "varYkYt3qf5v",
+      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
+      "date": "2026-06-15T17:41:22+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "gdSJJbgZx5WL",
       "title": "Strategic change management in the age of generative AI - Reuters",
       "summary": "Strategic change management in the age of generative AI&nbsp;&nbsp;Reuters",
@@ -1166,30 +1202,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "rh+gd2vg0o5R",
-      "title": "AI use by the US government is ballooning. And the lack of transparency is troubling | Nathan E Sanders and Bruce Schneier",
-      "summary": "The list of government AI use cases has ballooned by 70% since Biden left office and includes many plans to hand over sensitive governmental functions to AIOn 14 April, the Trump administration quietl",
-      "link": "https://www.theguardian.com/commentisfree/2026/jun/15/ai-use-by-the-us-government-is-ballooning-and-the-lack-of-transparency-is-troubling",
-      "date": "2026-06-15T12:00:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "iBFcYq0flU3u",
-      "title": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
-      "summary": "Liberal MP says Australia risks sovereignty and strategic independence being ‘constrained by the AI superpowers reshaping the global order’Get our breaking news email, free app or daily news podcastLi",
-      "link": "https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia",
-      "date": "2026-06-15T08:30:07+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1274,30 +1286,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "hafxuTzP5PN8",
-      "title": "Anthropic disables access to top-tier AI models after US ban on foreign use - France 24",
-      "summary": "Anthropic disables access to top-tier AI models after US ban on foreign use&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZWdMbUNaYnZtMlRLYnRrZGR4RkRuLV82TndiMF93dWFudDFHSERrZzhtSXpoUFdGWnVuX3BfNFFZaW5FMjhOSEVPN292c1Y0VHI4cXIyNncwS2laOEhrOHlCXzFidTJKenVNZG52TDRybGtDcVhxU2JGZWtZLUpMSG5rLVR6U0ZsOTB3eXhvdGtObklNRkVyaGY0T21kcy1aUmllZlJvb1BLNFUtd09IU2dIY2tteTMtNkU2ZXdB?oc=5",
-      "date": "2026-06-13T13:42:42+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "kLzQoRWy9+D5",
-      "title": "Anthropic cuts top-tier AI access after US foreigner ban - DW.com",
-      "summary": "Anthropic cuts top-tier AI access after US foreigner ban&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWWVnN0FCeWUwZThwV2pob3RhOWZscXhGNUdGRzRDT21EQkhiNDNvZkVCc01rNWRsM0FyX09PcnRtN3ZLbjU1WVNObUs5RUs3bmw4dXQ5Ukw0eXB0cHVndGQxRU9XT2RiS1puWF9kbUpzNnBZRElST2ZZUWZHN0JidVhGVldlWVVNZ254OVJpZ1ZiMWPSAZMBQVVfeXFMTU5fdTdMSWEwWml1TGRXTzdxOXdDVGpsTnV2VE9fdXNpM3VEVnI4MjlqWDNobmphcTFRQUkxdlFxOVpsLUpJTDZQbkotVjhnUjNnZnRZMFplWHVhN0tQT3FUc0Fmem1oZm4zWUY3ZG5kUXVpQm0yUW5tLWtvU1huRmp2eTZkQzkwdjZVcDFKS2hIS3A4?oc=5",
-      "date": "2026-06-13T09:46:05+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
