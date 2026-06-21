@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-21T04:07:44.683753+00:00",
+  "generated": "2026-06-21T09:48:19.986019+00:00",
   "articleCount": 101,
   "sourceResults": {
     "verge": {
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "guardian": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "reuters": {
       "status": "ok",
@@ -65,23 +65,35 @@
   },
   "articles": [
     {
+      "id": "Mu+B2mqXbgvV",
+      "title": "Brands using AI-generated influencers to promote products on social media",
+      "summary": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparencyBrands promoting their products online are quietly deploying AI-generated influencers on",
+      "link": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+      "date": "2026-06-21T06:00:23+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TuVCr26oSSLq",
+      "title": "Japan confronts the dark side of its teenagers’ AI addiction - South China Morning Post",
+      "summary": "Japan confronts the dark side of its teenagers’ AI addiction&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXdGTDZCWV91cTVndFFvRG9iYVdTQVRyWThqVnVYX1J3UWRQUG16Zm9FWnVUVE40SzlHaHJEMmxQTXhRRlNsY1F4TUN4enlZMGl0YWlqblNrdE9Scm5MV1RpLXNKa1hiY2REbkRxSmprdHRXSFRCN2lIbm1kZm50Zmxmc1R4NXp6R201UklmaXFQV01FWVdZQ09PSDhLYU5aaXFsTG1BaU50cC16S2xwOGg0dy1fN3F60gG4AUFVX3lxTE9tNjNMMjRIOXJ5M3VFbXJNZ1BLUEFoRGVOODlzSEExU0VRQl90VzAyWWlsc1FSS2NtQ2FjUVFMQ0pkR3h1TGlhOWZtcVlKR1RrYWVvelNESEU2UEVRM1I0RWNVVnZkWERBUXZoaGZWUkZzTnhxR0xyd2UxeEFZMk5mYmV2SktoSlExbDloZmpRdW9sRlRGWllzQmRHTTBGOGFEclhoOUE4cVBSWXg4WEJVZEF4Z0laVmw?oc=5",
+      "date": "2026-06-21T00:00:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "8KO9LfQn1DYV",
       "title": "Why an AI company cleaned my New York City apartment for free",
       "summary": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
       "link": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
       "date": "2026-06-20T23:18:55+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "gMlcaccMZzfr",
-      "title": "Why the social media ban is about so much more than social media",
-      "summary": "If we are witnessing a profound shift in the online space, how will it reshape our relationship with it? Technology and AI editor Zoe Kleinman writes.",
-      "link": "https://www.bbc.com/news/articles/c1jy512r19ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-20T23:18:12+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
@@ -389,6 +401,18 @@
       "articleLang": "en"
     },
     {
+      "id": "rP0sKC339AxK",
+      "title": "China tightens indium export checks as AI demand increases - Reuters",
+      "summary": "China tightens indium export checks as AI demand increases&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
+      "date": "2026-06-19T08:21:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "MOQPGnYDzccK",
       "title": "理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？",
       "summary": "理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。",
@@ -542,6 +566,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/FXWT6+6EsvC",
+      "title": "AI cuts tech project times from years to months, says Deutsche Bank exec - Reuters",
+      "summary": "AI cuts tech project times from years to months, says Deutsche Bank exec&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONzhXVzZqUzl4OHBoUzdiclRYdHhDRVlBYnVQYnFQVkZMdDN1dkFYVTlUQXkxZWUwVHpMb2Ffd3dkT1BkaGU3elRRdmNrNXVyVlNfMk5wQjN5dGRXbFFZMFV4elJBdDZzUUlpR3pPWndKWm8yT1JrX1RLbXVvSVFiUVJ3cDhodWpTWHFuYkx5VUlqN09panIzeXB0bFo5a18yOHdUQnQ0ZmphaEdydTBDYjdNR0o3NUE?oc=5",
+      "date": "2026-06-18T18:58:03+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -773,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VavyNZYuKWdn",
-      "title": "The future of AI may be small, cheap and unprofitable - Reuters",
-      "summary": "The future of AI may be small, cheap and unprofitable&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGlBclJKdDc2ZHlidjJjT1VlLW1QYzNZNVpjMG1ySjNtcTdHcmhHUWVOOUc4Z3htYjBxYWNkbGJ5dFVaTzBDLUFKZ1JKQ1g5d3BfbEJIb1FLT2Z1ek1GUDlBYl9sei11My1tZ2loSVlXTzlucXZRajhSY1RXdVR1YlFKWUpUdkxTeWtDQ1U4SzdjenQtSUQ4cGNjVXdZTHlXSFNHT3NtQW5xckhJT3Bv?oc=5",
-      "date": "2026-06-18T06:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "dOkf/16Sfdob",
       "title": "Samsung leans on AI, cost cutting to revive consumer business - The Korea Herald",
       "summary": "Samsung leans on AI, cost cutting to revive consumer business&nbsp;&nbsp;The Korea Herald",
@@ -890,18 +914,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "FGDL37UtIb+B",
-      "title": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says - Reuters",
-      "summary": "In US, EU mutual interest for Europe to use best AI models, von der Leyen says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGVHazhxdWV0VUU0S2NidTVqMjBoZ0FzNXd5bTd4c0QwOFVibUxhWS1nQ1gwNTd0QlE3ZFVjdjFiWmFIZmhybktMZW00SFMxbXliN3p2Z2lNTGZlaWhmdTd6dzc1b3BTMEtwd1h2WHpEWXVWWDF1QW5LVjhQeFlubFoyZXd3SzMtVVlGbDk3MllBdDZLOUd1d0xiZUpQQk9VXy1iU0p6OW5NMEEy?oc=5",
-      "date": "2026-06-17T18:12:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1178,18 +1190,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "QUD2lQ6PYX5J",
-      "title": "AI could help win ‘race against extinction’ of vital plants, say botanists",
-      "summary": "Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi dataThe rise of AI and digitisation could be a turning point in the “race against extinction” faced by bot",
-      "link": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
-      "date": "2026-06-16T06:00:48+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
