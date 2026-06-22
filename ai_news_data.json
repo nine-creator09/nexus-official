@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-21T19:28:22.377777+00:00",
-  "articleCount": 100,
+  "generated": "2026-06-22T04:08:21.559628+00:00",
+  "articleCount": 97,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,42 @@
     }
   },
   "articles": [
+    {
+      "id": "Ks+aaIKlK9Cj",
+      "title": "Sakana AI、一部「ミュトス越えの性能」うたうAIを提供　複数モデルの“集合知”を活用",
+      "summary": "Sakana AIは、複数のAIモデルを組み合わせてタスクをこなすAIシステム「Sakana Fugu」の提供を始めると発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/22/2000000111/",
+      "date": "2026-06-22T01:48:32+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "AxNmbf6QkrxA",
+      "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+      "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in futureLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks",
+      "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+      "date": "2026-06-21T23:02:43+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "0nnAdi9T9OL9",
+      "title": "AI scandal rocks the German media - dw.com",
+      "summary": "AI scandal rocks the German media&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10dl9ackpxU0RaM1l1NkQtRFZPOVZuaE5GMVRPOWVvN1lTekU4SGM0RTNNYTB6RVJyLXl1V0lST2d4djVrUGlaVVliXzA2blhYVTZvNlNtbXI2eVJLZGF5MlRweVpqMUFkT20tXzFrWjJOdnRm0gF0QVVfeXFMT2l0SnVwNjA0eGpCWVZKOGU5MXlVeHNSdGtTV2poeEdxU3hoNmM5MFNRSkZFQ3NQOVJyWUJkeWc1SVN5RW41MWl6V3RlRkdaLVlIOWIwMmhNV0FJWXUzc3ROZHpIT1lpcnQzVUZ3cHFMcXk3X0I?oc=5",
+      "date": "2026-06-21T17:40:32+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
     {
       "id": "qHtIbfYFATKA",
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -89,6 +125,18 @@
       "articleLang": "en"
     },
     {
+      "id": "bXuFJUtaUTX2",
+      "title": "Will China’s AI-powered agribots repeat its EV success story? - South China Morning Post",
+      "summary": "Will China’s AI-powered agribots repeat its EV success story?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkZQa1AzRG9qcVhPTF9vbHRGRWc5YURaYW5JVlhFdW5FSTRJOGVXNm93NDV0WHBhVFJsUmQ5a0s4dUtVbUxZdjlid1JjSDNZbXdybUNKM19MYXVCbzRfc1N0bXN1WXRMVlVZajFjYmNvQk5MQ3g5WmdJNG1KeFg5Ykh5bWpEVEJsRl9sU25OWFlIbGwtejlCT0J6Zld4LXVUSkRrUHFnc9IBpwFBVV95cUxOUUc4U19URE9ydnc5UEpCNnJ3UEt0cXh5cFpLM1VtSFpOd1hQZEJDbnVTd0k2T1RJLXpSazRla0R5LWltWks0aWJtN3B6VGdBa2RiclBHRTV0eWxadGxWRVhqR2MzMHluRXk5OHZpTU1ObUpwRVdfeU1Fcm5zdG9oR3FaeVFrN1Z5UUU2aEhrRy0zWkVuTWpzZTFVbTJ5akN4cjRIeWhOQQ?oc=5",
+      "date": "2026-06-21T13:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "o+XlE9jzl+c3",
       "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
       "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
@@ -110,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "r18ed2b5vRDV",
+      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
+      "summary": "Trump tells Axios he no longer views Anthropic as national security threat&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
+      "date": "2026-06-21T04:11:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -185,18 +245,6 @@
       "articleLang": "en"
     },
     {
-      "id": "AxNmbf6QkrxA",
-      "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
-      "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in futureLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks",
-      "link": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-      "date": "2026-06-20T11:00:03+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "re9qByxCUhrA",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
       "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
@@ -254,18 +302,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "r18ed2b5vRDV",
-      "title": "Trump tells Axios he no longer views Anthropic as national security threat - Reuters",
-      "summary": "Trump tells Axios he no longer views Anthropic as national security threat&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzlsZDZoSlNFS3NKdk1pblgwRGRDNzMwNXRmZjJzR1M1SmlBMWU1aWY1cFoxSG5uQkpib1VyZ29mdC1lSWNfdHBTVGxJeXZkc2Y2bUUzUktqd0ZjSEdxTHJMTy1ZWHExQ3dnT1NBMlA2dzJCc0hwSjEzdE83UHA5eTE1anFqeERoM3lQeTIzZ2EwVzIzYzE0Rmtrbm96elZCa01rYTJ2dDh4b3VoWmhNNE9PZklzRE0?oc=5",
-      "date": "2026-06-19T19:55:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -341,8 +377,8 @@
       "articleLang": "en"
     },
     {
-      "id": "hxRfpbKEzWJs",
-      "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
+      "id": "D46Q1q/ApGJ+",
+      "title": "The CEO of Allbirds’ new AI biz has a plan. Now she needs a “brand-new team”",
       "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
       "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "date": "2026-06-19T13:00:00+00:00",
@@ -413,9 +449,21 @@
       "articleLang": "en"
     },
     {
-      "id": "QAb2wuuGjVu6",
-      "title": "US curbs Anthropic AI access, raising global concerns - DW.com",
-      "summary": "US curbs Anthropic AI access, raising global concerns&nbsp;&nbsp;DW.com",
+      "id": "U9Ee2bU7lMdF",
+      "title": "Wall St Week Ahead Investors see Micron earnings as pulse check of AI rally momentum - Reuters",
+      "summary": "Wall St Week Ahead Investors see Micron earnings as pulse check of AI rally momentum&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdnV3ci1pOWNMTTVNMmJCdnNUd0FoNktlcWdWZ2ZpMHEwWGdaSXZUNWpBa093RGlDN1pMdjBFNVZybUN0NUVrSWo5cVpjRm0ySG9UcUk5dW10akRXamNuUXBDamsyM3RQRDFIUEE4S0Vvd0ltd3BVQnBCSVY5WFRDazVXOG5HaW9CZ3RqQTNzcGI2TE9rNTc1ZGg2UGNCaE5QelNmWjhfTU83OHZkc1U3R0ZsQlczR0JmR2otV2dkYVQtM241M2FXbHJmRQ?oc=5",
+      "date": "2026-06-19T10:03:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "/lkVNlBZvCm3",
+      "title": "US curbs Anthropic AI access, raising global concerns - dw.com",
+      "summary": "US curbs Anthropic AI access, raising global concerns&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
       "date": "2026-06-19T09:25:24+00:00",
       "source": "DW Tech",
@@ -434,18 +482,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "rP0sKC339AxK",
-      "title": "China tightens indium export checks as AI demand increases - Reuters",
-      "summary": "China tightens indium export checks as AI demand increases&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
-      "date": "2026-06-19T08:21:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -471,6 +507,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "rP0sKC339AxK",
+      "title": "China tightens indium export checks as AI demand increases - Reuters",
+      "summary": "China tightens indium export checks as AI demand increases&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkk1QUdvSW53RlVYM3prTVFxMmpkdlNfUUdrY3RsUDJtY09iSmxqV3ZlWTBjdHNjTkczZHhtVlJYNkVQZFEtOW1UWXM5Y2NRbmlibG9wNV9MS2ozeTZvYWQzX3ZsZGxBU1ZHeHNFUWFfNGlvTktaN2FYNk10T2dhSHVmeVctSXl3MEh3cGo3SmI3a0VrWWFNTjVzbzRLYUFQYjJsMUFB?oc=5",
+      "date": "2026-06-19T06:39:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "d/cTt74zc0U5",
@@ -567,18 +615,6 @@
       "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "VhEe25UCk7o2",
-      "title": "話題の「Claude Mythos」登場で変わるセキュリティ　AIエージェント時代の防衛策",
-      "summary": "AIによる攻撃が、月単位から時間単位で現実化する可能性が高まっている。最新AIモデルの登場で脆弱性発見の能力が広がる一方、企業ではAI利用のルールや管理体制が追い付いていない。AIエージェント時代に求められる新たな防衛策とは何か。",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2606/19/news009.html",
-      "date": "2026-06-18T21:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "klW4Zls8X0Ka",
@@ -761,18 +797,6 @@
       "articleLang": "en"
     },
     {
-      "id": "K/68TB76WM7q",
-      "title": "【復旧済み】「Claude」が使いにくい状態に　「動かない」「落ちた？」などの声相次ぐ",
-      "summary": "",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/18/2000000104/",
-      "date": "2026-06-18T09:08:25+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "edX5l60OYAyf",
       "title": "China announces measures to promote AI integration with consumption - Reuters",
       "summary": "China announces measures to promote AI integration with consumption&nbsp;&nbsp;Reuters",
@@ -809,18 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VavyNZYuKWdn",
-      "title": "The future of AI may be small, cheap and unprofitable - Reuters",
-      "summary": "The future of AI may be small, cheap and unprofitable&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGlBclJKdDc2ZHlidjJjT1VlLW1QYzNZNVpjMG1ySjNtcTdHcmhHUWVOOUc4Z3htYjBxYWNkbGJ5dFVaTzBDLUFKZ1JKQ1g5d3BfbEJIb1FLT2Z1ek1GUDlBYl9sei11My1tZ2loSVlXTzlucXZRajhSY1RXdVR1YlFKWUpUdkxTeWtDQ1U4SzdjenQtSUQ4cGNjVXdZTHlXSFNHT3NtQW5xckhJT3Bv?oc=5",
-      "date": "2026-06-18T06:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "dOkf/16Sfdob",
       "title": "Samsung leans on AI, cost cutting to revive consumer business - The Korea Herald",
       "summary": "Samsung leans on AI, cost cutting to revive consumer business&nbsp;&nbsp;The Korea Herald",
@@ -830,18 +842,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "EtW8Tp8AskQs",
-      "title": "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports - Reuters",
-      "summary": "JPMorgan blocks Anthropic AI access for Hong Kong staff, FT reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeUhiLUtYSW1LRVJHVXZ1ZDRpWFdCZEE1amwtMzc1dGN5TVpYNGF4Mkl6RGNXSEtJXzhfNktjcVUyVzYtUXVLMFpDSnJVNElQd3BtNUtTQ2hhcjFXZENITlhFOXUxQ1JZZlJ5UmJ4cGZhUlpHU1RnT3lIeVROUG1ESS1NM1pkSnFpNTV4Q29OWkpIQ3NfbmZ5TnVudmVVYi1kaDNmVjJkS085V1paQV9zeXFUYzBNRmVrNmhPMXZ4eGloZw?oc=5",
-      "date": "2026-06-18T04:15:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -855,30 +855,6 @@
       "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "oPXGsjGjk7F+",
-      "title": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI - Reuters",
-      "summary": "Google Gemini co-lead Noam Shazeer to join IPO-bound OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemVwWFJONmZvSG9PMVNrWHpkcUdPY0ZxY21jUkN5cmV3WTgwbS1GYlFvYW5hN3ZDVzhHeFlJME1iRTA4THNZb3JDNWlZMEJ5VFctSDJXQ1l4b3k3YVJaTzQzVTJVSVZqNE9LckJ5S2JZdjNHS1NIWVNwbzhJVHNqdFU4dS1CcG8wTGU2d0JqSFlFZzJiOWV1bjd3?oc=5",
-      "date": "2026-06-18T00:25:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "oyJhEYpN7pLW",
-      "title": "「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析",
-      "summary": "コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力向上を担当するNTT人間情報研究所の風戸広史さんが解説した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/18/news038.html",
-      "date": "2026-06-17T23:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "ciZZwbjQZIWG",
@@ -1205,9 +1181,9 @@
       "articleLang": "en"
     },
     {
-      "id": "varYkYt3qf5v",
-      "title": "G7: Leaders discuss economy, AI security risks - DW.com",
-      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;DW.com",
+      "id": "hToaUVxC7Ava",
+      "title": "G7: Leaders discuss economy, AI security risks - dw.com",
+      "summary": "G7: Leaders discuss economy, AI security risks&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQME93ajFETC1WOFlwaW9zejdDTl9oelBUNVdQSC1BX1c5cFk3VFpMc3NHa0hOckRpbG5TcGJXRWpCZGNHMTkzSFBDLUxCV0EwRGllQ29NTDl2bDNnTU5VRzR5ZG9JZWNidjN1ZFl4aHlkaUJrRjl3WG5QWDNQOWJqVjRYN0ozcEk?oc=5",
       "date": "2026-06-15T17:41:22+00:00",
       "source": "DW Tech",
@@ -1246,18 +1222,6 @@
       "summary": "Zhipu AI’s stock rockets after Chinese firm launches GLM-5.2 model&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNnJfNlFpLVNhV3BhaEF3UHpQa3UzdW1zWmpXLTNrT0dvOG5qeFdQTXZkcDd6c0VuMF9HanozaWh3d09FUE11bXBwTjNyV2h5bFp5NHhJc0w5dUxEaTVpYTRzT215VE1tQ0JISkhhRl9vaWVIdjlGY1M3R1dNT0JVM3NrbWpQdlpJQ1VLVFliSmVKMHUzSFg4dWNPSFdIUWhqZ0FXQ3hqbkJOaDJZOUhwYlZxTEJOZnhGTEYtakdn0gG-AUFVX3lxTE5LWGxNWVhveEZfUTVVUDFWUFN5YUU2a0wxMUoyZk56ak5KT3JiTlk1Q21DR0dEcEdURlZnMjBTLWlIdHd2RkczYmxLa3VSSDdWNzVKVUUyRWJGa25BMFVuRm1PNFR5LUhxYjdFQlhjU1lTODl5cEx2bnE2NE5IQkxhZkpiOFY0NnAzdHdXTjZ4YjdYMFR1SVQ5YWNJUjFfcVJjeUFBNm4wTFU4LVFxb1RsYkhHQ282MzZiM21pZXc?oc=5",
       "date": "2026-06-15T04:51:33+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "v749gfpA94F3",
-      "title": "How massive AI-driven demand for MLCCs triggered a supply bottleneck - South China Morning Post",
-      "summary": "How massive AI-driven demand for MLCCs triggered a supply bottleneck&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb1Q2MzhjSGdwTFBIMEVpZ3pPVU1BNHdZS3p4Z0lMS2NXTWExQnZ5LTc2dzVNS3llaUkzSlVtV3k5bVdaX1BfS2NlenpRTnBQUDJFX0hSck9PaG93Wlh5dzl4OF9MNWdIakE2QTV6OGdmb0p4U09zbF9wNmxMWDR6N0RzOFU3dFh3X1F5b0dPcVFwYU5aYU0wT19rUFl6VDRDSi1mdkd1UEtrU3c3aEJhOXBjWTV1ZlZlTW9QcHUxc9IBvwFBVV95cUxPMUZmTGN1WE1DOXpBQTlyMW5nNk9EUWJ4SkktdDE0VGliSU9kamZrQ2t0dXpVZXB1eTBZaDRWYXJqZXZyWWRHMmN0Y3JTNzNZbHUxelhQcVdUOGN6aVNRQjFxY05JYmZWeUEzcGJtLTdJR29RbWJrcF9fTEdwc0d1eEFZTFU1Szg4VGtKVjNmM1NNY3ZZcDNic1Q4NjJQeHpxQ2VDdUxiUmdxcl9yWkNBUWFpX1loSG05SVVDelNNOA?oc=5",
-      "date": "2026-06-15T02:00:12+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
