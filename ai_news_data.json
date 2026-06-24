@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T09:27:13.934793+00:00",
+  "generated": "2026-06-24T14:27:02.397312+00:00",
   "articleCount": 104,
   "sourceResults": {
     "verge": {
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "mit": {
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     "ars": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "dw": {
       "status": "ok",
@@ -65,6 +65,90 @@
   },
   "articles": [
     {
+      "id": "1b9RO4TgEeRw",
+      "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+      "summary": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+      "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+      "date": "2026-06-24T12:36:07+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "phgDHpH36HpJ",
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now, the payment com",
+      "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "date": "2026-06-24T12:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "uIzW+fSQfzlP",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "summary": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or unstru",
+      "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+      "date": "2026-06-24T11:59:54+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "tJRjuMsJLgos",
+      "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+      "summary": "About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen contentMark Zuckerberg’s Meta has paused a program that tracked employees’ computer act",
+      "link": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+      "date": "2026-06-24T11:38:33+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1PpzFmLy48Cz",
+      "title": "「Transformerの最大475倍」　富士通、GPUを効率的に使うLLMアーキテクチャ「PHOTON」開発",
+      "summary": "富士通が、大規模言語モデル（LLM）を少ないGPUで動かせる新アーキテクチャ「PHOTON」（フォトン）を開発した。GPU当たりの処理性能（スループット）が、現在のLLMで主流のアーキテクチャ「Transformer」の最大475倍に達するという。LLMの運用に必要なGPUを抑え、大幅なコスト削減につなげられるとしている。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/24/2000000125/",
+      "date": "2026-06-24T10:54:58+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "g0dSwxPVoZxC",
+      "title": "If an AI chatbot misleads you, who is to blame? | Bruce Schneier and Nathan E Sanders",
+      "summary": "A court in Germany found that Google was responsible for what its chatbots say in search summaries. This is the accountability we needEarlier this month, a German court ruled that Google is liable for",
+      "link": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
+      "date": "2026-06-24T10:00:41+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZMN4Yhqxcn0m",
+      "title": "Fewer job offers for junior roles due to AI, Swiss study shows - Reuters",
+      "summary": "Fewer job offers for junior roles due to AI, Swiss study shows&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT1dsOTNpcktQTmVkdS03LUoxd0lDbDJJLU1jN2hmRVd2WDN6QU1ieVEwbkU4SmN1OHkxc3VrbnhBWF9uWUNWREFiZlc1YllXbTJWbmIwYll0WkV0MmozWlRqRXRLX1dveU8xdjdUZFQwdllQVVU1MngtdTdJT0hmczQxWTNFcGV5VEhteXhvblJyaXltTThrSkZrZ1loLUli?oc=5",
+      "date": "2026-06-24T09:51:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "DEtEcBvfh+Dz",
       "title": "‘You can’t make billions without hurting people’: Cory Doctorow on Elon Musk, the AI bubble and bosses’ cruel fantasies",
       "summary": "The writer who coined the word ‘enshittification’ tells us why AI will never deliver what it promises – and why it still appeals so much to those in powerA “centaur”, in automation theory, is a person",
@@ -74,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "uMmId93u3qng",
+      "title": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says - Reuters",
+      "summary": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlJuaTlwckx6Y2xwSWhGUXhKaEYteS1FVmhQRlJMdEQ5QjJIR3piTHhTWlpNMnp2NnhWVk1iSHozUDFQVExzNHgzRHk0cTlTSUJsdTYtdUY0Z2RjVWJzX0R2VE9CTGczOHdBSnB1RzVvc1lVeFI2dXZzT2hjSFNJNFNRU1BpTFZOdnRrdUM3bjlkY3lmMFFqRWdkaFM1RjNuWW1wZ2I0UkVVUDRhUXRkTjZHZWxxQVpKNzZDNU80bWtwYVZsS3ktTmJKLVFpakVYQWc?oc=5",
+      "date": "2026-06-24T06:58:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -233,6 +329,30 @@
       "articleLang": "en"
     },
     {
+      "id": "hps8Opu/asGD",
+      "title": "Judge allows US search warrant targeting executive's AI chatbot records - Reuters",
+      "summary": "Judge allows US search warrant targeting executive's AI chatbot records&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeU4xY3NnSWNjaUFUTVZra2xZVXBlNUdXVFQ3WEY2QlZNWjgzTno3dDV1NGtyMkdNSHRjTjR2VVp3QmJIdkJoemNYV3NQZGVLTDNXZUZiZk1VRTRCdzE2LVFjTXBjOFQzTkg3d2xkdWJNNDBKblNhc1NvMU1Pb0psZWtIODY2UmR3MjZfQS12MW1zMGZIbkdIajNiVWwwUXhJczJ3RldzWWRldWZkV3lVYWNjWGhCUkZqVHNsWm1hUTM?oc=5",
+      "date": "2026-06-23T20:31:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ocyNpMIh0JsD",
+      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
+      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
+      "date": "2026-06-23T19:10:31+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "R++uVJFTlGOL",
       "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout - Reuters",
       "summary": "Anthropic launches Claude Tag in Slack with plans for wider rollout&nbsp;&nbsp;Reuters",
@@ -281,6 +401,18 @@
       "articleLang": "en"
     },
     {
+      "id": "pRBCbK9vkUd+",
+      "title": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports - Reuters",
+      "summary": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlFYemJDZkZXdzVMclVLNGRVd0pfOHltVVo1azAxTUJ4ajI5ay1Db2w2aEZKR2pwbUM0XzlxWHR1VWQ0MjNJSkRLY0huVmQ1U0kwMTNkaGNOZThtZlJKRGRYMGJ3UnlscWNldzlDZjNuT2pPYUlPVWFQVEI2RDEzdGw5R285dE5oSVA1X184WDBhWVFNSnk2RVR3VUJ0TVhwYUNtc3o3cFByalBlT0tBWlg3bTRVaWxSa1RQRw?oc=5",
+      "date": "2026-06-23T16:23:51+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "znBdH7gYe8Cb",
       "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
       "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat",
@@ -290,30 +422,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "BfbkFSqMYZo4",
-      "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
-      "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5",
-      "date": "2026-06-23T15:27:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "BYMqvazIu1Zf",
-      "title": "Nvidia sued by music company Jamendo over AI training - Reuters",
-      "summary": "Nvidia sued by music company Jamendo over AI training&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0hKV1h1N29RbUlmUzdLMW80eWxDZGRNTVFVMk16SW95YXhHUW1hbngxUzV5M0RFVVRGNEZRNWpfaVhPNVlDMHE3bEg5Y2JzYUtCcGFJc0o3NTlITTB2ZDZfTXg4eFB2cDhrVExialJzTnFmUjBHTHN0U05TZFpKb0ZVZTQwTzBGU1F0NThDS1Q3ZHVRZkdKSzFlQnpUbWtXMHdkbklWTDhkRUotdkE?oc=5",
-      "date": "2026-06-23T15:25:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -521,18 +629,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VsyOjc/JZJT5",
-      "title": "AI導入を阻む「現状維持志向」は打破できるか　OpenAI・Anthropicの「業務現場支援」が与える影響",
-      "summary": "ノークリサーチは、OpenAIの「Deploy Co」やAnthropicの新会社設立が日本のSIerビジネスに与える影響を分析したレポートを発表した。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/23/news069.html",
-      "date": "2026-06-23T04:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "XLTXbtTdDFMR",
       "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet - Reuters",
       "summary": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet&nbsp;&nbsp;Reuters",
@@ -617,6 +713,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BfbkFSqMYZo4",
+      "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
+      "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOT0Q1Q0VWQXB6VW9zT2xtZElHMXV6d1pmZjdVZW14Y0o4MnU1T1JrMHNFbG41dEdYWFZsRllYeGlOdy1iaUxnWGd2VnFJblJ3RmFXWVNpODBRVHVNWE5NbF9Idm5tMnlTcUFNNVRKMjVXNkF6eVQwYzQzaDdHdllBcmhUVlFDMWhCM2xLTEpra3VsWjhaalRFTnZfcGM3bFhUVDlqdzFmMjNRbkF1Tk9Sb0lMNThKR0tIZnEydkEwUTZOMTg?oc=5",
+      "date": "2026-06-22T21:13:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "XFYQInHHC2qj",
       "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
       "summary": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’An artificial intelligence law firm has won a case in an English court, in what is believe",
@@ -638,18 +746,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ocyNpMIh0JsD",
-      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption - Reuters",
-      "summary": "Oracle workforce shrinks by about 21,000 employees amid AI adoption&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU0xZSHdqTkZTenRqaEM4VEFGbmRPYndlel94bldUTXlFUHJnZV9BRHFja0QyZThTV1JrbFJLNFZiaDZubnBGMWlmUEZJd3p1eTI5dkRialdHUmNpZkctdWxRVGJCLUlIaVlGZXpXeDRYWm1ucE9xbENVcWRINTBacU5oanJ5SGZZQm9rd3FHWkFzOXBvdUFQWDFPNA?oc=5",
-      "date": "2026-06-22T20:44:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -857,27 +953,15 @@
       "articleLang": "en"
     },
     {
-      "id": "6p94fWobQWvN",
-      "title": "Germany's media rocked by AI scandal - DW.com",
-      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;DW.com",
+      "id": "OOdE+151Pap+",
+      "title": "Germany's media rocked by AI scandal - dw.com",
+      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oTWNrOXE2eXZVYUM4VWxyb19PRHhVYktwVEk5ZGVOOGpBcnN5Und0YmZYUUEwMTQ4YmxjRmoxWHFzR1dLR3dBUGQ1RDFoajU5ZklCeDkxcWxKVFpXYUtxcng4UFJSR1V0dmVxRVpNdko1UzV1el930gF3QVVfeXFMTUdUNWY5VVdhNlI0cHc4U2Rsa2xxbkw3RzRhYU5xUkkwaFdjdXpQOVNVN295SmNfVjV6YzhwcVh1NEZTYVV4X1gySHBPR0J0eFBkMklxREFvcFAxblk1QXg1V1Q5Z0xFYjNZSEtqTFc3OVBtSjJrdU0?oc=5",
       "date": "2026-06-22T10:44:36+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "N2gPWWT5VT4b",
-      "title": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings - Reuters",
-      "summary": "Standard Chartered 'overweights' Asia ex-Japan; favours Taiwan, China on AI, earnings&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2M1U3IxcTdPWG5ldGtqWXdEbXE3TEtzTDBJVnpiMGlYODdSWnRQWlFEeS1GMFlDamFSV1pCZGsyUFZJV0dHTGhReUgyamx4eGVNVHh2djlqOVdXQk8tUVBwOXZCM3ZuWDhKM0tkR3dxSE1vVUxyQ2hQRmJLRWM0TDVlNUxkZm9VR09sQW9SX25ScGFSOTg1M2R4eHZXX3VPVlIwV0pQVUVEdDYzNTVfTEQtdm5vbklxT01EamhzRmZuWDY0VUJuck9R?oc=5",
-      "date": "2026-06-22T09:46:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -914,18 +998,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Jd/N0n5Xe+2N",
-      "title": "Asian stocks rise on AI-driven gains, currencies slip on peace deal concerns - Reuters",
-      "summary": "Asian stocks rise on AI-driven gains, currencies slip on peace deal concerns&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX1JVSDdiYUdaUVJjOTl5VTI2Nm9SM3ZKTDhtQlVQUHZESFNLcmNJdUN0dWZmSDU1dlktbmx3b2lxb21hNC1EVTc4WTVZSFVtX3MtRDB4bE96VzVaTEpBbWFQNnYySGxwRUt1S2ZMMWxKY3ppMDU1MjVFRzhVdkFzYkI4V2tEenhYYzdVZ0FkcnpOYWhENjlTZHp1SWgxUTl4S2xwQzU4OTBGaGFHZ2Vxb1MzYnpOeFlx?oc=5",
-      "date": "2026-06-22T05:46:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,42 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/gtVFtn9MPP5",
-      "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
-      "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?It’s 2031 and the US and China are about to tear Europe into pieces.The US plo",
-      "link": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
-      "date": "2026-06-20T09:59:12+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "56wRxRP5yrkm",
-      "title": "Granta stops publishing short story award winners over AI controversy",
-      "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furoreThe prominent literary magazine Granta will no longer publish the winning entries of the an",
-      "link": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
-      "date": "2026-06-20T09:00:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "FkKUNmWfthFT",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "date": "2026-06-19T22:40:14+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6aMAME+06dV1",
       "title": "UK's top data and AI regulator quits after 'inappropriate' humour",
       "summary": "Edwards has been the boss of the data watchdog since January 2022, and said he had made inappropriate attempts at humour.",
@@ -1157,9 +1193,9 @@
       "articleLang": "en"
     },
     {
-      "id": "k6Y0ztlQeZke",
-      "title": "Europe races to close AI gap with the US - DW.com",
-      "summary": "Europe races to close AI gap with the US&nbsp;&nbsp;DW.com",
+      "id": "NEetgxIzUtdJ",
+      "title": "Europe races to close AI gap with the US - dw.com",
+      "summary": "Europe races to close AI gap with the US&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ3M1R2Q1ZENfdGxQZHJIZXlFb0NEVExUVm5aTjc3aVlXUjk4VkRVTVNqNlVFaXJfTDBkMmpZdENRTGFVbE9pb2x5Ull1THZiY3VOTF9RMGVJa1ZVcERJd1JNZnRLRGRrMDM5bS1Gc3NDZjBSdVhYdVdkWXhWYTlFeEQ4SUh2WXIzR1E0blBjdE1ubknSAZMBQVVfeXFMTmUyOVUwblB1OWJ0dy1sbVNRYzRjU0ktQUgwUHlESE5BSF94WTViTmh4SlR3d2NjR0o2MkhKUFlSeVE0c0c2cEMyU1NIbkQ3SnEzU2hYZlMzanVrR24xMVQteTVLU2tzdDl2RVdUZjJoLXZBOTZLWmVPVV96UGNfZHFIOS01TGJ4dE44WC1sUjBxT1lZ?oc=5",
       "date": "2026-06-19T14:30:47+00:00",
       "source": "DW Tech",
@@ -1181,9 +1217,9 @@
       "articleLang": "en"
     },
     {
-      "id": "QAb2wuuGjVu6",
-      "title": "US curbs Anthropic AI access, raising global concerns - DW.com",
-      "summary": "US curbs Anthropic AI access, raising global concerns&nbsp;&nbsp;DW.com",
+      "id": "/lkVNlBZvCm3",
+      "title": "US curbs Anthropic AI access, raising global concerns - dw.com",
+      "summary": "US curbs Anthropic AI access, raising global concerns&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQY1pyYUZJRzVZeXJNeTBoZncxMVMwTWtIUnk5M21hRnExZVJ4MkNWM21TZHIybFV3Ui1LVDV3XzFaczFiT3M4MEtKeVl3Mi1CYmVPMUxReExHR1dlV2hDSWYwM2w4YTdDYXVsYWpTMHNTekpRdDZ0Tng0ZmZudUV0RXZQcjV1dmtTSXRv0gGLAUFVX3lxTFA2dDUtVWVvdkFtTEFucVN2RU84dGItdVBTakRSd3dDTFBubWExNVh6T3hFVGpsbzJXMlFqZEhnMEZZcTM1SU91OVVOLVBDOTBYVHQ4a3pVeXpuWE05UVk5Z3QySDZUc2NEa1EzUU0tSFZIUGJHWUJEcjRHaDYyclVOR05rVEoxSVNDZ1U?oc=5",
       "date": "2026-06-19T09:25:24+00:00",
       "source": "DW Tech",
@@ -1222,18 +1258,6 @@
       "summary": "Anthropic still can’t distribute Claude Mythos or Fable 5 after running afoul of the Trump administration. But no one can say exactly what the company did wrong.",
       "link": "https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/",
       "date": "2026-06-18T21:03:43+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "D8rUvWielS/f",
-      "title": "Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump",
-      "summary": "On today’s Uncanny Valley, we dive into the dysfunction in Meta’s newly formed AI unit and why it’s been driving already-low employee morale even further into the ground.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/",
-      "date": "2026-06-18T19:29:51+00:00",
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
@@ -1286,30 +1310,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "GbFj/U3inGxF",
-      "title": "G7 focuses on AI's contentious future and US industry dominance - France 24",
-      "summary": "G7 focuses on AI's contentious future and US industry dominance&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTBMNTZibmNrM1NhRFEtdVJrWmt3TWxRdVZXVzlSbHktNnd1V3hYQUN6SE05Rmh6b29sYnlWdkN2dUdDSGx4TTg0U2VzZW94MEZ0X0xWcEhjX0pvc0Q1VGN6ZDQ2NGM3RWlvTkE0RDl0M25hcFNET1NPWmUxRW85dUttTk5WQy12WGZObzExZTJjWkdxUEE?oc=5",
-      "date": "2026-06-17T14:22:21+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "Ahu2g2MGWKgM",
-      "title": "Europe frets about US AI as tech world flocks to France for G7, VivaTech - Reuters",
-      "summary": "Europe frets about US AI as tech world flocks to France for G7, VivaTech&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGJlYzY2N3Jyd1RDa0Via3M0cEJENE9HUUZwak84TXVETmVMOVI2dTVha1d4TFF1Z2pYeDVkNVd3OGVvQ0VlRU9YRGhWaUN0eWJaTEdXSXJqRngxLVR4VGFnd1J6cWRRVWFqV2tzc1ZWazBtQ0tYQmVVYXRDT0oxSXVtU2tEVnlSVzFFZWc0eEpOUGZRaEpxTkFKQUs4UFNaUDlDQnNZT3hjZw?oc=5",
-      "date": "2026-06-17T10:49:50+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
