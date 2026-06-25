@@ -1,18 +1,18 @@
 {
-  "generated": "2026-06-25T09:19:58.092567+00:00",
-  "articleCount": 101,
+  "generated": "2026-06-25T14:31:02.319191+00:00",
+  "articleCount": 97,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 11
     },
     "mit": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "ars": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "guardian": {
       "status": "ok",
@@ -65,9 +65,81 @@
   },
   "articles": [
     {
+      "id": "be5Hrgt6MHfX",
+      "title": "Micron overtakes Meta in market value amid relentless AI infrastructure demand - Reuters",
+      "summary": "Micron overtakes Meta in market value amid relentless AI infrastructure demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
+      "date": "2026-06-25T13:40:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "AkZB2+N3HLPZ",
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+      "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "date": "2026-06-25T12:00:38+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mqxXsiDZL653",
+      "title": "World Cup Teams Are in a Race for AI Dominance",
+      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+      "date": "2026-06-25T11:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GiH/SlC4s/wD",
+      "title": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing - Reuters",
+      "summary": "After Anthropic shutdown, China's Z.ai closes frontier gap as it plans dual listing&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUW5QYklqRjJ5MXFhOUlxOFdUMGREVHpiSUJrY3VSM2xsVVA5Z1dIb3BBV2pmVEthRF9wZU9MU3VvSE1VOGtwNkh3amwxdDh3eU1ZNTBUYUpINVRMN0dDSzBwTGppSWc0aGNwa2RzVEhtLXVzak5Gd2lBUUZHaDFXVWxQQVRIZnd2TzZSTm53N0QyTjBZVXl4dTdLYXh1OVQ5NVBieUZMS0xNMGFMZUtKSlZ2aXBDbjRvVThwY2pST0U3MlNDLUQ5aUNISlk?oc=5",
+      "date": "2026-06-25T10:37:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "svyGsUZ2VKz6",
+      "title": "Datacentres are growing target of global climate-related legal cases, report finds",
+      "summary": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation aro",
+      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+      "date": "2026-06-25T10:03:54+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6y5Q1ZF+8dL5",
+      "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
+      "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
+      "link": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+      "date": "2026-06-25T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "3tGqC1v87fqh",
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences, and",
+      "summary": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s",
       "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
       "date": "2026-06-25T09:06:19+00:00",
       "source": "The Verge",
@@ -99,6 +171,18 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
+    },
+    {
+      "id": "0Ff09mq0HZlj",
+      "title": "「AIエージェント基盤の構築は色々大変」　Claude Managed Agentsはどう進化しているのか",
+      "summary": "Anthropicがβ版で公開したAIエージェント実行基盤「Claude Managed Agents」。構築の課題が多い実行基盤をフルマネージド化し、さまざまな機能を追加し続けている。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
+      "date": "2026-06-25T02:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "3y2gbYzsEFSc",
@@ -209,18 +293,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FezgbGUdpfYw",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "date": "2026-06-24T20:45:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "piNIfKsCio8V",
       "title": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI - Reuters",
       "summary": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI&nbsp;&nbsp;Reuters",
@@ -295,7 +367,7 @@
     {
       "id": "boGvKDWAVl2q",
       "title": "Big tech spent millions on a single US congressional race. It won’t be the last time",
-      "summary": "Pro- and anti-AI groups spent $24m on a congressional contest in New York, but it’s unclear to what endUS politics live – latest updatesWhen the Democratic primary for New York’s 12th congressional di",
+      "summary": "Pro- and anti-AI groups spent $24m on a congressional contest in New York, but it’s unclear to what endWhen the Democratic primary for New York’s 12th congressional district was called on Tuesday nigh",
       "link": "https://www.theguardian.com/us-news/2026/jun/24/big-tech-new-york-alex-bores-ai-spending",
       "date": "2026-06-24T17:55:25+00:00",
       "source": "The Guardian AI",
@@ -413,6 +485,18 @@
       "articleLang": "en"
     },
     {
+      "id": "uMmId93u3qng",
+      "title": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says - Reuters",
+      "summary": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlJuaTlwckx6Y2xwSWhGUXhKaEYteS1FVmhQRlJMdEQ5QjJIR3piTHhTWlpNMnp2NnhWVk1iSHozUDFQVExzNHgzRHk0cTlTSUJsdTYtdUY0Z2RjVWJzX0R2VE9CTGczOHdBSnB1RzVvc1lVeFI2dXZzT2hjSFNJNFNRU1BpTFZOdnRrdUM3bjlkY3lmMFFqRWdkaFM1RjNuWW1wZ2I0UkVVUDRhUXRkTjZHZWxxQVpKNzZDNU80bWtwYVZsS3ktTmJKLVFpakVYQWc?oc=5",
+      "date": "2026-06-24T14:23:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "gqaLTIpqFLGr",
       "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters",
       "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure&nbsp;&nbsp;Reuters",
@@ -521,30 +605,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uMmId93u3qng",
-      "title": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says - Reuters",
-      "summary": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlJuaTlwckx6Y2xwSWhGUXhKaEYteS1FVmhQRlJMdEQ5QjJIR3piTHhTWlpNMnp2NnhWVk1iSHozUDFQVExzNHgzRHk0cTlTSUJsdTYtdUY0Z2RjVWJzX0R2VE9CTGczOHdBSnB1RzVvc1lVeFI2dXZzT2hjSFNJNFNRU1BpTFZOdnRrdUM3bjlkY3lmMFFqRWdkaFM1RjNuWW1wZ2I0UkVVUDRhUXRkTjZHZWxxQVpKNzZDNU80bWtwYVZsS3ktTmJKLVFpakVYQWc?oc=5",
-      "date": "2026-06-24T06:58:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "A62YVX5nds81",
-      "title": "ClaudeをSlackチャンネルに召喚、“チームの一員”として直接指示　新機能「Claude Tag」登場",
-      "summary": "Anthropicは、「Slack」上で「Claude」を利用できる新機能「Claude Tag」のベータ版提供を23日から開始した。指定したチャンネルにClaudeを招待し、メンションをつけてタスクを依頼すると、Claudeが関連情報をもとにタスク計画を自動構築する。",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/24/news115.html",
-      "date": "2026-06-24T06:27:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "fk8g565mKZeD",
       "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son - Reuters",
       "summary": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son&nbsp;&nbsp;Reuters",
@@ -617,6 +677,18 @@
       "articleLang": "en"
     },
     {
+      "id": "i1gZau6l13pO",
+      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models - Reuters",
+      "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnZmR0RQZDZIYXpDbW1HTE5rRUdtWFYtSDVNQVh2cGZwamdESTVpbVRpM2dNd3NpcTR5d1FnaUR0Y1NIRjZoZkZBaUJjSmoxblFwdXh6VmpPVk9xcExmOHczSGlneTRyRHp1cGk1bU5YSkpBc2MtUS1DVllxTTZzcF9tcEJnTzJvd2ZiS0tZb0tjdmNsRHJkaU1vX04yUWJMQlU1U2V5OWNGY0VXTTFRTzNINzRNYU1sRVNxTnlKby1JY1I2aU1saGpB?oc=5",
+      "date": "2026-06-23T21:35:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "VEkEg74cqRu9",
       "title": "As I See It | US Anthropic ban is best advert for Chinese AI - South China Morning Post",
       "summary": "As I See It | US Anthropic ban is best advert for Chinese AI&nbsp;&nbsp;South China Morning Post",
@@ -626,30 +698,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "N0OGGvtiKZqa",
-      "title": "Sharing a love for calculus",
-      "summary": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI.&#160; Whatever your own perspective on that debate, I hope yo",
-      "link": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "date": "2026-06-23T21:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "398ajlE6c4cs",
-      "title": "Cerebras shares drop on earnings debut, with margins below AI chip rivals - Reuters",
-      "summary": "Cerebras shares drop on earnings debut, with margins below AI chip rivals&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnp3aFJubjFTTHZlYkNJWUtmcVF6SFE4Y2ktaW51SUI5RWZIZ3VDTk5GeWx2eTV1RVJCaUhxa0diLVZRd1pDZlVqaGZHR1E3Y21jWnlIcnJ2M2ZVT3M4REthRnJvcFhOanVCUFhvZFplYjdWYTRtWHNUV25oR3Z4SC1ZdDJRcEg0Yno5NXRmMGNYajFsVTVhUHZpeUw1bVYtMWJXNkg2Y2dIUQ?oc=5",
-      "date": "2026-06-23T20:50:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -670,18 +718,6 @@
       "summary": "SoFi deepens AI-powered trading ambitions with Composer deal&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHlDeGlFUzRuQzZ1WV9NTU1BQlhoNmIzNGZFcnJxaVJLckNta2dyd21teGtMUE5KenhTYy1FSnJaMk1EVDdwc0wzcW5kUUp4V0RLTHh4WlhVM1E5V1RyeUlkc2VMdVE4RHdrSnVhT2pkelFvd3VnUGREZk5Pay1xaWxoRG9zdEgtWWN4NklfbkQ4dldObUFicWJJN2xQOTRfVExQekV0SlRpSnM?oc=5",
       "date": "2026-06-23T18:51:06+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "R++uVJFTlGOL",
-      "title": "Anthropic launches Claude Tag in Slack with plans for wider rollout - Reuters",
-      "summary": "Anthropic launches Claude Tag in Slack with plans for wider rollout&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXZ2NGkzVnpxZ1NkOHloUkVWRmVMcGNYSG82TTBYWXRuZHh6UW8xV1I2TDlpWkJpMGRoaHplMFJfa3dHdDlyOUUzWVM1VkpsRDRCTlZ1blFoZXgwVU1WWDE5OHB1Y2NDVDRtRm40bUpOTVhMOUNFV3QyN1FqajVUenFxaXBOR1prQ3BoQkh6dURSaUtLWDlxTTBYUzUxdnZuSjVVc1YtUHo?oc=5",
-      "date": "2026-06-23T18:17:42+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -725,27 +761,15 @@
       "articleLang": "en"
     },
     {
-      "id": "GMidLifCemaJ",
-      "title": "Meta launches cheaper range of AI smart glasses starting at $299 - Reuters",
-      "summary": "Meta launches cheaper range of AI smart glasses starting at $299&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHdqWktPUlFDUEx5WmktWHhqVkxzVlloYUpWYXVzRGlWdlA5RXZfUE1yT1VWbU9pRU84U1BpdUFoUUl2Y3pxX0g0cTlRckdwYXllSVJkNndsYTMyd3RGNWh1RGtSYk4tUUQwcTQtcU5nQkRISU5CMmhSMUJjUkE4cEtnVlRuWXNJSmp5YkJpSHhzWkh4WEtpUzJ2SUpYVDg?oc=5",
-      "date": "2026-06-23T16:28:33+00:00",
+      "id": "pRBCbK9vkUd+",
+      "title": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports - Reuters",
+      "summary": "Blackstone plans $30 billion investment in Japan AI data centres, Nikkei reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlFYemJDZkZXdzVMclVLNGRVd0pfOHltVVo1azAxTUJ4ajI5ay1Db2w2aEZKR2pwbUM0XzlxWHR1VWQ0MjNJSkRLY0huVmQ1U0kwMTNkaGNOZThtZlJKRGRYMGJ3UnlscWNldzlDZjNuT2pPYUlPVWFQVEI2RDEzdGw5R285dE5oSVA1X184WDBhWVFNSnk2RVR3VUJ0TVhwYUNtc3o3cFByalBlT0tBWlg3bTRVaWxSa1RQRw?oc=5",
+      "date": "2026-06-23T16:23:51+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "znBdH7gYe8Cb",
-      "title": "Something&#8217;s off with Midjourney’s pivot to body scanners",
-      "summary": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat",
-      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "date": "2026-06-23T15:56:35+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -929,30 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "SB3BoeOZxQ0M",
-      "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "date": "2026-06-23T01:27:55+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "OjWjlehHu9Px",
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "summary": "OpenAI is using AI to help the open source community better protect itself.",
-      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "date": "2026-06-23T00:11:31+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "RGD0x+fIQxfB",
       "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
       "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk&nbsp;&nbsp;Reuters",
@@ -977,6 +977,18 @@
       "articleLang": "en"
     },
     {
+      "id": "irD9RQxwEYzd",
+      "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports - Reuters",
+      "summary": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZieUdRS2dsTW1yeU1JcWF5TFNJczJHdlF6MVJpbXkyVk1LMnI2MFBEUmJPS0NPTG5TRWVzckVhYnRHeTNCTU8zVG5DTjJ3bHc2ZzY3TWJSYS1pMjlsZVZNRkZPQkhVblpNUjZ5NGdXSjBVMXUtTzc1TXdkMWFnWVFEU1UxTVBzRmdJZjdSdDR0alpkVUZVQUlDS2dTd2lPenBjVVpMQ3ZtODVMVEpISzI2U0FxM2VjSEg3YUpzSjczZw?oc=5",
+      "date": "2026-06-22T22:28:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "BfbkFSqMYZo4",
       "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
       "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices&nbsp;&nbsp;Reuters",
@@ -986,30 +998,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "XFYQInHHC2qj",
-      "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
-      "summary": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’An artificial intelligence law firm has won a case in an English court, in what is believe",
-      "link": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
-      "date": "2026-06-22T21:09:28+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "eV9VN1mjLL22",
-      "title": "The AI world is getting ‘loopy’",
-      "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
-      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "date": "2026-06-22T20:53:11+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1054,18 +1042,6 @@
       "summary": "Three ways Trump could get a stake in AI firms for the US&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk1wdmpHWjNYX1l2SVBUajlPZ1RxTXNvRXFzbkRLV3E1ZmR3TDhJdkROTnY3WDVvOUd0MVFaNFNlRjVfczBMazlsTDFidVduY1g4aVM2YmNnUzE4U0FCVzVyeUM3V0h6WTJxSzdDNDMtbW5rTkE4aHNva005T2twMjZqNV9EQjMzcDVBSDNvOUVudVdIRTZ1Zm15ZWJUV3VGT3c?oc=5",
       "date": "2026-06-22T15:43:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "hHOioryqtam9",
-      "title": "Upscale AI valued at $2 billion after funding extension - Reuters",
-      "summary": "Upscale AI valued at $2 billion after funding extension&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejN6UXVxNng1TXNSYl9aWlB4dktLdDlMWlpUVlJGeXhhSHJEN3BoSzR4UHlsUDh1T1lvT1JVOGk5Y095WGxUcmxVNzhiTFdlX1JuOXRuaEJpSS1YYlh6SnNOTHhjSkdjMnBPek1VNS1NOGkwQ3Frczkza2VMaXVsc2NpWGhrN2poMm9QdmIzckFUQXBCVHJ0eUMtZ2g?oc=5",
-      "date": "2026-06-22T13:44:01+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1118,18 +1094,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "cVwiHYQemjjT",
-      "title": "World Cup Scams Are Getting Harder to Spot",
-      "summary": "From fake tickets to cloned websites, AI is magnifying World Cup scams. Can fans distinguish between what’s real and what’s not?",
-      "link": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-      "date": "2026-06-22T09:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1202,18 +1166,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "8KO9LfQn1DYV",
-      "title": "Why an AI company cleaned my New York City apartment for free",
-      "summary": "An AI company is sending free cleaners door-to-door in a bid to train the robots it hopes one day will replace them.",
-      "link": "https://www.bbc.co.uk/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-06-20T23:18:55+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
