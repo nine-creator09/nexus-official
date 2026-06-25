@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T14:31:02.319191+00:00",
+  "generated": "2026-06-25T19:59:03.482307+00:00",
   "articleCount": 97,
   "sourceResults": {
     "verge": {
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 11
+      "count": 13
     },
     "mit": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "ars": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -65,15 +65,63 @@
   },
   "articles": [
     {
-      "id": "be5Hrgt6MHfX",
-      "title": "Micron overtakes Meta in market value amid relentless AI infrastructure demand - Reuters",
-      "summary": "Micron overtakes Meta in market value amid relentless AI infrastructure demand&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZVgxMFl1QzdSTDFoREJsZmRqeG0xbUFKdDc1X3p0Q3kxejdjQ2pWZThSXzEwQkNOeE9OR0dHSHpjTEN1N2J1SHJYOXZIQjNELUQySGt3c3Bkai1TSVQ0ZnlqRDhkbnRoYTRHNkV6ZFFqSmh3ZTFGY3lzMW1TN2RYay1LZHMwaUNjTUpwRU5XNHhKZGFDV2lPbFJMYTZWRkhFQWJJTzNYMFpQblp0R1J0cFNoQ21ENklkdjg0bQ?oc=5",
-      "date": "2026-06-25T13:40:53+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "oR4+iBxNq7Fk",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "date": "2026-06-25T17:38:27+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "+yRxI2HB7jz3",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "date": "2026-06-25T16:55:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "KPahGvWK7VMK",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "date": "2026-06-25T16:48:11+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SMkYE/DvZu5c",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "date": "2026-06-25T14:55:38+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pYAUEdAPQYuh",
+      "title": "Repositioning retail for the AI era",
+      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants",
+      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "date": "2026-06-25T14:22:59+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -86,6 +134,30 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yS2LNT8lGPXz",
+      "title": "Anthropic hires Orange's AI chief amid Europe push - Reuters",
+      "summary": "Anthropic hires Orange's AI chief amid Europe push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLWpNenQ4RTVWaVM3bGhMQVBwdUt5VVpNOWQ1U0czTU9NZENTak9uR25iY1FlUEhXdzRkQ19CcmstZlhHRmFlVElER3hsMUVGZGRWVzFUODFfX18tdjBZamk2NVFZQjJRSzZTZXlhb3hqOUEyYTBHcGZJTTZvMDRzenE0bGJIajM4S1dtUFZHaUdyV0xZQ3gxcWFEbmJTZVd5cEl3SmxNcFNxd0p3?oc=5",
+      "date": "2026-06-25T11:34:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4yM6TbE/Bwgw",
+      "title": "EU joins U.S.-led 'Pax Silica' on securing AI, chip supply chains - Reuters",
+      "summary": "EU joins U.S.-led 'Pax Silica' on securing AI, chip supply chains&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUUVlVDliUmtEelRPTkpBajJubnozem1mb2c3cGVmSlppU2tzRkJTaHEzNnNsRzdsUWVQRDhCQ3RNZHJjQlpGSnh4TTBLUTZVWWRTUk9MakN4V3IzTTREbXRLdVNsdVBiQVRmRnM5ZmtvU093bmVDeHJIR2FpS3JtZ0JXY1lBZ3NoNFZ5a1VxQzhEWnZWeVdtdlFiS2FkenVCdkVBRG5SOA?oc=5",
+      "date": "2026-06-25T11:19:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -122,6 +194,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "dbZJMOq/99/z",
+      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction - Reuters",
+      "summary": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXprM002YjdFdGFsajMzUzIzOE11VjRJejM2Qk1meFJWR3B0d1g5RHdZQndCWU9MVlRkd29mOUxmdEQzdzBDT2ZIaUpuTzlQU1ByR0lBbUFhcnRleE9ubFViSlRxTnJQRmluVUhpOXZNaW5HOEJGbWFiak5jRlBZQV8tNmNhWEhtOXdjOUZYM3c2d181cnFlT0VrZ1Q2WGZJVDgzNDRwVmEzUXpqeVREZmd6dXE5LUZRT1VLV3BFcXY?oc=5",
+      "date": "2026-06-25T10:01:24+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -290,6 +374,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FezgbGUdpfYw",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
+      "date": "2026-06-24T20:45:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -485,18 +581,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uMmId93u3qng",
-      "title": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says - Reuters",
-      "summary": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlJuaTlwckx6Y2xwSWhGUXhKaEYteS1FVmhQRlJMdEQ5QjJIR3piTHhTWlpNMnp2NnhWVk1iSHozUDFQVExzNHgzRHk0cTlTSUJsdTYtdUY0Z2RjVWJzX0R2VE9CTGczOHdBSnB1RzVvc1lVeFI2dXZzT2hjSFNJNFNRU1BpTFZOdnRrdUM3bjlkY3lmMFFqRWdkaFM1RjNuWW1wZ2I0UkVVUDRhUXRkTjZHZWxxQVpKNzZDNU80bWtwYVZsS3ktTmJKLVFpakVYQWc?oc=5",
-      "date": "2026-06-24T14:23:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "gqaLTIpqFLGr",
       "title": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure - Reuters",
       "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure&nbsp;&nbsp;Reuters",
@@ -605,6 +689,18 @@
       "articleLang": "en"
     },
     {
+      "id": "uMmId93u3qng",
+      "title": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says - Reuters",
+      "summary": "Santander weighs up to 3,000 early retirements in Spain amid AI shift, newspaper says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQlJuaTlwckx6Y2xwSWhGUXhKaEYteS1FVmhQRlJMdEQ5QjJIR3piTHhTWlpNMnp2NnhWVk1iSHozUDFQVExzNHgzRHk0cTlTSUJsdTYtdUY0Z2RjVWJzX0R2VE9CTGczOHdBSnB1RzVvc1lVeFI2dXZzT2hjSFNJNFNRU1BpTFZOdnRrdUM3bjlkY3lmMFFqRWdkaFM1RjNuWW1wZ2I0UkVVUDRhUXRkTjZHZWxxQVpKNzZDNU80bWtwYVZsS3ktTmJKLVFpakVYQWc?oc=5",
+      "date": "2026-06-24T06:58:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "fk8g565mKZeD",
       "title": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son - Reuters",
       "summary": "Talk of a bubble is 'blasphemy against AI' says SoftBank's Son&nbsp;&nbsp;Reuters",
@@ -681,7 +777,7 @@
       "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models - Reuters",
       "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnZmR0RQZDZIYXpDbW1HTE5rRUdtWFYtSDVNQVh2cGZwamdESTVpbVRpM2dNd3NpcTR5d1FnaUR0Y1NIRjZoZkZBaUJjSmoxblFwdXh6VmpPVk9xcExmOHczSGlneTRyRHp1cGk1bU5YSkpBc2MtUS1DVllxTTZzcF9tcEJnTzJvd2ZiS0tZb0tjdmNsRHJkaU1vX04yUWJMQlU1U2V5OWNGY0VXTTFRTzNINzRNYU1sRVNxTnlKby1JY1I2aU1saGpB?oc=5",
-      "date": "2026-06-23T21:35:00+00:00",
+      "date": "2026-06-23T21:38:13+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -713,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7SbPEnhHx028",
-      "title": "SoFi deepens AI-powered trading ambitions with Composer deal - Reuters",
-      "summary": "SoFi deepens AI-powered trading ambitions with Composer deal&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZHlDeGlFUzRuQzZ1WV9NTU1BQlhoNmIzNGZFcnJxaVJLckNta2dyd21teGtMUE5KenhTYy1FSnJaMk1EVDdwc0wzcW5kUUp4V0RLTHh4WlhVM1E5V1RyeUlkc2VMdVE4RHdrSnVhT2pkelFvd3VnUGREZk5Pay1xaWxoRG9zdEgtWWN4NklfbkQ4dldObUFicWJJN2xQOTRfVExQekV0SlRpSnM?oc=5",
-      "date": "2026-06-23T18:51:06+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "2afLWxsnipo9",
       "title": "Meta halts worker tracking for AI training due to privacy fears",
       "summary": "The company had started just two months ago tracking workers’ computer usage for AI training data.",
@@ -745,18 +829,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3n9sHJywad58",
-      "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-      "summary": "Anthropic’s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise",
-      "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "date": "2026-06-23T17:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -797,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "YRxxeYiOd6Po",
-      "title": "French mid-sized firms adopt AI but see few gains, survey shows - Reuters",
-      "summary": "French mid-sized firms adopt AI but see few gains, survey shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLVBTZG9zRExSdEVCdW13NXRsS2JicWNsTW1VOFA5VUZ2M0tZcnlkMmtHZWl4bW1yQmpmdmRxMGlLVzBmNEJFMEIzdUVPWmtQV0pnM0RsZnR1V1l0djRJU1dHVjRkQU9EOU0td1ZrblNmbFpsWTZaUEJHb001dmlnWWFWZGoyOWM0aC1rZlJvSkhDbzZIbEZIX2dpYXhVSEVfLXhBcDB0cDM?oc=5",
-      "date": "2026-06-23T13:19:45+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "DyvhH1PRPqQH",
       "title": "You’re only supposed to blow the bloody hooves off: AI Michael Caine narrates Odyssey audiobook",
       "summary": "AI company ElevenLabs unveils its officially licensed replica of the iconic actor’s voice in a retelling of Homer’s epic poem, while director who previously recorded the star recalls real-life experie",
@@ -818,18 +878,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mhXTtMPOZ/tp",
-      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-      "summary": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI",
-      "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-      "date": "2026-06-23T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -977,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "irD9RQxwEYzd",
-      "title": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports - Reuters",
-      "summary": "Qualcomm nearing deal for AI chip startup Modular, Bloomberg News reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFZieUdRS2dsTW1yeU1JcWF5TFNJczJHdlF6MVJpbXkyVk1LMnI2MFBEUmJPS0NPTG5TRWVzckVhYnRHeTNCTU8zVG5DTjJ3bHc2ZzY3TWJSYS1pMjlsZVZNRkZPQkhVblpNUjZ5NGdXSjBVMXUtTzc1TXdkMWFnWVFEU1UxTVBzRmdJZjdSdDR0alpkVUZVQUlDS2dTd2lPenBjVVpMQ3ZtODVMVEpISzI2U0FxM2VjSEg3YUpzSjczZw?oc=5",
-      "date": "2026-06-22T22:28:53+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "BfbkFSqMYZo4",
       "title": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices - Reuters",
       "summary": "BP, Marathon, 7-Eleven, Walmart sued for allegedly using AI to boost California gas prices&nbsp;&nbsp;Reuters",
@@ -1042,18 +1078,6 @@
       "summary": "Three ways Trump could get a stake in AI firms for the US&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYk1wdmpHWjNYX1l2SVBUajlPZ1RxTXNvRXFzbkRLV3E1ZmR3TDhJdkROTnY3WDVvOUd0MVFaNFNlRjVfczBMazlsTDFidVduY1g4aVM2YmNnUzE4U0FCVzVyeUM3V0h6WTJxSzdDNDMtbW5rTkE4aHNva005T2twMjZqNV9EQjMzcDVBSDNvOUVudVdIRTZ1Zm15ZWJUV3VGT3c?oc=5",
       "date": "2026-06-22T15:43:27+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "INVP9pOjoLii",
-      "title": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows - Reuters",
-      "summary": "EXCLUSIVE Indonesia plans to embed AI in key programmes, including $15 billion free-meal drive, document shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa2piUjlhMnNIUTctUzdJWWMzOWV2bURVTUlNQmViSVV3UGt6UkRxNjIycHB3RFY4Mmx5NjBkN0ItbVJKRkNZQnh0QnRqanA5R182VTZCN2cwQjJsbU9mWm1UZVFHQ29jdDMyX1JQeTVwQXRqUG9ZMThMZTdOdkVsN1JNWXVkdEp3OGIyNDNZdWZrajh2WTR3cEwwQWFnNFR3eUtPZW1jSUlDLU9jOTJiRndJU3ljSDBaSlJXdXh5MTJnbGw5ZzZRV2FHYw?oc=5",
-      "date": "2026-06-22T13:10:22+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1157,18 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TuVCr26oSSLq",
-      "title": "Japan confronts the dark side of its teenagers’ AI addiction - South China Morning Post",
-      "summary": "Japan confronts the dark side of its teenagers’ AI addiction&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXdGTDZCWV91cTVndFFvRG9iYVdTQVRyWThqVnVYX1J3UWRQUG16Zm9FWnVUVE40SzlHaHJEMmxQTXhRRlNsY1F4TUN4enlZMGl0YWlqblNrdE9Scm5MV1RpLXNKa1hiY2REbkRxSmprdHRXSFRCN2lIbm1kZm50Zmxmc1R4NXp6R201UklmaXFQV01FWVdZQ09PSDhLYU5aaXFsTG1BaU50cC16S2xwOGg0dy1fN3F60gG4AUFVX3lxTE9tNjNMMjRIOXJ5M3VFbXJNZ1BLUEFoRGVOODlzSEExU0VRQl90VzAyWWlsc1FSS2NtQ2FjUVFMQ0pkR3h1TGlhOWZtcVlKR1RrYWVvelNESEU2UEVRM1I0RWNVVnZkWERBUXZoaGZWUkZzTnhxR0xyd2UxeEFZMk5mYmV2SktoSlExbDloZmpRdW9sRlRGWllzQmRHTTBGOGFEclhoOUE4cVBSWXg4WEJVZEF4Z0laVmw?oc=5",
-      "date": "2026-06-21T00:00:11+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "k6Y0ztlQeZke",
       "title": "Europe races to close AI gap with the US - DW.com",
       "summary": "Europe races to close AI gap with the US&nbsp;&nbsp;DW.com",
@@ -1202,18 +1214,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "d/cTt74zc0U5",
-      "title": "Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown - South China Morning Post",
-      "summary": "Zhipu, DeepSeek push China’s trillion-parameter AI frontier amid US clampdown&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDY3UG9iTUNWbXhfOTd0bG9VVmU3VnR2VkpBSHNWTTBRS2JSampiTGt2alhIdV9TNy1ZemJ3WkU1TWRQNUFSa0o2R0VqQXpndWpKSlBpcU56M0tjVmV1TjFPM19sVWhodHQwRDIxeC1mazFkX2pDWmVhdnBNY1ZVeHlDc0lNRm44RUgtSXNDY184Wkt3LXBUSmwyQ1pHR1RiU2RLU05EOFdKQXhSeHctT2N6QW92NjJ2dnZ0ak9wSUFVeU0xamfSAcYBQVVfeXFMTkFHWHczS0MwTzVhZ0Rjajh4dEVrUGgzV3NCV3hiQlBZTWRCZUtlVHhBQ3pVMmt2cDJ6Z0xFWnRzQmRFSE8zdzV6QkdxZTVScVFQLXdESndyc3pNZlYtZXE1SDJsdV9YMVBIc1NfcWQwalhJQml5ZndGbmdkUDBFeFJPZXJFazBGNXMyRlNWbVFBV3Vjb18wNXhWMFItWWQxc3daUzc3d2xyMjdobjlYRzZzejhnSTBuWmxNMHJDWV9pM2hMdl9R?oc=5",
-      "date": "2026-06-19T06:00:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
