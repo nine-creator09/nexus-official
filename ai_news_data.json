@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-26T19:45:36.199232+00:00",
-  "articleCount": 105,
+  "generated": "2026-06-27T02:58:35.433254+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 23
+      "count": 24
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "/GnzSWDKBvf+",
+      "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
+      "summary": "米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/",
+      "date": "2026-06-27T02:07:50+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "psuO42PVomdu",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "date": "2026-06-27T01:01:37+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/MxmW4AevM8z",
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "date": "2026-06-27T00:33:44+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "vZDut6S8rdtr",
+      "title": "Trump Administration Allows Anthropic to Release  Mythos to Select US Organizations",
+      "summary": "After weeks of negotiations, the White House permitted Anthropic to grant access to its most advanced AI model to a select group of US companies and government agencies.",
+      "link": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "date": "2026-06-27T00:26:14+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "x9acYG99TSX2",
+      "title": "OpenAI、次世代「GPT-5.6」シリーズを限定プレビュー　米政府と調整、命名は「Sol／Terra／Luna」に刷新",
+      "summary": "米OpenAIは6月26日（現地時間）、次世代AIモデル「GPT-5.6」シリーズの限定プレビューを始めた。フラッグシップの「Sol」、日常業務向けでバランス型の「Terra」、高速・低価格の「Luna」の3モデルで構成する。コーディングや科学、サイバーセキュリティの能力を高める一方、同社として過去最も強固と位置付ける安全対策を組み合わせた。数週間以内に一般提供する計画だが、米政府との調整を踏まえ",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2606/27/2000000134/",
+      "date": "2026-06-26T19:56:10+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "aOd1SdIWQD98",
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -161,6 +221,18 @@
       "articleLang": "en"
     },
     {
+      "id": "PSUz5ixtehqw",
+      "title": "How the Iran war impacts Abu Dhabi's AI plans - DW.com",
+      "summary": "How the Iran war impacts Abu Dhabi's AI plans&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2d0ekxmbGNoc2dyUExGeG9Mb09lY0FfX3JCWmpCVTlBOS16bHhjeU9ITnVnODJpN05TamVlS0dOYUtWSjQ5em5qZnJPamJjZVNYdWwtT21yR2Fab253TWkwNDdDQXBxaUlvMFB4bTN2T25fZEhqM1lENlVOdHBqZ3JYR3E1UlHSAYcBQVVfeXFMTXRiMUVzeU0zTDlJQUU3VGhKbDBmemsxcG1fQmx0Q3hiWWNUOHpRV1E3STJzVkRfc2VaOEFRRG9SRl80LTlObTJqOHBiOEZWM2wxOC1UNWIwVF9vS2ZHcXZpbFBnM0ZjZ1VSdlNXWFlBWDVJaTR6R0FoTEFrbjNuMFNPQkFQMnFF?oc=5",
+      "date": "2026-06-26T14:39:58+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "2ibdFT29HvqK",
       "title": "Anthropic&#8217;s Mythos mess is only getting worse",
       "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o",
@@ -250,6 +322,30 @@
       "summary": "Semiconductors | Could China’s photonic chips help it leapfrog US on AI?&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTlkQW5JNlUtV3JRdEI0ZzRvYnNjYThZNFBEQWRMN1YtbFQ5RUZ3bHlGam1MYUIzYjB3dXE0cXNuSTlEaVd5UUlGSy1wT1k5cjRvcHYzUy1VamFyeFotV2ZmTFFKTmdwSzZPQ0JZQW44aW56NlNxZE1PSENqSmdpa21LRHJSa3JBWTg1ZmZpampWRUlrMnhkRFFNMXZXZU5TTkh4WmpZaVN2QQ?oc=5",
       "date": "2026-06-26T09:00:00+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "AGhRSzYCsBFq",
+      "title": "Chinese AI, chip firms are driving an onshore IPO rebound - Reuters",
+      "summary": "Chinese AI, chip firms are driving an onshore IPO rebound&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmRYYVFRR0pYUExod3VQQS0yUGVhTWx2SkhCdHE1UnRoOC1DaVlkMUdtdk9uTFlWcXoyWmpIemNnbjViem1ydW83ZGNRTTJBT1ppaF9SczNreXo3RmlHblBHbHFOU09YU3h0U2N2QmZGZ0Rqbkd0aDFpNGRITkVzNGVKSnlnbHYzcW5GZWVpOF9fU3ktbWVIbGt1UzladXB1ckE0QVpUbFEzdEI4MVJSQUJ3?oc=5",
+      "date": "2026-06-26T08:33:03+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "W3ovb8i/3oM9",
+      "title": "China keeps an eye on AI smart glasses as privacy concerns come into focus - South China Morning Post",
+      "summary": "China keeps an eye on AI smart glasses as privacy concerns come into focus&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2xlWU0zb1F0RTk2a3c3Smd5M19qOUFROURhei00S0tvM1c3T21ubUFSamVhOW1iMDh5SjNkN2lvV2VVSV8ydENOV2t6QUh6V2wwMGVGMTBFRmtEbUJDOU5vakxpQ2pLdzBvX19Eallwa2NEbUZZX3pqbVN2LUc0a253OXJPaW1NTTNiS0VGRGJfanQwS0VhUS1RR2RwS29kOFhPcdIBpAFBVV95cUxNWDZGMVR6YmoxUnU5dnR3NGNmOC1fQVNEci1CT1NncEJNa0FsR1FuMkh1TXQzTjJjekZ6akd4UF9KemhCRTBwc2twbGJtSlRIeVh5SDZrblMtRTkyZS1Dd3QzVUpkaWg1US05dm5rVGF5eVloTkM3MGFUOVp6VWZfQ0phVUxJMDhNbVJxNWRiTkJ6S2Q2XzZNdlZuTHhiNGxmY0dNMw?oc=5",
+      "date": "2026-06-26T07:00:36+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -485,6 +581,18 @@
       "articleLang": "en"
     },
     {
+      "id": "FezgbGUdpfYw",
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
+      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
+      "date": "2026-06-25T12:42:35+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "AkZB2+N3HLPZ",
       "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
       "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
@@ -617,40 +725,28 @@
       "articleLang": "en"
     },
     {
-      "id": "0Ff09mq0HZlj",
-      "title": "「AIエージェント基盤の構築は色々大変」　Claude Managed Agentsはどう進化しているのか",
-      "summary": "Anthropicがβ版で公開したAIエージェント実行基盤「Claude Managed Agents」。構築の課題が多い実行基盤をフルマネージド化し、さまざまな機能を追加し続けている。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2606/25/news058.html",
-      "date": "2026-06-25T02:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
+      "id": "DUQwkZhlx+Pi",
+      "title": "Micron posts record revenue on AI surge as China’s memory rivals gain ground - South China Morning Post",
+      "summary": "Micron posts record revenue on AI surge as China’s memory rivals gain ground&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3Jra2ljOUFXQWJ2RU9XTjd3VlpvRHZFRFRMdGY4d2pDMWxxakhVRFA3M2lWaTl2eThKQVpvaUlOcmRIcUxSbHpqQlNvdV9IeWk2Nm5FVzZjVG5OLW5RYnBSd2xoaUlVRUJMSnFRWUlGXzgzNFRObVI4TkJjUGVGdXlsc3d1MHUxa2dXYzg4VXNJeGlka1p1Vy0ybm5INlBTR3Z6NHMzTTl4QjZIa25Eem1mbUhOZmc5S180UHcxRTNmY1NNZTFlWUZ0dE92d2_SAc8BQVVfeXFMT3o4S3FJVVlqVkRnOTBLd0JGdDU0UmdjZmpmU0dXRE5hZ1Q2dnBESngwVkQtTFlOQnF5Y05oajgtZFFiVU9KeUN6ei1rVHF6cTdRY25CRUVVeHhRM0ZzQUFGWjNqYjVfdDd2WU81Q1lPQkJHdzMyYzV5RE82U21NZTZWbGpyeUo0bEl5RW92ZTlGLWRaaGxVT3RJQ2ZYbmxjMHdkTmJNSzA4NjFTYm00anM4bzJNbDZaekVmT3NBQUpqTUpfTUxmTmFiNHo5N0ZV?oc=5",
+      "date": "2026-06-25T07:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
-      "id": "3y2gbYzsEFSc",
-      "title": "Google、「Gemini 3.5 Flash」に「Computer Use」を標準搭載──AIが画面を見てブラウザやアプリを操作",
-      "summary": "Googleは、AIモデル「Gemini 3.5 Flash」に、AIがコンピュータの画面を認識してマウス操作やキーボード入力を自動で実行する「Computer Use」機能を標準ツールとして搭載したと発表した。これまで専用モデルでのみ提供していた機能を主力モデルに統合したもので、開発者はWebブラウザやモバイル、デスクトップ環境で動作するエージェントを構築できる。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2606/25/2000000127/",
-      "date": "2026-06-25T01:08:52+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "LE/U1YIdJbEB",
-      "title": "OpenAI、「GPT-5.5 Instant」をアップデート　会話の文脈維持や箇条書き減など「読みやすさ」を改善",
-      "summary": "OpenAIは、ChatGPTで最も広く利用されているモデル「GPT-5.5 Instant」のアップデートを発表した。新機能の追加ではなく、日常的な会話の品質向上が中心。質問の意図を的確に捉えて文脈を維持する能力が向上するほか、テンプレート的な回答が減り、位置情報を活用した地域のビジネス検索などもより洗練されるとしている。",
-      "link": "https://www.itmedia.co.jp/news/articles/2606/25/news062.html",
-      "date": "2026-06-25T00:23:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
+      "id": "O5XrRqEEuPxo",
+      "title": "The end of junior lawyers? How a new AI tool is transforming China’s law firms - South China Morning Post",
+      "summary": "The end of junior lawyers? How a new AI tool is transforming China’s law firms&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFhGWjExNmRkRTZ6MmhSMEdlR2dUVm8xYmd5TlhsLXhKekNONERkSHFMcXctMXhEWVFWWEFSRlhjVzhPb0h3MjZBemZGUG82a004RFZLR21OUDVRWG5HUFdRRTQtTmpEWHY2bXByMXNwWVp3MGNMRHp3RGhYdEwwRFp0NXF2UlRHVUxTemtUb24yd3k2bGI0aFlDcllNV0NMWlU3WWNNQlFDSTRKTVdlZmdMX0h4YTVteDZaTHJUMlU0XzU3Y1ptU0N4M1Nub3Bo0gHQAUFVX3lxTE5temhKY1lPdFB6ME5wMDhQWnU5QXVMOXZZUDZTTS04WHE5OTNOLUMwc3Y5bC1qLWZfcXFFcllDWTg0UWNib3R2R0FTX2VxTkNsSEg1cU9KaGFnRG9LbnVndHB3dFVjSmJQaXdIR0k5TVNFbHhyNGtkeS11bDJlMXYtdTRQUFpENmYxTUZEVkdWNmtVY1U5MVNCd1FxU1piaFU0aTVuaXg3dENCSzAyM0tJbGdZdzV6U2k2b21xVkZzbWhLU0xhX09OcWtiTXhtNHM?oc=5",
+      "date": "2026-06-25T04:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "FLocikSTwYrn",
@@ -713,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "iWZ6Ue1DmL2N",
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "date": "2026-06-24T21:42:07+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "XDUeQIdy2wzo",
       "title": "A24 Knows You’re Mad About the Google AI Collab",
       "summary": "Indie movie fans are upset about Google DeepMind’s $75 million investment in the studio, which comes as AI companies are deepening their influence in Hollywood.",
@@ -734,18 +818,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "FezgbGUdpfYw",
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities - Reuters",
-      "summary": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUjhQd2FfckN3bVZ1MS1YQUs1OUJ2R0lsVDREY0tJMlRPbVBTMHFscE92X3B5UnVOajZaYnhsSUhNSHdmNE1md3hIc0FJWWRfcEktajFjTjBkX04tNEIxOVpFajd3eWJJRk05T1d2WTJhRjF5Mkl1TFNjbTJNY0czVGR2bDNFVTdrOUI5czR1dUZpckVzMXdqenJNbGppNjVVWXZNbHpUMlIteTJ1Q3hnSDltTnpSSFBhWmpZ?oc=5",
-      "date": "2026-06-24T20:45:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -794,18 +866,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "x26nAzjkk8DR",
-      "title": "I Met With China’s Top AI Experts. They’re Freaking Out, Too",
-      "summary": "The AI arms race between China and the US has researchers on both sides worried about a “Chernobyl moment.”",
-      "link": "https://www.wired.com/story/ai-arms-race-china-us-cooperation/",
-      "date": "2026-06-24T18:45:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1181,30 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RGD0x+fIQxfB",
-      "title": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk - Reuters",
-      "summary": "'Five Eyes' intelligence alliance warns that new AI models pose urgent cyber risk&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRBblJ3NTkyRUx4YUl3ZXg3MGZwSWNtSlhZUkgyb2NlODJVc2hpVWI4YWFOaDNGVjJtYVEwdk9qR2tYNWZsc1VUTlFwSTNMXzRrcUNDNjFCOUJSWFpSRl9QRktFcGNwaHRtSWY5eUY0dHAtRUYxSEtGT2Y0Tjh3RVJ4aDZsRDNLQ0JRa2xRYXE1QV9pZjNDZFA2Mmg1bm8wOUw4YnI3RFZ3MWVPc0VENHk1VXRJaW5yTEtEcjdqUnd6VFk3bWI0YUVpak15VGM?oc=5",
-      "date": "2026-06-22T23:17:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "rc4lYEfx6jrO",
-      "title": "How are Chinese firms faring as AI and tech reshape global market cap rankings? - South China Morning Post",
-      "summary": "How are Chinese firms faring as AI and tech reshape global market cap rankings?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlhoUTYtSjdNS296c1cxNHJsaWpBQUh0dDVtN3N2eHFRcVRYbU1fSGU1MFp1SjlQX050NkNPR0p4WUhaVVFtUXliMFplMF9nM2k5WHV3NTNKTm9Jd1NXZkdtYUxJQ1R2YWtyOHhYQkl1V0ZSRFBCM0lJUTFybVV3RE13RWphNjg5SUExYjdpYVNZLUFETXdHWm1JaXpqSUwtaFp2aVJvNEllZmVhVS01bERSQUwwWXdkLVIxeDNyd1lKWWN1b1B2TFQ5SmZjZDVCeWJ30gHTAUFVX3lxTE01QXllQUFkVldiNlBKZGZUTHRreG5mR3pMODRzc0xBZ2wyS2FrYzdMcEo0Q01zSEZISk41X0E0T2JJT2FOMXdfVUVMVzJRanJTa2JCZHlYZjNYNktLRkNXMUdmZ1RNVzVKbVZybVRkUTg5N1NlVzZRTDRFblBLVDItTXhYV3UyNk54dU9kekJYWjdZbmtwSFgxZVg0Mkd5ZVd2UHRIanYyRnFBMTZhUDcwc0E4aTNMM2N1cjdLQkJBOUxpV0tFMTk0Z241cXVpUDBWa2M?oc=5",
-      "date": "2026-06-22T23:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "+In8ZpTHR0r9",
       "title": "Hard work and endurance: what Alibaba’s team-building says about its AI drive - South China Morning Post",
       "summary": "Hard work and endurance: what Alibaba’s team-building says about its AI drive&nbsp;&nbsp;South China Morning Post",
@@ -1265,9 +1301,9 @@
       "articleLang": "en"
     },
     {
-      "id": "OOdE+151Pap+",
-      "title": "Germany's media rocked by AI scandal - dw.com",
-      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;dw.com",
+      "id": "6p94fWobQWvN",
+      "title": "Germany's media rocked by AI scandal - DW.com",
+      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oTWNrOXE2eXZVYUM4VWxyb19PRHhVYktwVEk5ZGVOOGpBcnN5Und0YmZYUUEwMTQ4YmxjRmoxWHFzR1dLR3dBUGQ1RDFoajU5ZklCeDkxcWxKVFpXYUtxcng4UFJSR1V0dmVxRVpNdko1UzV1el930gF3QVVfeXFMTUdUNWY5VVdhNlI0cHc4U2Rsa2xxbkw3RzRhYU5xUkkwaFdjdXpQOVNVN295SmNfVjV6YzhwcVh1NEZTYVV4X1gySHBPR0J0eFBkMklxREFvcFAxblk1QXg1V1Q5Z0xFYjNZSEtqTFc3OVBtSjJrdU0?oc=5",
       "date": "2026-06-22T10:44:36+00:00",
       "source": "DW Tech",
@@ -1306,18 +1342,6 @@
       "summary": "Will China’s AI-powered agribots repeat its EV success story?&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkZQa1AzRG9qcVhPTF9vbHRGRWc5YURaYW5JVlhFdW5FSTRJOGVXNm93NDV0WHBhVFJsUmQ5a0s4dUtVbUxZdjlid1JjSDNZbXdybUNKM19MYXVCbzRfc1N0bXN1WXRMVlVZajFjYmNvQk5MQ3g5WmdJNG1KeFg5Ykh5bWpEVEJsRl9sU25OWFlIbGwtejlCT0J6Zld4LXVUSkRrUHFnc9IBpwFBVV95cUxOUUc4U19URE9ydnc5UEpCNnJ3UEt0cXh5cFpLM1VtSFpOd1hQZEJDbnVTd0k2T1RJLXpSazRla0R5LWltWks0aWJtN3B6VGdBa2RiclBHRTV0eWxadGxWRVhqR2MzMHluRXk5OHZpTU1ObUpwRVdfeU1Fcm5zdG9oR3FaeVFrN1Z5UUU2aEhrRy0zWkVuTWpzZTFVbTJ5akN4cjRIeWhOQQ?oc=5",
       "date": "2026-06-21T13:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "TuVCr26oSSLq",
-      "title": "Japan confronts the dark side of its teenagers’ AI addiction - South China Morning Post",
-      "summary": "Japan confronts the dark side of its teenagers’ AI addiction&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORXdGTDZCWV91cTVndFFvRG9iYVdTQVRyWThqVnVYX1J3UWRQUG16Zm9FWnVUVE40SzlHaHJEMmxQTXhRRlNsY1F4TUN4enlZMGl0YWlqblNrdE9Scm5MV1RpLXNKa1hiY2REbkRxSmprdHRXSFRCN2lIbm1kZm50Zmxmc1R4NXp6R201UklmaXFQV01FWVdZQ09PSDhLYU5aaXFsTG1BaU50cC16S2xwOGg0dy1fN3F60gG4AUFVX3lxTE9tNjNMMjRIOXJ5M3VFbXJNZ1BLUEFoRGVOODlzSEExU0VRQl90VzAyWWlsc1FSS2NtQ2FjUVFMQ0pkR3h1TGlhOWZtcVlKR1RrYWVvelNESEU2UEVRM1I0RWNVVnZkWERBUXZoaGZWUkZzTnhxR0xyd2UxeEFZMk5mYmV2SktoSlExbDloZmpRdW9sRlRGWllzQmRHTTBGOGFEclhoOUE4cVBSWXg4WEJVZEF4Z0laVmw?oc=5",
-      "date": "2026-06-21T00:00:11+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
