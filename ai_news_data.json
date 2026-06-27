@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T02:58:35.433254+00:00",
-  "articleCount": 107,
+  "generated": "2026-06-27T08:34:33.523374+00:00",
+  "articleCount": 104,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 24
+      "count": 23
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "NuhezwwB9ALW",
+      "title": "Hikers lost in Kosciuszko national park rescued within five hours by AI drone",
+      "summary": "Fire and Rescue NSW uses thermal imaging and a mobile phone red light to quickly locate men who veered off walking track near JindabyneGet our breaking news email, free app or daily news podcastTwo hi",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/27/ai-drone-rescue-kosciuszko-national-park-hikers-fire-rescue-nsw",
+      "date": "2026-06-27T03:05:44+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "/GnzSWDKBvf+",
       "title": "AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可",
@@ -110,6 +122,30 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kqAfbFu/fjni",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-06-26T20:50:44+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "PSUz5ixtehqw",
+      "title": "How the Iran war impacts Abu Dhabi's AI plans - DW.com",
+      "summary": "How the Iran war impacts Abu Dhabi's AI plans&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2d0ekxmbGNoc2dyUExGeG9Mb09lY0FfX3JCWmpCVTlBOS16bHhjeU9ITnVnODJpN05TamVlS0dOYUtWSjQ5em5qZnJPamJjZVNYdWwtT21yR2Fab253TWkwNDdDQXBxaUlvMFB4bTN2T25fZEhqM1lENlVOdHBqZ3JYR3E1UlHSAYcBQVVfeXFMTXRiMUVzeU0zTDlJQUU3VGhKbDBmemsxcG1fQmx0Q3hiWWNUOHpRV1E3STJzVkRfc2VaOEFRRG9SRl80LTlObTJqOHBiOEZWM2wxOC1UNWIwVF9vS2ZHcXZpbFBnM0ZjZ1VSdlNXWFlBWDVJaTR6R0FoTEFrbjNuMFNPQkFQMnFF?oc=5",
+      "date": "2026-06-26T19:57:13+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -218,18 +254,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PSUz5ixtehqw",
-      "title": "How the Iran war impacts Abu Dhabi's AI plans - DW.com",
-      "summary": "How the Iran war impacts Abu Dhabi's AI plans&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2d0ekxmbGNoc2dyUExGeG9Mb09lY0FfX3JCWmpCVTlBOS16bHhjeU9ITnVnODJpN05TamVlS0dOYUtWSjQ5em5qZnJPamJjZVNYdWwtT21yR2Fab253TWkwNDdDQXBxaUlvMFB4bTN2T25fZEhqM1lENlVOdHBqZ3JYR3E1UlHSAYcBQVVfeXFMTXRiMUVzeU0zTDlJQUU3VGhKbDBmemsxcG1fQmx0Q3hiWWNUOHpRV1E3STJzVkRfc2VaOEFRRG9SRl80LTlObTJqOHBiOEZWM2wxOC1UNWIwVF9vS2ZHcXZpbFBnM0ZjZ1VSdlNXWFlBWDVJaTR6R0FoTEFrbjNuMFNPQkFQMnFF?oc=5",
-      "date": "2026-06-26T14:39:58+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -434,6 +458,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "dbZJMOq/99/z",
+      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction - Reuters",
+      "summary": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXprM002YjdFdGFsajMzUzIzOE11VjRJejM2Qk1meFJWR3B0d1g5RHdZQndCWU9MVlRkd29mOUxmdEQzdzBDT2ZIaUpuTzlQU1ByR0lBbUFhcnRleE9ubFViSlRxTnJQRmluVUhpOXZNaW5HOEJGbWFiak5jRlBZQV8tNmNhWEhtOXdjOUZYM3c2d181cnFlT0VrZ1Q2WGZJVDgzNDRwVmEzUXpqeVREZmd6dXE5LUZRT1VLV3BFcXY?oc=5",
+      "date": "2026-06-25T21:21:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -674,18 +710,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "dbZJMOq/99/z",
-      "title": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction - Reuters",
-      "summary": "IndiaMART doubles down on AI to curb fake listings, improve buyer interaction&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZXprM002YjdFdGFsajMzUzIzOE11VjRJejM2Qk1meFJWR3B0d1g5RHdZQndCWU9MVlRkd29mOUxmdEQzdzBDT2ZIaUpuTzlQU1ByR0lBbUFhcnRleE9ubFViSlRxTnJQRmluVUhpOXZNaW5HOEJGbWFiak5jRlBZQV8tNmNhWEhtOXdjOUZYM3c2d181cnFlT0VrZ1Q2WGZJVDgzNDRwVmEzUXpqeVREZmd6dXE5LUZRT1VLV3BFcXY?oc=5",
-      "date": "2026-06-25T10:01:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1085,18 +1109,6 @@
       "articleLang": "en"
     },
     {
-      "id": "i1gZau6l13pO",
-      "title": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models - Reuters",
-      "summary": "Legal tech firm sues US over order limiting foreign access to top-tier Anthropic models&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONnZmR0RQZDZIYXpDbW1HTE5rRUdtWFYtSDVNQVh2cGZwamdESTVpbVRpM2dNd3NpcTR5d1FnaUR0Y1NIRjZoZkZBaUJjSmoxblFwdXh6VmpPVk9xcExmOHczSGlneTRyRHp1cGk1bU5YSkpBc2MtUS1DVllxTTZzcF9tcEJnTzJvd2ZiS0tZb0tjdmNsRHJkaU1vX04yUWJMQlU1U2V5OWNGY0VXTTFRTzNINzRNYU1sRVNxTnlKby1JY1I2aU1saGpB?oc=5",
-      "date": "2026-06-23T21:38:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "VEkEg74cqRu9",
       "title": "As I See It | US Anthropic ban is best advert for Chinese AI - South China Morning Post",
       "summary": "As I See It | US Anthropic ban is best advert for Chinese AI&nbsp;&nbsp;South China Morning Post",
@@ -1145,30 +1157,6 @@
       "articleLang": "en"
     },
     {
-      "id": "G8nqFfT8nFpK",
-      "title": "US AI stock sell-off shakes markets from Wall Street to Asia",
-      "summary": "Losses spread globally as investors questioned soaring valuations and spending on AI infrastructureA tech sell-off shook global markets on Tuesday as attention turned away from developments in the US",
-      "link": "https://www.theguardian.com/business/2026/jun/23/ai-stocks-sell-off-us-markets",
-      "date": "2026-06-23T14:16:24+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "DyvhH1PRPqQH",
-      "title": "You’re only supposed to blow the bloody hooves off: AI Michael Caine narrates Odyssey audiobook",
-      "summary": "AI company ElevenLabs unveils its officially licensed replica of the iconic actor’s voice in a retelling of Homer’s epic poem, while director who previously recorded the star recalls real-life experie",
-      "link": "https://www.theguardian.com/film/2026/jun/23/youre-only-supposed-to-blow-the-bloody-hooves-off-ai-michael-caine-narrates-odyssey-audiobook",
-      "date": "2026-06-23T13:02:47+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "+bOKPHwrjJt8",
       "title": "How to burst the AI bubble: Strike at its roots",
       "summary": "Sci-fi author/tech journalist Cory Doctorow on his new book, The Reverse Centaur's Guide to Life After AI.",
@@ -1178,18 +1166,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "smHJo2FPn4UK",
-      "title": "AI in the classroom prompts tide of concern from US parents and experts",
-      "summary": "While tech companies and Trump have been pushing teachers to use AI in the classroom, many argue that there is little evidence that it would actually help childrenIn October, Kelly Clancy’s son receiv",
-      "link": "https://www.theguardian.com/education/2026/jun/23/ai-us-schools-students",
-      "date": "2026-06-23T12:00:27+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1330,18 +1306,6 @@
       "summary": "Zhipu AI market cap tops HK$1 trillion after GLM-5.2 release&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcHRwcGZxUFpoVEU5d0xIbkJVYzUzZGc2Z1h6bzRMQXEyVkNwWXM2N2hMd2x3MVFHMUtlWS1BdWUyUkpXQ0hHU0dWSVE0VE5NSnBBLUs5VXMzYmhpbmR4Zlh1d0R0STFqTHFEUExMUmtpalVZR2lrT1M0b0JvaklmLTQweU9MVndMa1g2TGlZVWc4dnhvaWtMaTVSME5aRXV3MnowSVJzeW9KbTBl0gGsAUFVX3lxTE9ja3RwdDlRVGZwUVZwV2JiejdJSk8ycDZhMHNvSXF1OEVTYjdlRmFLSWJSVE5vU0JZNmoxYU55UkhjTGxrNnI2UFR4a09DOXQyZlNkR1VDMVI3ZnZWV0tuRjMzdk5wa0hpVzk5NU9yVVZGSjZWYXVTdFNJcDJScm5rd3NCcHdoMUNNUGpTM1JzMEZYWWhyZFpWUGk3TUY2dHF2b283R3VZb244UEg?oc=5",
       "date": "2026-06-22T02:32:00+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "bXuFJUtaUTX2",
-      "title": "Will China’s AI-powered agribots repeat its EV success story? - South China Morning Post",
-      "summary": "Will China’s AI-powered agribots repeat its EV success story?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQkZQa1AzRG9qcVhPTF9vbHRGRWc5YURaYW5JVlhFdW5FSTRJOGVXNm93NDV0WHBhVFJsUmQ5a0s4dUtVbUxZdjlid1JjSDNZbXdybUNKM19MYXVCbzRfc1N0bXN1WXRMVlVZajFjYmNvQk5MQ3g5WmdJNG1KeFg5Ykh5bWpEVEJsRl9sU25OWFlIbGwtejlCT0J6Zld4LXVUSkRrUHFnc9IBpwFBVV95cUxOUUc4U19URE9ydnc5UEpCNnJ3UEt0cXh5cFpLM1VtSFpOd1hQZEJDbnVTd0k2T1RJLXpSazRla0R5LWltWks0aWJtN3B6VGdBa2RiclBHRTV0eWxadGxWRVhqR2MzMHluRXk5OHZpTU1ObUpwRVdfeU1Fcm5zdG9oR3FaeVFrN1Z5UUU2aEhrRy0zWkVuTWpzZTFVbTJ5akN4cjRIeWhOQQ?oc=5",
-      "date": "2026-06-21T13:00:06+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
