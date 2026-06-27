@@ -1,6 +1,6 @@
 {
-  "generated": "2026-06-27T13:40:17.506338+00:00",
-  "articleCount": 106,
+  "generated": "2026-06-27T19:18:47.885233+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -44,11 +44,11 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "koreaherald": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "scmp": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "1ZekB6jIczyr",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "summary": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these t",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "date": "2026-06-27T18:39:32+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "g9OcSxaHtQSl",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "date": "2026-06-27T16:45:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1i6HBVmRS678",
+      "title": "The AI bubble has further to run despite the looming crash",
+      "summary": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoningOpenAI staggers AI model release after White House requestEvery couple of decad",
+      "link": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+      "date": "2026-06-27T15:00:07+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "PCuWTRCs7iUj",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "date": "2026-06-27T14:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xqFxBVDPKRON",
+      "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
+      "summary": "US allows partial release of Anthropic's Mythos AI model&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5",
+      "date": "2026-06-27T13:47:12+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
     {
       "id": "nNqf3tl0+IoK",
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
@@ -74,6 +134,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "42nVq7YYiuEr",
+      "title": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success - South China Morning Post",
+      "summary": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlhLUTIzbHR4NUFiMEg0R2xMZTViM081a2p0c3RmU0x5T3VRcGFpTnFOZjd5dEUtR3FxcDA3dUpmTWljcW9oWTk5S285clh1STVQTlFJelExdmF0Nm4tUE1oN1VqZ1VnRHBoUXotNWxkT1I3bnlUZG5OR0dNM2xWWmNBcGc0Zk1XaWFFbXdYeVNyR1NPQzdlbGM4ZHo4bXdCSWVEcXBiU3Q5RC1NOE54RjFnNmc1Uldibm4xcnV4NC04RDVYUC16RWpZaUxpOV9aNHfSAdIBQVVfeXFMTVpmNVd0UzMwY0lIYXJvVlBEbGI1TXJyNW9tNWRndnZBUTlhd1NfTUpsRF9ibEVnSmZPVnhBSllENUU5YjBEUU9GbWdtaHBZaTBjbHFFaUE1SlNrX1hXY3g1S3dNa3VSTm5Mc0xpR0lXblFYNC12XzR0UVVTbDRub3RoWFBsaDFCdWV3TXlwM3liTEVmTTIyMjdrRnMxWlZRc0ROSW5rWUpCYXBBVmR0aXFrQ2M5dkcyWTRyNWNTS3ZoaXV3bldkdlNEMUFlRVdjajVR?oc=5",
+      "date": "2026-06-27T13:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -89,6 +161,18 @@
       "articleLang": "en"
     },
     {
+      "id": "eK4o4mlr4ZsQ",
+      "title": "Hong Kong prison service pulls AI K-pop video after anti-drug message backfires - South China Morning Post",
+      "summary": "Hong Kong prison service pulls AI K-pop video after anti-drug message backfires&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNm50eThVc1BRN0R3TmxCUEFXc19SS3pyOVJTRGlDX2RsbXEwTGk3ZHdHeHNpN3htS2ttUWJPWXctd2ZtMGU3MzVpbWdEMkZVcFBOTVh2UDRab09oZXZ2TjIwNW9XZ2lvWk9ScHN1Vmp1cHpnMW5qVlRVTjEzYUtqYXhrN0VackJJQ2ZGVFVjcjgwX1FKNjNiXzR3ZWFMbjlicnNndzNXWHhIdzRxRlpwNEJrSHROVVNrSUVlNEhyR1JueWh6ekNDanNPVHl4d25RbHNHU1dJb9IB1wFBVV95cUxPU3ptRm9aNUdlYWFHcUJoa2VmcXItakJuSFIzV2pCc2xDZ1lCemZsTU1JbUhnS0tkc3pNcm5qdHJsQUg1cUtNMmZlZ3NWSWtwUmVTb2RGZGpjTVctcjFYeEMwd2w0dEJQZFdtN2IzVXhhdkJqUzA5QXNSSFRIZGJ4WERJZ1o4X0hITzJzTHhULXh1MTJObU5Ka01GZlRraUIycFAxRVZ4R0NySmlFd0ppNFF2YXNqaEdLdHFJdVl4RUY1dW5vSmJ1R1VJNENYWElPOUoycFJEWQ?oc=5",
+      "date": "2026-06-27T10:13:01+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Re4sFHT1yM3G",
       "title": "Australian rescue team uses AI-powered drone to find lost hikers – video",
       "summary": "Two men in their 20s were found within five hours thanks to an artificial intelligence-powered drone, which used thermal imaging to locate them. Two hikers veered off a walking track in Kosciuszko nat",
@@ -101,11 +185,11 @@
       "articleLang": "en"
     },
     {
-      "id": "0rslB49loXbv",
-      "title": "How the Iran war has disrupted Abu Dhabi's AI strategy - DW.com",
-      "summary": "How the Iran war has disrupted Abu Dhabi's AI strategy&nbsp;&nbsp;DW.com",
+      "id": "J2AiavozpFl8",
+      "title": "How the Iran war has disrupted Abu Dhabi's AI strategy - dw.com",
+      "summary": "How the Iran war has disrupted Abu Dhabi's AI strategy&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFd4VFptRGNvOF83aDBPQmZUaU1JN1JvSVRGbFJoaE9SdkQtcEVNNnBiV3JWZFEtNm9WQldlNVhoSTd4aWNIZ29CMFlrTWdSVW1DQkI3bDZNMkJEcW5FaVZTbFo4U0IwRWhJUllmemNFMHNicTkwLTE5Y2lWcGpOREhwNkw3cXJaZERreXV5VdIBjwFBVV95cUxNZHlxY2ZReWRKTkRNMzlTN3lkOFJHY1RGMlU0M3JLY2JQLUlkeTRpU0FtdWxUVTdwZzBSdVc3ak93Smw0VHQtNmdqLVJLWV9BM05ITlptQnhTSDRjYXVhT1c1c09RWWJpSnN1Snl0aFc2aGI3eDNTWGRFSHFkbFNmbjFpR3FVQmFMU0l1WHlrdw?oc=5",
-      "date": "2026-06-27T03:11:54+00:00",
+      "date": "2026-06-27T08:39:25+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -185,9 +269,9 @@
       "articleLang": "en"
     },
     {
-      "id": "kqAfbFu/fjni",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;DW.com",
+      "id": "M6RnAOXHs/FY",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-06-26T20:50:44+00:00",
       "source": "DW Tech",
@@ -797,30 +881,6 @@
       "articleLang": "en"
     },
     {
-      "id": "DUQwkZhlx+Pi",
-      "title": "Micron posts record revenue on AI surge as China’s memory rivals gain ground - South China Morning Post",
-      "summary": "Micron posts record revenue on AI surge as China’s memory rivals gain ground&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ3Jra2ljOUFXQWJ2RU9XTjd3VlpvRHZFRFRMdGY4d2pDMWxxakhVRFA3M2lWaTl2eThKQVpvaUlOcmRIcUxSbHpqQlNvdV9IeWk2Nm5FVzZjVG5OLW5RYnBSd2xoaUlVRUJMSnFRWUlGXzgzNFRObVI4TkJjUGVGdXlsc3d1MHUxa2dXYzg4VXNJeGlka1p1Vy0ybm5INlBTR3Z6NHMzTTl4QjZIa25Eem1mbUhOZmc5S180UHcxRTNmY1NNZTFlWUZ0dE92d2_SAc8BQVVfeXFMT3o4S3FJVVlqVkRnOTBLd0JGdDU0UmdjZmpmU0dXRE5hZ1Q2dnBESngwVkQtTFlOQnF5Y05oajgtZFFiVU9KeUN6ei1rVHF6cTdRY25CRUVVeHhRM0ZzQUFGWjNqYjVfdDd2WU81Q1lPQkJHdzMyYzV5RE82U21NZTZWbGpyeUo0bEl5RW92ZTlGLWRaaGxVT3RJQ2ZYbmxjMHdkTmJNSzA4NjFTYm00anM4bzJNbDZaekVmT3NBQUpqTUpfTUxmTmFiNHo5N0ZV?oc=5",
-      "date": "2026-06-25T07:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "O5XrRqEEuPxo",
-      "title": "The end of junior lawyers? How a new AI tool is transforming China’s law firms - South China Morning Post",
-      "summary": "The end of junior lawyers? How a new AI tool is transforming China’s law firms&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbFhGWjExNmRkRTZ6MmhSMEdlR2dUVm8xYmd5TlhsLXhKekNONERkSHFMcXctMXhEWVFWWEFSRlhjVzhPb0h3MjZBemZGUG82a004RFZLR21OUDVRWG5HUFdRRTQtTmpEWHY2bXByMXNwWVp3MGNMRHp3RGhYdEwwRFp0NXF2UlRHVUxTemtUb24yd3k2bGI0aFlDcllNV0NMWlU3WWNNQlFDSTRKTVdlZmdMX0h4YTVteDZaTHJUMlU0XzU3Y1ptU0N4M1Nub3Bo0gHQAUFVX3lxTE5temhKY1lPdFB6ME5wMDhQWnU5QXVMOXZZUDZTTS04WHE5OTNOLUMwc3Y5bC1qLWZfcXFFcllDWTg0UWNib3R2R0FTX2VxTkNsSEg1cU9KaGFnRG9LbnVndHB3dFVjSmJQaXdIR0k5TVNFbHhyNGtkeS11bDJlMXYtdTRQUFpENmYxTUZEVkdWNmtVY1U5MVNCd1FxU1piaFU0aTVuaXg3dENCSzAyM0tJbGdZdzV6U2k2b21xVkZzbWhLU0xhX09OcWtiTXhtNHM?oc=5",
-      "date": "2026-06-25T04:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "FLocikSTwYrn",
       "title": "Marketing guru Sorrell says AI will dismantle the old order - South China Morning Post",
       "summary": "Marketing guru Sorrell says AI will dismantle the old order&nbsp;&nbsp;South China Morning Post",
@@ -830,18 +890,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "C5iwExosC1Aa",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors.",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "date": "2026-06-24T22:41:41+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -953,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "407w9a3SmkBi",
-      "title": "Figma now has AI motion graphics and shader tools",
-      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "date": "2026-06-24T16:15:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ukGSU3kwtLV7",
       "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
       "summary": "Previously hidden text revealed without unrolling scroll discusses stoic philosophy on ethics, art and human behaviourThe surviving part of an ancient scroll that was burnt to a crisp when Mount Vesuv",
@@ -994,18 +1030,6 @@
       "summary": "OpenAI unveils custom chip it designed with Broadcom to boost its AI infrastructure&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdThteGtwZVZweXpUZTNQR0djS0ViNGhlZjNacUlpaG5KZ2M2SGdLckxXcEV5T3Z5UDhhRjJ5OUh5LTAxQThQVjNGUG1xWGIwM1VLeUNxNjY2N0RfbnFySTY1d0txYjdlNUVWY1lFbFZhRHcyTV9XRWFkRWZjdzM1Mk1QUWVhTmRRYi1IVklHdlJJeThoMUloTlNFTm4yQ29YTUFXRDUtZjZOeVh2cThIazdhUWd1bjdKcXJsamNqN01VR3RMZUtvLXI3SXpvNGV6?oc=5",
       "date": "2026-06-24T13:22:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "+9aIQsjiKqrz",
-      "title": "RBI proposes guidelines for banks to manage AI risks - Reuters",
-      "summary": "RBI proposes guidelines for banks to manage AI risks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVl96UWxDckhITEUtTmxqN1hYM2pKUlBscDZEMXRIaHBTSlRfQ1lxdGN1dUxMSk9Td3BwWnRPblVaUGU1aWpkTllYSm82MW5xcnJzcExXTG9lVWNzSUFudUtpQWVsdUphdE9acnE4aVVMVWNDLXMyWVRGRjJXQXI3R2YzZERHV1o5c0std3BDUFlRb21l?oc=5",
-      "date": "2026-06-24T12:39:50+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1073,27 +1097,27 @@
       "articleLang": "en"
     },
     {
+      "id": "ujr4i0uOIUGv",
+      "title": "[Best Brand] Seoul Cyber University leads online education with AI-driven innovation - The Korea Herald",
+      "summary": "[Best Brand] Seoul Cyber University leads online education with AI-driven innovation&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hSGlzQWlRVzA0Z3FzTUg4amJ4M2JQNkNyd1FzMHRQVGVHOHRVTnZ0dWdXVnRSdHBDNTdEdElyWEJiRzlmbWxHTExUWkNWU25ycXpPTDY3VQ?oc=5",
+      "date": "2026-06-24T08:59:03+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "hyMvU6Oq08ch",
       "title": "Amid lay-offs in the financial sector, how can banks best integrate AI? - South China Morning Post",
       "summary": "Amid lay-offs in the financial sector, how can banks best integrate AI?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWlFZkFVSGNGQUtOVXFKaThTWTFGNHZfTTZBb2dtTDVWMUwtVkUxZDBQNmxyaEVZb0I2bTFxSDlYLTBZZXFlYkVpSkdKV1R5amhyaDVnUEVoQVpKUFMwMmRVbmFPOGI2dGlieVBQVGZZNW1nYXpYbXNyMTdyVWRPRlVReU9WWkRWa3lJRWRCUHJQNjlraXhxd0JjQUxCU0REcFM4dmtiNE15QWNxbDQ5eHdHdF9faEd5OXZYYmZNdHV0Zk1VODNZcVF30gHKAUFVX3lxTFAtMkx3Q1F0WVdBNWZFSzBWNXN0NUhsZ1luQVVJb1dRTjhGbTIxeV91c0NiN25RdVpwR24zWmFkTU1oZVVyTUJSRjNuUU9vMXNXYW1fMWFpOG9XVmYwZG1sRXpkeVlfTjhZbHFGRlVaSFk4RUFZalZELS1WYUxrQ0pHUjBDSDFYNkdLbnQ3NU94VHZGWjRfbkE3bVMwOUluSGQteFhMMHUzZ0NYT1hOSzZRWkRwc2JVODFBN3NKQzdVT3JUaG96X3JwT0E?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQWlFZkFVSGNGQUtOVXFKaThTWTFGNHZfTTZBb2dtTDVWMUwtVkUxZDBQNmxyaEVZb0I2bTFxSDlYLTBZZXFlYkVpSkdKV1R5amhyaDVnUEVoQVpKUFMwMmRVbmFPOGI2dGlieVBQVGZZNW1nYXpYbXNyMTdyVWRPRlVReU9WWkRWa3lJRWRCUHJQNjlraXhxd0JjQUxCU0REcFM4dmtiNE15QWNxbDQ5eHdHdF9faEd5OXZYYmZNdHV0Zk1VODNZcVF3?oc=5",
       "date": "2026-06-24T05:07:34+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "aHldx0/vbsc+",
-      "title": "‘Who is going to pay us when we’re replaced by robots?’ The Indian factory workers told to film themselves for AI",
-      "summary": "When workers had cameras attached to them, they found it funny at first. But novelty soon turned to concernThe first time the factory supervisors handed garment worker Lalita* a head-mounted camera, s",
-      "link": "https://www.theguardian.com/global-development/2026/jun/24/indian-factory-workers-told-film-themselves-for-ai-robots",
-      "date": "2026-06-24T05:00:36+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1221,7 +1245,7 @@
       "title": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet - Reuters",
       "summary": "AI startup Baseten hits $13 billion valuation as Australia's Blackbird makes record bet&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZmFKWmloVXY5S2JycVlGRWJPUEwxSzNwRGw2SnhVVjE2RnFRMmRDbUJZMnFNUFR4b3M4b1JoUzAyQ3dad21takxpMzdsVmFnd0pmVE96cVlyR0g1V25oSHJzMlVzdFltMTZBXzdQcHNqWFRQUGRQZkVIQWtfZnpRMTJaU1Jnc3NjUHo2T05FWWZBT3hUTXJPdXBaRDNoYy14OFp3M0FqcXBaV0s4QnZNUTFvbXFQVmM1el85WWZHaElzbDlSTC1HMGZxYUpyQQ?oc=5",
-      "date": "2026-06-23T02:07:44+00:00",
+      "date": "2026-06-23T02:06:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1289,9 +1313,9 @@
       "articleLang": "en"
     },
     {
-      "id": "6p94fWobQWvN",
-      "title": "Germany's media rocked by AI scandal - DW.com",
-      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;DW.com",
+      "id": "OOdE+151Pap+",
+      "title": "Germany's media rocked by AI scandal - dw.com",
+      "summary": "Germany's media rocked by AI scandal&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oTWNrOXE2eXZVYUM4VWxyb19PRHhVYktwVEk5ZGVOOGpBcnN5Und0YmZYUUEwMTQ4YmxjRmoxWHFzR1dLR3dBUGQ1RDFoajU5ZklCeDkxcWxKVFpXYUtxcng4UFJSR1V0dmVxRVpNdko1UzV1el930gF3QVVfeXFMTUdUNWY5VVdhNlI0cHc4U2Rsa2xxbkw3RzRhYU5xUkkwaFdjdXpQOVNVN295SmNfVjV6YzhwcVh1NEZTYVV4X1gySHBPR0J0eFBkMklxREFvcFAxblk1QXg1V1Q5Z0xFYjNZSEtqTFc3OVBtSjJrdU0?oc=5",
       "date": "2026-06-22T10:44:36+00:00",
       "source": "DW Tech",
