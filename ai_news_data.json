@@ -1,10 +1,10 @@
 {
-  "generated": "2026-06-30T19:55:26.325006+00:00",
-  "articleCount": 97,
+  "generated": "2026-07-01T03:43:29.050888+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 1
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "dw": {
       "status": "ok",
@@ -48,11 +48,11 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 19
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,174 @@
   },
   "articles": [
     {
+      "id": "uu5Y3Qt/RDEW",
+      "title": "「Claude Sonnet 5」新登場　低コストでOpus 4.8に匹敵とうたうも、タスク当たりコスト増加との評価も",
+      "summary": "Anthropicが新モデル「Claude Sonnet 5」を発表した。上位の「Opus 4.8」に迫る性能を低価格で実現するとうたう。一方、第三者機関の評価ではトークン使用量が多く、1タスク当たりコストはOpus 4.8を上回るとの指摘もある。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000147/",
+      "date": "2026-07-01T03:18:58+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "917fLRbTOsa5",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "Anthropic said it would begin restoring access to the Fable on July 1.",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "date": "2026-07-01T02:16:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "iOy4l7C2T4SA",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent.",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "date": "2026-07-01T02:04:40+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SbKmLAo93nJD",
+      "title": "Anthropic: US has lifted export controls on Fable and Mythos AI models after security risk fears",
+      "summary": "The AI company was forced earlier this month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationalsAnthropic has said the US commerce department has lifted export controls on i",
+      "link": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "date": "2026-07-01T01:51:08+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1KaDD+WkU7F9",
+      "title": "「Claude Fable 5」が帰ってくる　「Mythos 5」含む輸出規制解除へ　Anthropic発表",
+      "summary": "Anthropicは6月30日（現地時間）、「Claude Fable 5」「Mythos 5」への輸出規制が解除されたと明らかにした。7月1日からアクセスを回復し、詳細は近日中に発表するとしている。",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news068.html",
+      "date": "2026-07-01T01:50:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "2AabmaEBds6M",
+      "title": "米政府「Fable 5／Mythos 5」の輸出規制解除　Anthropic「明日からアクセス回復」",
+      "summary": "「ユーザーの辛抱に感謝するとともに、モデルの再展開に協力いただいたすべての方々に感謝する」",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000146/",
+      "date": "2026-07-01T00:59:03+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ILNXuhFuqnbr",
+      "title": "Anthropic、科学研究向けAIワークベンチ「Claude Science」を発表──NVIDIAのBioNeMoツールキットと連携",
+      "summary": "Anthropicは、科学者が計算研究を一貫して行えるAI実行環境「Claude Science」を発表した。データベースやツールを1つのインタフェースに統合し、文献分析から論文執筆、図表作成まで対応する。NVIDIAのツールキットとも連携し、機密データを外部に送信しない設計が特徴。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/01/2000000145/",
+      "date": "2026-07-01T00:54:25+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "VQzca19kOaY8",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access t",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "date": "2026-07-01T00:03:55+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RieI7P+fXShK",
+      "title": "The Trump Administration Is Lifting Its Export Controls on Anthropic’s Mythos and Fable AI Models",
+      "summary": "The White House is easing restrictions on Anthropic’s most advanced AI models weeks after ordering the company to suspend access for foreign nationals.",
+      "link": "https://www.wired.com/story/trump-administration-lifts-export-controls-on-anthropics-mythos-and-fable-ai-models/",
+      "date": "2026-06-30T23:23:04+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RchOEJ3dJpRH",
+      "title": "AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態",
+      "summary": "米ワシントン大学などに所属する研究者らが発表した論文「AI Fiction in the Wild」は、AIチャットとの会話データを分析し、ユーザーがAIを使ってどれだけフィクションを生成しているのかを調べた研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/01/news027.html",
+      "date": "2026-06-30T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "W7PDsiTM33vT",
+      "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - Reuters",
+      "summary": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5",
+      "date": "2026-06-30T22:08:04+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "xwAjtqqGTLZW",
+      "title": "The AI industrial revolution: why US faces a historic tech reckoning from China - South China Morning Post",
+      "summary": "The AI industrial revolution: why US faces a historic tech reckoning from China&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFMxM0pfdy1UNDRJbWJYZ2xqenJnUkVuajZVdmk3Ynh0NnVPN3NQN1doR1E5elRKVDVnU1hheWkzMzJHcGwwNC1JcHVFbU0tN0wwRDh0WEdocW5nM0RSWk5rUm04RldYaVQ5bzhLTnQ2cHEzUUV2cUw4aEw4cEUxdGVGeXBXN0dESDdGNDZrT0RUbXAtaGtQZVczeEZ1WWgyT21maFlMMmtRM00xcTlQX3J0THFQZ9IBtgFBVV95cUxOWWt5SUdXa3pHU1hlVnA0OHZlTmJHRlc1cVRRc1JPMkpYMEZNVjIyVDBRTGdna0tiTm9wYWFMdUQyZThxU1BybXl3b0JWTldhaTc5RXBJWTh6cXVsaThKM2pJRVo4OFRZa0NlTnp2dmhvWHZqM1VJWDJpZUt6ajUyLU8zZVowa3ZWQXhVS0puSHFtaUp3MHhRY0RHYVhuRExJNXNGU2NJRl9OSDBETGpIMGMzV2cyUQ?oc=5",
+      "date": "2026-06-30T22:00:12+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "a2c/E7HBJOcs",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way",
+      "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "date": "2026-06-30T21:50:04+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "L+tGA/NOJK5l",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "date": "2026-06-30T20:33:48+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "hsq/OkOTXV/6",
       "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
       "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing autismAdults in the US who frequently seek out health advice from artificial intelli",
@@ -74,6 +242,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "3MJl5pw2hqXn",
+      "title": "Truth or Fake - Trump mocked for posting 'tacky' AI golden eagle on White House balcony - France 24",
+      "summary": "Truth or Fake - Trump mocked for posting 'tacky' AI golden eagle on White House balcony&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa1haTGxyaE93aWZrTUR2ekJXbGFaeFNCSWNobzNMNFhBR2YwOTdVT1J3QWFxcVhfRHdKZkpjcndoOHRQYjV2RFFMd2d1N2t6ZnZtVWtXM2JsYVBjbjdXdkw3R1o2QjR5Z2trcWdEVGRKU1VNT2kwT2M2X2JoOG1UMDNFRDkwUUhSaThXR0RrVHpiRmF1VW9GT2M1bXEyR3Rr?oc=5",
+      "date": "2026-06-30T19:40:38+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -170,18 +350,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "BlPZRGIFwTKt",
-      "title": "U.S. approach to regulation of AI is problematic, Sixth Street's Chavez says - Reuters",
-      "summary": "U.S. approach to regulation of AI is problematic, Sixth Street's Chavez says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0RrUklGNWpKSVVSck00QTNDR3AxdzJSUGJhWnhEOXBfcDJIUThNRS1VamhSOTdwLXZlR3BIb19uaVIxdHltcTFZdnpCUXdqSkJPajgtVzlHaHd1VXlFd1lXZDdkTTh2eGptT2QzTG0xcEdwNkdBTHUtWllMcEZ4cjJQWDZzRGZWTnVEcWdzOGNwSjVLdERtdGMyRXYwZHJ3ZnZpdlE5ZGpRLTNzSmxrdldhb1poRlhiSDhv?oc=5",
-      "date": "2026-06-30T16:41:22+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -389,18 +557,6 @@
       "articleLang": "en"
     },
     {
-      "id": "W7PDsiTM33vT",
-      "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - Reuters",
-      "summary": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5",
-      "date": "2026-06-30T09:23:12+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "mFSy0GBzA6lz",
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
       "summary": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
@@ -410,6 +566,30 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dsuoiqq96NAU",
+      "title": "China's Meituan says new AI model trained on domestic chips - Reuters",
+      "summary": "China's Meituan says new AI model trained on domestic chips&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUDZFSi1jZ1UxQ0VHOU1jYUtoZlkwWFVZM2duQmxNMlZJSVJ5OW01SFUzSHJYSnRLU3JWM2xWUGVCZEtwb3dkSUFpQUJfbGV5TXNaTE1WalQyaGlYQmNIbWFvOTY0ZmpjMGV4ZDl1RG5MNWp2WTAwN2U2bURNbWh1NWRJYW1GcW5pNTR5bG9LT3htZG9kUHUydWtOWHBadTlqVnU0RE93?oc=5",
+      "date": "2026-06-30T08:45:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "xP47VSO3py1X",
+      "title": "DeepSeek bucks China’s AI price war with peak-hour surcharges for API services - South China Morning Post",
+      "summary": "DeepSeek bucks China’s AI price war with peak-hour surcharges for API services&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNTlWVWY5VXpvaEtUNU9jTGdlbTl0eG5jS3ptVXpZd1laN3c1Z2RfVXBMb2NySXpraWlldzNXYjA3UkJpRzVkaEttRlhXb3JhamVyb3ZNbmN1TFhTSExOUVNfUFhOS25hd1lXZmtNc0tVQXo2ZDduMW1acENVYlNkWE83ZmdPd1pTb2VjS1hfQXhURUw5aU1US09rUkJhMTI3WmZEZGJZSF94V3RDUFBWWWdZZUplNHMwWFVBajlsNHVnek5qdlJPXzNB0gHKAUFVX3lxTE1GRjFoLUhjTDdUOWFKZE1DVmtkWVAxbklXVTlfM2treEhwNUczbkl6WlpkYVBwZFFnVzJ0cjZ1UDVXOFI2QVJDTzQ4aTlGcFFkQjZ6N2hmMFdQVkVfZ2JwYlhNdHhtN3ZEcDFMQ0F6LUZZZ0N0aVpiTmROZE1DZTZUTjlJNlFscEFmWTF5N20yeGRyNzRZWXNmQWVTTmlKbVpza084TUJIbzVVOTRONktCd0FBaW9ycElTV0R1Q0g2SDJpbHJGM3FqcWc?oc=5",
+      "date": "2026-06-30T08:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -581,30 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "1/AboqUMsB3Y",
-      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September.",
-      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
-      "date": "2026-06-29T17:39:17+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "eBT/pbL38iNa",
-      "title": "TIDAL cracks down on AI music by cutting off monetization",
-      "summary": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said.",
-      "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-      "date": "2026-06-29T16:29:04+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0BdoKtzEaDfm",
       "title": "Lawmakers want to ban AI companies from selling your health data",
       "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
@@ -638,18 +794,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "srqWehfVypmc",
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers.",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "date": "2026-06-29T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -701,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "WwntJdKjvsf5",
-      "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership - Reuters",
-      "summary": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5",
-      "date": "2026-06-29T10:46:31+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "43+hQAPZjelg",
       "title": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models - Reuters",
       "summary": "Cheaper AI is better: Soaring bills are reshaping how businesses choose models&nbsp;&nbsp;Reuters",
@@ -725,15 +857,15 @@
       "articleLang": "en"
     },
     {
-      "id": "0+G93kbG2bQR",
-      "title": "Breakingviews - Junior bankers will survive the AI onslaught - Reuters",
-      "summary": "Breakingviews - Junior bankers will survive the AI onslaught&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1lKclFtX1pWdzhEUEZDbnNqUnZJd3h3bUxSMVotOXUyUUR4VnF6TDJCTTdWYTZHdnJzWUUxUlhKVWZ0bERzOEptUnBkZ2lkeU5YdHJPbUJ4STFIOU5OR09kaVVsVUFETmx2SW5Db3VFbFg1aWdRb1hfUnR1TGNHYkVFNlY2NU1PR25hRWNkWnVkb0g0NkcxVnJQT2plcm15OGRV?oc=5",
-      "date": "2026-06-29T05:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "wikdo2XyPmjT",
+      "title": "Korea to power regional growth with AI, chip ‘megaprojects’ - The Korea Herald",
+      "summary": "Korea to power regional growth with AI, chip ‘megaprojects’&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HcERIbmtMUXBoZm1KeUdlRGJlUXVDNm9mNWtLY1BlalZCeEJvMGVQQm1Lano0RkVwMjdocWMwWlgzbFh3NzhsaTlwRzFwWlQ4QzgyWFNKSQ?oc=5",
+      "date": "2026-06-29T06:30:02+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
@@ -761,6 +893,18 @@
       "articleLang": "en"
     },
     {
+      "id": "WwntJdKjvsf5",
+      "title": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership - Reuters",
+      "summary": "Korea taps Samsung, SK Hynix in $576 billion AI-chip drive to cement global leadership&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVUNqWjl6MERPSDlWbU9PcWFac1g2anI3NF8xSE1falktWnRsVUVTdHZOT1VOVmhOemcxUUJPNjdLWWdwM2x5enBYc1RMa0FCNTd3TzFSMGEySDNFM3JRNHVJZjdVWWNnd1F4Wm90dEJrWEgtWGJfNFI2ZWhLeWVkOGJUdTRYTGtqbk1IX0FwSmhrQ0tybXgwZUVsU1pSclVHWERTQzRCWWR6aDVuRzFublFuYk9wYmdU?oc=5",
+      "date": "2026-06-29T01:09:07+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "jlPkWxddb+m3",
       "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
       "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
@@ -770,18 +914,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "40UvI8dt7jkl",
-      "title": "Australia's Firmus Technologies strikes AI access deal with Nvidia - Reuters",
-      "summary": "Australia's Firmus Technologies strikes AI access deal with Nvidia&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUXhFdWlpT3kxWEM2cXkySklsX0FuOVdOU1JadkNMVVNLTTIxd0lmOUpHamVfSzBHdnlTdm93VW83cm9lZ3oxQ3RyZTZ5Q2dUdVJTYUZJQWxjSGNueXJLUVJ6aHdmOFBvQVdoNVBPckN6b2ZTLThRNVJsOU0yM2w2TWxDdklkR2JHRDVmY29kYnhMdGdqT21jZDhDUkU1dTJ3ZDNKUUdtWW5Nd2x0bVgyN1ZGdk0zR2NOZjRSZw?oc=5",
-      "date": "2026-06-28T21:00:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -833,6 +965,18 @@
       "articleLang": "en"
     },
     {
+      "id": "9iaNtHuc6ymH",
+      "title": "BIS says debt, AI boom and fragilities raise global risks - Reuters",
+      "summary": "BIS says debt, AI boom and fragilities raise global risks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVR4T0hxcEdBMnhpb3UwQThfajRZbl9DVkdCNVRmaUFoaHhNX1hzWm9MM3pXTk5aazFzMGpySTRCY3BPWUJfX0cyZE41ZjlmOVVOdWZBVk81QkllWjdxcEFSYmJnU19tZjN2MEpabDFrSS1FZk9LMXNfR3FTX0pLYg?oc=5",
+      "date": "2026-06-28T09:03:46+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "4e9mQf7yMiLQ",
       "title": "How AI boom exposes investors to risk, while a downturn could see a fast crash - South China Morning Post",
       "summary": "How AI boom exposes investors to risk, while a downturn could see a fast crash&nbsp;&nbsp;South China Morning Post",
@@ -881,9 +1025,9 @@
       "articleLang": "en"
     },
     {
-      "id": "xqFxBVDPKRON",
-      "title": "US allows partial release of Anthropic's Mythos AI model - dw.com",
-      "summary": "US allows partial release of Anthropic's Mythos AI model&nbsp;&nbsp;dw.com",
+      "id": "pYXFBc1sbSpU",
+      "title": "US allows partial release of Anthropic's Mythos AI model - DW.com",
+      "summary": "US allows partial release of Anthropic's Mythos AI model&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNblZFRGxOS2hwck8tVnBHOHZ4MXdFLUFyR0IxTFpxY2hTR1FLMG1mcTJJeXF6MjJZMXQxQk0xTy1saUR6WExGblVRcFRXTU8wMEQ0ZmRaWTd2NEd4b01SZWJjeGtmMDVQMUZ3MDFYSVBzTEh5N0twbklVZmUyaGd4Yk9xU01fbklXMExaLW9HLVhSd9IBkgFBVV95cUxOSVAyLVN4NVdYOFNLRWEtUDRKaXBpeEFLNkdrZGVHWU5BWXlFR2xvbnU3UUw1VTl3LVNBZDJhVFJISGtLUkV2V2V5Rk04QWlMc1dDOVByWlBSNWlfZ2tLczE5cUFNUlB6SW5USTkwbnVwNGtZY2t1akNJWU1oYmZJX0JSXzJSNHlZVkx0YUhadmhQUQ?oc=5",
       "date": "2026-06-27T13:47:12+00:00",
       "source": "DW Tech",
@@ -1001,9 +1145,9 @@
       "articleLang": "en"
     },
     {
-      "id": "J2AiavozpFl8",
-      "title": "How the Iran war has disrupted Abu Dhabi's AI strategy - dw.com",
-      "summary": "How the Iran war has disrupted Abu Dhabi's AI strategy&nbsp;&nbsp;dw.com",
+      "id": "0rslB49loXbv",
+      "title": "How the Iran war has disrupted Abu Dhabi's AI strategy - DW.com",
+      "summary": "How the Iran war has disrupted Abu Dhabi's AI strategy&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdFd4VFptRGNvOF83aDBPQmZUaU1JN1JvSVRGbFJoaE9SdkQtcEVNNnBiV3JWZFEtNm9WQldlNVhoSTd4aWNIZ29CMFlrTWdSVW1DQkI3bDZNMkJEcW5FaVZTbFo4U0IwRWhJUllmemNFMHNicTkwLTE5Y2lWcGpOREhwNkw3cXJaZERreXV5VdIBjwFBVV95cUxNZHlxY2ZReWRKTkRNMzlTN3lkOFJHY1RGMlU0M3JLY2JQLUlkeTRpU0FtdWxUVTdwZzBSdVc3ak93Smw0VHQtNmdqLVJLWV9BM05ITlptQnhTSDRjYXVhT1c1c09RWWJpSnN1Snl0aFc2aGI3eDNTWGRFSHFkbFNmbjFpR3FVQmFMU0l1WHlrdw?oc=5",
       "date": "2026-06-26T14:39:58+00:00",
       "source": "DW Tech",
@@ -1157,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "pYAUEdAPQYuh",
-      "title": "Repositioning retail for the AI era",
-      "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants",
-      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-      "date": "2026-06-25T14:22:59+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "uZzuZdtvMONw",
       "title": "How a Chinese physical AI start-up’s new paradigm bypasses US road maps - South China Morning Post",
       "summary": "How a Chinese physical AI start-up’s new paradigm bypasses US road maps&nbsp;&nbsp;South China Morning Post",
@@ -1178,18 +1310,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "mqxXsiDZL653",
-      "title": "World Cup Teams Are in a Race for AI Dominance",
-      "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-      "link": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-      "date": "2026-06-25T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1205,15 +1325,15 @@
       "articleLang": "en"
     },
     {
-      "id": "svyGsUZ2VKz6",
-      "title": "Datacentres are growing target of global climate-related legal cases, report finds",
-      "summary": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollutionThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation aro",
-      "link": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
-      "date": "2026-06-25T10:03:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "piNIfKsCio8V",
+      "title": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI - Reuters",
+      "summary": "NEWSLETTER: Artificial Intelligencer: Wall Street can’t decide what to think about AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWoybWRiSDVFTWkzcnhBeWFuckJLTTRvTDdtWTRMQWF4U0FpczAwaHc3SF84NFBzemkwR0NoZHpvdkRvTkNtRUw1VERaSU1NZW1Pc1VWeG1uVmk5WWhwUXJOQ1RPMWh4b2VtZXY4MEt6OVBBbFdSeXhhRm16bXVNc1RCbm5HYURQNGllaUgwMTRRVlMwdE54enp2ZkNKcXpNdUR1MVJodEJyVWdpQmhxRWxGd01XeHN4OE5NbkNxdXZwS1JvekVTell3dFRib1lrODZMU0hB?oc=5",
+      "date": "2026-06-24T20:20:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
