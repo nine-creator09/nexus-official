@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-02T08:53:58.946060+00:00",
-  "articleCount": 120,
+  "generated": "2026-07-02T13:57:39.875574+00:00",
+  "articleCount": 117,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "ars": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "itmedia": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 17
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,90 @@
     }
   },
   "articles": [
+    {
+      "id": "AwVsEd0wIEAv",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft follows Amazon, OpenAI and Anthropic with its new AI deployment group.",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "date": "2026-07-02T13:53:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GJE3/9MzqZog",
+      "title": "Teaching AI to run with the turbines",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "date": "2026-07-02T12:51:44+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "La8QHsOTB4E+",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startu",
+      "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "date": "2026-07-02T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "r2lHMJ2gd1ic",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "date": "2026-07-02T12:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "roOmbN2aLmYz",
+      "title": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks - Reuters",
+      "summary": "India, Japan sign pacts on AI, metals and energy after Modi-Takaichi talks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzFpMWZDTXlQMENEWENudWcwWThrNU00ZVp5UWQwWGp6QXd6d3ZBcmtjRnhLdFZzdFZvWjgxeWRLdDk0eEtiZWV1UGpEUWhhRlYtaHdtODVSNkdqdHlBR3lpYkpkOVNNWTdROHhEX0FlQzdlYTdmRThfd1ZVX2pkc3ZYYlVwdzVZUXU2TWh1c09NRGgyRVpWMEZ6RFhJVk5ld3pQLXlUdXZiRHE3WHBaTXZn?oc=5",
+      "date": "2026-07-02T11:02:25+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "LosimglOPQtb",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "date": "2026-07-02T10:23:27+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "A0sxTn2RO/uW",
+      "title": "Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry - South China Morning Post",
+      "summary": "Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0tqYzFuSXBCQ0N4ZG5aUEVUSzFES1NJY1FlMUMwSS1QanhZcTFHMlZ3WnVJZEE0V2R6N0RXQkowbG13aVk1MVBaaTZwbXVkTnhtcF8tdlIzRThYd1AzM1ZGSV84aXd2Sk4yS0tVVDd0Q2pMbzNOM3FTU09aQURpMEN0ZnpJS0gwc0xkeFlmSFJWaWN6eVl4dnhfeENGWkZDSGppYkhLRFE2Q0lEYjlCQ21TVDEyejhvbWNqY2kwRTJOSW_SAcMBQVVfeXFMTVVIYUt6NWpOZGhIQXExQTdrV0Z3Q05zb1J3Y2pBVVJ1eGx6bFVORVY3WjkwNlA5bF9OLXB4WVplTzJud2ZIWWlsQ0MtSlVFX3pKZFpodnZuekc5X19PZnJlTjJhdDRYNl80NTFiMnBoNVpUSjVsUUc4MlFYVnFWM3FxVUhHUFdOVGUwalBLSnVsaUplNWdBRTh5MFVRdDFQZVhlRVd0MTd4M2JlSm81UnNpbmRzOE41UEI3RUlxckxmcWNF?oc=5",
+      "date": "2026-07-02T10:00:32+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "LvQntXpnzglK",
       "title": "A new, inexpensive Chinese AI model is catching up with Anthropic, OpenAI on their home turf - Reuters",
@@ -103,7 +187,7 @@
     {
       "id": "G0bLlgpxDFnm",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI.",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "date": "2026-07-02T05:30:00+00:00",
       "source": "TechCrunch",
@@ -117,7 +201,7 @@
       "title": "OpenAI proposes handing Trump administration 5% stake, FT reports - Reuters",
       "summary": "OpenAI proposes handing Trump administration 5% stake, FT reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUNkeGxUSzgzdlZ3STBUWGtaU3pHVUFhUWlCYWh6MVZKVjNnckJRTVBiNFF0d0ZvTjB0OWtGcWtxR1ZIY1lLVUdtSHQ4LXY3MUQ4ZHNIdkFyMzRuOXZkaEVqMDBaTjRkeXYzcGNTVWg2TEwxWUNVVFJDcEtSbUFnd2J1NzVJLXJPX3lHcG1icFh3YmxqMDR0cS1qTW85ZnpQeXBwdUNuQjBETmIw?oc=5",
-      "date": "2026-07-02T04:58:01+00:00",
+      "date": "2026-07-02T04:27:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -341,18 +425,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Ao6jw+TGH8j4",
-      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
-      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
-      "date": "2026-07-01T15:25:04+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "ocSwckoQfXzD",
       "title": "AI hopes and fears dominate global central bank meet - Reuters",
       "summary": "AI hopes and fears dominate global central bank meet&nbsp;&nbsp;Reuters",
@@ -466,6 +538,18 @@
       "summary": "Unchecked AI progress may pose catastrophic risks, UN panel warns&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZzlYcjZBRTVTUHhqcGM3ZXZwVS1XWktHaWVmckFuZjg1bzZPNnZqWDJxUzktV2c4TDA5VHY4ajIxbjVrb21MYnRiM0Q3WDRmMUZZQWxpWlZzZGh4QlVsWF82SGlYZ3lSZVNab056ZWdhTWphSnhXY2lZZHUxb19oWF9udWpTQnNGWkFVVFo0Y0VPckVYTkU5VmozMHA2dE9OanE3SER1cFVzN0U4WkE?oc=5",
       "date": "2026-07-01T13:10:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ao6jw+TGH8j4",
+      "title": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports - Reuters",
+      "summary": "Meta building cloud business to sell excess AI capacity, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTFZdGllTTA5UmJ6WmxLYjRDUHJ4RWg1U3dCOEVGTElDMUJlNWQwOTg0VWZxTGUxSWVPaEJqTjJ0TTZsRHk5Ynh4RC15a0ZVQkdxQVVGdTl0UXRZZ3NBLVZWZVQxcWJQSEoyQ01LZ3F3V0FnWFZucTNibm9nTm9DZlVfNzAxaW14LXFYQXRxdmxFMXZBeDF0NEo1dnN0S2tFdTlpNVF3bjNoRVY2WjE2SkFBNXhzWkVHOFRFOVk3Q2ZZakk?oc=5",
+      "date": "2026-07-01T12:52:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -917,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "wQhIcx4qfWI6",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API.",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "date": "2026-06-30T15:08:42+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "PDuxostlO3TS",
       "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans",
       "summary": "The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to pitfallsName: “Greybeards.”Age: There’s a clue in the name. Continue reading...",
@@ -938,18 +1010,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "FmnDAUQQoVTw",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings.",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "date": "2026-06-30T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1133,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FW2ZgEiNbd9d",
-      "title": "AI agents are not your “coworkers”",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Imagine coming in to work to learn that a new underling will r",
-      "link": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-      "date": "2026-06-29T18:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0BdoKtzEaDfm",
       "title": "Lawmakers want to ban AI companies from selling your health data",
       "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena",
@@ -1153,18 +1201,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "EtNQVOt3DsOS",
-      "title": "Agent confidence on the technical frontier",
-      "summary": "Enterprise investment in AI is booming. Gartner is calling 2026 an “inflection year” for organizations to align their AI projects with strategic business objectives. As the pressure to prove ROI mount",
-      "link": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-      "date": "2026-06-29T14:44:01+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1178,18 +1214,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "P6ugp00nflBf",
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The inevitable weakness of metrics There are plent",
-      "link": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-      "date": "2026-06-29T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1268,24 +1292,12 @@
       "id": "mYqiG6aDmYaU",
       "title": "China’s first AI-powered cancer vaccine production line set to launch in Beijing - South China Morning Post",
       "summary": "China’s first AI-powered cancer vaccine production line set to launch in Beijing&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEN6OTBneWNOZjBGZktrZFNoS2c2NTFzN3JKUldLRzk4bDNBVVhWbVd1eTZEdi1wQWNFUGctR0lHcVFCNnhvUU5nb1owNEdGdnY3U1p1UGc2ZzRVMHNaOXN3SFBGUXhhaUN4SU11emhZX1hmM3M3RVV2bWhqZzBycXNwcDBiT3VEeWF6dXlRM245akcxUWZxNktha0RNUDlkZGNIbU4tdkNibzRQWUlpRVdZLXVNMUtJbE5ESTdsVk1YX2RGbWVNbUd3bTlGSkk?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEN6OTBneWNOZjBGZktrZFNoS2c2NTFzN3JKUldLRzk4bDNBVVhWbVd1eTZEdi1wQWNFUGctR0lHcVFCNnhvUU5nb1owNEdGdnY3U1p1UGc2ZzRVMHNaOXN3SFBGUXhhaUN4SU11emhZX1hmM3M3RVV2bWhqZzBycXNwcDBiT3VEeWF6dXlRM245akcxUWZxNktha0RNUDlkZGNIbU4tdkNibzRQWUlpRVdZLXVNMUtJbE5ESTdsVk1YX2RGbWVNbUd3bTlGSknSAc8BQVVfeXFMTVBGMjI0M0tQVFFxald5Nmg0Tm9aNC1UYXFDSW1EYW5SejJYVm00WG5fOXlSRUtWNzlFanM1X05lc1pLTjZFQkg4YlcwV2JKWnNmM3JCWHBhUXN2SW9fRkNZMkkzN08xRmNWckZyaXNuYmUza2Q5NW4tdDRUYWE4Vkh0V3NpY2JfRWV5a3E4aHEwMnBNVTc4SXhSVVVLS2hOajJJaElmN3BDTm9RZkhseTJzN3kwUVByV0NSRFRacURYNjZCcjJvTWVEdk5ZcFhn?oc=5",
       "date": "2026-06-29T03:00:27+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "jlPkWxddb+m3",
-      "title": "China’s Z.ai claims it can match Mythos on cybersecurity",
-      "summary": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "date": "2026-06-28T21:42:51+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1373,18 +1385,6 @@
       "articleLang": "en"
     },
     {
-      "id": "42nVq7YYiuEr",
-      "title": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success - South China Morning Post",
-      "summary": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlhLUTIzbHR4NUFiMEg0R2xMZTViM081a2p0c3RmU0x5T3VRcGFpTnFOZjd5dEUtR3FxcDA3dUpmTWljcW9oWTk5S285clh1STVQTlFJelExdmF0Nm4tUE1oN1VqZ1VnRHBoUXotNWxkT1I3bnlUZG5OR0dNM2xWWmNBcGc0Zk1XaWFFbXdYeVNyR1NPQzdlbGM4ZHo4bXdCSWVEcXBiU3Q5RC1NOE54RjFnNmc1Uldibm4xcnV4NC04RDVYUC16RWpZaUxpOV9aNHfSAdIBQVVfeXFMTVpmNVd0UzMwY0lIYXJvVlBEbGI1TXJyNW9tNWRndnZBUTlhd1NfTUpsRF9ibEVnSmZPVnhBSllENUU5YjBEUU9GbWdtaHBZaTBjbHFFaUE1SlNrX1hXY3g1S3dNa3VSTm5Mc0xpR0lXblFYNC12XzR0UVVTbDRub3RoWFBsaDFCdWV3TXlwM3liTEVmTTIyMjdrRnMxWlZRc0ROSW5rWUpCYXBBVmR0aXFrQ2M5dkcyWTRyNWNTS3ZoaXV3bldkdlNEMUFlRVdjajVR?oc=5",
-      "date": "2026-06-27T13:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "eK4o4mlr4ZsQ",
       "title": "Hong Kong prison service pulls AI K-pop video after anti-drug message backfires - South China Morning Post",
       "summary": "Hong Kong prison service pulls AI K-pop video after anti-drug message backfires&nbsp;&nbsp;South China Morning Post",
@@ -1421,18 +1421,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zhlw+/Ypwf8x",
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
-      "link": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "date": "2026-06-26T17:05:40+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0rslB49loXbv",
       "title": "How the Iran war has disrupted Abu Dhabi's AI strategy - DW.com",
       "summary": "How the Iran war has disrupted Abu Dhabi's AI strategy&nbsp;&nbsp;DW.com",
@@ -1442,18 +1430,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "W3ovb8i/3oM9",
-      "title": "China keeps an eye on AI smart glasses as privacy concerns come into focus - South China Morning Post",
-      "summary": "China keeps an eye on AI smart glasses as privacy concerns come into focus&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2xlWU0zb1F0RTk2a3c3Smd5M19qOUFROURhei00S0tvM1c3T21ubUFSamVhOW1iMDh5SjNkN2lvV2VVSV8ydENOV2t6QUh6V2wwMGVGMTBFRmtEbUJDOU5vakxpQ2pLdzBvX19Eallwa2NEbUZZX3pqbVN2LUc0a253OXJPaW1NTTNiS0VGRGJfanQwS0VhUS1RR2RwS29kOFhPcdIBpAFBVV95cUxNWDZGMVR6YmoxUnU5dnR3NGNmOC1fQVNEci1CT1NncEJNa0FsR1FuMkh1TXQzTjJjekZ6akd4UF9KemhCRTBwc2twbGJtSlRIeVh5SDZrblMtRTkyZS1Dd3QzVUpkaWg1US05dm5rVGF5eVloTkM3MGFUOVp6VWZfQ0phVUxJMDhNbVJxNWRiTkJ6S2Q2XzZNdlZuTHhiNGxmY0dNMw?oc=5",
-      "date": "2026-06-26T07:00:36+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1486,18 +1462,6 @@
       "summary": "Exclusive | US assures India over AI ‘kill switch’ as ‘Pax Silica’ expands to counter China&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORmpFMEdNdzloX1plaHI1TF9nNHViNzFHWXhvSzJUcHprSS1Rcy1SMkxPOGFKWlA0dXhhLW9JTU52TWJuMmFCcndDYXBfS3Z0U1c4UXlFV2dtSzktdWh5Q3lWZ3ZIQmxpOS1sV2NoLXRlamYxMThicnB4MWxpd0d3LVgtaEVITGtudWU3bXZUdVh6RXVMb0ZlWkFtSkNtcWZFdE9zV3J2c2ZaVWFMWWZLQkhoNUtqei1sTmfSAboBQVVfeXFMTlhNSkFRVnBnRjZjR1pCX3pldjh5TnJ2TEltT09lbjhDOWpLUUlqemxmZWJsanZUM1RRV3paaUJNTHpXYVhMQ05iWU5HMUFxOGI0R0F4Qy1LVUNfSW5ja25mUEF4cXNaX2NabXliYWpWcGwzSU0zYXB5cGNsTnpHZ0p1ZWJ0R0NDWHVoQ3BWUGdoN3dwbE5kTEU1aDdSaTU1bDkxdEZ2NVJPbFdxUXRnaGNZSGdOcy12NkpR?oc=5",
       "date": "2026-06-25T17:09:44+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "oM6of6xBr0qr",
-      "title": "DeepSeek on hiring spree – seeks newcomers, not just AI geniuses - South China Morning Post",
-      "summary": "DeepSeek on hiring spree – seeks newcomers, not just AI geniuses&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmFEcGJhYTdvNHZNRWE3VnFpTFVJSnFIQnRHZ25yMTFLem1nVjZuOUpvV1M5NDdlN1RNR0VzNTkza3NDTHdUX2JjSDczLTNRZjNIdVZUSGh2Z1hYd25OM2wwVF92VVktVkd6MFhwdDFMNzVoX0pfbmJNQ2toRk9ldVkzSXIxRGUyZFNZWGRSMDBTRm5NZDZCbVlkTWdnOGFjTlFFMnlQbVZtczB3WUpYTDJqTkJMWGN5Z2dz0gG7AUFVX3lxTE1KbUdTSE5TdGRwM2lZdDR3eGFHd2lQQmxHOEluM1ZuSUg1TXA3dlFZdzRCSGVMM0JtSm8wWDF2QWx0RV8ybTlTeGdUcjJJdXdiTXhJdXZTU1E0NUxDVV94ajhEZFFUd3NsVU1zdFF5cGJTcTR0WFJ6cXJubndPMUp4QWtscGNQQVZFQXJFR1hja2VPTURTbGpOdXZtMlcyZXJUTTByWVRhd2t1a2Z5cS1NLVpVemlFeVQ3ZkU?oc=5",
-      "date": "2026-06-25T16:38:30+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
