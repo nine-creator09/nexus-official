@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-04T08:34:53.420488+00:00",
-  "articleCount": 122,
+  "generated": "2026-07-04T13:22:41.397758+00:00",
+  "articleCount": 121,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "reuters": {
       "status": "ok",
@@ -65,8 +65,44 @@
   },
   "articles": [
     {
-      "id": "1waDiQP1aJZB",
-      "title": "Could the next great novel be written by AI (and would you even be able to tell)?",
+      "id": "J5Zpndcj0Fvo",
+      "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
+      "summary": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Star",
+      "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+      "date": "2026-07-04T12:00:12+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "usv16Rjsw7JG",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "date": "2026-07-04T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0Uwca91clCP+",
+      "title": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn - South China Morning Post",
+      "summary": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0x5NTQzS0hrQnVPem5pN0JNSmNrSkVxZ0R4dDlNMENXOGxEN2Vpcl9YM1BHVHdqYXktdnE4R1RwNVB1c2c5LXpEZ09QdExaVWxyRlkxVmNLQ0xvXzJ0anl1TjJrVkNjaHdYRm1penVrb1cxU2lRYl9aRThFT0FqMnpoQnhzbWZSU2Q0eGlCTEg4eUhmUUVNUV9kTDRJVXdXbi1Qdzc4T1JEWk5RUjBNQ2NNM3pRb0lMaVRBUklQOVNXbks5UkJfTE1hYzJQWkZoWkhhT293a0NWZGF10gHcAUFVX3lxTFBNZHIyVnRpdzlXSkY1TEROOFZMY1lDcHFKT1JlTU5wd054bEdXSk9LWFRNT1E2M3AzSjViUG5CZEdCYWtVREZtR0ZnSFJJWjBSNmZCRFVBMzhlanBSQl9STTB1VEMtZ3lwMURQLWF5S1NLNFF1aGMwLUZIWGpUdlhESHBWcGRNZllXc3ZMUi1paER1dTFaaFJxNF9qbV9UNVJaVl9WRVdRaUFTc2ZFVXNDZDBMSjByZUVrdUVsRV9DVk1WdUI5X29GVUg0QVdGaUc0dlRRbnA1OHBHcEI?oc=5",
+      "date": "2026-07-04T10:54:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "t1a1oNvxlyZW",
+      "title": "How AI is changing language",
       "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine language, while novelists including Jennifer Egan and Jeanette Winterson ref",
       "link": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
       "date": "2026-07-04T08:00:07+00:00",
@@ -77,15 +113,15 @@
       "articleLang": "en"
     },
     {
-      "id": "0Uwca91clCP+",
-      "title": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn - South China Morning Post",
-      "summary": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0x5NTQzS0hrQnVPem5pN0JNSmNrSkVxZ0R4dDlNMENXOGxEN2Vpcl9YM1BHVHdqYXktdnE4R1RwNVB1c2c5LXpEZ09QdExaVWxyRlkxVmNLQ0xvXzJ0anl1TjJrVkNjaHdYRm1penVrb1cxU2lRYl9aRThFT0FqMnpoQnhzbWZSU2Q0eGlCTEg4eUhmUUVNUV9kTDRJVXdXbi1Qdzc4T1JEWk5RUjBNQ2NNM3pRb0lMaVRBUklQOVNXbks5UkJfTE1hYzJQWkZoWkhhT293a0NWZGF10gHcAUFVX3lxTFBNZHIyVnRpdzlXSkY1TEROOFZMY1lDcHFKT1JlTU5wd054bEdXSk9LWFRNT1E2M3AzSjViUG5CZEdCYWtVREZtR0ZnSFJJWjBSNmZCRFVBMzhlanBSQl9STTB1VEMtZ3lwMURQLWF5S1NLNFF1aGMwLUZIWGpUdlhESHBWcGRNZllXc3ZMUi1paER1dTFaaFJxNF9qbV9UNVJaVl9WRVdRaUFTc2ZFVXNDZDBMSjByZUVrdUVsRV9DVk1WdUI5X29GVUg0QVdGaUc0dlRRbnA1OHBHcEI?oc=5",
-      "date": "2026-07-04T00:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "WX2e+V35/9tv",
+      "title": "Google, Amazon emissions rise sharply, driven by AI boom - DW.com",
+      "summary": "Google, Amazon emissions rise sharply, driven by AI boom&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWFTdi1nRHlIS2F0dWNjVHFqdE1QcG1SYnlGXzEzY29vWk4yeTRzcFFlWGtDWVQyUVZyT3FsRkxNLXd5Nm14RUxsUnZXS0VPazRqSzFzeFZrZ0ZMblpxanNmaG51WWZXb203ZU1qMTlTTlZBYjdsRXEwZl9QQS1kWEt2R0VWVi1VS3ZtUnk2XzXSAZABQVVfeXFMTzRsY1VsZFhKTDB5N19WdmF5VlRvYVc4ZmJZcXZPdlVOSi1TekgyT0dxcWJNU3hHNVo4WFFGYjBzMUtfQnZ6Q1JQYVNNNEVYVnZadzJIdkZrUnkwT21HOGRyUThBcGE5OFExV1o1Z2UxNlZmSFlJazVHZEhRanlhREFlMXNyZkM0czRhZjhiR0Nf?oc=5",
+      "date": "2026-07-03T22:38:36+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -149,6 +185,18 @@
       "articleLang": "en"
     },
     {
+      "id": "CIQzxhGg6wZh",
+      "title": "AI drones made in Germany see duty on Ukraine's front line - DW.com",
+      "summary": "AI drones made in Germany see duty on Ukraine's front line&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5",
+      "date": "2026-07-03T16:42:17+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "bk/yeTj5s3OT",
       "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
       "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
@@ -194,18 +242,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "WX2e+V35/9tv",
-      "title": "Google, Amazon emissions rise sharply, driven by AI boom - DW.com",
-      "summary": "Google, Amazon emissions rise sharply, driven by AI boom&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWFTdi1nRHlIS2F0dWNjVHFqdE1QcG1SYnlGXzEzY29vWk4yeTRzcFFlWGtDWVQyUVZyT3FsRkxNLXd5Nm14RUxsUnZXS0VPazRqSzFzeFZrZ0ZMblpxanNmaG51WWZXb203ZU1qMTlTTlZBYjdsRXEwZl9QQS1kWEt2R0VWVi1VS3ZtUnk2XzXSAZABQVVfeXFMTzRsY1VsZFhKTDB5N19WdmF5VlRvYVc4ZmJZcXZPdlVOSi1TekgyT0dxcWJNU3hHNVo4WFFGYjBzMUtfQnZ6Q1JQYVNNNEVYVnZadzJIdkZrUnkwT21HOGRyUThBcGE5OFExV1o1Z2UxNlZmSFlJazVHZEhRanlhREFlMXNyZkM0czRhZjhiR0Nf?oc=5",
-      "date": "2026-07-03T13:58:41+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -257,23 +293,23 @@
       "articleLang": "en"
     },
     {
-      "id": "CIQzxhGg6wZh",
-      "title": "AI drones made in Germany see duty on Ukraine's front line - DW.com",
-      "summary": "AI drones made in Germany see duty on Ukraine's front line&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5",
-      "date": "2026-07-03T10:35:33+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "D91juBnBWZOL",
       "title": "Argentina's plan for AI-run companies can't avoid humans - Reuters",
       "summary": "Argentina's plan for AI-run companies can't avoid humans&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSU9ZWGtkWXpRSEJsRFVXWGYyZ1p5R1lad04yMXFWcXNTRUxld1d2NXJhTDFaQ0M5bnY0ZUdQNlhIOTZYZTZFbDAyY0dRSHFoV3hsOXlPWm53ZGNHUGM1VnpQLTJMOHVraURnZXF6R2pGNGFSZExRMVZ6T01qb2FnWEVQZTlzYTFXelhET29GeWVpYVhmcWtOeTdzWnQ0VGF2X2Zv?oc=5",
       "date": "2026-07-03T10:21:05+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ltXVFwZQa9E4",
+      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
+      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
+      "date": "2026-07-03T09:21:32+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -290,18 +326,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ltXVFwZQa9E4",
-      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-      "date": "2026-07-03T06:50:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -470,6 +494,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5ZCLOVeU177P",
+      "title": "Pick n Pay launches AI grocery shopping assistant in South Africa - Reuters",
+      "summary": "Pick n Pay launches AI grocery shopping assistant in South Africa&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGd3bUw3UGVpQ1A2YllIZ3NOYy1JNHpqU0NLczNGQzNkV2VLdElJbkhLWkExVVBkamJFbDlpRmxXUzFlR2pYdlVLbEtWWVBJY3RWYzFvZlVDLWtQc2RDMHRGVmZjZk9RdHk4Z05HbzZ5S3YxVWw4blZDOGd2U2Vad1RHSHB3bzV1bkFoZzg2Uy1BMTZhRGdiWTNtU3M3NDM5SGppN1hmdGxTenVka20zNg?oc=5",
+      "date": "2026-07-02T17:53:21+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1181,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "W7PDsiTM33vT",
-      "title": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle - Reuters",
-      "summary": "Samsung, SK Hynix mega South Korea chips gamble tests optimism of AI cycle&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMk1zekxDdlhicFlKSXppbTBDQk9TaTFwX04wUnNiWFVsWm45aUQ2ckt4R2Nhbm12NFViN2FDa2t3anBJOXZ0QTdqUnBkelNqSVpTaXdPYnlyYkVMQldEVENpVU16dUt6eGZSLXlXY0g1b3hlZXBTeUlHTno2MGoxQnp6M3hiXzJKdnRMNEJxbzljN25MVDhkUTdtYWdOMDhnWE1mOE02cURBeDJRUTdaNGlVeEh3MWZzVnZmMWN6ZTFqSG9FWVpKN1gyRlU1OWRBZzlpMDBVTmtGSnY1LVE?oc=5",
-      "date": "2026-06-30T22:08:04+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xwAjtqqGTLZW",
       "title": "The AI industrial revolution: why US faces a historic tech reckoning from China - South China Morning Post",
       "summary": "The AI industrial revolution: why US faces a historic tech reckoning from China&nbsp;&nbsp;South China Morning Post",
@@ -1289,18 +1313,6 @@
       "articleLang": "en"
     },
     {
-      "id": "csMuiXXblIcf",
-      "title": "Silicon Valley donations make Colorado Democratic primary one of state’s most expensive",
-      "summary": "Manny Rutinel’s House campaign draws millions from big tech as pro- and anti-AI factions spar over regulationPolitical groups funded by top tech executives have been homing in on one local race in Col",
-      "link": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
-      "date": "2026-06-30T15:26:09+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "wB2eMoobDH8m",
       "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
       "summary": "Iran war and AI boom drive wild ride on global markets&nbsp;&nbsp;Reuters",
@@ -1393,18 +1405,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "9KHedsk6609C",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "date": "2026-06-29T19:47:35+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1514,18 +1514,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "42nVq7YYiuEr",
-      "title": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success - South China Morning Post",
-      "summary": "China’s AI-powered laser mosquito zapper goes viral after crowdfunding success&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSlhLUTIzbHR4NUFiMEg0R2xMZTViM081a2p0c3RmU0x5T3VRcGFpTnFOZjd5dEUtR3FxcDA3dUpmTWljcW9oWTk5S285clh1STVQTlFJelExdmF0Nm4tUE1oN1VqZ1VnRHBoUXotNWxkT1I3bnlUZG5OR0dNM2xWWmNBcGc0Zk1XaWFFbXdYeVNyR1NPQzdlbGM4ZHo4bXdCSWVEcXBiU3Q5RC1NOE54RjFnNmc1Uldibm4xcnV4NC04RDVYUC16RWpZaUxpOV9aNHfSAdIBQVVfeXFMTVpmNVd0UzMwY0lIYXJvVlBEbGI1TXJyNW9tNWRndnZBUTlhd1NfTUpsRF9ibEVnSmZPVnhBSllENUU5YjBEUU9GbWdtaHBZaTBjbHFFaUE1SlNrX1hXY3g1S3dNa3VSTm5Mc0xpR0lXblFYNC12XzR0UVVTbDRub3RoWFBsaDFCdWV3TXlwM3liTEVmTTIyMjdrRnMxWlZRc0ROSW5rWUpCYXBBVmR0aXFrQ2M5dkcyWTRyNWNTS3ZoaXV3bldkdlNEMUFlRVdjajVR?oc=5",
-      "date": "2026-06-27T13:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
