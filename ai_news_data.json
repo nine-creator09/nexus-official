@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-05T19:16:09.083872+00:00",
-  "articleCount": 120,
+  "generated": "2026-07-06T03:25:53.181326+00:00",
+  "articleCount": 118,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 3
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "france24": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 24
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,30 @@
     }
   },
   "articles": [
+    {
+      "id": "B+n8iMdGlHDy",
+      "title": "China wants to solve the hardest problem in robotics – making hands",
+      "summary": "Race to develop ‘embodied AI’ focuses on creating dextrous hands to transform humanoid robots from gimmicks into useful productsHuman hands – nimble, nerve-filled appendages that are the most flexible",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+      "date": "2026-07-06T00:31:18+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "huHF7eYW0IkQ",
+      "title": "Some of the nation’s rich are letting AI teach their kids",
+      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy,",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "date": "2026-07-05T22:30:54+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "rWwTWpb5ldKZ",
       "title": "AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper",
@@ -113,11 +137,35 @@
       "articleLang": "en"
     },
     {
+      "id": "/IvKVVycqeSj",
+      "title": "Seoul to finance AI-era growth with fund drawn from chip tax windfall - The Korea Herald",
+      "summary": "Seoul to finance AI-era growth with fund drawn from chip tax windfall&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE12NWY4dGdFVTdRWm1hbWdCZWlxOHRoV3RIeEtXdU9ZZkxOU2NYTnNFZHBLMTB6ZmI1dVNRSXF1WjYyRjZuQVhHdl9wSVBwbTBFLWV2Rkhycw?oc=5",
+      "date": "2026-07-05T08:55:42+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "4KiukUq41tNj",
       "title": "Opinion | China’s next export shock is taking shape – as AI-powered robots - South China Morning Post",
       "summary": "Opinion | China’s next export shock is taking shape – as AI-powered robots&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWxDekp1cE1MN0xOek03NVNMVnVDdURQUVVFaFVUZ05jdV9LUHpHOXdYYnVLNWZhejlJNEhOVE8xMS1CUXlMU3E2VUdTUXdob2VIbC1ScmJSeUdLYVRIR1R1U1E5bkhWa3liVGhKaWZuR2pTTWdPbDctY0N4QWJLZG9icmdIVk1oSXdLMFJxS0pWRFlzRUxvbk9yTlkxQnh5aHJ2SzZSZEZ3SUpjbnZ30gGvAUFVX3lxTE1mbk1vR3d2czctT1FncV9vWndkYTVZZVNBVl9ieTRST0tveUZkcFFVMDFlMEdITUlqQkZhMkNYaUFzT1BOUXV5eEpUel9aYlZ5dlc2TE9zZi04MHhMajdfZXhrUEM5NGVRUU51c3lMem45aURoOFVURWtPNzNITDZBSnFqVUJkQjA0bWZ6WjYtQzdQRzdnaHUwRFk0cTZZR3V1QXQtTTVQOHNRR0NRS1U?oc=5",
       "date": "2026-07-05T08:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "0JGUYZcXUImD",
+      "title": "2 AI races shaping future of banking: Citi CEO - South China Morning Post",
+      "summary": "2 AI races shaping future of banking: Citi CEO&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVyR3R4OU4wM05hemI4bm14ZFNfeFQtcWVUUXBaNHFSc3NiUG5ieVZQWDV4aHVCN1hWTGVkbXR1UThkM1VDZndGbGRDNGQycmdKX1YzLW5CUXhtblU5TkRzeXNKWE9ncVlRcWU3VGJFcER4VWtqRkY5OXhyT1RWMDNkQjRuV09UU0UtTlFfaGJJSFBPZE80alZGOGlHWUZZcTR2TTNha3BBVzhxVzlEZmJLZ9IBswFBVV95cUxOczVYOFVFWnJMRTJJQzVkUHVFei00dGtMdzd2TERJNVVSWmhmOTY1dXpqbEVhNHhicWdxNGhseHRzbkM5QjBlc1kzOHhGTzhLdWpwWWlUOGZzVkxvWVRRbDNLOFBRSmlGcTNHMF9rWGZHT193RTVsZy0tVjFsbnMyRVI1Q0FfNFVZTGNVS052Ym5HdU4ySThaN0QwbWRfYURpS28tZG1vQ2ZqZlpQRGRlLXRwTQ?oc=5",
+      "date": "2026-07-05T08:00:18+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -214,6 +262,18 @@
       "summary": "For one small business, AI was key to a quick start and expansion&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSEhsMnNsNTVEQ29fZ1pGMzB6ZzNyZHgxWmUwaGp5Z0JxeGpUS3hCNUw5NHZ1NTFLVDFJUjd1bFZoQmpfRFFMMEQtZXVadnFmc01yaUpwSFl0Njc4X2Jsc1ZmYWdXcHdMRkJfUi1wLVNzNHQzcGhfNThMV2RLYU5faW1SSUE2ZXExV25uOERMSG5XNG43UHBmbmM4c2hkSVlNT0tNVFNvandxempMejF1MmZYWWF3SGRueVJ2dlllUV8?oc=5",
       "date": "2026-07-04T15:20:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ltXVFwZQa9E4",
+      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
+      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
+      "date": "2026-07-04T12:31:57+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -473,6 +533,18 @@
       "articleLang": "en"
     },
     {
+      "id": "4dR1/xBPnSdc",
+      "title": "Alibaba, Tencent back Kuaishou's Kling AI in $2.8 billion fundraise - Reuters",
+      "summary": "Alibaba, Tencent back Kuaishou's Kling AI in $2.8 billion fundraise&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPamxzWVd3d3VQaE1JdkN3TW12dDVQQXo1S3NxYm5EVXcwcGhsakIyNzd1UVprWk0xYXNYMWY2bk1VdHVlQkRKR2JpdUt5V1ozZGRIQ3AtbWpWeFBSVlUyRmZrWlU2di1VTncyYnFfYnA2NkU2bUY5VGNCXzhxb2NWUUNNelBBWUV2ZE9lLUpRZ2o3NWxQd0pPc1BGZFlhbmQ3WF9PTEtkOFp6dGZT?oc=5",
+      "date": "2026-07-03T09:36:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "c/Jj3CCuxRZu",
       "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
       "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
@@ -482,18 +554,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ltXVFwZQa9E4",
-      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-      "date": "2026-07-03T06:50:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -513,7 +573,7 @@
       "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
       "summary": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
-      "date": "2026-07-03T05:00:00+00:00",
+      "date": "2026-07-03T05:00:21+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -677,6 +737,18 @@
       "articleLang": "en"
     },
     {
+      "id": "5ZCLOVeU177P",
+      "title": "Pick n Pay launches AI grocery shopping assistant in South Africa - Reuters",
+      "summary": "Pick n Pay launches AI grocery shopping assistant in South Africa&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRGd3bUw3UGVpQ1A2YllIZ3NOYy1JNHpqU0NLczNGQzNkV2VLdElJbkhLWkExVVBkamJFbDlpRmxXUzFlR2pYdlVLbEtWWVBJY3RWYzFvZlVDLWtQc2RDMHRGVmZjZk9RdHk4Z05HbzZ5S3YxVWw4blZDOGd2U2Vad1RHSHB3bzV1bkFoZzg2Uy1BMTZhRGdiWTNtU3M3NDM5SGppN1hmdGxTenVka20zNg?oc=5",
+      "date": "2026-07-02T17:53:21+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "VTC1fd4Cc3AT",
       "title": "Trump administration and Anthropic have not discussed the government taking a stake in it, source says - Reuters",
       "summary": "Trump administration and Anthropic have not discussed the government taking a stake in it, source says&nbsp;&nbsp;Reuters",
@@ -821,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RQ0FSe584nD2",
-      "title": "China's UBTech launches AI-powered lifelike companion robots - Reuters",
-      "summary": "China's UBTech launches AI-powered lifelike companion robots&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaG5sV3pDOVlNQUNyUU5idk1vaHloY3Yya3dnSmdNblRDVDVvblJVbXpNWVgyaGFmQkNFUXBHaTJHZnYwRFN5WGk5Y2UycHZxcWZMT0t6VGZLZml4VWl1MklpVENiVFBjVGVGZk1kcDZ6WjVtdUpHNzdiSE9fU1F3TTZwMjNVOVdBdVoxYjBJQ0FFS05WUnAtV3lwdERjTVVTOTMzSEM4aHd2dw?oc=5",
-      "date": "2026-07-02T09:25:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "U+qw1ioX6rWQ",
       "title": "Can China’s memory chip giant CXMT keep thriving after IPO and AI boom? - South China Morning Post",
       "summary": "Can China’s memory chip giant CXMT keep thriving after IPO and AI boom?&nbsp;&nbsp;South China Morning Post",
@@ -857,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "9ME36zOOPHKP",
-      "title": "復活した「Fable 5」　米政府からのオーダーに対して、Anthropicはどう対策したのか",
-      "summary": "米AnthropicのAIモデル「Claude Fable 5」が世界的にサービスを再開した。Anthropicは復活に向けてどういった経緯と対策を行ったのか、モデル再開にあわせて詳細を公開した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/02/news095.html",
-      "date": "2026-07-02T07:40:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "g/3kBR+jR46l",
       "title": "OpenAI ‘in early talks to give 5% stake to US government’",
       "summary": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report saysBusiness live – latest updatesOpenAI is reportedly in early stage talks to give a 5% st",
@@ -878,18 +926,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "7QVags/zfACd",
-      "title": "Super Micro says two Taiwan staff detained in probe involving its AI servers - Reuters",
-      "summary": "Super Micro says two Taiwan staff detained in probe involving its AI servers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbGx2TUVFWEMzSDZuZHJWN0VRSHd5WmpJYkhOWmZ1RzZ5QmFWTDBmaU5XdWtlLXJvN29ieXBCUVEwQWlxMzByX296T0d0U2FMZ1VJUG14ZVh6aks5NkR5TDA2WlNEZGc2ZWlTS2dJRGh1RXFRMVkwYURBUWtDQ3pVa2dWcWFnZVVPQkozcHd5b3R1RXVXdkpUczJyLTNJZlZpSE5HOHZaNy1aekZaeVBwNDRJU01SVHB1bWxkTTlLSGdCOVpKOUtr?oc=5",
-      "date": "2026-07-02T06:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -915,18 +951,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "1ucAz42Ra52N",
-      "title": "「賢さよりツール連携力が重要」　Microsoftが実験的な小型AIエージェント基盤を公開",
-      "summary": "MicrosoftのAI研究チームであるMicrosoft Research AI Frontiersは、小型モデル向けに最適化したエージェント基盤「MagenticLite」を公開した。「エージェント能力は知識量ではなくツール統合と実行ハーネスで決まる」という仮説に基づき構成されており、小型モデルでも実用的なエージェント性能を引き出すという。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/02/news050.html",
-      "date": "2026-07-02T04:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "ocSwckoQfXzD",
@@ -957,7 +981,7 @@
       "title": "US in talks with AI companies for voluntary model standards, FT reports - Reuters",
       "summary": "US in talks with AI companies for voluntary model standards, FT reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcE1CSXY3b1NVTmdnRDcyM3dUeUpxLW93SE9MNW9TX2VSZTJzdHRmTzNpdkdwaFVxTkFqQjFpUnk0cU1JWmtrTTNWVnliSERyVnZGWFZ2VmgtelpEMHhPMDBsVVc4S3RfakFlMFJZTjNDbVpVN1NGVk56R3dJdFZNQTR1RXFyUURVY18zVktHMmJwSGNNbTd4dVBEWUppOXFpc0pJQ3pDYnZsc1lYNzZXU3U1TDA5dzFTemRhX1M2cWlJZw?oc=5",
-      "date": "2026-07-02T00:50:14+00:00",
+      "date": "2026-07-02T00:17:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -974,18 +998,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "DZY6E3XiTJ6w",
-      "title": "EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say - Reuters",
-      "summary": "EXCLUSIVE: SoftBank renews talks for $10 billion loan against OpenAI stake, adds concessions, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcHlPOXhkWFNZNWNNTG91STB2SHYzaDZRNXNGVXdVb1NRY2VRVDJFam1oQllaLWFoY29sM1hNbTFUSUNpWWxRVGtxQk44UHhNTGl5bnV6VnpXdVdSN3o5MFhmaFl2b3pnOXk5TTN1M2lkNmxTaWh2b2xqZUJqVlZMXzJsZUotdHRCWHJoOGZuUTJTM2k4bDZDekY5U3pBYVV6V3RZRGNFSEtnWl9PNTZ6b3hiMkNYUnZqOWlFNlNhNy1sdm5rVmdxcFRUWQ?oc=5",
-      "date": "2026-07-01T20:14:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1361,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ocyU10iNx+9p",
-      "title": "Libby will filter out AI content, kind of",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "date": "2026-06-30T15:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "wB2eMoobDH8m",
       "title": "Iran war and AI boom drive wild ride on global markets - Reuters",
       "summary": "Iran war and AI boom drive wild ride on global markets&nbsp;&nbsp;Reuters",
@@ -1394,18 +1394,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "/+Bcix9K0j/X",
-      "title": "China faces economic balancing act: AI, exports boom while consumers stay home - South China Morning Post",
-      "summary": "China faces economic balancing act: AI, exports boom while consumers stay home&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZWxGYzlGM1QycGp4QW8tdVJ5UWpLX3QzZjcyQkVpMnVrTW5KSTlNX3c5UW1TcWxHOHdpUUNxNE9jSnV2ZkVoYUxBOFhBMFVVZzNBY1UtSHZKQTREd2NITnAzY0tSLWtWajZCTWMxSUJUbFVnSzF1X29GWHd0SHdPc3AzVmZKa2FjVmsyZ05FRm1wNXFZYlBaX2VpUmhrS0dVeHhWUnRucHp1d0V1bF9HTEhGZFFHM2F2WDhZOGRRdmkxbUxGY2JZNEdKMEdvNzl4clNQWjRR0gHWAUFVX3lxTE1zRDA3OXlhckhzTk1MX1ZQOF9mSUhWLUw3b0NZWC1zTXZqbUgwald1QjUyR01xbU41NXpNN05XZUVrNGVTbFBIV1Y3MlpaNUxsSFZTelhaY05kN29CZ2daTXdNQVdIU1RnRHBJN1BnaTUyQTZpek82MUt2SV9UM2pKNjMtTVZRa1o0RUFIa3B1djdqT3RGSE9MVUljcHZJd3N2V2JEdFNEMUxqYm5RZnc0UE42X3NvUGN1V2t5MDBQMmpNNEQ0UDRlOUNQU1JWQU1kVHVKNkE?oc=5",
-      "date": "2026-06-30T10:00:26+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1490,18 +1478,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "mYqiG6aDmYaU",
-      "title": "China’s first AI-powered cancer vaccine production line set to launch in Beijing - South China Morning Post",
-      "summary": "China’s first AI-powered cancer vaccine production line set to launch in Beijing&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTEN6OTBneWNOZjBGZktrZFNoS2c2NTFzN3JKUldLRzk4bDNBVVhWbVd1eTZEdi1wQWNFUGctR0lHcVFCNnhvUU5nb1owNEdGdnY3U1p1UGc2ZzRVMHNaOXN3SFBGUXhhaUN4SU11emhZX1hmM3M3RVV2bWhqZzBycXNwcDBiT3VEeWF6dXlRM245akcxUWZxNktha0RNUDlkZGNIbU4tdkNibzRQWUlpRVdZLXVNMUtJbE5ESTdsVk1YX2RGbWVNbUd3bTlGSknSAc8BQVVfeXFMTVBGMjI0M0tQVFFxald5Nmg0Tm9aNC1UYXFDSW1EYW5SejJYVm00WG5fOXlSRUtWNzlFanM1X05lc1pLTjZFQkg4YlcwV2JKWnNmM3JCWHBhUXN2SW9fRkNZMkkzN08xRmNWckZyaXNuYmUza2Q5NW4tdDRUYWE4Vkh0V3NpY2JfRWV5a3E4aHEwMnBNVTc4SXhSVVVLS2hOajJJaElmN3BDTm9RZkhseTJzN3kwUVByV0NSRFRacURYNjZCcjJvTWVEdk5ZcFhn?oc=5",
-      "date": "2026-06-29T03:00:27+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
