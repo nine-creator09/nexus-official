@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T19:54:35.453571+00:00",
+  "generated": "2026-07-07T03:16:44.329077+00:00",
   "articleCount": 102,
   "sourceResults": {
     "verge": {
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "itmedia": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 13
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,114 @@
     }
   },
   "articles": [
+    {
+      "id": "tU7s6jc6Yh59",
+      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+      "summary": "Companies cutting jobs as investments shift toward AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXJBRjJvS3ZTelBiejB5LThOTTVKblgzUzBxY2pPYkd6Q2dETWdQYXdKcXV0WjNYTkhaM3o1MXJXSXRlVjhKY0RUMXJvQllVMlhmYmRFTmFWcHRVSU1LSUdORHBZbVpPVlR1QXF4MzlWNFdnUm5YajlKZ3QxN0JGQlVZck1wLW5hMy12NFpFdVJ4RFlQOTE3UFFKTXUtNnRQWks2WjVVU21WTFA1T1E?oc=5",
+      "date": "2026-07-07T02:57:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "tBGVWkdOHRgW",
+      "title": "「恐縮ですが」「それな」も自然に英訳　Sakana AI“温度感”伝える翻訳サービス公開　添削機能も",
+      "summary": "チャットサービス「Sakana Chat」の新機能で、ビジネス敬語のニュアンスや日本固有の文化概念、ネットスラングなど、既存の翻訳エンジンが苦手としてきた「日本語らしさ」の難所をクリアしたのが特徴だ。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000164/",
+      "date": "2026-07-07T02:40:59+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "QksiG6j7wDub",
+      "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
+      "summary": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000162/",
+      "date": "2026-07-07T00:48:03+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "2HrNwJ9jey5Z",
+      "title": "The ‘first’ AI-run ransomware attack still needed a human",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "date": "2026-07-06T23:56:14+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5omcQftNu+2W",
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "date": "2026-07-06T23:21:03+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1V/f0vEyPDXA",
+      "title": "Scotland could freeze datacentre projects in challenge to UK’s AI strategy",
+      "summary": "Scottish government to consider SNP national council motion for moratorium on all new datacentresThe Scottish government is about to consider a sweeping moratorium on building new datacentres, putting",
+      "link": "https://www.theguardian.com/uk-news/2026/jul/07/scotland-could-freeze-datacentre-projects-in-challenge-to-uks-ai-strategy",
+      "date": "2026-07-06T23:01:23+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Z7rMjPs5P3Pe",
+      "title": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch - Reuters",
+      "summary": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFZjMFBwSnN6V1JmdzFZcDR0TThPWWI4U3FKR19WZXMtLUp4N1J4RjlhOVpDMWhkYVd4a1RIdElqNjIyUGhSekZydGt5UHNEQjRYSmR0NWFQRnRGVGc1aVFzWWlDY3V5b1hvUjhaNld5NURaSWFYQ25wSEdGUGdKRGJaeVR2eWQ0WFo3VF9RTUNRUHdHZi1KMXphTlVIT2wxZkxJZGlsc3IyeTUwSFF5STE3OVYwRW5pNTJULWdiOG9pQWlj?oc=5",
+      "date": "2026-07-06T22:45:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "o3i0Ec16/cbL",
+      "title": "AIコーディングの「ループ」4種類を完全入門　Anthropic公式が分かりやすく整理して解説",
+      "summary": "Anthropicが、Claude Codeにおける「ループ」を4種類に整理して解説した。AIコーディングで何をAIに任せ、どこで止めるべきかを、初心者にも分かるようにかみ砕き、筆者なりの視点も添えて紹介する。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news014.html",
+      "date": "2026-07-06T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "LAyFG6EDsR0+",
+      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "date": "2026-07-06T19:01:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "lJQBa74ffsck",
       "title": "Every major tech layoff in 2026 that has name-checked AI",
@@ -91,7 +199,7 @@
     {
       "id": "Yez8h3OUNlzo",
       "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out.",
+      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
       "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "date": "2026-07-06T17:04:58+00:00",
       "source": "TechCrunch",
@@ -127,7 +235,7 @@
     {
       "id": "mC5Eo54aTnaH",
       "title": "Into the spider’s lair: how an Australian film-maker made an impossible documentary with AI",
-      "summary": "Jodie Heenan says her award-winning short film Guardians of the Burrow ‘looks and feels’ real Scene: a dimly lit underground burrow. A giant Amazonian tarantula and a tiny dotted humming frog share th",
+      "summary": "Jodie Heenan says her award-winning short film, Guardians of the Burrow, ‘looks and feels’ realScene: a dimly lit underground burrow. A giant Amazonian tarantula and a tiny dotted humming frog share t",
       "link": "https://www.theguardian.com/film/2026/jul/07/ai-spider-documentary-guardians-of-the-burrow-australia-artificial-intelligence",
       "date": "2026-07-06T15:00:15+00:00",
       "source": "The Guardian AI",
@@ -629,18 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "nfs15nzx6lO0",
-      "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
-      "summary": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMindThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how se",
-      "link": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
-      "date": "2026-07-03T17:00:52+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "bk/yeTj5s3OT",
       "title": "Parents warned not to publicly share children’s images amid AI abuse risks",
       "summary": "The NCA says there is a growing threat of children's images being used to create child abuse material.",
@@ -761,18 +857,6 @@
       "articleLang": "en"
     },
     {
-      "id": "b4d6AmJfZks0",
-      "title": "「Claude Fable 5」をサブスクの標準機能に――AnthropicのエンジニアがXに投稿　7月8日以降の「早期復活目指す」",
-      "summary": "「Fable 5をサブスクリプションの標準機能として復活させることを目指している」――米AnthropicのITエンジニアであるタリク・シヒパー氏は、自身のXアカウントにこのように投稿した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000158/",
-      "date": "2026-07-03T06:34:43+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Du65FnzEwK97",
       "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
       "summary": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw&nbsp;&nbsp;Reuters",
@@ -795,30 +879,6 @@
       "cls": "src-dw",
       "flag": "🇩🇪",
       "articleLang": "en"
-    },
-    {
-      "id": "ugxOHfDbjBP0",
-      "title": "「Claude Fable 5」の性能が落ちた？　提供停止前後で比べた結果　米AI企業2社がそれぞれ報告",
-      "summary": "「Claude Fable 5」の性能は提供停止前後で変化したのか。米AI企業2社がそれぞれ調査結果を報告している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000157/",
-      "date": "2026-07-03T03:59:30+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "whno0s8JUtLW",
-      "title": "Meta、「Claude Codeと組織改編で爆速開発」のはずが「想定より加速せず」　ザッカーバーグ氏、社内集会で発言",
-      "summary": "MetaはAI向けの巨額投資や組織改編でAIエージェント開発の加速を図ったが、ザッカーバーグCEOによれば、それらの取り組みはまだ実を結んでいないようだ。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/03/2000000155/",
-      "date": "2026-07-03T02:01:17+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "W5HWNiiK/45c",
@@ -929,30 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qZa+UEubRBPU",
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "date": "2026-07-02T15:20:51+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "AwVsEd0wIEAv",
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group.",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "date": "2026-07-02T13:53:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "GJE3/9MzqZog",
       "title": "Teaching AI to run with the turbines",
       "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In in",
@@ -994,18 +1030,6 @@
       "summary": "Zhipu AI’s new tool turns GLM-5.2 into agent amid Anthropic rivalry&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV0tqYzFuSXBCQ0N4ZG5aUEVUSzFES1NJY1FlMUMwSS1QanhZcTFHMlZ3WnVJZEE0V2R6N0RXQkowbG13aVk1MVBaaTZwbXVkTnhtcF8tdlIzRThYd1AzM1ZGSV84aXd2Sk4yS0tVVDd0Q2pMbzNOM3FTU09aQURpMEN0ZnpJS0gwc0xkeFlmSFJWaWN6eVl4dnhfeENGWkZDSGppYkhLRFE2Q0lEYjlCQ21TVDEyejhvbWNqY2kwRTJOSW_SAcMBQVVfeXFMTVVIYUt6NWpOZGhIQXExQTdrV0Z3Q05zb1J3Y2pBVVJ1eGx6bFVORVY3WjkwNlA5bF9OLXB4WVplTzJud2ZIWWlsQ0MtSlVFX3pKZFpodnZuekc5X19PZnJlTjJhdDRYNl80NTFiMnBoNVpUSjVsUUc4MlFYVnFWM3FxVUhHUFdOVGUwalBLSnVsaUplNWdBRTh5MFVRdDFQZVhlRVd0MTd4M2JlSm81UnNpbmRzOE41UEI3RUlxckxmcWNF?oc=5",
       "date": "2026-07-02T10:00:32+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "U+qw1ioX6rWQ",
-      "title": "Can China’s memory chip giant CXMT keep thriving after IPO and AI boom? - South China Morning Post",
-      "summary": "Can China’s memory chip giant CXMT keep thriving after IPO and AI boom?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEVjX2d6NWNyZzhCcTZjb21GbVVwam9oOEs4aHBxdU91SlE3SlBYWjlSenBGWjRkS2Q4bFNkQnZ1LXF3TDltVmpjWWYwQ2Vybkx0SHFMMnlMUkFrOVFBUkhNUWtscUJ1YVRKSnpEbVNuckRZR2ptekRVSU1Ec0xheW1kOEJIWm8zVU5TSFI0ZEFtRnlMc2lNTmwzVUJ6UEVkYzF6aWJQbjFZOVdDMzJOdXBnaDNnMmx6MVpSTUhfTW1Jc18xallZNkplOE43Rk05OUHSAdIBQVVfeXFMTTAwU1B3bDZSUHNTblNrdWpicGtfWTF4S2l5N2YwREhsSVdFOWlmZjVsOXdkT1dJYnNGWWQtYVZHQ1I2UE1VY3p2aTJFZ1N2NHBQLXpCMjk1TlJoUjRKTEFwQk05TzYtZ2psM3Frb3pST0dNZ2NWTG80UkotRGMxQTV6ZTRRajN6cHNKbjlhOXJkLXFVTEpSd2g5NWtmMWpVZS1Oa3ZUREp4dVo3dDhtc2Q3V0ZDU3FsSXFDQjJrbVZTenF5TFJ4eU05dTEySGJlalRB?oc=5",
-      "date": "2026-07-02T08:46:50+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1258,30 +1282,6 @@
       "summary": "For decades, the senator has argued that concentrated wealth threatened American democracy. Now he’s betting that frustration with Big Tech, billionaires, and unchecked AI is reaching a tipping point.",
       "link": "https://www.wired.com/story/the-big-interview-podcast-senator-bernie-sanders/",
       "date": "2026-06-30T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "d8vuPf3HD60S",
-      "title": "Meituan claims China’s biggest AI model trained on local chips - South China Morning Post",
-      "summary": "Meituan claims China’s biggest AI model trained on local chips&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVk5nbzlPamhmaDUzV21EZlAyYjJRY2xrZ2YtSzczcUwxRnZzZkdVamxXS2xRUWltNkZJMWNiMV83T0FqTm9kRGFIbUJYNjdyM0psUTZjbl9DaVBpdHd5VGRtYXZ6aC1uWmcwZVpRaUhnZ2tEdVczQkpiWDBlLURoN1IwTEt1NGV5OFgyTzl0X0hRUTJtRkFIcDZQSk9FRDFXdU9FWEFvdEt1ZWVYTllySzNxNUFNcWNiY0pfOFp0Z0l6S0lobm9Od0VJa9IBywFBVV95cUxPb1oxUWhRbktqRVNIRWQ4LW5IUXFUWFdJVG16NXNRcS00ZzlJUE94UnRNTmhKUmZZZ2E2cldIZ0s2aEhicjFITEVLQmFvNVljcGVmZG5YTUJUYVE4cUktUkNlTGtRV3EyUU1ISWp2c2NYR3ZTbmtQMVk0TWJOMmxWUTVMaVVVbXhKZW1aelNlYnBHS09OWkgtUGpIQzBJdW5xTS1DUDBvR1pidU9PdnczRmduT2F2cnhJZm16OE13eWlDeXVIVklhWHozYw?oc=5",
-      "date": "2026-06-30T05:21:11+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "/Kb5p3WK0s4Y",
-      "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-      "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-      "link": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-      "date": "2026-06-29T21:49:26+00:00",
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
