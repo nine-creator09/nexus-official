@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-07T03:16:44.329077+00:00",
+  "generated": "2026-07-07T09:38:27.612384+00:00",
   "articleCount": 102,
   "sourceResults": {
     "verge": {
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -65,16 +65,100 @@
   },
   "articles": [
     {
-      "id": "tU7s6jc6Yh59",
-      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
-      "summary": "Companies cutting jobs as investments shift toward AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXJBRjJvS3ZTelBiejB5LThOTTVKblgzUzBxY2pPYkd6Q2dETWdQYXdKcXV0WjNYTkhaM3o1MXJXSXRlVjhKY0RUMXJvQllVMlhmYmRFTmFWcHRVSU1LSUdORHBZbVpPVlR1QXF4MzlWNFdnUm5YajlKZ3QxN0JGQlVZck1wLW5hMy12NFpFdVJ4RFlQOTE3UFFKTXUtNnRQWks2WjVVU21WTFA1T1E?oc=5",
-      "date": "2026-07-07T02:57:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "mIWo22mz5vTA",
+      "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
+      "summary": "Andrew Charlton says artificial intelligence ‘cheating, deceiving, going their own way’ – and time to get ahead of it is during testing Follow our Australia news live blog for latest updatesGet our br",
+      "link": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+      "date": "2026-07-07T09:36:56+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
       "articleLang": "en"
+    },
+    {
+      "id": "RTgS+IDv/Igb",
+      "title": "Stymied datacentre projects threaten global AI revolution",
+      "summary": "Large-scale datacentre projects around the world are being challenged or cancelled, as infrastructure’s energy demands ramp upDatacentre planning proposals face all kinds of hurdles, from securing ene",
+      "link": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
+      "date": "2026-07-07T09:00:35+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "E2cbsMFJyisG",
+      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+      "summary": "Forterra has deployed more than 100",
+      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+      "date": "2026-07-07T09:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "st9+GmHYOhWh",
+      "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？　トークン節約法は？　本人インタビュー",
+      "summary": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
+      "date": "2026-07-07T08:05:24+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "qHAaWWfSio1E",
+      "title": "We Are Not Machines by Sarah O’Connor review – can dignity at work survive the tech revolution?",
+      "summary": "A Financial Times journalist ponders the future of labour in world increasingly dominated by AI and automationIt’s never been easy to land and keep a decent job. But it feels like it’s getting harder.",
+      "link": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
+      "date": "2026-07-07T08:00:34+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "jlNpQwL5ebMa",
+      "title": "Anthropicが教える「Fable 5活用術」　まず確認すべきは「自分が何を知らないか」",
+      "summary": "米Anthropicは、AIモデル「Claude Fable 5」の活用ガイドを公式ブログで公開した。AIコーディングツール「Claude Code」で同モデルを使う際の具体的なテクニックを紹介している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000165/",
+      "date": "2026-07-07T06:13:17+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "+Ap4ujrRh0z+",
+      "title": "Indecent proposal: why social media’s rebrand of surveillance tech normalises harassment and non-consensual filming | Maggie Zhou",
+      "summary": "By selling AI glasses as aspirational, cool and fashion-forward, tech elites are trying to pacify their entry into the mainstream worldWe have a habit of dismissing social media trends as inane and va",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming",
+      "date": "2026-07-07T03:55:39+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "G+FP8gUoGCSH",
+      "title": "【Fable 5に聞いてみた】10年後、ITエンジニアの仕事はどうなる？　他のAIモデルの回答とも比較",
+      "summary": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は、10年後のITエンジニアの仕事について聞いてみた。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000163/",
+      "date": "2026-07-07T02:55:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "tBGVWkdOHRgW",
@@ -89,6 +173,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "jyr3vATVTW5c",
+      "title": "China records most new unicorn start-ups in 5 years as AI and robotics boom - South China Morning Post",
+      "summary": "China records most new unicorn start-ups in 5 years as AI and robotics boom&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN21PdmZiX2lnUmpBVWtobGs1amVfOUtOMXd0ZXBTclljdkkwYzNjRXFuaDRwQk5JRE94UU1aVllJT2FLRlpaSXltZTQtVmV3bWI0R2c3Rm54STVZSGlvNkU0WVk2dDllVVRrTGpjV1R0RFM4SlRrdjh0bnpYQ1dEZjJjX3FZNXQ5bVFlVlJlWTZTSVhaWXVRdzhfLVNqeTl3T29PX3h3TTNHcWVDNHFFbdIBsAFBVV95cUxOblM4d2JwSkFPdHNoX0N1SkNLRU1wMkd5QmpWUFlLd2tNOWlia1B1VHVhTFduaGM4UnBQMjl0eW1ZaEVnOGYtSVAwRjNzdzVRaXF4eXU4NW45SVQwWTI0MUFhYmszeEFiNGZqTXl4d2tGeGpuQmlMdWhuc3pxM2x0YkotWW5IS1d5SG9zUUVKOFdLM3NGdllSdGJoLTJjU0hQck5wcUNxTXF5Qnl2QmhUag?oc=5",
+      "date": "2026-07-07T02:00:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "QksiG6j7wDub",
       "title": "Anthropic、AIの“内なる思考”が宿る「J-space」を発見──新手法「J-lens」で可視化、安全性監視に応用",
       "summary": "Anthropicは、LLMの内部に人間の意識研究における「グローバルワークスペース」に類する構造「J-space」が自然発生していることを発見し、新手法「Jacobian lens」を公開した。モデルが言語化しない隠れた思考を一部観測でき、評価への気づきや不正コードの意図を検知できるため、AIの安全性監視に応用できるとしている。",
@@ -99,6 +195,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "tU7s6jc6Yh59",
+      "title": "Companies cutting jobs as investments shift toward AI - Reuters",
+      "summary": "Companies cutting jobs as investments shift toward AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMXJBRjJvS3ZTelBiejB5LThOTTVKblgzUzBxY2pPYkd6Q2dETWdQYXdKcXV0WjNYTkhaM3o1MXJXSXRlVjhKY0RUMXJvQllVMlhmYmRFTmFWcHRVSU1LSUdORHBZbVpPVlR1QXF4MzlWNFdnUm5YajlKZ3QxN0JGQlVZck1wLW5hMy12NFpFdVJ4RFlQOTE3UFFKTXUtNnRQWks2WjVVU21WTFA1T1E?oc=5",
+      "date": "2026-07-06T23:58:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "2HrNwJ9jey5Z",
@@ -137,9 +245,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Z7rMjPs5P3Pe",
-      "title": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch - Reuters",
-      "summary": "Samsung forecasts 19-fold jump in quarterly profit as AI demand fuels chip crunch&nbsp;&nbsp;Reuters",
+      "id": "gFf6SXBHgwOf",
+      "title": "Samsung flags 19-fold jump in profit, but shares slump on jitters AI boom may stall - Reuters",
+      "summary": "Samsung flags 19-fold jump in profit, but shares slump on jitters AI boom may stall&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFZjMFBwSnN6V1JmdzFZcDR0TThPWWI4U3FKR19WZXMtLUp4N1J4RjlhOVpDMWhkYVd4a1RIdElqNjIyUGhSekZydGt5UHNEQjRYSmR0NWFQRnRGVGc1aVFzWWlDY3V5b1hvUjhaNld5NURaSWFYQ25wSEdGUGdKRGJaeVR2eWQ0WFo3VF9RTUNRUHdHZi1KMXphTlVIT2wxZkxJZGlsc3IyeTUwSFF5STE3OVYwRW5pNTJULWdiOG9pQWlj?oc=5",
       "date": "2026-07-06T22:45:00+00:00",
       "source": "Reuters",
@@ -605,30 +713,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ltXVFwZQa9E4",
-      "title": "Alibaba to ban employees from using Anthropic's coding tool, source says - Reuters",
-      "summary": "Alibaba to ban employees from using Anthropic's coding tool, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc1ozV1JIcjJDWWRCZGZZZEN0Z0p4dHVpMkw3eXBWMF9EMlJOemlKSEg1WVRjV2I5VklmMGFFT3FLblVuTEtKa3dYUXctSmpMS0tQdzJhbmhGTEVlRjhHSWdrUUlXZXJydTN2Q3JQTXRSWUVzVkh5TThmaEtVZURBMzdFTHFHaWI0UE43aUw1QS1vbXRoS3BmRUQ0bExHZ0hDQzRmc09kSkxlNUVDOGxNRXctN2dWWGwtX21DSnN3?oc=5",
-      "date": "2026-07-04T12:31:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "J5Zpndcj0Fvo",
-      "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
-      "summary": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. Star",
-      "link": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
-      "date": "2026-07-04T12:00:12+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "usv16Rjsw7JG",
       "title": "The fanfiction community is at war with AI — and itself",
       "summary": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co",
@@ -665,18 +749,6 @@
       "articleLang": "en"
     },
     {
-      "id": "t1a1oNvxlyZW",
-      "title": "How AI is changing language",
-      "summary": "As allegations of LLM use rock the literary and media worlds, linguists explain what really distinguishes human and machine writing, while novelists including Jennifer Egan and Jeanette Winterson refl",
-      "link": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
-      "date": "2026-07-04T08:00:07+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "0Uwca91clCP+",
       "title": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn - South China Morning Post",
       "summary": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn&nbsp;&nbsp;South China Morning Post",
@@ -710,30 +782,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "qEGkKvkpz4BJ",
-      "title": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
-      "summary": "As imaging tools become more sophisticated, online predators are using images of children to make extreme pornographyUK parents warned over posting images of children amid AI sexual abuse fearsThe two",
-      "link": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
-      "date": "2026-07-03T17:30:00+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "dKmtpMoAkD8R",
-      "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
-      "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material onlineAI prey: why watchdogs are telling parents to protect children from nudification appsParents sh",
-      "link": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
-      "date": "2026-07-03T17:22:59+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -782,18 +830,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ov6DaZjivsun",
-      "title": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
-      "summary": "AI hiring outpaces overall IT recruitment in India, report shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzN3S05KWUZNTnRhZDdUcERXbjBQT09sUXd1MzVWTk5mdFRwU2VXMzFwWE80SHRFZzFmSTVKbkhqS3UxZXp4ckZ2UFdiOUtnUi1lbTl2QUc2Y2ZxelUxMWkzTUswTGlGUnFiWG15TC1kcnV1dm5qSU5xWnA3N2Qwb0RWZk1RZ19fU0huNGxneUYzaHB4bkd3X2ZjT2JJTEJacG0xbHllRmVncDBr?oc=5",
-      "date": "2026-07-03T12:17:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -905,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/vic47JY+YXJ",
-      "title": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected - Reuters",
-      "summary": "EXCLUSIVE: Meta's Zuckerberg says AI agent tech progressing slower than expected&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGNldFRXdDZERDRIN2R3QnRmV1JuUW9saEVNdDVmTEZwdXZLSlM0MHRzN21IMlN2RTNTaDBYa1Z1YS1kVE11SUZJLUhlQktoTm1nVVp0a0x0UzFNbW5nQnhOSXJRRlkwMjY1NEVyRFVHVk5aTktfeDZ5YjRqWWxKbm5EZU1zaHFjVkh1U3hNQVBORWtVaWFyOTZUSkI1V2pfMHEyMS1pcXFwN1lN?oc=5",
-      "date": "2026-07-02T23:05:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "NYwUt+5xAr6r",
       "title": "AI is 'not smart' so what's next in artificial intelligence?",
       "summary": "Leading AI researcher Yan LeCun has a start-up which is developing a more flexible AI system.",
@@ -946,18 +970,6 @@
       "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
       "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
       "date": "2026-07-02T18:44:02+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "sSZwSVIwek8N",
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "date": "2026-07-02T18:31:09+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -1034,18 +1046,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "ocSwckoQfXzD",
-      "title": "AI hopes and fears dominate global central bank meet - Reuters",
-      "summary": "AI hopes and fears dominate global central bank meet&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcjRFbGY1bUU1aTR0VC1FWEstalYzVHlDMXkzYXh6OHBVRFU0Zy12LWlkbDFIWl8tTGNtQ3A3UXE1dmRaYV9KRlRoaEJXWWVjelhkM3ZnQXowWkMtanpFcUZjSGZadjRpblIxRHhTSExCOFpFXzZpU003NDNZTHdUZWNUaDlTcF9KVDZDcHotN1ZaWXpkZVRWWXVKaHBFaGNoRzhN?oc=5",
-      "date": "2026-07-02T01:34:02+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1184,7 +1184,7 @@
       "id": "uwf+QdrtS6de",
       "title": "US lifts restrictions on Anthropic's advanced AI models - DW.com",
       "summary": "US lifts restrictions on Anthropic's advanced AI models&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFVnT1psbk5SbmhMVDI0Y1E1UG9DTGlnYmtuUnh1OFZiM3pfWkIzXzBmcFg1bTN3N3JzTkFzT1VTSkUxdVhTLWRwRGVuU0pZd25iVi1LRTJHWmNZbHNHZUdXbzJhT0tTbmJCZ0QxU3htUlliZmR4YjZfcjJmNy1iNG5QTkJrSDhfR3NoSGJSVFhCTUQ0UUpGYkJRSGhaQdIBngFBVV95cUxNbk5wcXhsTzVrTHdDSzhWOFFWOTY1Q2ZkOVQ1bGFic0E3OHdzNGpkR3BtNVJTUHp5OEw5YmZWVjFLZFBMYl91WW5Fdi1TOF9yQzE4TmFBeThpZHluZ2JCdjN5b0JMSko2em9MTlEwdnEtUmRhZ2ZseGhxQno3dnRmUGRONms2QlBVSnY3TDFPUGdnMU5TWC1jMzBkUmJZZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOFVnT1psbk5SbmhMVDI0Y1E1UG9DTGlnYmtuUnh1OFZiM3pfWkIzXzBmcFg1bTN3N3JzTkFzT1VTSkUxdVhTLWRwRGVuU0pZd25iVi1LRTJHWmNZbHNHZUdXbzJhT0tTbmJCZ0QxU3htUlliZmR4YjZfcjJmNy1iNG5QTkJrSDhfR3NoSGJSVFhCTUQ0UUpGYkJRSGhaQQ?oc=5",
       "date": "2026-07-01T07:06:08+00:00",
       "source": "DW Tech",
       "key": "dw",
