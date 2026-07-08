@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T14:02:44.252438+00:00",
-  "articleCount": 101,
+  "generated": "2026-07-08T19:23:20.524812+00:00",
+  "articleCount": 105,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     "mit": {
       "status": "ok",
@@ -16,7 +16,7 @@
     },
     "ars": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "venturebeat": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,162 @@
     }
   },
   "articles": [
+    {
+      "id": "ucUwu6DcdExI",
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "date": "2026-07-08T19:19:15+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "l3O/yNAAKPKN",
+      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "date": "2026-07-08T18:30:08+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fKrTneyWHwVm",
+      "title": "Major AI offerings at a glance - Reuters",
+      "summary": "Major AI offerings at a glance&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjUDd1T0cwX3NLN0R2M1RxdWxhY1E0S2NYQWZYV183MEoyaWp5WUpWVFEtMzZIVmRNVU4tX1Y3LU1Ud0J1MDhTaXJ2NFJEZXY2TTQ4WVlMaHlsZkg3VHpZdklnRk1DUkpRbEV4OG9uenlBb0l1UHNhbzFR?oc=5",
+      "date": "2026-07-08T18:09:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "l/C7vr270O+W",
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "date": "2026-07-08T17:47:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GFZzE/hhppF4",
+      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+      "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "date": "2026-07-08T17:11:18+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "wvMMN+fDPq7c",
+      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
+      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "date": "2026-07-08T17:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "CoD9P446G6RX",
+      "title": "OpenAI releases new voice models for more natural live conversations",
+      "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation.",
+      "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "date": "2026-07-08T17:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LZdAHaVYn70m",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "summary": "",
+      "link": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+      "date": "2026-07-08T16:26:10+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "F5SFaa6J+jpk",
+      "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
+      "summary": "Founded in 2024, Prime Intellect’s goal is to give organizations capabilities to train their own agentic systems without relying on frontier AI labs.",
+      "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
+      "date": "2026-07-08T16:22:38+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "swrKdM5ukcSS",
+      "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports - Reuters",
+      "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+      "date": "2026-07-08T15:58:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "2we2IyaIxffh",
+      "title": "Mistral launches first robotics model in physical AI push - Reuters",
+      "summary": "Mistral launches first robotics model in physical AI push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEhvMGlyMXhJREFWZURld1hnTEJaMUpoeTA4d1pZQUQyQTNwZUhDOHE2SGJqTzJnZlNXelJTR2FDSGwtb00zRTlzZFlHVnh6dGp4X2s0dXhwd1V4S2JnWUw1cUY4Ylppd09nM21lQ1RfM0tIM1VmYjc3NlRGeDdSSUJmTDBqRGttZmxIemtSX2JVNTdFdm5vMktBVlNXMnB0?oc=5",
+      "date": "2026-07-08T15:45:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "lVvgp9ozuFuh",
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "summary": "There are a lot of fast-growing AI startups, but some are growing even faster, they say.",
+      "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "date": "2026-07-08T15:41:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "scdJ7wJNjdfD",
+      "title": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+      "summary": "They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?The two great existential threats of our time – the climate crisis and AI – co",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
+      "date": "2026-07-08T15:00:36+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "muqHNE7J3vun",
       "title": "Can AI equalize political campaign ads – or will it remain a tool for spreading lies?",
@@ -74,6 +230,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "RBrAgR1NK3u5",
+      "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8",
+      "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "date": "2026-07-08T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -175,12 +343,24 @@
     {
       "id": "rCTYTbJ1BIfx",
       "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "summary": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
+      "summary": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion.",
       "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "date": "2026-07-08T07:16:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6TxzukBaGaUu",
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "date": "2026-07-08T07:00:51+00:00",
+      "source": "Ars Technica",
+      "key": "ars",
+      "cls": "src-ars",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -230,6 +410,18 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "l1bTQRzvUzhb",
+      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
+      "summary": "OpenAI set to launch most capable GPT model after delayed rollout&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
+      "date": "2026-07-08T03:19:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -560,7 +752,7 @@
       "id": "/VjVGw8rw355",
       "title": "How AI could enable autonomous robot workers in workplaces—and maybe homes",
       "summary": "Top robotics researchers and founders explain how robot autonomy is evolving.",
-      "link": "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+      "link": "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
       "date": "2026-07-07T11:00:18+00:00",
       "source": "Ars Technica",
       "key": "ars",
@@ -761,30 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LAyFG6EDsR0+",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI.",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "date": "2026-07-06T19:01:59+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "lJQBa74ffsck",
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "date": "2026-07-06T18:35:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "CW9qVb1WxfLO",
       "title": "Your family’s $300 stake in OpenAI",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americ",
@@ -793,42 +961,6 @@
       "source": "MIT Tech Review",
       "key": "mit",
       "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Yez8h3OUNlzo",
-      "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-      "summary": "Consider this a belated PSA: A recent change to Google’s privacy settings is allowing the company to store more of your data, including media such as “images, files, and audio and video recordings,” t",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "date": "2026-07-06T17:04:58+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "qFHSdKAuXjQk",
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "summary": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing jobs. The layoffs will hit Xbox and commercial sal",
-      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "date": "2026-07-06T15:32:43+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Z2xjjHvbZaDT",
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
-      "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "date": "2026-07-06T15:22:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -869,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "NrdWflqnYF9S",
-      "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-      "summary": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto",
-      "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-      "date": "2026-07-06T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0ww/l0X31isX",
       "title": "AI surveillance is being supercharged – and it will chill social progress | Bruce Schneier and Jon Penney",
       "summary": "These systems will soon be able to track our public and private lives. But we can make the policy choices to reject itIn the near future, AI-powered surveillance systems will be able to track everythi",
@@ -905,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fdrk+rph6cXV",
-      "title": "UN's Guterres warns AI outpacing oversight, urges global rules to protect children - Reuters",
-      "summary": "UN's Guterres warns AI outpacing oversight, urges global rules to protect children&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZKby1qbWJLdDhkOG0zdUhZSzZoR3Q3a2tpU3J1RTJVMXZudXJWenpVTjU5UWZVcDZLX0RlYjFTZnY5M2RMNWlWRXQ1TkJqQnV5d2tlMHlpVkYzRmdtbUF6X05ObDdfYnR2Y1ptNEthZ1AyQzlCMmI1a1NoUlBPcnJ3elUzNkViWXItX0ZFWTZKTGY1ZWlpbkxKeE5uellvMEVSOEJwS0tHOG5i?oc=5",
-      "date": "2026-07-06T11:17:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "cLVI2MYaDK71",
       "title": "Boost City regulator’s powers to help protect UK consumers from AI, says watchdog",
       "summary": "FCA’s review into how tech will reshape financial services warns about amplified risks of cyber-crime and fraudMinisters have been urged to toughen the City regulator’s powers to protect consumers aga",
@@ -934,18 +1042,6 @@
       "summary": "Researchers say small changes in drafting could spread rapidly and create long-term shifts in public opinionAI tools are twisting online messages on sensitive political topics about everything from ab",
       "link": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
       "date": "2026-07-06T11:00:03+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "pzgZrJGo0jkr",
-      "title": "‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI datacentre",
-      "summary": "Suspicions grow in Lanarkshire that local people have been misled on supposed benefits of the huge developmentRevealed: landmark Scottish AI project has no prospect of meeting renewables promiseWhat a",
-      "link": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
-      "date": "2026-07-06T07:00:06+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -1061,18 +1157,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0Uwca91clCP+",
-      "title": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn - South China Morning Post",
-      "summary": "Hong Kong graduates at crossroads as AI takes over entry-level jobs, experts warn&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX0x5NTQzS0hrQnVPem5pN0JNSmNrSkVxZ0R4dDlNMENXOGxEN2Vpcl9YM1BHVHdqYXktdnE4R1RwNVB1c2c5LXpEZ09QdExaVWxyRlkxVmNLQ0xvXzJ0anl1TjJrVkNjaHdYRm1penVrb1cxU2lRYl9aRThFT0FqMnpoQnhzbWZSU2Q0eGlCTEg4eUhmUUVNUV9kTDRJVXdXbi1Qdzc4T1JEWk5RUjBNQ2NNM3pRb0lMaVRBUklQOVNXbks5UkJfTE1hYzJQWkZoWkhhT293a0NWZGF10gHcAUFVX3lxTFBNZHIyVnRpdzlXSkY1TEROOFZMY1lDcHFKT1JlTU5wd054bEdXSk9LWFRNT1E2M3AzSjViUG5CZEdCYWtVREZtR0ZnSFJJWjBSNmZCRFVBMzhlanBSQl9STTB1VEMtZ3lwMURQLWF5S1NLNFF1aGMwLUZIWGpUdlhESHBWcGRNZllXc3ZMUi1paER1dTFaaFJxNF9qbV9UNVJaVl9WRVdRaUFTc2ZFVXNDZDBMSjByZUVrdUVsRV9DVk1WdUI5X29GVUg0QVdGaUc0dlRRbnA1OHBHcEI?oc=5",
-      "date": "2026-07-04T00:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "s4dyDStbKtcP",
       "title": "China’s ByteDance discovers new scaling law that could sustain AI boom - South China Morning Post",
       "summary": "China’s ByteDance discovers new scaling law that could sustain AI boom&nbsp;&nbsp;South China Morning Post",
@@ -1133,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Fz3Q9hXc7Np4",
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "date": "2026-07-03T11:49:10+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "/wsm4GUFTO6u",
       "title": "Can Alibaba’s AI transform superconducting materials discovery? - South China Morning Post",
       "summary": "Can Alibaba’s AI transform superconducting materials discovery?&nbsp;&nbsp;South China Morning Post",
@@ -1178,18 +1250,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "c/Jj3CCuxRZu",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework",
-      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "date": "2026-07-03T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1262,18 +1322,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "OnNSFYx0cNkw",
-      "title": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI - Reuters",
-      "summary": "Startup Oxmiq raises $35 million to build chip architecture to lower cost of AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYmhpc3U1Q0JubmtQZ2Y2QnFlRXJHcURLa1lxZXpvRmtfb2xBQUhDWEJfVVV3RWtEZ2xQMnQ4QU5YMnYxaUZXa1RWRXVQSVNUdWVVRXVHUnBZSEdBZEtpakVYUjBpdWo0dldLUTZvdUM3ZWVjSFRERTFKbTRrS0FSZU5WMnE4dUM2Vk5jRDNIMEVXSXhRcEdhaHo3UVNqRTA1N093R1RzRWZGRXYta1VmZWFJWkhRTmlKRFFDdjVuVl9sQQ?oc=5",
-      "date": "2026-07-01T14:09:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
