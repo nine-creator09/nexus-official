@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-08T19:23:20.524812+00:00",
-  "articleCount": 105,
+  "generated": "2026-07-09T02:53:02.649185+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 20
+      "count": 19
     },
     "mit": {
       "status": "ok",
@@ -24,15 +24,15 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,114 @@
     }
   },
   "articles": [
+    {
+      "id": "mSq6xirXBp0Y",
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "summary": "The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.",
+      "link": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-08T23:11:35+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6jxhR7Jk8Oyq",
+      "title": "Anthropic、「Claude Code」のシステムプロンプトを80％削減　「モデルの創造性を解放するため」",
+      "summary": "米Anthropicのタリク氏は、「Claude Fable 5」など最近リリースされたAIモデルへの禁止指示がモデルの創造性を制限すると指摘した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000173/",
+      "date": "2026-07-08T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "+5YrXZEC6ZJJ",
+      "title": "OpenAI、リアルタイム音声モデル「GPT-Live」公開　相づちも割り込みも、より人間らしい会話に",
+      "summary": "OpenAIは、新世代のリアルタイム音声モデル「GPT-Live」を発表した。会話の最中に相手の話を聞きながら同時に話せる全二重方式を採用し、ChatGPTの音声機能を刷新する。深い推論や検索が必要な場合はバックグラウンドで「GPT-5.5」に処理を委ねる仕組みを備え、有料・無料の各プランに順次展開する。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/09/2000000174/",
+      "date": "2026-07-08T21:53:09+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "5wOk7iEHAEN5",
+      "title": "Messi and Ronaldo Are Building Tech Portfolios. Mo Salah Is Playing a Different Game",
+      "summary": "Lionel Messi and Cristiano Ronaldo are betting on AI, health tech, and startups. Mohamed Salah is taking a more traditional route beyond football.",
+      "link": "https://www.wired.com/story/messi-ronaldo-tech-portfolios-salah-playing-a-different-game/",
+      "date": "2026-07-08T21:08:26+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "HVsv07y9OV4F",
+      "title": "Anthropic hits back after China warns of Claude Code ‘backdoor’ risks - South China Morning Post",
+      "summary": "Anthropic hits back after China warns of Claude Code ‘backdoor’ risks&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOellSU2ZVblNId0lhN2FnNXdkUjBkT2FhaUpEeUdNTkRHT0VjSC1IekFGVWtCVGpOTHRPYzZlYXZNMEVEZnZUSXBVMlluNHZVNGpwLVB4T3pQQWhmU3owZHdyWG16bkJ5OGNoQkZmRU1mSVp4NFFibnFCZEZ0MDdUNWpNTjhJRnh4Yk9TOE5ZZ2wwVkwwZ19vdTZoRGlvcmx0aVFKTVA3WTFTWXdaLTFCbF9n0gGyAUFVX3lxTFBsYk56aHEyeGRpdW9fbzBCSFl5dXNlTm9kSVF3c1k1aElJWVhWaDFFcE14M2ptVTBlbGpMdFdvOENxTmNQeThXeFhzb3llTjNkREl4YnQ3UkRPOFQtNk1yVzZlMzBVLUc1ZDhqZy1XU3ZCRnFJRnpjVWRNbnI0UTFZdlhBalhFRkpVWFlDNzh0QVVGVHdYYjBKb1F6c2hubkxBdUxQMWh2ZEVOblRfVFpiQXc?oc=5",
+      "date": "2026-07-08T20:41:55+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "yHLAPpoeP7oK",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "date": "2026-07-08T20:37:03+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "F5hA0fczjmKJ",
+      "title": "I Built a Self-Improving AI, and So Can You",
+      "summary": "Experiments in using AI to build AI show that the future doesn’t just belong to the frontier labs.",
+      "link": "https://www.wired.com/story/frontier-labs-arent-the-only-ones-pursuing-self-improving-ai/",
+      "date": "2026-07-08T20:09:21+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "IPbm/PVag6Ge",
+      "title": "NEWSLETTER: China weighs silicon curtain around sought-after AI models - Reuters",
+      "summary": "NEWSLETTER: China weighs silicon curtain around sought-after AI models&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRGx1VW5GVElsZUZsbWtoM0xUX3pUeHd4bm0tSW94Y3ZFRUx6OXdzbmZHV21ELTV2RXJKTV82Wi0tMkxFS1VQY3VuQnVhd00xODBKd3l2SUJZODFucnU0djhxQXRRVERnV0VGZ2xDSk1teU9FZWU2dWxEaWZ0NW5QQWllNTZ0VVBTbEZBQVlCTHlYRDg3QzhFVDZvRmNobHJadjl4YzZhb2FEQzlrTTNSbWtxWlZPbXVoU3pnMG1ndXpQYW1Odlp0MA?oc=5",
+      "date": "2026-07-08T20:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "9XWLRWwTilOU",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models.",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "date": "2026-07-08T19:30:16+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "ucUwu6DcdExI",
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
@@ -74,6 +182,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "swrKdM5ukcSS",
+      "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports - Reuters",
+      "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
+      "date": "2026-07-08T18:50:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -173,18 +293,6 @@
       "articleLang": "en"
     },
     {
-      "id": "swrKdM5ukcSS",
-      "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports - Reuters",
-      "summary": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOWpMRm9OdWtFYkF0N1gyUUJyZi1iRzJUcHRJV25fbDNXTmpxWWFlSFNNckpOVjhNcFlSYmVuelJiVDg4V1dBRHZlRnFjNDlRS0JWQlFVeW5obUw2RVU2RFBEc2V1SVFXUEVmMXlVUkJSM0NQNFN1eDk3RTFtM3g2eGstQktpQmRESEJLRlF6SWNrbVZQamFjUV9zdGVySkVaSnUzNllYTmJIU1FTWnZ6VGV1ZW1WQjF0RHljX0MzdVRlNUE?oc=5",
-      "date": "2026-07-08T15:58:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "2we2IyaIxffh",
       "title": "Mistral launches first robotics model in physical AI push - Reuters",
       "summary": "Mistral launches first robotics model in physical AI push&nbsp;&nbsp;Reuters",
@@ -209,8 +317,8 @@
       "articleLang": "en"
     },
     {
-      "id": "scdJ7wJNjdfD",
-      "title": "Datacentres are a ticking time bomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
+      "id": "p/fvYF045Ji9",
+      "title": "Datacentres are a ticking timebomb. We must make sure AI’s benefits outweigh the costs | Nicki Hutley",
       "summary": "They suck up energy and water, and blast out heat. Just who is better off from all this investment – aside from tech bros?The two great existential threats of our time – the climate crisis and AI – co",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/09/ai-artificial-intelligence-benefits-costs-datacentres-energy-water-environment",
       "date": "2026-07-08T15:00:36+00:00",
@@ -254,6 +362,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "uTEWD74g1FD5",
+      "title": "HSBC drops 'overweight' call on EM equities on AI spending fears - Reuters",
+      "summary": "HSBC drops 'overweight' call on EM equities on AI spending fears&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFl1OE9kdFBCR1BieEl0bzdick1wTUYwMHh0M1B3Rncwci0zejVXZzloZl94OEhUMHU5TDdkc000cWdBbGpsMTJDMlV3NENpdV9sTUxCbGhUckhwamItVEFxRmUyaUtPbUpLQkt0T2RjczFJM3c3cjctQ2ZtSVBhMkQtdXBRaFpfcHl6ZU1NajVHNHlSWFBNRHRmN0tqNTRrWUNIZU5xaTdRa2lTeW5iQQ?oc=5",
+      "date": "2026-07-08T12:11:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -401,27 +521,15 @@
       "articleLang": "ja"
     },
     {
-      "id": "M6RnAOXHs/FY",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;dw.com",
+      "id": "kqAfbFu/fjni",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-07-08T04:30:44+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "l1bTQRzvUzhb",
-      "title": "OpenAI set to launch most capable GPT model after delayed rollout - Reuters",
-      "summary": "OpenAI set to launch most capable GPT model after delayed rollout&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeGRZM3dfemdtVmJpUmlMMzB2VW5yNXJUZ0tEM1BTeVlDOWt4cGRWbFk0d0VZY2h0a082WFB0NGRoZmFHZV8zZlVkTVpnakdIUFdTSkQxMlg2bktUWGtFa1FwQkdGVFZfZnQ2QzJXTnVxQmdqQXpxUkJKTXJPMXVFbE1oZklob2NMZUVSa05nMXlwX096aElmMlh2UWUweXNNeGFqUDJORE4?oc=5",
-      "date": "2026-07-08T03:19:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -435,6 +543,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "OEUc9oMEAXjB",
+      "title": "Korean chip stocks flip to losses on lingering AI, memory pricing concerns - Reuters",
+      "summary": "Korean chip stocks flip to losses on lingering AI, memory pricing concerns&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSHNvRlMzSldsUjBEOEpDSmlNRmZCRGFwVFVBTmQ4UURTbmstMWs5VUlNUm5YVkpDak5MRU53OWNVbFZHdzh4NGlnNUx2UUNSd0Faa0FfM1ZqaFgzSFNmTF8xY2dkTzRIRlVEQlViS0huZFF3b0l1VmpMOWUyZ2I1cVB0NzdwejZsMERyVmpEV1kxRjZCdUpNdmdzU3VWQWJlM2tpMmZrQk1IVl9BdGFERExmR3dMT01qSlZ2TGVyOF82VTAtLVZXaA?oc=5",
+      "date": "2026-07-08T00:26:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "ufIBQ7jz8per",
@@ -483,18 +603,6 @@
       "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "OGqP+RvtnJ8t",
-      "title": "Anthropicの「Claude Cowork」がWebとモバイルでも利用可能に　まずはMaxプランから",
-      "summary": "Anthropicは、AIエージェント機能「Claude Cowork」をWebブラウザとモバイルアプリ向けに展開すると発表した。これまでデスクトップアプリ限定だったが、スマートフォンなどからも作業の進捗確認や指示出しが可能になる。今後は順次提供を拡大し、まずは上位のMaxプランからβ版として開始する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000168/",
-      "date": "2026-07-07T21:55:26+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "vbPRMf9zKJgp",
@@ -603,18 +711,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "YDJAdSiMX5KU",
-      "title": "「Claude Fable 5」のサブスク提供、延長　12日（太平洋標準時）まで　日本時間では13日午後",
-      "summary": "米Anthropicは7月7日（現地時間）、AIモデル「Claude Fable 5」を有料サブスクリプションから利用できる期間を、7月12日午後11時59分（太平洋標準時）まで延長すると発表した。日本時間では13日午後3時59分までとなる。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/08/2000000167/",
-      "date": "2026-07-07T18:16:14+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "lB9qMaHNSWze",
@@ -821,30 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "E2cbsMFJyisG",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "date": "2026-07-07T09:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "st9+GmHYOhWh",
-      "title": "【Fable 5に聞いてみた】サブスク終了後の効果的な使い方は？　トークン節約法は？　本人インタビュー",
-      "summary": "注目を集めている米AnthropicのAIモデル「Claude Fable 5」の性能はどれほどなのか。ITmedia AI＋編集部で試した結果を紹介する。今回は「従量課金制移行後にFable 5を効果的に使う方法」について聞いてみた。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/07/2000000166/",
-      "date": "2026-07-07T08:05:24+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "qHAaWWfSio1E",
       "title": "We Are Not Machines by Sarah O’Connor review – can dignity at work survive the tech revolution?",
       "summary": "A Financial Times journalist ponders the future of labour in world increasingly dominated by AI and automationIt’s never been easy to land and keep a decent job. But it feels like it’s getting harder.",
@@ -917,30 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "2HrNwJ9jey5Z",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "date": "2026-07-06T23:56:14+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "5omcQftNu+2W",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "date": "2026-07-06T23:21:03+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "1V/f0vEyPDXA",
       "title": "Scotland could freeze datacentre projects in challenge to UK’s AI strategy",
       "summary": "Scottish government to consider SNP national council motion for moratorium on all new datacentresThe Scottish government is about to consider a sweeping moratorium on building new datacentres, putting",
@@ -977,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qJpdvYAoYOAu",
-      "title": "TeraWulf jumps on $19 billion data center lease deal with Anthropic - Reuters",
-      "summary": "TeraWulf jumps on $19 billion data center lease deal with Anthropic&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDl4N3FZenJYeGFlSUY2QkVFMlV3eHNxTWlHdzVJTlFoN0FMejNyVjZXMHZ2ek1Tai1rMHF5LU9ZdFgtVHd3ZnU4N2FFY3hlazNnUUxGTE9tRnNxSnhIVmlVYjJUZ2w1N2gxcVhtcVozamxkX2JqYTJvVzliNGtOejlURDZXZTBBQTRoa05PZzB5MmNHX25UTV9KNF9KYVRKbFFTSjRhUlBUcm5u?oc=5",
-      "date": "2026-07-06T14:03:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Efwm4l2WuAIH",
       "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says - Reuters",
       "summary": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says&nbsp;&nbsp;Reuters",
@@ -1018,6 +1054,18 @@
       "summary": "Hedge funds dumped chip stocks for a fourth week as AI shares sold off&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2ZRa1Y5RXpRdWtNOGYwQlh1UlowNWdQYlJ0dEllUHZTMENCUnVJM2RXWGZiYXJ3S3VVWVQyd09tREJXNEdqUXVQYUZGQkliSXl1LUxhbWRPVVZDSkxkQUVGUUNRNlc2eFplOUxWMUU2S0ZyaVpTM1hHVUo4bWFDV1RHQkdZRGFOTjA4ckhyYWhvMW5oREstS2VpWndDRllveEdqYXE5Qm43ZWhjR2V1anRIUHg?oc=5",
       "date": "2026-07-06T11:18:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "fdrk+rph6cXV",
+      "title": "UN's Guterres warns AI outpacing oversight, urges global rules to protect children - Reuters",
+      "summary": "UN's Guterres warns AI outpacing oversight, urges global rules to protect children&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZKby1qbWJLdDhkOG0zdUhZSzZoR3Q3a2tpU3J1RTJVMXZudXJWenpVTjU5UWZVcDZLX0RlYjFTZnY5M2RMNWlWRXQ1TkJqQnV5d2tlMHlpVkYzRmdtbUF6X05ObDdfYnR2Y1ptNEthZ1AyQzlCMmI1a1NoUlBPcnJ3elUzNkViWXItX0ZFWTZKTGY1ZWlpbkxKeE5uellvMEVSOEJwS0tHOG5i?oc=5",
+      "date": "2026-07-06T11:17:32+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1193,9 +1241,9 @@
       "articleLang": "en"
     },
     {
-      "id": "/WCS3GM/fxoM",
-      "title": "Google, Amazon emissions rise sharply, driven by AI boom - dw.com",
-      "summary": "Google, Amazon emissions rise sharply, driven by AI boom&nbsp;&nbsp;dw.com",
+      "id": "WX2e+V35/9tv",
+      "title": "Google, Amazon emissions rise sharply, driven by AI boom - DW.com",
+      "summary": "Google, Amazon emissions rise sharply, driven by AI boom&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWFTdi1nRHlIS2F0dWNjVHFqdE1QcG1SYnlGXzEzY29vWk4yeTRzcFFlWGtDWVQyUVZyT3FsRkxNLXd5Nm14RUxsUnZXS0VPazRqSzFzeFZrZ0ZMblpxanNmaG51WWZXb203ZU1qMTlTTlZBYjdsRXEwZl9QQS1kWEt2R0VWVi1VS3ZtUnk2XzXSAZABQVVfeXFMTzRsY1VsZFhKTDB5N19WdmF5VlRvYVc4ZmJZcXZPdlVOSi1TekgyT0dxcWJNU3hHNVo4WFFGYjBzMUtfQnZ6Q1JQYVNNNEVYVnZadzJIdkZrUnkwT21HOGRyUThBcGE5OFExV1o1Z2UxNlZmSFlJazVHZEhRanlhREFlMXNyZkM0czRhZjhiR0Nf?oc=5",
       "date": "2026-07-03T13:58:41+00:00",
       "source": "DW Tech",
@@ -1253,39 +1301,15 @@
       "articleLang": "en"
     },
     {
-      "id": "Du65FnzEwK97",
-      "title": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw - Reuters",
-      "summary": "Breakingviews - AI fight exposes Silicon Valley’s mimetic flaw&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZkZyZy0tQVpvRVRReXZQa004UWtDZE81T3ZlS19KZkU3UVJDSHVETmxQM2tFZzRQaTI2M0c5YmQ4ZzEtblBUdk43RkhZc0pldDV1Yk8xbXdjaC1nUm5vd3Yzakc1LWdOTGxia0ZtOVg2MW4tYVNmRXNtOEhKOU9pVUdtSUEzYWoydTRQQzFxM1ZmSFgzaUtVUUx0MFAxbmFrdV9VXzVhYUZRUQ?oc=5",
-      "date": "2026-07-03T05:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "t2lWHCn3GXYW",
-      "title": "AI drones made in Germany see duty on Ukraine's front line - dw.com",
-      "summary": "AI drones made in Germany see duty on Ukraine's front line&nbsp;&nbsp;dw.com",
+      "id": "CIQzxhGg6wZh",
+      "title": "AI drones made in Germany see duty on Ukraine's front line - DW.com",
+      "summary": "AI drones made in Germany see duty on Ukraine's front line&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcUdoaEQ0UFdMT0Vkby14RXJpWS1Pc2p3bXlKV2F4NzNNTnRoOWxaVGF6eC1yajIxR1ktR3NVdkQteFhZd0tRcXk3V3BSaXd0LS1KRzRZdGJwdFZHMmh0REkyeXhJenZ0WDZ6bU1pMGRseWZsdl9YdE5mSnFxWDhCejN3LU1RcGFLMFBWN1ZLZk1QNzV60gGUAUFVX3lxTFBadFREYmRvaHVEdTB5UVlzckNzOGVmdUFCdHhCN2ZZNFBjZ3pUOEhGQTZZMnZrZDNSbmE0eGZkS2tEWTJNYjJKXzdHd3FheWlZZ3BIbTQzc085UHA5N1RWVGpucU5EWTJVYTBlbmU0SElpUlpHMlZmMkl1V3NKU0VWRVpCM3lidE1LcmhYWnJtOVNTWE0?oc=5",
       "date": "2026-07-03T04:43:40+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "W5HWNiiK/45c",
-      "title": "‘Big Short’ 2.0? US hedge fund manager warns of a global AI bubble - South China Morning Post",
-      "summary": "‘Big Short’ 2.0? US hedge fund manager warns of a global AI bubble&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNXhhSnpTLWJNVU1PUko3YjRteEVMRk1GN0ZiYThKYTlfN3Y5Umx5VGU1bzlFUk50QzNxdFVGSWp4ZDl6OGxqbXYzV1FWMm5SX0RaOHdQUWFvLVMzS3dUVG1EMXdIZHUyMng5VmpleldiMkQ5aWswZ2szWFM0N094VzBhVFcyTjRBNTlyVGJsd3BiaktZMmdiQjN4MmE0bEJ5NWNGeDJaUUdhRHp1Y0NMZUtGTEpGektJVVV1TmVtdTNxV0xGMk1HTWhZa0vSAcwBQVVfeXFMTXQzZmpiMmFlVi0xUnZodU1JTk9OTmhYZGJiSGdKT0hKdGszT0tQTTRpSnEyeTZPdGRPN0FZWnpVeHR6Y0ZFMzgzV3ptQ1FFUHNKNTl5eklKcWdwZVlUdFpqY2F1eC11WUhkMTFmWGxySHc2U21yb2hVYjFTdWhtT3phOXdKTngxSlZ4N19zbU1fZUhrcWpIYWRMUVc0YWxkeTNMQXhPd0h1MHhaeTRlV0dIOXJuRlFIeml1Ry02R1ZEZDlsWkN2Vk9WWWhl?oc=5",
-      "date": "2026-07-03T00:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1298,18 +1322,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "buco76O5l7rG",
-      "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
-      "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
-      "link": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
-      "date": "2026-07-02T18:01:20+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
