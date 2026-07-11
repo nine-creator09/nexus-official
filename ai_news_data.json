@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-11T02:32:38.221793+00:00",
-  "articleCount": 101,
+  "generated": "2026-07-11T07:53:33.209517+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 11
+      "count": 12
     },
     "france24": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 11
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "kMJPYHnKtuzQ",
+      "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy",
+      "summary": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accountsMeta has said ⁠it is discontinuing an AI feature launched",
+      "link": "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
+      "date": "2026-07-11T05:07:41+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "WnEZLvqPmgn1",
       "title": "Meta pulls new AI image feature after days of backlash",
@@ -97,18 +109,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "xXMBlwcoR2WU",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "date": "2026-07-10T23:49:50+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -173,18 +173,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zeJnF7J0upo4",
-      "title": "Music industry launches AI-generated content labels - France 24",
-      "summary": "Music industry launches AI-generated content labels&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkRTV1M2VWRJSVFMZFNCNUlKbDVTbXA2Yk1TWTk3d1ZPWl8zMVlyeUE3ZTZJN3owLVF0c2s5YTB0RVVJcVkwS1ktbnJRZUQtYjJOMlBaNndYNUZ4RUQwNWNqOXdLcGUtSUlIdmFNX0pHcDQxM2U4WEVCUmpvUHlOTWJmdE1PbEo2WlQzZDRyeFh4S0s2dHVVNXQ0eG9fSmc?oc=5",
-      "date": "2026-07-10T20:33:09+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "x8aib3MrsqTe",
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
       "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo",
@@ -242,6 +230,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DPrN/lfqL40g",
+      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
+      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
+      "date": "2026-07-10T13:26:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -458,6 +458,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RzGJERDZ8GDF",
+      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave - Reuters",
+      "summary": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
+      "date": "2026-07-09T23:23:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -821,15 +833,15 @@
       "articleLang": "en"
     },
     {
-      "id": "PccYlR4ftnin",
-      "title": "AI selloff drives quant funds' worst performance since August - Reuters",
-      "summary": "AI selloff drives quant funds' worst performance since August&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0g1X0N2bzdzWFJhT1FwMGl4VTMxV0diWWkxaXVuT18xNEF4dXhVeGtneG45akpzTmQyUjlkTE9hOGE2aVlwWFY3NmNpMEpHbWYyMWFIQ0NQcm0tUDhPTzh0NW5aLWZPcEh2NE0teGdhVG1EdGVWSGVFRXpRMmtDLXdmbXBEV2hNb3RZWElELTY1VnplZXY5bEtMODAtU3diLTdTV3NyU1RrMkZjdi1IYw?oc=5",
-      "date": "2026-07-09T13:58:23+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "nSdDy3+/3ZGA",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "date": "2026-07-09T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1270,6 +1282,18 @@
       "summary": "Opinion | China’s next export shock is taking shape – as AI-powered robots&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWxDekp1cE1MN0xOek03NVNMVnVDdURQUVVFaFVUZ05jdV9LUHpHOXdYYnVLNWZhejlJNEhOVE8xMS1CUXlMU3E2VUdTUXdob2VIbC1ScmJSeUdLYVRIR1R1U1E5bkhWa3liVGhKaWZuR2pTTWdPbDctY0N4QWJLZG9icmdIVk1oSXdLMFJxS0pWRFlzRUxvbk9yTlkxQnh5aHJ2SzZSZEZ3SUpjbnZ30gGvAUFVX3lxTE1mbk1vR3d2czctT1FncV9vWndkYTVZZVNBVl9ieTRST0tveUZkcFFVMDFlMEdITUlqQkZhMkNYaUFzT1BOUXV5eEpUel9aYlZ5dlc2TE9zZi04MHhMajdfZXhrUEM5NGVRUU51c3lMem45aURoOFVURWtPNzNITDZBSnFqVUJkQjA0bWZ6WjYtQzdQRzdnaHUwRFk0cTZZR3V1QXQtTTVQOHNRR0NRS1U?oc=5",
       "date": "2026-07-05T08:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "yE1Sh0vMLics",
+      "title": "Chinese AI chip start-up bets on 3D stacking to bypass US controls - South China Morning Post",
+      "summary": "Chinese AI chip start-up bets on 3D stacking to bypass US controls&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEN5WU9peU5PaHBFZ3VKWFFRZDNmUjBmQ01tSTNJdm52STMwVTBJNlJFeTkyRnVpU09SMjdSSW9MNlVTS2tiOEVEQUM4ZlpZcFJSdGdoOFZuT192aWtUam9NXzJoMGRSc3R5RnItUjAwUy1GaGJOMXlGZmVMZG5DY29VdzBzdE82Zmk0ajhpaGRfUmhVNld6cE1lTWVrN29KV1RKOUYxdHRhWkU3NW9hQmtNdndteXA0azhwWnZRX3N4UGNUMGk0WnZR0gHKAUFVX3lxTFB3dTFQaFo1NU1NcWhSVmF1bUpEaWpUbkZBU25wak1lREhyYm9idW5GLWx1MXc2djNld3pweW0wT1VVaGQzRXo5YVVpdkFIWGE3S0FaZkxuSkM4aWhmRE5EYkZTc21rTlNoV3RMbkoxZEUwck9nd3lvNUZfNkR1eVNaeHVjMzdScmhHeWc1eVNud3lOVENsdjktSDU3R0N6dmZpWjlZMjEwWE50ZV8zV1FGeTZwekx1R0d3QV9ZSUVtb1d6a0hCTWFla0E?oc=5",
+      "date": "2026-07-05T04:00:11+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
