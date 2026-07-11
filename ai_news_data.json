@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-10T19:25:13.546775+00:00",
-  "articleCount": 102,
+  "generated": "2026-07-11T02:32:38.221793+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 1
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 11
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,126 @@
     }
   },
   "articles": [
+    {
+      "id": "WnEZLvqPmgn1",
+      "title": "Meta pulls new AI image feature after days of backlash",
+      "summary": "Meta's release this week of an AI feature that let people alter Instagram content drew swift blowback.",
+      "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-11T01:45:59+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "A8vw6WIHb/og",
+      "title": "OpenAI’s Head of Safety Is Leaving the Company",
+      "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+      "link": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+      "date": "2026-07-11T01:07:26+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Nk/HMxpw3pD2",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "date": "2026-07-10T23:55:07+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xXMBlwcoR2WU",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "date": "2026-07-10T23:49:50+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "r8SoIcxrvupd",
+      "title": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "link": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-10T22:54:16+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "smXpNvOBLjtW",
+      "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
+      "summary": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardwareApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm",
+      "link": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "date": "2026-07-10T22:33:21+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ep5u2RBzHCqn",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "date": "2026-07-10T21:36:51+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LiHC/cIxazYV",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "date": "2026-07-10T21:00:29+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "JiGmK/sGgJIw",
+      "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+      "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+      "link": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+      "date": "2026-07-10T20:44:05+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "zeJnF7J0upo4",
+      "title": "Music industry launches AI-generated content labels - France 24",
+      "summary": "Music industry launches AI-generated content labels&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVkRTV1M2VWRJSVFMZFNCNUlKbDVTbXA2Yk1TWTk3d1ZPWl8zMVlyeUE3ZTZJN3owLVF0c2s5YTB0RVVJcVkwS1ktbnJRZUQtYjJOMlBaNndYNUZ4RUQwNWNqOXdLcGUtSUlIdmFNX0pHcDQxM2U4WEVCUmpvUHlOTWJmdE1PbEo2WlQzZDRyeFh4S0s2dHVVNXQ0eG9fSmc?oc=5",
+      "date": "2026-07-10T20:33:09+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
     {
       "id": "x8aib3MrsqTe",
       "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
@@ -74,6 +194,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "402jtHwLy+/o",
+      "title": "Altera returns to growth as AI, robotics fuel demand, CEO says - Reuters",
+      "summary": "Altera returns to growth as AI, robotics fuel demand, CEO says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYUxfZDVhS2tnNUNrcVdacEotSUVaT05mMnlJOW9KR2RiMXBtSUpFckk4SUt4akxaX2wwNU1kSjFfQmtJZEpUNmlDUHYzSVhwR0NqZjBQQWRUVmxkcWRvd1V1bDZSVldZNEUzOG1sZUJzLTVHdkFicDB4UHZyVVhOZEpCd0ZzcmpZMjN3SUIxbG0tRlpKajBmTExJNFo4VmZC?oc=5",
+      "date": "2026-07-10T18:43:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -110,18 +242,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "DPrN/lfqL40g",
-      "title": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space - Reuters",
-      "summary": "SpaceX's near-term AI payoff seen tethered to Earth, not outer space&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUWpsRnIya2JuUDVDWlg1eFN4Zk5ZVUE5UWtMY3ZTTlRzTGtVellDRVZZWXNEeldhQW9UOEg2Mlo3bGVOQWlaeEV2QVhOUlBfMmJkdTlvdUxRdVl1Vks4WFdaTXRMaVJ5Y3d5TDNFeFgxWU0xZTRTMXlwS1hUME1zT3lWWE5mLWVsTk1mUzc3VHEyU2NOSUZTLVBEVWNhV3oxV3Vpdkx4cUFxbjA?oc=5",
-      "date": "2026-07-10T13:26:56+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -338,18 +458,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "RzGJERDZ8GDF",
-      "title": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave - Reuters",
-      "summary": "OpenAI's AGI deployment chief Fidji Simo to step down after medical leave&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTzZ2YUZyWC1oZ1BpSi14RHVwNFZrMFVncTIySTRNRTVyWjdrOTJWaTJCaXlDTXVEODJZM0JVY2JmcmRxSUNFcXlXSlE0SjRsVGp5cXBNNWVSVE1oT0VMa0RlcDJYYllIYUNaTkY1Qkk5YWhtY2Z4SG9PbzFtM2k3SVljSklWR2F6QUNKbWdhdlZmNzlNdnlJ?oc=5",
-      "date": "2026-07-09T23:23:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -701,30 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cbTvsTSV/QJN",
-      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on Anthropic’s chatbot.",
-      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-      "date": "2026-07-09T14:53:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "NyYAXEkGghcD",
-      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
-      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "date": "2026-07-09T14:51:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ImwmFiy45sfe",
       "title": "Game-changer? Why China is finally letting its AI firms buy the Nvidia H200 - South China Morning Post",
       "summary": "Game-changer? Why China is finally letting its AI firms buy the Nvidia H200&nbsp;&nbsp;South China Morning Post",
@@ -734,18 +818,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "nSdDy3+/3ZGA",
-      "title": "Meta says its new AI model is ready to compete on coding",
-      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "date": "2026-07-09T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -770,18 +842,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "f/RStP54dWgv",
-      "title": "Say hello to Claude Wrapped",
-      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \"",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "date": "2026-07-09T13:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -842,6 +902,30 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "73Wcmk+tPo9+",
+      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
+      "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
+      "date": "2026-07-09T07:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "vbPRMf9zKJgp",
+      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
+      "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
+      "date": "2026-07-09T07:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -989,54 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uTEWD74g1FD5",
-      "title": "HSBC drops 'overweight' call on EM equities on AI spending fears - Reuters",
-      "summary": "HSBC drops 'overweight' call on EM equities on AI spending fears&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFl1OE9kdFBCR1BieEl0bzdick1wTUYwMHh0M1B3Rncwci0zejVXZzloZl94OEhUMHU5TDdkc000cWdBbGpsMTJDMlV3NENpdV9sTUxCbGhUckhwamItVEFxRmUyaUtPbUpLQkt0T2RjczFJM3c3cjctQ2ZtSVBhMkQtdXBRaFpfcHl6ZU1NajVHNHlSWFBNRHRmN0tqNTRrWUNIZU5xaTdRa2lTeW5iQQ?oc=5",
-      "date": "2026-07-08T12:11:53+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "2S0d0GQgtcQk",
-      "title": "Pickup Artist Mystery Has an AI Girlfriend",
-      "summary": "A new book claims that Mystery, who teaches awkward men how to hit on women, had sex and smoked weed with an AI chatbot named Miss Shira Always.",
-      "link": "https://www.wired.com/story/pickup-artist-mystery-has-an-ai-girlfriend/",
-      "date": "2026-07-08T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "mmVIIAGFQNc0",
-      "title": "Women and university graduates in Australia most at risk of losing jobs to AI, report finds",
-      "summary": "Those with high levels of vocational training, including tradespeople, are least exposed to AI displacement, according to government reviewGet our breaking news email, free app or daily news podcastAr",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/08/women-and-university-graduates-most-at-risk-ai-job-loss-australia-report",
-      "date": "2026-07-08T09:43:03+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "QWm0p402KIN4",
-      "title": "This Former DeepMind Exec Thinks the AI Arms Race Could End in Disaster",
-      "summary": "Verity Harding tells WIRED that the US government’s nationalistic attitude toward AI is evidence that a worst-case scenario is taking shape.",
-      "link": "https://www.wired.com/story/verity-harding-ai-arms-race-dangers-anthology/",
-      "date": "2026-07-08T09:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6TxzukBaGaUu",
       "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
       "summary": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
@@ -1169,30 +1205,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vbPRMf9zKJgp",
-      "title": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say - Reuters",
-      "summary": "EXCLUSIVE: China's DeepSeek developing its own AI chip, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSGRQQzRJX0VFTThJbC1JZnM2NUpNVHZQeEhxODdQejNBODNSLXpYMGdvSWxJMVhRSFBEOWplZy1NMU5qSnFxc3dpOEczN01EcVRQSk1mSXo3ejlMaUoxcks3LURaeGZ0Q3EyZ2dBQVN0QkRXNWg0YWpyOXJ2TjUtLVF4elZRU1VqdUVCdEhGNnFfYV9uYTdaT3V4MVFEZ2swRmlfRw?oc=5",
-      "date": "2026-07-07T10:34:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "73Wcmk+tPo9+",
-      "title": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say - Reuters",
-      "summary": "EXCLUSIVE: Beijing is looking at curbing overseas access to China's top AI models, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWk5sbnFqSktyYjJZYUZWOVFQYTc0YldVbnhfWmlOQmFpYkF0RENrUXlwQ1lyZ1F2bzVJalFrRE5yZzhwdUZpQU55bjFiTS1jVlFfWmFxMG01TVpQcmZfOU1fdkw0WEo0bmtra3ZoMmNFWG5vUU9PZ3dXNHFaUDI0RHRWWS05bGdQRUZ3OE81dE00UkZzOUJOOVRHMGtzZENOXzJGd19TNEV2MzJkazFiZlljUmJJZ0Uy?oc=5",
-      "date": "2026-07-07T10:17:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "oFU5tRCQ40Mp",
       "title": "AI ‘central plank’ in Hong Kong’s economic development, John Lee says - South China Morning Post",
       "summary": "AI ‘central plank’ in Hong Kong’s economic development, John Lee says&nbsp;&nbsp;South China Morning Post",
@@ -1258,30 +1270,6 @@
       "summary": "Opinion | China’s next export shock is taking shape – as AI-powered robots&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWxDekp1cE1MN0xOek03NVNMVnVDdURQUVVFaFVUZ05jdV9LUHpHOXdYYnVLNWZhejlJNEhOVE8xMS1CUXlMU3E2VUdTUXdob2VIbC1ScmJSeUdLYVRIR1R1U1E5bkhWa3liVGhKaWZuR2pTTWdPbDctY0N4QWJLZG9icmdIVk1oSXdLMFJxS0pWRFlzRUxvbk9yTlkxQnh5aHJ2SzZSZEZ3SUpjbnZ30gGvAUFVX3lxTE1mbk1vR3d2czctT1FncV9vWndkYTVZZVNBVl9ieTRST0tveUZkcFFVMDFlMEdITUlqQkZhMkNYaUFzT1BOUXV5eEpUel9aYlZ5dlc2TE9zZi04MHhMajdfZXhrUEM5NGVRUU51c3lMem45aURoOFVURWtPNzNITDZBSnFqVUJkQjA0bWZ6WjYtQzdQRzdnaHUwRFk0cTZZR3V1QXQtTTVQOHNRR0NRS1U?oc=5",
       "date": "2026-07-05T08:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "oG63fjMMppsg",
-      "title": "AI races are shaping the future of banking, Citi CEO says - South China Morning Post",
-      "summary": "AI races are shaping the future of banking, Citi CEO says&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSjVyR3R4OU4wM05hemI4bm14ZFNfeFQtcWVUUXBaNHFSc3NiUG5ieVZQWDV4aHVCN1hWTGVkbXR1UThkM1VDZndGbGRDNGQycmdKX1YzLW5CUXhtblU5TkRzeXNKWE9ncVlRcWU3VGJFcER4VWtqRkY5OXhyT1RWMDNkQjRuV09UU0UtTlFfaGJJSFBPZE80alZGOGlHWUZZcTR2TTNha3BBVzhxVzlEZmJLZ9IBswFBVV95cUxOczVYOFVFWnJMRTJJQzVkUHVFei00dGtMdzd2TERJNVVSWmhmOTY1dXpqbEVhNHhicWdxNGhseHRzbkM5QjBlc1kzOHhGTzhLdWpwWWlUOGZzVkxvWVRRbDNLOFBRSmlGcTNHMF9rWGZHT193RTVsZy0tVjFsbnMyRVI1Q0FfNFVZTGNVS052Ym5HdU4ySThaN0QwbWRfYURpS28tZG1vQ2ZqZlpQRGRlLXRwTQ?oc=5",
-      "date": "2026-07-05T08:00:18+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "yE1Sh0vMLics",
-      "title": "Chinese AI chip start-up bets on 3D stacking to bypass US controls - South China Morning Post",
-      "summary": "Chinese AI chip start-up bets on 3D stacking to bypass US controls&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcEN5WU9peU5PaHBFZ3VKWFFRZDNmUjBmQ01tSTNJdm52STMwVTBJNlJFeTkyRnVpU09SMjdSSW9MNlVTS2tiOEVEQUM4ZlpZcFJSdGdoOFZuT192aWtUam9NXzJoMGRSc3R5RnItUjAwUy1GaGJOMXlGZmVMZG5DY29VdzBzdE82Zmk0ajhpaGRfUmhVNld6cE1lTWVrN29KV1RKOUYxdHRhWkU3NW9hQmtNdndteXA0azhwWnZRX3N4UGNUMGk0WnZR0gHKAUFVX3lxTFB3dTFQaFo1NU1NcWhSVmF1bUpEaWpUbkZBU25wak1lREhyYm9idW5GLWx1MXc2djNld3pweW0wT1VVaGQzRXo5YVVpdkFIWGE3S0FaZkxuSkM4aWhmRE5EYkZTc21rTlNoV3RMbkoxZEUwck9nd3lvNUZfNkR1eVNaeHVjMzdScmhHeWc1eVNud3lOVENsdjktSDU3R0N6dmZpWjlZMjEwWE50ZV8zV1FGeTZwekx1R0d3QV9ZSUVtb1d6a0hCTWFla0E?oc=5",
-      "date": "2026-07-05T04:00:11+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
