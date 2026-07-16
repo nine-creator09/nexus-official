@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T13:47:06.092728+00:00",
-  "articleCount": 107,
+  "generated": "2026-07-16T19:07:32.329544+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "venturebeat": {
       "status": "ok",
-      "count": 1
+      "count": 4
     },
     "wired": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,198 @@
   },
   "articles": [
     {
+      "id": "rcwxH9MLwvAw",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "summary": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half have already had a confirmed agent security incide",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "date": "2026-07-16T19:02:38+00:00",
+      "source": "VentureBeat",
+      "key": "venturebeat",
+      "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LtMkDhXxpbiL",
+      "title": "Here’s Why Anthropic Is Pushing States to Regulate AI Faster",
+      "summary": "The company endorsed landmark AI transparency laws in California and New York last year, but its head of US state and local policy says they may already be outdated.",
+      "link": "https://www.wired.com/story/why-anthropic-is-pushing-states-to-regulate-ai-faster/",
+      "date": "2026-07-16T18:35:18+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "nR8VrHoIK0qX",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "date": "2026-07-16T18:32:54+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "vF07PWE2Gl0x",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "date": "2026-07-16T18:22:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mohqUrO+Rkqj",
+      "title": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead - South China Morning Post",
+      "summary": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1NXeC1uQ2gyaVNJSk5zeGxqbl84OWNVaVJCbW5DdTIweU5GYVpaOTVPMk85ZWJMaHB2QWpkNE1oMGNGQ0lsX1hFQ1phMnByMk1FRkdBa01hdk96OHVobVBIMFFraEMzaHBGYVc4a0NwWDB2bWl5MnVQWERyUFdPMUFoYUZJV3AyYnBOZDBJRVpqN0l5UlIzVHV5VDY4ZDR3bkZzYTlFSjVlZm1sRWJYMy1YeWh0cElRc0ZTc3YyeUsyZUtFTEZOVdIByAFBVV95cUxQMW9iSEF1N21Qa3pNaGUtLXNFNzlqdkFfQmtEVHFGTXUxSy1tSTk3amU3SjVLa0toenE3T3RLS05EM05sQ1ZVNnFkdnBlbWJCOTlVZDByZVlabXI3WUtaYmlhTkJvUVFIS3owdDUxSnhFVjN1dW45RWM3Rzh1dTRiYlVZNnMyVHdxU0dZVWNLTU9pdVJ2cWpDbzc0Vk5OYkdtY20zTXhCdGFucDJIWS1uTWFGbXlPajNVek1rZmdIeldtcWZpOExvNQ?oc=5",
+      "date": "2026-07-16T17:30:48+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "EfouXUF+txTF",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "summary": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augmented generation is already the default context sourc",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "date": "2026-07-16T17:06:08+00:00",
+      "source": "VentureBeat",
+      "key": "venturebeat",
+      "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qIDCaoeceatv",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "summary": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have already shipped an agent that passed their interna",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "date": "2026-07-16T16:40:48+00:00",
+      "source": "VentureBeat",
+      "key": "venturebeat",
+      "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "VHgkY4UvXkBL",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "summary": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RAKix3Kp4qq2",
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "date": "2026-07-16T15:38:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "sXUVkJg6yHe2",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "date": "2026-07-16T15:31:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "91sr4E6m35SZ",
+      "title": "Twenty-nine countries sign agreement to establish global AI cooperation body - Reuters",
+      "summary": "Twenty-nine countries sign agreement to establish global AI cooperation body&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+      "date": "2026-07-16T15:23:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ELF9E3dKYGHv",
+      "title": "Musk’s xAI sues user who allegedly used Grok to create child sexual abuse material",
+      "summary": "Case is one of first brought by an AI company against a user ⁠for allegedly using a tool to generate child abuse materialElon Musk’s artificial-intelligence startup xAI has sued a South Carolina man a",
+      "link": "https://www.theguardian.com/technology/2026/jul/16/elon-musk-xai-sue-user-grok-csam",
+      "date": "2026-07-16T15:19:27+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Qc6+D+nOCiAM",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "date": "2026-07-16T15:02:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ramKxUT5SRsY",
+      "title": "Brain implant helps paralysed man to feed himself and drink from cup",
+      "summary": "Keith Thomas can move arms and hands, and feel sensation of touch after ‘double neural bypass’ and months of trainingA man who was paralysed from the chest down in a swimming accident six years ago ha",
+      "link": "https://www.theguardian.com/science/2026/jul/16/neural-bypass-brain-implant-paralysed-man-feed-himself-drink-from-cup",
+      "date": "2026-07-16T15:00:41+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Hwm79noEg6gx",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
+      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "date": "2026-07-16T14:40:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "AGjavLKD/IjP",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion.",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "date": "2026-07-16T14:26:29+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "1TnscevtxeBx",
       "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
@@ -73,18 +265,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "LyvYEJmR2K+V",
-      "title": "Claude can now use your 1Password credentials for you",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "date": "2026-07-16T13:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -110,18 +290,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "6cS+ChdCBWhn",
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "date": "2026-07-16T12:06:51+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -290,18 +458,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ZFVCKwZz4/OM",
-      "title": "Inside Ai Weiwei’s gigantic UK art show, including China detention recreation - South China Morning Post",
-      "summary": "Inside Ai Weiwei’s gigantic UK art show, including China detention recreation&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcG96TXptVG5uZFJxVGdMZ2R3VFctc0lXTFFiLUVPNU5lcVJ4c3NzYkhHMmdIelRaLXFETHJ0cW1ENlA1YUNiX0FfdmFwZzc1aWg3Ry05M0JLN1hieUw3VkNfNnVOaksyOUlUSXFGaEdISTZxQkk3bEdvUmFnSV9uZmFWMk51YTQwWmJ0MG02MURldWNLYUxYd245RmJPT2I3Y1ozbFBGaXNxSk1zanFtcC1Dc3hvWnF1My1tYTNpc09VZVlJX0YyZjNWQjJMQ0FR0gHQAUFVX3lxTE1tbWo2TGk1OC1YeTdHYlhkS0U4WkREWW9SQzh5ei1rcER0N3pOcExGV1NCV3hvWkJEWkw2Z05GUklnMjN6X1p4VmRBZ2RpZzF2a182cGlLekNhSWhydHRWZ3U0aE5ia2pnaUVSX2ZtSEpZS2pQTjRwRW1IemlzVzRveFFZSVRiLUNuWWJrazBFc2dsOWNsYkcyaW5ua3ZKTDc3LVJFb2ZYY1pRaERLNlB2WU14X1NfSUp4Ym1aenNGWWlWdjFCa3ozV1BENENUTkg?oc=5",
-      "date": "2026-07-15T23:15:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -593,54 +749,6 @@
       "articleLang": "en"
     },
     {
-      "id": "X5wBTnjHC5s2",
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "date": "2026-07-15T13:10:47+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "0ZNcCWuyTOOi",
-      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "date": "2026-07-15T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "bH0c0hceL/SI",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "date": "2026-07-15T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "BWuhEWJu3wCr",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "date": "2026-07-15T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "Yj1FWY3C5IEB",
       "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
       "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
@@ -809,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "P1PTyKUib3vi",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "date": "2026-07-15T00:27:04+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "9UwrF6paY3t6",
       "title": "Meta used AI to tag workers who took leave to be laid off, lawsuit claims",
       "summary": "Lawsuit filed by dozens of employees says people who took maternity or disability leave were disproportionately selected for layoffsDozens of Meta employees have sued the social media company over cla",
@@ -830,54 +926,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "iO9fTOqt1CJM",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "date": "2026-07-14T23:10:02+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "oFNzj0RrMMn9",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "date": "2026-07-14T22:22:24+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "FWkgr8DRR5w4",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "summary": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "date": "2026-07-14T22:07:42+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "rSKjnT8uGtyG",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "summary": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "date": "2026-07-14T21:50:11+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -977,6 +1025,18 @@
       "articleLang": "en"
     },
     {
+      "id": "MaSJ2mhal6QY",
+      "title": "Where authorities are restricting data centres amid AI boom - Reuters",
+      "summary": "Where authorities are restricting data centres amid AI boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFNWNVlkWG1wT2lJUzJza1JuNE9Yd3hETjg1OXFPbmREZkYyOFdKeS1JRkR3U0o1Y3pXWUZaeVRUU3ByRDRNYlYwRXBWU3dwNTZlSVdvTUs0OU5fYnp2NnR6VG4wbzRtSDk3WmpDUHR5SFdLc1NTMlpjTVpadG8xWkhReFFiMXBBRHdHZTBFMVF3OTU3Q0pFZ3RrSld1Rmc2RF95RFlmUFFlMVlWMDVkT1Z3?oc=5",
+      "date": "2026-07-14T16:59:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "wc8Gqj991Gwy",
       "title": "How jihadist groups like Boko Haram use AI for acts of terror - France 24",
       "summary": "How jihadist groups like Boko Haram use AI for acts of terror&nbsp;&nbsp;France 24",
@@ -989,51 +1049,39 @@
       "articleLang": "en"
     },
     {
-      "id": "kqAfbFu/fjni",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;DW.com",
+      "id": "TRbLostoNPWs",
+      "title": "Spotify is now an AI chatbot, too",
+      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "date": "2026-07-14T15:47:36+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "QaBCqg7vNjD4",
+      "title": "Sam Altman didn’t need another lawsuit",
+      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "date": "2026-07-14T14:01:07+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "M6RnAOXHs/FY",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-07-14T13:57:37+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "MaSJ2mhal6QY",
-      "title": "Where authorities are restricting data centres amid AI boom - Reuters",
-      "summary": "Where authorities are restricting data centres amid AI boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFNWNVlkWG1wT2lJUzJza1JuNE9Yd3hETjg1OXFPbmREZkYyOFdKeS1JRkR3U0o1Y3pXWUZaeVRUU3ByRDRNYlYwRXBWU3dwNTZlSVdvTUs0OU5fYnp2NnR6VG4wbzRtSDk3WmpDUHR5SFdLc1NTMlpjTVpadG8xWkhReFFiMXBBRHdHZTBFMVF3OTU3Q0pFZ3RrSld1Rmc2RF95RFlmUFFlMVlWMDVkT1Z3?oc=5",
-      "date": "2026-07-14T13:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "67SvpZAyxKg2",
-      "title": "D-topia review – cosy sci-fi mystery takes aim at AI",
-      "summary": "PC, PS5, Xbox Series X/S, Nintendo Switch, Nintendo Switch 2; Marimittu GamesA soft puzzle game makes a sharp point about the over-optimised future aheadIn the far future, on a planet that is not Eart",
-      "link": "https://www.theguardian.com/games/2026/jul/14/d-topia-review-sci-fi-ai-puzzle-game",
-      "date": "2026-07-14T13:00:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "4SIL5zLvZdbH",
-      "title": "Anthony Albanese promises fast-track approvals for datacentres to shore up AI investment",
-      "summary": "PM to declare Australia the first country worldwide to bring economic, social, security and environmental issues from AI under single office in major speechFollow our Australia news live blog for late",
-      "link": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
-      "date": "2026-07-14T12:30:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1070,30 +1118,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "abz6Y2BeIknX",
-      "title": "DOGE Used AI for Housing Policy. The Government Won’t Say How",
-      "summary": "In response to a public records request, HUD has withheld documents about DOGE’s use of AI—in part by citing a privilege that doesn’t exist.",
-      "link": "https://www.wired.com/story/doge-deployed-ai-housing-policy/",
-      "date": "2026-07-14T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7JvoWaowpfNx",
-      "title": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom - Reuters",
-      "summary": "South Korea forecasts 2026 economic growth at 5-year high on AI chip boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMlJqdXFSbm1RMkt5ZU5oOG5mUHZiblBGVE9aQ1RDSDlpRTVPNFA1SHlKYkFNc3MxbHppV3ZyMVNGUTFvSlZkb0lhR2w2WU9MY1FMSHdZQUdpTnhDY3ZpNG5MLXJkMTRVTHBnOTZpQVJCY2ROWXNQeUpITmNKWEx1ZWt1MFV2UjB3S0F1VWYwa1FHRkdzQlRLTHEtYm1QNVdqWFpDM2lnWi1UUVNKb0E5eHZGOGUxYUZqcnhaLXJYWQ?oc=5",
-      "date": "2026-07-14T02:58:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1253,9 +1277,9 @@
       "articleLang": "en"
     },
     {
-      "id": "DGk1avQc+3XG",
-      "title": "Could AI help al-Qaeda and other groups plan terror attacks? - DW.com",
-      "summary": "Could AI help al-Qaeda and other groups plan terror attacks?&nbsp;&nbsp;DW.com",
+      "id": "nHU0eGjtOFqn",
+      "title": "Could AI help al-Qaeda and other groups plan terror attacks? - dw.com",
+      "summary": "Could AI help al-Qaeda and other groups plan terror attacks?&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3hjYTFETXczZHplRk9xand4MkprWDB6NHVMWjRISG14WW9SaG5Xel80UHR0bWVHNW42djk2YUt2WEVfN1RLVnk1Vnl2WEV2VWM0eFlwdjF1ZW9XR1BxMV96MEhkcGtJajhhcXRycVpKSDlEY21sMnY2d0NIQ0FiUUxVSWhJMWVKU21hYnMtaVZWUW1MUnBR0gGXAUFVX3lxTFBuTkR6T25PNF9Ea25OdlN0bko1U09yRFpORUdMZzF0N1F2eG9zZTcyRFgwTDNRMEp4M2FReUhTQ2tkV05qU3RlTVJzVWhIRm9rODVPOEVHSU9TUklkbzJGNkhrSkhQWkk2V3JkbEF1d0Z4M21rd3A4N25vZVBWVXVCeTNhM0FjZ1M1cXpvbzB1ekNHQUd4Z0E?oc=5",
       "date": "2026-07-11T12:26:14+00:00",
       "source": "DW Tech",
@@ -1334,18 +1358,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "ImwmFiy45sfe",
-      "title": "Game-changer? Why China is finally letting its AI firms buy the Nvidia H200 - South China Morning Post",
-      "summary": "Game-changer? Why China is finally letting its AI firms buy the Nvidia H200&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb3pFQy00bDRubnlpa0ptcDFPd3czcnAwR0hmTG1VWWNDb0J4UW5WZHItQ3ltbV9kdTJfdWQ2TkljSmtkd282Nk8zaVliZlV4N1ZnQmMtOXdLLUJnazZuUDdObnJmNHRSQkQzbEl1amcyUEtYYmJBNVFNdnhXMWxBX3Bmd2NrZmRuVWJmNnJMNllmdmVpN2xRWEU0NHlxYWFCUHBMU1dCeUlRcHAzeTdSZ1Y5UW1xWE3SAbcBQVVfeXFMTkpmb29BV3kyT09jT05hMTQ0RmNNaWVadFdoc3N5VmFhRUdwdXgtZVVJVHdnOWZCUHBwNXZNbkRFVW9DaEFpOHVISjNyLXY4VUxuNkpOQVplaHJYWjc5STlOZFljSVd2ZzUxYklRSXFVX3FqaWExbHVYM3JKV1pvT0NEZnJRS2lrYTdFaGk5QktCem40NmMzemJUZ3dpRk54Z3NuS1owcjNOaTlGbk5wYmJmV2dhem0w?oc=5",
-      "date": "2026-07-09T14:12:16+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
