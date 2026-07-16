@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T02:29:54.501995+00:00",
-  "articleCount": 100,
+  "generated": "2026-07-16T08:10:14.754788+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 12
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,90 @@
     }
   },
   "articles": [
+    {
+      "id": "1zEL952eNGCe",
+      "title": "「Claude」利用制限を全リセット　CodexとChatGPT Workも　“リセット合戦”再び",
+      "summary": "米Anthropicは、AIサービス「Claude」の5時間および1週間の利用制限をリセットしたと発表した。一方、米OpenAIもデスクトップPC向けAIサービス「ChatGPT Work」およびAIコーディングツール「Codex」の週次利用制限をリセットすると発表し、“リセット合戦”の様相を呈している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000201/",
+      "date": "2026-07-16T06:15:24+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "S72uDx8n/TGj",
+      "title": "「Gemini Spark」日本でもリリース、まずUltraから　24時間働く“パーソナルAIエージェント”",
+      "summary": "同社の幹部は、「Pro」（月額2900円）ユーザーにアクセスを拡大する可能性も示唆している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000200/",
+      "date": "2026-07-16T04:53:43+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "AhgpNU+pB5+D",
+      "title": "Robots, AI and drones: how the Dutch navy is using tech to transform its sea defences",
+      "summary": "Uncrewed systems are the future for armed forces and the Netherlands is leading the way ‘to keep people out of danger zones’On each side of the target ship, a black vessel keeps a watchful distance. D",
+      "link": "https://www.theguardian.com/environment/2026/jul/16/robots-ai-and-drones-how-the-dutch-navy-is-using-tech-to-transform-its-sea-defences",
+      "date": "2026-07-16T04:00:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "DQa1ukW64uy5",
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "date": "2026-07-16T04:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "utRMCmMB9OPV",
+      "title": "「AIと壁打ちはもう古い」　業務タスクを任せる「Claude Cowork」の落とし穴",
+      "summary": "Anthropicは、PC上の業務タスクを任せられる「Claude Cowork」の活用法を公開した。チャットやClaude Codeとの使い分けや、どんなタスクを任せればよいかを解説している。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/16/news046.html",
+      "date": "2026-07-16T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "eVfyU51MO2w2",
+      "title": "China's Xi to outline AI diplomacy vision at key Shanghai forum - Reuters",
+      "summary": "China's Xi to outline AI diplomacy vision at key Shanghai forum&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU1VkX0Npc2Jpc0tjRFVLQ0FlWFhZMlRrYzBWWTl2bFlzc0d3VXV6ZEVmNDY2TWRMQ2ZmVlJEeFp2WXVkY0dVYUJlWXJ5RTJhb2FlUDBESUFhZmNZbnExclllMWZUSGJDNmNwTGY1NzNEZTZBbm9YemJzU3RCUzI3eXRtcFNPSW1yUWwzVC1mVmtVVk5JenlpeURPYk45R3VUR3dQV2dqOA?oc=5",
+      "date": "2026-07-16T03:42:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "T0eKEnxDZeKx",
+      "title": "OpenAI、自動レッドチームAI「GPT-Red」発表──人間の攻撃成功率13％に対し84％",
+      "summary": "OpenAIは、自社モデルの脆弱性を自動で発見するレッドチーミングモデル「GPT-Red」を発表した。自己対戦型の強化学習を採用し、攻撃側と防御側を同時に訓練して安全性を高める。検証では未知のシナリオでも人間のレッドチーマーを大きく上回る攻撃成功率を示した。この成果を反映した最新の「GPT-5.6 Sol」では、プロンプトインジェクションへの耐性が大幅に向上している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/16/2000000199/",
+      "date": "2026-07-16T03:10:19+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "2Fe31CN6s3k7",
       "title": "Will the new AI roadmap keep the tech giants in line? | Fiona Katauskas",
@@ -74,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "BuTGLwy+RnZv",
+      "title": "After floods kill dozens, local Chinese official uses AI to build evacuation app - South China Morning Post",
+      "summary": "After floods kill dozens, local Chinese official uses AI to build evacuation app&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDVPN2NrNFBCN0dJQnFNbmkybjhIVkNuNTBqRW9RU3VmUWhvTGVnaU85UmpHSFotS0RzWU1XTXZERm9LSlRRWlA2MF9KZjlqQnFCWnpYbWo4QlUzLXdyaDRCNmdHSVNwZ3A1Vkl6VzM0QVNDQUV3ekRteG9lRGdvYkVSWFhQWEhIVHVpaHFnNnNUWXpjMWdsc05mVDZPZWpkUkxBUmxXQzRPdWNEc1ZwWUc5d25EbGdaREQzOHEzcWVCT1NCd3JraDFodjFiZ9IBzgFBVV95cUxQbnVZaWR4M1Nuc2dRMVIyWDU4amFmN0NwUTBKanI3N2xFT3BEenZQMWpWTmdNcFFsQVZXX1FhbFNPU3VaWmNOWlh5ODJWcXoydzZKU0JlVzU4aWFoN1FiaWFLZGJRMnJfRFNxQTkyVXRYbk5Yb2VkZjdnaHNFSjV5NmlKbl96NzR4eXd6emlKSlgxaUcwcXhNZ3Z1VGdSV21ZWDNUY3ZzdGdYTDFTUFh6RWVISzdFdGNnOEhROElXMzdla3dnV2RsVUJOTWRTQQ?oc=5",
+      "date": "2026-07-16T01:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -134,6 +230,18 @@
       "key": "venturebeat",
       "cls": "src-venturebeat",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "gzMNS9ELsUZb",
+      "title": "US hardens AI stance on China as Anthropic calls for extending lead - South China Morning Post",
+      "summary": "US hardens AI stance on China as Anthropic calls for extending lead&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObmFMMG0yWk8yLTBnMFB6cUlQSVRELVNBZDI0Z3pHelVVSUFra2gyM1ZFajE4NTR5RW5OQTJ5Z3NMeXZmclAycG41Yk8zX1E1UU9RVXFtTUlNSGVwRm1pLVRWQnJEblVlRDNWdXdUUG1MSGRuUnNtLVdqMjg2TENLRi03MVVadW1PMGN6aVpWNDVlTTJWZkQxWGpwVVVGbFo3bGtCUdIBpAFBVV95cUxOUElSQmUzejJWVzRxcy1lS0w0Wkd4d0NwNXZZNU1mbDFudnFGeHJZSTFPOFpRNFUzU00ydHNVVlVlSlVuenhBaHFYbDlLYlJWT01uTE1nVjZqSElRdUlfbUt3OGpfRHhXTkRocW13RTBzM3NhOWEtbUl4LWpyN2ducEJubjNFb24yNnVZMVZ6ZHdSZXJobms5WEh2aDRlODFaZzMzeQ?oc=5",
+      "date": "2026-07-15T22:05:35+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -314,6 +422,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mVLHdwOkmt2o",
+      "title": "Apple chasing AI chip company deals, The Information reports - Reuters",
+      "summary": "Apple chasing AI chip company deals, The Information reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjBlRTdrb3NUZXNrcDR0M0hsLVNveDdNNGFYTjQ1TE1QNV9QQzBqdmtaQ2RqX0ZSSEw3c19UNWVWSUo0UUVTLW5iVC1ZVmtLY3dsaFhnOEdDZ1VEb3czVGIwM3VHV3BjcGpOOXE0eGlkTDQ0ZkVnU0NmWmpobGJYR1JkYWNLQVEyU05kOXhpeVpxbHlDWmlBdnRPQ0o1SGFUSkE?oc=5",
+      "date": "2026-07-15T15:43:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -593,6 +713,18 @@
       "articleLang": "en"
     },
     {
+      "id": "E9uOiN0uENbV",
+      "title": "AI uncertainty is rising. So is investor conviction - Reuters",
+      "summary": "AI uncertainty is rising. So is investor conviction&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOX29VRWI3ZWVVR09ZLURsZ3JpZlI0eE1vSWk2NWp5bWhSVFYxNVZwaVJQZy1OajJzVEQwamprcWsyODY3a0h2MFRGNmp4RE9HZ0dHNkZIQS1HQWxvcGhtLVBYMUpjYndBRTUtYWNSWG9KY2FXVXFSOWE4UXViX28tOENydENOdUU1RkdtQUR1MWZrVGxLa2tCbnVsb1Y5U3JqemYtcDRZR0YzOS1LYmlCWjlWbFJNRGQwVHpz?oc=5",
+      "date": "2026-07-14T23:30:27+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "iO9fTOqt1CJM",
       "title": "Lorde says AI glasses are ‘not sexy’",
       "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
@@ -677,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RKpwxARJv+1u",
-      "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-      "summary": "If you’ve been waiting to try Apple’s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its A",
-      "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-      "date": "2026-07-14T19:42:27+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "koxtR1n4CmmI",
       "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
       "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
@@ -770,18 +890,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Xr6zEXe2H4mH",
-      "title": "German media regulator says Google's AI Overviews subject to German media law - Reuters",
-      "summary": "German media regulator says Google's AI Overviews subject to German media law&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhqd1N1RlV3RnBERVcxdlpaeDVnQnI2WlRiY2ZTRk95ZXhDNVNwbVJMcXljaVBmWWlMZE5YOUNkZC1tNWV2dF94NXFhZzQ4b0pydHYyX1NySjBvbVNkY3BmTXhqNEpmcmhmdzZSLXVONU5ValZHZWd1WEhHam95ZHltaU1uVFhzZmwzamM3UDdSYllkeVZackFDUl9VYTJHYWRDYVJnbExwTGFSVzlDZzV4ak5IZmNxYTlyQzhCRENHcVN4?oc=5",
-      "date": "2026-07-14T14:28:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -881,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+blkwGLEwmSe",
-      "title": "AI startup Reflection signs over $1 billion computing deal with Nebius - Reuters",
-      "summary": "AI startup Reflection signs over $1 billion computing deal with Nebius&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNak5EWjJRQUJqbFgySi1CTl8xd3BaUG5HVjFZQUFKZk1WaGdTQVc4NWlRaC1ES3R6c3NLNnhoWUl2UjVwVTM3OV9UaW9ETTNZRnVrUkZERzYwS2luSmlvYUx6V1cweks4bzVLRk5acmpUcFlEUmxhaC14VFh4RVRRa1EtQjZKanJ5cUJXVlZyT282UEQ5Sld2ZFhIOTdLUTJ0REZNWWxSb1VXQ2ZYV2lYeGwwRzU?oc=5",
-      "date": "2026-07-14T11:15:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "ibbNIVBF+8ux",
       "title": "Synthetic Sincerity review – Marc Isaacs’ AI interrogation grapples with identity and existence",
       "summary": "A combination of fact and fiction leaves the celebrated documentarian’s puzzling project about software training wanting for depthMarc Isaacs’ new film is a curious, intriguing, semi-sincere affair th",
@@ -926,18 +1022,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "W5EEFU4IzM1U",
-      "title": "Ed Husic says weakening copyright to benefit AI companies would betray Labor party’s ethos",
-      "summary": "Labor MP says ‘a fair day’s pay for a fair day’s work’ was a founding principle of the ALP as media union calls for tougher new rules on AI use of creative workFollow our Australia news live blog for",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/14/ed-husic-tells-labor-to-get-tougher-on-ai-companies-as-letting-them-self-regulate-doomed-to-fail",
-      "date": "2026-07-14T05:40:52+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1034,18 +1118,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "NfaKe+l3vErR",
-      "title": "Can Labor save us from the risks of AI? – podcast",
-      "summary": "The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace.The Australian government is grappling with how to deal with the multi-layered disruption but so far",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
-      "date": "2026-07-13T15:00:51+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
