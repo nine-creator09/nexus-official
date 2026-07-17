@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T19:07:32.329544+00:00",
+  "generated": "2026-07-17T02:32:12.468731+00:00",
   "articleCount": 108,
   "sourceResults": {
     "verge": {
@@ -20,7 +20,7 @@
     },
     "venturebeat": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "wired": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "dw": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "Sa8UIeV/WhGp",
+      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
+      "summary": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
+      "date": "2026-07-16T23:21:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "+2e+8yaDNuc5",
+      "title": "Why Apple Sued OpenAI, New York Takes on Data Centers, and What to Know about Cyclosporiasis",
+      "summary": "On today’s Uncanny Valley, we unpack OpenAI’s ongoing drama, both legal and reputational, and whether these developments could further hurt the company—particularly in its fight against Anthropic.",
+      "link": "https://www.wired.com/story/uncanny-valley-podcase-apple-sued-openai-new-york-data-center-moratorium-cyclosporiasis-outbreak/",
+      "date": "2026-07-16T22:17:27+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "JfocZSyemzwn",
+      "title": "強気値上げで自爆か　ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
+      "summary": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
+      "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
+      "date": "2026-07-16T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "vOhpBtFt8UPX",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "date": "2026-07-16T19:16:48+00:00",
+      "source": "VentureBeat",
+      "key": "venturebeat",
+      "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "rcwxH9MLwvAw",
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -101,8 +149,8 @@
       "articleLang": "en"
     },
     {
-      "id": "vF07PWE2Gl0x",
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "id": "s8+p3ET+oSwK",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "date": "2026-07-16T18:22:06+00:00",
@@ -113,15 +161,15 @@
       "articleLang": "en"
     },
     {
-      "id": "mohqUrO+Rkqj",
-      "title": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead - South China Morning Post",
-      "summary": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1NXeC1uQ2gyaVNJSk5zeGxqbl84OWNVaVJCbW5DdTIweU5GYVpaOTVPMk85ZWJMaHB2QWpkNE1oMGNGQ0lsX1hFQ1phMnByMk1FRkdBa01hdk96OHVobVBIMFFraEMzaHBGYVc4a0NwWDB2bWl5MnVQWERyUFdPMUFoYUZJV3AyYnBOZDBJRVpqN0l5UlIzVHV5VDY4ZDR3bkZzYTlFSjVlZm1sRWJYMy1YeWh0cElRc0ZTc3YyeUsyZUtFTEZOVdIByAFBVV95cUxQMW9iSEF1N21Qa3pNaGUtLXNFNzlqdkFfQmtEVHFGTXUxSy1tSTk3amU3SjVLa0toenE3T3RLS05EM05sQ1ZVNnFkdnBlbWJCOTlVZDByZVlabXI3WUtaYmlhTkJvUVFIS3owdDUxSnhFVjN1dW45RWM3Rzh1dTRiYlVZNnMyVHdxU0dZVWNLTU9pdVJ2cWpDbzc0Vk5OYkdtY20zTXhCdGFucDJIWS1uTWFGbXlPajNVek1rZmdIeldtcWZpOExvNQ?oc=5",
-      "date": "2026-07-16T17:30:48+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "BRj13bh1tM3Z",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "summary": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "date": "2026-07-16T17:58:37+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -145,6 +193,18 @@
       "source": "VentureBeat",
       "key": "venturebeat",
       "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "A8J3ZkuIavFO",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "date": "2026-07-16T16:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -233,6 +293,18 @@
       "articleLang": "en"
     },
     {
+      "id": "mohqUrO+Rkqj",
+      "title": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead - South China Morning Post",
+      "summary": "Exclusive | Anthropic, China and why Pax Silica architect thinks the US can keep AI lead&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd1NXeC1uQ2gyaVNJSk5zeGxqbl84OWNVaVJCbW5DdTIweU5GYVpaOTVPMk85ZWJMaHB2QWpkNE1oMGNGQ0lsX1hFQ1phMnByMk1FRkdBa01hdk96OHVobVBIMFFraEMzaHBGYVc4a0NwWDB2bWl5MnVQWERyUFdPMUFoYUZJV3AyYnBOZDBJRVpqN0l5UlIzVHV5VDY4ZDR3bkZzYTlFSjVlZm1sRWJYMy1YeWh0cElRc0ZTc3YyeUsyZUtFTEZOVdIByAFBVV95cUxQMW9iSEF1N21Qa3pNaGUtLXNFNzlqdkFfQmtEVHFGTXUxSy1tSTk3amU3SjVLa0toenE3T3RLS05EM05sQ1ZVNnFkdnBlbWJCOTlVZDByZVlabXI3WUtaYmlhTkJvUVFIS3owdDUxSnhFVjN1dW45RWM3Rzh1dTRiYlVZNnMyVHdxU0dZVWNLTU9pdVJ2cWpDbzc0Vk5OYkdtY20zTXhCdGFucDJIWS1uTWFGbXlPajNVek1rZmdIeldtcWZpOExvNQ?oc=5",
+      "date": "2026-07-16T15:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Hwm79noEg6gx",
       "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
       "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word.",
@@ -269,6 +341,18 @@
       "articleLang": "en"
     },
     {
+      "id": "LyvYEJmR2K+V",
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "date": "2026-07-16T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "jlC+aW6Xkc7m",
       "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to",
@@ -290,6 +374,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "6cS+ChdCBWhn",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "date": "2026-07-16T12:06:51+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -401,6 +497,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "mQULNNlNm3jZ",
+      "title": "Wider fold to AI glasses: Five things to watch at Samsung Unpacked - The Korea Herald",
+      "summary": "Wider fold to AI glasses: Five things to watch at Samsung Unpacked&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56NmZZXzZLeDVHcmRfTTI0SXVWQ1hNSDZSbzl6dnk0RDBpOTNPUWcwNExJSWVOR045RERqN3hOTC1nRkpjX1czUUQzcGhLclFVcjVNSDFSWQ?oc=5",
+      "date": "2026-07-16T02:44:37+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "2Fe31CN6s3k7",
       "title": "Will the new AI roadmap keep the tech giants in line? | Fiona Katauskas",
       "summary": "Or will they forge a path of their own?See more of Fiona Katauskas’s cartoons here Continue reading...",
@@ -458,6 +566,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZFVCKwZz4/OM",
+      "title": "Inside Ai Weiwei’s gigantic UK art show, including China detention recreation - South China Morning Post",
+      "summary": "Inside Ai Weiwei’s gigantic UK art show, including China detention recreation&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcG96TXptVG5uZFJxVGdMZ2R3VFctc0lXTFFiLUVPNU5lcVJ4c3NzYkhHMmdIelRaLXFETHJ0cW1ENlA1YUNiX0FfdmFwZzc1aWg3Ry05M0JLN1hieUw3VkNfNnVOaksyOUlUSXFGaEdISTZxQkk3bEdvUmFnSV9uZmFWMk51YTQwWmJ0MG02MURldWNLYUxYd245RmJPT2I3Y1ozbFBGaXNxSk1zanFtcC1Dc3hvWnF1My1tYTNpc09VZVlJX0YyZjNWQjJMQ0FR0gHQAUFVX3lxTE1tbWo2TGk1OC1YeTdHYlhkS0U4WkREWW9SQzh5ei1rcER0N3pOcExGV1NCV3hvWkJEWkw2Z05GUklnMjN6X1p4VmRBZ2RpZzF2a182cGlLekNhSWhydHRWZ3U0aE5ia2pnaUVSX2ZtSEpZS2pQTjRwRW1IemlzVzRveFFZSVRiLUNuWWJrazBFc2dsOWNsYkcyaW5ua3ZKTDc3LVJFb2ZYY1pRaERLNlB2WU14X1NfSUp4Ym1aenNGWWlWdjFCa3ozV1BENENUTkg?oc=5",
+      "date": "2026-07-15T23:15:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -701,18 +821,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rcxaWAHXwuR/",
-      "title": "Australia to establish government AI office, curb data centres' water use - Reuters",
-      "summary": "Australia to establish government AI office, curb data centres' water use&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNks2ZmFOR3l0VmZPeFUtRTRYd2xDcFIxdktBcThUNmlzbTU1Vlk0all5M0RXY3JxRWdla2ZkYld3OS1uTEdrdnJ4cHM4dzhfd0NJVWs1VkZsMl9mclZsNlU3WkRPLWJDSG1wQ1BQV2tIX3RNWHNfMTZKNV94R0Y4SFJuelBZc3F4Y2tka2g0S241dTFuaGhMOTFpM3JQamZCMWxsQUxQblU2WkNhc1g1bGZVVlprSEpT?oc=5",
-      "date": "2026-07-15T15:18:50+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "FBDH9mSPlmSY",
       "title": "Albanese’s AI plan is admirable – but will face tech giants more powerful than most national governments",
       "summary": "The reality is Australia won’t be able to direct much of the activity of Anthropic, Microsoft, Google or OpenAIFollow our Australia news live blog for latest updatesGet our breaking news email, free a",
@@ -797,18 +905,6 @@
       "articleLang": "en"
     },
     {
-      "id": "g2qGStcNCdKm",
-      "title": "ゼロから分かる「Claude」の教科書　ChatGPTと比べて分かった強みとは？",
-      "summary": "「ChatGPT」の陰に隠れがちでありながら、高い性能を持ち、AIユーザーから高い支持を集める「Claude」。最近では、その高い性能から話題になっている最新モデル「Claude Mythos」の登場でも大きな話題を呼んでいる。本ブックレットでは、このClaudeの実力を「ChatGPT」との詳細な比較レビューを通じて徹底検証し、特徴や活用法を分かりやすく解説する。",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/16/news031.html",
-      "date": "2026-07-15T09:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "L0RQu0juTiB3",
       "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
       "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
@@ -857,18 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Whnze0vHvGx6",
-      "title": "「GPT-5.6」の好きな部分をXに投稿→100ドル分のクレジットがもらえるキャンペーン　先着1万人限定",
-      "summary": "米OpenAIが、最新のAIモデル「GPT-5.6」の好きな部分や同モデルで作成したものをXに投稿すると、ChatGPTで100ドル分のクレジットを提供するキャンペーンを開催している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000195/",
-      "date": "2026-07-15T05:29:36+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "uGKXTXiZw2nv",
       "title": "Will AI kill English classes? Chinese university to drop them as tech booms - South China Morning Post",
       "summary": "Will AI kill English classes? Chinese university to drop them as tech booms&nbsp;&nbsp;South China Morning Post",
@@ -890,30 +974,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "rHrv3MydjWZR",
-      "title": "Anthropic、米K-12教員向け「Claude for Teachers」無料提供　「Claude Code」や「Cowork」も含む",
-      "summary": "Anthropicは、米国の幼稚園から高校までの教員向け新サービス「Claude for Teachers」を発表した。認証を受けた米国の教育者は、Claudeのプレミアム機能や州の基準に沿った授業案作成ツールを無料で利用できる。モデルのトレーニングに生徒のデータは使用されず、教育プライバシー法にも準拠している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/15/2000000193/",
-      "date": "2026-07-15T02:25:28+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "vcwdiuG4cWRG",
-      "title": "Publishers sue Google over alleged use of books to train AI models - France 24",
-      "summary": "Publishers sue Google over alleged use of books to train AI models&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRUxBeUJpLWUzaE1zOFdHWFdmN1BuNUlVcnhMMjBLYzZtUDNFYS1BMGdybkljY2xPVHVIYS0xTVpHNGwxNGxwQ2cwUWhrdElXZ3UzRm5Pd1BaYVd2a3duZ2E1Qk5KV1FKcGxXV2dVZ1ZHa0RERkxVN053RmpnblM0Y0JqWGpRQXBYTXZOdWRSeko1dHppY3ZLTWdhWnkyUXh6Rzg1aEtGVzlJbS1odEVqTEpRYnk?oc=5",
-      "date": "2026-07-15T00:51:42+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -965,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "koxtR1n4CmmI",
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "summary": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "date": "2026-07-14T19:25:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "R+Gt6wGfSKez",
       "title": "Book publishers sue Google for copyright infringement over Gemini AI training",
       "summary": "Group of major publishers accuses the tech giant of ‘one of the most prolific infringements of copyrighted materials in history’A group of major publishers have filed a lawsuit against Google, accusin",
@@ -1013,30 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Bri0xhrX9j3r",
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "summary": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "date": "2026-07-14T17:18:11+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "MaSJ2mhal6QY",
-      "title": "Where authorities are restricting data centres amid AI boom - Reuters",
-      "summary": "Where authorities are restricting data centres amid AI boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFNWNVlkWG1wT2lJUzJza1JuNE9Yd3hETjg1OXFPbmREZkYyOFdKeS1JRkR3U0o1Y3pXWUZaeVRUU3ByRDRNYlYwRXBWU3dwNTZlSVdvTUs0OU5fYnp2NnR6VG4wbzRtSDk3WmpDUHR5SFdLc1NTMlpjTVpadG8xWkhReFFiMXBBRHdHZTBFMVF3OTU3Q0pFZ3RrSld1Rmc2RF95RFlmUFFlMVlWMDVkT1Z3?oc=5",
-      "date": "2026-07-14T16:59:47+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "wc8Gqj991Gwy",
       "title": "How jihadist groups like Boko Haram use AI for acts of terror - France 24",
       "summary": "How jihadist groups like Boko Haram use AI for acts of terror&nbsp;&nbsp;France 24",
@@ -1049,30 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TRbLostoNPWs",
-      "title": "Spotify is now an AI chatbot, too",
-      "summary": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "date": "2026-07-14T15:47:36+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "QaBCqg7vNjD4",
-      "title": "Sam Altman didn’t need another lawsuit",
-      "summary": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "date": "2026-07-14T14:01:07+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "M6RnAOXHs/FY",
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - dw.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;dw.com",
@@ -1082,6 +1082,30 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "MaSJ2mhal6QY",
+      "title": "Where authorities are restricting data centres amid AI boom - Reuters",
+      "summary": "Where authorities are restricting data centres amid AI boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFNWNVlkWG1wT2lJUzJza1JuNE9Yd3hETjg1OXFPbmREZkYyOFdKeS1JRkR3U0o1Y3pXWUZaeVRUU3ByRDRNYlYwRXBWU3dwNTZlSVdvTUs0OU5fYnp2NnR6VG4wbzRtSDk3WmpDUHR5SFdLc1NTMlpjTVpadG8xWkhReFFiMXBBRHdHZTBFMVF3OTU3Q0pFZ3RrSld1Rmc2RF95RFlmUFFlMVlWMDVkT1Z3?oc=5",
+      "date": "2026-07-14T13:08:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "rcxaWAHXwuR/",
+      "title": "Australia to establish government AI office, curb data centres' water use - Reuters",
+      "summary": "Australia to establish government AI office, curb data centres' water use&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNks2ZmFOR3l0VmZPeFUtRTRYd2xDcFIxdktBcThUNmlzbTU1Vlk0all5M0RXY3JxRWdla2ZkYld3OS1uTEdrdnJ4cHM4dzhfd0NJVWs1VkZsMl9mclZsNlU3WkRPLWJDSG1wQ1BQV2tIX3RNWHNfMTZKNV94R0Y4SFJuelBZc3F4Y2tka2g0S241dTFuaGhMOTFpM3JQamZCMWxsQUxQblU2WkNhc1g1bGZVVlprSEpT?oc=5",
+      "date": "2026-07-14T12:33:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,15 +1133,15 @@
       "articleLang": "en"
     },
     {
-      "id": "s0epJOJse/Ek",
-      "title": "The Chatbot That Foretold Why People Share Secrets With ChatGPT",
-      "summary": "In the 1960s an MIT professor named Joseph Weizenbaum created a chatbot called ELIZA. The conversations people had with it set precedents for the chatbots to come.",
-      "link": "https://www.wired.com/story/inventing-eliza-book-excerpt-chatbot/",
-      "date": "2026-07-14T10:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
+      "id": "xROvL6hAedys",
+      "title": "TSMC seen riding AI boom to fifth straight quarter of record profit - Reuters",
+      "summary": "TSMC seen riding AI boom to fifth straight quarter of record profit&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZXNNZTY0OFNsNFNDUVliQ081ZU9neVBvcHVpSS1FQ21uNFlKZ3lKTTN0R1VnQlRITnRlOU5TemY5bERQUExjcFBwVU5yejVyQWJ0ZjU0aW1UdDdiWXdlRjhsUFNpUy1BcC1BRXhtTnRkWXZ1a19xYXU0MDRoUTdFdWtJUHNIcDI2QUVDaW8zQlByaTRmejV1c1c1eFRqMFBZZGRqc05KVDFaRENCME9FTHFQdnRTc0U?oc=5",
+      "date": "2026-07-14T03:11:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1150,18 +1174,6 @@
       "summary": "Lawyer rebuked for misusing AI again in Roc Nation lawsuit&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcW1aZUZXd0FEcWtmN3dJNnM0WGtsYV9mbWUwYUkzN3FfaW0zN1Z0MVBVek5sUnRCZTNFZjhyUmVuV0NwQnlLNGdOOVpqQjRQMEZiSDRrYXlmbzV2N1BDYXNMRGhwaE5uYk1fM3o2aFpYV2FUMnNSdlNvTm9YOXUzR1h4TXRONGwzZ19teUtWdWJ1RktlZkh0dG1LbndKRWd4UDBfWXVrQQ?oc=5",
       "date": "2026-07-13T21:20:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "7g7sQJvypL/B",
-      "title": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows - Reuters",
-      "summary": "EXCLUSIVE Canada regulator cited Anthropic's Claude Mythos in warning to banks on cyber risks, email shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVndVUlFjeXZyV1lrNVRsZzJEVXdIUTEwRmdBclIyMDJlRmVGcUNGREdVMVRIQ1l3NWpmNXM5UTdtV3RCZW01V2h5dk1VUy1OU3ZQSDk4b1I0Z0xybEQ2N0lkZUtOLWpvYnFEUWRNVEsyWnIydUtDZXY1cGN0T0RSM25oblAyVG1EaHR5WG9oUXVtRXFPWVR1M3NET1BMZ05mOE0yclA0eDFXTTBLS01wUEx2dG5qUGN4MWJtbWpB?oc=5",
-      "date": "2026-07-13T18:06:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1257,7 +1269,7 @@
       "title": "Breakingviews - AI giants revive the golden era of invention - Reuters",
       "summary": "Breakingviews - AI giants revive the golden era of invention&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUTZtSGgtWndyNG9ONnRjYWY1eHh5ZXpfT3p2Ujk3RGprcm5jZ1Axd0pvQkNyWVR3dHJiNDF2cHRCd3JRYUJMSXN0WUlHSTZ1RFRJU2t1ZUpvSzE2VlBVREk0UXBFbmI5eW9CUi1sVlZ3WUxvMHZjVFBaYXJPbTBlbkVqUUtDYTZ4VlpLVUdLMWlqdnNPd3lkd25ac190R0k?oc=5",
-      "date": "2026-07-13T05:00:00+00:00",
+      "date": "2026-07-13T05:07:15+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1346,18 +1358,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "MmbAd3/T4pO0",
-      "title": "UN digital tech agency launches initiative to improve trust in AI agents - Reuters",
-      "summary": "UN digital tech agency launches initiative to improve trust in AI agents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW40R0Vic01SdnN0WVBwcV9xUGU5NDkyVUhmVFEtV05xRllhZUdIZEhUSWEwOEt6OUdFZnVheG8wMFh1eGo2QmxDLW5ZNmN5RHNPcm44VTJtZ1EzdzRVXy0yNFJaVWx2VnNMNUtTa2d4cHRHOHVfbkhBZzUxMUxERXNaS1BPVXFtQThJOHdqVzJoaVdIOUVhWEQzSFg3TUhxUUxvQVdxaWNxY195MHRMZ3MybFAyYzFLVXkw?oc=5",
-      "date": "2026-07-09T21:17:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
