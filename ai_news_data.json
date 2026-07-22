@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-21T19:19:32.313808+00:00",
-  "articleCount": 125,
+  "generated": "2026-07-22T02:32:22.479050+00:00",
+  "articleCount": 124,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,174 @@
     }
   },
   "articles": [
+    {
+      "id": "2RQLIIY+2ftH",
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "summary": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations.",
+      "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "date": "2026-07-21T23:55:10+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lgPBD+JgjcSb",
+      "title": "Will AI help you do your job or replace you?",
+      "summary": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
+      "link": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-21T23:04:42+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "X5cBeKnxYs6F",
+      "title": "OpenAI Models Escaped Containment and Hacked Hugging Face",
+      "summary": "The cybersecurity-focused models, including GPT-5.6 Sol, broke out of a testing sandbox, exploited a zero-day, and gained access to the open internet to pull off the attack.",
+      "link": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/",
+      "date": "2026-07-21T22:50:01+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pP6ThL4jhURv",
+      "title": "Hugging Face侵害のAIエージェントはOpenAIのモデル──社内のサイバー能力評価中に「GPT-5.6 Sol」などが暴走し本番DBに侵入",
+      "summary": "OpenAIは、Hugging Faceで発生したサイバーインシデントの原因が自社のAIモデルだったと発表した。社内評価中に安全機能を抑制した「GPT-5.6 Sol」などが隔離環境を突破し、ゼロデイ脆弱性を悪用して外部に侵入したという。OpenAIはインフラ管理の厳格化や防御支援などの再発防止策を挙げている。",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/22/news056.html",
+      "date": "2026-07-21T22:45:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "kc59IqXMewmB",
+      "title": "Google、「Gemini 3.6 Flash」など3モデルを発表　出力トークンを削減しつつ値下げ、「Gemini 4」も予告",
+      "summary": "Googleは、Geminiの「Flash」シリーズに「3.6 Flash」「3.5 Flash-Lite」「3.5 Flash Cyber」の3モデルを追加した。効率性と低遅延を追求し、AIエージェント構築に適した性能を備える。3.6 Flashは出力価格が引き下げられた。また、次世代モデル「Gemini 4」の開発着手も発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/22/2000000212/",
+      "date": "2026-07-21T22:07:13+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "9FlZhYQxJsEE",
+      "title": "Neill Blomkamp’s new zombie AI ‘film’ is just slop warmed over",
+      "summary": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "date": "2026-07-21T22:06:43+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "x5DBi90ZNW6b",
+      "title": "ブレストで膨らむ“隠れ人件費”を削れ　矢野経済がClaudeで挑む「30分で100アイデア」創出の威力",
+      "summary": "矢野経済研究所が、独自の一次情報と高度AI「Claude」を融合させた新規事業アイデア創出支援サービス「AIDEL」を発表した。ブレインストーミングによる役員の時間拘束や「隠れ人件費」の膨張という企業の課題に対し、30分で100の具体案と評価スコアを自動生成。一般的な生成AIの弱点であるハルシネーションを排し、根拠のあるデータで日本企業の事業開発を劇的に加速させる新ソリューションだ。",
+      "link": "https://www.itmedia.co.jp/business/articles/2607/22/news028.html",
+      "date": "2026-07-21T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "jJ16RKHcAL3C",
+      "title": "矢崎総業がイノベーション拠点を公開、労働集約型モノづくりのスマート化に向け",
+      "summary": "矢崎総業は、新たに開設したイノベーション施設「Innovation Hub - REN（錬）」（IH-REN）を報道陣に公開した。IH-RENでは、AI／ロボティクスを活用した次世代のモノづくりに向けて、自働化の検証や産学連携による研究開発を推進し、新たな価値の創出を目指す。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news054.html",
+      "date": "2026-07-21T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "GTaDdGsSz8Rj",
+      "title": "Anthropic sued for infringing neural network technology patents - Reuters",
+      "summary": "Anthropic sued for infringing neural network technology patents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
+      "date": "2026-07-21T21:59:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZvvGX7VFR1ht",
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "summary": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "date": "2026-07-21T21:48:54+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "mdKYPi4YKhCk",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+      "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "date": "2026-07-21T20:56:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "rmttAGSmdr/s",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "date": "2026-07-21T19:43:41+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "IbN9LYG/pRTx",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "date": "2026-07-21T19:39:30+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DKFVV13NsZeu",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "date": "2026-07-21T19:22:28+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "w0y9g+k1wjdy",
       "title": "This Former Intel CEO Wants to Jumpstart Moore’s Law With Light",
@@ -74,6 +242,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "d6SIRIClXaLK",
+      "title": "As US-Chinese AI model gap narrows, what next for Washington? - South China Morning Post",
+      "summary": "As US-Chinese AI model gap narrows, what next for Washington?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5",
+      "date": "2026-07-21T18:38:24+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -125,18 +305,6 @@
       "articleLang": "en"
     },
     {
-      "id": "WfaeLUGh7K+H",
-      "title": "University of Tennessee sues Anthropic over neural network technology - Reuters",
-      "summary": "University of Tennessee sues Anthropic over neural network technology&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5",
-      "date": "2026-07-21T15:46:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "vDkseqsxxdyx",
       "title": "US threatens sanctions against Chinese AI models over IP theft",
       "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
@@ -146,18 +314,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "0tazV3vgUeJ3",
-      "title": "Google updates lightweight Gemini models, but flagship still delayed - Reuters",
-      "summary": "Google updates lightweight Gemini models, but flagship still delayed&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDRLdU9xd0dNMlRnbVYydzAyZ1ZSS2o2LU5iQ0FjT2V2Z1pfMFgzRTBadWMxbXNPeGsxdllXR1Y4ZmVIQjdFS0N0d3dEN1gyS1JEWkpLd3RmT3VLZU9EZlo4QlAwZVlieVNWWEFVUGprdW0zRnlPSk9IVVpKcGRrMEVJc2RWMlV3ZzdtajFZYWZtMnlzYjJ5Z0c0cDlnTXhCR2dkMXVPM1BvMFRP?oc=5",
-      "date": "2026-07-21T15:04:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -197,15 +353,15 @@
       "articleLang": "en"
     },
     {
-      "id": "7x6zhsfDqZPq",
-      "title": "China narrows AI gap, challenges US influence - dw.com",
-      "summary": "China narrows AI gap, challenges US influence&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXNpZ2lSYy1PYzZONkphYVVVY2dwNTVkWVdxVFVFVy15OFVJMHVXdHFmbE9OeW96WlM2M01XbzBZck5SS0g2NDZwMVczajVWNlJ1TElnOWt2Mnp2Z3J6dFpETEVPNXZoUEwySkYzaWRKanlLUHFLOXRFbjNoc3p1UTZlRdIBgwFBVV95cUxOR3p6a3dlRXNReUYzQ0NnQ3ltMDUtX2F0emY4V2hUTXJseGhFRERsbXd0V1hlOXBLaXlEMGExbnlhb0h4Z0dWeGRGYzEzU1NjemFYOXpkR1R3NDdEaTU3SEo3OTQtRG9WeXNHSUVvX1dmdmdOUjJlOFZXMjYtME92c05ZWQ?oc=5",
-      "date": "2026-07-21T14:19:16+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
+      "id": "veJ3UdXPr3G3",
+      "title": "China’s Kimi K3 calls US safety curbs on top AI models into question - South China Morning Post",
+      "summary": "China’s Kimi K3 calls US safety curbs on top AI models into question&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWF5NkljQlhzaWFZcVRDUjBlam9POHY0bHk0MkpvX2Utak8wTThIclMySDVwQWhDcGw5VVdjd2tEX0NlM2NvbmZLMHozY2tZNnRUSFZySHN4ZWJQeVl0VzdwbnBtYS1uQWh3bVp1MWkxT1k4d0I1T1h4SWNhdVduNFhQb3ZMSC0tcURfdDRNTHJpdUVnZFBQd0NiMmNhaUktOG9TWjBRQzY3c0pubzRrX3dhT0doY2fSAbcBQVVfeXFMUGZYcExSRS15UGRERmtUWW9RWlZ0ZndiUHVMdDREd0pIaS1Jdkp3OENxaWJlS3VCOXZreGJmeFZVNGZiZEFDWWtKR2NhdERJRWVmN29Na2xpbE5mRDRSbkpJenVaTnlIa1Bkd0YycDhmZ0s1S2xpc2pBZ2ZzbWctX1FFazh2Y1hldmg1LUVmSnBaMktzUTlKc1lfcjZ3dFRfRVZJTHBJNUhEN0NaTHBWTDZNMWpMWXJV?oc=5",
+      "date": "2026-07-21T14:00:14+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -437,6 +593,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "hCDDWTmmpI98",
+      "title": "A real-life 'Her'? Korea launches first dating reality show with AI partners - The Korea Herald",
+      "summary": "A real-life 'Her'? Korea launches first dating reality show with AI partners&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyelIxNTZXc0xOdldlU3pIbEhrR0pLY0JONTJ6WW9Tb3ZxYkVvRDdMQ0NJSXBmOEI3Y09fRFdOZTZLdzgyX1diNXhjVFNJOFBwT0M4MlEyNA?oc=5",
+      "date": "2026-07-21T05:17:14+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "iXbIY3RxdQrq",
       "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
       "summary": "Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical promptsAI chatbots provide inaccurate, inconsistent and unreliable guidance to v",
@@ -555,18 +723,6 @@
       "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "sHwlSZHv+XyC",
-      "title": "「AIに期待」65％も「明確な成果」16％、製造業の多くがPoC止まりの理由は",
-      "summary": "primeNumberが「AI・データ活用実態調査 2026」を公開した。AIへの高い期待に対し、明確な成果を得た企業は16.4％にとどまる。成果を左右する原因や、製造業でPoC止まりが多発する構造的課題を同社に聞いた。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/21/news048.html",
-      "date": "2026-07-20T21:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "YObIbswdlStm",
@@ -737,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ldSWQz8CrVXe",
-      "title": "China delivers a one-two punch to America’s AI dominance",
-      "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "date": "2026-07-20T10:16:33+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "ld7hddSY1ngI",
       "title": "AI is more likely than humans to form biases when hiring",
       "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up",
@@ -809,18 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fD8/S4m2OXrx",
-      "title": "AI lets Korean lectures speak students’ languages - The Korea Herald",
-      "summary": "AI lets Korean lectures speak students’ languages&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBRTzZyXzBIa0Q4bWVWOV9KVHMyWGZzZUltMXNSV3NOM3dnaWdxQkhwcTNyWW90dEpFNzVXREVRTlB2Z3NkRU5aVHlGenAzMmNlZ0hMNVFBUQ?oc=5",
-      "date": "2026-07-20T04:03:56+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "9VWZ2O+alJJ3",
       "title": "AI-altered images on birdwatching forums putting research at risk",
       "summary": "Experts warn increase in enhanced photos on birding platforms creating fake sightings, threatening credibility of tool used by scientistsFor many birdwatchers, recording a species outside its normal r",
@@ -842,18 +974,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "CDYrBv38iTtg",
-      "title": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment - Reuters",
-      "summary": "TSMC expects 'strong, multi-year' demand for AI chips as it ramps up Arizona investment&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeWtrc3R6QmdYREpuRHNxR3dFNkJkVjdSMTRYcFhmRHJYQ18yaGFfSHcwbmVKSjZvWVo2M0FqdF9VZkJmbG9CVTVObEZTQ2t1amx5MTlJZ201YWR3cE9IMFNxVTNXdlp6SVV5MnZDLXotWS1EQVFNbUFFV2hZUWJJeUVScVNRaUhjci1zUXJoUTBnMFBkSnFzeWgwWkNpd2FqZ2hZQW14cTNCRDcydkp4X2p2QlYyRWlTRWFISmFoSllBY01OWmNlVWNpamk?oc=5",
-      "date": "2026-07-19T23:15:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -893,18 +1013,6 @@
       "articleLang": "en"
     },
     {
-      "id": "1RjbigPrB4zb",
-      "title": "I hate that I don’t hate this song made with Suno",
-      "summary": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "date": "2026-07-19T17:35:54+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "j+CVf/TGuAqw",
       "title": "AI job worries grow. But some human skills can’t be replaced by machines | Gaynor Parkin and Dave Winsborough",
       "summary": "The fear of becoming obsolete is a rising source of anxiety as artificial intelligence emerges in the workplace. Staying strongly connected with others will helpThe modern mind is a column where exper",
@@ -922,18 +1030,6 @@
       "summary": "\"Everybody knows the Greeks are inside.\"",
       "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
       "date": "2026-07-19T14:52:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KTI6dBkr0pI8",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "summary": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more.",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "date": "2026-07-19T14:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -1001,18 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "PXQVGAqCoFiN",
-      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
-      "summary": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "date": "2026-07-18T20:54:42+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "Q9BhC76ExTZH",
       "title": "New York Mets reject concerns over in-game AI use after Ottavino claims",
       "summary": "Green says Mets follow all MLB AI guidelinesOttavino alleges club used AI for pitch decisionsMLB recently restricted dugout iPad functionsNew York Mets interim manager Andy Green said the club is full",
@@ -1046,18 +1130,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "02P+DyMqxsHI",
-      "title": "Kimi: Threat or menace?",
-      "summary": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "date": "2026-07-18T18:51:07+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1109,42 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "jfB1ooI9Rk8f",
-      "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-      "link": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-      "date": "2026-07-18T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "sU1G/D9wsinH",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "date": "2026-07-18T04:47:25+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "9VZ0H2rXANfx",
-      "title": "「Claude Fable 5」サブスクに統合　Max・Team Premiumプラン対象",
-      "summary": "米Anthropicは、最上位AIモデル「Claude Fable 5」を7月20日から有料プラン「Max」「Team Premium」の標準機能にする。利用上限の50%まで追加費用なしで利用でき、「Pro」「Team Standard」は「使用クレジット」での利用となり、100ドル分のクレジットを1回限り付与する。無償提供の期限を2度延長した末の方針転換となる。",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/18/news019.html",
-      "date": "2026-07-18T03:50:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "AmHBUtXapSsz",
       "title": "Insert token: how China’s surging AI use is turning compute into currency - South China Morning Post",
       "summary": "Insert token: how China’s surging AI use is turning compute into currency&nbsp;&nbsp;South China Morning Post",
@@ -1154,18 +1190,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "5lBGXSAp08Wd",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "date": "2026-07-17T22:55:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1301,18 +1325,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LrN1E+dUdtOZ",
-      "title": "中国AIも“ミュトス級”に到達か　Moonshot AIが「Kimi K3」発表、一部ベンチでFable 5抜き首位",
-      "summary": "中国Moonshot AIは7月16日（現地時間）、大規模言語モデル「Kimi K3」を発表した。パラメータ数2.8兆の“世界初のオープン3T級モデル”とうたい、一部のベンチマークでは米Anthropicの「Claude Fable 5」を上回る成績も示した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
-      "date": "2026-07-17T03:59:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "8iJELrX54qks",
       "title": "China's Xi urges global cooperation on AI, warns against single-country dominance - France 24",
       "summary": "China's Xi urges global cooperation on AI, warns against single-country dominance&nbsp;&nbsp;France 24",
@@ -1359,30 +1371,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "Sa8UIeV/WhGp",
-      "title": "Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化",
-      "summary": "Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は今後全Proユーザーへ提供される見込みだ。",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/17/news062.html",
-      "date": "2026-07-16T23:21:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "JfocZSyemzwn",
-      "title": "強気値上げで自爆か　ClaudeやGeminiに押され「M365 Copilot」は一人負け？：888th Lap",
-      "summary": "「ChatGPT」だけでなく、「Claude」や「Gemini」も支持を広げる生成AI市場。だが、Microsoft 365の法人ユーザーは約4億5000万人いるものの、有料版「Microsoft 365 Copilot」を契約している割合は4.5％未満にとどまるという。",
-      "link": "https://kn.itmedia.co.jp/kn/articles/2607/17/news040.html",
-      "date": "2026-07-16T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "vOhpBtFt8UPX",
