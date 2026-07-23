@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-22T19:15:44.374855+00:00",
-  "articleCount": 121,
+  "generated": "2026-07-23T02:37:14.069483+00:00",
+  "articleCount": 122,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -20,7 +20,7 @@
     },
     "venturebeat": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "wired": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
@@ -40,15 +40,15 @@
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "koreaherald": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "scmp": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,116 @@
   },
   "articles": [
     {
-      "id": "J1z64lW5lujS",
-      "title": "How an OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "id": "ea5lnn1DEmjD",
+      "title": "Macアプリ版「Claude Code」がiOSシミュレータと連携　「Computer Use」なしでアプリ操作",
+      "summary": "",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/23/2000000216/",
+      "date": "2026-07-23T01:56:04+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "SyiP0DzQRs6T",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "date": "2026-07-22T23:47:54+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "2Ws+3EwYzPeH",
+      "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+      "summary": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemploymentEvery weekday, Matt, a software engi",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "date": "2026-07-22T23:18:52+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ehqkBc0xfLLP",
+      "title": "Google burning through cash with spiralling AI costs",
+      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-22T23:02:32+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "gg7/8r1AGA5Y",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "date": "2026-07-22T22:01:52+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8RMwuljKWHss",
+      "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+      "summary": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+      "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+      "date": "2026-07-22T21:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "QKySaEXHHtRS",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "date": "2026-07-22T20:49:03+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "umS1AcSd4TUi",
+      "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
+      "summary": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systemsLast week Hugging Face – a company that hosts artificial intelligence models and datasets – was",
+      "link": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+      "date": "2026-07-22T20:40:48+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "31GfWs/olYPc",
+      "title": "AI時代、開発チームの人材は“5つの型”に分かれる　Claude Code開発責任者の見立て",
+      "summary": "Claude Code開発責任者のボリス・チャーニー氏が、自身のチームで働く人は「5つの型」に分けられると指摘した。AIで職種の垣根が崩れ始めた今、肩書きではなく働き方で人を捉える新時代の発想を、初心者にも分かるように読み解く。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news015.html",
+      "date": "2026-07-22T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "uJYnOrpuWaqE",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
       "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin",
       "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
       "date": "2026-07-22T19:11:46+00:00",
@@ -213,7 +321,7 @@
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 35 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 35&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-07-22T14:36:34+00:00",
+      "date": "2026-07-22T14:34:23+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -242,6 +350,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "rgyboMB5typT",
+      "title": "RedNote’s AI model is first to achieve flawless score at maths Olympiad - South China Morning Post",
+      "summary": "RedNote’s AI model is first to achieve flawless score at maths Olympiad&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmFpN1RHSl8tN0xRdHJ0OXlJTkpjT29EeXMwSmNwTE96c2p5WndveDFyQ01HNkZkUmVuNEN0dHVnMmVfenNMSlExOWpOM1NiZ3pzdXZfUjFpMnRLMGx4aE5zRGZVX1FCZW9pS3hfZEpZcmROTDdRVzZldGNndGJ1Mko0OTZiZXNsUVQwSnpTcEFncWJ4bkpQWGRzWHYxcFJFZlNYWUVlczREMFFBMGZSaDJIR3l1N3dNOWfSAboBQVVfeXFMTmVodWVvQjNWTXpYeElkQUFjUzUxZlJDNWZJLW5ad1B2THhTd1IxaENyZVNQYzhnZTlZOUFHYTBMNFdVeXBGY01fWEN6U0lvSEZ6WUwweUlnZ0pHZUQ4T0Z0QVh6endqNGV6R2ZoUVNZSFk1NW52ZlpESzlCdm5QTTNrTVVKcUtQa2p6QVFwSGhIeENzYkY3c3JGaVNwUzRjeDF1bUZGS1gzWWs4Sm01bGRWNXZ5ODhOOEZR?oc=5",
+      "date": "2026-07-22T12:30:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -281,6 +401,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BnPUKi96OXDL",
+      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
+      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
+      "date": "2026-07-22T11:44:46+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "5AoTKSK10e7f",
       "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
       "summary": "It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement.",
@@ -305,18 +437,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BnPUKi96OXDL",
-      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
-      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
-      "date": "2026-07-22T10:42:14+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "lCa8Xb3iMZxS",
       "title": "Utility companies promise to spare us from AI’s energy bill",
       "summary": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it.",
@@ -329,6 +449,18 @@
       "articleLang": "en"
     },
     {
+      "id": "MOGe1afID893",
+      "title": "Heat, hardware and high stakes at China’s World AI Conference - South China Morning Post",
+      "summary": "Heat, hardware and high stakes at China’s World AI Conference&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOVVYNE03a010VWhCTDdPOXQzOG93M1ljX2xZbHh2ck56QnRvUi11NWlXVWZsX3psVmlrQXFlNVpNN1B5dWozbWhzREVWeEZ4VUxMUzA4OXZxaVZndFVwVklPSExWak94dUNqZFRIa2ZEZHQyTG9jSXJxTl9URnFzU0pha2NBM3F2VkFvUE5YWlhCb21iMks2Ql82T0dvYWZoUTZ4WUNsVi1kMi1QakptSTZwdnN3bFhLMGttSUF1dHFyS1d6a1HSAcYBQVVfeXFMT1pUT3Z6TVJ4enpuZmpralVlblNxUUt5cnVGMDFIRDYtNWx2dW5OMGgxZk5oRVVDU0xCOTdhbVczbXp5c0xMN2dpTExsbmVXeTBRMWpadmdPSG1oREg2cEFRN0N6a2lZU0JfTGtLcGxtaVRhR0NXUXFxM1l0dk44andkUXh3TUVJQzlZU2dzTFBSZVdheWNBbEJDVzdnNGxlbHFNV2t4MkxxTjdvVWpoTnhaMVZUQlNMS2hib3RqalQwUHhmUE9R?oc=5",
+      "date": "2026-07-22T10:05:22+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "iHG16xUwxhmG",
       "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
       "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
@@ -338,18 +470,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "yWXR4n5vGgKK",
-      "title": "China’s Zhipu AI model contains hack after OpenAI models go rogue - South China Morning Post",
-      "summary": "China’s Zhipu AI model contains hack after OpenAI models go rogue&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGx5UU00ZVdpY0NlWi1HTTdhUVctNjdEREV4RzJyV2pLbDU2ZVVDdlJsRjlOMXEwLTE2SXhlbzdjcDBVNEd6cW05U25uN0xmYVlCT2RXZ3pCTUlvM0pjMEZ0VlRpQWRoeG8yWWxzUHBXQkF0TTNOcjlyaTlnRC1xMU5HTGU1anQ0czB6b2lMQnVGZTBYeHV4Y3FGcVBiTG93VFBGdjl4aTdlTGRmcngtRUMwZm1oMktVUDRBOTlqdmY4VS1pNzBCVXNlRDLSAcwBQVVfeXFMUEV5OEFOaFpYZlV0bmpGd0NZdzB6N2tBSUg1YUJMNUJoZV8wLTU3RVhuQzRwUm9rRHR5Y2MxNElOZ0pqdFQ4RGlfMTBQeG1OVWd5NFBsRXZHdHFYX0ZqOXZwNWszU2VQVVNJQUFuRERIOC1wOTFKRWlBeWRRUjF5TnhrV0FPWHB0aktmWVExeWxsZnA2dTVrVEwtZlY1RzdKaGh1YnljMmlRZ3ctVVVnTnhIb1djSnlXQU03Vnp4NVl6QlNhb1hWaUhBMGhj?oc=5",
-      "date": "2026-07-22T08:30:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -497,18 +617,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "jJ16RKHcAL3C",
-      "title": "矢崎総業がイノベーション拠点を公開、労働集約型モノづくりのスマート化に向け",
-      "summary": "矢崎総業は、新たに開設したイノベーション施設「Innovation Hub - REN（錬）」（IH-REN）を報道陣に公開した。IH-RENでは、AI／ロボティクスを活用した次世代のモノづくりに向けて、自働化の検証や産学連携による研究開発を推進し、新たな価値の創出を目指す。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2607/22/news054.html",
-      "date": "2026-07-21T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "GTaDdGsSz8Rj",
       "title": "Anthropic sued for infringing neural network technology patents - Reuters",
       "summary": "Anthropic sued for infringing neural network technology patents&nbsp;&nbsp;Reuters",
@@ -617,18 +725,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RBNToqDShAuY",
-      "title": "Google releases three new Gemini models — but no 3.5 Pro",
-      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
-      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "date": "2026-07-21T17:11:50+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "nU+kgIdNG0Wx",
       "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
       "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters.",
@@ -653,15 +749,27 @@
       "articleLang": "en"
     },
     {
-      "id": "vDkseqsxxdyx",
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "summary": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances.",
-      "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "date": "2026-07-21T15:37:05+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "qjL/1OQIrrpq",
+      "title": "China narrows AI gap, challenges US influence - DW.com",
+      "summary": "China narrows AI gap, challenges US influence&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXNpZ2lSYy1PYzZONkphYVVVY2dwNTVkWVdxVFVFVy15OFVJMHVXdHFmbE9OeW96WlM2M01XbzBZck5SS0g2NDZwMVczajVWNlJ1TElnOWt2Mnp2Z3J6dFpETEVPNXZoUEwySkYzaWRKanlLUHFLOXRFbjNoc3p1UTZlRdIBgwFBVV95cUxOR3p6a3dlRXNReUYzQ0NnQ3ltMDUtX2F0emY4V2hUTXJseGhFRERsbXd0V1hlOXBLaXlEMGExbnlhb0h4Z0dWeGRGYzEzU1NjemFYOXpkR1R3NDdEaTU3SEo3OTQtRG9WeXNHSUVvX1dmdmdOUjJlOFZXMjYtME92c05ZWQ?oc=5",
+      "date": "2026-07-21T15:50:06+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "0tazV3vgUeJ3",
+      "title": "Google updates lightweight Gemini models, but flagship still delayed - Reuters",
+      "summary": "Google updates lightweight Gemini models, but flagship still delayed&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDRLdU9xd0dNMlRnbVYydzAyZ1ZSS2o2LU5iQ0FjT2V2Z1pfMFgzRTBadWMxbXNPeGsxdllXR1Y4ZmVIQjdFS0N0d3dEN1gyS1JEWkpLd3RmT3VLZU9EZlo4QlAwZVlieVNWWEFVUGprdW0zRnlPSk9IVVpKcGRrMEVJc2RWMlV3ZzdtajFZYWZtMnlzYjJ5Z0c0cDlnTXhCR2dkMXVPM1BvMFRP?oc=5",
+      "date": "2026-07-21T15:04:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -713,6 +821,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Ge+vLk4ucPA3",
+      "title": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal - Reuters",
+      "summary": "Microsoft to fund Mistral's European AI expansion in multibillion-dollar deal&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkJNeTdhQVJJN2o4b0U2cHB5S1JIQlg0ZUF2eXBjNGpta3NPSG9SRXdzYVVKUzJZX3ZZdF9CQUMyM1J3MWhDUlZzYnNQZVBaeWo0X2VEY0dtLUJSVkx4aER1M2w1Z0FoTGFDa2xXRzl6cnBtOGVZN3Y1TS1MdHpmNW9HX0Rnek5yZEtaamNSVHhOWkhUcl9fR1NDSlY5aWVTek9HYTVrRmVMWFBsRElJdUJ4aDRMUQ?oc=5",
+      "date": "2026-07-21T12:33:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "W3Nfmtf7HO1X",
       "title": "Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research - South China Morning Post",
       "summary": "Chinese AI agent outperforms Anthropic’s Claude Code in autonomous research&nbsp;&nbsp;South China Morning Post",
@@ -730,6 +850,18 @@
       "summary": "US judge approves Anthropic's $1.5 billion settlement of copyright lawsuit&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa1Ztc1Z3QjhWekJJTmEySVd4OUFoNkxzQWdkeWRqY0lSNkEwT1FEam1MR21fNE1LSlpFcjZvZnJIZmZwS1Rsa3RJM01uWkFLOTNWUzQycGVlcUhYaWcxNENFT1A4Nks2YUQxLXdOaWxpenBCNVVUdFFrYm5NRGdXLWNWeno2OVNkc1VWTDNDWGFnbFhRbUNON1V3Z1ljNGR3d19DUmlMNFJIWXg1UU5n?oc=5",
       "date": "2026-07-21T12:14:20+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "XPXsWxbPGCxW",
+      "title": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says - Reuters",
+      "summary": "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUzd0Umk1OW1RQU1HR0pWVnZCMy1PeTRnRHBSM3ZlZ09YZnU1NnFBWmE1bm5BcFVXZC1mNFA5UHNTcFJzMmktcVFNYzRuWnhhNHZ2bHhYMEgxdjhIcWdMakFIOVNZUHNWNVJPaTgtR25qMTA3b013UG44aEI3VTI5c1BwVXdka2dlZUcxT1B2M3dzLXR1VWhyTGpZT3NFandWWDdZTHh3ZTUtbXdiWXNUTTFIdXhYNXVRNlpXbE5aQXdOeTY2?oc=5",
+      "date": "2026-07-21T12:12:09+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -893,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ktfYJOMzyCDn",
-      "title": "Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ　学習利用は「フェアユース」認定",
-      "summary": "「Claude」の学習を巡り作家グループが米Anthropicを訴えた集団訴訟で、米連邦判事が15億ドル（約2400億円）の和解を最終承認した。米国の著作権訴訟では史上最大の和解額となる。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/",
-      "date": "2026-07-21T05:43:10+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "hCDDWTmmpI98",
       "title": "A real-life 'Her'? Korea launches first dating reality show with AI partners - The Korea Herald",
       "summary": "A real-life 'Her'? Korea launches first dating reality show with AI partners&nbsp;&nbsp;The Korea Herald",
@@ -927,18 +1047,6 @@
       "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "c8XEXAwBOBIa",
-      "title": "ドラクエと「Gemini」がコラボ　画像生成の“特別なテンプレ”提供、リアルイベント開催へ",
-      "summary": "米Googleの日本法人は、AIサービス「Gemini」と「ドラゴンクエスト」のコラボキャンペーンを始めると発表した。Geminiの画像生成機能を活用するイベント「ジェミニクエスト」を開催するほか、アプリでは同イベントに連動したテンプレートも展開する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000209/",
-      "date": "2026-07-21T04:22:13+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "4FDLzNR1sMfO",
@@ -1085,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "xQDLUdG8Zet9",
-      "title": "Samsung, SK hynix push new memory layer as AI outgrows HBM alone - The Korea Herald",
-      "summary": "Samsung, SK hynix push new memory layer as AI outgrows HBM alone&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fczlfaTlNenlORHd6Y0VYbU9LMnFTdDdjbW1mUG4yX1UwcnRDVEZGMWJ5RW9vWndFNzkyaHBESXBqOGJCWmJjVGV5QXJWV0RSd0xtMU0yYw?oc=5",
-      "date": "2026-07-20T06:19:08+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "fD8/S4m2OXrx",
       "title": "AI lets Korean lectures speak students’ languages - The Korea Herald",
       "summary": "AI lets Korean lectures speak students’ languages&nbsp;&nbsp;The Korea Herald",
@@ -1181,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "UQt7QeeP/O09",
-      "title": "Government use of automated AI decision-making to be curbed under new Australian rules",
-      "summary": "New national plan is accompanied by Labor push for digital duty of care legislationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
-      "date": "2026-07-19T12:00:27+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "H9X3LpHANSsM",
       "title": "AI work agents: China’s Ant, Tencent, Alibaba, Baidu flex for enterprise clients - South China Morning Post",
       "summary": "AI work agents: China’s Ant, Tencent, Alibaba, Baidu flex for enterprise clients&nbsp;&nbsp;South China Morning Post",
@@ -1205,18 +1289,6 @@
       "articleLang": "en"
     },
     {
-      "id": "4HkrNB+W0M9n",
-      "title": "Could AI be conscious?",
-      "summary": "Experts believe it’s at least possible. We urgently need a plan to navigate the ethical implicationsIn January, the AI company Anthropic published a new constitution for Claude, its most advanced larg",
-      "link": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "date": "2026-07-19T11:00:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "V5ykl9xsmJsd",
       "title": "Why data may become China’s most durable advantage in the AI race - South China Morning Post",
       "summary": "Why data may become China’s most durable advantage in the AI race&nbsp;&nbsp;South China Morning Post",
@@ -1226,18 +1298,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "VPNynOc/iQMh",
-      "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-      "link": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
-      "date": "2026-07-18T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1298,18 +1358,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "w7CNgly18Cqh",
-      "title": "Philippines’ Pax Silica AI hub plan slammed for mineral ‘plunder’ - South China Morning Post",
-      "summary": "Philippines’ Pax Silica AI hub plan slammed for mineral ‘plunder’&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZkk3dldMR3c1YXdYOVREMDNONHl4YlUyN2lGaWd3Ti1zamVBZTZ3OUZ2ZURIUzF6SmJfVVNiX0J6SUVEM2JBem5WSG1NNDNhTkxkSUFBd1BtMk5STlhMRTIzZUZVZzJoZ2dodS1zY2R1MDlKTDItTnQyU2QydVBfOV9nRVNybURkcXVFa0FIQklmVjhVSjh0YkxwRm5SSEZ0ak01NXRfOTNLSG5rMnYyUWYzaXoxQdIBtgFBVV95cUxQZ3lxLVctSDA4emZrXzlydW1YT2MtUUQwTG56ODg0cy01Q19pd2NZUFRHMmNZWU9ENTVEaUxsSmlKOHA2d3U4b2pPeFktV0M4YzBBTlFLaUM2ODNOdW5FOGNkcTI4M3d0eVlqNmZNaGRrM29pcjRiTnlYbE4zVlNKU1B6SWZ6d0JFUEdNQUJqOS0wSUZJbXRfMUwtMWhPXzBNVmNfeGtRWlhaRWJFMkQwVU9Xa0hKUQ?oc=5",
-      "date": "2026-07-17T08:14:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1382,18 +1430,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Wne5R8zgNO5e",
-      "title": "Xi pitches China as leader of new global AI order, challenging US dominance - Reuters",
-      "summary": "Xi pitches China as leader of new global AI order, challenging US dominance&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
-      "date": "2026-07-17T02:36:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1490,30 +1526,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "ZTn5jRxvqtbt",
-      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
-      "summary": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for the gravity of the underlying model and judged on re",
-      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-      "date": "2026-07-15T22:24:17+00:00",
-      "source": "VentureBeat",
-      "key": "venturebeat",
-      "cls": "src-venturebeat",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3EXfXc9CJsGd",
-      "title": "Truth or Fake - No evidence Mitch McConnell’s ‘proof of life’ photo is fake or AI-generated - France 24",
-      "summary": "Truth or Fake - No evidence Mitch McConnell’s ‘proof of life’ photo is fake or AI-generated&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYktRSm9lTV9RX2l2MmdaNmdzd3RFSjBxRk9HLWlvaC1vdlR4aGVDYTBqY2hHbXBTeE9kZk9GM2ZidjQtSTdYU0NBb0VDMFdPdzRaYjBHejlhdG44MEhzOUlYM19JQnNGVWxvTDU3ajQwZlVNWEFZVnJ2ek9ZNjRwTzlUaHJIOWlYMnExbEMyb3Y5QWhiVW1wbW9XMFFxV2VLNXhxQllB?oc=5",
-      "date": "2026-07-15T20:48:53+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
