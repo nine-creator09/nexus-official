@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T08:25:26.144927+00:00",
+  "generated": "2026-07-24T13:41:53.724735+00:00",
   "articleCount": 117,
   "sourceResults": {
     "verge": {
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "ars": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "bbc": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "1F9EJKg7Nz97",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "date": "2026-07-24T13:36:42+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bU5OGOKXfa+R",
+      "title": "Be skeptical of OpenAI’s rogue hacker agent story | John Thickstun",
+      "summary": "If OpenAI loudly proclaims how dangerous AI is, investors will hear how powerful it is. And who benefits from that?On 14 February 2019, OpenAI announced a language model called GPT-2, the precursor to",
+      "link": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
+      "date": "2026-07-24T13:00:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "tKKAxN8N/NDA",
+      "title": "When is an apology not an apology? When it comes from an AI boss with an out-of-control chatbot | Marina Hyde",
+      "summary": "An incident in which an autonomous OpenAI agent hacked a startup either confirms that the end is nigh – or that the product is just amazingly sophisticatedThroughout history, many things have been see",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/apology-ai-boss-sam-altman-rogue-openai-startup-pentagon",
+      "date": "2026-07-24T12:32:58+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "lgqezrwnnuFz",
+      "title": "Should you use AI for a task? Here’s a simple way to decide | Bruce Schneier",
+      "summary": "Sometimes, what matters isn’t your output but what you put into the process. Think of it like work v the gymI teach public policy at the Harvard Kennedy School and the Munk School at the University of",
+      "link": "https://www.theguardian.com/commentisfree/2026/jul/24/should-you-use-ai",
+      "date": "2026-07-24T12:00:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "SRKikuaH4j/+",
+      "title": "Some Kids Will Never Think AI Is Cool",
+      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
+      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
+      "date": "2026-07-24T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kaMq8sdL0MCo",
+      "title": "Korea less exposed to AI job shock, but productivity at risk - The Korea Herald",
+      "summary": "Korea less exposed to AI job shock, but productivity at risk&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jT0t1OTliMFVQaDBRYTY0LXJzRHJOMEMxRG9sRUNxd1l6T2FIczdBMXJvZzZBckJtakVzTTc2UXR0M2Rja0Vha1lxRmtkNHJkd05JdkNINA?oc=5",
+      "date": "2026-07-24T09:27:20+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "bdkXNFbpM4gs",
+      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
+      "summary": "As AI grows more powerful, a US-China feud threatens safety efforts&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
+      "date": "2026-07-24T09:03:17+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "eeiImxhT/ofk",
+      "title": "AIにもサプライチェーン管理が必要？　中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
+      "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
+      "date": "2026-07-24T08:30:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "UIxMIp/RN01+",
       "title": "メルカリ、「AI活用の最前線」明かす動画公開　「なぜCTOがCHRO兼CAIOになったのか」など13本",
@@ -135,6 +231,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "H6yzeptQkRe4",
+      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
+      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
+      "date": "2026-07-23T22:58:19+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
     },
     {
       "id": "EXdLXdIkdiz3",
@@ -317,11 +425,23 @@
       "articleLang": "en"
     },
     {
+      "id": "3YH9bFf8hRIX",
+      "title": "Cigna says AI tools to save customers $200 million in medical expenses over three years - Reuters",
+      "summary": "Cigna says AI tools to save customers $200 million in medical expenses over three years&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZlZhdklUZm9UWjVBd2x2djhCZ2dDVDViR2ctSkM2cC12OHd6NG5lRmlOOGI3STJaY0xtMmR0WW1iNnp1WmxOckxVamUtVjVPa0JQeG9NV3NxelF5WHVBSmM4UG9tUmpBSkhaNTFBdWw5WXFCM1R0Nmc3VTFTRng5WDB0RmVHYV8tbG5XWndYSnpqSkVpUUF2UkxCbUI5aXpwRXBwdXhOSVljYzlocXZNd0ZscDRTNjdPVURKcTFSdUVVUnQwZUFFbU5udlZWQQ?oc=5",
+      "date": "2026-07-23T15:38:07+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "Dj1+iw0QJ/KX",
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-07-23T15:34:02+00:00",
+      "date": "2026-07-23T15:30:43+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -437,18 +557,6 @@
       "articleLang": "en"
     },
     {
-      "id": "H6yzeptQkRe4",
-      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
-      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
-      "date": "2026-07-23T10:51:56+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "FzalDnFpxojT",
       "title": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations - Reuters",
       "summary": "European semiconductor stocks diverge as investors weigh AI demand, growth expectations&nbsp;&nbsp;Reuters",
@@ -482,18 +590,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "BnPUKi96OXDL",
-      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
-      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
-      "date": "2026-07-23T08:50:19+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -713,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kT31n4p6+Oyz",
-      "title": "AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup - Reuters",
-      "summary": "AMD to sell Anthropic tens of billions in AI servers, invest up to $5 billion in startup&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjQ4V2RqTUl4bWRtck5LZy1ST1VZNVBzcmswTUVyc3ZGcFNJeXlrRHpkUUIybkZSLUhoQXJtYUFKOHkzam15amh0dW5POHg2alBDMTRPRDQyWUUwUXBaX1czSWQtSGpXYlFvcGFRQ1p0WFZ3bndQYzlqdmZQSnN6NUhfbTdVYWZZNnBxYXZUYktkcVZu?oc=5",
-      "date": "2026-07-22T16:46:20+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "6Da+QW79uhYD",
       "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
       "summary": "Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database OpenAI has revealed that an autonomous AI agent powered by its technology went rogue during a test, acces",
@@ -734,18 +818,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "zuyKmPMQBnxC",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-      "date": "2026-07-22T16:24:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -782,6 +854,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "BnPUKi96OXDL",
+      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
+      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
+      "date": "2026-07-22T13:17:47+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -857,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "yWXR4n5vGgKK",
-      "title": "China’s Zhipu AI model contains hack after OpenAI models go rogue - South China Morning Post",
-      "summary": "China’s Zhipu AI model contains hack after OpenAI models go rogue&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaGx5UU00ZVdpY0NlWi1HTTdhUVctNjdEREV4RzJyV2pLbDU2ZVVDdlJsRjlOMXEwLTE2SXhlbzdjcDBVNEd6cW05U25uN0xmYVlCT2RXZ3pCTUlvM0pjMEZ0VlRpQWRoeG8yWWxzUHBXQkF0TTNOcjlyaTlnRC1xMU5HTGU1anQ0czB6b2lMQnVGZTBYeHV4Y3FGcVBiTG93VFBGdjl4aTdlTGRmcngtRUMwZm1oMktVUDRBOTlqdmY4VS1pNzBCVXNlRDLSAcwBQVVfeXFMUEV5OEFOaFpYZlV0bmpGd0NZdzB6N2tBSUg1YUJMNUJoZV8wLTU3RVhuQzRwUm9rRHR5Y2MxNElOZ0pqdFQ4RGlfMTBQeG1OVWd5NFBsRXZHdHFYX0ZqOXZwNWszU2VQVVNJQUFuRERIOC1wOTFKRWlBeWRRUjF5TnhrV0FPWHB0aktmWVExeWxsZnA2dTVrVEwtZlY1RzdKaGh1YnljMmlRZ3ctVVVnTnhIb1djSnlXQU03Vnp4NVl6QlNhb1hWaUhBMGhj?oc=5",
-      "date": "2026-07-22T08:30:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "lBarLiKbRmWV",
       "title": "OpenAI reports 'unprecedented' autonomous hack by AI agents - France 24",
       "summary": "OpenAI reports 'unprecedented' autonomous hack by AI agents&nbsp;&nbsp;France 24",
@@ -897,7 +969,7 @@
       "title": "AI investment boom puts Big Tech's free cash flow under pressure - Reuters",
       "summary": "AI investment boom puts Big Tech's free cash flow under pressure&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0N0U3lQTE90ZGtaVnkyMy1XSTFSSzB4RUFmT3ptc3pTeDFPZmRpNEpMMVdJVVl6QmhOR3ltZkd0eUR0b2llM3lwamJ3REp6ZjN6VXRxUDNVaTIxVmc5eGJfb2dKXzBLMEg0RC10MTZjaVExZWpDY0JoQlU1NWxkczNJY1Q4cDhfcDF4SllWNk1oN2lVcW8tWXI2VlVOTS1Gamh1b1UwZHl6ZG5Q?oc=5",
-      "date": "2026-07-22T05:02:00+00:00",
+      "date": "2026-07-22T05:04:13+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -926,6 +998,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "2ofON2hPAXMR",
+      "title": "EXCLUSIVE: US, China to hold AI talks in September, sources say - Reuters",
+      "summary": "EXCLUSIVE: US, China to hold AI talks in September, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5",
+      "date": "2026-07-22T02:15:54+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "2ofON2hPAXMR",
-      "title": "EXCLUSIVE: US, China to hold AI talks in September, sources say - Reuters",
-      "summary": "EXCLUSIVE: US, China to hold AI talks in September, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRnA2ZW5UVVBMZkFtcExCdG5vSTJIMDFGYVhtcFpXellZRkpmcnJocExRNkp5c0VDdXRfVDdXcGs1OGszNEdMM3YxQ3R2UFVwYmdCQW85MjdYUHBlaWloVENJZmE1OVYxc2FFQml4LTFOWXEwOW5BcGIyVEQ3Rk5uMmxPQUFLVWY4cTYxNzJTZzZBbkJ1RkFr?oc=5",
-      "date": "2026-07-21T10:03:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "yiIxkTT3pTHz",
       "title": "Gen Z is living in an intimacy economy, where connection is commodified | Alice Lassman",
       "summary": "My generation is struggling to find safety in our human relationships. AI companionship is filling the gap“There are parts of myself I only share with my AI,” Jerome told me. “Your AI?” I asked.He was",
@@ -1169,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fkzS51xwu7mB",
-      "title": "Nine to axe 30 jobs at the Age and SMH due to ‘extreme’ AI disruption",
-      "summary": "Staff told positions will be cut via voluntary and targeted redundancies as part of ‘evolution’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news",
-      "link": "https://www.theguardian.com/media/2026/jul/21/smh-age-job-cuts-nine-sydney-morning-herald",
-      "date": "2026-07-21T06:05:43+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "GETC1R10GYsp",
       "title": "How Chinese police infiltrated and monitored the dark web with the help of AI - South China Morning Post",
       "summary": "How Chinese police infiltrated and monitored the dark web with the help of AI&nbsp;&nbsp;South China Morning Post",
@@ -1205,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "iXbIY3RxdQrq",
-      "title": "Election voting advice from AI chatbots ‘inaccurate and unreliable’",
-      "summary": "Research during Hungary election shows AI recommended parties not running and gave highly volatile answers to identical promptsAI chatbots provide inaccurate, inconsistent and unreliable guidance to v",
-      "link": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-      "date": "2026-07-21T05:00:01+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "4FDLzNR1sMfO",
       "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
       "summary": "China considers tighter export controls on AI models and chips, FT reports&nbsp;&nbsp;Reuters",
@@ -1226,18 +1274,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "0iZFPcS/lR6H",
-      "title": "Not enough water for UK’s datacentre plans, trade body says",
-      "summary": "Industry says government’s failure to address cooling demands means AI growth plans are ‘fatally flawed’The UK will not have enough water for future datacentres, the water industry has said in stark c",
-      "link": "https://www.theguardian.com/environment/2026/jul/21/not-enough-water-for-uks-datacentre-plans-trade-body-says",
-      "date": "2026-07-21T04:00:09+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1286,18 +1322,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "xFtdV3VZRw+T",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is more likely than humans to form biases when",
-      "link": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-      "date": "2026-07-20T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1433,18 +1457,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ZvIrKly8vbZD",
-      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift - Reuters",
-      "summary": "Apple unseats Nvidia to become world's most valuable company as AI bets shift&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQ0dxV3BmWDRMVmZLTHI0bWpNR2hCVTVfdWloZGRCdnZxTUZNNnBQMGs1bm9oVGpiZVVtclBiNkIxQjF5NlFJY2JjalR4cTIyVEg1TVAycGZpakdXQUxZWEtZWEdMemFhVXFDX2RPX21HV05QMnpVU0REaFpOYjlUVVROV09RdFFURmdVS1FUeFRRcUtoZHdTd3ZKRjNjWVk?oc=5",
-      "date": "2026-07-17T20:32:56+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "BibgCW/KfnAB",
       "title": "China's Moonshot AI claims Kimi K3 can rival OpenAI and Anthropic",
       "summary": "The company has unveiled a massive new artificial intelligence model it says can take on top American firms.",
@@ -1454,18 +1466,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "lFh1pbi1opRN",
-      "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals - Reuters",
-      "summary": "China's Moonshot unveils world's largest open AI model, closing in on US rivals&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBidnJRbHRkSDh4WXNUVlBOY1VmZ3NCSlRhQzEwZWY3dGJfeXlMQ1FWN1FheElOWU0wdFBJZ2p0Y0VDSnd2RDlDSExSQ3lOb19UYkc4Q0d6UEtsQzN4TWg2LWtianhwbEgtZmR4OWs4QU9QbjM3RkJqNHI2TmgzRVRxcXhuRlE4ZHdlRFRvNlBvWUxYUkFQRmZ1Y3NaeWh1V0swM2NHaW5NcEg2UGdiOHFMMzN4bGMweVE?oc=5",
-      "date": "2026-07-17T09:20:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
