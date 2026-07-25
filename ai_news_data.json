@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-24T19:23:07.178456+00:00",
-  "articleCount": 117,
+  "generated": "2026-07-25T02:32:21.031138+00:00",
+  "articleCount": 121,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "nA60BiULNpnX",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "date": "2026-07-25T00:23:11+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6fViybuyobg0",
+      "title": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
+      "link": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24T23:11:13+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "RVj47St/D/fI",
+      "title": "Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも",
+      "summary": "Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。",
+      "link": "https://www.itmedia.co.jp/news/articles/2607/25/news016.html",
+      "date": "2026-07-24T22:28:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "eL++68KA+t3K",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "date": "2026-07-24T22:25:58+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "301ZFaD1N35h",
+      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
+      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
+      "date": "2026-07-24T22:14:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "u+UAKUW1s5Y9",
       "title": "Midjourney bought the astrology app Co-Star",
@@ -77,9 +137,21 @@
       "articleLang": "en"
     },
     {
+      "id": "LPqVij65xLKY",
+      "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
+      "summary": "Nvidia, Microsoft and other tech giants back open-source AI models&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT0tzQWRTUldfRzViemRTbXpHNFlLU1l2QzNkRmE0OFZxTkh4WkRtZThGSGRQaWNHMGhzZ01oVE5jeGUyYkNkMDJTTDV3Q1Ayb3l4cjFDOU1QcmVPeFNFLXItcFVESVJtZ1U5ZE1NUkc4Mkw1RTBDR3JDZGJkNXdraEFTZ213RHhIOG5vOTNLTk9fenJPNnFDM2RFY01uUHBGVklDckhsOXJ6UG1wNC1BWDhPYjk0LVU?oc=5",
+      "date": "2026-07-24T18:07:36+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ktRIkfgB5/sr",
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke’s conversational style and in",
+      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
       "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "date": "2026-07-24T18:07:32+00:00",
       "source": "TechCrunch",
@@ -89,8 +161,8 @@
       "articleLang": "en"
     },
     {
-      "id": "mDaG5QkghLqu",
-      "title": "Did Chinese AI Steal From Anthropic, and OpenAI Loses Control of Two Models",
+      "id": "7wqaFww5MSAH",
+      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
       "link": "https://www.wired.com/story/uncanny-valley-podcast/",
       "date": "2026-07-24T17:53:01+00:00",
@@ -98,18 +170,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "aptF6yuRWxQW",
-      "title": "Anthropic rolls out Opus 5 AI model in efficiency upgrade - Reuters",
-      "summary": "Anthropic rolls out Opus 5 AI model in efficiency upgrade&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbGtoSHNwQ0pjZ09saEozUGlWRVZ1ZG03ZC1Xc2UzNnZQSXRsQjkyWlBFVlM4QmM5WmtKVGhJbUZydG9UWEllUzgwbW90b0k1elZyQnpaV3VTNGZiNG5YWDdyNXFVTHhhTHN6TWpUU1RuSzYtNnpnN0M4VlpzeWp4azFmbWVyQTNlSXVfSlY5UTU2RGVsQ19ucGd2VlFEMGFEMG5J?oc=5",
-      "date": "2026-07-24T17:02:42+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -149,27 +209,15 @@
       "articleLang": "en"
     },
     {
-      "id": "AKN6PLXb+LgR",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-07-24T16:32:03+00:00",
+      "date": "2026-07-24T16:31:46+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "bdkXNFbpM4gs",
-      "title": "As AI grows more powerful, a US-China feud threatens safety efforts - Reuters",
-      "summary": "As AI grows more powerful, a US-China feud threatens safety efforts&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTVEV25mbEljZGR4REN5cm5RdFZockt4TlBqYUFPS3FseExuOGJ4NFdBR3NsY1l3dnhSNlJ5RXNrdktZaDlDRWN3OTZHRkJnbk1LVk5FS0F4LUZwOHVEQ3FXUFp2aWhYbnlabkZUS3p4M09DbVRvR2NpR3dITjhTWXpzajE3eVNVeEJyeVZadlFsMGFzMnZ0SVMwRS1oZUt0NFhZUExCR3NSYl9teXE5NTNWVUQ?oc=5",
-      "date": "2026-07-24T16:14:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -182,6 +230,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DLpS4oCZzkkc",
+      "title": "US floats AI 'kill switch' to stop rogue AI models - DW.com",
+      "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pmMjlWQlV5NExyWjdsSGhoUllpaGZCVjB0V3RZMlgxTzd6WERuZERRSWp1d2pLeTVjX2ExSFdxeUNSVWNJdmhvMXZKV0VMeEFKYm1teEJ3VXBCNEE3Wmdwd2ZJZlVKT056cE5YTUkzTXlfazdPQ1JIZTIxYmxJazlpWElDY1hT0gGIAUFVX3lxTE5ieUVZc0ZkWDhTdVU4Vkh0LVQ5d0V1ck9zdnRKME1WZUJObFA4SnBqMnhOT21uTVNKT2EwOEUzN2lqOVQyekJYZXc3eGNVM1hpbHBEN1JJU1BjYVRoQ0VyaHpxUzRZWmhRdEpLUGlxd1Vhck9YU25fb2lRZFRzbTBVN0ZFME5ycnc?oc=5",
+      "date": "2026-07-24T15:30:35+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -302,6 +362,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "WuwMZVygSKdg",
+      "title": "Intel rises as strong forecasts signal AI boost for turnaround - Reuters",
+      "summary": "Intel rises as strong forecasts signal AI boost for turnaround&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMjF3SUNia0lfWVVzRlZuam15MmRBcmR6eVBCRXNsdmxOVndwVzhLbzNlTU0zd3FXeGhvZWpvVFZBa1RvXzl1MlFFZTlwZXh0dkhTQldzWS1JMjFXZEdOYllVX2pOckYxUWcwV3RMSGhBTUR2cDh1Qi1FQk9ibVIwMjdLS2NhYXV3Tzk1NEQ5cTB5bFNFdUdSUFdwUUdqZzltSXc?oc=5",
+      "date": "2026-07-24T10:42:37+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -593,18 +665,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ThVNgHC6wfyy",
-      "title": "AI chip startup Etched raises $300 million at $10.3 billion valuation - Reuters",
-      "summary": "AI chip startup Etched raises $300 million at $10.3 billion valuation&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUlZb3pVNjdBYmVWRElsTUtJcXBpM2xyblBOTHl6VW1VeU9HV3ZFSmhZN0poOW1aMVUwdDU4ZU1xVm4zMi00YnhKTnllTG90YUg5cTV1OGRxSkxDLWhZSk9YQmI3TjZMczBnUmNQTlVTNWtCeDBqc1h6MTBNVFUzTDQ1dWFzZjVoZXB4X0pFbFZXbERSUk9MaGVKdXVXTFpxSGRFanZOU0xoSDVVQ0cw?oc=5",
-      "date": "2026-07-23T15:50:30+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "wmvmwnmdLbsr",
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
@@ -677,6 +737,18 @@
       "articleLang": "en"
     },
     {
+      "id": "4EQJ8UN/eGUN",
+      "title": "Musk proposes peer review for frontier AI models in Economist interview - Reuters",
+      "summary": "Musk proposes peer review for frontier AI models in Economist interview&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYk03dVh2QUU0Y0o0SmJHWWt3U0FEMnBWeWM3LVFIUmpwSXlYNVNGR2pDR3Jsa05HZGY2TTROeXBOZDdYMkc0QnBCVi1oWkl4TkNscXZYTDZQR21STWpOeEVMNzJXVHAteFFSNlBuU05sNlU0YzA1SGo3Z3hWak1KV3BTUkphYmJiR1pIaXRoRUNOYy0xcEUxRl95MlYwQU1qNWFMOWIwRk5OVnN2ZmJIVlhfTTV5Wmh4?oc=5",
+      "date": "2026-07-23T11:43:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "FrLb4yoTzeCA",
       "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
       "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
@@ -725,15 +797,27 @@
       "articleLang": "en"
     },
     {
-      "id": "YSWO5WeUxNL0",
-      "title": "US-China AI rivalry heats up as Chinese models gain ground - dw.com",
-      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;dw.com",
+      "id": "H6yzeptQkRe4",
+      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
+      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
       "date": "2026-07-23T10:32:17+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "GLFvMSs8YACB",
+      "title": "China’s tech firms push beyond hardware to power the global AI boom - South China Morning Post",
+      "summary": "China’s tech firms push beyond hardware to power the global AI boom&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlRZMnpNREo0YVBJOTMxT2lRVmNzT2dyWE1BZVRnMnR2S2NiODlpSjZ1STZ2YVhvT1RIY1ZKZkdNVnROdmVMTEF5Ny03Q2p3VnRDMU1nZjBoUDI5TkN6T29RTjk1UVI5OFRQdTJUNi1NOWpZR0Z1YlBmeWFDZER4bklUeDJvLVdJWUJCQy1fTkdCMkZsX2NRZUxaX3FUZ0trX2dBckVraHJfOWwyak5jYVdKVzB6aGFuTTdCTnNEMmRnNl9lRy1J0gHHAUFVX3lxTFBYSXlfbXhSZDgyWWRwVFpRclFDS3Y5UXQ4bFlDUUgxSGJtLWZUWlllQW9ucUhQQlJnTm9RVlFKSldiZE9uWmY2dnZFaTlpaHI5aGNUTUZ3TGpULWw5OXpmdmFkMEg2eGhPT1M1STNMdmdGYnFJZU0yaDdFNWgxM1F3UzM0cmxmWTcwOWZtc2R3VWVkTzg2cy1VdWVGazEwRW5SOWpqbE0zSGZ6RG1qa29HQ2RfcDlsNnRqVG10MWpRX3doWi1Gczg?oc=5",
+      "date": "2026-07-23T10:00:17+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -761,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "sX+RSv6//gVq",
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "date": "2026-07-23T06:09:13+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "x4OHoTx0GRhH",
       "title": "Nokia Q2 profit beat as sales from AI, cloud doubled - Reuters",
       "summary": "Nokia Q2 profit beat as sales from AI, cloud doubled&nbsp;&nbsp;Reuters",
@@ -795,18 +867,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "SyiP0DzQRs6T",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "date": "2026-07-22T23:47:54+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
     },
     {
       "id": "Gof53Lf0uTzD",
@@ -965,9 +1025,9 @@
       "articleLang": "en"
     },
     {
-      "id": "sB4ZJPqg8mpk",
-      "title": "OpenAI says its AI model went rogue and hacked startup - dw.com",
-      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;dw.com",
+      "id": "BnPUKi96OXDL",
+      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
+      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
       "date": "2026-07-22T13:17:47+00:00",
       "source": "DW Tech",
@@ -1145,9 +1205,9 @@
       "articleLang": "en"
     },
     {
-      "id": "7x6zhsfDqZPq",
-      "title": "China narrows AI gap, challenges US influence - dw.com",
-      "summary": "China narrows AI gap, challenges US influence&nbsp;&nbsp;dw.com",
+      "id": "qjL/1OQIrrpq",
+      "title": "China narrows AI gap, challenges US influence - DW.com",
+      "summary": "China narrows AI gap, challenges US influence&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONXNpZ2lSYy1PYzZONkphYVVVY2dwNTVkWVdxVFVFVy15OFVJMHVXdHFmbE9OeW96WlM2M01XbzBZck5SS0g2NDZwMVczajVWNlJ1TElnOWt2Mnp2Z3J6dFpETEVPNXZoUEwySkYzaWRKanlLUHFLOXRFbjNoc3p1UTZlRdIBgwFBVV95cUxOR3p6a3dlRXNReUYzQ0NnQ3ltMDUtX2F0emY4V2hUTXJseGhFRERsbXd0V1hlOXBLaXlEMGExbnlhb0h4Z0dWeGRGYzEzU1NjemFYOXpkR1R3NDdEaTU3SEo3OTQtRG9WeXNHSUVvX1dmdmdOUjJlOFZXMjYtME92c05ZWQ?oc=5",
       "date": "2026-07-21T15:50:06+00:00",
       "source": "DW Tech",
@@ -1409,9 +1469,9 @@
       "articleLang": "en"
     },
     {
-      "id": "GQRyNKs1H8zN",
-      "title": "Fact check: Spotting AI-generated 'historical' images - dw.com",
-      "summary": "Fact check: Spotting AI-generated 'historical' images&nbsp;&nbsp;dw.com",
+      "id": "49E7JQRLXOkq",
+      "title": "Fact check: Spotting AI-generated 'historical' images - DW.com",
+      "summary": "Fact check: Spotting AI-generated 'historical' images&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX3RqWi16RWtZTmlKd3d6cW5WaXM4eXVkY2dqYlo2VjduNFp2NEkxTDd3amROSUllMG91cUlqUlY4XzZjMWpqay13SDhDX3h4OHhCTUEzdHFlZEttYWxaTFpNUDAxekI2LTlmUHloYTVfZ2drcm8tN0VSYlNHYzBEX0xRcmVKVFh3c1lj0gGLAUFVX3lxTE80bmk4OW55d1hnSl9aUnlQSUJLRnNRWXF5Sm9MYWlhc196ZFNnSGh3MVRNWV9kQTJZWjRMNG1fcWxmdi1zUHR4RFBzUURWbkR4X1BjMDNWUFRxcnNsa09fUzBkblZLd3JrS1RCTDJJZTdkUzFlZXBZRDFkbFhQd1dCamg2dC1CZjhnR2s?oc=5",
       "date": "2026-07-19T14:00:23+00:00",
       "source": "DW Tech",
@@ -1450,18 +1510,6 @@
       "summary": "Why data may become China’s most durable advantage in the AI race&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdlV2Y0EwQ3lVLUVyZWRSRGFJUF9YWFM3ZHMwZ0NCczQ4dUV0c2syQjU5ekluaG1iUDJYQ0FLY3RGMW91WVcxanpYOUtXcnZibnZQQUMyMzlTcE9BUWlUTWNoYXJCQnlJRk45bmdtTS1Ldk9wb0VkbzBPd2t3ODgxdElpQTU5dkx1OFhZdlp5dFFpbllGYllrVDBNeE1tb2xBNnY2ODQ5V3c0c3N1NkxoZ0lzaG_SAbQBQVVfeXFMUFAxSlhTci1ZSmRnMU1vejVFam90OWk1b0V1MGctenRDUVREbzdycEVKY3VfY3Q5bWZrZFRIWl9TT1M1aXM3czVPYmZ2WlpYZEd2MWlMSWEyNjZ0dDE3eTd3SUFiVHFyOEpIdmFaNTdBMVhOYjB6Y3kwWkVGUG9ZUERtX3JnRjV3akdNVmppRWkyV3BDVFNYR0lfQ0N1bEhscjRzcXZHQ1pZaS1HTGFtRjk3amVH?oc=5",
       "date": "2026-07-18T14:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "AmHBUtXapSsz",
-      "title": "Insert token: how China’s surging AI use is turning compute into currency - South China Morning Post",
-      "summary": "Insert token: how China’s surging AI use is turning compute into currency&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkRMOTFUSl9QUm9QN2MydmJBNTBsV2psUmdxeUNsazc2UXU0WGJrckU2TTVmQUZzRzlFSkZISmdKWXRWVVJOZE54N2hsRkkxQy1abkJjWEJGMnFuNGZpSDdTLTZQa05hblZmd3pJQnJnYUl3TUc2bzBiRk42dlJ0ZG9zWFhUaGNlR2gwVkVWbW9ld251d3MtdTFmWTJmdzlxX01BdkVEUkpTM04tLUFGRUxZdHF0Z9IBtgFBVV95cUxPR0RaOVZuZ0cwb3ZxMVNDVVpBWXY0UHJUNWgtUllyeGNWTUJCUDQzbi1uUDZXYWZad21TUTZ0dk1aclZPUF9OWktQYW1RWFdWRmtscEJIakdPZ2t5TVd4ZlJVX2N6VVJkWTEyRjk3THZiNjAzdXdVSFdpZGprMUw2UW9sZWxsc1V5WDRKV0J3N0dfQmJfV0Y0N00yOEdsdkpxb1VYS1NLbTA5MnhFSGdTWUxTckdPdw?oc=5",
-      "date": "2026-07-18T02:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
