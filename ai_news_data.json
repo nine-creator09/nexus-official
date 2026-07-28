@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T02:26:48.534742+00:00",
-  "articleCount": 111,
+  "generated": "2026-07-28T08:31:33.141266+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "dw": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     "reuters": {
       "status": "ok",
-      "count": 14
+      "count": 11
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,30 @@
     }
   },
   "articles": [
+    {
+      "id": "t4+V6Yw1qQam",
+      "title": "「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？　公開から1週間、当初のおバカ回答を今検証する",
+      "summary": "「痺れるほどにミスを繰り返す」　Xで回答の精度について話題になったGoogleの「Gemini 3.6 Flash」の公開から約1週間経過した。当初報告された数値比較の誤答や架空の魚への回答を改めて検証した。",
+      "link": "https://www.itmedia.co.jp/news/article/2607/28/2000000229/",
+      "date": "2026-07-28T07:56:51+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "48nu9GcpOAG1",
+      "title": "Some people's chats with Claude AI found to be publicly available online",
+      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
+      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T07:10:37+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "OH5KFZQJTBcZ",
       "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
@@ -77,6 +101,18 @@
       "articleLang": "en"
     },
     {
+      "id": "H6R8mvbMVuGy",
+      "title": "As Musk loses US$130b, Chinese chip and AI founders’ fortunes rise - South China Morning Post",
+      "summary": "As Musk loses US$130b, Chinese chip and AI founders’ fortunes rise&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2oyaXd1Rm9tVHNNQWRDbFNUVGFVZTZhTy14TVdOUkZtUHpLZ1diVmNTR1QwMXl6cnRXQjRoRjJpT3BmNUtCbzJBMVBBLXFqdjRISFAwMmE5SEZKRG15UnFibXhsUzJXYjBfVV92d3VPNW1zSjhPRVBISnNlTURkYzdPOWc4bXBvYnJ4aENrYW5qNWpjYTBTcnBHMnZqbUZJYncyQ3lxYm5TemZmRDdrVXhWMXkyUlZSaTZBQlJ2UlZCZUhuV1pPSS1fa19tbVJla04yTU9TVm_SAdgBQVVfeXFMT2JuQjRqVWprazJZaG9pN2d1MWtiWVlnbnZ0b2hWcnAtblU3UmFLcjl5OTJCWE5TUjFSRVVsSjRLa2JYOTctSXVWcHhuUmxxTkVyWGp4eUhMaEZxdURrR0p4TzdfbjFnUFlua3A4cUFqV1lOX1IzVTFZZFhRaDM5WXBLbHRZa1NGNUsyaktQTlQyLUUySlJHNDFlSjZyYzFwaHhCbDZYZk9KMEEtM1UtclFENGsxVDZ2SWlfUllpbDZDZVlmb2hqT0JmVFFzNUQ2SkFWTmNmdGdQ?oc=5",
+      "date": "2026-07-27T23:30:18+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "xPrSo2gUAT4C",
       "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
       "summary": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
@@ -87,18 +123,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "Bz0Ukn3csubj",
-      "title": "Some people's chats with Claude AI found publicly available online",
-      "summary": "Hundreds of conversations with Anthropic’s chatbot were discovered as being publicly accessible.",
-      "link": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-27T22:14:04+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
     },
     {
       "id": "y7rree8wGYED",
@@ -134,6 +158,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "HprO7EK1R/85",
+      "title": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand - Reuters",
+      "summary": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkRDRU9XdVFCNDNXeU5OZmo2UkZ0ZWRGemJsREZSUDBzU0Uxd2pLb01Tc19DVkYxekYwN3Z0S3o3U0l2ZXo2eG5CY1JkdlFUZWlJMWw5LW5nVk5zdzdiMENfNnFweld3UWw2UmRQNjBoUHQxYnJadHRfalZjN3paZzZMUUVjQXVId1dGMFBrVXU5OHlNdnhRUmxsbi1YdTBLdHJBbkpnT1N4NW1GOTBiUmwzcEJtUlNXd19fNmNGRQ?oc=5",
+      "date": "2026-07-27T20:48:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -305,6 +341,18 @@
       "articleLang": "en"
     },
     {
+      "id": "mHUBUZZFF7of",
+      "title": "Moonshot, DeepSeek and chips: a guide to Tencent’s growing AI empire - South China Morning Post",
+      "summary": "Moonshot, DeepSeek and chips: a guide to Tencent’s growing AI empire&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM2N4YUl1Zl9acjRvaV92bUtWMW1sVXl6OVZDNHRZSXBFZExPbEJNTjJ6by1HWTdTdWVCa2NFdm1wSHZQMU5tMFl0UWxqQndLM0dYUkMtYWp6SmZ5ZXZqb3lEbF9UeXk3MjAxcWtSMjZSX3JQRnBRRlFxcmZ5eGRMRTdqUW81M1ZxLXFxMGttUWhCSE9XbmM3alhvMG8xd2RRUTlkZm9xV1RCUmpia2w2d9IBsAFBVV95cUxNQ050aHBXMkJYVkdvcnhINmZYSS1vY2lJdnZVOEhLc2ZwUVItRzJuaEpGcy1tVEhxa0JNa0JOS1FDaThhdjZUSzYtX1FhUXplSERPTmVucXpnRFB3TlI4MDcyUmxNcWh0cDdQQW10NHlCSnJRZDg2RVItdDAxNThNSGlmelVpbFJlT0c5Tk42MDUzLUhuQ2cwTnhzaW95YU10bkU3NDNwekZpQkxkX3Vvaw?oc=5",
+      "date": "2026-07-27T14:30:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "5Tt5/qn/Wf9K",
       "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
       "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEOThe boss of the startup hacked by an OpenAI agent has called for the investigation into the incident to show",
@@ -338,18 +386,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "GhYSgM/puHQw",
-      "title": "OpenAI to triple workforce at Dublin European headquarters to 350 - Reuters",
-      "summary": "OpenAI to triple workforce at Dublin European headquarters to 350&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcV9SbXBoVGpBaEh0RDlqTGthRGtuVmUtQXZIYk9iZmlyVHZMb084V1VBYnk5aTlPcnpNVWRXc2RNTGg1OWFad2NQaUVMUlVTTnN0TDhvQy1OaHNsa1BaSDNvNzJoQjJtN243d28tdGt0d3FCckl2Sm1acklXek9ycXFNQ3ZWa1BUMXNUZ3cxRW9ENE5pSkF2QjBPQU5zUzRJNlJv?oc=5",
-      "date": "2026-07-27T11:44:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -473,6 +509,18 @@
       "articleLang": "en"
     },
     {
+      "id": "1IjfH/Ddc2/C",
+      "title": "Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages - France 24",
+      "summary": "Chinese chipmaker CXMT soars 500% on debut as AI fuels shortages&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPellNQXdZOFp6OU1taXpyb2FkUXI0aU1oX0RuR3I2SmNCRmFKMUtXU0tqUjRCVHdxcGFzV0habC1nd0dEbXAya3oxR05PLVJDa3dxbm1ybzdIai1wUVIxQVVXb18wcmJja3lBRnRJSC1iaFlXVkNMenRNMEtYNlgxbjA2THpVVTdFbURTME9kNkNqenJ2QnA2Mk0zYjR6ckk?oc=5",
+      "date": "2026-07-27T03:39:09+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "b5PpUCeKoj8P",
       "title": "Are brain waves the next unlock for physical AI?",
       "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
@@ -482,18 +530,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "9zrcZmNIOWAL",
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
-      "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "date": "2026-07-26T23:39:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -578,18 +614,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "r3/0oKlRpjLZ",
-      "title": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers - Reuters",
-      "summary": "Samsung Elec, SK Group seal $950 bln deals as South Korea hosts AI powers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5",
-      "date": "2026-07-25T23:15:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -845,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ktRIkfgB5/sr",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "date": "2026-07-24T18:07:32+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "7wqaFww5MSAH",
       "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
       "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
@@ -1001,18 +1013,6 @@
       "articleLang": "en"
     },
     {
-      "id": "eeiImxhT/ofk",
-      "title": "AIにもサプライチェーン管理が必要？　中国AI「Kimi K3」を巡る批判でAIの調達リスクが浮き彫りに",
-      "summary": "中国の最新AIモデルを巡り、米政府高官が、Anthropicの「Claude Fable 5」をモデルの学習に利用した“不正蒸留”が行われていたと指摘した。AIモデルの調達や導入を巡るサプライチェーンリスクが浮き彫りとなっている。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news054.html",
-      "date": "2026-07-24T08:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "jqGVWkEBsxrh",
       "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model - Reuters",
       "summary": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model&nbsp;&nbsp;Reuters",
@@ -1023,30 +1023,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "UIxMIp/RN01+",
-      "title": "メルカリ、「AI活用の最前線」明かす動画公開　「なぜCTOがCHRO兼CAIOになったのか」など13本",
-      "summary": "メルカリは、自社のAI活用について紹介する動画を公開した。7月8日に開催したイベント「Mercari AI Career Fes 2026」で実施したセッションのアーカイブ動画、全13本を公式YouTubeチャンネルで視聴できる。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/24/2000000220/",
-      "date": "2026-07-24T06:23:26+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "3Tu+5zdQT/Y5",
-      "title": "海外の「Claude」や「GPT」ではダメなのか　日本企業向けai&、そのメリットは？",
-      "summary": "ai&は、日本企業向けに設計したAI推論プラットフォーム「ai& Inference」の提供を開始した。ClaudeやGPTなど海外ベンダーのAIに代わる選択肢として、AI利用コストを大幅に削減できるとしている。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2607/24/news052.html",
-      "date": "2026-07-24T04:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "+nz29ekd1sPw",
@@ -1265,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8fyQE7/ZUsyD",
-      "title": "China’s Open AI Models Are Challenging Silicon Valley’s Playbook",
-      "summary": "As access to Anthropic’s and OpenAI’s frontier models becomes more restricted, Chinese labs are pitching their open-source alternatives as stable, accessible, and increasingly capable.",
-      "link": "https://www.wired.com/story/chinas-open-ai-models-are-challenging-silicon-valleys-playbook/",
-      "date": "2026-07-22T19:01:38+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "BnPUKi96OXDL",
       "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
       "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
@@ -1370,30 +1334,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "hCDDWTmmpI98",
-      "title": "A real-life 'Her'? Korea launches first dating reality show with AI partners - The Korea Herald",
-      "summary": "A real-life 'Her'? Korea launches first dating reality show with AI partners&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyelIxNTZXc0xOdldlU3pIbEhrR0pLY0JONTJ6WW9Tb3ZxYkVvRDdMQ0NJSXBmOEI3Y09fRFdOZTZLdzgyX1diNXhjVFNJOFBwT0M4MlEyNA?oc=5",
-      "date": "2026-07-21T05:17:14+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "4FDLzNR1sMfO",
-      "title": "China considers tighter export controls on AI models and chips, FT reports - Reuters",
-      "summary": "China considers tighter export controls on AI models and chips, FT reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5",
-      "date": "2026-07-21T04:11:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
