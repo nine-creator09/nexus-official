@@ -1,10 +1,10 @@
 {
-  "generated": "2026-07-29T08:38:12.334377+00:00",
-  "articleCount": 105,
+  "generated": "2026-07-29T14:07:02.456590+00:00",
+  "articleCount": 111,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
@@ -12,11 +12,11 @@
     },
     "mit": {
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     "ars": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "venturebeat": {
       "status": "ok",
@@ -32,11 +32,11 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,186 @@
     }
   },
   "articles": [
+    {
+      "id": "p+1TVP+arwoB",
+      "title": "Is AI facing a big financial reckoning?",
+      "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
+      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T13:49:55+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "tVQ9fNHv0Hdf",
+      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
+      "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging FaceOpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than on",
+      "link": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
+      "date": "2026-07-29T12:38:38+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "t1XMtP2flI24",
+      "title": "The Download: a chip talent battle, and deflating AI hype",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Samsung’s chip workers are jumping ship to rival S",
+      "link": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "date": "2026-07-29T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "h4parDE5c9Tt",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "summary": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "date": "2026-07-29T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SipzCl6G0Cli",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "date": "2026-07-29T11:54:29+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WkUCjYF2aoVD",
+      "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters",
+      "summary": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5",
+      "date": "2026-07-29T11:50:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "B3dPFTnfiUj7",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "summary": "Deciding what's real on the Internet won't be easy in the future.",
+      "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+      "date": "2026-07-29T11:00:39+00:00",
+      "source": "Ars Technica",
+      "key": "ars",
+      "cls": "src-ars",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "sPwL4pUs6Tm6",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "date": "2026-07-29T11:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fjN5cQoo4W0P",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "date": "2026-07-29T11:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "07g98COrwfCL",
+      "title": "US to award GlobalFoundries $300 million to develop faster AI chip links - Reuters",
+      "summary": "US to award GlobalFoundries $300 million to develop faster AI chip links&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5",
+      "date": "2026-07-29T10:37:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "l7Jgnx7pGGJx",
+      "title": "More Typos, Fewer Em Dashes: Writers Are Creating an Anti-AI ‘Literary Counterculture’",
+      "summary": "Novelists, journalists, and power LinkedIn posters are embracing first-person narratives and idiosyncrasies to avoid being mistaken for chat bots.",
+      "link": "https://www.wired.com/story/more-typos-fewer-em-dashes-writers-are-creating-an-anti-ai-literary-counterculture/",
+      "date": "2026-07-29T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "P+JwVP21w1gN",
+      "title": "Boomers Can’t Stop Gifting Their Grandkids AI-Generated Slop Books",
+      "summary": "Parents are getting fed up with garbled bedtime stories that feature characters based on actual photos of their children.",
+      "link": "https://www.wired.com/story/boomers-cant-stop-gifting-their-grandkids-ai-generated-slop-books/",
+      "date": "2026-07-29T09:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "TjQMMC3ZTZVe",
+      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
+      "summary": "Drop comes after South Korean company SK Hynix’s results undershoot investors’ expectationsBusiness live – latest updatesShares in companies linked to AI have plunged further after disappointing resul",
+      "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
+      "date": "2026-07-29T08:50:26+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "yqK7TizFFes6",
+      "title": "OpenAI says its rogue AI tried to hack other companies",
+      "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
+      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-29T08:49:27+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ruek+BFkvnZ3",
+      "title": "The AI Hype Index: Unsexy AI",
+      "summary": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly",
+      "link": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "date": "2026-07-29T08:42:57+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "Eb468ttFZJNm",
       "title": "ChatGPT WorkとCodexの5時間制限「明日から再開」　GPT-5.6 Solの“トークン消費問題”を改善",
@@ -75,6 +255,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "7dSPZSFlHClT",
+      "title": "OCBC seeks to accelerate wealth client onboarding with agentic AI - Reuters",
+      "summary": "OCBC seeks to accelerate wealth client onboarding with agentic AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2RyQ2Z3ME5KcUc5eVNGbnZsZUVEQjNDY3hRaTlDcDhkRnc2Tko4WVFJbU9Band5a0dnN3ZFNkozdHNGUktFSzJ2WlVFRm9pVkVjR3BxR0dJWGpodTZ4eFJKNTRzb1BMeUhTR1ljX1FfUkxEeXM3NzdjQUFJa0YyaDQ2dkNIODRsSzIwcmtyY3NwRWdrbG1NNDlBZmVqektXS0VrNzhsdTZyOFpDaE9ydEFvRWRsR3M?oc=5",
+      "date": "2026-07-29T05:47:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "brMOcVbeFbXk",
@@ -190,18 +382,6 @@
       "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
       "date": "2026-07-28T21:27:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "/ldOqcHF76vZ",
-      "title": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead? - Reuters",
-      "summary": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWhhQmtwSDM0Rl9tNW5HeHpCaXdHY0ptNWl0TlJZSFA4UnZpQkRWSEsyWUhhendSZ204Nk5WdUpad1NQa2ZyNDRlX1UtUnNRQkU3WDdGSUNGczRaYl9fZ1NQNkNTeVNxVmNjV0ZFMmFhOW5RZ09DLTZaWGVuZUYxRGdfanRYRmROcm9Qd0lwUVJBaHo3ZEFkaUM3dkVQa19BQTA1T2tqZFNsRTMyRTh6dHVyX3V3eXFCQWxQM3lzVGpPMFlxOXJGSF92OGV3QQ?oc=5",
-      "date": "2026-07-28T21:11:22+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -458,6 +638,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/ldOqcHF76vZ",
+      "title": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead? - Reuters",
+      "summary": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWhhQmtwSDM0Rl9tNW5HeHpCaXdHY0ptNWl0TlJZSFA4UnZpQkRWSEsyWUhhendSZ204Nk5WdUpad1NQa2ZyNDRlX1UtUnNRQkU3WDdGSUNGczRaYl9fZ1NQNkNTeVNxVmNjV0ZFMmFhOW5RZ09DLTZaWGVuZUYxRGdfanRYRmROcm9Qd0lwUVJBaHo3ZEFkaUM3dkVQa19BQTA1T2tqZFNsRTMyRTh6dHVyX3V3eXFCQWxQM3lzVGpPMFlxOXJGSF92OGV3QQ?oc=5",
+      "date": "2026-07-28T10:05:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -737,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Nj2rEqJVH89P",
-      "title": "US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom - Reuters",
-      "summary": "US core capital goods orders rise, shipments post largest gain in 4-1/2 years amid AI investment boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdi1jdEZHRU5KR1lvTlloMlMxQ3g4QUpjV2s2WnpqSjhzdWI5STJldTBPakY5ZWxrNHFkdjFFNXp5SXJ1UHNoWjJSWUEyMHJnUTJYZi1vWVVJQzB2VGVhY1RMQVZTZGt1OFJGMjFvUzRCb3hVdkZlZkUwU0s2WFRJZE5yRGJJaVpBYzNQeXlhb0xPU2o0Sm1lVjZmUTg?oc=5",
-      "date": "2026-07-27T16:25:50+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "qEku/IKfx7iT",
       "title": "Google’s AI search is rapidly becoming the default, new data shows",
       "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.",
@@ -965,15 +1145,15 @@
       "articleLang": "en"
     },
     {
-      "id": "b5PpUCeKoj8P",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "summary": "Forget YouTube videos — frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings.",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "date": "2026-07-27T00:19:14+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "9zrcZmNIOWAL",
+      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
+      "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
+      "date": "2026-07-26T23:42:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -982,18 +1162,6 @@
       "summary": "Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs backFollow our Australia news live blog for latest updatesGet our breaking news email, fr",
       "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
       "date": "2026-07-26T15:00:16+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "LcoPIHTuiwEP",
-      "title": "Corporate America may be using AI to cut jobs, but small businesses are using it to keep them | Gene Marks",
-      "summary": "Reports of wide-scale replacement of workers by AI are overblown. Small businesses use it to help workersI recently met the owner of a company that sells windows and doors. He told me he invested abou",
-      "link": "https://www.theguardian.com/business/2026/jul/26/small-businesses-ai",
-      "date": "2026-07-26T12:00:11+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -1109,30 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "301ZFaD1N35h",
-      "title": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week - Reuters",
-      "summary": "EXCLUSIVE: Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc3Vadng3eFVJX2E0cGhld0pQbGMxMWlmQU1WWFFLaFA3VkdtV1FtYnpPeGs4OHZ0TzZHX2VLaE55cDlsR2poS1JxVDA3emxoVnhiSkNrUWpDOVFKWFJsb0QydHo5VWdyQTFUemh1aFdDa1RRYVJybGFhUXhrLTFVQjN5bTRoY1lFbEhuSXR1ZVFCQW1VT3pGMlBLSkFSc3E2N1dpcjVBVVdkWklwTGF3cTZraklYNkFobDFUbENwZXY?oc=5",
-      "date": "2026-07-24T22:19:15+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "u+UAKUW1s5Y9",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "date": "2026-07-24T19:06:58+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "LPqVij65xLKY",
       "title": "Nvidia, Microsoft and other tech giants back open-source AI models - Reuters",
       "summary": "Nvidia, Microsoft and other tech giants back open-source AI models&nbsp;&nbsp;Reuters",
@@ -1157,51 +1301,15 @@
       "articleLang": "en"
     },
     {
-      "id": "NYkhaDA31pvQ",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model,",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "date": "2026-07-24T17:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "DLpS4oCZzkkc",
-      "title": "US floats AI 'kill switch' to stop rogue AI models - DW.com",
-      "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;DW.com",
+      "id": "B9wmE4bGAbfq",
+      "title": "US floats AI 'kill switch' to stop rogue AI models - dw.com",
+      "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pmMjlWQlV5NExyWjdsSGhoUllpaGZCVjB0V3RZMlgxTzd6WERuZERRSWp1d2pLeTVjX2ExSFdxeUNSVWNJdmhvMXZKV0VMeEFKYm1teEJ3VXBCNEE3Wmdwd2ZJZlVKT056cE5YTUkzTXlfazdPQ1JIZTIxYmxJazlpWElDY1hT0gGIAUFVX3lxTE5ieUVZc0ZkWDhTdVU4Vkh0LVQ5d0V1ck9zdnRKME1WZUJObFA4SnBqMnhOT21uTVNKT2EwOEUzN2lqOVQyekJYZXc3eGNVM1hpbHBEN1JJU1BjYVRoQ0VyaHpxUzRZWmhRdEpLUGlxd1Vhck9YU25fb2lRZFRzbTBVN0ZFME5ycnc?oc=5",
       "date": "2026-07-24T15:30:35+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "9jhECKOCWgDu",
-      "title": "Silicon Valley Is Completely Divided Over Chinese AI",
-      "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
-      "link": "https://www.wired.com/story/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "date": "2026-07-24T15:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "SRKikuaH4j/+",
-      "title": "Some Kids Will Never Think AI Is Cool",
-      "summary": "“I think it should stand for artificial idiot,” one 9-year-old says. Here’s why kids of all ages are calling AI “disgusting” and “creepy.”",
-      "link": "https://www.wired.com/story/some-kids-will-never-think-ai-is-cool/",
-      "date": "2026-07-24T10:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1214,18 +1322,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "jqGVWkEBsxrh",
-      "title": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model - Reuters",
-      "summary": "US accuses China's Moonshot of stealing from Anthropic's Fable for latest AI model&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmY0Q290R1pzVG54MlJLSVpQVjhuUFFjRmpSTXpDSEdrWDRIUWNxMWdqNWxsZ21KX3BMWURaQzByVVZZTHVrRzJNX2dMSENoNXhUS0xvNUhoeHhrV0d2ckthc3d6YkNnM2NoV2ZjOTlna05ZbksyZjAyZDY4Q18wT2JDak5HbjFXVy1YalN1aU1nZGFTVVpheWFiemQ5WGhhUDNyN3UyWVZkVjhSMDl5UHFvSQ?oc=5",
-      "date": "2026-07-24T07:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1253,21 +1349,9 @@
       "articleLang": "en"
     },
     {
-      "id": "v+Bojf9kLUbI",
-      "title": "Google and Tesla shares plunge as AI spending rattles markets",
-      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
-      "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T20:42:33+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "H6yzeptQkRe4",
-      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
-      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;DW.com",
+      "id": "YSWO5WeUxNL0",
+      "title": "US-China AI rivalry heats up as Chinese models gain ground - dw.com",
+      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
       "date": "2026-07-23T10:32:17+00:00",
       "source": "DW Tech",
@@ -1310,18 +1394,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "BnPUKi96OXDL",
-      "title": "OpenAI says its AI model went rogue and hacked startup - DW.com",
-      "summary": "OpenAI says its AI model went rogue and hacked startup&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnM5UEVFTnNwYWQ5WXJlNHp3eWozbjhDOGxkOV9aOVJzMFRQa1p6YngxMXc3NjdhU3lOZWt0VlktZVFQOGlYWjhTOWlHZ0gtOW1DY01jTjJHbS1BRmlWUWdleks0ZzNscWRIbGludUNXaUVRRzZJam1SRTFCYUlTS1NadFhZZ3lUNTFVODZ5a3FSdWZWTVFHaXpwM3nSAZwBQVVfeXFMUGR6bnJpQUEtU1MtZThKdElrdUpTa3IweGxoM1dkLU9lZzVmRWx1YmpxRGctdm5Tb0lkanVIRnJTOUdhSTB2ZDljNzJqYmZfaHJ3cThhTzhPMFR2eVdQNkpUSlc1Mk9YV0w0cmQ1S1ZldXZXZnlxR29Ybm5YMDN2bEh3bjRCeFhrRElrR1VPWmVLRW83SmdvTXFYZktL?oc=5",
-      "date": "2026-07-22T13:17:47+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
