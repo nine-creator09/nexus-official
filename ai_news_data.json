@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-29T14:07:02.456590+00:00",
+  "generated": "2026-07-29T19:13:14.884687+00:00",
   "articleCount": 111,
   "sourceResults": {
     "verge": {
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     "mit": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "ars": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 16
     },
     "reuters": {
       "status": "ok",
@@ -65,15 +65,135 @@
   },
   "articles": [
     {
-      "id": "p+1TVP+arwoB",
-      "title": "Is AI facing a big financial reckoning?",
-      "summary": "Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.",
-      "link": "https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T13:49:55+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
+      "id": "RV/L+obD6ObJ",
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
+      "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "date": "2026-07-29T18:45:27+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SS59i3j4oCRp",
+      "title": "It’s Frighteningly Easy to Jailbreak Some Frontier AI Models",
+      "summary": "I watched a new tool try to get around the model safeguards of four major frontier companies. You might be surprised by how they performed.",
+      "link": "https://www.wired.com/story/jailbreaking-ai-models-google-anthropic-openai-spacexai/",
+      "date": "2026-07-29T18:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ws5sBO/SH6MW",
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "date": "2026-07-29T18:15:02+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WkUCjYF2aoVD",
+      "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters",
+      "summary": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5",
+      "date": "2026-07-29T17:01:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "UpF/Bd5xYz2h",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a sing",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "date": "2026-07-29T15:35:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BkqHuXer8rCW",
+      "title": "Germany's financial watchdog to monitor AI use at banks and insurers - Reuters",
+      "summary": "Germany's financial watchdog to monitor AI use at banks and insurers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR293SVpUX3cybmVITjdEQi1VT1IwQlVpcEpFT2VrZ21CSHBWLTdJY1djUHFUU2VWcUJVaDcyT2s3eEl6X1JpUzExaF9COXJBNUJOR1dnUWNRM2dPT0t5UnFtcVVzY2kwekFXd3hURlhHV2pjZFBYLVVDMDl2SmxjZGpOeFZya0dKRzZxOE95WVpJWEFBREZGdUgwSTNsWG1jMTNFcEVjc3N4b2hSRVRr?oc=5",
+      "date": "2026-07-29T15:12:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "C1GM71VR7Ono",
+      "title": "FTSE 100 hits record high despite AI sell-off",
+      "summary": "Strong corporate results buoy market as investors move money away from tech and semiconductor stocks London’s FTSE 100 stock index has touched a fresh high, driven by strong corporate results as inves",
+      "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
+      "date": "2026-07-29T15:02:28+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1YU9qU+PVF2D",
+      "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
+      "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their workGet our breaking news email, free app or daily news podcastSoftware firm Atlassian has sought to tighten t",
+      "link": "https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing",
+      "date": "2026-07-29T15:00:36+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "qyH8TSeegyWj",
+      "title": "Explainer: What are credit default swaps and why are they spooking AI investors? - Reuters",
+      "summary": "Explainer: What are credit default swaps and why are they spooking AI investors?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTThBZ09ZOU5fYTBQa0NWUWRteDMzeEItek16REUwNzdMQ2xsNURxU2pzU3hrd1pIQ0tXUzh0d1F5LTFRVmF6dkozMzhySTVXZEROdWkxd2pTRmlReGVZQlpZdUZnRkZyN1R4aEY2ZjUwTVJ1T1dZaTU0VnY4MVd6UXIzeHdMYVly?oc=5",
+      "date": "2026-07-29T14:59:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "9so1NKtM6TqP",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "date": "2026-07-29T14:41:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-07-29T14:14:04+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -125,20 +245,8 @@
       "articleLang": "en"
     },
     {
-      "id": "WkUCjYF2aoVD",
-      "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters",
-      "summary": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRkRHaGJwMjZBLUt2QTBKcTQ2TXJIclVZdjNDSUF6U1d3aFFTa0FtMHIzYXBxNmxRanlKNjA3eG1KYU1uY255d3JhS2dQb0l3dHJUd0ptSk5rSDhGT2xMdlZCVThNMENpMHJYaVZXZjVMMWZRMVlma2MzRER1WlZZMlNSMjRsNWpDYjRZb0hYaENfVks0cVlBMDVBRnJIakdMYUVRTWVmVlk2UDRzT05tZ2RmMVYtb0ttaVFj?oc=5",
-      "date": "2026-07-29T11:50:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "B3dPFTnfiUj7",
-      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+      "id": "NbT8L77HpP2p",
+      "title": "Google's SynthID watermark is hard to break, but it doesn't solve AI disinformation",
       "summary": "Deciding what's real on the Internet won't be easy in the future.",
       "link": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
       "date": "2026-07-29T11:00:39+00:00",
@@ -209,18 +317,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TjQMMC3ZTZVe",
-      "title": "Shares in Asian chip firms plunge further as AI sell-off continues",
-      "summary": "Drop comes after South Korean company SK Hynix’s results undershoot investors’ expectationsBusiness live – latest updatesShares in companies linked to AI have plunged further after disappointing resul",
-      "link": "https://www.theguardian.com/business/2026/jul/29/asian-chip-firms-shares-plunge-ai-sell-off-stock-markets",
-      "date": "2026-07-29T08:50:26+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "yqK7TizFFes6",
       "title": "OpenAI says its rogue AI tried to hack other companies",
       "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
@@ -255,18 +351,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "7dSPZSFlHClT",
-      "title": "OCBC seeks to accelerate wealth client onboarding with agentic AI - Reuters",
-      "summary": "OCBC seeks to accelerate wealth client onboarding with agentic AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ2RyQ2Z3ME5KcUc5eVNGbnZsZUVEQjNDY3hRaTlDcDhkRnc2Tko4WVFJbU9Band5a0dnN3ZFNkozdHNGUktFSzJ2WlVFRm9pVkVjR3BxR0dJWGpodTZ4eFJKNTRzb1BMeUhTR1ljX1FfUkxEeXM3NzdjQUFJa0YyaDQ2dkNIODRsSzIwcmtyY3NwRWdrbG1NNDlBZmVqektXS0VrNzhsdTZyOFpDaE9ydEFvRWRsR3M?oc=5",
-      "date": "2026-07-29T05:47:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "brMOcVbeFbXk",
@@ -434,6 +518,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YPXcFR9MNIgg",
+      "title": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets - Reuters",
+      "summary": "AI startup Runlayer sues HR technology firm Rippling for allegedly stealing trade secrets&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaXhldzh1M2JwdHNBODR4OGFfVGE1ODdKVjNnVkNBREZDTDRmUlNMZEpjMHlPbU5MRlZLNUx6QUhnbjRtNGt2b054bkxMWmVCOWozekx6M0pWNnowMW9SX1dndTNSX3h5ODROZWxoWHlfVm1TX2ZkQVcxZlYybFR5SHVNNE01OWhNZUx4UVNHX01Gc0Y4b2V5a1Fsb3VZZTZKQU55QXZfY1F6dl9JYy1QWlJoV2JxWnM2RFQxMDd3?oc=5",
+      "date": "2026-07-28T19:43:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -809,18 +905,6 @@
       "articleLang": "en"
     },
     {
-      "id": "HprO7EK1R/85",
-      "title": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand - Reuters",
-      "summary": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkRDRU9XdVFCNDNXeU5OZmo2UkZ0ZWRGemJsREZSUDBzU0Uxd2pLb01Tc19DVkYxekYwN3Z0S3o3U0l2ZXo2eG5CY1JkdlFUZWlJMWw5LW5nVk5zdzdiMENfNnFweld3UWw2UmRQNjBoUHQxYnJadHRfalZjN3paZzZMUUVjQXVId1dGMFBrVXU5OHlNdnhRUmxsbi1YdTBLdHJBbkpnT1N4NW1GOTBiUmwzcEJtUlNXd19fNmNGRQ?oc=5",
-      "date": "2026-07-27T20:48:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "7P12PNNZxCeP",
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
@@ -965,18 +1049,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/vVhP0OeRQ5/",
-      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
-      "summary": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
-      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
-      "date": "2026-07-27T15:01:50+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "mHUBUZZFF7of",
       "title": "Moonshot, DeepSeek and chips: a guide to Tencent’s growing AI empire - South China Morning Post",
       "summary": "Moonshot, DeepSeek and chips: a guide to Tencent’s growing AI empire&nbsp;&nbsp;South China Morning Post",
@@ -1013,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qQj/QDTT6mgZ",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "date": "2026-07-27T12:06:22+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "wsAvPVjsLahd",
       "title": "The path to artificial superintelligence",
       "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they",
@@ -1042,18 +1102,6 @@
       "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceutical",
       "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
       "date": "2026-07-27T11:40:16+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Uzcnon5y8GzG",
-      "title": "Building the enterprise environment for agentic AI",
-      "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems",
-      "link": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-      "date": "2026-07-27T11:32:58+00:00",
       "source": "MIT Tech Review",
       "key": "mit",
       "cls": "src-mit",
@@ -1142,30 +1190,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "9zrcZmNIOWAL",
-      "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
-      "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "date": "2026-07-26T23:42:29+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "rGBEHB/P7JqQ",
-      "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
-      "summary": "Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs backFollow our Australia news live blog for latest updatesGet our breaking news email, fr",
-      "link": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
-      "date": "2026-07-26T15:00:16+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1289,21 +1313,9 @@
       "articleLang": "en"
     },
     {
-      "id": "7wqaFww5MSAH",
-      "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from  Anthropic, and how the US Army needs to cut back on AI use.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast/",
-      "date": "2026-07-24T17:53:01+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "B9wmE4bGAbfq",
-      "title": "US floats AI 'kill switch' to stop rogue AI models - dw.com",
-      "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;dw.com",
+      "id": "DLpS4oCZzkkc",
+      "title": "US floats AI 'kill switch' to stop rogue AI models - DW.com",
+      "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT2pmMjlWQlV5NExyWjdsSGhoUllpaGZCVjB0V3RZMlgxTzd6WERuZERRSWp1d2pLeTVjX2ExSFdxeUNSVWNJdmhvMXZKV0VMeEFKYm1teEJ3VXBCNEE3Wmdwd2ZJZlVKT056cE5YTUkzTXlfazdPQ1JIZTIxYmxJazlpWElDY1hT0gGIAUFVX3lxTE5ieUVZc0ZkWDhTdVU4Vkh0LVQ5d0V1ck9zdnRKME1WZUJObFA4SnBqMnhOT21uTVNKT2EwOEUzN2lqOVQyekJYZXc3eGNVM1hpbHBEN1JJU1BjYVRoQ0VyaHpxUzRZWmhRdEpLUGlxd1Vhck9YU25fb2lRZFRzbTBVN0ZFME5ycnc?oc=5",
       "date": "2026-07-24T15:30:35+00:00",
       "source": "DW Tech",
@@ -1349,9 +1361,21 @@
       "articleLang": "en"
     },
     {
-      "id": "YSWO5WeUxNL0",
-      "title": "US-China AI rivalry heats up as Chinese models gain ground - dw.com",
-      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;dw.com",
+      "id": "v+Bojf9kLUbI",
+      "title": "Google and Tesla shares plunge as AI spending rattles markets",
+      "summary": "As major tech companies race to capitalize on a new wave of AI technology, investors wonder when financial benefits will appear.",
+      "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23T20:42:33+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "H6yzeptQkRe4",
+      "title": "US-China AI rivalry heats up as Chinese models gain ground - DW.com",
+      "summary": "US-China AI rivalry heats up as Chinese models gain ground&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMU9HTVR2emZCeEU5SmdSbDlQTzRsNmpHbTRhcTNfbFpkNktxTlVqcVFRNEZnUERVS2pScGQ4dmFrNkhKSldBNUF3ZTFIdDZMT1QtUFUzNEtUd0IxUXVyaFB6M1NRUkZBQXJEajkxREF0dXZUdmtrQng4Y0tDeGo4VTU4ZDhPaUVrYl9mZS1BT0ZkN3F0OUHSAZYBQVVfeXFMTWRqV1RxQmloamtTd0RpNzVfQUYtd3BRZmR5VUk1R25Pbi00RWZfX3dqcl8wOXZnX0lRM1NpVnpxUmdNVktCZG5uV1lpWG9qY3FEYWV5SnF5MVhGOWY2UXh6cG1NY3pwVm55VmtzVVZ3YVlvWHRBTFNKblY4ZDctR2YxdlJDVzB4TVRyZTY0dGRxai1RRzlR?oc=5",
       "date": "2026-07-23T10:32:17+00:00",
       "source": "DW Tech",
@@ -1361,35 +1385,11 @@
       "articleLang": "en"
     },
     {
-      "id": "GLFvMSs8YACB",
-      "title": "China’s tech firms push beyond hardware to power the global AI boom - South China Morning Post",
-      "summary": "China’s tech firms push beyond hardware to power the global AI boom&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlRZMnpNREo0YVBJOTMxT2lRVmNzT2dyWE1BZVRnMnR2S2NiODlpSjZ1STZ2YVhvT1RIY1ZKZkdNVnROdmVMTEF5Ny03Q2p3VnRDMU1nZjBoUDI5TkN6T29RTjk1UVI5OFRQdTJUNi1NOWpZR0Z1YlBmeWFDZER4bklUeDJvLVdJWUJCQy1fTkdCMkZsX2NRZUxaX3FUZ0trX2dBckVraHJfOWwyak5jYVdKVzB6aGFuTTdCTnNEMmRnNl9lRy1J0gHHAUFVX3lxTFBYSXlfbXhSZDgyWWRwVFpRclFDS3Y5UXQ4bFlDUUgxSGJtLWZUWlllQW9ucUhQQlJnTm9RVlFKSldiZE9uWmY2dnZFaTlpaHI5aGNUTUZ3TGpULWw5OXpmdmFkMEg2eGhPT1M1STNMdmdGYnFJZU0yaDdFNWgxM1F3UzM0cmxmWTcwOWZtc2R3VWVkTzg2cy1VdWVGazEwRW5SOWpqbE0zSGZ6RG1qa29HQ2RfcDlsNnRqVG10MWpRX3doWi1Gczg?oc=5",
-      "date": "2026-07-23T10:00:17+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "tzEIxyDB5IFK",
       "title": "Chinese chip stores data with a single electron, breaking AI memory bottleneck - South China Morning Post",
       "summary": "Chinese chip stores data with a single electron, breaking AI memory bottleneck&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObldnT2xwQ0ZKdTgyMkNqV2NaUjREelhxd2F2YjV6WnJLTmthNEh6OUg3VVI5NE1pS1huUlU0dm8xRUV0ZW85VjRyNm5qcDVnSU9OZTZvR0xiSnFLNXFQSTM0OFBIcVEtX2JSR1ptWV84SEhzZ0FRRzlpUjhQWHRQaTl1enozQ2dRb0FRamVNdkNPbnhQUGRhN09nS0FnbGV0aHpYYjI3WUlmamxLMGxzXzUtTzl6MmpLR0JOTWdwZ0tsUm8xZDhsZtIByAFBVV95cUxOSnpWSngybG9ycG5fOV9DS3dLN2kwcXJMN0JGNHRYamJVZElNR0w0UG1fOVZtdk5LZWdQLW1TM2FMTG1QSng4VS1LNGliN1N2VkNqeFNYWFZxUkR1QkNMd3g3S1lkTjZYQm42R252TWNoWmlBTVdjTHVkSHZ5bGx1SktNNjJHd1Boa3Q5azRib3Q4S0V4SFl2RFA5Z1lOWjZRYkpyNkFNVnF4WVV1Y2NzeHFhcXlJSDBBU2FOcWwxUjRKa2QxeE1zbA?oc=5",
       "date": "2026-07-23T09:00:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "I93vwZ8nBexq",
-      "title": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic - South China Morning Post",
-      "summary": "Trump tech official accuses China’s Moonshot AI of stealing from Anthropic&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ2E3ejc4ekprbERoNmJhLWlURDNxeDBMSjgwdFlhNkhoUmhxN2RmMklsMm5EaDFFMmJNbHpiYjdtWGhXNGZacEZWVmFSX2NhLUVzWkpsa091eHBhQWg0YVpvTGFHWGJaMHNPZVpwOXFLVEVIUnl0VndyckliTE9IUGdYdTl6bGQwbG9kcnlsWW9fbC0yRFh5U0pWMW5sYmpJdHJndlVHTmMtZDhwTU94dzRnMFdjZzRBZFdZYtIBvAFBVV95cUxONkt3clRyNTA5ajNydjRzbjdmUU5DbFZMY0dQaF9xWnlrRjdkWDJjOENJM3JEZHZMQVdmd0Q0RVJvOWZYU1Bwa29rU0RGdC1IWXc5bmFiMmtmSlBoS1hVQ01pd0xEbWVLcTBxZVM5bjBNWGlTTTl6eHNmYlllUXBGSVkyYWNMVlRRbTl1ZnpWVkFLQ1JxUC1UMmp6TjJTU285UFpLa1BpYW8tZjhLYTZfekN5R2M5bVlFVUZneg?oc=5",
-      "date": "2026-07-22T19:32:25+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
