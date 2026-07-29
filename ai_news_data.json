@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-28T19:21:06.512156+00:00",
-  "articleCount": 106,
+  "generated": "2026-07-29T02:30:50.355252+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 13
     },
     "mit": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 14
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,71 @@
   },
   "articles": [
     {
-      "id": "milm3BvjD4x9",
-      "title": "EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout - Reuters",
-      "summary": "EXCLUSIVE: Trump administration to ban new Chinese robots and inverters, protecting US AI buildout&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
-      "date": "2026-07-28T19:06:09+00:00",
+      "id": "mtPOaC5Kgb4D",
+      "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+      "summary": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+      "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+      "date": "2026-07-29T00:15:30+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "sLkX1e60EU+F",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary": "The deal is Cyera's third acquisition this year.",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "date": "2026-07-29T00:09:05+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "zDYUsTLlgDk4",
+      "title": "How to keep your Claude chats and Google files private",
+      "summary": "Some ‘private’ chats and docs are showing up on search engines. Here’s how to protect yoursUsers of Anthropic’s Claude chatbot were surprised over the weekend to learn that some of their conversations",
+      "link": "https://www.theguardian.com/us-news/2026/jul/28/how-to-keep-your-claude-chats-and-google-files-private",
+      "date": "2026-07-28T23:15:37+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "xJDAbwS3oHUy",
+      "title": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says - Reuters",
+      "summary": "EXCLUSIVE: OpenAI's rogue agent compromised a customer at a second tech firm, executive says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHBXRTBZX1RmZjlnU2owVWlZMW5TMGtzR3JyWVRrcWpUblNaTjg3ZXUyUmQ0Z1JTNVVHRERkN284N0o4SFZ0SGdvTnR0ZG5hTEo0b1pkOU0zTHFRZ01OV0tIRFNnQ1YwMThhYlBBTjgzOFN6bE90aTdIV0htb0xJNldUTUxTUm91TzlyWVFRaE5tSkFHWGhXWXdzQVpWTDRWc2dIOTU1X25lLXViRVRWcm5qMTc2TnM?oc=5",
+      "date": "2026-07-28T23:13:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "BBLibr8iIuzV",
+      "title": "Anthropicのミュトス、暗号アルゴリズムの新たな攻撃法を発見――耐量子署名「HAWK」の強度を半減",
+      "summary": "Anthropicは、最上位モデル「Claude Mythos Preview」（ミュトス）を活用し、暗号アルゴリズム自体の数学的欠陥を発見したと発表した。耐量子計算機暗号の署名方式「HAWK」と「AES」の削減版に対し、従来の攻撃を上回る手法を提示した。実運用システムへの影響はないものの、AIによる暗号解読や構造解析の新たな可能性を示す成果となる。",
+      "link": "https://www.itmedia.co.jp/news/article/2607/29/2000000256/",
+      "date": "2026-07-28T22:50:56+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "KSdFKUUtuZR0",
+      "title": "Tech employees call for US-backed global effort to manage risks of advanced AI - Reuters",
+      "summary": "Tech employees call for US-backed global effort to manage risks of advanced AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZUdKZ0lPNURncWhtWjRjSDFGa2Q5U1V1NzdKcEVRcEJCZEo4Y1daZVF0RTd4OGdhekdaVkZBYW10YTlXaUtmZGNEZGNGUG9ZVTBwRTFhUXUzRjhnTjdZRFFHR0YtdjFheHFrMkVrLTF4THNZQUl4QkQ4cno2OExITkkya214MWlGRzh0VDlLNFBSNGw0bTVheFFKaWkyNlpsdk05bC1ILXJ6aUZnVDlQSzU1RFBkSUpYUzNVZWRn?oc=5",
+      "date": "2026-07-28T22:30:42+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -81,11 +141,83 @@
       "title": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead? - Reuters",
       "summary": "Brazil's Bolsonaro is barred from this year's election. Can his AI avatar campaign instead?&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWhhQmtwSDM0Rl9tNW5HeHpCaXdHY0ptNWl0TlJZSFA4UnZpQkRWSEsyWUhhendSZ204Nk5WdUpad1NQa2ZyNDRlX1UtUnNRQkU3WDdGSUNGczRaYl9fZ1NQNkNTeVNxVmNjV0ZFMmFhOW5RZ09DLTZaWGVuZUYxRGdfanRYRmROcm9Qd0lwUVJBaHo3ZEFkaUM3dkVQa19BQTA1T2tqZFNsRTMyRTh6dHVyX3V3eXFCQWxQM3lzVGpPMFlxOXJGSF92OGV3QQ?oc=5",
-      "date": "2026-07-28T18:57:32+00:00",
+      "date": "2026-07-28T21:11:22+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ewvORaz1rBEG",
+      "title": "Apple becomes second $5tn company as investors flee AI stocks",
+      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as",
+      "link": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
+      "date": "2026-07-28T20:33:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Um08+Uy4phl8",
+      "title": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment - Reuters",
+      "summary": "Coursera backs co-founder Andrew Ng's new AI education firm with $100 million investment&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDBBczc5Q21jMGFpRUdBbUJwWHBqem9mZDJFel9GMTlxVzFXWjEwMEhYSERVd2pPZ1Uzc2JXbGZQWG96aUdCaW9LRFlLaHRsYldNczltR2tmTmg1VmlYUkNyd3ZKRnB4NGxvaXkzeWlvWE1rSlNMdEFUTlVzSThFaGZrdjY3dF9wQXFyQ3dFR3NHdEdnekRSVDJfWDZLS1NtbEx1U3JSTF9VTHowU2c3UTV3OEVWQlozSm1zNFVtaw?oc=5",
+      "date": "2026-07-28T20:09:48+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "mYrlLxoe4iwN",
+      "title": "Tech Life",
+      "summary": "What do we need to know about agentic AI?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-28T20:00:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "rxKYsMh/5tlR",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "date": "2026-07-28T19:46:43+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xi2gwZWEQYSD",
+      "title": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout - Reuters",
+      "summary": "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5",
+      "date": "2026-07-28T19:40:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "OJTxIekIzEm4",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion.",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "date": "2026-07-28T19:33:03+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -125,15 +257,15 @@
       "articleLang": "en"
     },
     {
-      "id": "r2FApImF9f5a",
-      "title": "Apple becomes second ever $5tn company as investors flee AI stocks",
-      "summary": "Share price rally driven by strong product demand as well as decision to sit out AI spending race, amid wider tech sell-offApple has become only the second company to pass the $5tn valuation mark, as",
-      "link": "https://www.theguardian.com/technology/2026/jul/28/apple-second-ever-5tn-company-as-investors-flee-ai-stocks",
-      "date": "2026-07-28T16:51:56+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "muE4BbToA7t4",
+      "title": "BIS says AI boom risks clouding central banks' inflation signals - Reuters",
+      "summary": "BIS says AI boom risks clouding central banks' inflation signals&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0hLeXNSalJDcEUxMVNMODJtU1RkRTAwNmRMUmI5ZzRnNVVwREI3SXU4Z283UmFadGxrTFdPQTFRbnZyMk5DN25XeE4zYnNHWnZGc1UzdXNVMTd1R2RsWXdkZWRLbEphdlNrV01ySTRJNzVsNUJuZmFPR0VndnlxTWYzSjhoNU1YTVdlMXJ0ZzF5eWlMUndRSmxQQ2pWTzFPb0U0UDluMTN3dVNud3dYNkJBNkIzaHc?oc=5",
+      "date": "2026-07-28T16:56:01+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -377,18 +509,6 @@
       "articleLang": "en"
     },
     {
-      "id": "H6R8mvbMVuGy",
-      "title": "As Musk loses US$130b, Chinese chip and AI founders’ fortunes rise - South China Morning Post",
-      "summary": "As Musk loses US$130b, Chinese chip and AI founders’ fortunes rise&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZ2oyaXd1Rm9tVHNNQWRDbFNUVGFVZTZhTy14TVdOUkZtUHpLZ1diVmNTR1QwMXl6cnRXQjRoRjJpT3BmNUtCbzJBMVBBLXFqdjRISFAwMmE5SEZKRG15UnFibXhsUzJXYjBfVV92d3VPNW1zSjhPRVBISnNlTURkYzdPOWc4bXBvYnJ4aENrYW5qNWpjYTBTcnBHMnZqbUZJYncyQ3lxYm5TemZmRDdrVXhWMXkyUlZSaTZBQlJ2UlZCZUhuV1pPSS1fa19tbVJla04yTU9TVm_SAdgBQVVfeXFMT2JuQjRqVWprazJZaG9pN2d1MWtiWVlnbnZ0b2hWcnAtblU3UmFLcjl5OTJCWE5TUjFSRVVsSjRLa2JYOTctSXVWcHhuUmxxTkVyWGp4eUhMaEZxdURrR0p4TzdfbjFnUFlua3A4cUFqV1lOX1IzVTFZZFhRaDM5WXBLbHRZa1NGNUsyaktQTlQyLUUySlJHNDFlSjZyYzFwaHhCbDZYZk9KMEEtM1UtclFENGsxVDZ2SWlfUllpbDZDZVlmb2hqT0JmVFFzNUQ2SkFWTmNmdGdQ?oc=5",
-      "date": "2026-07-27T23:30:18+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "xPrSo2gUAT4C",
       "title": "NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立",
       "summary": "NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する防御資産としての重要性を主張する。",
@@ -422,6 +542,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "HprO7EK1R/85",
+      "title": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand - Reuters",
+      "summary": "Applied Digital beats quarterly revenue estimates on surging AI infrastructure demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkRDRU9XdVFCNDNXeU5OZmo2UkZ0ZWRGemJsREZSUDBzU0Uxd2pLb01Tc19DVkYxekYwN3Z0S3o3U0l2ZXo2eG5CY1JkdlFUZWlJMWw5LW5nVk5zdzdiMENfNnFweld3UWw2UmRQNjBoUHQxYnJadHRfalZjN3paZzZMUUVjQXVId1dGMFBrVXU5OHlNdnhRUmxsbi1YdTBLdHJBbkpnT1N4NW1GOTBiUmwzcEJtUlNXd19fNmNGRQ?oc=5",
+      "date": "2026-07-27T20:48:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -737,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "u+Nanr3cFXTp",
-      "title": "Z世代に聞く次の流行、「AIイラスト」が1位に　「Claude Code」も上位",
-      "summary": "2026年も下半期を迎え、「Z世代」の若者たちがこれから流行ると思うものについて、市場調査会社のアスマーク（東京都渋谷区）などがインターネットでアンケートを実施した。",
-      "link": "https://www.itmedia.co.jp/news/articles/2607/27/news092.html",
-      "date": "2026-07-27T10:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Oqj7/vDOCmd5",
       "title": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
       "summary": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answersThe AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, hu",
@@ -801,7 +921,7 @@
       "title": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports - Reuters",
       "summary": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center, WSJ reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQemxoQlhRcXdJWU9ITnV3LVJxNV9kYzVBanFYWUdVTE9oTVYwcnJCakp6aU9GWHJaeTM2eEdhdzFXVjRPT0J4cUZ1VmtOSnZ3WWQ4TkdmVnY0VnQ2R29LUUV5c1VoMnNiSFZ4enhhR2pEVFNvLVhLejFjN01tOEZpcGdWQ1RWbGNUUXdWeWNZN0s4N3RKcEMxeE9TdnZHYXVaQ3VYNHRPc1JyX1FSUHRkc0xjbkdCcTA4ZGFTdVZjU1M1akxSMEJxc1VnMW1ic1RFbEx1QTlB?oc=5",
-      "date": "2026-07-26T23:39:00+00:00",
+      "date": "2026-07-26T23:42:29+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -818,30 +938,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "M64OvxIPH4vS",
-      "title": "Making sense of the panic over Chinese AI",
-      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "date": "2026-07-26T19:40:57+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KBzDEcaCCXDz",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "date": "2026-07-26T16:33:13+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -881,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Xj7WxNi07WIa",
-      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "date": "2026-07-26T01:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "thjkcMzVy2xE",
       "title": "Opinion | The West is debating AI’s future with half the world absent - South China Morning Post",
       "summary": "Opinion | The West is debating AI’s future with half the world absent&nbsp;&nbsp;South China Morning Post",
@@ -914,18 +998,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "7mo/N8QSvfu4",
-      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "date": "2026-07-25T16:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1097,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "EEGdIqEKPorX",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "date": "2026-07-24T17:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "DLpS4oCZzkkc",
       "title": "US floats AI 'kill switch' to stop rogue AI models - DW.com",
       "summary": "US floats AI 'kill switch' to stop rogue AI models&nbsp;&nbsp;DW.com",
@@ -1121,18 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ao93J2ccg4xk",
-      "title": "Is AI already beyond our control? What will we tell our kids? | Fiona Katauskas",
-      "summary": "It’s no bedtime storySee more of Fiona Katauskas’s cartoons here Continue reading...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/jul/25/is-ai-already-beyond-our-control-what-will-we-tell-our-kids",
-      "date": "2026-07-24T15:00:19+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "9jhECKOCWgDu",
       "title": "Silicon Valley Is Completely Divided Over Chinese AI",
       "summary": "The AI “startups” worth billions of dollars are raising alarm bells about Chinese AI. The smaller players have a totally different take.",
@@ -1141,18 +1189,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ruj+HtxBghn3",
-      "title": "The tech-broification of American science has officially begun",
-      "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp",
-      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "date": "2026-07-24T14:43:55+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1229,27 +1265,15 @@
       "articleLang": "en"
     },
     {
-      "id": "1bQanrM0GuAw",
-      "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
-      "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
-      "link": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
-      "date": "2026-07-23T18:45:52+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "FrLb4yoTzeCA",
-      "title": "'Let's enjoy the ride' says Elon Musk, as AI fears mount",
-      "summary": "Talking to The Economist, Musk said he doesn't care if people hate him and said he was not a racist.",
-      "link": "https://www.bbc.co.uk/news/articles/c4gkxppljpyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-23T11:39:11+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
+      "id": "q3GDtlSfDgvb",
+      "title": "AI experts blast US claims of ‘IP theft’ by Moonshot’s Kimi K3 - South China Morning Post",
+      "summary": "AI experts blast US claims of ‘IP theft’ by Moonshot’s Kimi K3&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzVKTU16UlBkeVFacndLYnRoZlBNclhpQ1hmSUVZc2dKQUM2X3lETFVCNDFXclZQWDh6dU90RzBQYXZVcWtzX01wdmVwNWFrdHFzN2FsT0ZoM3RLRW5uemYxQ0FmYmNiMUtNcTQ4ZGVhMkNmbnVOaV9FNkZrSW1lU190c0FUZ3ZvbnJTbElPTVpfeWd2OTV2cnFrbUJ3OWcyX296RVdPbE40YmdUaUFvSnJJem9BYkZnRFFjMXdJaFpMZGZWdExaWkpOalphZ9IBzgFBVV95cUxNZTBkckJCU094NnZvWHV5dlU0d0NrVkRwQ2tMYVNfaFJlaktIRmd5d0t3clRnQU5oUndWNFNFakV4b0VnS1loaTgtS1JZZUJZMW5zTG9aRmFNMW5keFc4N0dvVGtvU3RiOFhsaldLQ01ONkZaRjMybzBMeG14bGs5Mkt4UHVBYW9NQXVDbS12Q2JZdFlieTFWbUF3dEE2Nl9sR1lraDY2RjV5ZlRDNVBOc2E0OHJJWlk0WWVncjdfX0ptZ3BJUDN0ZmFaMzA2UQ?oc=5",
+      "date": "2026-07-23T12:30:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1318,18 +1342,6 @@
       "summary": "RedNote’s AI model is first to achieve flawless score at maths Olympiad&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmFpN1RHSl8tN0xRdHJ0OXlJTkpjT29EeXMwSmNwTE96c2p5WndveDFyQ01HNkZkUmVuNEN0dHVnMmVfenNMSlExOWpOM1NiZ3pzdXZfUjFpMnRLMGx4aE5zRGZVX1FCZW9pS3hfZEpZcmROTDdRVzZldGNndGJ1Mko0OTZiZXNsUVQwSnpTcEFncWJ4bkpQWGRzWHYxcFJFZlNYWUVlczREMFFBMGZSaDJIR3l1N3dNOWfSAboBQVVfeXFMTmVodWVvQjNWTXpYeElkQUFjUzUxZlJDNWZJLW5ad1B2THhTd1IxaENyZVNQYzhnZTlZOUFHYTBMNFdVeXBGY01fWEN6U0lvSEZ6WUwweUlnZ0pHZUQ4T0Z0QVh6endqNGV6R2ZoUVNZSFk1NW52ZlpESzlCdm5QTTNrTVVKcUtQa2p6QVFwSGhIeENzYkY3c3JGaVNwUzRjeDF1bUZGS1gzWWs4Sm01bGRWNXZ5ODhOOEZR?oc=5",
       "date": "2026-07-22T12:30:15+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "gO3CpfHAnYua",
-      "title": "Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology? - South China Morning Post",
-      "summary": "Exclusive | Can the US and its allies break China’s grip on rare earths and AI technology?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWFvU3pwOXFxUFBuUmgtUXdZR2tYdDJoZ19EMVZDb2x6ZUg3QjNpa3ZGYmUtcHZxLWs3TE44a05lQlFIWDMxalZsV29mZUtsVUJhNHpPZGRYdl83SUZlS0paV25wVVk1Z3hudkNPaVBYOG1fSXpCUEFqWnc1dElZS2l0UFFudUxXVmxQV1ZqalN4aXRsdElsRVhyb20tcEJYWWRaNTBZWnBZeGdKeFR5UVhvSW5YeUppQ3BvbWRmek1INHRibUHSAcYBQVVfeXFMTUIzZ0d4ZGVoVDdaNWJncXRCM0hXM0xwMXAyMEUxUzgtME5UOUVVSzVYUHFvME5hbWMzVVJEVXlOQ3NVaDFsZThRcUNUZ3JVUFZMMWtrUlBCd1pqNE9pN1h3dzBsVU1oQW84M1g4b3hJTXhwTVZpUHQySFl6ZEVMdmg0YUFUYjV0b2xTLTNRYVdUbU5BX2RpLUhhbXU4TDVSTlNDREFNcGJYN1ZUaDJ5VnRxNHhJc3p4dms2R25OTGRiSy1aT09B?oc=5",
-      "date": "2026-07-22T01:00:17+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
