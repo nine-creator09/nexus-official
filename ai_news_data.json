@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-01T08:18:06.312218+00:00",
-  "articleCount": 117,
+  "generated": "2026-08-01T13:17:08.185027+00:00",
+  "articleCount": 115,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 22
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,42 @@
     }
   },
   "articles": [
+    {
+      "id": "V+lAhEoCL77u",
+      "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+      "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industryOver the past month, a series of advancements in China’s artificial intelligence, chip manufa",
+      "link": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+      "date": "2026-08-01T12:00:53+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "i9hHX8jzD3Tz",
+      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
+      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
+      "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+      "date": "2026-08-01T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "R+8G/TWRAFux",
+      "title": "Nobody Knows if OpenAI’s and Anthropic’s AI Hacking Sprees Are Illegal",
+      "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+      "link": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+      "date": "2026-08-01T09:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "ApO1W0z9x53t",
       "title": "US lawmakers investigate DoorDash’s use of Moonshot AI’s Kimi K2.6 model - South China Morning Post",
@@ -365,6 +401,30 @@
       "articleLang": "en"
     },
     {
+      "id": "bvDAnQimalmZ",
+      "title": "What is AI model distillation and why is it becoming a US-China flashpoint? - Reuters",
+      "summary": "What is AI model distillation and why is it becoming a US-China flashpoint?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc?oc=5",
+      "date": "2026-07-31T09:04:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "yUMx75Efz3BP",
+      "title": "Anthropic says Claude AI hacked three companies during tests - DW.com",
+      "summary": "Anthropic says Claude AI hacked three companies during tests&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5",
+      "date": "2026-07-31T08:48:50+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "CKDsVKkj9SvT",
       "title": "EU aims to build AI gigafactories of its own - DW.com",
       "summary": "EU aims to build AI gigafactories of its own&nbsp;&nbsp;DW.com",
@@ -401,18 +461,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bvDAnQimalmZ",
-      "title": "What is AI model distillation and why is it becoming a US-China flashpoint? - Reuters",
-      "summary": "What is AI model distillation and why is it becoming a US-China flashpoint?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN3E5WURUSGY0XzgwWkpzN1BZcElmbnQ0anhTSTRETHU5bHJRQ0Q2VTJpLUlBcXljWGlSX0U0QUhaVVJMTXZGN1hfbVFBU3RZckxBQW40bG52b0NKYkM5SEpobExSRDVIaENMYUpJZzUtaDFwNWZndk1jY2h1TE9Pc2VDZzdCaUJGcUJ3M2Jjcml4Nm54MDFnaVg3c2tlQ3lQX1dQSXhTeHFWR1l4Y3o2c3h1UjJONnc?oc=5",
-      "date": "2026-07-31T06:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "mvi29e8P+8W0",
       "title": "EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems - Reuters",
       "summary": "EXCLUSIVE: Chinese military researchers tap US AI models to train defence systems&nbsp;&nbsp;Reuters",
@@ -422,18 +470,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "yUMx75Efz3BP",
-      "title": "Anthropic says Claude AI hacked three companies during tests - DW.com",
-      "summary": "Anthropic says Claude AI hacked three companies during tests&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5",
-      "date": "2026-07-31T04:03:27+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -857,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Zd2JMlsv6X6+",
-      "title": "Gemini Robotics 2 Brings Google's AI Into the Physical World",
-      "summary": "The latest version of Google DeepMind's AI model includes a significant jump into “physical AGI.” But plopping AI into the real world comes with risks.",
-      "link": "https://www.wired.com/story/google-gemini-can-control-humanoid-robots/",
-      "date": "2026-07-30T15:04:22+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "oCcILUW8M+Lk",
       "title": "AI before AI: The forgotten Soviet programme (1/2) - France 24",
       "summary": "AI before AI: The forgotten Soviet programme (1/2)&nbsp;&nbsp;France 24",
@@ -941,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "KsC8NOGCigW4",
-      "title": "OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "summary": "If the generative AI giant had followed well-known security best practices, it’s likely that its AI agent would never have escaped to the open internet and hacked multiple companies.",
-      "link": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake/",
-      "date": "2026-07-30T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "XqW4CD7I1C9+",
       "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
       "summary": "Chief executive says the four-year plan will lead to greater efficiency but gives no details of potential job lossesBusiness live – latest updatesLloyds Banking Group will cut another £2bn of costs as",
@@ -1005,7 +1017,7 @@
       "title": "Consumers, AI spending likely supported US economic growth in the second quarter - Reuters",
       "summary": "Consumers, AI spending likely supported US economic growth in the second quarter&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSEJVd3R0YlpMMm1iNXVyUzNnTHN6X1hWT3pmcEV4aS1mSnZTYmV4d0l4SzhMNEJmeXhCVHpBNk1tQXo1Q1dtZ1BqYi1SN1IydFVXT0Y4MjZKWkp2enU5MzB0UTFEUlJnVERrSXJlYlVUTmhvUWFXMHhjSU94aW5tYkt1MURkVkVXa2k4WFhrM244RTBwcEtYaFM4T2tBcFpFMnVGRjUwNEhURFR3S2lDR0I2eWVZX0JE?oc=5",
-      "date": "2026-07-30T04:05:00+00:00",
+      "date": "2026-07-30T04:11:12+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1145,18 +1157,6 @@
       "articleLang": "en"
     },
     {
-      "id": "1YU9qU+PVF2D",
-      "title": "Atlassian tightens tracking of staff AI use as other technology firms encourage ‘tokenmaxxing’",
-      "summary": "Some companies reportedly using leaderboards for employees who used the most AI in their workFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news p",
-      "link": "https://www.theguardian.com/technology/2026/jul/30/atlassian-tightens-tracking-of-staff-ai-use-as-other-technology-firms-encourage-tokenmaxxing",
-      "date": "2026-07-29T15:00:36+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "qyH8TSeegyWj",
       "title": "Explainer: What are credit default swaps and why are they spooking AI investors? - Reuters",
       "summary": "Explainer: What are credit default swaps and why are they spooking AI investors?&nbsp;&nbsp;Reuters",
@@ -1166,30 +1166,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "iY9zPx2z9EUu",
-      "title": "Could an AI market crash rival 2000 or 2008? Unlikely - Reuters",
-      "summary": "Could an AI market crash rival 2000 or 2008? Unlikely&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW9QNjlzdS1hcnZKOTNoNnZjTXRzbXk4dTFwb3p0Smh0U1Y0RzhDME83c0hyalpNblZBTzZPV2wxcEJrc1RUbU5EVnJPZkFZeDVVUDFHcTRmTEZZLS1xQXZoSkpOd1J2MzBOZTNNdTNQQ1VBS0FVN1JIbFJNS0tmbGZvYk9PRXYtWmtlQW5lOGhhVTlCai0wd0lWLTA2c1JHNFZxSXVJeHd4RXdQMV91S3dRV2pfUE5oR0hVRFhR?oc=5",
-      "date": "2026-07-29T13:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "tVQ9fNHv0Hdf",
-      "title": "Rogue OpenAI agent that hacked startup tried to attack other firms",
-      "summary": "ChatGPT developer says activity by autonomous tool was not at severity or scale of what occurred at Hugging FaceOpenAI has revealed that a cyber-attack carried out by a rogue AI agent had more than on",
-      "link": "https://www.theguardian.com/technology/2026/jul/29/rogue-openai-agent-that-hacked-startup-tried-to-attack-other-firms",
-      "date": "2026-07-29T12:38:38+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
