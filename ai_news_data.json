@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-03T09:41:03.690739+00:00",
-  "articleCount": 107,
+  "generated": "2026-08-03T14:35:16.291983+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,78 @@
     }
   },
   "articles": [
+    {
+      "id": "ep4mltbPJRZZ",
+      "title": "Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac",
+      "summary": "Bayreuth festival theatre, BayreuthFor the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present – and future. The hyperac",
+      "link": "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
+      "date": "2026-08-03T13:28:07+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "YTTHrOB0qV/c",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their",
+      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+      "date": "2026-08-03T12:08:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1GChPN/b5Np2",
+      "title": "スクエニ、ゲームの品質テストをGeminiで自動化　AIが画面を見ながらコントローラーを操作、検証作業を自走",
+      "summary": "スクウェア・エニックスが、ゲームのQAテストを「Gemini」で自動化する取り組みを「Google Cloud Next Tokyo '26」基調講演で披露。AIが画面を見ながらコントローラーを操作し、検証作業を自ら進める。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000322/",
+      "date": "2026-08-03T11:45:49+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Yy/K6PRrQY2m",
+      "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "date": "2026-08-03T11:01:11+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xhaOsugvbmVJ",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "date": "2026-08-03T10:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "G8C+WqzAElEu",
+      "title": "AI Conquered Coding. Fast Food Is Next",
+      "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
+      "link": "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
+      "date": "2026-08-03T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "d9GpOe1mdH5y",
       "title": "Here’s why AI agents lie and cheat to reach their goals",
@@ -74,6 +146,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZXJrUUKhL8DR",
+      "title": "BOJ says global AI demand could have sticky inflationary effect - Reuters",
+      "summary": "BOJ says global AI demand could have sticky inflationary effect&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRW51MWl2UjJKTHpxU04zdUM2amxLN1d6aUVLSVRGSVdYVHRWQll3YlZTUHQzQVRkSEViYjNlalQwdUg2LTc0TEM5SDVZb281c0k3VlpVSFlJeENhc3FVNHBIVlJkdG1IN0x3eFVSRUdYdkNKWm9WR1kwQ1kzWHNiN05UampoZlY2V3g5bGxkeFdKdVRiaFVuT1dqQThyZ1B5X3BIZzN0YmdPWE1WdXN3Z0J2alhRVUJUNmc?oc=5",
+      "date": "2026-08-03T08:29:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -89,9 +173,9 @@
       "articleLang": "en"
     },
     {
-      "id": "4QdufHd3ckve",
-      "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size - Reuters",
-      "summary": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size&nbsp;&nbsp;Reuters",
+      "id": "98SDNVDppU4p",
+      "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - Reuters",
+      "summary": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
       "date": "2026-08-03T03:58:00+00:00",
       "source": "Reuters",
@@ -230,6 +314,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "vzOi5YEhIFts",
+      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
+      "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
+      "date": "2026-08-02T07:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -389,6 +485,18 @@
       "articleLang": "en"
     },
     {
+      "id": "eXwJb41z2S14",
+      "title": "With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again - Reuters",
+      "summary": "With Situational Awareness AI deal, Citadel's Griffin rides to the rescue again&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEJvTTNHX2ZwRVB4clhaX21yT08wR1hHTHhZd3c5U1dvYWZ0cDJfYkdsblNiWmhQYzJ6Qm9zMk1meUR4cVRsZk9LS0k4Y3lLUW1zMmV6cmtfOXZOWmpPTG9LN3FXa3o2ODlGbGVhNnR4VUpKMHRzbWhtSDUxa1EydHdURkRqdFdpekUxMmRkT1NfcnZmS2pRRy12RXpaaGZrOEhGSnA5NGNtbnN4OXFhdnlXM3c2NERLUmRTbEZRbUpmWGsz?oc=5",
+      "date": "2026-08-01T00:01:27+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "891fo1s+lubG",
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
       "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
@@ -410,18 +518,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "vzOi5YEhIFts",
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "date": "2026-07-31T20:16:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -473,9 +569,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "id": "AKN6PLXb+LgR",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-07-31T18:09:35+00:00",
       "source": "DW Tech",
@@ -566,18 +662,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "oOT461LdT+Ja",
-      "title": "What we know about the rogue AI-agent security breaches - Reuters",
-      "summary": "What we know about the rogue AI-agent security breaches&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUnRGd0w4WEhBT3ZTQ1lnOVRQYVpGTTAzMFVmMmE2Zi1vaFlCWWZNS0pXcDFOVWdwYjd2RktjMlV5ZjRGdzdVTWxQRHN4UXJJRThqYU9ZUmFua054eEowWHEzNV92SDhNQkdRQ2pwdl9YcWlId3NweWFRN0M3cEdwNGtyZ0JMNzJ5NWpuU0M4ZkVLZXJLYUNwbktZSTVBYnltRDkwMW12cw?oc=5",
-      "date": "2026-07-31T16:10:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -737,9 +821,9 @@
       "articleLang": "en"
     },
     {
-      "id": "yUMx75Efz3BP",
-      "title": "Anthropic says Claude AI hacked three companies during tests - DW.com",
-      "summary": "Anthropic says Claude AI hacked three companies during tests&nbsp;&nbsp;DW.com",
+      "id": "2kMECQjgWxwI",
+      "title": "Anthropic says Claude AI hacked three companies during tests - dw.com",
+      "summary": "Anthropic says Claude AI hacked three companies during tests&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5",
       "date": "2026-07-31T04:03:27+00:00",
       "source": "DW Tech",
@@ -759,18 +843,6 @@
       "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "X+CAWDTJ6uks",
-      "title": "PerplexityがAIエージェントの“暴走”対策ツールをオープンソースに　Claude CodeやCodexを監視",
-      "summary": "PerplexityがAIエージェントの危険な挙動を検知・防止するツール群「Numbat」をオープンソース化。Claude CodeやCodexに組み込み、タスクに執着したエージェントの“暴走”を実行前に阻止する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2607/31/2000000325/",
-      "date": "2026-07-31T02:18:22+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "IgJ4wRkIP28l",
@@ -929,57 +1001,9 @@
       "articleLang": "en"
     },
     {
-      "id": "pHAUvUxLIQb6",
-      "title": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue - Reuters",
-      "summary": "OpenAI's Sam Altman to discuss voluntary AI safety tests with Trump officials after agent went rogue&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaVppS2J1aFJfak9hZHBGNnRWVFJndXNGd29YR0t5WnlpWEMzZHRHQUZubWlhZG1KVUxhTWZlVUdsaFlhY0s4Ul9rek9Td0ZaQy1rTnV3dnlXdzk0VUo5Qi1MMWk1clRhZGVjVjFEdjRmaXdtMDhiLUg4dnN6S1Z3SDloa2o2WkpWMU9nOEhsd0lHX09RX1dWa2VXN0d1Ykg4cDRuOWR6M3VnZG9tMzd6UWMwb0paLXh1QjNiYldIM1hUUnU0djB0QjlPbk0?oc=5",
-      "date": "2026-07-30T19:45:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "suYli35kkoT2",
-      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
-      "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price.",
-      "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
-      "date": "2026-07-30T19:44:16+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "vS0yO6oz84+S",
-      "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic",
-      "summary": "This week on Uncanny Valley, we discuss the open- vs. closed-source debate in AI, key players in White House AI policy, and how to stop your chatbot logs from showing up in search-engine results.",
-      "link": "https://www.wired.com/story/nvidias-open-source-alliance-snubs-openai-and-anthropic/",
-      "date": "2026-07-30T17:51:10+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Cc66oFTeq0lm",
-      "title": "Goldman Sachs asset arm forms AI investing platform, memo shows - Reuters",
-      "summary": "Goldman Sachs asset arm forms AI investing platform, memo shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR1g3TFctU2hjN2FoTzRGTXlrSU0tcllBSkkzYndldTdzdE1BUWNQd29BMnlYaWV5N2dDU1JFYkItV3cybms0NGx6WGlrbTh0TC00R0dfaWM3VUxKTEtVa25IbHZLSUVmZ002X1UxV3A5YXNqLV9Oa3lIaWdsTFFaUGR3UHhOZG5SMkVleXZlZENCd2NxZElpNjNUcFhXaDJwTndDdy0zaV91eXJHbkxkbFQtTTNmbWJfMjRWNnh3?oc=5",
-      "date": "2026-07-30T17:50:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "CKDsVKkj9SvT",
-      "title": "EU aims to build AI gigafactories of its own - DW.com",
-      "summary": "EU aims to build AI gigafactories of its own&nbsp;&nbsp;DW.com",
+      "id": "Xi2zDraQ8mqY",
+      "title": "EU aims to build AI gigafactories of its own - dw.com",
+      "summary": "EU aims to build AI gigafactories of its own&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0FJU1RjQUFyQm5NM1FVbkRrMHZXUXlBZ2xJejVDd3BXQS1wYTllWjFHd0VFbHJ0ZDZxY0x2cU03SUF3ZVJLQ0l4SzIzeWlFVU51ZDc2RkVIU3hrbkNWdjVsVHZZQ01Pb3N5SWZmMU13SExLN3hibEY0UlpXMlJCNzhGQdIBgwFBVV95cUxQYWZRSlc4aXMxRFVVRWZsSkZCaTY4OV9ZcFN2aUJiMFcwdmpFVkxMbFV0R2xtaFZaa05DenJfS0JqWDFzNHl2N3pORFdwWnFCVnJfcmM2bHZiT3VPSF85bkMxTWs0NW5uakgxN0NfR1RmWUZCeTJyRWF3dHZKbG1WUXZHUQ?oc=5",
       "date": "2026-07-30T15:17:08+00:00",
       "source": "DW Tech",
@@ -1073,21 +1097,9 @@
       "articleLang": "en"
     },
     {
-      "id": "XqW4CD7I1C9+",
-      "title": "Lloyds Bank to cut £2bn in costs as part of AI-powered strategy",
-      "summary": "Chief executive says the four-year plan will lead to greater efficiency but gives no details of potential job lossesBusiness live – latest updatesLloyds Banking Group will cut another £2bn of costs as",
-      "link": "https://www.theguardian.com/business/2026/jul/30/lloyds-bank-cut-2bn-costs-part-ai-powered-strategy",
-      "date": "2026-07-30T10:22:52+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "vwcysd9vpNT/",
-      "title": "German court rules that AI music firm violated copyrights - DW.com",
-      "summary": "German court rules that AI music firm violated copyrights&nbsp;&nbsp;DW.com",
+      "id": "x1lDVY3Ghaap",
+      "title": "German court rules that AI music firm violated copyrights - dw.com",
+      "summary": "German court rules that AI music firm violated copyrights&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVnY2dXhLUnpIUnRjQ1c0UDJIVENRcmtkaHB0OGRYaUpyX1ZFbzVfZnltUmo4NGR4YXFvaXQzTjk5dkFRQ1A0V3UtTGNMdWpySFlNbVhiZ2s0ek5yVmhkUmt2UDZBSFg4SFdLU3VydG9jaU1reUlyMXlaRnFuQ2dUMHRINlg5ZTgtbll5N0IyYzNfYUtiR19TTE05Y9IBmwFBVV95cUxPUnJMWkxGcHIxT3lrcjdGaDhVWk16dFU2ZGw5ZG9sTnRES0FEakZfaEFab1liV0ZYa1RucDZsckktWUQzNWNsa0VUN05ncDJVQk5hdUttTW9QQ1loNkZsMGNVSXctdHdMWEYwaWN3VTVKMERLMF8zemdkOE9ERmlNcnBQZGlPd0dueFROeE9DTDVtcTVTaVFTZThXVQ?oc=5",
       "date": "2026-07-30T08:40:11+00:00",
       "source": "DW Tech",
@@ -1181,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BkqHuXer8rCW",
-      "title": "Germany's financial watchdog to monitor AI use at banks and insurers - Reuters",
-      "summary": "Germany's financial watchdog to monitor AI use at banks and insurers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR293SVpUX3cybmVITjdEQi1VT1IwQlVpcEpFT2VrZ21CSHBWLTdJY1djUHFUU2VWcUJVaDcyT2s3eEl6X1JpUzExaF9COXJBNUJOR1dnUWNRM2dPT0t5UnFtcVVzY2kwekFXd3hURlhHV2pjZFBYLVVDMDl2SmxjZGpOeFZya0dKRzZxOE95WVpJWEFBREZGdUgwSTNsWG1jMTNFcEVjc3N4b2hSRVRr?oc=5",
-      "date": "2026-07-29T15:12:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "qyH8TSeegyWj",
       "title": "Explainer: What are credit default swaps and why are they spooking AI investors? - Reuters",
       "summary": "Explainer: What are credit default swaps and why are they spooking AI investors?&nbsp;&nbsp;Reuters",
@@ -1205,9 +1205,9 @@
       "articleLang": "en"
     },
     {
-      "id": "2PLTvfig2TvB",
-      "title": "How AI brings forgotten Roma Holocaust stories back to life - DW.com",
-      "summary": "How AI brings forgotten Roma Holocaust stories back to life&nbsp;&nbsp;DW.com",
+      "id": "VH0xD+A3zTYt",
+      "title": "How AI brings forgotten Roma Holocaust stories back to life - dw.com",
+      "summary": "How AI brings forgotten Roma Holocaust stories back to life&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaDZxNkUwS3dTQ0lkbTdJYjVfMEYySWpORmFDT0VkUVlFZ3V2LWdQUEFRNmlydnNvNlBJRW5FcTRrSm1pcHB4Y2ROdklwaGlwczBqbkw3Mi1sX253WktFVUIxWUJVdWNNZW9nUC1mYm5ESmEtb3FCcDVnRXptQl9taU9aMnl1THRVejRwcUk3Sl9WNGhXTlBnb1dMeC0?oc=5",
       "date": "2026-07-29T14:06:49+00:00",
       "source": "DW Tech",
@@ -1313,15 +1313,15 @@
       "articleLang": "en"
     },
     {
-      "id": "vSP5aBOyDQW6",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedente",
-      "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-      "date": "2026-07-28T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
+      "id": "eFeqrWzRLWEj",
+      "title": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India - Reuters",
+      "summary": "Brookfield sees 6.5 GW of AI data-centre capacity coming online in India&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUlzazUtLVpLY3J2YnBhTm51WFlHN19MVUxzd010dHlDR3BtODhRbHVBcTBEeFNXYzZYRmdrbzh4Wk1mdHZIdGlwem5tX2hCclBuNWZBUEoxbEtvN0xMdi1pV0ZNRjJfeC13UXFXNXppNVd0ZU9GZDI3enU4ZjhyNjBQMHBYZEVnS09Ea0doTGdkN2hEQ2F2R2swWnBVcmM2MTJnbmhic3BEVTQyTm9WYXVCdU01ZjhlOENrMw?oc=5",
+      "date": "2026-07-28T11:47:30+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1334,18 +1334,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "6YNFMTp51D9p",
-      "title": "Exclusive | Chinese AI developers may shift to ‘paid weights’: Goldman Sachs - South China Morning Post",
-      "summary": "Exclusive | Chinese AI developers may shift to ‘paid weights’: Goldman Sachs&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRjJ1WGdRQlg5RnZwOVhnWi05elJQRGlDSmVlSkNVZlllS2JxV0syTFUxYUtEOGxTdUhMZDJ0SHllc19LanRFaGpjV1R1WjVQS0I4Sk5KRU9qLVBBU2RoMkRXUXVBTHdxR1pxMzdWOUFYSVd6X012UUNkMlN0RVduUkR4bGg4MTg4NFJlVUM0My00OFFIbTVQR3Q4Q3VNRERIRWk5UkFPcXMzYkQxenQ1UjZzOGVwaTVUYUlNYVg0aERkVktPZ2dQWlhR0gHKAUFVX3lxTE9FZGxpaDNrQmdRcTczWGVCUXdKWmhRcEVfbzVtNDZuaXRjZUNXLXN1VjdKTDBBUVRHZ2cxYy02Tm9HMEZZVllDb2dVSC1sV20zNFh3Q0JVemV6VXJlZmtkcUhaYWFzMGNFR0JKM3pnQUh1TElNRUpaUHFZSEtkWWduTW40d3NBOUotSXZOS0NXNmprYWFaZWVzakZSeWpkTXctOGREb1JEcEZqQUdMMkVlSFV5RXM4bm1aaEJQZzJkZ3NDQ044VUNXdEE?oc=5",
-      "date": "2026-07-28T02:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
