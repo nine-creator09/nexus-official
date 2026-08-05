@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-04T19:35:17.804098+00:00",
-  "articleCount": 99,
+  "generated": "2026-08-05T02:24:45.853435+00:00",
+  "articleCount": 98,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -32,11 +32,11 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 5
     },
     "guardian": {
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     "france24": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,162 @@
     }
   },
   "articles": [
+    {
+      "id": "NipB3jOm7juu",
+      "title": "AI used new levels of 'autonomy and deception' to trick people in safety test",
+      "summary": "The UK's AI Safety Institute said recent behaviour from Anthropic and OpenAI models was malicious and unprecedented.",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-05T00:02:18+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "NKiFCdR5X5gi",
+      "title": "OK, Well, Rogue AI Agents Are Hacking Again",
+      "summary": "Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior.",
+      "link": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "date": "2026-08-04T23:11:31+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "tmbkF5+BgFXl",
+      "title": "AI-generated stories rated better quality than human-written ones, study finds",
+      "summary": "Researcher says simpler writing by AI is easier to read and digest, but this does not mean human authors are obsoleteFrom Homer’s Odyssey to Agatha Christie’s crime fiction, humans have produced plent",
+      "link": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
+      "date": "2026-08-04T23:01:03+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "8splZQoEox61",
+      "title": "Gemini“ヘビーユーザー”が1年で10倍に　「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ",
+      "summary": "月100回以上Geminiを使う首都高速道路の従業員が、1年で22人から224人に急増した。転機は対面・終日のワークショップと「誰一人取り残さない」全社推進、そして「Gemini Notebook」の存在だった。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000383/",
+      "date": "2026-08-04T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ll4gdZ00nYZ9",
+      "title": "The White House Is Keeping Its AI Cybersecurity Framework Secret",
+      "summary": "The Trump administration shared the details of its plan with OpenAI, Anthropic, and other AI labs on Tuesday. For now, the public remains in the dark.",
+      "link": "https://www.wired.com/story/the-white-house-is-keeping-its-ai-cybersecurity-framework-secret/",
+      "date": "2026-08-04T22:06:07+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kEwwBCbuC5ZQ",
+      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say - Reuters",
+      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0kxdjdSV1l6emtwTHdHMGFiRWpqQXo5cG9JQjZTanRNOGtwV0s4V2VSQnMwZjZsaExneS11Rk1vbmhPTE1WN2hnTnFSTDVtTFNtOXpFMV8waVBkZWFhV2RJLTNiM2pCcUVHVWpZZE1HT3RwaFVoTjdZdk90T3BDa283S3pPbFJqZjB2blhxaUFZZTBWaTlyZmVlZFkwS2c5aUxOMGtOTm9uaXF5SXJhTl9xYVNfckRZYmc?oc=5",
+      "date": "2026-08-04T21:50:01+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "q7KaThioaXfE",
+      "title": "AMD&#8217;s data center business is booming while gaming takes a backseat",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "date": "2026-08-04T20:57:49+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "s5SbExGkT//n",
+      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
+      "summary": "S&amp;P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months agoThe US stock market rallied to records on Tuesday as profits kept piling up for",
+      "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
+      "date": "2026-08-04T20:56:59+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "kcfPbkusICjU",
+      "title": "SpaceX made more revenue as an AI company than a space company",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quart",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "date": "2026-08-04T20:47:55+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "99gzNa5Xz+c2",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "date": "2026-08-04T20:05:26+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "t8fP7eqeBEgM",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "date": "2026-08-04T19:48:40+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GW9t1QYbRZ5K",
+      "title": "Samsung Electronics launches next-generation AI memory technology - Reuters",
+      "summary": "Samsung Electronics launches next-generation AI memory technology&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclAxcVpCMXBjdWcyTWJKZklWcEc5d1NIbjJjc2F5TFVmeGZqcUNHLW1PUmxlOFBWRkpzS2U2LUNqNG04Y2xQbThacTRsc3ViRFpsUkxYbUI2Z1JLT2M2QzZBdXRfUEtnMUlQSFd3QWdxYUlSZ2NHdjJYdTJ1bVJ4UUVJR3g0Y25yRUlVRjE1Zl91RGxsSW1mUUFCdU5kb3Z1c2ozZVl1aXI2RUFrSExlaVVpWFc2akhMWEJWcw?oc=5",
+      "date": "2026-08-04T19:42:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "EL25bpXj9qcr",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "date": "2026-08-04T19:34:34+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "HQ1pA5L/hGJQ",
       "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
@@ -89,27 +245,27 @@
       "articleLang": "en"
     },
     {
-      "id": "CjHdZR8mo897",
-      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - Reuters",
-      "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-      "date": "2026-08-04T17:23:30+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "oWaDZvyboZ8h",
+      "title": "How an OpenAI influencer trip backfired",
+      "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "date": "2026-08-04T17:46:41+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
-      "id": "MsxATHhWinY9",
-      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech - Reuters",
-      "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5xTHh1OXJqckd3YzNTeU5GTm9rQ1pxQlRIQVVOazlGQ2tKaGlzQjUzcFpNaDlUNWZpMFJ1VWxYNFc4NXpzNUFEVWRpTVAxOGliWnNJZXBIbW1iVVlPV3Y3aF8zZ0NvMU96eUlNcGczQnM2QmI0bloyVHF1U29TQW9sQ19ncmpnYWVuWFFVTW9yb1k4T3p0aWxOa1ZRQ0NpSjZUZFNIT25jXzJHRElLY2VrSUNqcGxJWDltNQ?oc=5",
-      "date": "2026-08-04T17:22:20+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "y25oG+nGjqh2",
+      "title": "‘Not healthy’ LLM use is more common than you think",
+      "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "date": "2026-08-04T17:33:46+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -118,6 +274,30 @@
       "summary": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkdIMTExVUw5YWtlVV96cWRTNEJQU3NtZ0xnQVE1YmdyaEp5UjV4NFU0UnpqMHIzUnJsWmMxVmNkV3hLd3l4MHBIOV9FdHVobHlOUUpZR2ZyNGhOU2wzeHBlX2g5N3dQeUxTTHVVczRJSUpSdFFONGhpYXYxdWM4NlVGMzlqS1FyMFZvazdULUtmSzBHNURCVHlKOTNjU29tLTBOdm5DUzJVRlhEc2VrbW9rNS14SmZyNlE?oc=5",
       "date": "2026-08-04T16:56:55+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "SLvPPvllXxfZ",
+      "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why - South China Morning Post",
+      "summary": "US AI leaders are using Chinese open models for cybersecurity. Here’s why&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5",
+      "date": "2026-08-04T16:08:31+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "GYnNpeK7brlo",
+      "title": "BofA, USAA agree to cross-license AI, banking patents - Reuters",
+      "summary": "BofA, USAA agree to cross-license AI, banking patents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONEM5LWlDNW15Q3JIZjNqbm5lSVlvaUw4RVZjT1paZFV2U2dXdzRlbVU2dUpXbFdscFM1eXc1cm02cDRSdTNPVmRQbjgyc0lrZThBMTVQcnJsWHV4bEdudnkyUnMwVENEczhoWW02cEFTWnlNU1lVbGFadzNXeS1mb0txUlJ3MHN3TkE1YWpsNFlHenVsUENqVEVEZ3pVR2lJaVpWY1p1QQ?oc=5",
+      "date": "2026-08-04T16:05:54+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -139,7 +319,7 @@
     {
       "id": "cANu2DKNR8PS",
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business.",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business.",
       "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "date": "2026-08-04T15:20:06+00:00",
       "source": "TechCrunch",
@@ -413,6 +593,18 @@
       "articleLang": "en"
     },
     {
+      "id": "VR+DvMOZM1tq",
+      "title": "UK regulator says it is monitoring developments after rogue AI agent hacks - Reuters",
+      "summary": "UK regulator says it is monitoring developments after rogue AI agent hacks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNEJKSEUtVng1aUE5aXNOUF9WazdYSUZ2ZWl2Z1FSN0dSWTdsUFUtUzVfdndjV3RUQkNISXlfaWR3TmdlbUJoY0lqQTFYYk9nb29PcVdQRGtKd2xGU0NPbE9sZVNlbWw0ZnNTcnBfVWtFMm5OYWdVdzdHb01CSUNzTGozcTRLNXlHTFF3Qm1KaHo5UUtmaVNUaEszdFd2dG5xTEZHRjFmUFJ6XzZ6RFFEaFc4c2kzbVh0RjFr?oc=5",
+      "date": "2026-08-03T21:21:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "6PpBazKUfLna",
       "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
       "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
@@ -597,7 +789,7 @@
       "title": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost - Reuters",
       "summary": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5",
-      "date": "2026-08-03T09:39:44+00:00",
+      "date": "2026-08-03T09:52:50+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -677,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "PVtOBY9GiAA2",
-      "title": "「AI、結局使えないじゃん」問題　セールスフォースが431万件対応で導いた正解",
-      "summary": "AIエージェントの導入が進む一方、全社的な利益改善に至る企業は4割弱にとどまる。そんな「AI導入の壁」を破り、自社実践（カスタマーゼロ）で431万件の顧客対応を完了、商談数を4～5割増加させたのがセールスフォースだ。同社はなぜ明快なROIを生み出せるのか。データやKPIが整う領域の選定や「シンプルで高頻度な業務」から任せる鉄則など、AI投資を成果につなげる運用の方法論を田中遼太COOに聞いた。",
-      "link": "https://www.itmedia.co.jp/business/articles/2608/03/news030.html",
-      "date": "2026-08-02T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "clHiMv4HpDb2",
       "title": "Sam Altman and AI’s decel debate",
       "summary": "On the latest episode of Equity, we discuss why Sam Altman is calling on the industry to \"pace the rate of AI development.\"",
@@ -713,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "aYgiylF6H/CD",
-      "title": "Is paying artists enough to convince them to embrace AI?",
-      "summary": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "date": "2026-08-02T13:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "TwvYLdY0HyDZ",
       "title": "Opinion | Why global AI exuberance is about to hit ‘nasty’ reality - South China Morning Post",
       "summary": "Opinion | Why global AI exuberance is about to hit ‘nasty’ reality&nbsp;&nbsp;South China Morning Post",
@@ -734,18 +902,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Z2zCgBfEU+Mx",
-      "title": "Europeans Are About to Find Out How Entrenched AI Is in Their Daily Lives",
-      "summary": "New EU rules stipulate that people must be told when they’re interacting with AI or looking at AI-generated or -edited content, leading to fear of “disclosure fatigue.”",
-      "link": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "date": "2026-08-02T10:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -761,21 +917,9 @@
       "articleLang": "en"
     },
     {
-      "id": "vzOi5YEhIFts",
-      "title": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe - Reuters",
-      "summary": "EXCLUSIVE: OpenAI finds evidence other AI agents escaped containment as it widens hacking probe&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYTc2SUhrNmVER0NvNW9nZHBwbklFMlA0eTNSRFZETXpfSWpVYU1wOUhaMDRLUnRVSEhtRzByeEktX2FEX1ZzaThNMnpZMW9JdVZDZkVRTEQ4UjdlakFPVXZTUjZaM2JOUkhpN1BxeEU4bWJuSjNkUldBNXRVWDkyYWVXVUlKM0VEZU5wZklfX2FJRkQ0bmVybTIyY0xpbHd6aGtIVmZ3YU5ocGdsdFlNeXdOQlBXOUsyZnZtZA?oc=5",
-      "date": "2026-08-02T07:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "s3ZR7gZW7P97",
-      "title": "Hyundai wants to be an AI company, not just a carmaker - The Korea Herald",
-      "summary": "Hyundai wants to be an AI company, not just a carmaker&nbsp;&nbsp;The Korea Herald",
+      "id": "UzYIc9RzSkwY",
+      "title": "Hyundai wants to be an AI company, not just a carmaker - koreaherald.com",
+      "summary": "Hyundai wants to be an AI company, not just a carmaker&nbsp;&nbsp;koreaherald.com",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxSkZfZDR2a1pPWEd1NExoQmFIZnRCWDBjRW9pTkdTdjhpaDByNjliN0xzWGdxQW50OWNhMzFCeklNcVQyWVBsdjNCNjJSdGpPcUZYTjA3OA?oc=5",
       "date": "2026-08-02T04:53:45+00:00",
       "source": "Korea Herald Tech",
@@ -794,42 +938,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "wy0W3EJAabRm",
-      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "date": "2026-08-01T19:45:45+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "SfwN2sjq+UcX",
-      "title": "Is this Billboard Hot 100 hit AI slop?",
-      "summary": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "date": "2026-08-01T18:20:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "utogoXIy5esj",
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "summary": "This isn’t the first time a tech CEO has promised that AI can shield users — and specifically users’ morning commutes — from the messiness and inefficiency of human experience.",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "date": "2026-08-01T17:07:34+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -857,21 +965,9 @@
       "articleLang": "en"
     },
     {
-      "id": "i9hHX8jzD3Tz",
-      "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
-      "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
-      "link": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
-      "date": "2026-08-01T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "EGIBqPlgeWgZ",
-      "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2) - France 24",
-      "summary": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/2)&nbsp;&nbsp;France 24",
+      "id": "35Ba9JvB43dc",
+      "title": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/3) - France 24",
+      "summary": "The Dartmouth Workshop: The $7,500 investment that gave birth to AI (2/3)&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa2JXWkU2cWY4bkpWOUhnREd6Q3Fhdy1aajVTOHAxbEstSHZTd3cwZEcxR1dwZXZhYlVJMHkxbGVUT1FhaldCV3gzdHBySENHQWN5b2dCRzFXYm1DbGxZbkhRbmRUbnlhSHktS2p0bVpEMUdmaGpOck5BcTJndk5DTUh0ZVMzMXgtcjBtT3gydEhRVEtmVWw3SFpnQXFaS1RGajVHY3Rxb2RSYmhJMmRzYmlhMENwRkxW?oc=5",
       "date": "2026-08-01T09:52:33+00:00",
       "source": "France24 Tech",
@@ -893,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "891fo1s+lubG",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "date": "2026-07-31T22:47:26+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "6rj6tqJ9wevS",
       "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
       "summary": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
@@ -914,18 +998,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "zPCzSvlYTqLG",
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "summary": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real wo",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "date": "2026-07-31T19:13:29+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -962,18 +1034,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "yZO+bkjnOTFI",
-      "title": "Here’s the problem with putting an AI image generator in Google Earth",
-      "summary": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Diggin",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "date": "2026-07-31T17:05:46+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1097,30 +1157,6 @@
       "articleLang": "en"
     },
     {
-      "id": "yH+X6rQwRzY3",
-      "title": "Anthropic’s AI Claude hacked into three organizations during cybersecurity test",
-      "summary": "Company says it discovered unauthorized access during ‘proactive review’ after rival OpenAI revealed rogue agentAnthropic ⁠said on Thursday its AI Claude model hacked ⁠systems of ⁠three ​organizations",
-      "link": "https://www.theguardian.com/technology/2026/jul/30/anthropic-ai-claude-hack",
-      "date": "2026-07-31T00:22:16+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "liAveCMvKHyI",
-      "title": "German minister urges faster AI self-sufficiency after OpenAI test breach - Reuters",
-      "summary": "German minister urges faster AI self-sufficiency after OpenAI test breach&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFd6Y3J1QUQwODAyV1NkMXp4NzF2UFlaWlZBVlY2WDNMbWRPazJVOW4taF9ZWnZTOE10dm5jTnlldWJyRW1sbm5sRmdXUWd6Um4zX09KVlRTTDVta3JIY1h6VllidVFIYzkyUWhGeGdiUFdiRUdnRXBCdlRIV2F3Z1RudmlhYlU2VDRNWjRsc01yM3FfblYyY1JSSDZCVmhrbW05TXNTb2p2VDJRSGlEN2tfcnhfQk5sSTJMRFhoYlBxMWFa?oc=5",
-      "date": "2026-07-30T20:18:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Xi2zDraQ8mqY",
       "title": "EU aims to build AI gigafactories of its own - dw.com",
       "summary": "EU aims to build AI gigafactories of its own&nbsp;&nbsp;dw.com",
@@ -1154,30 +1190,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "SgVR9iVmiXL7",
-      "title": "Trump considering AI controls after OpenAI hacking incidents",
-      "summary": "It marks a change of tone for his administration, which has taken a more hands-off approach to the technology.",
-      "link": "https://www.bbc.co.uk/news/articles/c20dppq3y90o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-30T07:23:11+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "pZL/7VR4W3EB",
-      "title": "Meta shares fall as frustration grows over AI spending plans",
-      "summary": "CEO Mark Zuckerberg said the firm intends to sell its AI tools to other companies for the first time.",
-      "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T22:44:18+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1226,30 +1238,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "yqK7TizFFes6",
-      "title": "OpenAI says its rogue AI tried to hack other companies",
-      "summary": "The out-of-control AI found four logins which allowed it to access multiple unnamed online services.",
-      "link": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-29T08:49:27+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mYrlLxoe4iwN",
-      "title": "Tech Life",
-      "summary": "What do we need to know about agentic AI?",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jy6?at_medium=RSS&at_campaign=rss",
-      "date": "2026-07-28T20:00:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
