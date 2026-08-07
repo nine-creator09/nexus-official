@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T02:48:48.812322+00:00",
-  "articleCount": 101,
+  "generated": "2026-08-07T07:12:45.603317+00:00",
+  "articleCount": 102,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,42 @@
     }
   },
   "articles": [
+    {
+      "id": "Xlf9IFFK8I0j",
+      "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始　利用は申請制",
+      "summary": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、Preferred Networks（PFN）の国産大規模言語モデル（LLM）「PLaMo 3.0 Prime」の提供を始めた。利用には申請が必要で、無償プランは対象外となる。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/07/2000000443/",
+      "date": "2026-08-07T04:07:21+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "iuZEW3u6ipK8",
+      "title": "One of science fiction’s greatest writers warned us about a AI. Does he also hold the remedy? | Alan Finkel",
+      "summary": "What might a modern day equivalent of Isaac Asimov’s laws of robotics look like? Guided by the author, I propose the three laws of AITesla and SpaceX founder Elon Musk predicted in July that legions o",
+      "link": "https://www.theguardian.com/technology/commentisfree/2026/aug/07/science-fiction-warned-us-about-an-ai-powered-dystopian-future-does-it-also-hold-the-remedy",
+      "date": "2026-08-07T04:00:08+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ONqx1GLGRrqn",
+      "title": "Can the government really get ahead of the curve on AI? - podcast",
+      "summary": "On Wednesday, the Labor government announced environmental and energy safeguards on new datacentres in Australia. Our political editor, Tom McIlroy, speaks to the assistant minister for science, techn",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/aug/07/can-the-government-really-get-ahead-of-the-curve-on-ai-australian-politics-podcast",
+      "date": "2026-08-07T03:12:09+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "mTGBDfH76BSL",
       "title": "One of China’s Most Powerful AI Models Has Also Escaped Containment",
@@ -158,6 +194,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "iHa3AMJR4rz2",
+      "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
+      "summary": "Furious pace of AI investment on some Fed officials' radar now&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
+      "date": "2026-08-06T19:13:26+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -329,6 +377,18 @@
       "articleLang": "en"
     },
     {
+      "id": "psLNoi52NnMI",
+      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
+      "summary": "Microsoft opens its largest India data center hub as AI race heats up&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
+      "date": "2026-08-06T12:43:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "N7lwg0Ifilmu",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
@@ -362,6 +422,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/UeJvPjm0jva",
+      "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports - Reuters",
+      "summary": "ByteDance founder tells staff to avoid AI distillation, The Paper reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ042eTRfNkJSQ3J2M2JLampONk5fRVo1N0dlSnhjeEtFMURhRFRfb3VncnhPYl91MHViUldYYzB1WUtZbUI0VjFWMGRRN0R6WTNvZGpmcmkxMFVKMUR5WDgyOU5mRkYwZEhnbHIzbGJKS0RmOVZmYmM2MmZibE9LeTVpemp5NnNMSWU5Zk9ZRVFtemgzcmhuTzR6eDFhS2NuNVlnVGlGbnNuMm5sZ2J3WGlHSQ?oc=5",
+      "date": "2026-08-06T07:20:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -677,6 +749,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BF9VNoOqtloi",
+      "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
+      "summary": "Anthropic to build in-house chip design team for Claude, hire engineers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
+      "date": "2026-08-05T14:15:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "19MKzxb/CehG",
       "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
       "summary": "GlobalFoundries tops second quarter estimates on AI chip demand&nbsp;&nbsp;Reuters",
@@ -869,6 +953,18 @@
       "articleLang": "en"
     },
     {
+      "id": "kEwwBCbuC5ZQ",
+      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say - Reuters",
+      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0kxdjdSV1l6emtwTHdHMGFiRWpqQXo5cG9JQjZTanRNOGtwV0s4V2VSQnMwZjZsaExneS11Rk1vbmhPTE1WN2hnTnFSTDVtTFNtOXpFMV8waVBkZWFhV2RJLTNiM2pCcUVHVWpZZE1HT3RwaFVoTjdZdk90T3BDa283S3pPbFJqZjB2blhxaUFZZTBWaTlyZmVlZFkwS2c5aUxOMGtOTm9uaXF5SXJhTl9xYVNfckRZYmc?oc=5",
+      "date": "2026-08-04T21:50:01+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "s5SbExGkT//n",
       "title": "US stock market hits record highs as AI profits pile and oil prices ease",
       "summary": "S&amp;P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months agoThe US stock market rallied to records on Tuesday as profits kept piling up for",
@@ -910,30 +1006,6 @@
       "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
       "date": "2026-08-04T17:23:30+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "MsxATHhWinY9",
-      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech - Reuters",
-      "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5xTHh1OXJqckd3YzNTeU5GTm9rQ1pxQlRIQVVOazlGQ2tKaGlzQjUzcFpNaDlUNWZpMFJ1VWxYNFc4NXpzNUFEVWRpTVAxOGliWnNJZXBIbW1iVVlPV3Y3aF8zZ0NvMU96eUlNcGczQnM2QmI0bloyVHF1U29TQW9sQ19ncmpnYWVuWFFVTW9yb1k4T3p0aWxOa1ZRQ0NpSjZUZFNIT25jXzJHRElLY2VrSUNqcGxJWDltNQ?oc=5",
-      "date": "2026-08-04T17:22:20+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "SowvyqjTZ4HH",
-      "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist - Reuters",
-      "summary": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkdIMTExVUw5YWtlVV96cWRTNEJQU3NtZ0xnQVE1YmdyaEp5UjV4NFU0UnpqMHIzUnJsWmMxVmNkV3hLd3l4MHBIOV9FdHVobHlOUUpZR2ZyNGhOU2wzeHBlX2g5N3dQeUxTTHVVczRJSUpSdFFONGhpYXYxdWM4NlVGMzlqS1FyMFZvazdULUtmSzBHNURCVHlKOTNjU29tLTBOdm5DUzJVRlhEc2VrbW9rNS14SmZyNlE?oc=5",
-      "date": "2026-08-04T16:56:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1010,30 +1082,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "0CA+6UVN6x8G",
-      "title": "Rabobank to spend €2 billion in AI and tech as net profit stagnates - Reuters",
-      "summary": "Rabobank to spend €2 billion in AI and tech as net profit stagnates&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLXAta2lPQ3YzaGljNUNxT2JMZW0xeHhzTDBEOUpqNlVob0JGZ042cmtEZTEtRGN3STBJSFpHT3JHV1BvQXBoYlVxazRMYXA1ZnRmQWJmMUhmdkR0Um9HV1lqYTZzRlNsVVpxWFZ5bEpxdl9mOUxQMUZldWVXaHdvQkJscmx2Z0o3TWhEWHUwUjdpRnl6NFA4XzQzMjFCYTliWV90am05c0ZfQQ?oc=5",
-      "date": "2026-08-04T06:15:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "+YStEhNqqbFw",
-      "title": "Metro Bank customer fights for £14,000 refund after AI-linked fraud",
-      "summary": "Lender was told money was being taken without authorisation, with cash used to buy credits for Claude chatbotA Metro Bank customer has told of his fight to get more than £14,000 back after its systems",
-      "link": "https://www.theguardian.com/money/2026/aug/04/metro-bank-refund-ai-fraud",
-      "date": "2026-08-04T06:00:15+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1145,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LoTkdu8p1MEk",
-      "title": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says - Reuters",
-      "summary": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5",
-      "date": "2026-08-03T05:42:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "uJG0TpFLamyE",
       "title": "Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release - South China Morning Post",
       "summary": "Alibaba’s AI model Qwen3.8-Max widely accessible ahead of open-weights release&nbsp;&nbsp;South China Morning Post",
@@ -1250,30 +1286,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "eRUdkpr6xDu2",
-      "title": "Xi urges Chinese armed forces to ‘strengthen military application’ of AI - South China Morning Post",
-      "summary": "Xi urges Chinese armed forces to ‘strengthen military application’ of AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSGxGWW8yUEFMVU9MbGpEQ2R3NzdGaFpvTkRSNWhwakMxZld3WDVEVmpPSVQ2NFBwMF9rTjJURm9zbU5MWlI5OEk3eUE3SE81YXh1YWsyZjBpX2JPTE1LYW5XYVdWckVqZUR2NWJrclRGeXFhVFZFN3BOMXVvT3RCMVU4emJ0S2laU0VLOUtVTFIyblVCTExWZHQ3UVNHempPbXk0ZnVJY1pMeFdCc0E3X1lqUUhWYkhkQ0Nzd1Etc2l6dzVGWjFPatIByAFBVV95cUxQRnNJZEhRSkFnbm1lZlBKWkRCb2dHczJ0T1VNZUwzUWRLejR4ZXdYYzRJcG9nS1BLa0dVcTRwOS1aalk4WWJHbVc4NUc4LTNPd3RaaXY4bXV1X0VlSS0tR3c0R3hmUmE5RGFldUc1Tk5lemgydUFUN2U1MXlqTjJFOHZJZWNaUGN3VHB3cmpwWUFzTUl6V2RTUXpJV0g1S1YwVXM0V3NxcVJ1R2lRUFFyOTBxcTFRV1Zua05OdFotZ2ZhOFVoUF9Idw?oc=5",
-      "date": "2026-07-31T06:25:40+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "2kMECQjgWxwI",
-      "title": "Anthropic says Claude AI hacked three companies during tests - dw.com",
-      "summary": "Anthropic says Claude AI hacked three companies during tests&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeENSNk5wMnlGV25SZ3o0X0dnTVZNdjNiUlRHVnlERGdkYWc0UF8zQVozSlFzSmh1Z01OWEQ5b0R6cmJ2dEdjNGw0NGhOVlZEc1NSOWZleEZxYkFiRE5kSnBpOWRnTEI3NXRCNHpNemRSakN2UWV5RDM0Ymdhc0ltcnVHTFk5ZUFQTjFCbm9nX1ZPN0NJRUpueNIBmAFBVV95cUxPdmhpbmEwS3NqaHFmNU1xZklSY0xUck9Dd1ZiZkFYa3ZLT29uTHNmS3dpbUJHSllQMWhMRzNwZ1pid3ZCSG9qVVU5TUswTFMyek5ockgzRVd3TnVDaVJUdjN5Mll0SDc1ZE8zQXd3OWVmWUdEc0dfSFhoUnl2emlLTmt6bW9WR0ZtWVFZeUVOdWRMQWg3LXZhdA?oc=5",
-      "date": "2026-07-31T04:03:27+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
