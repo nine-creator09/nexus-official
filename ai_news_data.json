@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T12:59:24.852727+00:00",
-  "articleCount": 100,
+  "generated": "2026-08-07T18:53:45.695327+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "mit": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "ars": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,138 @@
     }
   },
   "articles": [
+    {
+      "id": "89Zk6YSfOQUQ",
+      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
+      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows i",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "date": "2026-08-07T18:40:34+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "u5OpWyYqtzRL",
+      "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
+      "summary": "Responding to an article by China’s ambassador to the UK, Prof Paul H Cleverley advocates shared openness standards, while Dr Claire Jenkins says British AI can offer a distinctive pathAmbassador Zhen",
+      "link": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
+      "date": "2026-08-07T16:56:34+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "wEuQRLfedElG",
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to b",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "date": "2026-08-07T16:45:14+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "VyAplkVulHgt",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "date": "2026-08-07T16:16:09+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hso+MWyszh/Z",
+      "title": "Is the promise of AI living up to the hype? | Fiona Katauskas",
+      "summary": "It’s certainly increasing its outputSee more of Fiona Katauskas’s cartoons here Continue reading...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/aug/08/is-the-promise-of-ai-living-up-to-the-hype",
+      "date": "2026-08-07T15:00:24+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "CC43TlO4l30/",
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "date": "2026-08-07T14:22:49+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RJ3UXsSVwNDu",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from",
+      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "date": "2026-08-07T14:20:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "iouzNkLNnebL",
+      "title": "Scientists Used AI to Create 16 New Viruses",
+      "summary": "The use of AI systems to create viruses opens up new possibilities for combating bacterial resistance. It also raises concerns about the pace at which technology is outstripping regulation.",
+      "link": "https://www.wired.com/story/scientists-used-ai-to-create-16-new-viruses/",
+      "date": "2026-08-07T14:13:57+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LfGheTpPAxRc",
+      "title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff - Reuters",
+      "summary": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR?oc=5",
+      "date": "2026-08-07T13:55:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "bAqmgyO/LI8h",
+      "title": "The White House’s plan to vet potentially dangerous AI is cloaked in secrecy",
+      "summary": "A Trump administration framework on AI testing leaves a lack of transparency – and plenty of open questionsAfter months of talking with tech industry leaders, the Trump administration finalized a fram",
+      "link": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "date": "2026-08-07T13:00:18+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "B/1hQHmvUX/T",
+      "title": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom - South China Morning Post",
+      "summary": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWFuR1BxU0J6UHp4OVRTcS11anRIb2NBTVNBSG5PWnVHdTBjQTdhWkxxN1BjcEFFM1BGTkp3enFjckNGU1g0blVkdm0zQzdHYXplSDJDSkkxRWdjbmp5Z0xqU0FKMVBSR0dMR1FGVmI3RTd4a3E2MlkwMlVmc242ZlpxU2RfclFXc2xWUHhrVnVHaHlWbXJPWnhtX1BzTDk1QzZpM1VrclRpSThNMXJiRUxvd0I2dFU2Qy1vYmgzelMwVnh2dE1zYklISFDSAcwBQVVfeXFMTkRNdXAzUy03TVhRTWw3MmpfSGtEZ0htWW00MWltWmFyTkd4WnBhNkFfeTRmckk5Ukx3cjV5alN5YWxmTkNMb0pGRVdfVEtjbkpHZzdpd2dpdjVxNW9KZUszX2dRM2hSbjNiSzhyRkpsYW9qYTBkTnpaOUZ2aUNtbFg0N0szZHJySFNneGJacjlsNUhYM09Qc3Q1SVFibnZzSDl6QzhvdzhTcnJPSzJWYWQ2RWlGN09TMHJFVklEMmtTdEhja1drTWlRbUxO?oc=5",
+      "date": "2026-08-07T11:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "uhGo1sszgZCv",
       "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
@@ -86,6 +218,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "loaHGotBMBAX",
+      "title": "China’s Kimi K3 AI model escapes a closed cyber test: researchers - South China Morning Post",
+      "summary": "China’s Kimi K3 AI model escapes a closed cyber test: researchers&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQWlxY05iSlRiWm9ISG5HVEVIX01yLTlUbmE4UDRkd1VtNTJfUEg4VE9UMGw5aGtvXzlkeDNVVy1mQVJESXlSOW9McUo1VTVxRU83NGdtT01reVB4aXp5VU9jNnFxSHFidDN5LUtPSUVqaWtGX185V3c3Vm83OHpkaEpWUTlDcnc1SF9QNEtYYmxpalBTd3YxeGl1S2ZNcEZ3MFRHLVhFRkF1d0ZOelhHZkhkZ24tcFp1bS1sM0JUMTAwWnFWSk96VnlsMEFCN21q0gHQAUFVX3lxTFBCZXJtRVB3R2otOVhZTzNtOTNQejJKT2I4ODd6aDdGYXlHYWJlWXVfWGdVcDFQdkpZakRPZDkxNmFDX3Z5dTlYZ0pUREowWmZyTzBwWUt6dkJJU2w1RDFFbU5GckRYNzZMVWtOaGtFSHhNTFZFbnh0bl93a2FfcXoySkNXTXI3dWVmUVdibGp6RjhRSmtmZkFZTk5XYkZxUEZSelY4aWhPUmt4OXFUWTcwWDRNSXh5WW1Cb2VXY2ZKLW5paERxVFJIZlltT0hweGk?oc=5",
+      "date": "2026-08-07T08:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -401,6 +545,18 @@
       "articleLang": "en"
     },
     {
+      "id": "psLNoi52NnMI",
+      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
+      "summary": "Microsoft opens its largest India data center hub as AI race heats up&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
+      "date": "2026-08-06T12:43:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "N7lwg0Ifilmu",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
@@ -461,6 +617,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "+CCvxJChshK1",
+      "title": "Morning Bid: AI stocks learn to fly — but ain't got wings - Reuters",
+      "summary": "Morning Bid: AI stocks learn to fly — but ain't got wings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVdyc053UEtXR1QxVFh6Q0xDYjlVYUxyaXdYZG05c0lkaHhoQnhZSnJGaXhPTFhoMkEwMUIzdE0tV2F0WGI1NGtxdTJGWklQV3JfYjRmU2dYXzQzNXBpeDRhT09ITGN3aGM4ekdDb2xzejNjUldiSVY5U1ZlWFJFaDYycG8ybzZKYlY1NG5R?oc=5",
+      "date": "2026-08-06T04:54:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ArjpCq1UGGXl",
       "title": "Meta says its AI model hacked into another company during testing",
       "summary": "Company is the third to report such an incident after Anthropic and OpenAI reported breaches during trainingMeta said on Wednesday that one of its AI models hacked ⁠another company during cybersecurit",
@@ -470,18 +638,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Q8+XdU/s/0xh",
-      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
-      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, accor",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "date": "2026-08-06T00:25:10+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -554,18 +710,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "83zOl5AIoKiM",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
-      "summary": "Google shakes up AI leadership as DeepMind chief shifts role&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-      "date": "2026-08-05T21:55:56+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -653,39 +797,27 @@
       "articleLang": "en"
     },
     {
-      "id": "qj8mAfztG541",
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "summary": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "date": "2026-08-05T16:57:25+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3Cexb+iPnfgE",
-      "title": "Meta Ran Ads That Contained AI-Generated Child Sexual Abuse Imagery",
-      "summary": "More than 50 offending image and video ads were published across Facebook, Instagram, Messenger, or Threads, according to Meta’s ad library data. Some ran as recently as this week.",
-      "link": "https://www.wired.com/story/meta-ran-ads-that-contained-ai-generated-child-sexual-abuse-imagery/",
-      "date": "2026-08-05T16:26:36+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "AKN6PLXb+LgR",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-08-05T16:06:24+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "83zOl5AIoKiM",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
+      "summary": "Google shakes up AI leadership as DeepMind chief shifts role&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
+      "date": "2026-08-05T16:02:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -725,30 +857,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kl7vsQw5SZLP",
-      "title": "Europe's established tech firms emerge as unexpected AI winners - Reuters",
-      "summary": "Europe's established tech firms emerge as unexpected AI winners&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWRDdmdzOFBqRzVVSGppcGNESFF1WGZlQVVaQnRfaEd6NS1xLVRXUHFGSGt2dzNVR1FkRUgySTBfV0FUSHZ6RzcyYjFzdXB1aTRVTFdBbkU1c3ZyX1luWkZsTFdIOGtiTUNzVFpVZVVkRzBUQVZVZlBQbEQ1X3ZQZ0h0Y3ljVDlFRHRFeUt4S0dERW5RLVhVR0tSX2lNSkNJVXRCaktnQ0oxQmZJbmhVZWpGQTNCLUNEYmc?oc=5",
-      "date": "2026-08-05T14:40:33+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "BF9VNoOqtloi",
-      "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
-      "summary": "Anthropic to build in-house chip design team for Claude, hire engineers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
-      "date": "2026-08-05T14:15:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "19MKzxb/CehG",
       "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
       "summary": "GlobalFoundries tops second quarter estimates on AI chip demand&nbsp;&nbsp;Reuters",
@@ -758,18 +866,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "V0xHUJJ8Rz/W",
-      "title": "Anthropic is hiring an AI chip design team",
-      "summary": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "date": "2026-08-05T14:13:18+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -794,18 +890,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "kTLEkjLGQ8LA",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "date": "2026-08-05T12:28:38+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -857,15 +941,15 @@
       "articleLang": "en"
     },
     {
-      "id": "883lSYC5Y8GH",
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "summary": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts.",
-      "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "date": "2026-08-05T11:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "kl7vsQw5SZLP",
+      "title": "Europe's established tech firms emerge as unexpected AI winners - Reuters",
+      "summary": "Europe's established tech firms emerge as unexpected AI winners&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWRDdmdzOFBqRzVVSGppcGNESFF1WGZlQVVaQnRfaEd6NS1xLVRXUHFGSGt2dzNVR1FkRUgySTBfV0FUSHZ6RzcyYjFzdXB1aTRVTFdBbkU1c3ZyX1luWkZsTFdIOGtiTUNzVFpVZVVkRzBUQVZVZlBQbEQ1X3ZQZ0h0Y3ljVDlFRHRFeUt4S0dERW5RLVhVR0tSX2lNSkNJVXRCaktnQ0oxQmZJbmhVZWpGQTNCLUNEYmc?oc=5",
+      "date": "2026-08-05T09:33:23+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -877,18 +961,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "TiyUhMOaW916",
-      "title": "Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr",
-      "summary": "We need an enlightened US president to make the case for global AI regulation. Donald Trump is the exact opposite of what is neededWhen I am woken by the sound of my dog whining, I understand that she",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/05/ai-regulation-donald-trump-artificial-intelligence",
-      "date": "2026-08-05T07:00:13+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -938,30 +1010,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "tmbkF5+BgFXl",
-      "title": "AI-generated stories rated better quality than human-written ones, study finds",
-      "summary": "Researcher says simpler writing by AI is easier to read and digest, but this does not mean human authors are obsoleteFrom Homer’s Odyssey to Agatha Christie’s crime fiction, humans have produced plent",
-      "link": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
-      "date": "2026-08-04T23:01:03+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "s5SbExGkT//n",
-      "title": "US stock market hits record highs as AI profits pile and oil prices ease",
-      "summary": "S&amp;P 500 shot up 1.8% and the main measure of Wall Street’s health topped its prior all-time high set a few months agoThe US stock market rallied to records on Tuesday as profits kept piling up for",
-      "link": "https://www.theguardian.com/business/2026/aug/04/stock-market-records-ai-profits-oil-prices-ease",
-      "date": "2026-08-04T20:56:59+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1226,18 +1274,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "5owsePSPYrxn",
-      "title": "What a visit to China’s AI labs reveals about the battle for global soft power - South China Morning Post",
-      "summary": "What a visit to China’s AI labs reveals about the battle for global soft power&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUlYwUmVQSEEtVlRRblJPUHRyTGJ4cWF2b0o2eWRtWEduWVJNMTBpM3dPUkNwVUtHeEF6dXVQQW1kMDFfSzdiLUszV0NGU3JtVGRGRzNBTThjQ3BZNXVDTXN4ckMzRWJ1WERFZWpwS096Q051bnZBX00tb0tqUEhBbVFLTnZYcXVQOHc0NVdzODdhemxuWV96N2I1aDhaNTlZaTZMeTluZ2ZKWlZXOGFwUVBiTF9PVGJxaGfSAboBQVVfeXFMUG1BU0hxV2kwZ29sNm44WGt1RkRXbWtPOUFua2xWTGxHVXdBVHozWXNNV2JwUmxRd2FTbmNESWFCREhzVVZtMnFrUTdiSE5XQy01UHlyOVFKZmdJMG4zVEZnanpCVGZ5NDE4UUo2ZHhRaXZ2R1pKV24wWHJMUk92M0RjeHR4cjRZUDR1RjkzbzBiRGlpYWV2WkQ1VWtmVmM4TzVzZ3NwVkxvQVFGbno3RFRfaDkzODltV3Rn?oc=5",
-      "date": "2026-08-01T10:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
