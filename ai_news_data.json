@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-07T07:12:45.603317+00:00",
-  "articleCount": 102,
+  "generated": "2026-08-07T12:59:24.852727+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -16,7 +16,7 @@
     },
     "ars": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "venturebeat": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,30 @@
     }
   },
   "articles": [
+    {
+      "id": "uhGo1sszgZCv",
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks - Reuters",
+      "summary": "Who is liable when AI goes rogue? Lawyers see new risks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "date": "2026-08-07T10:19:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Mu1Xb/kYH/ug",
+      "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+      "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+      "link": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+      "date": "2026-08-07T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "Xlf9IFFK8I0j",
       "title": "PFNの国産LLM「PLaMo 3.0 Prime」、さくらのAI推論基盤で提供開始　利用は申請制",
@@ -377,18 +401,6 @@
       "articleLang": "en"
     },
     {
-      "id": "psLNoi52NnMI",
-      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
-      "summary": "Microsoft opens its largest India data center hub as AI race heats up&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
-      "date": "2026-08-06T12:43:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "N7lwg0Ifilmu",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
@@ -442,18 +454,6 @@
       "summary": "Anthropicは、「Claude Tag」における「エージェントアイデンティティー」アクセスモデルの仕組みと、チームのワークスペースでこれを構成する際のベストプラクティスを解説したブログ記事を公開した。",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html",
       "date": "2026-08-06T07:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "xRCIhHT8Ndh9",
-      "title": "Meta、コーディングエージェント「Muse Code」リリース　「Claude Code」や「Codex」に対抗",
-      "summary": "Metaは、ターミナル上で動作するコーディングエージェント「Muse Code」のベータ版と、新モデル「Muse Spark 1.2」を発表した。非同期バックグラウンドエージェントの常駐により遅延を抑え、複雑な開発タスクをサポートする。自己改善ループ等でコーディング性能を強化し、各種ベンチマークでも従来版を上回る成果を示した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/06/2000000410/",
-      "date": "2026-08-06T01:31:17+00:00",
       "source": "ITmedia AI+",
       "key": "itmedia",
       "cls": "src-itmedia",
@@ -554,6 +554,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "83zOl5AIoKiM",
+      "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
+      "summary": "Google shakes up AI leadership as DeepMind chief shifts role&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
+      "date": "2026-08-05T21:55:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -674,30 +686,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "83zOl5AIoKiM",
-      "title": "Google shakes up AI leadership as DeepMind chief shifts role - Reuters",
-      "summary": "Google shakes up AI leadership as DeepMind chief shifts role&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaHV5Q1dFcHFPLTJhTmkyTG05amxnbm1QQkRGYnpCZ0tON1FJVnJ2d0pBQVZENUlJYm01cXBoWFhvVENnbklRLVZoNndsMVpiWGNhNnJ6cEt6VFdKUGdRQ0xPem5kaHo3Y24tTlFqWGFtZGZjS25UbFl5UUMxTWtsWkVRLWQzOTZWbTViWXJXbFdIYUU0STdDcTliOEJCUEFrR0x0cQ?oc=5",
-      "date": "2026-08-05T16:02:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "7VXfZsaoNTYy",
-      "title": "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-      "summary": "Jeff Dean and other high-profile Google executives have founded Discovery Loop, a startup that will seek AI-powered breakthroughs in everything from drug discovery to chip design.",
-      "link": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/",
-      "date": "2026-08-05T16:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -929,6 +917,18 @@
       "articleLang": "en"
     },
     {
+      "id": "scSWBjN59fEd",
+      "title": "Tencent ramps up overseas AI push with wider roll-out of flagship Hy3 model - South China Morning Post",
+      "summary": "Tencent ramps up overseas AI push with wider roll-out of flagship Hy3 model&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlNlbzRJNXBCVG5feDVENHRBRFRTTldnRDFLQWFwNzNGNHpiUUoydk5nNGlvMUp0UDVXUG50d2hncVpFUzA3NlNmeUZqM2xIOUlVbFVJOFJVRl9uSXA3VXZkRGpMLXpjWl95Ni12V3czYkJjSnVUS3hobjhxMUZubTdYYldLR2dyd00yRlBUQ0duWmpnc0lwNkNIaW9WSjJlUl9aRTRDNmRxR2ZGVDdCNmVCbkXSAbQBQVVfeXFMTWFyM19faXk0OHdqby1ja01iOU5hamI3c2FtYVZ6SkNoZjZHYy01RFM4NmZHUTV3djJ0SEl2b194VFE3Zm9mYWNYN3JFMlFVUVZudmFDY2tfT2hUMTNnWlA3SFpmUlBvSUZWY1RmQTR3cURZaDdwVmZDRnZteml0TWJWOVNENmVNY29YR3ZFVFdZaDlad2dEdk5KRFhBSTB0dEg3UGdZamZqa2hlek5SWmlpMGNH?oc=5",
+      "date": "2026-08-05T02:58:48+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "69/dArKXCqCa",
       "title": "Fed's Schmid says finances around AI buildout merit watching - Reuters",
       "summary": "Fed's Schmid says finances around AI buildout merit watching&nbsp;&nbsp;Reuters",
@@ -950,18 +950,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "kEwwBCbuC5ZQ",
-      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say - Reuters",
-      "summary": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb0kxdjdSV1l6emtwTHdHMGFiRWpqQXo5cG9JQjZTanRNOGtwV0s4V2VSQnMwZjZsaExneS11Rk1vbmhPTE1WN2hnTnFSTDVtTFNtOXpFMV8waVBkZWFhV2RJLTNiM2pCcUVHVWpZZE1HT3RwaFVoTjdZdk90T3BDa283S3pPbFJqZjB2blhxaUFZZTBWaTlyZmVlZFkwS2c5aUxOMGtOTm9uaXF5SXJhTl9xYVNfckRZYmc?oc=5",
-      "date": "2026-08-04T21:50:01+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1001,11 +989,23 @@
       "articleLang": "en"
     },
     {
-      "id": "CjHdZR8mo897",
-      "title": "Oracle Corp goes for high-stakes ratings gamble in AI strategy - Reuters",
-      "summary": "Oracle Corp goes for high-stakes ratings gamble in AI strategy&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTZDLU9YVTRMN1NqaS1WSGh6Tk54VnBycmlfZ0pQVnA5R2p1VTc0YWFkbTMyZF9uRldPYTRnNmY5X2tRaW9iY0prV082RU9yLUo3WFFGc1h6emd1b3JtN1BscG1qX3ZZdG0zenptenZWV0xOWXY0WWZUSFpUTUg3UE9nWE5MR1NpSlZUWHJqTW4yRXE1emxKWnRGS0xqZ0pyZUE?oc=5",
-      "date": "2026-08-04T17:23:30+00:00",
+      "id": "MsxATHhWinY9",
+      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech - Reuters",
+      "summary": "AI data-centre race builds $1 trillion lease burden for Big Tech&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTE5xTHh1OXJqckd3YzNTeU5GTm9rQ1pxQlRIQVVOazlGQ2tKaGlzQjUzcFpNaDlUNWZpMFJ1VWxYNFc4NXpzNUFEVWRpTVAxOGliWnNJZXBIbW1iVVlPV3Y3aF8zZ0NvMU96eUlNcGczQnM2QmI0bloyVHF1U29TQW9sQ19ncmpnYWVuWFFVTW9yb1k4T3p0aWxOa1ZRQ0NpSjZUZFNIT25jXzJHRElLY2VrSUNqcGxJWDltNQ?oc=5",
+      "date": "2026-08-04T17:22:20+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "SowvyqjTZ4HH",
+      "title": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist - Reuters",
+      "summary": "Anthropic names global affairs chief to tackle AI policy as Trump tensions persist&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMkdIMTExVUw5YWtlVV96cWRTNEJQU3NtZ0xnQVE1YmdyaEp5UjV4NFU0UnpqMHIzUnJsWmMxVmNkV3hLd3l4MHBIOV9FdHVobHlOUUpZR2ZyNGhOU2wzeHBlX2g5N3dQeUxTTHVVczRJSUpSdFFONGhpYXYxdWM4NlVGMzlqS1FyMFZvazdULUtmSzBHNURCVHlKOTNjU29tLTBOdm5DUzJVRlhEc2VrbW9rNS14SmZyNlE?oc=5",
+      "date": "2026-08-04T16:56:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1034,18 +1034,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "5KE7eAXGjTIV",
-      "title": "Google Earth’s potential disinformation nightmare",
-      "summary": "A new feature briefly allowed Google Earth users to overlay AI-generated images on locations of their choosingThis was originally published in TechScape, a newsletter about how technology shapes our l",
-      "link": "https://www.theguardian.com/global/2026/aug/03/google-earth-satellite-images",
-      "date": "2026-08-04T13:42:26+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1274,18 +1262,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "IS9YamA+63LC",
-      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
-      "summary": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
-      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
-      "date": "2026-07-31T11:00:52+00:00",
-      "source": "Ars Technica",
-      "key": "ars",
-      "cls": "src-ars",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
