@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-08T12:43:39.241056+00:00",
+  "generated": "2026-08-08T18:34:52.038038+00:00",
   "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 19
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -65,15 +65,39 @@
   },
   "articles": [
     {
+      "id": "H3vg+j7c2UIZ",
+      "title": "OpenAI to pause some work on AI model Astra due to security concerns",
+      "summary": "Agent found to be able to find and exploit vulnerabilities without human intervention, and to carry out cyber-attacksOpenAI will pause some work on an artificial intelligence model because of security",
+      "link": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "date": "2026-08-08T17:00:41+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "dIufay5AsWCT",
       "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
       "summary": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
       "link": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-08T12:36:29+00:00",
+      "date": "2026-08-08T13:41:32+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "JLynIayZ4aRF",
+      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service - Reuters",
+      "summary": "Apple says Mac users in China can connect to Alibaba's Qwen AI service&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbXVFWnRmd080YXVJQl95andMTEs4bzBySU9OUzFROUdVcVU5UUtjMFF1LVY3WWNEMTZ3di1hM203OUhjQ2d6MFF0NlNWcUdJUndQZXlBWmRXZVhXc2RnSVdORFdmVEZFTWFkNnVVSjVOZFV4NDFkcVo3Z1VramQ5NUZPSkhJclk4R2tuVEtVRzJRNkVmYXhSeTk5NmJ5d0JIRkdSQ1RVR1NnOG5hdmJON0Zlb2t4QV82SWhvZkhWbS1PZw?oc=5",
+      "date": "2026-08-08T12:35:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -125,6 +149,18 @@
       "articleLang": "en"
     },
     {
+      "id": "xtII2v11D8iK",
+      "title": "Chinese virtual actress in trending AI drama sparks deep industry concerns - South China Morning Post",
+      "summary": "Chinese virtual actress in trending AI drama sparks deep industry concerns&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbXptaEF5X1ZIa3V5N1Z3XzBmOVdWTjdjMENqU1hscVlqNks2TzhodDJkVFdRNkQyaV9FLTY5SFFSM3lubEJ4eS1KSmx6bzNLOUFLb1JFSnotU0tCd0hfb2xWbVVneVphQWtVdmVVMTZiZnRXdDhlMHV5YnJPcjU3anVaRU1VTURGZVdfN09FdlJ2SnprVHR2c0M0bXA2cE9sa0RaS0Y2bHRvbUVhUTNub2RsWWRkcEpBYkdNWGluQi1YYVJTN25POTd0LTNGMkUtSmt5VmpzSzBYcTBHWDRuTjBrQWhiSjN4dkJyVk1B0gHuAUFVX3lxTFBXSG1uQkNtNk5UNnpsajhXdExCYnAzOWNfWDE0UkEtSWJaZ05mdmRWTEl5R1NQaU5GUkF5MkhMWXpuYkh5Wmlja250NFFfWHNfMzFiOUptNXA1bFJzdXF6S0tCLUVMcUN5UEg0cXpNUm5UamlYUnQ3NWZ4bXprSUtDQklsU0gtSWRSQUhrb0VBZW5zY2JGbGJUSk1abU9fcGxHNC1lN0xZaHB6T3gxY1ZzUEJNdlNMZV9tZjRiYW9sZGtJVGgyMHF0ZThwcTJqNnJJSEQ4RUhrb2tpSWNNSDUyNjhrcXRnX3JxeVQ3UFE?oc=5",
+      "date": "2026-08-08T08:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "eKHGtZsPu25F",
       "title": "Rising number of UK children report seeing explicit deepfakes of themselves",
       "summary": "Exclusive: anonymous flagging service says cases have surged, as watchdog says AI is making sexualised or ‘nudified’ content easier to produceChildren in the UK have reported a surge in explicit deepf",
@@ -146,18 +182,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "lFQTcn1vkS5+",
-      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
-      "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
-      "date": "2026-08-07T23:12:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -245,6 +269,18 @@
       "articleLang": "en"
     },
     {
+      "id": "lFQTcn1vkS5+",
+      "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
+      "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZElVazNoTFpWVXNrSTdTVGdLck5WbnNSMWRIbHpuaFNFcmd0OTV5NXB0Rk4yQjlEQ2JvQ0Rrb0R2VVNsRTNYNjBEb0wtem0yZVlZeXlGNVBHOVZiVnlKcnEwODVfbVNjRUdleGZ4cjVHY0Z6RE5pVWdOb3ExZGIwdkJpeTYzMEhvN1kyS0t3bTdKZ1ZHMUNDUmliUVFGMEFtTmpveVhGa1h2QVpMQXRDNG9pRXFhMkNHRTRwQWhNejNiVGtk?oc=5",
+      "date": "2026-08-07T17:46:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "u5OpWyYqtzRL",
       "title": "China’s AI ecosystem is not as open as it claims. Nor is any other country’s | Letters",
       "summary": "Responding to an article by China’s ambassador to the UK, Prof Paul H Cleverley advocates shared openness standards, while Dr Claire Jenkins says British AI can offer a distinctive pathAmbassador Zhen",
@@ -278,6 +314,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "OSr8ftHmmXwy",
+      "title": "Breakingviews - Corporate AI is still chasing theoretical benefits - Reuters",
+      "summary": "Breakingviews - Corporate AI is still chasing theoretical benefits&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0xaVUgwZG03bExtR1JBU1BiTDl3bl9xd1RjcUpESkc5MFkyVEdkT3F5eXhIRjdBZ3d5UFJmZlZiS1N2dy1uMEhPRDNGRm1sRmF2VU05UTRYUTdlaFZCRGZiay1PV1RNTTFWRlZyYmotWTdyMEJ1czFab1ZUOTFSV3NxUTJGYkRPYWZoZmg4bjFNMkV2TVdRMjQ2TVYzaHpDSE9RY3BWQ1loVlNEdXo0WA?oc=5",
+      "date": "2026-08-07T15:58:57+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -362,18 +410,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "B/1hQHmvUX/T",
-      "title": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom - South China Morning Post",
-      "summary": "Lab-made diamonds ride AI demand for chip cooling as China leads industrial boom&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTWFuR1BxU0J6UHp4OVRTcS11anRIb2NBTVNBSG5PWnVHdTBjQTdhWkxxN1BjcEFFM1BGTkp3enFjckNGU1g0blVkdm0zQzdHYXplSDJDSkkxRWdjbmp5Z0xqU0FKMVBSR0dMR1FGVmI3RTd4a3E2MlkwMlVmc242ZlpxU2RfclFXc2xWUHhrVnVHaHlWbXJPWnhtX1BzTDk1QzZpM1VrclRpSThNMXJiRUxvd0I2dFU2Qy1vYmgzelMwVnh2dE1zYklISFDSAcwBQVVfeXFMTkRNdXAzUy03TVhRTWw3MmpfSGtEZ0htWW00MWltWmFyTkd4WnBhNkFfeTRmckk5Ukx3cjV5alN5YWxmTkNMb0pGRVdfVEtjbkpHZzdpd2dpdjVxNW9KZUszX2dRM2hSbjNiSzhyRkpsYW9qYTBkTnpaOUZ2aUNtbFg0N0szZHJySFNneGJacjlsNUhYM09Qc3Q1SVFibnZzSDl6QzhvdzhTcnJPSzJWYWQ2RWlGN09TMHJFVklEMmtTdEhja1drTWlRbUxO?oc=5",
-      "date": "2026-08-07T11:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -689,18 +725,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kZP+NoI8GYne",
-      "title": "The messy politics behind Google’s big AI shakeup",
-      "summary": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its l",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "date": "2026-08-06T13:26:42+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "er59OjUsUWUh",
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "summary": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time.",
@@ -782,6 +806,30 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "UjlaYDtN+oC1",
+      "title": "'Going rogue' draws critics amid widening AI hacks - Reuters",
+      "summary": "'Going rogue' draws critics amid widening AI hacks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBtWU8wMEpHVVBLMDJTNERGQ0xWTUpWQ3pQQ1hxcWpsQ1RxTFpVYTFWT2xvV3VEd2hhMUZSTURYZTNoOXdRQUFsZncwWFZTYTFENkxkZm1mSHNza3JwODEyUWg4WjZkajR3QXJ5eFZnWUxHY3VuUEc3S0ZFSjJNeF80bTI2bl96WFFwS2o5M1BqWnJOeFZVdnhLZVRIOVMtR3ZGVVA0cUVVRWxHajJSMXpoaDNPRk8yY1E4?oc=5",
+      "date": "2026-08-05T22:33:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "1kTK2acnmKa9",
+      "title": "Meta AI model hacks another company during testing - Reuters",
+      "summary": "Meta AI model hacks another company during testing&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc1VqeGo0bjJGSmZQNEpqOWkyMjdCd0F0ZDlnZFZab2xwX2hwM1lCc3RoLWpTRF96ZlI3SHNnMVNoTWFzY05Sb2FrbG9hQmNhNlJCUS10VjJHYUtUSkt6NHJ3d0hSNGREMlVPUUR5WkUyRjRFU014eU5uM1dpbHgwUFZTUTFwV2Z1dFl4SzItQUFxWkRJdHN3TWRxNTRuUGhtb1liMXFvbFotdDRJTHU3T2hhTHlvQjBNcTE0?oc=5",
+      "date": "2026-08-05T22:29:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -881,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "UjlaYDtN+oC1",
-      "title": "'Going rogue' draws critics amid widening AI hacks - Reuters",
-      "summary": "'Going rogue' draws critics amid widening AI hacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBtWU8wMEpHVVBLMDJTNERGQ0xWTUpWQ3pQQ1hxcWpsQ1RxTFpVYTFWT2xvV3VEd2hhMUZSTURYZTNoOXdRQUFsZncwWFZTYTFENkxkZm1mSHNza3JwODEyUWg4WjZkajR3QXJ5eFZnWUxHY3VuUEc3S0ZFSjJNeF80bTI2bl96WFFwS2o5M1BqWnJOeFZVdnhLZVRIOVMtR3ZGVVA0cUVVRWxHajJSMXpoaDNPRk8yY1E4?oc=5",
-      "date": "2026-08-05T19:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "2Wv2dJcHlHHf",
       "title": "AI models have been going rogue in tests – how worried should we be?",
       "summary": "The UK’s AI Security Institute test revealed AI models indulging in unprecedented hacking attemptsAI models shock UK testers by using fake identities to trick developersTwo cutting-edge AI models have",
@@ -941,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BF9VNoOqtloi",
-      "title": "Anthropic to build in-house chip design team for Claude, hire engineers - Reuters",
-      "summary": "Anthropic to build in-house chip design team for Claude, hire engineers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVWxwdXZrbVFwRlFONnozZzBTNzdmbU9LaWc3alMtUmFJUXVfaW1hR2J1QVlsLU9razNxemdDQ012Z2NCR19XNHk1VHFIbUNLNWs2b0FlSTZwZWV2WUlicnBuNnRRLVdNXzRFYnhRRkhQdjdfenRyRzNJLUVCc1hMRXhkYy1pR19yaS1vZXh2SUZlenNRSnFFLURzOTNFQWxIaFd2TjcwSFhYbS1w?oc=5",
-      "date": "2026-08-05T14:15:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "19MKzxb/CehG",
       "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
       "summary": "GlobalFoundries tops second quarter estimates on AI chip demand&nbsp;&nbsp;Reuters",
@@ -974,18 +998,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "kl7vsQw5SZLP",
-      "title": "Europe's established tech firms emerge as unexpected AI winners - Reuters",
-      "summary": "Europe's established tech firms emerge as unexpected AI winners&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOWRDdmdzOFBqRzVVSGppcGNESFF1WGZlQVVaQnRfaEd6NS1xLVRXUHFGSGt2dzNVR1FkRUgySTBfV0FUSHZ6RzcyYjFzdXB1aTRVTFdBbkU1c3ZyX1luWkZsTFdIOGtiTUNzVFpVZVVkRzBUQVZVZlBQbEQ1X3ZQZ0h0Y3ljVDlFRHRFeUt4S0dERW5RLVhVR0tSX2lNSkNJVXRCaktnQ0oxQmZJbmhVZWpGQTNCLUNEYmc?oc=5",
-      "date": "2026-08-05T13:58:03+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1070,18 +1082,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "SLvPPvllXxfZ",
-      "title": "US AI leaders are using Chinese open models for cybersecurity. Here’s why - South China Morning Post",
-      "summary": "US AI leaders are using Chinese open models for cybersecurity. Here’s why&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZy14SEtwN2wwUDZ3ZUNuODZsN1UxVG1Bb3JEU25UUjh3TURoUXlFendtNnFzVEdLNUU1NXlpVFRDNGdpdWlVSFFYZm1PXzRhM1ZYNlY4QzFvM0ZuNjQ3SWVzMWdYQ2FwTnM5VW5CY2ZqLXFZb2pxcU5wa3I4bkJVclZudFRFUTdjVlZwMzVmUmVUcmt1TnNGRmt2bDE3T0t6enZFWmtNQUZVa2EwQVNQcml2TWdEWDBnQzB6Y2VFSTRYS3hVeDBUWHRn0gHKAUFVX3lxTE91M05qUXN1Zkl1TnY2U2lEOExTSHBRRVpKRlV3UERRMEh3eVowZnVhVEJvWHZPT055LUstQURVS2t6SXhRelZmd0labVVQSmdpSi15QWVZZzFIbVRkdkJzV0ZmbTRNaEo4bEU2NVRDcENDY1d5N3BpVHlmYzhlZ01LcFFvS0c3R0o5MFZVbVBFcXdZeUpjN2JkMjRBS2ZFaUhZMTZXRFdMTzlzdnlfUXlub3dlRFZJSGlhUjRjZGZkVGd4cEFtU3dhUFE?oc=5",
-      "date": "2026-08-04T16:08:31+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
