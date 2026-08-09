@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-09T01:38:17.938071+00:00",
+  "generated": "2026-08-09T06:53:39.598565+00:00",
   "articleCount": 98,
   "sourceResults": {
     "verge": {
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     "bbc": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "scmp": {
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,30 @@
     }
   },
   "articles": [
+    {
+      "id": "HenRwKtonGEC",
+      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに　8月14日から",
+      "summary": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
+      "date": "2026-08-09T03:12:07+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ZUsxM3nhPBTr",
+      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能　macOSとLinuxに",
+      "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
+      "date": "2026-08-09T03:11:16+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "RqSG02kovaiV",
       "title": "OpenAI acquires presentation startup NextSlide",
@@ -281,6 +305,18 @@
       "articleLang": "en"
     },
     {
+      "id": "/X32kJtXChYa",
+      "title": "Trump says Congress wants to regulate AI industry 'out of business' - Reuters",
+      "summary": "Trump says Congress wants to regulate AI industry 'out of business'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
+      "date": "2026-08-07T18:35:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "lFQTcn1vkS5+",
       "title": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls - Reuters",
       "summary": "OpenAI flags possible critical cybersecurity risk in upcoming model, tightens controls&nbsp;&nbsp;Reuters",
@@ -353,18 +389,6 @@
       "articleLang": "en"
     },
     {
-      "id": "onJiYtZWne7I",
-      "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say - Reuters",
-      "summary": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc2Q3eXFPcENXOWZ2cFkyM0lQUEdyMGhqTTdDbHc5dWZMa0xhV2x1U0RpZ2pUT0d5MjdNNjlHR1ZVRklMZmxnZHA3VHJyRnBJTzhsR2Jpc1dGQ2F2cnQ1VkhsMHBiZ3FQOU5BTWNjVERRdktTRjQ2UEFQMi10VmZIQzNQdzlacXc3U2lrNUJFUHV1djVlRGhvYVhCejRpX0w1dDFkS202MU5hUDBSS285b0Q3TnZORE8xZWJoM0F1VU9HVWR1Qkwzdk93?oc=5",
-      "date": "2026-08-07T14:38:25+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "CC43TlO4l30/",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle.",
@@ -398,18 +422,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "LfGheTpPAxRc",
-      "title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff - Reuters",
-      "summary": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR?oc=5",
-      "date": "2026-08-07T13:55:12+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,6 +773,18 @@
       "articleLang": "en"
     },
     {
+      "id": "psLNoi52NnMI",
+      "title": "Microsoft opens its largest India data center hub as AI race heats up - Reuters",
+      "summary": "Microsoft opens its largest India data center hub as AI race heats up&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMFgtRkEtVW1zYXgyeXc5aEllQTBxbTZCUFN3Y05SYjVZY1lKc2pHSFJJN3JXajExMmt3Z3hDTGpqNlZyX0VxSUNjSG83bEVsYlRHRktMVW5MMXl6Sld2dXpnQVdwQkVKTjVVZXZKNngyVUZYRnZmdnNPaF9FOE84eG9CUzFHakFpNWJNUGJsaTY1QVRmMTVGbmFZd3p5VWNJWDV6RkZGSXkxYUJ1NjdfOHZraWE?oc=5",
+      "date": "2026-08-06T12:43:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "N7lwg0Ifilmu",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
@@ -782,6 +806,30 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "/UeJvPjm0jva",
+      "title": "ByteDance founder tells staff to avoid AI distillation, The Paper reports - Reuters",
+      "summary": "ByteDance founder tells staff to avoid AI distillation, The Paper reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ042eTRfNkJSQ3J2M2JLampONk5fRVo1N0dlSnhjeEtFMURhRFRfb3VncnhPYl91MHViUldYYzB1WUtZbUI0VjFWMGRRN0R6WTNvZGpmcmkxMFVKMUR5WDgyOU5mRkYwZEhnbHIzbGJKS0RmOVZmYmM2MmZibE9LeTVpemp5NnNMSWU5Zk9ZRVFtemgzcmhuTzR6eDFhS2NuNVlnVGlGbnNuMm5sZ2J3WGlHSQ?oc=5",
+      "date": "2026-08-06T07:20:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "+CCvxJChshK1",
+      "title": "Morning Bid: AI stocks learn to fly — but ain't got wings - Reuters",
+      "summary": "Morning Bid: AI stocks learn to fly — but ain't got wings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVdyc053UEtXR1QxVFh6Q0xDYjlVYUxyaXdYZG05c0lkaHhoQnhZSnJGaXhPTFhoMkEwMUIzdE0tV2F0WGI1NGtxdTJGWklQV3JfYjRmU2dYXzQzNXBpeDRhT09ITGN3aGM4ekdDb2xzejNjUldiSVY5U1ZlWFJFaDYycG8ybzZKYlY1NG5R?oc=5",
+      "date": "2026-08-06T04:54:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -929,9 +977,9 @@
       "articleLang": "en"
     },
     {
-      "id": "AKN6PLXb+LgR",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
       "date": "2026-08-05T16:06:24+00:00",
       "source": "DW Tech",
@@ -953,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "19MKzxb/CehG",
-      "title": "GlobalFoundries tops second quarter estimates on AI chip demand - Reuters",
-      "summary": "GlobalFoundries tops second quarter estimates on AI chip demand&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3M2M3BPLXpSSFBXMktMVG5vRlFGcmEwT0FYRzFfV3dHcG1RSU5xTzFNeU5ubkpWZWcwcjRMQmFfWTF1c3NUZEtHU1V6Wl8zakI0Y1lWRk5NSnNROGRFMHdIbGtKRXpDWFMybDU1b2d1Y24wdlBzcDJmU3dERDM3Q3hpemgyTmNnLURjaW1VOVlKX0RfTEZFWTVMTG02RmFHelQ4ODVTUFQ?oc=5",
-      "date": "2026-08-05T14:13:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "zaNj8RUWmaRG",
       "title": "SpaceX shares sink after first earnings report reveals huge AI spending plans",
       "summary": "Elon Musk told investors that people were \"underestimating\" his company.",
@@ -974,30 +1010,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "NX87476/5Z/Y",
-      "title": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses - Reuters",
-      "summary": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHhpSGlESVJCQlFvN3kxZXlKcFVVdk1nV05nallYenVpVS1sc0hGcDJzV183RHFQampGM3FIUzlCVl9NYU9Yb1N4WkhZcGZGYjhaZU5fV0dORjVPRWJuWEFaZTBBWUZRdW1pV0NZOVY3Z3NNdWE5V3V2cHZPYlhPazV0c2p3emlhelNnQnBocFF2dTFpRTQtaHNNcmtCaGVmdjRITXJIYTBocG1QTl9qdm5aam1mcklXeFE?oc=5",
-      "date": "2026-08-05T13:04:53+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "KkwR7VneV9oj",
-      "title": "NEWSLETTER: AI finds previously undetected health risks during sleep studies - Reuters",
-      "summary": "NEWSLETTER: AI finds previously undetected health risks during sleep studies&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONWFfdVd6T3NQd3lzbE14dEFxdVlDVkdtd3NUMU4zZWROTDY0Q0hOcEwxN3YzbF85dkJnQktlaExENEgxMTJNcHVtdVlPc2s1a3JhTF9FcEZub1l0empGYkxoZXVteWgtOUU5SkVqcnlYd0JhRkxWdGhtc01Ld3lVOVBmdlJGRkNIQ3BzbFBIQnZ3Q3d4d1V2dU9jM2s1RHlWbUxSWWVfWGxFQ3RQRjQ4LWpyckVfaG85eHgyeVRFTGU5Si1hSnN4NThaSi01bUNKZ3c?oc=5",
-      "date": "2026-08-05T11:11:48+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1157,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cFwyO9yTIghv",
-      "title": "Breakingviews - Big Tech’s circular AI trade grows too big to veil - Reuters",
-      "summary": "Breakingviews - Big Tech’s circular AI trade grows too big to veil&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGlMYXdPSkJjMzdsYmVMLVUxdHFkRDh5TWhnQnJvTXhqc0Y2UjE4TllHRlAwSHNyekhIT1pvZ1lRM016aDUwNXRUM0dDUnd6eWd4cE9VYzlaTWNBWnR5NWlkQ0xQTWlnR01vREFmWmV6SmtwRUJEcmhzQ1EyYnlmRjllQmZTdExodGVGQ1NJM0ZydzdBU3NGamZVUGtCQjJlVjVlRnMwbzRVY00?oc=5",
-      "date": "2026-08-03T17:45:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "bGjLw7u1vl3B",
       "title": "Britain says it is open to AI regulation if voluntary safeguards fall short - Reuters",
       "summary": "Britain says it is open to AI regulation if voluntary safeguards fall short&nbsp;&nbsp;Reuters",
@@ -1178,6 +1178,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "bsvrAOxmE3J4",
+      "title": "Why tech firms are locking down tomorrow’s AI researchers today - South China Morning Post",
+      "summary": "Why tech firms are locking down tomorrow’s AI researchers today&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWXlTY3ZFcXE1V2tmb1c0dW1fMmRLSkNYRVJ1RnlBNDFZMF9aQXVleW1OSjl1ZFZKWHFzRFdvdTlHbm5EbmItLTlMQ0kwN1B1SGFXZHg4RGh2c2xTMXVaQXVDcUt6dkNWMFJsdWFhTEJxeHRBeEtLQ0hiZVNlV0thU1pqRjNuQkVGaWRVZzFCZnR3VmU3bVZLU09sMHc3VnJqUzBKclhVZlFQa3AxNDB2TW5nQWFkbWJvcGlQLdIBvAFBVV95cUxQdDdSaVc2VkZKaURJTkNUU2lUcVZRWWVnRUh3WG4xUjkyQm9HVkdxSlQ3T3FGck16NkN5UWxLbUpDNTlQY2U4QUlaaWZ2Y1FQUENVUnR4ZnhQUE12NDlNVE54TmVNOUhjVXN3bG5wdXlMLUg5UVVnb0xGMWRFUWFvNnQ5VnVmX2d2QXVoSTRfcm5Pb0lyelVLb1lOdTB6YlpWZDRQNjIyRFdEZjFEVEgxSExRdl9vZDM0R1R4UA?oc=5",
+      "date": "2026-08-03T14:00:24+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1226,18 +1238,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "s3ZR7gZW7P97",
-      "title": "Hyundai wants to be an AI company, not just a carmaker - The Korea Herald",
-      "summary": "Hyundai wants to be an AI company, not just a carmaker&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxSkZfZDR2a1pPWEd1NExoQmFIZnRCWDBjRW9pTkdTdjhpaDByNjliN0xzWGdxQW50OWNhMzFCeklNcVQyWVBsdjNCNjJSdGpPcUZYTjA3OA?oc=5",
-      "date": "2026-08-02T04:53:45+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
       "articleLang": "en"
     }
   ]
