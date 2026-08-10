@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-10T07:37:54.537936+00:00",
-  "articleCount": 96,
+  "generated": "2026-08-10T13:03:41.950874+00:00",
+  "articleCount": 97,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -12,11 +12,11 @@
     },
     "mit": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "ars": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "venturebeat": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 11
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,131 @@
   },
   "articles": [
     {
-      "id": "NhN7r8/Dw103",
-      "title": "Australia news live: SA premier announces royal commission into AI; Icac witness questioned on fake invoices says ‘every tradie in Sydney has wife as the director’",
-      "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastPolice say the remains found in a suitcase near Goulburn are not human.Supt Linda Bradbury with NSW police said:Some",
+      "id": "N/8rZDHenIYR",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eri",
+      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "date": "2026-08-10T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FqFrGZ2GN6fq",
+      "title": "What happens when medical students rely on AI – and never develop their own judgment? | Simar Bajaj and Joseph Sakran",
+      "summary": "AI’s danger isn’t just in experts losing the ability to reason. It’s that trainees may never learn how to do so in the first placeIn healthcare, there’s growing concern over doctors becoming less clin",
+      "link": "https://www.theguardian.com/commentisfree/2026/aug/10/ai-medical-students-judgment",
+      "date": "2026-08-10T12:00:44+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "vts6486nDxBs",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "date": "2026-08-10T12:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "nEmGztsX59xB",
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "link": "https://www.wired.com/story/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "date": "2026-08-10T11:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xFCgBqh9R3cA",
+      "title": "Peer review is overwhelmed—can it survive in the AI era?",
+      "summary": "As research and AI-assisted papers surge, volunteer reviewers struggle to keep up.",
+      "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+      "date": "2026-08-10T11:00:47+00:00",
+      "source": "Ars Technica",
+      "key": "ars",
+      "cls": "src-ars",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8JjRvl4wKUxd",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "date": "2026-08-10T11:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "4Rmc8PYAu0rg",
+      "title": "The Rise of the 1 am Job Interview",
+      "summary": "An AI interview is increasingly the first step of a hiring process. Since there’s no human on the other end, candidates are scheduling them whenever—even deep into the night.",
+      "link": "https://www.wired.com/story/the-rise-of-the-1-am-job-interview/",
+      "date": "2026-08-10T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fEhjPDdq81s0",
+      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
+      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
+      "date": "2026-08-10T10:14:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "lHMtC8J2/omE",
+      "title": "Convince an AI it’s not alive in psychological horror game Prove You’re Human",
+      "summary": "Sunset Visitor studio’s founder tells us about their new, unnerving Captcha-filled world which prompts players to ask what it means to have a ‘meat body’Sunset Visitor is a studio that has long engage",
+      "link": "https://www.theguardian.com/games/2026/aug/10/ai-psychological-horror-game-prove-youre-human-sunset-visitor-studio",
+      "date": "2026-08-10T09:00:39+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "mQZU2Cg/qqX5",
+      "title": "AI for science needs reasoning, not just data",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
+      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
+      "date": "2026-08-10T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Majl4xxua1LG",
+      "title": "SA premier announces royal commission into AI – as it happened",
+      "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastPolice say the remains found in a suitcase near Goulburn are not human.Supt Linda Bradbury with NSW police said:Some g",
       "link": "https://www.theguardian.com/australia-news/live/2026/aug/10/australia-news-live-transport-minister-sydney-airport-air-traffic-control-catherine-king-aukus-public-inquiry-malcolm-turnbull-alan-jones-trial-ntwnfb",
-      "date": "2026-08-10T07:34:15+00:00",
+      "date": "2026-08-10T07:56:39+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -101,6 +221,30 @@
       "articleLang": "en"
     },
     {
+      "id": "8D206/hSu6ru",
+      "title": "What is delaying Chinese AI giants switching from Nvidia to local chips? - South China Morning Post",
+      "summary": "What is delaying Chinese AI giants switching from Nvidia to local chips?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWRQN3VGdjlsMXJtcXEyRHpCc1Nhc1JockExOG5OcnNVc0lEUkFyTFBsa2tiOUc4Zm1QUTZkbm8zTjhwenFMMXlObXNpZVZ2V3ExWEpES2dNNlRpaG5xOWp3MVpDQmdzbWx6eGNYR3psYjFUd202QUdpQTJieU03MDg5Qm9QWlNtOFU4ZFFwZ2JHOEdlb3FldWNtUm5xV3Jxc3Awc2RmNlR6a1BYY0cycWlQekV6Q0tKeXdmcmpoNDDSAcABQVVfeXFMTnNYOUhOODJOQ2UzOW5RU1VjYm5VLWpOdTlIZmlDT0pON1pPSTNTM0xlNDVydUx1WHR1Z2EzSEd6VmRydTRUblBsMnlJQTcxVXBEWE4wdDAxajBWdG1zMFBlU2Y0bzcwOGstM2ViVVk2VlV3aE5RNzFnUnNhWV9fWHFxNkJuVUZBQzg1U3p5dHJ1aEZETERBZ2xROVBZSEl6VnVNRl9HaVpENmRhZ25NamV4XzZsOHZ0NGtaUU5RUFNf?oc=5",
+      "date": "2026-08-10T05:00:23+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "i2ojZkcl8ah6",
+      "title": "China enables free access to DNA-screening AI tool to help fight rare diseases - South China Morning Post",
+      "summary": "China enables free access to DNA-screening AI tool to help fight rare diseases&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVJ0d2pmekhWUXI4SW85NC0zNEl5bTZNbGNueXZVNFR6a3FRWlN2bTBLQlFkTnZMMHVkXzZrUDk3NTVqVnkxODF2Q1gxb1VGeXBQWnhac2g4RVA5dzkwdzBqTXN3RTdXanJ4UUNITnhTRnByV1RyLXNlTVVkSzl2N2VUcEpmQk5qSHROdTlBcXNjRWFXTFk5XzNzX1R3Yi1nNU1INEtOeDBtREVCS05fR2h1bjAzazJPZklVNkNJbTZCRTB0dF9TQlhtVdIBywFBVV95cUxOQkVxaVF5Y2F4azBoMzFTYVdTcWpQNGZ1ZmNsWklIMkIyTlFUM09pTXZibGp2SkdLVzk0RDQ2cjBwanppOXladERuWmF3V1FEVkdsUFJ3eWR0SXRSbmhuNFZZeHBvTFFXRWF1UWpMTXRZSFIyWFZMcW5oXzN4QWRJY0VJOUduVFFZak9CaFppeWt1NG5zZ1BDS2xCYmR1amJBRHA2cTM1LUhQeVNNenBOa1FKVElwUHFqcEUtRXE4R3VtN3l0V1Ruak5xdw?oc=5",
+      "date": "2026-08-10T04:00:17+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "1ELsW+dgg1uh",
       "title": "避難所でAI使ってサービス開発「イマココナビ」　ニッチな生活情報も被災者主導で共有",
       "summary": "熊本地震の発生直後、人工知能（AI）を活用し、被災者どうしが生活情報をリアルタイムで共有するサイトが生まれ、好評を呼んでいる。子供が遊べる公園、爬虫類のペットフードの売り場―。行政では担えないニッチな内容を共有できることも強みで、すでに16万人以上がサイトに足を運んだ。「情報」が欠かせぬ一つのライフラインとなる中、被災者主導で悩みや提案を共有できるこの仕組みは、災害時の新たなモデルケースといえる。",
@@ -111,6 +255,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "4AkkSmjDhKVW",
+      "title": "North Korean hacking group builds AI tools for cyberattacks, report says - Reuters",
+      "summary": "North Korean hacking group builds AI tools for cyberattacks, report says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTTM0VnQ2S3MzSjk1RTlkeFJPc3NoYVJHQjU3Y1JoQTZuU0lfWlV4Wm4xWkN6Y2JjM0E2azJYTi1YOHVXdFFzN2ZVNzhsdnhWclJyLTdFV1FmWEdWMnR4S1ctbllrT29iaFFGY3NqN0hKLVRRSlU3WWJfUTFnM3FvQ2NaUlpzU3UyN3JDckRQbmNZd3NYQ0JISjFDamR5amNUT00yNk9DQjY2ekwwZ0VxZjF3M2VwQ2RsWXVjSQ?oc=5",
+      "date": "2026-08-10T01:08:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "AbT0lv7rnm34",
@@ -785,30 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "iHa3AMJR4rz2",
-      "title": "Furious pace of AI investment on some Fed officials' radar now - Reuters",
-      "summary": "Furious pace of AI investment on some Fed officials' radar now&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNVJ6UjE0RWczVm91NXNnb2E0aC1mRnpRRExGbG83cnNsWDdQbmt4cHVlMkh6ZWZLaUZUM1pkWGh0TVcydW9IZEpCZFJOSG1MWktFcHM5Y19yV3JqMEJXaDhCZGRwNXpJakRzMXlJUURvMXlkdEI4cS0tMmhLeHFkT1JQWUtuQnFjYjhTVHRpcmJVTmF5Sm5CR3I1SHhZRWxaMmhVNGdUVG1UcklWZkVqNA?oc=5",
-      "date": "2026-08-06T19:13:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "U61CRVlBtBlk",
-      "title": "Safety fears as scientists make first viruses designed by AI",
-      "summary": "Researchers say breakthrough offers hope for new medicines but also raises urgent biosecurity questionsScientists have made the first viruses designed by artificial intelligence in a milestone that ra",
-      "link": "https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai",
-      "date": "2026-08-06T18:00:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "BQqUgbXUrN6y",
       "title": "Suno shares plans to combat spammy AI music",
       "summary": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey",
@@ -841,30 +973,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "WjPG5kOZSIlN",
-      "title": "Lloyds Bank should publish the human cost of its AI savings | Letters",
-      "summary": "Banks should factor in the time spent by humans checking invented facts, writes Dr Gleb TsipurskyYour report (Lloyds Bank to cut £2bn in costs as part of AI-powered strategy, 30 July) raises a questio",
-      "link": "https://www.theguardian.com/technology/2026/aug/06/lloyds-bank-should-publish-the-human-cost-of-its-ai-savings",
-      "date": "2026-08-06T16:45:49+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "r4R/6sB7G0fz",
-      "title": "DeepMind Says Its AI Can Predict Hurricanes Earlier Than Everyone Else",
-      "summary": "Its WeatherNext model, which will be open-sourced, can accurately predict a storm’s track and intensity using lower-resolution weather data. Researchers don’t yet fully understand how it does this.",
-      "link": "https://www.wired.com/story/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "date": "2026-08-06T16:23:04+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -917,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "PYA6c6+U2XiW",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "summary": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "date": "2026-08-06T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "N7lwg0Ifilmu",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’",
@@ -938,30 +1034,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "QD5K8WQdavxM",
-      "title": "OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree",
-      "summary": "At the Black Hat security conference, the AI giant revealed new details about how its agents went rogue, hacked several other companies—and did it all right under the company’s nose.",
-      "link": "https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree/",
-      "date": "2026-08-06T00:15:04+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "UjlaYDtN+oC1",
-      "title": "'Going rogue' draws critics amid widening AI hacks - Reuters",
-      "summary": "'Going rogue' draws critics amid widening AI hacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclBtWU8wMEpHVVBLMDJTNERGQ0xWTUpWQ3pQQ1hxcWpsQ1RxTFpVYTFWT2xvV3VEd2hhMUZSTURYZTNoOXdRQUFsZncwWFZTYTFENkxkZm1mSHNza3JwODEyUWg4WjZkajR3QXJ5eFZnWUxHY3VuUEc3S0ZFSjJNeF80bTI2bl96WFFwS2o5M1BqWnJOeFZVdnhLZVRIOVMtR3ZGVVA0cUVVRWxHajJSMXpoaDNPRk8yY1E4?oc=5",
-      "date": "2026-08-05T22:33:47+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1145,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zp2+2KQb98O0",
-      "title": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing - Reuters",
-      "summary": "Meta, Anthropic, Google, OpenAI to meet Trump officials about AI safety testing&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWVNalU0cV9OY2Q0RHFkdFJtakZJRTdzV1BiUDVvamY3RlVRX3ZydGl5YnAzU2dxQldBTVVMMW1wMWl0ekI1eXZJdm84bjBtUFBZc2JBeVJfblJEMVhDZGs4UWpaZXZTTUQtYy1QVFVsYmxsUG1jVHZTd2VFWEJXV2FlNXg4ZVZmRUI5SWpxMWo2cGFTT0hWRUJmNUpyaXZFRnRISnhvNy1YUQ?oc=5",
-      "date": "2026-08-03T23:26:37+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "WdTsRYKfDhbr",
       "title": "Tokenomics: Why making AI pay is tricky",
       "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
@@ -1166,54 +1226,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "U2PA3j1pMyHG",
-      "title": "Trump’s AI protectionism has come for robotics",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Humanoid robots usually elicit more cringe than awe: They",
-      "link": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-      "date": "2026-08-03T18:43:30+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "2MVxPjrzIWWr",
-      "title": "Chinese military unveils AI system to plan and coordinate mass air strikes - South China Morning Post",
-      "summary": "Chinese military unveils AI system to plan and coordinate mass air strikes&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbWZsbW5COWJYcUo0Y0szUGRkR3RhZ29xNXhQRnV1b1BoSGlXcU92b1ZYY2JDVHVxMnZoMC04YVBGQTJ6aGh2WTdEeTVDMHFTU2JYZS1wU2JMSURwdWt1dXN1SmJqYU9xNld6bnB5ZlJTRjhrblVUeDd2eGJkWXlIdUY5SEJycmFtZ3k0YVpBdzVNMkp0bDRfR0lzNXJtNjZLVllFdVNVMTRtdmh6cU9Fbkx3eTBGcy1zRlNCdkFjZ0RWRjNjZG9F0gHHAUFVX3lxTE5UbXFzcm12ODRpT285Y0VLbDg0U3V5WTJfX0RzUmQwd0Q1WnZUYm43RmVGbzNrU2JQQTZGdXJ6ckEwN2VCNFJPNWcyblNXWjl1ZEhoYjk4emUwZXluNnktcXdjU3ZISGU3QmI3ci1tUWxxODljNTZHRTdLcDdrMy1CMDhrcHZESlBtSWxyQmVmazdlaURCMHBRVWwyaW5WUDc1dlBkczktcWFfdmtPVWdZeDVzVjdTTXlXLTgzb2Zwb3h5QVlERUk?oc=5",
-      "date": "2026-08-03T13:00:13+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "io5aGa+/5JUY",
-      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why AI agents lie and cheat to reach their",
-      "link": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-      "date": "2026-08-03T12:08:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "d9GpOe1mdH5y",
-      "title": "Here’s why AI agents lie and cheat to reach their goals",
-      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI model",
-      "link": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-      "date": "2026-08-03T08:30:05+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
