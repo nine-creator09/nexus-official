@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-11T18:59:31.508513+00:00",
-  "articleCount": 99,
+  "generated": "2026-08-12T01:49:01.338026+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "mit": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "reuters": {
       "status": "ok",
-      "count": 13
+      "count": 16
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,93 @@
   },
   "articles": [
     {
-      "id": "4C506NvoDwmx",
-      "title": "Google’s Gemini app surges to one billion users",
-      "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.",
+      "id": "zYz1iUX00cEu",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "date": "2026-08-12T00:39:26+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "IdQ8eKx4KNrF",
+      "title": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations - Reuters",
+      "summary": "Ryanair signs five-year Google Cloud deal, expands use of AI in airline operations&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnc2ZXQxTHpZQU1SNDdJczNXWUdBamNIaGxDXzY2dXlGUEFBMDQyM29WaERCSWdiRVB6Mm1tX0psSzhDUkh3Z25xamdDd0JfQ0JWMi1MZ3ZMcEZjMmpNSmo5TWVTVEdsa1RlSk82Z3BXVWJFSWxDdUhrMm4xczhWVEZzNlY4Rm91eFFtQjNsU3k0ckxKRmY2c1FGOV9XS0M3NFJ1THNRMF9hOThzZENsMDVLV3lDb1BfMk9pMg?oc=5",
+      "date": "2026-08-11T23:08:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "WdTsRYKfDhbr",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "summary": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "link": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-11T23:03:52+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "EXGe9A0TQbGi",
+      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ",
+      "summary": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
+      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
+      "date": "2026-08-11T22:16:45+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "+qnsROHBYLYx",
+      "title": "ChatGPT and Gemini both just passed 1 billion users",
+      "summary": "For the 14th time, a Google product has hit 1 billion users. Google CEO Sundar Pichai posted on X that a billion people are using Gemini every month, and that Gemini is Google's fastest-growing produc",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "date": "2026-08-11T19:41:42+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "KPVmN7i75wb4",
+      "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
+      "summary": "French press body asks competition watchdog to take action over Google AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
+      "date": "2026-08-11T19:30:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "gUYN2Lbczd4Y",
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "date": "2026-08-11T19:15:35+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "exF6G+8n+9hT",
+      "title": "Google’s Gemini app surges to 1 billion users",
+      "summary": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi",
       "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "date": "2026-08-11T18:49:12+00:00",
       "source": "TechCrunch",
@@ -86,6 +170,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "netzR3sTC0NB",
+      "title": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an internal memo he later posted to X, Lightcap told col",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "date": "2026-08-11T17:50:01+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -113,11 +209,35 @@
       "articleLang": "en"
     },
     {
+      "id": "FRSKM8NLRkhm",
+      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster - Reuters",
+      "summary": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaHpmV1NwTWxHeTRKVUtlY3lwWmlUVWtzX0NUYkhGR2VFRzZDQ0JXRXp1LVZ4alp5SXplU2RHTmRFNG5EaG9GWVpRbkVPZE4tS2NxUlc2UXhBVTMteFRHVWo0a0xZZGdNWFNWNmVnOTdZcHBvcGx6bnEycGlqaHNqRDI4Vkw4YTVkcnhPZEI3cGVRa0psa2xFWWE2b2g1SkJ0T0RhWlRiODVSLVBxdUxIWkl4Zl9uN1Ew?oc=5",
+      "date": "2026-08-11T17:03:14+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "tJUQqQojjLrn",
       "title": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports - Reuters",
       "summary": "Nvidia building 1-trillion-parameter Nemotron 4 to rival open AI models, The Information reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGVjNVRkSGR4T3Q4dTFIdW5HTURnMFhhTFV5X0MybkFJd25KUDc4Qkw4OF9LZ2FDRHFRUHIxUWlxVFgwTE9QX1VSaVVjZ0hPYktVam9JWFNEeDBjODFDZDgxbFdOQVpIbzRhOFZkWm9vb3Ryemk5NzVON2FiYi1va1gtNS1tRC1UMkhIS0x0eTd4S1ppRldfQk56cnBDUXZpanNLczFaZnFoRlpuZUdXcTB5X1FQdw?oc=5",
       "date": "2026-08-11T16:49:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "xnVZZWfx6YwP",
+      "title": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon - Reuters",
+      "summary": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFJyWkdEX3llRDhxWWVfZmNhNlR6UzlZNjNzSjZ4MEZpMGNnTWZMaDMzU2lFeS1GT2lMendlODc4STV0MDJZQ2JHa1FQb3VPaENKQ24yQ0ZwdlpJczJqVU52cHFOUU1HWjlZUW9UNWhWdW5BTFpDSGp4M0ltaWo3N2tBZGlYSlQ5ZHNCbjVkb3hsUVQ4M2h3d195X21PZ2gwZDhYSThVWnh6UQ?oc=5",
+      "date": "2026-08-11T16:49:15+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -134,18 +254,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KPVmN7i75wb4",
-      "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
-      "summary": "French press body asks competition watchdog to take action over Google AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
-      "date": "2026-08-11T15:43:16+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -170,6 +278,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TAVBNd1lU3/Z",
+      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
+      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "date": "2026-08-11T14:45:44+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -209,6 +329,18 @@
       "articleLang": "en"
     },
     {
+      "id": "O7o2pZ3U4vda",
+      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
+      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr",
+      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "date": "2026-08-11T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "jlUOdZycbt01",
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
@@ -229,6 +361,18 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lgBitRqhmhLP",
+      "title": "Claude will apply invisible watermarks to AI text and images",
+      "summary": "Anthropic has pledged to start marking Claude-generated text and images with machine-readable data, in an effort to comply with European rules for AI transparency. \"Generated text will carry embedded",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977823/anthropic-claude-ai-watermarks-c2pa-text-images",
+      "date": "2026-08-11T12:22:20+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -278,6 +422,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "9/lbEVnJ1y8T",
+      "title": "Alibaba tests paid AI appetite with US$30 annual assistant subscription - South China Morning Post",
+      "summary": "Alibaba tests paid AI appetite with US$30 annual assistant subscription&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJ3QWt1N092NUJ4U2wwX1lTb2RwamhMLVF4S1pVMTR0ZFc2T2JpQUx1Y2RnbllwZjhCYUJhYXEwQ0ozVWZjZmU5NDM0dG85WE5ZY3Q3eGEwdTdhM0pZUnpvcEYybkptbDhSOXpZNThlYW5Tc2k0N2lldXF3VnVrMTJOUmpmcnpZeGZuSXQ5WlJWSUJtMlh5dDlHa2FrQmExMEJiekdOMnVZN1h5WUZjS25vM0VrUdIBtgFBVV95cUxPTFRZSmRndUdrZGpCc2M4RkZweTZhNzlqaW9yYkVndmxVZlFJVl9IYjlEN0h5dVRvcnh0dGtzUEJTYTM4WFkzN3pSQk0wRXRNNW16X2lvWUJYYVdqeTNNZHRSWU9qeG12aHhRdHVVREZBS3FjVXVDc1B4V2F5SmZmX1hNR3lfbko1RWtwclpaZnJUWm1oOUlQOGF3aTZSYkZxTC1SbVEwR3FJNlh1ejBhOVdzcU42QQ?oc=5",
+      "date": "2026-08-11T11:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -389,6 +545,18 @@
       "articleLang": "en"
     },
     {
+      "id": "AKN6PLXb+LgR",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-11T07:48:14+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "kPd30VyblimY",
       "title": "OpenAI、サイバー防御「Daybreak」を赤青2階層に　特化型「GPT-5.6-Cyber」投入",
       "summary": "OpenAIはサイバー防御者向けイニシアチブ「Daybreak」を拡張し、2つのアクセス階層「Blue」「Red」と、Red向けの専用モデル「GPT-5.6-Cyber」を発表した。正当なセキュリティ研究におけるAIの過度な拒否動作を抑制し、未知のゼロデイ脆弱性発見やエクスプロイト検証などの高度な防御タスクを支援する。",
@@ -458,18 +626,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "dEMOge6YcGtk",
-      "title": "Mark Zuckerberg doesn’t understand how to live",
-      "summary": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holdi",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "date": "2026-08-10T22:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -581,30 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "5ZhFO7Zz7t3f",
-      "title": "Four takeaways from Mark Zuckerberg&#8217;s massive AI manifesto",
-      "summary": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter",
-      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
-      "date": "2026-08-10T15:19:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "/WhBfPN0Yv1n",
-      "title": "What happens to Bose when headphones become AI?",
-      "summary": "Today, I’m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose — it’s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to",
-      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
-      "date": "2026-08-10T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "JN+EfW3+U2DJ",
       "title": "Enterprise AI costs hit yearly low driven by price wars, open-source models - South China Morning Post",
       "summary": "Enterprise AI costs hit yearly low driven by price wars, open-source models&nbsp;&nbsp;South China Morning Post",
@@ -685,18 +817,6 @@
       "source": "Ars Technica",
       "key": "ars",
       "cls": "src-ars",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "8JjRvl4wKUxd",
-      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
-      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha",
-      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
-      "date": "2026-08-10T11:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -857,18 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hs9Z+/1I3NPa",
-      "title": "AI detectors are creating a new era of distrust",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our s",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "date": "2026-08-09T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "dmtMesTKcGfw",
       "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
       "summary": "Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communitiesAmid headlines about the UK’s drought, Europe’s wildfires and impossible global temperatu",
@@ -927,30 +1035,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "HenRwKtonGEC",
-      "title": "「Claude Code」、AIが権限確認を代行する「auto mode」がデフォルトに　8月14日から",
-      "summary": "Anthropicは、AIコーディングツール「Claude Code」で、コマンド実行前の権限確認を自動化する「auto mode」をデフォルト化すると発表した。危険なコマンドを分類器が自動でブロックする仕組みで、人間による確認の形骸化を防ぐ。実験では人間の拒否率を大きく上回る検出精度を示し、作業効率の向上も確認されている。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000465/",
-      "date": "2026-08-09T03:12:07+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "ZUsxM3nhPBTr",
-      "title": "「Claude Code」にセッション同士がメッセージを送り合う機能　macOSとLinuxに",
-      "summary": "AnthropicはAIコーディングツール「Claude Code」に、起動中の複数セッション間でメッセージを相互送信できる新機能を追加した。作業の変更や移行プロセスの進捗などをClaudeが自律的に連携する。セキュリティに配慮し共有はテキストのみに制限され、ローカル間通信では外部サーバを経由しない仕様だ。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/09/2000000466/",
-      "date": "2026-08-09T03:11:16+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "hikThcz7rABm",
@@ -1058,66 +1142,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "ssp0u1+xxL6e",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "summary": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "date": "2026-08-07T22:48:24+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "zRtGZzzPwzE5",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "date": "2026-08-07T21:30:11+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "T/9Pz90uPWX7",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "date": "2026-08-07T20:01:51+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "lG/pJNJTa1m1",
-      "title": "Watching Roku’s AI channel is like eating from a trough",
-      "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "date": "2026-08-07T18:59:46+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "89Zk6YSfOQUQ",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows i",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "date": "2026-08-07T18:40:34+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
