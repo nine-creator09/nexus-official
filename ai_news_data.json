@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-13T01:50:51.612751+00:00",
-  "articleCount": 101,
+  "generated": "2026-08-13T07:24:03.299803+00:00",
+  "articleCount": 105,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "guardian": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 11
+      "count": 12
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,66 @@
   },
   "articles": [
     {
+      "id": "9y2+/MDmNvcv",
+      "title": "Amazon is using Twitch to train generative AI",
+      "summary": "The streaming platform's users criticised the move to allow the use of channel content for AI training.",
+      "link": "https://www.bbc.co.uk/news/videos/cwyq22g0ylxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-13T07:04:31+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "np68S+MFQYc0",
+      "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
+      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
+      "date": "2026-08-13T06:14:13+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Worxl7NTGK3H",
+      "title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
+      "summary": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breachTaiwan says it detected AI-assisted cyber-attacks on government agencies that c",
+      "link": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+      "date": "2026-08-13T05:02:28+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "f2LH91aDYYc8",
+      "title": "OpenAI「Codex」1500万ユーザー突破　利用制限リセット「/fastでどうぞ」",
+      "summary": "",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
+      "date": "2026-08-13T02:39:02+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "lzRPgCi2uNmj",
+      "title": "「Sakana Fugu」が無料で試せるように　チャットAIをアップデート、Sakana?AI",
+      "summary": "Sakana?AIは、無料のチャットAIサービス「Sakana?Chat」をアップデートしたと発表した。複数のAIモデルの“集合知”を利用するAI「Sakana?Fugu」が使えるようになった。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000524/",
+      "date": "2026-08-13T02:14:31+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
       "id": "fCRzkmeZBo7m",
       "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
       "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate raceA luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer",
@@ -74,6 +134,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "3nK4CsnrUVnc",
+      "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll - Reuters",
+      "summary": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
+      "date": "2026-08-12T23:10:57+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -123,18 +195,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "urfPBBDGa7H7",
-      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
-      "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "date": "2026-08-12T21:27:41+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "kFytcjpJokQd",
@@ -221,6 +281,18 @@
       "articleLang": "en"
     },
     {
+      "id": "urfPBBDGa7H7",
+      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
+      "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
+      "date": "2026-08-12T17:36:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "9knTB/33NpX/",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
@@ -269,11 +341,11 @@
       "articleLang": "en"
     },
     {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "id": "AKN6PLXb+LgR",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-12T16:40:01+00:00",
+      "date": "2026-08-12T16:39:32+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -326,6 +398,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "EM1aCFVY5/8t",
+      "title": "Nebius powers past estimates as customers race to secure AI computing power - Reuters",
+      "summary": "Nebius powers past estimates as customers race to secure AI computing power&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
+      "date": "2026-08-12T14:52:34+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -413,6 +497,18 @@
       "articleLang": "en"
     },
     {
+      "id": "k94nrnAkgXIC",
+      "title": "From solar to AI: why China may be entering its ‘Go Global 3.0’ era - South China Morning Post",
+      "summary": "From solar to AI: why China may be entering its ‘Go Global 3.0’ era&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNc0dmR0x6WkJEV1hld1dPVjFsWnlaS05kdTlHTnRUaERUa0prUjFtMHpnMk5zYUZzSlUtYnZ0QWxpNmdoY3NUNUFsMDdZRkhBVkJKNzVEMC1ibWhUbTlaSU51M3RzWTM1NnoxbGVyU2lBdTFHMzlpMVpEWHpsVG5GVWpLNlU1Yk1IZU5fbVAwZXZJMVlrUXFwcVIwdDFwbVJwN2VzMjIyOW9WVm5xWlZkSGFvSkhBd9IBtgFBVV95cUxNTDdfUFVpbjRGM0pCOEUwTkxqcVVDLXFWdkN3ZVBzWE12dUxycW11SDJ1ZGRMY1Awa1hOenpnRXA1a2JpSnJtN25FUXd2enQ0YjRQdlRMTW1OcmhoYVhVWlhMWW1XTmVEcVV3d0N5X2NHVkNVM1lYay1iS1F2OGZWZk1PQ1dvMFJqUUFsd0J6RThtZjdHaHhzNXFYWDRlS3pUaWRjandmblFZVFZZb2ZEWG1ZbTB4Zw?oc=5",
+      "date": "2026-08-12T12:00:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "VdIx76T6YzH+",
       "title": "Grok is now an AI ‘teammate’ you can assign work",
       "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm",
@@ -497,18 +593,6 @@
       "articleLang": "en"
     },
     {
-      "id": "4dymf53/4W4G",
-      "title": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts - Reuters",
-      "summary": "Taiwan's Foxconn reports 35% rise in Q2 profit on AI demand, beats forecasts&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmVxd01pR0syNm94VGtkUHl1WVNnRUhBSE11RHB2SUlBUGQ4RnJ1dFVIb1NxUGVjbUc3TTVDdzZNTkh6cUxGRlQ5elJQblZQUTMwMU5qQjU0WTFJeUdsc1FnbGxpRjJoYUQtTW9lS2NLMVhKQWtOMGVRUW5GNDlPcHhXM2g0b0twSHplQ1oyZDJ1YkFnU1BtUnBHcFZmbVpfdlVpbWRlNHhMcHNBSlh6SDd3?oc=5",
-      "date": "2026-08-12T09:26:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "quG6FzykvaFL",
       "title": "NVIDIAが30Bのオープンモデル公開　「OpenClaw」など常時稼働エージェント向けに設計",
       "summary": "NVIDIAが30Bのオープンモデル「Nemotron 3.5 Lightning」を公開。「OpenClaw」など常時稼働エージェント向けに設計し、「gpt-oss-120b」同等の性能を約4分の1の規模で実現するという。",
@@ -555,18 +639,6 @@
       "cls": "src-bbc",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "EXGe9A0TQbGi",
-      "title": "Anthropic、「Claude」で生成したテキストに“見えない透かし”　日本を含むグローバルに適用へ",
-      "summary": "Anthropicは、「Claude」が生成するテキストに電子透かしを、対応ファイルにC2PA準拠の署名付きメタデータを付与する方針を発表した。8月2日に適用開始された「EU AI Act」の透明性義務に伴う措置だが、日本を含む全世界のモデルとサービスに適用される。人間には不可視の透かし等により、AI処理の有無や改ざん検出を可能にする。",
-      "link": "https://www.itmedia.co.jp/news/article/2608/12/2000000497/",
-      "date": "2026-08-11T22:16:45+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "+qnsROHBYLYx",
@@ -662,18 +734,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Q/3SFn0gqFfJ",
-      "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters",
-      "summary": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXVmODVkdmVEV19DdlAtSWZkQkFjWHFLSlNYSW84a1lFNl9ZN19RMXY3Zm01bTNGa2tNMTdaZ29hcjB4SkQ3THM0bVl4V0w4V3ExOC1HSjJ4STRfZlpfNVdxZmFMeU4yWmNOWlNaZTBTcTl2ek04MjZJRTFIbmEyRVdOejMzNGVhZ084SWR5ZllyNEQ4ZFFQcFlXbHJaQVNLRTM0LUtXWVZHQ09sV3FkY2NDeWZ2ZDg?oc=5",
-      "date": "2026-08-11T17:28:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1025,6 +1085,18 @@
       "articleLang": "en"
     },
     {
+      "id": "aRo78kbrWk8K",
+      "title": "US House Democrats press Anthropic, OpenAI about rogue AI agents - Reuters",
+      "summary": "US House Democrats press Anthropic, OpenAI about rogue AI agents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMDRJNHZDWC05T1Jvbm9qcjJvSTZXSHZfV1pabmhRWFU0MWZ5TVhhOV8zaFFvbzRmdnk1MXhkeXNmbDhMY2NKaDNGaFM3SVBUTHc1cklXYzJFU3F4dm8xcENxWHk1OVJnUnc5ZG9KMWZDUFRHUWlIcTZUSmYzNTBwZV9GSGJuUFMxSVhNQkRWemEwdEhpMjVUYVpFeWYxOGFXeUwxTDFoYkdkT2V4Q0ZxdTNva2Nha1E?oc=5",
+      "date": "2026-08-10T19:48:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "e6SzdwZCkMeq",
       "title": "Breakingviews - Mark Zuckerberg’s AI treatise is more ad than tech - Reuters",
       "summary": "Breakingviews - Mark Zuckerberg’s AI treatise is more ad than tech&nbsp;&nbsp;Reuters",
@@ -1070,18 +1142,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "fEhjPDdq81s0",
-      "title": "Meta launches new AI model as Zuckerberg champions open-weight push - Reuters",
-      "summary": "Meta launches new AI model as Zuckerberg champions open-weight push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5",
-      "date": "2026-08-10T12:26:21+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1202,18 +1262,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "dmtMesTKcGfw",
-      "title": "As AI guzzles water and energy, we are already facing a choice: datacentres or homes? | John Harris",
-      "summary": "Whitehall wants to triple their number in the UK. Yet in Slough, I saw the impact they’re having on communitiesAmid headlines about the UK’s drought, Europe’s wildfires and impossible global temperatu",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/09/slough-famous-the-office-datacentres-locals-hub-europe",
-      "date": "2026-08-09T11:03:18+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
