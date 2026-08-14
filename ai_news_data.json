@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-14T13:02:13.560435+00:00",
-  "articleCount": 107,
+  "generated": "2026-08-14T18:51:23.557089+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 19
+      "count": 18
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,114 @@
     }
   },
   "articles": [
+    {
+      "id": "dIHauFhEbFJp",
+      "title": "「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0",
+      "summary": "中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「Claude Opus 4.6」の推論エフォート最大（以下、Opus 4.6 Max）を上回るスコア",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/",
+      "date": "2026-08-14T17:26:12+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "LfiPR1GzJjGm",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "date": "2026-08-14T16:39:32+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5XUBbja7jhbG",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "date": "2026-08-14T16:13:40+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/rCGGJo8kYXD",
+      "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
+      "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force saysPolice in Scotland have issued a stark warning about the need for “robust security measures” to sto",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
+      "date": "2026-08-14T16:05:31+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ziYZVne85Y0I",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "date": "2026-08-14T15:43:28+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "+K1A7mYfut/H",
+      "title": "Tech Visionary Says the Big AI Labs Don’t Get What People Want",
+      "summary": "Tim O’Reilly built a publishing empire that AI is helping to destroy. Yet he loves AI—as long as it’s open source.",
+      "link": "https://www.wired.com/story/tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "date": "2026-08-14T15:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "AKN6PLXb+LgR",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-14T14:33:24+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "GaC6/J13G5Mw",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "date": "2026-08-14T14:05:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0M3QiH9Xqtt2",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary": "Meta released Glimmer this week, an open-weight AI&#160;model&#160;anyone can download and run on their own hardware&#160;— a contrast to&#160;Muse&#160;Spark, the company’s more powerful model that s",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "date": "2026-08-14T14:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "KedoZwIeU6hJ",
       "title": "As online dating goes into ‘salvage mode’, can AI solve all its problems?",
@@ -74,6 +182,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "o89EO8eAMx+d",
+      "title": "US-China AI trade decoupling ‘manageable’ – but tech curbs a ‘wild card’: Citi - South China Morning Post",
+      "summary": "US-China AI trade decoupling ‘manageable’ – but tech curbs a ‘wild card’: Citi&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmpyTmNMQWpYY1A0U080Rkl6THA5TGNzaG90ekVieGlrNmpudjJYNW1tcnNsM0FDaXRmMkprQVMxYzZzMmVmM2NXMkpvZ3FvR0V5MWJ6c0ItWTU5ME9BQm55SnRCZ0FGMndaU1B5TGlHUlo5UHh4bFpXN1d4YVZ4T1F2YlQ3b1pSdlFMYkRmckNlSU5CMTN4UUZxT2F0YlRSN0ZVOXNnZ0gwZU9sQkZaVWduTms0a1hHZGFUVWtnTzRlOEnSAcMBQVVfeXFMTXJjY0JzMEhVUm1HanVhTlpvbzhWZ0t3MGZYLWthQ1V2Q1puajFBZGE1ei1LV1NaUjJIWWhYaW4xTzAzX1E1ZjNLZF9waHg1eWp3anRReGtCZ00tREJMRlZkeUN4UnR6YzJfMjVOU05EVlphdkdoU2pYZWpGSDR3RWFhbVpPWVVVOHVwMXhuSUxLN3JsNElXTjlQWjZTQVdPVkM0ME5iNXpURTlwTFEwVlN2SWZyM1RlN21LbkhfUllBckVF?oc=5",
+      "date": "2026-08-14T13:00:12+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -89,15 +209,15 @@
       "articleLang": "en"
     },
     {
-      "id": "AKN6PLXb+LgR",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-14T10:30:09+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
+      "id": "hlqYAKi3AAiA",
+      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate - Reuters",
+      "summary": "Republican senator urges Trump to back US open-weight AI models amid industry debate&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ20zeWJDUzR1TzJOOHJVMDlKUWlzbm5QaTZ5YXJSZGlSLXY2MVFXY1o2RTRyZEZjbzJwa1BsLVUtUEt0TldoVjdLcTJ2aTU2MWVUUmpYc3BMODVHVmdlbVQtX08wdU9nV2dnX2tCSmFDcjFOZHJKVmVneURXZVJTc0hqRzhTVW9XLVNUa0R0b3NwRERaS0tRb0ZCT2p1YWQwc1RPWEUxcmotQVZBejR4VUFrc1ZsMTloODY0?oc=5",
+      "date": "2026-08-14T10:42:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -166,6 +286,18 @@
       "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
       "date": "2026-08-14T04:21:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "nFXd1zOObfv9",
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
+      "summary": "AI-driven surge in bond yields could be next risk for markets and growth&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
+      "date": "2026-08-14T04:10:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -437,18 +569,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+m+ZDgdc2SIv",
-      "title": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open - Reuters",
-      "summary": "EXCLUSIVE: Microsoft retreats in China, but AI boom helps it keep a window open&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjIyVlcxYlQ1eG1Od0FjLUt4eXFxMk9iSlhDdzlfdkVDNjJUT0M1bE1zc2JnR1A3UzNGVjRxeHNGcE9GLUdqVVdKajV0aXcxZjMtTFVGZ2lNYUhySnp4R195WGNrcFVyR3AySU9TNzJwc19QZGlmbW1RZUpEeG9hZzR4ZW5lM2QweC0yRi00U1VfWjVnM1A1c0dnTi11TzRpWTI0UEtwbi1yQQ?oc=5",
-      "date": "2026-08-13T14:47:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "GCJTILdvNREA",
       "title": "Does Google even want to win at AI?",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech industry for the past week: Is Google losing the AI race? That’s",
@@ -581,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "92fX5QPYAS8K",
-      "title": "SMIC profit more than triples on AI-driven chip demand - Reuters",
-      "summary": "SMIC profit more than triples on AI-driven chip demand&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW5SbklFWFdseXViUWtFTU5ybS1EX1NDUzRHM3lIaGZJcUFVMC1TLXQtbXRBem02TlRoX1U5QnRjTUwxMXRuZWxMS1NNVUUwREVXbXdLRlZFVF94eHF1dWxoWThRWWV2WG9RMHYxQWZwbElNeWtMM0k5bnV5a3loV1lBd3p5UDFtZ0xRbmcxcFpDWHhUbmhCWklGRWcxNG82?oc=5",
-      "date": "2026-08-13T09:38:16+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "9F2ChmJx5vCA",
       "title": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
       "summary": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a buttonThis year, the battle for song of t",
@@ -662,6 +770,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "urfPBBDGa7H7",
+      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
+      "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
+      "date": "2026-08-13T04:18:35+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -881,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "urfPBBDGa7H7",
-      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
-      "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "date": "2026-08-12T17:36:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "9knTB/33NpX/",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your",
@@ -917,27 +1025,15 @@
       "articleLang": "en"
     },
     {
-      "id": "JgRck4EwaJou",
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your",
-      "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "date": "2026-08-12T16:46:02+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "5h8s6f0X2qhR",
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "date": "2026-08-12T15:52:07+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "uZolEOVRfVZU",
+      "title": "CoreWeave, Super Micro surge on signs of sustained AI buildout - Reuters",
+      "summary": "CoreWeave, Super Micro surge on signs of sustained AI buildout&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1NWQ1duSk1Sa2xQVHlVZjFyUUVmUDJleTJkOG9vM05LUjk4aWtsaUZoUTY2eWdWY2ZKcGNjaVd5Z0lULTFMNlBEeDhTWl84Q05vb0kzMjB6RjVtRkNTYmIyRkFOLWhDLWdHU2loU2ZTY0o5TURxTUFpb0hWejN6NG9VNE5RTTFTMmJzTVBYa3Q4RjhCRXpjek9LOTdnV01RRHc?oc=5",
+      "date": "2026-08-12T15:47:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -965,18 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "EM1aCFVY5/8t",
-      "title": "Nebius powers past estimates as customers race to secure AI computing power - Reuters",
-      "summary": "Nebius powers past estimates as customers race to secure AI computing power&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUJZTnBKRUxhdFR1VGRmaGQxOUlHTHEwcjdaekRVbjh1LXpZd0NIS1haVElfejU4a19QWjB4SlZxRDlNdVNzSDUweVRfc292M052MHNJdTNNT1ZoRHpOTXNUWVJLb3R5cVdfLUhjb0FsOHR3NFY1b2ZyVUxUZEl6VjhDVFI2ZG9PT1c0SGhmQ0hvMjRXS2doRTF3aG9BdjhraGVqMGExcUxqN3R1Zzlj?oc=5",
-      "date": "2026-08-12T14:52:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "EFTKMUhioLFi",
       "title": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round - Reuters",
       "summary": "AI code review platform CodeRabbit valued at $1.5 billion in latest funding round&nbsp;&nbsp;Reuters",
@@ -986,30 +1070,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "NWCRxP3IYS3C",
-      "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
-      "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your",
-      "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "date": "2026-08-12T14:22:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "0xIyA1Nvw3wc",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-      "date": "2026-08-12T14:20:33+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1025,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "EEJDdHojb7YA",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "date": "2026-08-12T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "k94nrnAkgXIC",
       "title": "From solar to AI: why China may be entering its ‘Go Global 3.0’ era - South China Morning Post",
       "summary": "From solar to AI: why China may be entering its ‘Go Global 3.0’ era&nbsp;&nbsp;South China Morning Post",
@@ -1046,18 +1094,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "OTl+KdMCItem",
-      "title": "Oh Lord, AI Reporters Are Actually Breaking Big News",
-      "summary": "Last week, an AI newsroom beat mainstream journalists—including WIRED—to a story about OpenAI and hacking. It’s just the beginning.",
-      "link": "https://www.wired.com/story/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "date": "2026-08-12T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1125,7 +1161,7 @@
       "title": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon - Reuters",
       "summary": "Breakingviews - Jensen Huang takes wheel of $500 bln AI bandwagon&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOFJyWkdEX3llRDhxWWVfZmNhNlR6UzlZNjNzSjZ4MEZpMGNnTWZMaDMzU2lFeS1GT2lMendlODc4STV0MDJZQ2JHa1FQb3VPaENKQ24yQ0ZwdlpJczJqVU52cHFOUU1HWjlZUW9UNWhWdW5BTFpDSGp4M0ltaWo3N2tBZGlYSlQ5ZHNCbjVkb3hsUVQ4M2h3d195X21PZ2gwZDhYSThVWnh6UQ?oc=5",
-      "date": "2026-08-11T16:17:00+00:00",
+      "date": "2026-08-11T17:49:56+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1205,54 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "9/lbEVnJ1y8T",
-      "title": "Alibaba tests paid AI appetite with US$30 annual assistant subscription - South China Morning Post",
-      "summary": "Alibaba tests paid AI appetite with US$30 annual assistant subscription&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcnJ3QWt1N092NUJ4U2wwX1lTb2RwamhMLVF4S1pVMTR0ZFc2T2JpQUx1Y2RnbllwZjhCYUJhYXEwQ0ozVWZjZmU5NDM0dG85WE5ZY3Q3eGEwdTdhM0pZUnpvcEYybkptbDhSOXpZNThlYW5Tc2k0N2lldXF3VnVrMTJOUmpmcnpZeGZuSXQ5WlJWSUJtMlh5dDlHa2FrQmExMEJiekdOMnVZN1h5WUZjS25vM0VrUdIBtgFBVV95cUxPTFRZSmRndUdrZGpCc2M4RkZweTZhNzlqaW9yYkVndmxVZlFJVl9IYjlEN0h5dVRvcnh0dGtzUEJTYTM4WFkzN3pSQk0wRXRNNW16X2lvWUJYYVdqeTNNZHRSWU9qeG12aHhRdHVVREZBS3FjVXVDc1B4V2F5SmZmX1hNR3lfbko1RWtwclpaZnJUWm1oOUlQOGF3aTZSYkZxTC1SbVEwR3FJNlh1ejBhOVdzcU42QQ?oc=5",
-      "date": "2026-08-11T11:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "KPVmN7i75wb4",
-      "title": "French press body asks competition watchdog to take action over Google AI - Reuters",
-      "summary": "French press body asks competition watchdog to take action over Google AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcDJvQkhzeGlfOGhHZTZ6V2FVZlZaRzNsbk51TlpwYms2ZzlfVnhjcTc4WDl5TjB0c2t0Yml1eEVSX2tuRHNPOWtnLWtvZFRSUkZOME5FMklZc241VE9GSkY1R2xORmt2NEVYX3FSS0U4VzM4QXJRR282VTEzazdVLTVSaWlaQXRhSHpJTHloSmR1VjhGTllKRlZWekNwSTVDTWJz?oc=5",
-      "date": "2026-08-11T11:15:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "IkxLiiNs1WEa",
-      "title": "Experts are warning: our AI arms race is putting humanity at risk | Stuart Russell",
-      "summary": "A recent letter signed by 1,367 researchers and engineers at frontier AI labs – mainly OpenAI, Anthropic and Google Deepmind – points to a dangerous momentIt is fashionable in certain circles to dismi",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/11/openai-anthropic-google-deepmind-letter",
-      "date": "2026-08-11T10:00:57+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "K6SZm1afs4Wb",
-      "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
-      "summary": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoidAI-driven productivity gains enable more planet-heating pollution from foss",
-      "link": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
-      "date": "2026-08-11T09:15:45+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "fj+MuGVAf0ME",
       "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
       "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
@@ -1292,7 +1280,7 @@
       "id": "JN+EfW3+U2DJ",
       "title": "Enterprise AI costs hit yearly low driven by price wars, open-source models - South China Morning Post",
       "summary": "Enterprise AI costs hit yearly low driven by price wars, open-source models&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RTRUs4VThRSXo0QzI0RVVWZGRIMDh3cFZWX2c1WTgwQVlxbXlRVUpOZVVjdE9OZFVLSjNHU1h0QldITUtqTmw2blU5QkpmV3JmRFBndUxvYmZxemYzajRjM1lVTkRXSDRURl9YN3lmaTNFeWNQc05YZVpvb3lTdlRKZHNLTkVPREhQTVZTS3BfdVB1ZUJvS1hYSjV2X0xqVHM5a25FWDUwVzA5OHdSeWJWdDVpbHdtcE1Qc2tOeEhfa01hTXF5Y3B5cFhKMUdYbjRrUDR1NNIB1wFBVV95cUxOTHJ0ekZtaUlCYXV2NExsVjl2VXJJVGlKSGNyS3pVa2xLUFdDNWM3SkJBWjVDdG5mRUtUZnVBODk5N1VOdDEyVnVfRWxCMnJqQWV1V2IwY2xLSkhIX2VEcDR0SUI3WXhucUt0MmFpLVE5dGpMNlZCUWJjc2JRRk85OWJVNS00LXBJRHpxSjNvQjIyNmgtdXd3Nl9tVlRmUE81dEJLbXA1dE81N0xaQlp2a1RWTnVlYWlVMldZcE1kWjVwd2trdldIZXdCbjlYQlcwVGE2UjhWMA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX0RTRUs4VThRSXo0QzI0RVVWZGRIMDh3cFZWX2c1WTgwQVlxbXlRVUpOZVVjdE9OZFVLSjNHU1h0QldITUtqTmw2blU5QkpmV3JmRFBndUxvYmZxemYzajRjM1lVTkRXSDRURl9YN3lmaTNFeWNQc05YZVpvb3lTdlRKZHNLTkVPREhQTVZTS3BfdVB1ZUJvS1hYSjV2X0xqVHM5a25FWDUwVzA5OHdSeWJWdDVpbHdtcE1Qc2tOeEhfa01hTXF5Y3B5cFhKMUdYbjRrUDR1NA?oc=5",
       "date": "2026-08-10T13:30:06+00:00",
       "source": "SCMP",
       "key": "scmp",
