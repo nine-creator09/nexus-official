@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-15T06:34:48.702939+00:00",
-  "articleCount": 109,
+  "generated": "2026-08-15T12:33:25.283553+00:00",
+  "articleCount": 114,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 16
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,78 @@
     }
   },
   "articles": [
+    {
+      "id": "vGvK9rFyuXEk",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "summary": "Booksellers are reporting mysterious bulk orders. It's thought the books are being used to train AI - and ending up pulped.",
+      "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-15T11:25:32+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "wdPKMEoJHJoQ",
+      "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+      "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+      "link": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+      "date": "2026-08-15T09:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-15T08:28:39+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "qgHIVHcUPVcc",
+      "title": "India: Modi promises exam coaching, AI training for youth - DW.com",
+      "summary": "India: Modi promises exam coaching, AI training for youth&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2FMTElLbDFjOWN0dmJieEtWX1hGQzg4aEltRmt6SUV3d2x5ZGg2d0hQUGx0OVdMaHRwQzhDSHRTeHF0UzFkRXdFYnhUaEJUS3ZQbEtWQ2xBNTEyUWJQdVNvbnY3NktZdWltZkI0bEFiOVl0NU9HN05ZTXdwOHd0M21uMFluYk84VGplSDhGYWFCZXpzalBaNjVBVkZXZ3dmaGFyWE5mZ2t0U0d60gGsAUFVX3lxTFBQZkpuZi1LTnVUZDZCS0Z3a2hpVDFqMHVhcmUtSXpYbjNFbjlORm93X3MzZ1NaYUw0cGctS0dWOHlpd1FmSjhrcXJlSnFBZ2VVRjFfR1BvT0J2RFQ0UXdpdzk1cFZ2WlIwdVl0X2MwV3dlWkNlbURTQmZZRG05bHF5VlYyZ09tMkNPYW9uTmdpUUZybmhkdV9OOUVrV2tjSFZjTUFjV1UyU1RjWi0?oc=5",
+      "date": "2026-08-15T08:27:20+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "07neZef+lyXC",
+      "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders",
+      "summary": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’Secondhand booksellers in the UK and Ireland are reporting a flurry of bulk orders from myster",
+      "link": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+      "date": "2026-08-15T08:00:51+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "upvwpm/nOjo2",
+      "title": "Chinese AI models gain foothold in Europe despite Brussels’ trepidation - South China Morning Post",
+      "summary": "Chinese AI models gain foothold in Europe despite Brussels’ trepidation&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR0VyVE1ORnc5UVJQSXFlMVlVa3F4QjNlWlFpejk3NFZFNWZRY3BMWjFROUZaem9wV3lMY1lZRmxtLUhFcEcwdW5lTm5kT21fcG5SNkJhajQ1UTdBSUtVOVpDLXRnX005dTNqcGNySjd5QnVZU0g2NkpZNXU4bUNhVER3NU9uT1N3Mk41V1lIejA3VUkyTjE1Y1JMV2Q2N2dGU1lvMlJLenpTZ2VHNHFSb2pVT1MwWll1TDhaQ3g0QWxkeTY5ekJISjAyT21Kd9IBzgFBVV95cUxNUkV3NXNSVHktNDdndHBJSnJheEVJTzJVWVBNN3EybTg3ZlpXT2NzcHFJSm1hSkJVNjhrUW9yUHVTWFloTlFZT0wyNU5vaWlTWHBEakR5S0N1bVBoem1TWUNyQkFRNlAtSVExbGpULTI3eE0yd1pHLV9jekhDRC1oYm9rcWNjQ3JQU1BYaVVOY05PR1ltUjBTV213SWpvVkhUdXhKdHU0ZFppcTlIbC1kSENDdm5SRXNnTVNNX1FQRWZiRVEzWXBWaHI1X2VxUQ?oc=5",
+      "date": "2026-08-15T03:00:13+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "+TX0hokDkpmZ",
       "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters",
@@ -173,18 +245,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-14T14:29:04+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "GaC6/J13G5Mw",
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
@@ -290,6 +350,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "K3ci8mw6r7z6",
+      "title": "China’s richest province taps Alibaba to power its AI and chip push - South China Morning Post",
+      "summary": "China’s richest province taps Alibaba to power its AI and chip push&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDhvamFfdGVCd2VVdTV1VHpZdUp3a1kwNC10TENSd3RPLTdBWHh5Y2N3b0s1Z05lWlF6R3dFcFRncE5TMF9KWlZPeHdwZG9ydkJPZWM4aGEyMHJwWDJvTm1IMExQQ0xNdEZuSHVYaTd1T3NkR0JoYTA3blFfT3g1eDRMWTdBWUpRMTE3X2ZVb3cxOS1iVDB5WnVKNzlmYXFWUWZFMzdsaEo3cjA5N2c3QzJB0gGyAUFVX3lxTE5qdlYxY0ZZU3Bvc3gzbU9qUG1RaTE4S0NvQ19ud3FZZFJjMi1uVGY5OTV1UU83aDVZdlpSUDBwcGpRUGozUlA0Z1pURi1KdUFPSlRSVUR0ZFpHcG9qWV9VMmlxcmRnNXVQZnZncWZ3eHNYeG9QaWdJYTh3dWVMbk95cUh2STI0LUtMWjczQUNCbGwycmxNVGFYRDZNbjJ4MHI5SFlvaFRJVFNFMU1Sbllqbnc?oc=5",
+      "date": "2026-08-14T09:15:43+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1226,18 +1298,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "50bneVDPeHEG",
-      "title": "Spotify to distinguish AI artists from real people – and stop recommending them",
-      "summary": "Music streaming platform creates ‘AI persona’ label that will appear on profiles and track listings in crackdown on fake performersSpotify is to label AI artists and exclude them from algorithm recomm",
-      "link": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
-      "date": "2026-08-11T13:40:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
