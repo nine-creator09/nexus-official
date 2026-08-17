@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-17T12:40:02.854527+00:00",
-  "articleCount": 103,
+  "generated": "2026-08-17T18:36:12.751239+00:00",
+  "articleCount": 99,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 13
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "Eg8j7KT4xJ9+",
+      "title": "Claude to start watermarking AI-generated text – but will it make quality worse?",
+      "summary": "Anthropic says it will change way chatbot makes small, random choices, to comply with EU regulationThe world is familiar by now with the usual tropes of machine-generated text: overuse of the word “de",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
+      "date": "2026-08-17T16:52:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "K0bnOUk9Y97n",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "date": "2026-08-17T16:38:44+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7OezDVDAX9/s",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "date": "2026-08-17T16:15:12+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kSV4gZQnKBLT",
+      "title": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center - Reuters",
+      "summary": "Nvidia to provide up to $105 billion guarantee for OpenAI's Ohio data center&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkxQZ0FIUUQ0X2p6bVF1NWw1eF9PQnBtRVJVbUk4eV83UkU5X0JjdmE0RnFDdkZOLVJNWWlCejVmOTdmdTFoT3FGWmhGOGVYdFdwcXNwWlAtaEVNRnFPYkZFVzhmY3ZBQ0xERGUtWFF6QWdxcVFqR2k4dkdDTkJHNURIdUJ0Rk05NE94ekVPMjYtaWNodnItODdIdGU4Qmw5bndYZ095UF9nRFc5RnRheGxtNXFCM2VWbXd5M2pCTGw?oc=5",
+      "date": "2026-08-17T15:52:24+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "JMg4BjX+INTW",
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "summary": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "date": "2026-08-17T15:16:24+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7j86Mx32jU1R",
+      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
+      "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
+      "date": "2026-08-17T15:01:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-17T14:13:03+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "P249QC12m+Dn",
+      "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+      "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customerSainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongly",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "date": "2026-08-17T13:21:25+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "VEiVihHxmNOe",
       "title": "AI eyes in the sky: new satellites and artificial intelligence are transforming wildfire detection",
@@ -74,6 +170,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "DyOz0trv1oSr",
+      "title": "Higgsfield's valuation soars fourfold to $5.4 billion in six months on AI content demand - Reuters",
+      "summary": "Higgsfield's valuation soars fourfold to $5.4 billion in six months on AI content demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2JUdkZ2ZjZ4enNhT1VXa1pXU1NtbjhPbncyUDNZZTZWOC1zb3E4akhtN1pkenY3LVZpYzdCY2xna2NIMFRkRG8yQklDTW5KejV2TjZJT1dsaXk3NlFDcE1YWks3aVRPbklKVWJxWTAxUmNKOWx1b2t3WWxmMXA5VEIzdTNlMWdVVTZKMFNkWTZDQWVVNFNXdGFlc0l1QTFoQkRBNGlvT3l5dC0xSTh6QWYwSV96TWRLUm9hdGtUclpfejZfQWdpUzRFczBpbjVK?oc=5",
+      "date": "2026-08-17T11:49:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -89,11 +197,11 @@
       "articleLang": "en"
     },
     {
-      "id": "7j86Mx32jU1R",
-      "title": "Trump crypto firm backs venture offering AI from restricted Chinese companies - Reuters",
-      "summary": "Trump crypto firm backs venture offering AI from restricted Chinese companies&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5",
-      "date": "2026-08-17T10:25:18+00:00",
+      "id": "JJmk93MElU7m",
+      "title": "At Beijing AI-themed bar, DeepSeek tokens come with the pints - Reuters",
+      "summary": "At Beijing AI-themed bar, DeepSeek tokens come with the pints&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQnRfS09TOFIza3VWYzJ2bHJwa25BOThFODJFdTlFWF9LWWtYNGp3S0VaTkltQ214ckZrMFBZTXFFLVhST1k2UFZqLTNiUGR2WEo0Y2ZLaU9Id1F0TXFLbWdBd0ZSRDU0QUhnVzR4RTVmWXU3Sy02dkxzaUpPLXhOOWN4V2E3VThNd1pwQ3J3cThNX3NYY1hQU1k0dXlZeGR0eTlYME9pRjV2ZlJj?oc=5",
+      "date": "2026-08-17T10:09:43+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -122,18 +230,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "sBpDNu45tqsx",
-      "title": "Chinese hedge funds rotate out of Nvidia and US hyperscalers in AI trade - South China Morning Post",
-      "summary": "Chinese hedge funds rotate out of Nvidia and US hyperscalers in AI trade&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUlh6ZTJoNzhBTkF4c1Q3VW5KX3FDVHZvTXo3S184cXh5SWhVRThwNjRGeUV2WTItVHFyTEtpdDVxX2RfWnZNdVI1TExMY2tBRkVra2x4bU9DcnZqa3JHV1hPQV9MZjF4MDZPSUJ3Z2NGQUJUZUlmZ3EwQlhMTUpYTVlFbERaWUwtNUNFd2hEd2U4YWd4MDRFanY4eVp5eVVtR25mdjhUcGU2SVAwMFVqV0Y4R1VQWXVheUFkcWtkaXVKa3Vhei1iWHRKcEhLNjhDcnfSAdIBQVVfeXFMUF83T1VBajh6bXBkNHJPV3doNTRweHl2VThiczF2emdNeG1UWHhaQzhtREVXNHUxOWROak1GekVWejFybjRsY1o3eHBsZzEwdEZmY2EwRDY1MG5FVlRrUFVjejF0dGEwQjB0V2FVWkNqN1RWN0lUZWVkWG9fVm1wTy14dnRiLUVKWDZWTUYyQUthdkRaOWpjTThqWWZOZzBxSzJfUEJPQVY2LWc2czgzbks3TXdiMUlSMmdxNVpUZzhoOXdSNkR2YkVMNWh4YTlNd2p3?oc=5",
-      "date": "2026-08-17T05:00:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -394,6 +490,18 @@
       "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
       "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
       "date": "2026-08-15T16:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ohVCiA95eWfb",
+      "title": "How to tell if your AI platforms’ accounts have been hacked",
+      "summary": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms.",
+      "link": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "date": "2026-08-15T16:10:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -665,18 +773,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hlqYAKi3AAiA",
-      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate - Reuters",
-      "summary": "Republican senator urges Trump to back US open-weight AI models amid industry debate&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ20zeWJDUzR1TzJOOHJVMDlKUWlzbm5QaTZ5YXJSZGlSLXY2MVFXY1o2RTRyZEZjbzJwa1BsLVUtUEt0TldoVjdLcTJ2aTU2MWVUUmpYc3BMODVHVmdlbVQtX08wdU9nV2dnX2tCSmFDcjFOZHJKVmVneURXZVJTc0hqRzhTVW9XLVNUa0R0b3NwRERaS0tRb0ZCT2p1YWQwc1RPWEUxcmotQVZBejR4VUFrc1ZsMTloODY0?oc=5",
-      "date": "2026-08-14T10:42:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "atQ7eg9Scpn2",
       "title": "People Are ‘Marrying’ Chatbots. These Lawmakers Want to Stop Them",
       "summary": "Human-AI marriages are not currently recognized by US law. Some Republican state policymakers are drafting legislation to keep it that way.",
@@ -749,18 +845,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "nFXd1zOObfv9",
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
-      "summary": "AI-driven surge in bond yields could be next risk for markets and growth&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
-      "date": "2026-08-14T04:10:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "ZAK4k9L0+7wk",
       "title": "How AI is helping to open a new chapter for ancient Chinese literature - South China Morning Post",
       "summary": "How AI is helping to open a new chapter for ancient Chinese literature&nbsp;&nbsp;South China Morning Post",
@@ -770,18 +854,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "nLAvfXdrOoVQ",
-      "title": "Chinese chipmaker SMIC increases prices on strong AI demand - Reuters",
-      "summary": "Chinese chipmaker SMIC increases prices on strong AI demand&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckEwZzMtQ1lJZW1sR3ZnSmxxQ3BjM3phX21WczRwbWxWZ1UtY1kzTXJKcXJGVnBaOFF4XzFrSEJfZUtTTVFJMVNpU1pnVm1mb1dWb0RHN1FKSkNNWlF6eW12NmFBU1Vwazg5UzJMdlloUkFmaFhiYzdJOWZ0YXo2dFFqTGRlUXZqeVF3Z0VHdDVadU5xZkVFam1nZkxIbFZacXE4YXdTTQ?oc=5",
-      "date": "2026-08-14T03:13:29+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -905,42 +977,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gJG9y0XMWdbe",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-      "date": "2026-08-13T18:28:14+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "SCzvBCVyqFaq",
-      "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding - Reuters",
-      "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5",
-      "date": "2026-08-13T17:28:48+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "m7G381aq+iXW",
-      "title": "OpenAI hires new CRO as executive shake-up continues",
-      "summary": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job.",
-      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-      "date": "2026-08-13T17:07:13+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "O8AmUD9xPImt",
       "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters",
       "summary": "Meta AI | Future Guardian writers and Neets | Food for thought | Plants surviving the heat | Living and dying wellYour article (Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-we",
@@ -953,30 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6/lvC+gW4yMW",
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character.",
-      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "date": "2026-08-13T15:30:52+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "u3EZ+nxcC9C5",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "date": "2026-08-13T15:08:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "9o1gTHEl5pND",
       "title": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy - South China Morning Post",
       "summary": "Chinese missile AI tracks F-22, F-35-like heat signatures with over 90% accuracy&nbsp;&nbsp;South China Morning Post",
@@ -986,18 +998,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "R5LcHvdY6okk",
-      "title": "AI boom is starting to show in UK economy's performance - Reuters",
-      "summary": "AI boom is starting to show in UK economy's performance&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
-      "date": "2026-08-13T12:06:38+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1033,30 +1033,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "rdnWYvvTE6bw",
-      "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs’ AI agenda? | Robert Reich",
-      "summary": "The dangers of AI become clearer every day. Why are we still acting as if we have no choice about our future?Rather than producing jobs, the US economy actually lost 23,000 jobs in July, according to",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
-      "date": "2026-08-13T10:00:56+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "9F2ChmJx5vCA",
-      "title": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
-      "summary": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a buttonThis year, the battle for song of t",
-      "link": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-      "date": "2026-08-13T09:00:55+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -1241,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bJdasOLpf3Lf",
-      "title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters",
-      "summary": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
-      "date": "2026-08-11T13:19:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "7XWBkm/kBd8z",
       "title": "AI agent hacks gym to get its user a spot in pilates class",
       "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
@@ -1277,21 +1241,9 @@
       "articleLang": "en"
     },
     {
-      "id": "5vYw8/vbSs+6",
-      "title": "Meta strikes at China’s open AI lead, betting on potential US curbs - South China Morning Post",
-      "summary": "Meta strikes at China’s open AI lead, betting on potential US curbs&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN1B6TU0tb3M2Vk8tVzc4VnozTnBuWHk4QkRlUDNld2lPMWpibGJuelB4MWZOdzRfYmtidV9NME1DLVhLY0VqQzhCZk9KNzNCaE5LMnhuaGFpRWJ4ZE1ZQW5UVDY5WGEwc3dxYllCVGNqYk5TWVNSR0p1NXc1aDl4TjYzS3R1OE5xNmxhTGRPaUNIQXVLcWQyVDdWTS1XSTdUWjVmVDJyVzhFRHdlRWNtdTZETENQc2twQ3RJdEFlc9IBvwFBVV95cUxQbFdjcEg1emNZUGVTS1MxZHdFZ1pkWURabzAxSlA5bUtEa00zQlBkZFFOR1B0YmxrdDhaaEFlOVZpbklQM2xfaHd1Y2RRNWlvbmdTZUNWc2R6ZEE1Tm1oeXRsaTVyOVNnN0dQbW5fUXpoUl83X0JJZ1N1SExvaHF5aF9oOTl6OGg3WjVMLUJEUTlCTWZERTVlaks4YVBZVmtQaXVaNndTR3NQU3ZwcUhORG5ZSHlhbnp2LTF4WGljWQ?oc=5",
-      "date": "2026-08-11T07:30:39+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "pO9wRH9KVVHr",
-      "title": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto - France 24",
-      "summary": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto&nbsp;&nbsp;France 24",
+      "id": "urF4DZTVi8Pk",
+      "title": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto - france24.com",
+      "summary": "Zuckerberg envisions 'superintelligence' for everyone in AI manifesto&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbElDZmNQazVhbmZvTnk5LXhJXzgzS2l1ZjcxRUF5UmVZellVVkE1amNCMUY5Ny1lTVJ4eXh3OUpvSFdKU0pHQW5mSU56cEFzWXZ3QmRycjhUU0ZRTlRvUHFNamNXVlB4dFZGSVhxNU0ydFl6d1ZUZ1F1TFFJQjlUdlVzYTlpbERJUE5hMmloVFozZlFHVWNlZG1qVFBIRGI4SXNsSnQzOXNzLTNIU2EtTVA5Y1FMUQ?oc=5",
       "date": "2026-08-11T01:42:51+00:00",
       "source": "France24 Tech",
