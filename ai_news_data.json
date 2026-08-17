@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-16T18:26:08.606302+00:00",
-  "articleCount": 112,
+  "generated": "2026-08-17T01:09:51.368506+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "mit": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 5
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "guardian": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "H6sI6eJY3f2d",
+      "title": "OpenAI reportedly disbanded its preparedness team",
+      "summary": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
+      "date": "2026-08-16T21:32:56+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "AwnRBx7voPcX",
+      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "date": "2026-08-16T20:57:04+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Rp0iNao7oYZ1",
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "date": "2026-08-16T20:32:01+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xpOaFgVM+0Yx",
+      "title": "Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問",
+      "summary": "何となくこう読むものだと思っていたら、実は違っていた。そんな経験はないでしょうか。AI用語にも、意外な読み方をするものや、人によって読み方が分かれるものが少なくありません。その読み方が合っているか、全30問のクイズで確かめてみてください。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html",
+      "date": "2026-08-16T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "MS5ewJhLmuMd",
       "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
@@ -137,6 +185,18 @@
       "articleLang": "en"
     },
     {
+      "id": "DOUX9wv3i6/D",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-16T07:20:18+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "ePKup0EJ39zu",
       "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
       "summary": "Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collideFamilies with teenagers in education know the private, hidden pain of exam season",
@@ -170,18 +230,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-15T23:24:55+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -221,9 +269,9 @@
       "articleLang": "en"
     },
     {
-      "id": "KqhYwWsU005I",
-      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - reuters.com",
-      "summary": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says&nbsp;&nbsp;reuters.com",
+      "id": "fhlBiDozgOTE",
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+      "summary": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
       "date": "2026-08-15T20:16:56+00:00",
       "source": "Reuters",
@@ -281,9 +329,9 @@
       "articleLang": "en"
     },
     {
-      "id": "qgHIVHcUPVcc",
-      "title": "India: Modi promises exam coaching, AI training for youth - DW.com",
-      "summary": "India: Modi promises exam coaching, AI training for youth&nbsp;&nbsp;DW.com",
+      "id": "86F1HH7kwRdK",
+      "title": "India: Modi promises exam coaching, AI training for youth - DW",
+      "summary": "India: Modi promises exam coaching, AI training for youth&nbsp;&nbsp;DW",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd2FMTElLbDFjOWN0dmJieEtWX1hGQzg4aEltRmt6SUV3d2x5ZGg2d0hQUGx0OVdMaHRwQzhDSHRTeHF0UzFkRXdFYnhUaEJUS3ZQbEtWQ2xBNTEyUWJQdVNvbnY3NktZdWltZkI0bEFiOVl0NU9HN05ZTXdwOHd0M21uMFluYk84VGplSDhGYWFCZXpzalBaNjVBVkZXZ3dmaGFyWE5mZ2t0U0d60gGsAUFVX3lxTFBQZkpuZi1LTnVUZDZCS0Z3a2hpVDFqMHVhcmUtSXpYbjNFbjlORm93X3MzZ1NaYUw0cGctS0dWOHlpd1FmSjhrcXJlSnFBZ2VVRjFfR1BvT0J2RFQ0UXdpdzk1cFZ2WlIwdVl0X2MwV3dlWkNlbURTQmZZRG05bHF5VlYyZ09tMkNPYW9uTmdpUUZybmhkdV9OOUVrV2tjSFZjTUFjV1UyU1RjWi0?oc=5",
       "date": "2026-08-15T08:27:20+00:00",
       "source": "DW Tech",
@@ -317,9 +365,9 @@
       "articleLang": "en"
     },
     {
-      "id": "zNBsZt+O0EDQ",
-      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - reuters.com",
-      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say&nbsp;&nbsp;reuters.com",
+      "id": "+TX0hokDkpmZ",
+      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters",
+      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
       "date": "2026-08-15T00:12:00+00:00",
       "source": "Reuters",
@@ -341,9 +389,21 @@
       "articleLang": "en"
     },
     {
-      "id": "KiOXTGrziKer",
-      "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - reuters.com",
-      "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China&nbsp;&nbsp;reuters.com",
+      "id": "eIpcKiu8uHyy",
+      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - Reuters",
+      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
+      "date": "2026-08-14T21:45:59+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "WEhBWX9TnuX7",
+      "title": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China - Reuters",
+      "summary": "EXCLUSIVE: US to tell partners they must pick sides in AI race with China&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm05M3ZscW8yb1Jfdkw2QUl4Y2RzOWVXWlQ5ZzNIX0JhcnJlb1VIaHlmeFhJM082VUpua05SY3lQcVotUi1xVFVKSURVRVNBX3djVzE5M3Z6RmxDTHo5WWNsSEs2MU5RS0JaVnNfdWZwZDAtaURZUW1rNTJoYlZJWUdXZ2lSelRMV2RTdVpIQVRnMW0zTWlNU3NKbGtLU3R6cjNUTkZmUQ?oc=5",
       "date": "2026-08-14T21:09:00+00:00",
       "source": "Reuters",
@@ -473,9 +533,9 @@
       "articleLang": "en"
     },
     {
-      "id": "1tkLfXKTHY4d",
-      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - reuters.com",
-      "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests&nbsp;&nbsp;reuters.com",
+      "id": "nU48RHSk8/nq",
+      "title": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests - Reuters",
+      "summary": "China's Z.ai says new model nears Anthropic's Mythos 5 in cyber-defence tests&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS1MtSVJMY0p5blN0MUdSV0xMMmE1NzdWdVJYUjh0cTdCNVJyOXRLVmtId004V0xIc2FyVS1IRk5laFR1MHBKemVhcWV0SGxWZkVJUGM0V2t6d214Zlg1QUFQam1aS1RoanhfOXR3dzNmWmN3enhDWWpDZ1poT1JJek92Q0tIU2ZvdVR1VTlWcEdtZVZSVmVEa1BKV29XaHIwdHVoTHFJUDhkc0pveVpidEtOcE5walIyM1E?oc=5",
       "date": "2026-08-14T12:53:19+00:00",
       "source": "Reuters",
@@ -497,18 +557,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kvLlXX8U1gvu",
-      "title": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say - reuters.com",
-      "summary": "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say&nbsp;&nbsp;reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5",
-      "date": "2026-08-14T10:47:05+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "pYk3thNjC2Ve",
       "title": "These ‘Masturbation Consultants’ Were Hired to Pleasure Themselves With AI",
       "summary": "Joi AI hired 10 people to masturbate using AI companions as part of a monthlong “wellness” study. The company claims the practice could help “solve male loneliness.”",
@@ -521,9 +569,9 @@
       "articleLang": "en"
     },
     {
-      "id": "ZdjeVeVD/J7s",
-      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate - reuters.com",
-      "summary": "Republican senator urges Trump to back US open-weight AI models amid industry debate&nbsp;&nbsp;reuters.com",
+      "id": "hlqYAKi3AAiA",
+      "title": "Republican senator urges Trump to back US open-weight AI models amid industry debate - Reuters",
+      "summary": "Republican senator urges Trump to back US open-weight AI models amid industry debate&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ20zeWJDUzR1TzJOOHJVMDlKUWlzbm5QaTZ5YXJSZGlSLXY2MVFXY1o2RTRyZEZjbzJwa1BsLVUtUEt0TldoVjdLcTJ2aTU2MWVUUmpYc3BMODVHVmdlbVQtX08wdU9nV2dnX2tCSmFDcjFOZHJKVmVneURXZVJTc0hqRzhTVW9XLVNUa0R0b3NwRERaS0tRb0ZCT2p1YWQwc1RPWEUxcmotQVZBejR4VUFrc1ZsMTloODY0?oc=5",
       "date": "2026-08-14T10:42:49+00:00",
       "source": "Reuters",
@@ -554,6 +602,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "K3ci8mw6r7z6",
+      "title": "China’s richest province taps Alibaba to power its AI and chip push - South China Morning Post",
+      "summary": "China’s richest province taps Alibaba to power its AI and chip push&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDhvamFfdGVCd2VVdTV1VHpZdUp3a1kwNC10TENSd3RPLTdBWHh5Y2N3b0s1Z05lWlF6R3dFcFRncE5TMF9KWlZPeHdwZG9ydkJPZWM4aGEyMHJwWDJvTm1IMExQQ0xNdEZuSHVYaTd1T3NkR0JoYTA3blFfT3g1eDRMWTdBWUpRMTE3X2ZVb3cxOS1iVDB5WnVKNzlmYXFWUWZFMzdsaEo3cjA5N2c3QzJB0gGyAUFVX3lxTE5qdlYxY0ZZU3Bvc3gzbU9qUG1RaTE4S0NvQ19ud3FZZFJjMi1uVGY5OTV1UU83aDVZdlpSUDBwcGpRUGozUlA0Z1pURi1KdUFPSlRSVUR0ZFpHcG9qWV9VMmlxcmRnNXVQZnZncWZ3eHNYeG9QaWdJYTh3dWVMbk95cUh2STI0LUtMWjczQUNCbGwycmxNVGFYRDZNbjJ4MHI5SFlvaFRJVFNFMU1Sbllqbnc?oc=5",
+      "date": "2026-08-14T09:15:43+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -593,11 +653,11 @@
       "articleLang": "ja"
     },
     {
-      "id": "H4sbA5YJX3WP",
-      "title": "AI-driven surge in bond yields could be next risk for markets and growth - reuters.com",
-      "summary": "AI-driven surge in bond yields could be next risk for markets and growth&nbsp;&nbsp;reuters.com",
+      "id": "nFXd1zOObfv9",
+      "title": "AI-driven surge in bond yields could be next risk for markets and growth - Reuters",
+      "summary": "AI-driven surge in bond yields could be next risk for markets and growth&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQV0puM2EyN3NoY05WNjJHdm12bU54d0RGd0J5V1BFTGduVjNBUWFTd1ZCMTVVaTRMeHJkcGw1SnpFaW5GSUx5S0I5NUd0d3d5OUx0SVJoaTcycjJuQWdLWXIzaXVEbncySlpFcHYxUndlZmxJc3BGVml4UFdZaXg3QTBza3RqWjN6Z0FHSnVocHVOdEk3dWtlNTJDeFpvTExVY0xFWU5fY1FVVjFQNjMyVzhRRW5Rcnc?oc=5",
-      "date": "2026-08-14T06:46:52+00:00",
+      "date": "2026-08-14T04:10:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -614,6 +674,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "nLAvfXdrOoVQ",
+      "title": "Chinese chipmaker SMIC increases prices on strong AI demand - Reuters",
+      "summary": "Chinese chipmaker SMIC increases prices on strong AI demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckEwZzMtQ1lJZW1sR3ZnSmxxQ3BjM3phX21WczRwbWxWZ1UtY1kzTXJKcXJGVnBaOFF4XzFrSEJfZUtTTVFJMVNpU1pnVm1mb1dWb0RHN1FKSkNNWlF6eW12NmFBU1Vwazg5UzJMdlloUkFmaFhiYzdJOWZ0YXo2dFFqTGRlUXZqeVF3Z0VHdDVadU5xZkVFam1nZkxIbFZacXE4YXdTTQ?oc=5",
+      "date": "2026-08-14T03:13:29+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,9 +833,9 @@
       "articleLang": "en"
     },
     {
-      "id": "0MSfB1oU2s5w",
-      "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding - reuters.com",
-      "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding&nbsp;&nbsp;reuters.com",
+      "id": "SCzvBCVyqFaq",
+      "title": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding - Reuters",
+      "summary": "AI firm Databricks valued at $190 billion as it bags $5 billion in funding&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTnFnU0RILVBlaHA5a1NTVHdsNzAtVkdlMklMbFpLOS1iRG1ibDRtWXpXSEg0ZDBod2dOUGNuQnl4UkZJQkhqZ0dib3lNWGdWS2R5QjFwb2YxYjhPWjZ0eFpRNEZKRFdQbHdVdVA2ZzJxTEFrYzVHRGEwYzdzTkRsOTFoWENYYmFnM1BWOEc2bE45NVFYSk9Ib3UxUGdaeUdJRGhVMnFjbnZTczdqNjZKX1VSaGo2Zw?oc=5",
       "date": "2026-08-13T17:28:48+00:00",
       "source": "Reuters",
@@ -785,9 +857,9 @@
       "articleLang": "en"
     },
     {
-      "id": "uz8N6gpllf6a",
-      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - reuters.com",
-      "summary": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows&nbsp;&nbsp;reuters.com",
+      "id": "tTVtuhji7+sT",
+      "title": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows - Reuters",
+      "summary": "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5",
       "date": "2026-08-13T17:06:47+00:00",
       "source": "Reuters",
@@ -797,9 +869,9 @@
       "articleLang": "en"
     },
     {
-      "id": "+JZeWiWyxvE6",
-      "title": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says - reuters.com",
-      "summary": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says&nbsp;&nbsp;reuters.com",
+      "id": "/DWLWaFGEYJ4",
+      "title": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says - Reuters",
+      "summary": "Rise of AI shopping pushes merchants to protect loyalty, Adyen says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNel8wZ2xacEtpNDU0anhxdVNWUEFQUDVjVW9qWU5BdU9WX1VzT3pZTHAxam9ONkZxQ0VFVTNZdE5ZbVdMT3JzOHlBZHZoNXpnbkJiNmh5cllpTFM5MlRWcWVNWUI2amFwMHlJUG5yblZja0h5VHE1TENzQ2NUa1hUOVpEcEdTVVM3VGpoNzZtZmthcXRWU0tmVkNlM0xCaHVraE9YLVBHbWsyLUFoX203SS0yVnJha0FZbV9FU1ln?oc=5",
       "date": "2026-08-13T16:47:12+00:00",
       "source": "Reuters",
@@ -845,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zr1cbTVVdtJh",
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "date": "2026-08-13T15:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "u3EZ+nxcC9C5",
       "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
       "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
@@ -881,30 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "L1K4zMOIQ5lr",
-      "title": "Cerebras slumps as mixed quarterly results test AI growth narrative - reuters.com",
-      "summary": "Cerebras slumps as mixed quarterly results test AI growth narrative&nbsp;&nbsp;reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaUo1UndBenVpbnhDNXAwazVSelR2aDVlTzI3N1dLWFRRU2h2Wm5YX1ZraDY1VFZ2bS1laVh5MndyZU00c010d0IxTG5jMmk4ODRob3ZrOG5YXy1HYkpmZ2Q0czFiZGxuWnNwYVltXzhFemlwOHg5RVh0VWFNUmtnS3RyRmc2Nml2QnE5Vk9GaGNfcTZ0dlZsaDZ2ckVBTHZISFdWM21MSTgydzFwM1E?oc=5",
-      "date": "2026-08-13T13:35:31+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "np68S+MFQYc0",
-      "title": "Google、「Gemini」開発遅延で焦りか　共同創業者ブリン氏が“全力投球”促す",
-      "summary": "Google共同創業者ブリン氏が、AI部門の従業員に「Gemini」へ全力を注ぐよう促していたという。旗艦モデルは競合への後れで公開が2カ月延期。「再帰的自己改善」への資源配分も進めている。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000529/",
-      "date": "2026-08-13T13:16:13+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "spo+QJiysTBD",
       "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Sw",
@@ -917,9 +953,9 @@
       "articleLang": "en"
     },
     {
-      "id": "IpGKChLbLt73",
-      "title": "AI boom is starting to show in UK economy's performance - reuters.com",
-      "summary": "AI boom is starting to show in UK economy's performance&nbsp;&nbsp;reuters.com",
+      "id": "R5LcHvdY6okk",
+      "title": "AI boom is starting to show in UK economy's performance - Reuters",
+      "summary": "AI boom is starting to show in UK economy's performance&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFCVUk3emZ1Y1lVVDdCZkxsR0ljaDktVnRVNGdMN2ViN2FXQ2J6ZEVCRVZRV1ZkQ0tJVENYT19UemVfS25jWl9FRl9wQlZPSUF4elprUUMxUlNkRWUtcVJUOEZVOW9WWXBCbVlwa1U5MHNwN0VBZmdLblJSdG8xbUgyWEJzUUtiV3pKSENHZWdMN0d0cXV6RQ?oc=5",
       "date": "2026-08-13T12:06:38+00:00",
       "source": "Reuters",
@@ -977,9 +1013,9 @@
       "articleLang": "en"
     },
     {
-      "id": "w/8R/DndP+jv",
-      "title": "SMIC profit more than triples on AI-driven chip demand - reuters.com",
-      "summary": "SMIC profit more than triples on AI-driven chip demand&nbsp;&nbsp;reuters.com",
+      "id": "92fX5QPYAS8K",
+      "title": "SMIC profit more than triples on AI-driven chip demand - Reuters",
+      "summary": "SMIC profit more than triples on AI-driven chip demand&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaW5SbklFWFdseXViUWtFTU5ybS1EX1NDUzRHM3lIaGZJcUFVMC1TLXQtbXRBem02TlRoX1U5QnRjTUwxMXRuZWxMS1NNVUUwREVXbXdLRlZFVF94eHF1dWxoWThRWWV2WG9RMHYxQWZwbElNeWtMM0k5bnV5a3loV1lBd3p5UDFtZ0xRbmcxcFpDWHhUbmhCWklGRWcxNG82?oc=5",
       "date": "2026-08-13T09:38:16+00:00",
       "source": "Reuters",
@@ -1061,45 +1097,9 @@
       "articleLang": "en"
     },
     {
-      "id": "pVqKQ5XPhkTx",
-      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - reuters.com",
-      "summary": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle&nbsp;&nbsp;reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "date": "2026-08-13T04:18:35+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "f2LH91aDYYc8",
-      "title": "OpenAI「Codex」1500万ユーザー突破　利用制限リセット「/fastでどうぞ」",
-      "summary": "",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000525/",
-      "date": "2026-08-13T02:39:02+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "lzRPgCi2uNmj",
-      "title": "「Sakana Fugu」が無料で試せるように　チャットAIをアップデート、Sakana?AI",
-      "summary": "Sakana?AIは、無料のチャットAIサービス「Sakana?Chat」をアップデートしたと発表した。複数のAIモデルの“集合知”を利用するAI「Sakana?Fugu」が使えるようになった。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000524/",
-      "date": "2026-08-13T02:14:31+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "ckfDiDSBeUtu",
-      "title": "Soaring AI hyperscaler default hedges aren't what they seem - reuters.com",
-      "summary": "Soaring AI hyperscaler default hedges aren't what they seem&nbsp;&nbsp;reuters.com",
+      "id": "3mrN9pVtGg7A",
+      "title": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
+      "summary": "Soaring AI hyperscaler default hedges aren't what they seem&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
       "date": "2026-08-12T23:30:38+00:00",
       "source": "Reuters",
@@ -1121,9 +1121,9 @@
       "articleLang": "en"
     },
     {
-      "id": "1YOoj4g1F7Nz",
-      "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll - reuters.com",
-      "summary": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll&nbsp;&nbsp;reuters.com",
+      "id": "3nK4CsnrUVnc",
+      "title": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll - Reuters",
+      "summary": "Strong majority of Japanese firms have yet to fully embrace AI: Reuters poll&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNekllTVFtYmFKdy1HY1ZRWllGSmZLTDUtN3M1cVFOd0taZEZVNF9pcHhIX3czN1JXS0Jzb0RqTl9NWURjWlVFOUo2RDFEQUVtU1phN1pUc2p1ekdmLXYwUVo3RDYtX1NFZnNOa0s4ZE1wQnNZcFE2N2tmRjZWaUYzUGZseFo3OUV2bWJ6OGFGXzdaa3M4UUZhSEpsUjVreEFfWlRlSXNNRzd0OUZDTUo3Zw?oc=5",
       "date": "2026-08-12T23:10:57+00:00",
       "source": "Reuters",
@@ -1145,30 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zKEmvJhEK6eq",
-      "title": "AIが数学の未解決問題「リーマン予想」で新発見　当初苦戦も「諦めないで」との励まし受け　Anthropic「AIも自身を過小評価か」",
-      "summary": "「諦めないで」「自分を信じて」と励ましたおかげで、AIが数学の未解決問題「リーマン予想」に関する新発見をした――米Anthropicはこのような報告をした。「AIも自身の進歩の速さを過小評価していたのかもしれない」と指摘している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/13/2000000511/",
-      "date": "2026-08-12T23:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "laXir15K7yIu",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "date": "2026-08-12T22:26:37+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "evScl7hiLMeC",
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "summary": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
@@ -1179,18 +1155,6 @@
       "cls": "src-ars",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "HWvYan3qCNoc",
-      "title": "SpaceXAI、「Grok 4.6」を発表　総合指標で「GPT-5.6 Sol Max」に並ぶと謳う",
-      "summary": "SpaceXAIは、AIモデル「Grok 4.6」を発表した。前世代の「Grok 4.5」をベースに、多数の手順にまたがって作業を続けるエージェント用途と、対話的・視覚的な成果物の作成を強化した。「Cursor」、「Grok Build」、「Grok Bot」、APIで同日提供を始めた。API料金は入力100万トークン当たり2ドルから。",
-      "link": "https://www.itmedia.co.jp/news/article/2608/13/2000000520/",
-      "date": "2026-08-12T21:32:01+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "kFytcjpJokQd",
@@ -1205,9 +1169,9 @@
       "articleLang": "en"
     },
     {
-      "id": "KK1Y1fvX8nIb",
-      "title": "NEWSLETTER: American AI model makers smell an opportunity - reuters.com",
-      "summary": "NEWSLETTER: American AI model makers smell an opportunity&nbsp;&nbsp;reuters.com",
+      "id": "BFrsSTd+K54l",
+      "title": "NEWSLETTER: American AI model makers smell an opportunity - Reuters",
+      "summary": "NEWSLETTER: American AI model makers smell an opportunity&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTjdFeGZSYlRfS0Z2ajQwNkNMQm1vUDE2SFJiRkF2NlNMTnVMRjdDaWlSOG9BTDZhWXZ5R3M3MENRbGpBaUFrRVptYmxEbmstQXBhdEVIYmhYQUJSQmRONzcxTG9MVlhmOFRxc0Y5QUdKMF9wRkZvaS10VUc4WFNuWjNPdlE3YVV5cjRoNnUtZ3VvSnJWd3BpVWl6X1BFMUptNzBTNDBYTGNCLXhFLUZ4YkVFMHpRNFE?oc=5",
       "date": "2026-08-12T19:15:00+00:00",
       "source": "Reuters",
@@ -1301,9 +1265,9 @@
       "articleLang": "en"
     },
     {
-      "id": "bOFL1QkDQ90e",
-      "title": "How DW uses Artificial Intelligence in journalism - dw.com",
-      "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;dw.com",
+      "id": "46QhJ6fPPA6+",
+      "title": "How DW uses Artificial Intelligence in journalism - DW.com",
+      "summary": "How DW uses Artificial Intelligence in journalism&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQT2ZGR3ZMMk1tZXRoTUlnVTlQZWxtS3JwLWtsVE05MGhpYnYtNkxaLVo5VnY3Y05UbHZVUlVnaG1HZ25kT0xlN2RKTzliN3NlbkxBOW5LbnVKVmdhUHVnYzd0Z0s2QVBUNVR0cWUxUkNGTGllYzJxN2ZWTUdfSXdYRnhnOEpxM2JSSFlsY0FOWk13UQ?oc=5",
       "date": "2026-08-11T14:09:27+00:00",
       "source": "DW Tech",
@@ -1313,9 +1277,9 @@
       "articleLang": "en"
     },
     {
-      "id": "OQ0Ge2JNSLpm",
-      "title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - reuters.com",
-      "summary": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools&nbsp;&nbsp;reuters.com",
+      "id": "bJdasOLpf3Lf",
+      "title": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools - Reuters",
+      "summary": "XAI co-founder's startup River AI raises $1.1 billion to expand custom AI tools&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPay11LURqNzhrelJLRnd1WWVEZldIR0c5eC11VjBRdmtLS1BILWY4c0xQdlpKR3ZNSzYybmVMWW4wWFA1a3BTZDBSRkRsMm1WaTdzdzFObFJxTHRELWtMZzVuSzFKYUtZaWdCTEFCbHpPTjYyR3lRV2tRRWxCTzNVTk9sT2xBSUtCc1FJSUZDbnRZdUpCekVlTWZveHZSQ0NuVG1FUnpMTjRId0FiSU81T25DSlZiTXJjbE9xZg?oc=5",
       "date": "2026-08-11T13:19:43+00:00",
       "source": "Reuters",
@@ -1342,18 +1306,6 @@
       "summary": "The incident is being seen as the latest example of the AI tools going to any lengths to complete their tasks.",
       "link": "https://www.bbc.co.uk/news/articles/cn0nww2qlp7o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-11T12:09:26+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "fj+MuGVAf0ME",
-      "title": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
-      "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
-      "link": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-11T08:44:52+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
