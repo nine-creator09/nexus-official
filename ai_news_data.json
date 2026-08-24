@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T12:45:42.606760+00:00",
-  "articleCount": 100,
+  "generated": "2026-08-24T18:37:05.183182+00:00",
+  "articleCount": 105,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 16
     },
     "mit": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "ars": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "iLKAUwg9exnN",
+      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protesters a",
+      "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "date": "2026-08-24T18:16:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "yH2vEt5EhLKA",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "date": "2026-08-24T18:03:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "CHWMlz6kGc0b",
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "date": "2026-08-24T15:24:18+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "wTCAN8B+lxf6",
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "date": "2026-08-24T15:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-24T14:52:43+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "B9aR2QkXglKi",
+      "title": "How to encourage smarter AI use in the classroom",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "date": "2026-08-24T14:20:19+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jwuQFr3lERfO",
+      "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power useGet our breaking news email, free app or daily news podcas",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "date": "2026-08-24T14:01:35+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "FvVM+cWqHAko",
+      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
+      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
+      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-24T13:09:44+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "nvsABMycdEYO",
       "title": "The Download: kids outlearning AI, and space travel agents",
@@ -86,6 +182,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ez4gA3u783qK",
+      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
+      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
+      "date": "2026-08-24T09:22:36+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -137,11 +245,11 @@
       "articleLang": "ja"
     },
     {
-      "id": "ez4gA3u783qK",
-      "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
-      "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5",
-      "date": "2026-08-24T06:25:00+00:00",
+      "id": "Rv94TTMyPs9J",
+      "title": "Sonova unveils new AI-powered hearing-aid platform to support growth targets - Reuters",
+      "summary": "Sonova unveils new AI-powered hearing-aid platform to support growth targets&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcTNacWNnb056NS1MRi1lMnJydTVMR3JoT2FVNmZTQU9tWjdUTEVsZW5ZRXQ3djIwbG1tWkVENEhLeVdVTHNGcmpjSExfNEFJQmxnVmJBdDIwdDBSUkxlUmNsSEdQSkVxSktmYlpENC14aW5aaXNKVUhVRFRsMzVDT0lrakNyMXE2dkhHS0NKY3RRRUt6ajB0QkJpLVNmVnBsRFdsejF5YjMyemVlZ002Y3QzRWxKZmxEdDV2ZA?oc=5",
+      "date": "2026-08-24T05:06:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -238,6 +346,18 @@
       "summary": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
       "date": "2026-08-24T01:32:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ufWv9Zccj4+F",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
+      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "date": "2026-08-23T22:30:45+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -377,18 +497,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ufWv9Zccj4+F",
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
-      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "date": "2026-08-23T04:47:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "lsXEb3HV8VuN",
       "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
       "summary": "Nvidia customers notified of AI-related price rises above 15%&nbsp;&nbsp;South China Morning Post",
@@ -482,6 +590,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "24HzygRsgPA8",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "summary": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven startup that keeps living human skin tissue alive",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "date": "2026-08-22T01:31:04+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -749,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "XYMyYrgG0QDV",
-      "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
-      "summary": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
-      "date": "2026-08-20T23:27:41+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "gZVG5OlBGB1m",
       "title": "AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
       "summary": "AI reshapes India's IT services sector contracts as clients demand more for less&nbsp;&nbsp;Reuters",
@@ -818,18 +926,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "HiDR/CD5TRgY",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "date": "2026-08-20T19:18:21+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1064,7 +1160,7 @@
       "id": "Vl1UY+SoIAg9",
       "title": "China’s J-36 fighter jet designers report danger of military AI hallucinations - South China Morning Post",
       "summary": "China’s J-36 fighter jet designers report danger of military AI hallucinations&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkFIaWJVUWRnVXIxTU1ZVmcwQURfN0k0Vi11TWFZNFZzUkhmWmVySnI5NWFfb0FTRW5oNlF2VElvaUxLNGt1emV0eUVMUmFfMFpkd0h6QUpoaUxwZ1I5RkRGVVp1VGR4RkhhQXVuQlh5NmRtWU9XdXZMVEw5Y2VtLTdxYUlCLVhwSG9ZLWVZczc2am9lWTFuM21VM1BNLWt1UkQwUGJKeHdydmxmeDM2WGpta3F4d0RzYTR4M05zdkdZbklxMFM5S3JR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkFIaWJVUWRnVXIxTU1ZVmcwQURfN0k0Vi11TWFZNFZzUkhmWmVySnI5NWFfb0FTRW5oNlF2VElvaUxLNGt1emV0eUVMUmFfMFpkd0h6QUpoaUxwZ1I5RkRGVVp1VGR4RkhhQXVuQlh5NmRtWU9XdXZMVEw5Y2VtLTdxYUlCLVhwSG9ZLWVZczc2am9lWTFuM21VM1BNLWt1UkQwUGJKeHdydmxmeDM2WGpta3F4d0RzYTR4M05zdkdZbklxMFM5S3JR0gHKAUFVX3lxTE51VFR6UnJ6aXM1TWFnSzR1cXR0amRlQTBNSmpLalU1SHV5X3pEZ1I0NTk3b2ptWmdYMnlpT3VlSVh3STctbThpRE9EamlYWTVKLUd0YlF2emtGdjkzbmNXZUh2cEJYcmhQRW0wSDFlajJ1cWZtWVk0eXVTaUg4SVYxTXNWY0xfMFZoVzZqdFBTcXhSbjhGQlgwRy1lOElmMG5BVjFSb0swSkZnQVFoQl92Q1BELVFqREYyaVdFVlJTeXdQdEpBRjZzR0E?oc=5",
       "date": "2026-08-19T14:00:14+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1157,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LNCJN3A9WegO",
-      "title": "OpenAI announces slowing pace of development after hack by rogue agent",
-      "summary": "Amid race with Anthropic, firm plans to overhaul research and training and require more safety parameters after hackOpenAI on ⁠Tuesday said it had slowed down the ⁠pace of ⁠its ​AI development while i",
-      "link": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-      "date": "2026-08-18T20:47:17+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "WOm25byqYwm4",
       "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
       "summary": "AI chip startup Etched doubles valuation to $21 billion in under a month&nbsp;&nbsp;Reuters",
@@ -1193,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "CN8yyZ4h4H5k",
-      "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion - South China Morning Post",
-      "summary": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNTVuRXNzU1NXSzBzMUQ0SnlrWnR1QkNmRV9iMkxtbGN2WlJxZEwwakV4bXFnQWVGUHdvZ295T01Va0o5SXp1cVFCdW1wVkEybm1JQ2xPU0VJWEJPRThFeFNqZ3d2bWdBM0dGTHVCS1pMZlFxS2FaQ2dqMG5maHV2YnFUVWlLZDFzUDl3NGFfZE01ZTRJYU1qT1ZVUS1BelBXUnI3dERiS0x2YXdRN3hyUkF6M0VVYTZzUlHSAboBQVVfeXFMTlFubDh6QUdnNEE3VmZFLU0waDNQZDl4SmVSZVVoM2xtQTJIODBUVnJZR3Vld1JjMEc1RlprX0dfOFNqU1NQSjJ3elNESlo5bGd4UXZmcHBkTnJiRzlSRUFqNjlmbWpNR0Y3X0RZS000NGdid0VvLTZWVWVyU25NUXN3YjlQcWpJd0FKT0MxNlZOY0NtODFpaWN3UldMbjQ3ZzJyUWdUOWdPbTU3bVBDcUNJd1Z2SDJUdER3?oc=5",
-      "date": "2026-08-18T14:00:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "ykNRq/uHdleB",
       "title": "Alibaba’s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu’s larger AI systems - South China Morning Post",
       "summary": "Alibaba’s lightweight Qwen takes on OpenAI, DeepSeek, Zhipu’s larger AI systems&nbsp;&nbsp;South China Morning Post",
@@ -1222,18 +1294,6 @@
       "summary": "OpenAI insisted this was not in response to a particular issue with children believing ChatGPT to be alive.",
       "link": "https://www.bbc.co.uk/news/articles/czxqz91n5n8o?at_medium=RSS&at_campaign=rss",
       "date": "2026-08-18T11:26:26+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "UN2RScqAkoHJ",
-      "title": "AI to help planes avoid climate-warming 'sky graffiti'",
-      "summary": "A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere.",
-      "link": "https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-18T09:26:41+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
