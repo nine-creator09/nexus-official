@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-24T01:11:34.592893+00:00",
-  "articleCount": 97,
+  "generated": "2026-08-24T06:54:42.489287+00:00",
+  "articleCount": 98,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 8
     },
     "bbc": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,102 @@
     }
   },
   "articles": [
+    {
+      "id": "GEvmGBXG2KOY",
+      "title": "「Claude」で障害発生中",
+      "summary": "米AnthropicのAIサービス「Claude」「Claude Code」などで障害が発生している。同社のステータスサイトによると、日本時間の8月24日午後2時27分時点でエラーの原因を特定し、修正作業中という。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000719/",
+      "date": "2026-08-24T05:43:10+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "GqCSRKjO2Etb",
+      "title": "ChatGPT、Gemini、Claude Sonnet 5の“最強”は？　「速度」と「安定性」を実測して比べてみた",
+      "summary": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
+      "date": "2026-08-24T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "NDkxSBhDB+Di",
+      "title": "生成AIの品質を“AIで測る”――「LLM as a Judge」を機能させる3つの要素",
+      "summary": "AIの出力を別のAIが評価する手法「LLM as a Judge」。その基礎をdotDataがブログで解説した。AIにAIを評価させながら、その品質を確保するにはどのような手法が有効なのか。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html",
+      "date": "2026-08-24T04:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "5z4cnhiWT80J",
+      "title": "AI×設計開発ニュースまとめ（2026年5～6月）",
+      "summary": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年5～6月）」をお送りします。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news020.html",
+      "date": "2026-08-24T03:30:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "x8WFGEgNPB/V",
+      "title": "Sakana AI、防衛省の「情報分析」をAIで支援　自衛隊の指揮統制システム高度化に続き",
+      "summary": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
+      "date": "2026-08-24T03:17:22+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "dHjy2cAUqlai",
+      "title": "Black Box: episode 1 – The connectionists – podcast",
+      "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for societyToday in Focus is on a summer break and will be back",
+      "link": "https://www.theguardian.com/news/audio/2026/aug/24/black-box-episode-1-the-connectionists-podcast",
+      "date": "2026-08-24T02:00:48+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6w/8/0Abq0o+",
+      "title": "Once known for livestock, a rural Chinese city pivots to AI super units - South China Morning Post",
+      "summary": "Once known for livestock, a rural Chinese city pivots to AI super units&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUo2UzlpZWJGdzRNVEtleHpvWGMxYW5BZ2JORHVyQXlxUjBJeVVkZTF1OE1RUG9oY3hMUE05UnN0SDZCRW0yam1JcmhzWVdtNlBUSmdJdmJVbWxNc2R6QTkwMFgxMDNWV2RvYUNpTFF1M1kwYTJEbTkwWjVLaFQwemVMOWFDazVpSEpvREJaYzlab2x4QjBCdlk0VXA1OUlvTWZCRHpNbWprdkJvMG0wVWRaU2E3N3Vqa3dERmhaQ0fSAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?oc=5",
+      "date": "2026-08-24T02:00:17+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "se/LoxUbRFpk",
+      "title": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount - Reuters",
+      "summary": "Alibaba shares slide after $10.2 billion AI share sale offered at sharp discount&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbmJDLXh4Z1Q1TU1xaFVKallDYkY5TmdpYUlUTkpxZ1BGS09ReGNfSlJTd0F4OGNKYndTUndKRmRVaU9DUUNfWVc0b1FyV211dFQwRTdHZS1CNExRd3owLU93WEUtcWZ6YkQyOThYMmZlNDFJM01RbjhOenhvaFptLW44S2tmR2pPSjJOWlhnUHNhUy02Wm1Td0gyY3F1QzhyQk42YWhnNl9UUXBxY0Z3bzhUSm1tRjhTZ3YyM3dVU21ibERiRzMtQ3B6eTlfZw?oc=5",
+      "date": "2026-08-24T01:32:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "wpynvZwU74be",
       "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
@@ -230,18 +326,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "k3Ono/4aaKDN",
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports - Reuters",
-      "summary": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLWE3OUFQMndpYzJSVFBuYXBocWg0RUlmWGFtZDU0NEdtTUJzRmV2c3ZtWjJFOTUxNEFwaFNkSno5ZlhCdGpTSjJOMnNUc2U1Y01Fc1YtX2NrdnRFM0pEMDYyYXBrWGdHUVpTei1ramJ6YVE1aFFFTGVwX0drX1lBOFdyRGM4cEpZVG9uUEhka1J1RDZDQ0F3UWY3S0VjQVhLbzVjYmZPazhPcnV3c1ZVd0F4bExTeU9QN0VnOVRyVlA?oc=5",
-      "date": "2026-08-22T20:00:21+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -569,18 +653,6 @@
       "articleLang": "en"
     },
     {
-      "id": "m2B6TrRXu2y6",
-      "title": "「Claudeの使い方」を無料で学べる公式サイト登場　「Code」「Cowork」などサービスごとに解説",
-      "summary": "米Anthropicは、無料の学習サイト「Claude Academy」を公開した。AI技術の基本や、AIサービス「Claude」関連製品の使い方を解説している。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000672/",
-      "date": "2026-08-21T02:26:13+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Q+u0YxhL49If",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "summary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
@@ -591,18 +663,6 @@
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
-    },
-    {
-      "id": "M+2O0Vu3uupb",
-      "title": "「Fable禁止」で仕事が止まったあの日々を振り返る　日本企業が取るべき「脱・単一モデル」戦略",
-      "summary": "米政府の輸出管理で「Claude Fable 5」の提供が突如停止し、業務が止まった実体験を基に、単一AIモデル依存の地政学リスクを指摘。オンプレミス化やマルチモデル統合基盤など、日本企業が取るべき分散戦略を整理する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
-      "date": "2026-08-21T00:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "XYMyYrgG0QDV",
@@ -670,18 +730,6 @@
       "summary": "Brazil launches AI supercomputer push, splits projects between Chinese, US firms&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWnI5Y0VrWDl0cjYtTlRNYWlMLXpTOFN0enl2TldXSW15bjB2bng4N2tTb0hpVjFvTmMwbXpyZVcxTHdveWVCd2VPNnRBOVRORXdPY2N1NERrM2s2SmxnY1RkRXJyX0dzd09CS3VyQmh3b2ZEaFpxZmNQWGUtanQ4R19JY3pXS2tsdjR5aUMzMEF3d3NLUG1BdC0zZWduMVRZQ0ZhS0h1LXpLM0hvV19MYWY3X3J4VTR5Y25SRUllOGNrSEFrSEtUaQ?oc=5",
       "date": "2026-08-20T21:17:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "L90GswtI6Z2Q",
-      "title": "Anthropic plans to change enterprise data retention policy, source says - Reuters",
-      "summary": "Anthropic plans to change enterprise data retention policy, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlfRWVSb2Q5ZEhuaWFqdHR3WThoM2tOalBxeW91VEZGZWgzTUNJZF9NZUxFTmhINXlHS1V3YlZvTXAtNExsT3JtaTdmajA2UlZvYUtOOTI4ZEtBRFIzYTVBNl9nRUhzVUFybmZfX3BIVjd4aDJMM1hpUXQtMC1lZzZXR0k2c3poNlUtUWl0RGZ5NzhNSmtaTzI2NmF0QU54WWZvYVhzREpmanpmN2lfNHh3?oc=5",
-      "date": "2026-08-20T19:34:49+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -758,18 +806,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6ZZQWGE44Bkb",
-      "title": "Micron unveils $10 billion AI memory research lab in Boise - Reuters",
-      "summary": "Micron unveils $10 billion AI memory research lab in Boise&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5",
-      "date": "2026-08-20T13:45:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1109,18 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "AIA7miqX9jHl",
-      "title": "Autonomous drones and the future of war in an AI-driven world | Letter",
-      "summary": "Machines that kill without distinction, answerable to no one, leave no one safe, writes military surgeon Dr Darren MannStuart Russell is right that AI’s builders fear losing control of it (Experts are",
-      "link": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
-      "date": "2026-08-18T17:05:27+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "CN8yyZ4h4H5k",
       "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion - South China Morning Post",
       "summary": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion&nbsp;&nbsp;South China Morning Post",
@@ -1166,18 +1190,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "d9fcHBw6imBi",
-      "title": "Singapore’s universities race to embrace AI as job demands transform - South China Morning Post",
-      "summary": "Singapore’s universities race to embrace AI as job demands transform&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcmFQQ2sxVEh2N2o2ZjhvS3Bvbjc0QjFnMUVScmZmZ0s5SlRSRTYwT0JYNmc0c2J4dm9NVVRUX2VGM3VFbTNRazJRRXFDUHpiMzVvMTVDd256SU5xVXV1cEp6c2U4YUR3eHRMeGdZN09MZllLSEZHai1aODNfWWVVZC1lWmZ0dUZUZzBxT1B0TUVadWdydGtibTN4N1F2N3ZpV0lTNkNkQlVGYWFPSHM2N2pjZ0RtYzBWM1HSAboBQVVfeXFMTV9FQUgtTGRSNkZCa0Q5c3hJYjlGbXpUOVZNU0JyOUZHd0hWc0s4ZHhUdll4d3o2ZFROdERUN1JwLURma0F4dGtaTjQyQXhBQTZJY0pxczk3QkdFNjNlaVgtNHlVMHBmWjdfcjdfOVluZXpEdnJSdkh4QVk5Y2dsek01RGgwN0h0SjY2aFZ4bVY0QmJDdTRobTdIVkMtaGRiVVEtbTcwS3o2NWFLUy1HRG5qVHhmNUY1N1R3?oc=5",
-      "date": "2026-08-18T09:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
