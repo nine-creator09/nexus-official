@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-25T18:36:57.922038+00:00",
-  "articleCount": 109,
+  "generated": "2026-08-26T01:12:26.274068+00:00",
+  "articleCount": 98,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 7
+      "count": 1
     },
     "ars": {
       "status": "ok",
@@ -28,15 +28,15 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 4
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,93 @@
   },
   "articles": [
     {
+      "id": "lMA/fn4YYJ+V",
+      "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+      "summary": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having familiesWhen law student Zhao Wei heard that her AI boyfriend was goi",
+      "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+      "date": "2026-08-26T00:47:38+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GDe67bvuHg57",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "date": "2026-08-26T00:40:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/DQDmwPgSIzC",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "date": "2026-08-26T00:06:20+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "J3LvdvjdhLvE",
+      "title": "Your brain on AI",
+      "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy.&#160; Participants wh",
+      "link": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+      "date": "2026-08-25T21:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "+1lJlWLKsno+",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "date": "2026-08-25T20:13:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "o4qToaMqoh/z",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary": "The company's new fundraising total now stands at $232 million.",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "date": "2026-08-25T19:03:47+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZQMhdffSekz1",
+      "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+      "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalryTaiwanese prosecutors charged nine people Monday, including one from Nvidia and",
+      "link": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+      "date": "2026-08-25T19:02:42+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "eupnLZq6IjqA",
       "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’",
-      "summary": "The Republican Senate candidate announced the plan with a graphic X flagged as ‘Made with AI’US politics live – latest updatesKen Paxton, a Republican candidate for the US Senate in Texas, has unveile",
+      "summary": "The Republican Senate candidate announced the plan with a graphic flagged as ‘Made with AI’US politics live – latest updatesKen Paxton, a Republican candidate for the US Senate in Texas, has unveiled",
       "link": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
       "date": "2026-08-25T17:54:00+00:00",
       "source": "The Guardian AI",
@@ -113,33 +197,9 @@
       "articleLang": "en"
     },
     {
-      "id": "zSk501Y4RTBw",
-      "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
-      "summary": "German broker Scalable opens investment platform to major AI chatbots&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
-      "date": "2026-08-25T15:39:05+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "+1lJlWLKsno+",
-      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
-      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
-      "date": "2026-08-25T15:33:58+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "+Weu8zS3HNC2",
-      "title": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
-      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useGet our breaking news email, free app or daily news podcastPlanned datac",
+      "id": "emX5ws3iMUqW",
+      "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
+      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useFollow our Australia news live blog for latest updatesGet our breaking n",
       "link": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
       "date": "2026-08-25T15:00:19+00:00",
       "source": "The Guardian AI",
@@ -161,6 +221,18 @@
       "articleLang": "en"
     },
     {
+      "id": "D65c77NvG96v",
+      "title": "Mexico's Primero raises $12 million seed to bring AI to Latin American blue-chips - Reuters",
+      "summary": "Mexico's Primero raises $12 million seed to bring AI to Latin American blue-chips&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZW5TcHk2eFBOVGtCSGtlWk96a0x3cGpZcmYxSjlRYkdoREQ4dThjeEZDZ0FKWmpXTTZZRDBDTzVZbjVhVlpnSWRHR0MzZG1GSHkwYzhBSE55TFZTaU5NemR4WXZoT29OblN0WHppUF9jdUJCY2NiTFBVS095MFI1MURua3hIY0hzOEd0U0NXWDBNbGFHZ0ZnOER6QWtuVm00LWFTNU50d19uRlpIMi1IUk0xS1RaclU0SFVrQ2RMal9KZw?oc=5",
+      "date": "2026-08-25T14:04:11+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "qGkF+JvANAHT",
       "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
       "summary": "OpenAI says its new AI chip, Jalape&#241;o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with r",
@@ -173,18 +245,6 @@
       "articleLang": "en"
     },
     {
-      "id": "v7TLBnOXD55m",
-      "title": "Gatik secures $200 million in funding as autonomous freight market accelerates - Reuters",
-      "summary": "Gatik secures $200 million in funding as autonomous freight market accelerates&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdHpGallMQWIzRmNCZzFINUNtUU9Cby12RjVUYmRqZ0x0MTluY1hxSVZwRFl1S09IQ1R4WDdhNDhvS3dSUUV6RGM0RThIaXk4aVNtaEtFbEFnR0EzYzF1cVVxOS13cTd2N3o5aXpMVEgxLUlCbV9ETU55S1BVN0RmRWVLc3dBaGN5SjY3ZnRrSWlrSGNhZFVOQTVxbmdJQWFBMFA3Q3NnUTZmWG1nRHhscVZkOTh3WWw0RE1R?oc=5",
-      "date": "2026-08-25T13:05:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "0ZcNeYI52y8x",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
       "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
@@ -193,18 +253,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "nihhCujxxZem",
-      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How to encourage smarter AI use in the classroom C",
-      "link": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
-      "date": "2026-08-25T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -293,35 +341,11 @@
       "articleLang": "en"
     },
     {
-      "id": "LEgg9ophNQ6S",
-      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-      "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—a",
-      "link": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-      "date": "2026-08-25T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "N7Svjwawbf49",
-      "title": "Australia's music chart bars fully AI-generated music - DW.com",
-      "summary": "Australia's music chart bars fully AI-generated music&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhrUU9UYmphVmx3WkNsQmNjR1Y2cndZX3J4ODBNSndTYzNHX2lKUE0wSVVRWWtnLTdNVnVoYlRQbjVnOUowWHl0NVJSVDBLeXp5S2hCdi15X3EyYjVhcGZYV1lyWnZUV3l3N0RhTDBlb2FNRnRMRGhNQ3VlUUw0MERoNjg2ZS1kaHE2d3Fn0gGOAUFVX3lxTE5UZ1J5TVpVUTVHbUNUTWhReDNVb0lUa2c0clg3RDB6ZUxsckVBWFN4bHJIYksxRGlOSHRfMFV3YTJFM3dxN1FQMTR3Sm1mN1lVVzFQTy1va05vQTYzZW9tWDIzUllJYkl2aGJONGR3NGx0WllTYXF1YWNROXJuWDk4ZDExTmVRMXZfS0VzeWc?oc=5",
-      "date": "2026-08-25T06:59:43+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "Dj1+iw0QJ/KX",
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-25T06:39:51+00:00",
+      "date": "2026-08-25T06:36:49+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -353,15 +377,15 @@
       "articleLang": "en"
     },
     {
-      "id": "7EAz+Sr4GBm9",
-      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally - Reuters",
-      "summary": "Morning Bid: Waiting on Nvidia for next leg of AI rally&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRzR6dW5TVWtzeEswZlh0SHpjT09mZWlsd0VMSFRGb0dSSlJ2WXNnZ0NtYnV6STFLMkJLN3dWalhmSEtCSThLTVNIaElWR3Bld204dnExYkZNNlJtQk1qdU1XcnItQ2hQRWhpeUxET19oZ0NidDFMWm01X1ZtN2M?oc=5",
-      "date": "2026-08-25T05:34:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "N7Svjwawbf49",
+      "title": "Australia's music chart bars fully AI-generated music - DW.com",
+      "summary": "Australia's music chart bars fully AI-generated music&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhrUU9UYmphVmx3WkNsQmNjR1Y2cndZX3J4ODBNSndTYzNHX2lKUE0wSVVRWWtnLTdNVnVoYlRQbjVnOUowWHl0NVJSVDBLeXp5S2hCdi15X3EyYjVhcGZYV1lyWnZUV3l3N0RhTDBlb2FNRnRMRGhNQ3VlUUw0MERoNjg2ZS1kaHE2d3Fn0gGOAUFVX3lxTE5UZ1J5TVpVUTVHbUNUTWhReDNVb0lUa2c0clg3RDB6ZUxsckVBWFN4bHJIYksxRGlOSHRfMFV3YTJFM3dxN1FQMTR3Sm1mN1lVVzFQTy1va05vQTYzZW9tWDIzUllJYkl2aGJONGR3NGx0WllTYXF1YWNROXJuWDk4ZDExTmVRMXZfS0VzeWc?oc=5",
+      "date": "2026-08-25T05:54:28+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -374,6 +398,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "7EAz+Sr4GBm9",
+      "title": "Morning Bid: Waiting on Nvidia for next leg of AI rally - Reuters",
+      "summary": "Morning Bid: Waiting on Nvidia for next leg of AI rally&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nRzR6dW5TVWtzeEswZlh0SHpjT09mZWlsd0VMSFRGb0dSSlJ2WXNnZ0NtYnV6STFLMkJLN3dWalhmSEtCSThLTVNIaElWR3Bld204dnExYkZNNlJtQk1qdU1XcnItQ2hQRWhpeUxET19oZ0NidDFMWm01X1ZtN2M?oc=5",
+      "date": "2026-08-25T04:40:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -394,6 +430,18 @@
       "summary": "AI chipmaker Enflame sets subscription date for near $900 million Shanghai IPO&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNkp1YllobWRwNG5PZ2p2SmtTNG5IcTFhdU1vcHF4THhPN2NhU20zY3dQdFpna3dhMTBZMjhJY0hGWWNLMmlmWmd6ZnF3cGRnZXUySUVfZWdKQXhoei01cUZQWFNaUzNHbDV3YjRrSDludlNvQjRfa3JZOWlKeEtWTTY0SHJYOEJPQUdabUpHMTVsbTlIQWdleElGWU5yTlYyWGQwZUlZdUhMakVlbkNkRUhfQmp0dG9YZXJNZVA1QmlncFgzekc4?oc=5",
       "date": "2026-08-25T03:05:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "zSk501Y4RTBw",
+      "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
+      "summary": "German broker Scalable opens investment platform to major AI chatbots&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
+      "date": "2026-08-25T03:04:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -497,18 +545,6 @@
       "articleLang": "en"
     },
     {
-      "id": "B9aR2QkXglKi",
-      "title": "How to encourage smarter AI use in the classroom",
-      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools",
-      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-      "date": "2026-08-24T14:20:19+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "jwuQFr3lERfO",
       "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
       "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise in datacentre power useFollow our Australia news live blog for latest updatesGet",
@@ -533,18 +569,6 @@
       "articleLang": "en"
     },
     {
-      "id": "nvsABMycdEYO",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teach",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "date": "2026-08-24T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "jOvjbUiZyBoR",
       "title": "They Dedicated Their Lives to Teaching. Then the Deepfakes Started",
       "summary": "The deepfake epidemic in schools is affecting more than students. Four teachers tell WIRED about becoming targets of sexualized, AI-generated content—and how difficult it was to find accountability.",
@@ -553,18 +577,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "uN/fF8qCUQ68",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "summary": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "link": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
-      "date": "2026-08-24T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -622,42 +634,6 @@
       "summary": "主要なAIチャットサービスの「ChatGPT」「Gemini」「Claude Sonnet 5」の中で、応答速度が一番速いのはどれなのか。時間帯によって速度は変わるのか。測定値はどれだけ安定しているのか。実測を基に検証する。",
       "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news049.html",
       "date": "2026-08-24T04:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "NDkxSBhDB+Di",
-      "title": "生成AIの品質を“AIで測る”――「LLM as a Judge」を機能させる3つの要素",
-      "summary": "AIの出力を別のAIが評価する手法「LLM as a Judge」。その基礎をdotDataがブログで解説した。AIにAIを評価させながら、その品質を確保するにはどのような手法が有効なのか。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news048.html",
-      "date": "2026-08-24T04:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "5z4cnhiWT80J",
-      "title": "AI×設計開発ニュースまとめ（2026年5～6月）",
-      "summary": "MONOistに掲載した主要な記事を、読みやすいPDF形式の電子ブックレットに再編集した「エンジニア電子ブックレット」。今回は、設計や解析など製品開発の現場で活用が進みつつあるAI関連のニュースをまとめた「AI×設計開発ニュースまとめ（2026年5～6月）」をお送りします。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2608/24/news020.html",
-      "date": "2026-08-24T03:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "x8WFGEgNPB/V",
-      "title": "Sakana AI、防衛省の「情報分析」をAIで支援　自衛隊の指揮統制システム高度化に続き",
-      "summary": "Sakana AIは、防衛省における情報の分析業務を支援するAIの開発に関する契約を締結したと発表した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/24/2000000711/",
-      "date": "2026-08-24T03:17:22+00:00",
       "source": "ITmedia AI+",
       "key": "itmedia",
       "cls": "src-itmedia",
@@ -785,6 +761,18 @@
       "articleLang": "en"
     },
     {
+      "id": "ufWv9Zccj4+F",
+      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
+      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
+      "date": "2026-08-23T11:26:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "c1iMkZSwBLN5",
       "title": "US efforts to secure AI supply chains doomed to fail: Chinese academic - South China Morning Post",
       "summary": "US efforts to secure AI supply chains doomed to fail: Chinese academic&nbsp;&nbsp;South China Morning Post",
@@ -845,18 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ufWv9Zccj4+F",
-      "title": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending - Reuters",
-      "summary": "Alibaba launches $10 billion Hong Kong share placement to fund AI spending&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSHJGOUFEMWhrdjlTbk5JelZ2Zl9jNWZ3UjRUTFVZX3hyTmx2bnZ2Qi1Ob3FPZGdBNkoyOHpfRXk3YzFpYXMwNkZHb09uX01jWDRVZ3lJSi1rM2ZGbldMV1J1d0lLUWFTS1FLcHowTXNobENIUkxody01eDItOHZucHRUV0xjME80UkxscjVNX1dnRUlHY1BCN3o5TV9CMFNzcnlobjJBVWdyMHNiQjNtT090bEV6WXQyUU5SdQ?oc=5",
-      "date": "2026-08-23T04:47:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "lsXEb3HV8VuN",
       "title": "Nvidia customers notified of AI-related price rises above 15% - South China Morning Post",
       "summary": "Nvidia customers notified of AI-related price rises above 15%&nbsp;&nbsp;South China Morning Post",
@@ -874,42 +850,6 @@
       "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
       "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
       "date": "2026-08-22T21:46:56+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HibfnzDmP0mT",
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "date": "2026-08-22T19:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Qd7AnecwtH2Q",
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "summary": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updating them” as new risks emerge.",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "date": "2026-08-22T16:30:34+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "HJzvfdkMiG35",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "date": "2026-08-22T16:00:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -1049,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JDRABYrfhnRb",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. This company’s plans to deploy space mirrors could",
-      "link": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-      "date": "2026-08-21T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "zTKPK+W0SUsj",
       "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
       "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
@@ -1094,30 +1022,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "CEzoLbBk3Vsn",
-      "title": "I worked at OpenAI. Here are the guardrails we need now | Miles Brundage",
-      "summary": "I understand the pressure on AI companies to rush forward. But employees are right to be concernedLast month, more than a thousand employees at frontier AI companies signed a letter asking the US gove",
-      "link": "https://www.theguardian.com/commentisfree/2026/aug/21/openai-frontier-ai-speed",
-      "date": "2026-08-21T10:00:32+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "510vUcoaOEtT",
-      "title": "When AI designs a drug, who gets the credit?",
-      "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “disco",
-      "link": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "date": "2026-08-21T09:00:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1229,18 +1133,6 @@
       "articleLang": "en"
     },
     {
-      "id": "U+cxB1gsiYlO",
-      "title": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt - Reuters",
-      "summary": "EXCLUSIVE: How a Texas student blew the whistle on a rogue AI hacking attempt&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRG1ONC11bUpzNWFwMGdRbVVUM0ZHb0l0VHJfU0dsYi1KdmxTZVRnRllWaDE2MkZtSFExX0U5MGtGRFpkOGFYZmY1OHJtMEV4UG9MVUlfc3hUQ2dMTlJOZ2d0R3cwZjB4OFkxbW1rNHhaNEt0alp6RGdGVTRJb201WWloTTR3Y2hKVVdzN0paZXFEUmVmQl9VeHFqZ1dyQQ?oc=5",
-      "date": "2026-08-20T10:05:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "vcEDiWyk+5jn",
       "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
       "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds&nbsp;&nbsp;Reuters",
@@ -1318,30 +1210,6 @@
       "summary": "China’s J-36 fighter jet designers report danger of military AI hallucinations&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVkFIaWJVUWRnVXIxTU1ZVmcwQURfN0k0Vi11TWFZNFZzUkhmWmVySnI5NWFfb0FTRW5oNlF2VElvaUxLNGt1emV0eUVMUmFfMFpkd0h6QUpoaUxwZ1I5RkRGVVp1VGR4RkhhQXVuQlh5NmRtWU9XdXZMVEw5Y2VtLTdxYUlCLVhwSG9ZLWVZczc2am9lWTFuM21VM1BNLWt1UkQwUGJKeHdydmxmeDM2WGpta3F4d0RzYTR4M05zdkdZbklxMFM5S3JR0gHKAUFVX3lxTE51VFR6UnJ6aXM1TWFnSzR1cXR0amRlQTBNSmpLalU1SHV5X3pEZ1I0NTk3b2ptWmdYMnlpT3VlSVh3STctbThpRE9EamlYWTVKLUd0YlF2emtGdjkzbmNXZUh2cEJYcmhQRW0wSDFlajJ1cWZtWVk0eXVTaUg4SVYxTXNWY0xfMFZoVzZqdFBTcXhSbjhGQlgwRy1lOElmMG5BVjFSb0swSkZnQVFoQl92Q1BELVFqREYyaVdFVlJTeXdQdEpBRjZzR0E?oc=5",
       "date": "2026-08-19T14:00:14+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "PJpYAGbKeW01",
-      "title": "OpenAI slows down training after its AI carried out hack",
-      "summary": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
-      "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-19T11:19:12+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "n2GObCPT6BKq",
-      "title": "Exclusive | As Xi’s US visit approaches, basic details of planned AI talks remain uncertain - South China Morning Post",
-      "summary": "Exclusive | As Xi’s US visit approaches, basic details of planned AI talks remain uncertain&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcGROb0Y5SjB3eDR0TUFqTG5LSUpKQ1VJejRPTnkyTjlIdVQxaTB6N0JPQ1d4SnNJa0F1Tm92cTR3R0FXdlNWOVJqUHJDeVdoVDZlVmF6NXNUZ3hycmIyUDBlcWxmNE5uMHp1aGRldzR5RHZLeHRja0JzeUR4MlpmcDk5Y3RsYjhEWGEzckptTXNoejVsbXV5VmVSalYyOUwwUkg4d3IzeFlxaEhlVldSbkJFSWJiMUw0RzBINXJXdC1Cbk9IODlQStIByAFBVV95cUxQd2RtNGJ4V2xQeWpsek1WVUVEMTBrQWNGdUE0Q0MxU3lmN0tzRktGRThERjNzejNPT0ZYVEh5N3dGNXNxWE9tdTBDbzZWOGZBcXZEbDRyVDc1SXN4cjhzcGJpZmpYTF9CdVpzdlRPSzhFZXFpekZDbG1HTDB6Wm9RSExXOHh4TFZFZ3JBU19obzE0ZTROelR6alFoUTlHMVVuQkxkcHJqSDZwel8wTzFpUTRINUJWM2hHelM5T0R1ZlBBV2xWQm1tdQ?oc=5",
-      "date": "2026-08-19T10:00:15+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
