@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-26T12:48:35.594307+00:00",
-  "articleCount": 101,
+  "generated": "2026-08-26T19:45:48.925492+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,11 +8,11 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 19
     },
     "mit": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "ars": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 14
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,222 @@
     }
   },
   "articles": [
+    {
+      "id": "N5I6qaQA5B6s",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "date": "2026-08-26T19:37:34+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qbOkIwLJ1RER",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "date": "2026-08-26T19:34:04+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "UKJ4T+f3Rv5s",
+      "title": "OpenAI’s Hugging Face Hack Debrief Raises More Questions Than It Answers",
+      "summary": "The AI giant acknowledges that it could have done far more to prevent its AI agents from going rogue. But it still fails to explain why it didn't see this fiasco coming.",
+      "link": "https://www.wired.com/story/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
+      "date": "2026-08-26T19:16:42+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "DKmYKmW1VR03",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "date": "2026-08-26T19:05:22+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kNA99mJ3W7ZH",
+      "title": "OpenAI staff observed warning signs before AI agent hacking crusade caused global alarm",
+      "summary": "Firm says ‘early signals … could have triggered an earlier response’ as it releases report into Hugging Face hackOpenAI staff observed signs of rogue behaviour among its leading-edge AI agents weeks b",
+      "link": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
+      "date": "2026-08-26T19:00:20+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "z5nEX0Xvi0rw",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "date": "2026-08-26T19:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Mk+WGSBk7zRW",
+      "title": "Candidates Are Signing a Pact Promising Action on Data Centers and AI Safety",
+      "summary": "More than 15 politicians from across the country have signed on to the AI Pact, vowing to regulate data centers and AI. “We’ve got to get this right,” says Senate candidate Dan Osborn of Nebraska.",
+      "link": "https://www.wired.com/story/candidates-are-signing-a-pact-promising-action-on-data-centers-and-ai-safety/",
+      "date": "2026-08-26T17:13:37+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "zXISTK9rjo5a",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini famil",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "date": "2026-08-26T17:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "W8KZO4CdKIlI",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "date": "2026-08-26T15:47:28+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ziUOot1/e9fO",
+      "title": "What will we get out of the AI boom? The data suggests lots of noisy, energy-hungry datacentres and not much else",
+      "summary": "Booms in investment usually lead to economic growth. But this one looks unlikely to translate into better living standards for AustraliansGet our breaking news email, free app or daily news podcastThe",
+      "link": "https://www.theguardian.com/business/grogonomics/2026/aug/27/ai-boom-noisy-energy-hungry-datacentres-construction-economy",
+      "date": "2026-08-26T15:00:16+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "fwFIVAw79/0L",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "date": "2026-08-26T15:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "N9Ttx72YPTQL",
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before.",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "date": "2026-08-26T14:37:01+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "whqZNUVcqW4q",
+      "title": "Orchestration is the new challenge for CX in the age of AI agents",
+      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of t",
+      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
+      "date": "2026-08-26T14:30:00+00:00",
+      "source": "VentureBeat",
+      "key": "venturebeat",
+      "cls": "src-venturebeat",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yFzHMV/wxzR0",
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon.",
+      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "date": "2026-08-26T14:19:29+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9ftxlEcnVCY1",
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "summary": "Robot bodies are waiting for their AI brains to catch up.",
+      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "date": "2026-08-26T13:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7ig5cwPN50Lg",
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
+      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "date": "2026-08-26T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qqGkzoZYcXc4",
+      "title": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt - Reuters",
+      "summary": "Breakingviews - Meta’s AI dream reels on more than lab-rat revolt&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbGNxazdtc2NaY0kyLUQxT1YwVV9aUEhSTWowdGxoYjByb1d2cjJXTTk4TGcxSTgybGplUVZKZ0Z4YUI5VzZDcTc4bmJYcmlYTXNjaG1jM0EwN2prdVlnUFhULXFLV1NwUUh3enV1MmhtT195VVQ1YThpOU5KQ2RsM1I5YlhiODR5U0lCOWQzSHFSVmRqUTBockZZcGxBSU1CYVJsS1ZRaDItdw?oc=5",
+      "date": "2026-08-26T12:56:20+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "JOIhvIgdBVm3",
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "date": "2026-08-26T12:55:28+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "IFYmSL8mOeia",
       "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
@@ -115,7 +331,7 @@
     {
       "id": "I2xnalivhgGu",
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "summary": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
       "date": "2026-08-26T11:00:00+00:00",
       "source": "TechCrunch",
@@ -341,6 +557,30 @@
       "articleLang": "en"
     },
     {
+      "id": "AKN6PLXb+LgR",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-25T20:16:29+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "+1lJlWLKsno+",
+      "title": "Google expands Gemini Enterprise AI platform for law firms, lawyers - Reuters",
+      "summary": "Google expands Gemini Enterprise AI platform for law firms, lawyers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5",
+      "date": "2026-08-25T20:13:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "o4qToaMqoh/z",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "summary": "The company's new fundraising total now stands at $232 million.",
@@ -362,6 +602,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "GnAxyrhZJjRO",
+      "title": "Australia's music chart bars fully AI-generated music - dw.com",
+      "summary": "Australia's music chart bars fully AI-generated music&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhrUU9UYmphVmx3WkNsQmNjR1Y2cndZX3J4ODBNSndTYzNHX2lKUE0wSVVRWWtnLTdNVnVoYlRQbjVnOUowWHl0NVJSVDBLeXp5S2hCdi15X3EyYjVhcGZYV1lyWnZUV3l3N0RhTDBlb2FNRnRMRGhNQ3VlUUw0MERoNjg2ZS1kaHE2d3Fn0gGOAUFVX3lxTE5UZ1J5TVpVUTVHbUNUTWhReDNVb0lUa2c0clg3RDB6ZUxsckVBWFN4bHJIYksxRGlOSHRfMFV3YTJFM3dxN1FQMTR3Sm1mN1lVVzFQTy1va05vQTYzZW9tWDIzUllJYkl2aGJONGR3NGx0WllTYXF1YWNROXJuWDk4ZDExTmVRMXZfS0VzeWc?oc=5",
+      "date": "2026-08-25T18:48:09+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -389,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LYzOSaPgCS0u",
-      "title": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports - Reuters",
-      "summary": "Anthropic expected to tell investors it sees over $30 trillion in potential revenue, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUlR3eXlsWC1xOV9yNnI3OUcySkF2Z2xmdHJoZElUaWQxZXpwRlVoUHZXaDVsWU00ckUtR0FVdWN0RlhVSDFKS0tyZ0VuWVBXLVV4bDNfa3M0Zll5blM0OWJsQmU5TDJRVmZRVXFLM3VZNjdLMFhRTXBncE1pQUhrRDVORkpnODFtdXJiNjRsakFyQUR5c0phRVR2LXlWV1VFTUdEYThjZVEyMGNfcWQtRmNyblVaN2FJRFBPRjliT2RORkprd09YUDJBVUtzbWo2RUpTUHpB?oc=5",
-      "date": "2026-08-25T16:56:38+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "YE2Lif7YPlOF",
       "title": "Why the threat from the rampaging AI machine went ignored | Letters",
       "summary": "Jonathan Michie on his father’s efforts in the 1970s to map out concerns regarding widespread social coercion driven by automation. Plus a letter from Callum BrownJill Lepore asks why nobody listened",
@@ -410,18 +650,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-25T15:48:43+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -449,15 +677,27 @@
       "articleLang": "en"
     },
     {
-      "id": "oPMKGm1QGZFY",
-      "title": "Fact check: How AI is selling you weight loss - DW.com",
-      "summary": "Fact check: How AI is selling you weight loss&nbsp;&nbsp;DW.com",
+      "id": "MQ6RZYE0bkEA",
+      "title": "Fact check: How AI is selling you weight loss - dw.com",
+      "summary": "Fact check: How AI is selling you weight loss&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcTgzV2VtSC1xd3l2Yy0tdVM5bHRncUFnWndOdGR3dEdfdE8yUG8wM3VyeklOdExMOTNYTDRQbVVHQ0VVWHI1QmM1SUhJRE1WeEJSS0NBZ2djaTJ0SGNWdDM3TjN4ZjVTcjQwVkNYVF91WGpkdGRPV1M4SFo2anRrSmhvanNZc3Zp?oc=5",
       "date": "2026-08-25T14:09:05+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "zSk501Y4RTBw",
+      "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
+      "summary": "German broker Scalable opens investment platform to major AI chatbots&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
+      "date": "2026-08-25T14:04:52+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -506,18 +746,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "QhkrxPnlSpBG",
-      "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-      "summary": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
-      "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "date": "2026-08-25T12:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -617,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "N7Svjwawbf49",
-      "title": "Australia's music chart bars fully AI-generated music - DW.com",
-      "summary": "Australia's music chart bars fully AI-generated music&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZXhrUU9UYmphVmx3WkNsQmNjR1Y2cndZX3J4ODBNSndTYzNHX2lKUE0wSVVRWWtnLTdNVnVoYlRQbjVnOUowWHl0NVJSVDBLeXp5S2hCdi15X3EyYjVhcGZYV1lyWnZUV3l3N0RhTDBlb2FNRnRMRGhNQ3VlUUw0MERoNjg2ZS1kaHE2d3Fn0gGOAUFVX3lxTE5UZ1J5TVpVUTVHbUNUTWhReDNVb0lUa2c0clg3RDB6ZUxsckVBWFN4bHJIYksxRGlOSHRfMFV3YTJFM3dxN1FQMTR3Sm1mN1lVVzFQTy1va05vQTYzZW9tWDIzUllJYkl2aGJONGR3NGx0WllTYXF1YWNROXJuWDk4ZDExTmVRMXZfS0VzeWc?oc=5",
-      "date": "2026-08-25T05:54:28+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "mVMM/wDzf7kI",
       "title": "Songs created by AI banned from Australia's music charts",
       "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
@@ -677,18 +893,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zSk501Y4RTBw",
-      "title": "German broker Scalable opens investment platform to major AI chatbots - Reuters",
-      "summary": "German broker Scalable opens investment platform to major AI chatbots&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHpZeUtQSDRXMTRtRVRoVnV6b05vcjFKV055QmVsb2ZGZFVJOGl3eTF2QUsyTWlfZXE2OV9MdHgyX2RaM1BCY09yYkVCOGFuVS11QnI0UDZtd1FOWVhFak5uZlpNS0ExSVRyZU9BZXZSMnN4QS1SUUszdkZpa0F1ZXl6OUUwam43WEhqbXZRYjZKZUVMSnJtNG90MWRKRVF5XzcyQjJ5M1VjX2kxNVZjWmlLZUFyS3FUYjMw?oc=5",
-      "date": "2026-08-25T03:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "ez4gA3u783qK",
       "title": "Taiwan issues indictments over alleged illegal export of AI servers to China - Reuters",
       "summary": "Taiwan issues indictments over alleged illegal export of AI servers to China&nbsp;&nbsp;Reuters",
@@ -725,42 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0nZyIOTrhfpm",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "date": "2026-08-25T00:23:12+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "iLKAUwg9exnN",
-      "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-      "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protesters a",
-      "link": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-      "date": "2026-08-24T18:16:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "yH2vEt5EhLKA",
-      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "date": "2026-08-24T18:03:55+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "AppX+isVDFHB",
       "title": "UK, Ukraine sign AI defence partnership linked to battlefield technology - Reuters",
       "summary": "UK, Ukraine sign AI defence partnership linked to battlefield technology&nbsp;&nbsp;Reuters",
@@ -770,42 +938,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "CHWMlz6kGc0b",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "date": "2026-08-24T15:24:18+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "wTCAN8B+lxf6",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "date": "2026-08-24T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "jwuQFr3lERfO",
-      "title": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
-      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as Aemo forecasts seven-fold rise in datacentre power useFollow our Australia news live blog for latest updatesGet",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
-      "date": "2026-08-24T14:01:35+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -878,30 +1010,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "wpynvZwU74be",
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "date": "2026-08-23T20:01:36+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "wsKALYknFz5p",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "date": "2026-08-23T19:14:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1013,18 +1121,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vWn91/kaklUo",
-      "title": "US corporate AI debt surge tests investor limits as fatigue emerges - Reuters",
-      "summary": "US corporate AI debt surge tests investor limits as fatigue emerges&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR0I5VXZyeVp4RlV6cnhVdXFwZ2RNZUU0Q1czQ2c0WkpZUUJuRV9PNEg0VHkzLVlnSUdZMWVOalJzNkNXdlNtamlGSzRLbVRXb0VkVzl3dm5Uc3hPV21Cb3BIdTNyOWZQSDRGQ1ZvV2xUVUZ6eExfeGpRM0hQck8wSDlzR3ViRDJHS25NaGxwNHdVYWN5cHRUcWJvb0hybjRtclNxMFFGT18tMmc2SEw5RFNYb3ZrSWZpS0VYTw?oc=5",
-      "date": "2026-08-21T15:07:42+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "QYd8oEN+H8oK",
       "title": "Exclusive | Waico vs Pax Silica: Southeast Asia caught between China and US in AI race - South China Morning Post",
       "summary": "Exclusive | Waico vs Pax Silica: Southeast Asia caught between China and US in AI race&nbsp;&nbsp;South China Morning Post",
@@ -1070,18 +1166,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PZwoD1ISha3G",
-      "title": "China enlists AI in soybean hunt, but self-sufficiency unlikely any time soon - South China Morning Post",
-      "summary": "China enlists AI in soybean hunt, but self-sufficiency unlikely any time soon&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGg1Vk5hYUlic2swNWlDY2plbDcxUjl5SzRiazJVZVNuVnlhQWY4ZldFOXQwdkRidkxhcjBDYjU0NnRWeXBtaGtyTy1jc1ZmaWZrTWhJYlBtcUJtR2FFRF9veG9HYl8zY3FDa2hRVl8tVDYwQW5ibWlzSU9RNDRUd3pyWV8xWl9OVHZrSTRzS2wwQVM2MkpnWUNMUUhpYlI0UVJrME9yZHBnbHBaaUpULTV2QktIU0RaLXdfMUN0ek9ENEkteE51UDlTLUN3R25IZ1HSAdIBQVVfeXFMTnhycW5ET1JvcU5VcHNXUkl4WWg3WTZFU3E4SU1GajE1RDZ1MzNIOEljc0xVVHpFVHBXMElPbjVLdWZ3TG5RYkN0X2Y0WHU0dmkwRURYbTVUY3d3TG91dE4tNG5lbWxnOU5PMmlFZF8zdXNDcjhhOGZLbGx6dUc4a1NiYXYwOEE0elgxQlZTYW9zSHpuSFhPWkpGQjJRbW8xdk1UM2pxbGxuTWVWdXdaRFBld2pOaC1RQUVJZGZiRXZtSGlzVmFQR0FPQ0wzZDlNRGV3?oc=5",
-      "date": "2026-08-21T13:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1205,18 +1289,6 @@
       "articleLang": "en"
     },
     {
-      "id": "2oihlL3IeLdV",
-      "title": "Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending - South China Morning Post",
-      "summary": "Alibaba’s AI cloud growth surge drives earnings despite soaring tech spending&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOamxfVnBfZ3QwWWwzcnR2Qm5tR3VyQjFiUWJLMkY5aGtUMlZ4NkxnSFVmVXRicTZPM1hsOEZxMzQxeFlxODRkTWM5ZVM0Q28wcmdXUjAtamM0QW1SRFVUYzV0WHVFXzVYUHFMS05KSHhWYk1Ed2kyb0J3aWxkUUgtLTBoZzRwamQ4Z2J4RGVDMk1YU0dFMmxsSEtfS0tkLWRlNmE2dmwzTGpEOUE4aGFuV0d0QklmazhQVTFqMGIwV0dmakVUS3fSAcYBQVVfeXFMUElFbTdmUkRSakZ3ZllXMU5XZXNZOVBkcHM5Wl95LTN6VjhsWkxIdnNzRmoxbEZiVWhJcjNZazR6WEp0MFBtS2RZQUpGVkJLRXlza3MwdG9OSzZMbVY4YzBRZnZXRkRjN0RsYl9Ca0F4cXllUjNvcHYzX3FnV2c0ajVDTllZeUpsRUtPem9IWDBOdEdMOU5CaDJYYTc5cDdTa096ZUVPcWd3a0IyczE4OEJQMWc2VEJNV1RaT2FtdnlCdksyRVd3?oc=5",
-      "date": "2026-08-20T10:16:24+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "vcEDiWyk+5jn",
       "title": "NEWSLETTER: AI firms can't yet contain what they've built, study finds - Reuters",
       "summary": "NEWSLETTER: AI firms can't yet contain what they've built, study finds&nbsp;&nbsp;Reuters",
@@ -1226,54 +1298,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "0s/EGnY/TRCh",
-      "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-      "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-      "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
-      "date": "2026-08-19T19:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "GQHp+p7hPAUo",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "date": "2026-08-19T19:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "rlkg6pLJIPLp",
-      "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
-      "summary": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
-      "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "date": "2026-08-19T16:44:07+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "XSjYOImog4Zb",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival i",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "date": "2026-08-19T14:18:12+00:00",
-      "source": "VentureBeat",
-      "key": "venturebeat",
-      "cls": "src-venturebeat",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
