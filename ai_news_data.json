@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-30T03:46:32.826022+00:00",
-  "articleCount": 109,
+  "generated": "2026-08-30T11:18:17.004208+00:00",
+  "articleCount": 106,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -158,6 +158,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bFr+NTZjE5rW",
+      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
+      "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
+      "date": "2026-08-29T07:05:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -417,7 +429,7 @@
       "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade - Reuters",
       "summary": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTc4ZllBd3lIX2pNeDV1eXNUa0pxbVZUektmdmhtVTVhdjQ3NHBQMi1FZ0p1UnVxOTBxdzV5WEYya2ZtNFc2TUpYMTRyWURXS2NMbVA3eV9oM1dINWx6dkEwbFFlWFNTOXdhV3VNaUlqYXpranNDcHZJdUlfR1FpSlFMS0ZDZUVVLWFRR2poQUluUnM3enQtNUFIanpDd1hUdUdCYVB4XzRHMjdvbEhaRDVxeE44RTMzM3FkQ0UwNkRuOFJVUzF4cExrNE9rUQ?oc=5",
-      "date": "2026-08-28T03:52:00+00:00",
+      "date": "2026-08-28T03:53:43+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -649,18 +661,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6+oVmm/2ccZB",
-      "title": "OpenAI Is Developing a ‘Persistent’ AI Agent",
-      "summary": "Code reviewed by WIRED reveals the company is developing a feature that enables Codex to continue working proactively until it is “put to sleep.”",
-      "link": "https://www.wired.com/story/openai-is-developing-a-persistent-ai-agent/",
-      "date": "2026-08-27T16:52:42+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1013,30 +1013,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "b/m2EMG1AABV",
-      "title": "中国製AIチップのクラスタで「Opus 4.8並み性能」モデルを提供　話題のステルスモデルの正体は「GLM-5.3-Flash」",
-      "summary": "中国Z.aiが「GLM-5.3-Flash」をMITライセンスで公開。「Ox Alpha」として匿名検証していたマルチモーダルモデルで、「Claude Opus 4.8」に迫る性能を安価で提供するとうたう。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2608/27/2000000840/",
-      "date": "2026-08-27T04:15:18+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "f5MVc/iC47UU",
-      "title": "Black Box: episode 4 – Bing and I – podcast",
-      "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for societyToday in Focus is on a summer break and will be back",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/27/black-box-episode-4-bing-and-i-podcast",
-      "date": "2026-08-27T02:00:01+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "UZ6PAI5Bo4zS",
       "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
       "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns.",
@@ -1097,11 +1073,11 @@
       "articleLang": "en"
     },
     {
-      "id": "kdAYPiAakam7",
-      "title": "Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks - Reuters",
-      "summary": "Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmp1Sm45YlVSVElnTE1FdlZuWnZDWW1RRFRDdzRxUmEwYXNlWktadzMxYXN0UmFqZERGbkhOWU1xZlVZRnp1YmUxMHlNbWw3c2NfZUp2cUJEaDl4MWdzX3VpdmNneklCanFvRWx6TUpzbUJ4S20xZDY5WUE1cmstam1TWjVzQnBuSXVvblZSeTNUSDlNVHZVNHZCdmpBVTBJa3dCcDJ3Q3BYNlA2dXVGVWgtV3dwbE1TNHpCdDVzaXROdk0?oc=5",
-      "date": "2026-08-26T21:29:28+00:00",
+      "id": "xqcTEFpTO2yY",
+      "title": "Synopsys raises annual forecasts on AI-driven chip design software demand - Reuters",
+      "summary": "Synopsys raises annual forecasts on AI-driven chip design software demand&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3JZZ1BTNHhfeDI3dGtIeTBPX1d4WTR6RGxFTm0tUFZBWUI4enM1dzF5UUJFSng3SWZRN1cycXlGRkN3SWE3UXVKNXEzSG9Gc2J6clNKeWFsQXZNcFpaTFI3TC1NVUt4WkFxUndIVHlOdmwya1ZPc3drMDhIVlJwSzVJMFo0RGlVZExpMG5ZMXV4bDg4TDVzRl9NREpsS2c0ck1peUlvLThSREc5amtlU0Y0Tkx0UQ?oc=5",
+      "date": "2026-08-26T21:11:43+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1190,6 +1166,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "sGbSPeuAEgn/",
+      "title": "AI boom, profit surge fuel China’s ambitious chip assembly buildout - South China Morning Post",
+      "summary": "AI boom, profit surge fuel China’s ambitious chip assembly buildout&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZThwUmc0XzBBSTZSUGZ3ekFlREVaNFEwWVBTeDdUTXNIWFBPV0pHRlZuODdQbzNpU0psMF9fX1JkU3V5bXY2bG5OUFA2bXZfdVpnV2ZwNl9lZ3I3UkFaQnVnbC02SVhmQ3FaU1dfQkxfTEtPaDBRWGVTUW1YbGZ3dVJzTloxd2ZwX3V4VzVCN29VWkFydWZfR2VyRXFxNFVTTERPOGE5bDk2SldwLXZZeHNIYWo1RktHWFFN0gG7AUFVX3lxTFBYTHQtVF9rU1Jib0l3NWRzaXU2NDVaRzd4c281bzNJUTZLdDhLZnZRS0pXd3RlVnpudkpOcEpEbzVnS2V2S05NNDBlWm1mdndGdksyS1QzTGw0WHlxdzZVVnU3RG5xWlJ6ci1rdDJmTFU4dXl4WlhYR3BKaUlza3BGQ09mYzhIcEtJZ2hhYjJXNzlaV25OM1kzRjRNTjdVbE41amU4MlNYTHdQR1hJVTVjZTEweU1pYTZWenc?oc=5",
+      "date": "2026-08-26T10:30:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1337,35 +1325,11 @@
       "articleLang": "en"
     },
     {
-      "id": "6w/8/0Abq0o+",
-      "title": "Once known for livestock, a rural Chinese city pivots to AI super units - South China Morning Post",
-      "summary": "Once known for livestock, a rural Chinese city pivots to AI super units&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUo2UzlpZWJGdzRNVEtleHpvWGMxYW5BZ2JORHVyQXlxUjBJeVVkZTF1OE1RUG9oY3hMUE05UnN0SDZCRW0yam1JcmhzWVdtNlBUSmdJdmJVbWxNc2R6QTkwMFgxMDNWV2RvYUNpTFF1M1kwYTJEbTkwWjVLaFQwemVMOWFDazVpSEpvREJaYzlab2x4QjBCdlk0VXA1OUlvTWZCRHpNbWprdkJvMG0wVWRaU2E3N3Vqa3dERmhaQ0fSAcABQVVfeXFMTWR0ODJiR3p4eXJXTnR1M2EtZWFrOWJieVV4WWNtcFZnZTJQODZqdFhRZHJwal9mODFDRkNUMTNFdGtzb2ZpUmNjRVF1U2ZxekJreEwtMGtGZjFoZXFMQ1gxU3hVcTBaUEx1cDdKTXJGZ0pVUHI3ZUtHSS1sS0t5UUJ6WTYyaWktMUdzWGVfdlZIMk9KYjd3Z3oxZ1hhNUNOVkFJYjc2Z1U2ang1ODA4SGhqNUJKeU5xeC1ZRkNoV3It?oc=5",
-      "date": "2026-08-24T02:00:17+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "XxF7+Vt5vGis",
       "title": "Top Alibaba executives purchase US$15m in shares following landmark AI placement - South China Morning Post",
       "summary": "Top Alibaba executives purchase US$15m in shares following landmark AI placement&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?oc=5",
       "date": "2026-08-24T01:59:29+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "dHqQP481amqh",
-      "title": "Alibaba to issue US$10 billion in new shares for global AI push - South China Morning Post",
-      "summary": "Alibaba to issue US$10 billion in new shares for global AI push&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGtocVNGQndkMUp5Q3RuWWlXNFVTZG5uYnhBZC03RnVlU1c2YTk4dXVsSVFTdXdFZC1kM3VTR2dzRnE1UjB0Y3lNcUZnSDBoeGJDXzNXcnZ0T0FoTC1EaFU5QTFnc3E3ZmJmZXNlRElQNWRoVGZKaTBVbklSZ0lCcWhyZm01MFFsLWFnenNvV2ZVVDM5dXM3MGJ1UmVPcEE3R1NVVi1R0gGmAUFVX3lxTE9mUmZkVFRpZGR5WkQ5MXFheDdzc215a0tyX0ZiUlM4U2dtWF9PR1J2VVo4UFNaN0g1amRZb0plQXNicmsxdFBfVXJWMmR6c0MybnFHYnJ5aFJ3OWxPUTVMMExqYndjVDNqY0xrYXl6MGVLTC1MVVM5RHd1ZkstRVNvLUJnaXh2OHhjTXdxTnNiLUFJZ0hBZHNDbXFOOC1KSWpjRDVudVE?oc=5",
-      "date": "2026-08-23T05:18:31+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
