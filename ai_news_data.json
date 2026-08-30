@@ -1,6 +1,6 @@
 {
-  "generated": "2026-08-29T20:26:30.698505+00:00",
-  "articleCount": 112,
+  "generated": "2026-08-30T03:46:32.826022+00:00",
+  "articleCount": 109,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "fNA4mqC3OAQr",
+      "title": "OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由",
+      "summary": "OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthropicは支援継続を示した。",
+      "link": "https://www.itmedia.co.jp/news/article/2608/30/2000000945/",
+      "date": "2026-08-29T23:12:23+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "dIr8tfcro7vK",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -149,6 +161,18 @@
       "articleLang": "en"
     },
     {
+      "id": "3c6b8rVfZji+",
+      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful - DW.com",
+      "summary": "US judge rules Pentagon's blacklisting of Anthropic unlawful&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmZTME9aZmZqVUtRQVpxWm9wT1FBVFNwYk03dHdYdVV5MWNBRW83d1dJRVFseTg0Wm53WF9QLTh3My1kZUNGN25GNW1BZHpxM21LaFVoVU9OQ19reFM4aTh1bFZvLUNIUnlyZzRSNG1IM1AtZ25RamxtLWZRa09JMXJ2U3BuZVg4ZEJHemVHd1I1UGVrc2VN0gGXAUFVX3lxTE9rV3UzVWIyeXVteWpraTBDNHlGb1RCM3oyOGszSDd1UnhpRzNPU29jYXEzSExxVGRBbk90ZVNUS0M1S01ZaFZENFI0Y0J0MjQ1WWJZWHlMSnJkQ0pObDZsa2stMzVIRURMelk4RThOMjg0YzZ2dE4wT3RoSl95Rkg1bktyTDlCN25RTF85bFZ1NExoc1BXUzg?oc=5",
+      "date": "2026-08-29T06:25:34+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "5n5I96+ZgD3U",
       "title": "Sharp rise in incidents of AI escaping users’ control, research finds",
       "summary": "Exclusive: Number of times AI lies, ignores instructions and pursues goals in harmful ways almost doubles in JulyIncidents of AIs escaping users’ control to lie, ignore instructions and pursue goals i",
@@ -194,18 +218,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Dj1+iw0QJ/KX",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-08-29T03:29:30+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -266,18 +278,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3c6b8rVfZji+",
-      "title": "US judge rules Pentagon's blacklisting of Anthropic unlawful - DW.com",
-      "summary": "US judge rules Pentagon's blacklisting of Anthropic unlawful&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmZTME9aZmZqVUtRQVpxWm9wT1FBVFNwYk03dHdYdVV5MWNBRW83d1dJRVFseTg0Wm53WF9QLTh3My1kZUNGN25GNW1BZHpxM21LaFVoVU9OQ19reFM4aTh1bFZvLUNIUnlyZzRSNG1IM1AtZ25RamxtLWZRa09JMXJ2U3BuZVg4ZEJHemVHd1I1UGVrc2VN0gGXAUFVX3lxTE9rV3UzVWIyeXVteWpraTBDNHlGb1RCM3oyOGszSDd1UnhpRzNPU29jYXEzSExxVGRBbk90ZVNUS0M1S01ZaFZENFI0Y0J0MjQ1WWJZWHlMSnJkQ0pObDZsa2stMzVIRURMelk4RThOMjg0YzZ2dE4wT3RoSl95Rkg1bktyTDlCN25RTF85bFZ1NExoc1BXUzg?oc=5",
-      "date": "2026-08-28T15:23:40+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -473,6 +473,18 @@
       "articleLang": "en"
     },
     {
+      "id": "/PnqXKWJZ4kz",
+      "title": "HR software firm Workday reports revenue rise, flags strong AI uptake - Reuters",
+      "summary": "HR software firm Workday reports revenue rise, flags strong AI uptake&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm5yT1JuMTczS3VUOU9WcjJ1RDFrRjFDZzR1eGJlaGdBRVFlNXM5d1k0NUVRYTRsX01UVlA5Mnd5NHBhMk5NRmpsQ2ZLMWJwMTdzMkpXd3pNRXQ2UThpMUI5ZXEyWE12djFmY2tmVUFJUUtEUzJ2QVhnRDVuOEhNa1JoZ0tqazFOb1p4LV9ncGFlcnZFVkE?oc=5",
+      "date": "2026-08-28T02:41:12+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "vfjP8QU9bvPt",
       "title": "Black Box: episode 5 – The white mask – podcast",
       "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for societyToday in Focus is on a summer break and will be back",
@@ -554,18 +566,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "/PnqXKWJZ4kz",
-      "title": "HR software firm Workday reports revenue rise, flags strong AI uptake - Reuters",
-      "summary": "HR software firm Workday reports revenue rise, flags strong AI uptake&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcm5yT1JuMTczS3VUOU9WcjJ1RDFrRjFDZzR1eGJlaGdBRVFlNXM5d1k0NUVRYTRsX01UVlA5Mnd5NHBhMk5NRmpsQ2ZLMWJwMTdzMkpXd3pNRXQ2UThpMUI5ZXEyWE12djFmY2tmVUFJUUtEUzJ2QVhnRDVuOEhNa1JoZ0tqazFOb1p4LV9ncGFlcnZFVkE?oc=5",
-      "date": "2026-08-27T20:08:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1097,6 +1097,18 @@
       "articleLang": "en"
     },
     {
+      "id": "kdAYPiAakam7",
+      "title": "Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks - Reuters",
+      "summary": "Investigators say hundreds of OpenAI agents hacked Hugging Face and tried to cover their tracks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmp1Sm45YlVSVElnTE1FdlZuWnZDWW1RRFRDdzRxUmEwYXNlWktadzMxYXN0UmFqZERGbkhOWU1xZlVZRnp1YmUxMHlNbWw3c2NfZUp2cUJEaDl4MWdzX3VpdmNneklCanFvRWx6TUpzbUJ4S20xZDY5WUE1cmstam1TWjVzQnBuSXVvblZSeTNUSDlNVHZVNHZCdmpBVTBJa3dCcDJ3Q3BYNlA2dXVGVWgtV3dwbE1TNHpCdDVzaXROdk0?oc=5",
+      "date": "2026-08-26T21:29:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "5+Ku4Dm7h6hl",
       "title": "NEWSLETTER: How Meta’s AI layoff plans went kaput - Reuters",
       "summary": "NEWSLETTER: How Meta’s AI layoff plans went kaput&nbsp;&nbsp;Reuters",
@@ -1178,18 +1190,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "sGbSPeuAEgn/",
-      "title": "AI boom, profit surge fuel China’s ambitious chip assembly buildout - South China Morning Post",
-      "summary": "AI boom, profit surge fuel China’s ambitious chip assembly buildout&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZThwUmc0XzBBSTZSUGZ3ekFlREVaNFEwWVBTeDdUTXNIWFBPV0pHRlZuODdQbzNpU0psMF9fX1JkU3V5bXY2bG5OUFA2bXZfdVpnV2ZwNl9lZ3I3UkFaQnVnbC02SVhmQ3FaU1dfQkxfTEtPaDBRWGVTUW1YbGZ3dVJzTloxd2ZwX3V4VzVCN29VWkFydWZfR2VyRXFxNFVTTERPOGE5bDk2SldwLXZZeHNIYWo1RktHWFFN0gG7AUFVX3lxTFBYTHQtVF9rU1Jib0l3NWRzaXU2NDVaRzd4c281bzNJUTZLdDhLZnZRS0pXd3RlVnpudkpOcEpEbzVnS2V2S05NNDBlWm1mdndGdksyS1QzTGw0WHlxdzZVVnU3RG5xWlJ6ci1rdDJmTFU4dXl4WlhYR3BKaUlza3BGQ09mYzhIcEtJZ2hhYjJXNzlaV25OM1kzRjRNTjdVbE41amU4MlNYTHdQR1hJVTVjZTEweU1pYTZWenc?oc=5",
-      "date": "2026-08-26T10:30:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1337,18 +1337,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FvVM+cWqHAko",
-      "title": "Twitch and Amazon face legal action over using livestreams to train AI",
-      "summary": "The lawsuit alleges Twitch used streamers' videos to train AI without their permission or proper compensation.",
-      "link": "https://www.bbc.co.uk/news/articles/c70ljqk5kjqo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-24T13:09:44+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "6w/8/0Abq0o+",
       "title": "Once known for livestock, a rural Chinese city pivots to AI super units - South China Morning Post",
       "summary": "Once known for livestock, a rural Chinese city pivots to AI super units&nbsp;&nbsp;South China Morning Post",
@@ -1366,30 +1354,6 @@
       "summary": "Top Alibaba executives purchase US$15m in shares following landmark AI placement&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRmlGQ1NyWWh2d2k2WkhpbFlLOFFkNGV1SkloclR1cjJOWDlQNmYycjc0LTlBc1U3azAycUJyOWdMbGdadzVYZ1IzRHBUVWFBdGtKTmNHZ2xkUXdLVElxSU5QTTNLa0QzV2lMQkJQSnp1YzlKaUljcEpPZ3hIRVhzRGZXN2lGb2l6UVFjbWFFS1lTX1FqcG1vNUVUV0hwZllVbnRkWUE2ZTdFNGhUTkdxU0ZFUnhma1hj0gG4AUFVX3lxTFBoWUQtekY4eHk1OUhnczNmT29KZ3VyU1pPNjVGY3JlS00wMEZDMldzVUpWX2l3eUtNektpS1BUaDJDMzF0eV9wZGNHeUJBQTYtXzBwTTYwU0xkamctSFFjVl9fRVVFTk56a0M3MExMYnNrSS1GemRMUmVXN2dPdlpQWUtFNmJTTTVEcjFvcVdmcG5QV1pmUHhzTTFDNm8wWmpzZzFfM25BVXY4Yy1BZlBxV0pZNUlCZmc?oc=5",
       "date": "2026-08-24T01:59:29+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "zOSwR+eyLCqF",
-      "title": "African businesses keep options open as Chinese AI gains ground - South China Morning Post",
-      "summary": "African businesses keep options open as Chinese AI gains ground&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPakdKUWc4TkNfTWd0eUZtcWxHREUxWTBqYU1PSjR3NG03VWFnQ0F6Qm9MSi1qYlNpdUQtemRsWVdsQy1DazdVdHhncDJzN1dLWlBGZnpRZ2xJZ0NDbWo3Z0V0S3FzR2F2eXZlek9jWDFtTkZ6dFAxRml0UkI1SmUxdXprWnZzQmYtX2x5cWY2cEVVTXg5MVlHbnNVOTdIaHZETzFkcV9kT2oteW1nQ0diZ1h0cWZOLTVTLVdac9IBvAFBVV95cUxOR1R0NWJZOThjR1BpV2gxMlZPaWxxZ0Y4NjVhSWE3WFJoRm1Wa2EzVWtDNFgxbTNDS0F1NG9XQXZTWGZkYzZWNVByYzJPbC1UeHVnVmJxM3RnSTQzZFplUVN2ZFFaaWpLNk5idEhsRTl4Z1BCQ1FwZHUyMVZ0S0JCSHFmR1FabHNMS19IRHN3T3g4anh3YmlyWEVJRVo5N1RoSUZ2aUtEdHkzZmVxMkpCbkdnWWV5emJ0aTU5cg?oc=5",
-      "date": "2026-08-23T12:00:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "c1iMkZSwBLN5",
-      "title": "US efforts to secure AI supply chains doomed to fail: Chinese academic - South China Morning Post",
-      "summary": "US efforts to secure AI supply chains doomed to fail: Chinese academic&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdmlQNm5uY25KVmxscFRJdE9WbzNyVGItb0pINENLRFRMVXVLTDZrYWFNVGg0VERwR3Rtbnd0TmVlWmJTRXBUY1BEWi1tcF9hREZDUDBOTWZaQ2JobENMVWtqbU80UFM3dzVQeUlHN2ZxczZWQ1ZFVDJ2MXVWM19fTHRIc0ctem9wSVU4RHVja0YyYTgxZkhBalQwNXBzMzRvcm9VWmtzVF9EZ09pajZpR3pqdzBMdlBXMnE4a0RWbHdnQ1g2d1FZOFBn0gHKAUFVX3lxTE5rVExwUm5ub2FYWV9JQ0d1MXN6dkFXZ1V5TmVuRGI3dndsX3JoYmt4dmtYb1BFcklGMU1Uc0hsU1dLRWpmRU9nTHg2cjZkUjF5WDRydkNMRkxUWDhscW15ZlJrQ21EZHRMbVQ2dUc0ZTJxZVVqQ0lmVGowdzQ1c2ZKdHk2TjVwZi1qRHkydXZrM2l4RC1FVFJIeEZ6a2hvNW1TdUc2X3RBYmpBWHlxX085a1pPTHBiYVdZWk9uMVJ2MUdBVGQtbGdNQUE?oc=5",
-      "date": "2026-08-23T11:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
