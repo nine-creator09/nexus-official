@@ -1,10 +1,10 @@
 {
-  "generated": "2026-08-31T12:45:53.586241+00:00",
-  "articleCount": 106,
+  "generated": "2026-08-31T22:29:05.339111+00:00",
+  "articleCount": 104,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 13
     },
     "economictimes": {
       "status": "ok",
@@ -65,9 +65,225 @@
   },
   "articles": [
     {
+      "id": "0vk/eZxUZyV0",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "date": "2026-08-31T20:13:45+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YqwOsTwFTmMb",
+      "title": "AIをよく使う社員だけ5倍に　Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ",
+      "summary": "OpenAIがChatGPT BusinessでPremiumシートの提供を開始した。Anthropic、Cursorに続き、主要な企業向けAIで、利用量の多い社員だけ上位シートを割り当てられる仕組みがそろった。3社の料金や利用枠、実際の設定方法を比較し、企業のAI利用で何が変わるのかを考える。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html",
+      "date": "2026-08-31T20:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "RV66b5xpLOTw",
+      "title": "At Jackson Hole, global central bankers glimpse dystopian AI future - Reuters",
+      "summary": "At Jackson Hole, global central bankers glimpse dystopian AI future&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMFh5NUhXWG5NZW1lVzkySlBKWnZTRFVMLXh1R3N5VFJ4TkNmN2dXQnd0NmgwOXFyZENWS3dGbW84VnJ4YnFGQUtwcEJkNDRaT05aeUtFMmlfQllOY0luZnd6UzgwWVBRTlJLZ3hZMkJObzlHTnNENDZCNTJ3NVZ1MTBHQ3Z6QUE3VUp6WGw5WmRCWGtySV9GelhKNmhlV2RyaktqZ0VORzhURmxxME9LdllRSmVSdE0?oc=5",
+      "date": "2026-08-31T19:46:33+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "adVwfvA4dPye",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "date": "2026-08-31T19:16:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "P88qmhF4UokT",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "date": "2026-08-31T18:35:11+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0CVxWWR/Jh3X",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI secur",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "date": "2026-08-31T18:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ID2rJCeCyi4A",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "link": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-31T16:49:11+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "NSGuG72SCTPg",
+      "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+      "summary": "Technology trained on millions of routine ECGs could fast-track high-risk patients for treatmentDoctors have developed a “superhuman” AI tool that can spot heart disease in less than two seconds.The g",
+      "link": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "date": "2026-08-31T16:00:29+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "MVqBQVbGKxDR",
+      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
+      "summary": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
+      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
+      "date": "2026-08-31T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5b3YCykmF1Bw",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "date": "2026-08-31T15:34:58+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "acSOAq7uRK9H",
+      "title": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price - Reuters",
+      "summary": "Chinese AI chipmaker Enflame aims to raise $908 million after setting Shanghai IPO price&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPci1FMmItQ21hc2NTdV9rN3dIZXljSGVLYVNEN0lWRF9TYzZNN3VIUzRBSnFqcDUySXA1dEo5NkZUX3Jnb2ZPM2tzRkRSVXFjdTR2QWhkSGZVNTdFN1ctb0RLenFHWHN3ME9ZZVVhR3RRSzF3VHlqUl9tR21fNklHa3dEQ0tpclFaVTMycFk4ZGJOajVFQkZQZllsc0hjQVhESHZMalpiRFlobFlQNWlrbloyc21kSk02bkdkbHdJWDFkcVBIMzdsUVdQTkFUQQ?oc=5",
+      "date": "2026-08-31T15:17:17+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "UBtvB8QlywMe",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "date": "2026-08-31T15:15:25+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Qfez0ZUyk9Ea",
+      "title": "‘Scary’: how misinformation and AI hallucinations are infiltrating Australia’s parliament",
+      "summary": "Exclusive: Guardian analysis reveals that dozens of policy submissions from across the political spectrum incorrectly summarise real research and invent or wrongly cite sourcesFollow our Australia new",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/01/how-misinformation-ai-hallucinations-infiltrating-australian-parliament",
+      "date": "2026-08-31T15:00:29+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Dj1+iw0QJ/KX",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-08-31T14:04:55+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "o9eDmwx5bmJ9",
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, with a shocking amount of tech policy at stake, and G",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "date": "2026-08-31T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1hfj9X16PHPT",
+      "title": "EU orders AI supercomputer from Bull as demand exceeds capacity - Reuters",
+      "summary": "EU orders AI supercomputer from Bull as demand exceeds capacity&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5",
+      "date": "2026-08-31T13:39:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "mhDwltxbhlex",
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "date": "2026-08-31T13:27:36+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BqK6yzyrf/ff",
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it cle",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "date": "2026-08-31T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "In+goqFgF6c+",
       "title": "Anthropic sued over alleged theft of ‘tens of thousands’ of songs",
-      "summary": "AI company faces multi-billion dollar lawsuit over misuse of copyrighted songs to train Claude models All AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a",
+      "summary": "AI company faces multibillion dollar lawsuit over misuse of copyrighted songs to train Claude modelsAll AI wants for Christmas is a vast back catalogue of songs without paying for it, according to a m",
       "link": "https://www.theguardian.com/business/2026/aug/31/aanthropic-sued-alleged-theft-songs-ai-train-claude",
       "date": "2026-08-31T12:42:05+00:00",
       "source": "The Guardian AI",
@@ -86,6 +302,30 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "U6dd1vcG/Xdz",
+      "title": "China's Zhipu AI revenue quintuples in first half, loss narrows - Reuters",
+      "summary": "China's Zhipu AI revenue quintuples in first half, loss narrows&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGVpZmlzQ09VYkdFQktNaG5fWmNRTlZiV1czLXREc3FWcEtINjg0RF9rM2RUcER4T05pSlVMUkYzejJKWFNuTFZHYzhnZXFoaktSeU5JUTlMRC1mT2pzdkNuT19mQ2NQbTNySllWZUdLa1RhUEpFWHpSOVFpalU3dDZBMjFVaERCckE5NVVHV2NOMm9TeEJEZEUxNWFjR1k?oc=5",
+      "date": "2026-08-31T11:56:22+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "OyYElP2LZdUD",
+      "title": "Chinese AI firm Z.ai posts 400% revenue jump as total losses narrow - South China Morning Post",
+      "summary": "Chinese AI firm Z.ai posts 400% revenue jump as total losses narrow&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObnlNaExYbnZzWVc0T3BFbDRGWTRueFlLWHVZLWl2TGJNVHE2RkQ3Y1FoUEUxUHdERURwVjVWMnVWTThIUHFMUmtqTVk0RWtsVHdsRjhJbjdGZU5Eb3pfUmVyRnRrbUhYaV9rM20zcTMyOExzM0ctdmdNbHJteTNjd2R3aFA1eDRoa3pxdmQzLWtfMWtEYmZQR3BtSWNVYUE4X3VOT283UzlJeG9NTW13dWItSHFBN2pOdWExeHhn0gG-AUFVX3lxTE5UbVlyZnNNbV90VElFZVluWS1pc29UbnNwRm1jeV9nbGRFZHByMDB3ZjNTVGpxb25JakFLMTcxb1REOFpvdy1BYm5pQ25tRzRmYlRkNGF2RjVpdmJGdkc1NkducUF1R0RQOVJCWHBXdXFGa2pKbHk2OXlFNThaX0pfTnBIUUN3XzExX1kzcmtIWTRyWFF0czE0REp5RGhjdHRrcmdOQkxDRzBLQXJrMHZnRTZiZlVkTHVZTTQtWlE?oc=5",
+      "date": "2026-08-31T11:43:48+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -113,9 +353,9 @@
       "articleLang": "en"
     },
     {
-      "id": "FHY8fa0G8Q1x",
-      "title": "People & Profit - Artificial Intelligence in Europe: does advanced AI have a glass ceiling? - France 24",
-      "summary": "People & Profit - Artificial Intelligence in Europe: does advanced AI have a glass ceiling?&nbsp;&nbsp;France 24",
+      "id": "sSC6NMXrG7lA",
+      "title": "Artificial intelligence in Europe: Does advanced AI have a glass ceiling? - People & Profit - France 24",
+      "summary": "Artificial intelligence in Europe: Does advanced AI have a glass ceiling? - People & Profit&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYThEQ1NCOVJkRGFvR3FhR2VvNWJMZldDSGNFUTQtRWx4aGIwdGlpX2RoYzhlTGJiS1RIdFk5Z0JTTGd4RDgtdnVxdl9mN1IxbkxxdDJhLWxray1wei1qSlZ3QVNrSTgwTEFDTUhocy1QNTFnUmFuS1JiUjQta1NOd01jZ19Ja3VDaVd4MXltUWp3MVlNdjdnUENfS00tcHUwLUNVWkZPSXpGdkFZLVZLZzd1UE1fcDhKOEw5S3hBUXhFZnlNU0hTTWFhQQ?oc=5",
       "date": "2026-08-31T09:39:28+00:00",
       "source": "France24 Tech",
@@ -139,25 +379,13 @@
     {
       "id": "uS1wxWTXbNqB",
       "title": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
-      "summary": "With traditional goals such as stability and homeownership feeling out of reach, young people are focused on the presentBy now, we all know the shape of financial nihilism: the throw-your-money-at-any",
+      "summary": "With traditional goals such as stability and home ownership feeling out of reach, young people are focused on the presentBy now, we all know the shape of financial nihilism: the throw-your-money-at-an",
       "link": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
       "date": "2026-08-31T09:00:22+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "23sfvd5OoHPE",
-      "title": "Europe expands AI computing network with €390 million order from France's Bull - Reuters",
-      "summary": "Europe expands AI computing network with €390 million order from France's Bull&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOaG84MDdUdXlvbzJldndVZWpseUMyeGloNXBCeGZZVG5qYkNlMlJyY0lyakQyWUpvSXhrSHp3UF9idUFsVG43bXRJemIxSTNmOU5Cd2VuNjdJaVJuQzUteHN5NWgzV3JzZjB1NXpFeUlWc2J0cTZCLWs0SzB2SDZaeDNheFdwQzIyUFRzdHR0cm9Tci1oRGhuRm01NVZOamU1M2llSHl5X0Z4QWNsbENHZUhsNkdielRXM3F3Vw?oc=5",
-      "date": "2026-08-31T07:05:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -230,18 +458,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "RVKCX67WJVFZ",
-      "title": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports - Reuters",
-      "summary": "OpenAI issued warrants worth $5.5 billion in SB Energy, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHZHakZmR3NodC1Ea3c3U2oxdzR5anY2NEhZX0ZvMUpSWEdIU2pwX0F0RjJDaG55ZlRyLVRzMHo0QnE0YUV1NFltaHBvSTB3aTFzNXZPYkxJcDBuNlYzQkstaEhaQzF1S2xUcU1YZlNrM2xjbWxQTlBqRGhLR0E0UTUyVENnOUJTN2pTWE1HNi1mSzZJVmtZWnN6am51aG83TkRPWVdIZFFlelBq?oc=5",
-      "date": "2026-08-31T04:31:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -389,8 +605,8 @@
       "articleLang": "ja"
     },
     {
-      "id": "dIr8tfcro7vK",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "id": "4SaMF5H63nP7",
+      "title": "Sony Music, Warner sue Anthropic, alleging a ‘brazen campaign’ of intellectual property theft",
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "date": "2026-08-29T18:41:59+00:00",
@@ -413,8 +629,20 @@
       "articleLang": "en"
     },
     {
-      "id": "YvrXDRYsPWp0",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "id": "IEZ7/Sf86wuu",
+      "title": "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+      "summary": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI.",
+      "link": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+      "date": "2026-08-29T17:51:10+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8iBcDsjX9J1S",
+      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
       "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"en",
       "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
       "date": "2026-08-29T17:36:47+00:00",
@@ -470,18 +698,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "bFr+NTZjE5rW",
-      "title": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk - Reuters",
-      "summary": "OpenAI to cut off AI models for SpaceX-owned Cursor, escalating feud with Musk&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRUdlVXhBU0dadjVHRG10TFFYU2wwWHdyenlGSGZkUVUtcHV2YVdrN25KS3c0cEdrWHhEY054X3c4SUszUjdDUVRXdzJwSkc2N2ZXeXFweHI5MjgtQmlZQjFiYU1TZ2p5cTB5SUE5MWttbHRJYlQ3eDlzUlFXR0JhOEFfYjd2QzF6MExhRnVnTzQ1TnA3a3FfR0tqYVVwVC1YcXZN?oc=5",
-      "date": "2026-08-29T07:05:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -725,30 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "PBlQjscEfY5x",
-      "title": "Pentagon’s blacklisting of Anthropic was unlawful, US judge rules",
-      "summary": "Anthropic ​argued designation as ‘supply-chain risk’ could cost billions ‌in lost business ‌and reputational harmA US judge ruled on Thursday that the Trump administration broke the law when it design",
-      "link": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
-      "date": "2026-08-28T03:34:35+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "vET0eRD5PJnD",
-      "title": "Who actually benefits from new datacentres in Australia? - podcast",
-      "summary": "National cabinet met on Wednesday to discuss the federal government’s plan for new AI datacentre development. Queensland and the Northern Territory have won a carve-out so that theirs can be powered b",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/aug/28/who-actually-benefits-from-new-datacentres-in-australia-australian-politics-podcast",
-      "date": "2026-08-28T03:30:46+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "OaDqmufiOEhd",
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad",
@@ -770,30 +962,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "vfjP8QU9bvPt",
-      "title": "Black Box: episode 5 – The white mask – podcast",
-      "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for societyToday in Focus is on a summer break and will be back",
-      "link": "https://www.theguardian.com/news/audio/2026/aug/28/black-box-episode-5-the-white-mask-podcast",
-      "date": "2026-08-28T02:00:44+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "8CuLEAsPVHOe",
-      "title": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports - Reuters",
-      "summary": "Nvidia pauses revenue-sharing deals with AI cloud companies, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYkFHVHZ6Sk1JRExqTlk1Zl9VSGFEN0FHSXIxbXdhNllud1dSMWFoWWNiTUJ6V1Fqb3M2U2JvdWFNS3VMMS1rOGFhaU51RGFXR0EyQkpHWFBnaVB5d3pWdktTM1Q1SlhkblB6RTJHdUx1WVJJQ19xVzlaVldXOVVXbjRFemN2X0hmb25UNXNvb0dmUjUxZktXcTdTeGhMNmVsTnEyODFYYk1KQ2ZFOWlHYVozTl8yU0E?oc=5",
-      "date": "2026-08-27T23:22:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -833,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RIIBvmuiwrlh",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google.",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "date": "2026-08-27T19:52:52+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "mtFtpqatNe9I",
       "title": "Time is running out for cyber security, warn top tech firms",
       "summary": "The letter warns cyber-attacks which use AI will become more sophisticated in a matter of months.",
@@ -865,90 +1021,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PDQXDjEfcVvZ",
-      "title": "Anthropic plans to publicly unveil IPO prospectus after Labor Day, the Information reports - Reuters",
-      "summary": "Anthropic plans to publicly unveil IPO prospectus after Labor Day, the Information reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdHNDeVlrV1NXSUs4MVBjR2R3X2ozdWpIRGgwN1FKaUU3VkxVa2NGbmctb2lYNk82N0NCNDFNOENFaUE1LWtqZ0c5NXdjckRfRWZOd3IzeWpGRzlJMjZNOUc5QWdOZjhqSjNaYnhYSUYxODRoLVdHZWRSQ0R2VGZ6NWlESndXQ2FPbDRVbGpvZ29QMWl5Q2NicFhwaGd2eFprMHlvbVpfcTU3d3lURnZidTVJZ3RSbU5OY2d1bWtDV3VINjRaN0E?oc=5",
-      "date": "2026-08-27T19:08:22+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "nJfkwaEepZC+",
-      "title": "Major tech companies call for defensive surge to defeat AI-driven hacks - Reuters",
-      "summary": "Major tech companies call for defensive surge to defeat AI-driven hacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2dDaUNXZFo5LThPNmMzLXVqWXNQSXRNWE1ETDNibDRUbTdzYjcyd09vNlFoc2ZiajZGdThYUkowNF8yQVR1VXQzRnY5cmxBRW9HOGh3ZGU4UXJNUDlzQkFJVlhpVUNsVWk0Z3U0emVFWlhMcnZ1Q3lrQ05HZ3V4OW5ialRlQkFXdHhoYWZSWTg2ZHB2NnNfeTFaT1Y5THdFTXVGVWVheXFyU1pCVi1LYWExUnY1SDBr?oc=5",
-      "date": "2026-08-27T18:49:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "gRe9cs9z0qge",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "date": "2026-08-27T17:43:24+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "MxdB9kvcEg6e",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "date": "2026-08-27T16:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "LtQWWS2YeN+m",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "date": "2026-08-27T14:27:04+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "k9POzPztGMHN",
-      "title": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030 - Reuters",
-      "summary": "SK Hynix to start AI chip output in Indiana in 2029, sees memory shortage through 2030&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbGFaaDN4azFXVkpsOXY3T3VNbk9KOEdHQ2xqN1R4aGxVMWtnUERCWE0yN0pDRWhVNDUwTG1aekxQTEk0X2taY09ZN1JGTXNHNUMyR1Q2SmY5TEhOYVBHVzVSTTltVnRoeDhoem9vXzNZTjI5Q0NHWjBZU3Z3MDF3YTNnZ0pvOS1vRHUyQ1gxQ3NXdXhyeENEeXFlUWU3X0lCWG9UakIyUVVqaEs5NkRsemxJUnNDVHJwV21fZ2N3VUpuTUhTMnA3Rw?oc=5",
-      "date": "2026-08-27T14:02:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "2FinaXQNqGi7",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "summary": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet.",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "date": "2026-08-27T14:01:42+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -977,18 +1049,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RPUjoL6NEJ4V",
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to consolidate power un",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "date": "2026-08-27T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "sKsI5JAqY7jN",
       "title": "Huawei plans for more AI pharma tie-ups, says healthcare president - Reuters",
       "summary": "Huawei plans for more AI pharma tie-ups, says healthcare president&nbsp;&nbsp;Reuters",
@@ -1001,30 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ORNJ8+z/lUqB",
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, la",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "date": "2026-08-27T13:44:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "JuawN3SFCuM0",
-      "title": "Plaud is launching AI earbuds",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition ca",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "date": "2026-08-27T13:11:23+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "V+mGBOseU7rs",
       "title": "Alibaba pushes into South America’s AI market with launch of Brazil data centres - South China Morning Post",
       "summary": "Alibaba pushes into South America’s AI market with launch of Brazil data centres&nbsp;&nbsp;South China Morning Post",
@@ -1034,18 +1070,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "XFjk8jW0R68E",
-      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
-      "summary": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes.",
-      "link": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
-      "date": "2026-08-27T13:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1118,18 +1142,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "jB5bYdNroJLi",
-      "title": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find - Reuters",
-      "summary": "OpenAI agents hacked Hugging Face in 700-strong swarm, tried to cover tracks, investigations find&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQTc3SXJuMW9sUUxKakNwamQ3c1l1RWFRM3I1WjhJWk5HdGxrSGl4NVdQVGs2RHRQUDFsSzVCRkEzLXVTTGRKaUVHMUFURDVHd2ZzQUNrNW9MbGh2eDFZbDVqeVdPNW91MTVHUjVmMmJsdW5yeVk4dG5NWGp4MmJYN3YyYXIxd0RveW5tNklVTXVrVy1fbHZqNGU4bmM4MmZ2a0lUVGpLNC1VUWJLLXVrM243UQ?oc=5",
-      "date": "2026-08-26T22:07:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1253,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vk1El9V/Idl3",
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The",
-      "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "date": "2026-08-26T07:01:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "KejJ4UZ0lyKS",
       "title": "AI gold rush draws crypto firms away from Bitcoin",
       "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
@@ -1274,18 +1274,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "waDPH1jBy5gK",
-      "title": "Exclusive | Jack Ma buys HK$600 million of Alibaba shares, signalling AI confidence: sources - South China Morning Post",
-      "summary": "Exclusive | Jack Ma buys HK$600 million of Alibaba shares, signalling AI confidence: sources&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYjVYT3lzSHBZWG93XzVxQW5ZOGwyanBNd1JISEZrbXY2d3FfRFc2Q2FJcWFHUU9fOHlQeWRQcEVSeVRRY3ZZQ3QxUm41SmNRRU1hMWFxU3R6djBqS3BYRk1QdFU4dFdVY0xiUWtaZ3V2NHFWdUpGTVhEZ21rRVJUS1gzeE5mXzZzQzVfYzRDWlB4RG5CamFtejUzR3N0aHQ1N2NaZnRySkVVRGFqWl8zYW1FT01OQnRQeDVxN0xZeElMYjDSAcMBQVVfeXFMT3FkOXBPRGZDeDF1VXlBZ1ZhdHNxeUlqX2R2U3lkTVdZNHhqV3Y0bHBiUVlFRG1lc1VWYjRELWs2RHREeXZxc1VnMnU1cUpnR3BxeG11M0I0bWhqTGdGZzk5aXpqVTZyN3JxRnZSNTRES1N2LUxHUnEzd3V6YXdUX0RQY0J5Zm5CTzBremlOamZFY0Fnci1vMG1KV19HMzlJR2kzcU9RN3BWOUVXR19WU2xkcTNBVExMRzhUMzZGeDRVN3hV?oc=5",
-      "date": "2026-08-25T10:45:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1310,18 +1298,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "mVMM/wDzf7kI",
-      "title": "Songs created by AI banned from Australia's music charts",
-      "summary": "The move comes weeks after a DJ admitted using AI to remix a Madonna song that topped the Australian charts.",
-      "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
-      "date": "2026-08-25T04:54:01+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
