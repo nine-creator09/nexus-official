@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-08T20:44:43.751965+00:00",
-  "articleCount": 103,
+  "generated": "2026-09-09T03:12:44.690278+00:00",
+  "articleCount": 109,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "ars": {
       "status": "ok",
@@ -32,15 +32,15 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "guardian": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,174 @@
     }
   },
   "articles": [
+    {
+      "id": "NE8VDX2uFTlb",
+      "title": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+      "link": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "date": "2026-09-09T03:10:08+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WGMuwxAxBrre",
+      "title": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit - South China Morning Post",
+      "summary": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE1feG9lVlVhR0dHbldVRmk0TkRWQXB1b055aDR2dllFamtpRjZPa1dKWGI3RHNRcXdHdTd1M0UzVUk5UlpLbkVfT2NYZ1paTV91RzdiNTMwQjdZZDVtWTJFNDVrSHNPWUFiMU52dVIxdzJtd1p4V1hIME90NFBiaVJ0OFpGWGtJRFVpMHZ1QS1mR0JWUEpEaHZkMDBzYUt2cWY2QlI1SURWUXJ4UnhqQXpubWxCOTcw0gG4AUFVX3lxTE9VeFVkQy1nSVlQTVFDdkJSRXB4MHVvT1RxcXpnOEg3ZXlKbFBHZURrN2JDMnZfSGg3RlZ5UDZOYjVranp6XzUwaGVKdkw4Qnd6T0lJSmpBSk8tbENHLW5hS3lrd0dHSFNXZ1VsTWUtVFpVMmVyVjYtVW00YldIZnNGSFZJdFJoNWNpODNMSmVHVFNQQUJkUlo4eG9YMnlEdUhTYWxuTzk4NnJEWi1Edk9uaUV3Zm51Q2s?oc=5",
+      "date": "2026-09-09T01:24:18+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "n7XFQ8UhyC0g",
+      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表　数学者は経緯に反発",
+      "summary": "OpenAIは、社内の未公開モデルがミレニアム懸賞問題の「ナビエ・ストークス方程式」の特異点発生を証明したと発表した。一方、先行研究を行っていた数学者は、自らの成果伝達後に着手され手法が酷似していると不正疑惑を主張。OpenAI側は反論しており、成果の検証と経緯を巡り論争が起きている。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
+      "date": "2026-09-09T00:55:27+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "NuAYEgJzDQy1",
+      "title": "Labor wants Australians to be able to opt out of online algorithms. How will it change your feed?",
+      "summary": "The prime minister has predicted blowback to the scheme, which will affect social media, search engines and AI chatbotsFollow our Australia news live blog for latest updatesGet our breaking news email",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed",
+      "date": "2026-09-09T00:49:28+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "NaLRn11kPpjk",
+      "title": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says - Reuters",
+      "summary": "OpenAI offers AI for chip design, touts cost advantage over open-source, CFO says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVUJucVhXdkg2LXRFUWlWNDBaNm15VURrdEc5anpSaXNOVzJwTWJmQVE5Yms4aDlmRXhoU0RMSHN0dm5ZbF9qY19ZUUR2Y21fX3ZGZDhOTGgyVGpMS2s2UkxPNHVDZnZjRFppMzJQLUFsLXEzb1l1bWJPMWlnZm5XV21lYkt5STNRbGZuaTFzMXMxWGxIY2tGXzN6RDllSGc4a0dWcW15VlZiVENvOEJwY0JFcV9mWEJ1ZnVLb25IbUs?oc=5",
+      "date": "2026-09-09T00:43:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "bwK/Hg17ANmo",
+      "title": "Should promotion depend on how workers use AI?",
+      "summary": "More companies are tying career progression to AI use: is that fair?",
+      "link": "https://www.bbc.co.uk/news/articles/c1j1896e973o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-08T23:05:23+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "sRgHdgw0nazA",
+      "title": "Armが3つの新プロダクトを発表、モバイルとAIインフラ、フィジカルAI向け",
+      "summary": "Armが3つの新プロダクトを発表した。モバイル機器向けソリューション「Arm CSS for Mobile 2」とインフラストラクチャ向けソリューション「Arm Neoverse CSS N4」、半導体製品の市場投入期間を短縮するサービスをフィジカルAI向けに拡大する「Arm Total Design for Physical AI」である。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/09/news059.html",
+      "date": "2026-09-08T23:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "ajM4ZpplNdBq",
+      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
+      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
+      "date": "2026-09-08T21:31:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "6RDT24qyuuxY",
+      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
+      "summary": "Meta launches AI agent that can access other apps to send emails, make payments&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
+      "date": "2026-09-08T21:29:41+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "LMVvW9xjlPn3",
+      "title": "OpenAI claims to have solved maths problem that stumped humans for decades",
+      "summary": "Company behind ChatGPT says 10,000 of its AI systems cracked the Navier-Stokes problem in 88 hoursOpenAI claims to have solved a major mathematics problem that has stumped humans for nearly a century",
+      "link": "https://www.theguardian.com/science/2026/sep/08/openai-claims-to-have-solved-maths-problem-that-stumped-humans-for-decades",
+      "date": "2026-09-08T21:29:10+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "BTnZaGRO9BHY",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "date": "2026-09-08T21:10:27+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XEtfVcSe20A9",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "date": "2026-09-08T21:04:06+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ETNqVY2rm8fW",
+      "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
+      "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-08T20:57:09+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "AkHGYixaa05X",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "date": "2026-09-08T20:53:52+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "On2Z984HSMvk",
       "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
@@ -77,8 +245,8 @@
       "articleLang": "en"
     },
     {
-      "id": "EgL1/fa1nmne",
-      "title": "Meta Releases Muse, a Personal AI Agent With Privacy ‘Built Into It’",
+      "id": "mVLOXcAS+dob",
+      "title": "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
       "summary": "Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
       "link": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
       "date": "2026-09-08T20:12:51+00:00",
@@ -89,27 +257,15 @@
       "articleLang": "en"
     },
     {
-      "id": "6RDT24qyuuxY",
-      "title": "Meta launches AI agent that can access other apps to send emails, make payments - Reuters",
-      "summary": "Meta launches AI agent that can access other apps to send emails, make payments&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQS195TVZPeEJJbzNYTEZ0dnI4WGxOWXF2ZlRmbDEyU1VtWnFsd012VXVDd01mRHY3Y3lDOW9pRXRYSXR6R2NqYVM3R0xwMURjZElSZHVkckZidjNoWTh5OWlNWkZGUGJpWnpDSUhUOUxBUEZDTVpwZjFXemxIdTlvanpSMXF2MXo1UkNtN2UtZVdfX3J2ZTdCekREbUxkaFo1MVpLakxOT0ZaeUVoMlhlb2E0Y0dfV2g0bXRNbw?oc=5",
-      "date": "2026-09-08T19:37:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "ajM4ZpplNdBq",
-      "title": "US accuses Chinese AI firms of 'malicious' copying of AI technology - Reuters",
-      "summary": "US accuses Chinese AI firms of 'malicious' copying of AI technology&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5",
-      "date": "2026-09-08T19:35:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "W+AyBY0dOzov",
+      "title": "Truth or Fake - Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean - France 24",
+      "summary": "Truth or Fake - Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkJzcDdGYTV3UUVhcXQ5N01GdVFwd1dmWXBmOTVkTHZ1VnZhalZsTGdTSDRzU3l4Rm5YcVBkZHlOd1RsT19lWlNSbGpDMHZCcEpyRERabExlcnE4cExvd0RmMC01cWVkbjB4X3Awa1p6QWRreGFNb0JnRlIxWFlTaGFJWGgwUjhaRzliZE9iWldVd3pRZTJuVG8yNE9OTEdNbGx4WWE4bnBYN2s?oc=5",
+      "date": "2026-09-08T19:43:23+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -233,18 +389,6 @@
       "articleLang": "en"
     },
     {
-      "id": "NuAYEgJzDQy1",
-      "title": "Labor wants Australians to be able to opt out of online algorithms. How will it change your feed?",
-      "summary": "The prime minister has predicted blowback to the scheme, which will affect social media, search engines and AI chatbotsGet our breaking news email, free app or daily news podcastAustralia will force d",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/09/labor-australians-opt-out-online-algorithms-how-change-feed",
-      "date": "2026-09-08T15:00:44+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "VqXtfDHhXrNf",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
       "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
@@ -285,7 +429,7 @@
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - dw.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-09-08T12:08:39+00:00",
+      "date": "2026-09-08T12:07:53+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -326,6 +470,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "t8Ow1BY9sQWZ",
+      "title": "Will Malaysia’s potential Huawei AI deal risk clash with US trade pact? - South China Morning Post",
+      "summary": "Will Malaysia’s potential Huawei AI deal risk clash with US trade pact?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWHo4OTdDX1p6bWlqTTJYSnRTaUNBWGVoWXh4aXpHSDc1Sm1xMkQtdExDOGVQbDNzbkQ3Vzc2M3o2SGFubmEtUUh0NVV0LUxJNXdXNkZrVWpZMEdpdHExNkFUSWZRc0psRVJTaWJWU0RRcWM4el9GcVM3WHNGOUJYUGlHYUhTUktIbU1RZDJ5WEdxTEVteElUa2s3MW1YQ2QwZHVwcTh6TFMzX0I0NjE2RmZEcTAtVXZObGw3SzY2VzlHeHPSAcMBQVVfeXFMTkZsdjJlaG44TjlrSWRlTmtrNEtTbG1ENmdNQmcyMXgzWEFaMldfMUgyUXdRdTRBdTBIVC1QeUVrcHhFT0RZTl9kbXlLaGY3ZUU4c29aRm45SXBSUG1haXphWEFOeF96Mnd2a1VOaHg2bHdMZmZFYlMtVGxMQnI3ajZ6dG1DcXFuYVhDdTd5UWE4VzhtbTRlWXUxWFhtZzJrSkt3SDM0dHNKZDRtdGI4eG1JempZNVB6c1A3bExHVU9ZUGw0?oc=5",
+      "date": "2026-09-08T10:22:28+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -485,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "eWEZLCy7Fje5",
-      "title": "図面探しや検図の悩みをAIで支援、製造業の現場課題に対応する新ソリューション",
-      "summary": "Polaris.AIは、製造業向けの「図面×AI活用ソリューション」の提供を開始した。自動車や重工業などにおける図面／設計AIの開発・検証実績を業務課題に沿って体系化し、図面を探す、読む、確かめるといった業務をAI（人工知能）で支援する。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/08/news032.html",
-      "date": "2026-09-08T00:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "jp77EBJ/0tuT",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
@@ -506,6 +650,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "QkW7d6MybwmX",
+      "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - Reuters",
+      "summary": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g?oc=5",
+      "date": "2026-09-07T16:51:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -554,18 +710,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "QkW7d6MybwmX",
-      "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies - Reuters",
-      "summary": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbXNPeUFiR3h1WlFQd1pXTkFsRHlPUmt2TUJVYlp2QXlQbko1SFltZk9Qb1RoRmR6YkNHTTFxQUZqX3N5ZDJMZ0xwRUZJd1VCVklLSzdFM3Z5TFNUcWIxN2dBdnI1VUVlaTJ2V21wOGFtSFo0Z3pqYnlxNjZ6TE1jQTRUb1EyZHlGVGdVYVczNXNITURObXBHcEpqVlhmUy0wV3FjQk42VVh6QmZnX2tWQjVGaGlNVER4d0JtallNR2g?oc=5",
-      "date": "2026-09-07T12:37:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -620,7 +764,7 @@
       "id": "btQ2ceFAnJeR",
       "title": "What Tencent’s Bilibili bond swap tells us about its AI playbook - South China Morning Post",
       "summary": "What Tencent’s Bilibili bond swap tells us about its AI playbook&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0lqQXljd01UbXFRQXZUa2QtQ3pvWHEwUHRwVUF4M1VlZkRtQUlEb3RibU95WHZBQml3WTI5RjBveXVaNEMzM1UzRGp2ekJvaFg2SXF5QzVYdUVuWk9OY19tRGV3dUxGWDVheXJPZVIzOXQ5LXo0RW5VU0s2Q2N4andLeVNVOXhwN1FHSFhrRXdVNmo1ZDFDc3NWMlVVQVJwbzh3UUJEUnd3TzNTeGhvSURrWnXSAbQBQVVfeXFMT3dUYm1FV2hRM3pVakktN2dxVV83Sm5TaG5pQ2FuQ1hwaGN5NHV5U2xNTTJ4YnVaVFF0RnFLUDRmWTgtV1J3dzNWV2RCcHI4RjBoZlE4ZV96Mno1T21PenlDbDZaYTBWV3Z3UVNtVDIzOHFBVVhhN2wzbjJKbFFQdWJQVHAzUGNZR2l4SkRLV24xVkdDRUFxR0FFMUF1cmZodks0Mlk2ZTVXYlU2dFZhaGtlMG1N?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0lqQXljd01UbXFRQXZUa2QtQ3pvWHEwUHRwVUF4M1VlZkRtQUlEb3RibU95WHZBQml3WTI5RjBveXVaNEMzM1UzRGp2ekJvaFg2SXF5QzVYdUVuWk9OY19tRGV3dUxGWDVheXJPZVIzOXQ5LXo0RW5VU0s2Q2N4andLeVNVOXhwN1FHSFhrRXdVNmo1ZDFDc3NWMlVVQVJwbzh3UUJEUnd3TzNTeGhvSURrWnU?oc=5",
       "date": "2026-09-07T11:30:06+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -651,18 +795,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "lthMBHb4KK7f",
-      "title": "M365 Copilotでも「GPT-6 Astra」利用可能に　「Fable 5.1」も可　Work IQと合わせて「より的確な応答」に",
-      "summary": "Microsoftは、OpenAIの新モデル「GPT-6 Astra」を「Copilot Cowork」と「Copilot Studio」で提供開始。作業を細かく分けて指示せずとも、より大きなタスクを委任できるとうたう。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/07/2000001217/",
-      "date": "2026-09-07T06:32:17+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "AazJ7yYkEih8",
@@ -953,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "XsW7tYiLxYvv",
-      "title": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring - Reuters",
-      "summary": "EXCLUSIVE: OpenAI agents hijacked German website in previously undisclosed AI breakout this spring&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0lsYkxySy1tYUVZRnlHQmN5Q1loNW14dl9oYWZ4UFpWX0N6TGNMdUdTSFRHMDBsMzMwazV2RkFkM01jTGFvbHpJUTk4ZVNzVGZJc3FtaWlHMGViMEp2ZHFUcEZuNmF3MUd3UjF3eEc4ZC04MDEwWmp3RlYzSmFPZTNLTVlpTURsdENEdE1FMlNzRjc1TzFQd2tSSUNoQmtxRF9DQUVIR0Ftams3Zm5KUFZ1dHhrZEtKUFlSQUFyeVozSmxk?oc=5",
-      "date": "2026-09-04T22:02:17+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "cP9fdwr/JIDu",
       "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
       "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
@@ -1085,30 +1205,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0706TyYx0p/L",
-      "title": "Google’s Gemini Spark can now manage your Google Photos library",
-      "summary": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-      "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-      "date": "2026-09-04T14:47:11+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "AaeIDHbRg+79",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "date": "2026-09-04T13:34:12+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "xEiUNTZbgQrP",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild",
@@ -1141,18 +1237,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "EHbM/3iLmlrN",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "date": "2026-09-04T04:21:03+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1237,18 +1321,6 @@
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "USRqXUFQGY05",
-      "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
-      "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
-      "link": "https://www.bbc.co.uk/news/articles/cr4vnr5g1k7o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-03T16:32:05+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
