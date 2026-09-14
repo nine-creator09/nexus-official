@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-13T20:21:31.329401+00:00",
-  "articleCount": 134,
+  "generated": "2026-09-14T03:29:49.387403+00:00",
+  "articleCount": 141,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 22
+      "count": 26
     },
     "reuters": {
       "status": "ok",
-      "count": 25
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "C1DK/R15VjNl",
+      "title": "Committee calls for bill to address AI threat to human rights",
+      "summary": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-14T03:23:54+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TPi3yaW9jF79",
+      "title": "AI isn’t going to end humanity ... right? – podcast",
+      "summary": "A series of figures in the tech world have been warning about – and even resigning over – the existential threat posed by AI. How worried should we be? With technology editor Robert BoothTen per cent.",
+      "link": "https://www.theguardian.com/news/audio/2026/sep/14/ai-isnt-going-to-end-humanity-right-podcast",
+      "date": "2026-09-14T02:00:19+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ke25VLz0JJ2T",
+      "title": "トランプ政権のサックス氏、AI「ペース調整」論に苦言　「規制がなければできないふりをやめろ」",
+      "summary": "大統領科学技術諮問委員会のデビッド・サックス共同議長は、AnthropicとOpenAIのトップによるAI開発減速の提案を批判した。減速を望むなら規制や他者の許可を待たずに自ら実行すべきだと指摘。減速を条件に規制の枠組みを要求する姿勢は政治への脅迫に見えると述べ、利己的な動機を装うのをやめるよう求めた。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
+      "date": "2026-09-13T23:14:08+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "7UtXJvEVemwX",
+      "title": "「Gemini Notebook」になって何が変わった？　NotebookLMからの変更点をおさらい",
+      "summary": "Googleの「Gemini Notebook」が、資料を読むためのAIから、データ分析や成果物の作成までを任せられるツールへと変わりつつある。NotebookLMから何が変わったのか。2026年の主な機能追加と最新動向を整理する。",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/14/2000001421/",
+      "date": "2026-09-13T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "vcvy2EzF0W+t",
+      "title": "Why Europe is missing out on Apple's new AI Siri - DW.com",
+      "summary": "Why Europe is missing out on Apple's new AI Siri&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLVJLUlZXVEpyYjZXYUQ0b1dnOHRDM09uZ2RLTEx2YWotd20wNGxMUXhNVFI5MVB3d255VHR0VjhRWGVuQWg1eGRFZENGVHF1NndPZ3UxNmhfTVd2QVdCU2VJaF9yb0I0Z3pXZVZUVGVMMW04MGtOTUlLVzBRREhRa09UMk1SeVlYc1JDZg?oc=5",
+      "date": "2026-09-13T20:35:07+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
     {
       "id": "ZCmk3xUoex9M",
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -89,6 +149,18 @@
       "articleLang": "en"
     },
     {
+      "id": "gw+Zw0CGN0R7",
+      "title": "Trump downplays AI development checks, says unwilling to cede edge to China - South China Morning Post",
+      "summary": "Trump downplays AI development checks, says unwilling to cede edge to China&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkdmYUNCaW1zOExkdk10akk4WHg0UmtpMzFXR2FEbjJaUlNuRmNKTzlUdFBmaDBBSVhtbzdWZWtwMDd0R2g5dlFaSk1hS0wzdjdYcHE3dkpCQVRpVDQ4Y01lMUFLbzhPNlNlaGY3V01id0d5ZWhqeG5adGR3ejU1czhTTkxMWTg1MTc0MkZJQU8zR0tIaGxPanI2elhTdGp6ekZld1AzaE9xQnczSDlKRlg1UnNUTDhRN3ZxRi1mczdkb0FSc3ZKR0tfeDF2SHVWN24zZUFNRU51VXJY0gHcAUFVX3lxTE5KSFM4MFJFc0FvYlU5UmhOc053QS1Rc3FnclhmYzJRSzdJbWpYc0I4T2RsbW5wd1hQUTJTbW9GSlVicWlyZ3Y0dkc1WUo4M08xbjQ4MThUaVM0NHBIMVdwMEFTdnZPVHgtajZQaWpwOGxqZWVnNHF6QWE0WEljWUh2cDhwWVUyS21PMWVLaGhPMjFqc2JCV1NyaGhrSl9wdGVzQ2VLLU5ZQWVDWHMtS2JDRF8yWTdZSzNSTUt1bkxXZ09xWVlJWGZvMllGcTdrNjM2YUtFUDNldWltclQ?oc=5",
+      "date": "2026-09-13T19:27:47+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "p2LBpPVqJkn4",
       "title": "US schools and police warn about viral ‘Cat in the Hat’ trend after teens’ arrests",
       "summary": "Disturbing and AI-generated versions of Dr Seuss character have been used to threaten schools and communitiesSchools and law enforcement authorities in the US are issuing warnings against a viral “Cat",
@@ -103,25 +175,13 @@
     {
       "id": "uPLASO5jZVc3",
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-13T18:49:37+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "2MdXHfTcpOi4",
-      "title": "Anthropic boss Dario Amodei calls for AI slowdown - DW.com",
-      "summary": "Anthropic boss Dario Amodei calls for AI slowdown&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
-      "date": "2026-09-13T18:22:24+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -134,18 +194,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "mDhgeaQCr54m",
-      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
-      "summary": "Trump says 'very negative forces' raising exaggerated concerns over AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
-      "date": "2026-09-13T16:58:17+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -209,6 +257,18 @@
       "articleLang": "en"
     },
     {
+      "id": "mDhgeaQCr54m",
+      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
+      "summary": "Trump says 'very negative forces' raising exaggerated concerns over AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
+      "date": "2026-09-13T14:28:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "UoJMRd/1sMvV",
       "title": "OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development",
       "summary": "Rare show of unity from rival developers after safety warnings from Anthropic boss and AI researchersAnalysis: critics perplexed and suspicious of call for a slowdownThe Guardian view: humanity cannot",
@@ -221,15 +281,39 @@
       "articleLang": "en"
     },
     {
+      "id": "qk0o1B95nnUl",
+      "title": "Does Beijing need AI talent in ‘public opinion war’ over South China Sea? - South China Morning Post",
+      "summary": "Does Beijing need AI talent in ‘public opinion war’ over South China Sea?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeXdvYkZQRFlsSjRvS2lxQUdibzU2Mi15V0poeVI5dUE3aC1haUhEbjFOUFdBZUw0Qm9yVGZRNzdVWV93RWM4c0Jpc1gxYUxJTXRUbGFmS2dscnVZclE0NFB0cFZPcE9aS2VRWGN1SXhqdzV0MWlqTkpxVWZUSFdZTmNkRHRiWERTbzdCLVNWa05UUmhic3ppMnBDR1h4TDY0SHRSZkI0bWpZZXBjTUpKUFlCOUdCS21xM19Gd1hTRTbSAcABQVVfeXFMUGhvZDBDaXdNd05RMzQtQ1dyM1VGSU05V1hEemFvRkRnV2pNS1g1SDhkRWJsSVdhTzZnRXU3LW83NHAxSW1TMDVrdTgyNG04eGtZOF9UcE5vUkFOMXZXREIzWk1LbUZ0Ui1BUnQzeXFzcVVvei01aF82bkFha1dUdFpZbVhVQUx5WGRZR3E3dllPNmVubGtyamdOOXZhUU15Y0VIZXZZVFFHdzVCVkM2cXNQTzZaVTc0c0tYS0ZzcFBh?oc=5",
+      "date": "2026-09-13T13:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Dj1+iw0QJ/KX",
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 36 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 36&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-09-13T12:52:56+00:00",
+      "date": "2026-09-13T12:48:07+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "niMzaUuneo4v",
+      "title": "Hong Kong teen with rare disease creates AI avatar to ensure his story lives on - South China Morning Post",
+      "summary": "Hong Kong teen with rare disease creates AI avatar to ensure his story lives on&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTUyZXBuMjQzU1RaYnV5dDF1bG9ZeGtVd3JINHBvVVZPSDBzd1BPYUF6WGVrQW5KTU1ub2oxaEtWUThtSG9vTVFmT3VhSmZpbGxSSlJRbEx3bUpHSDh6cGhBVmhfQUZiR0tPUjV2Q2ZPTVBkVkE1RUgxemlGYW5KOW00bU01MWh1dXNNOGh3dmVSMDhQUkQyWm9BdmllNHQ4Vk1vZHZKdFoxMlI3ZnVhbGNpNUpHOENYczNFTDdfZ3dEOXh6WjF1adIByAFBVV95cUxPeF9hY2JxUkdieFBMRUhMdFFteTN3YWMxZVZVNlE4a0RzVDBTTVg2ejR4bEVCdDZ5X2hEeUcyUVU1OFpPNTJ4YTczcm45QXhPdVZHWUh4REE2OUlrNjNwRFVQNzVqOVJyaE93S1Y2VlhDYWZYZEZnR3ktN0syUTZrOWtlV3h1bjNfak5BS1lkMW1iY3dTbW03ZUlMUG91SC1DYkJNSzczSTU1UjBzWXFCT2dpbW5kRG9ud3MyeV94V0N3T2RBZDNpcw?oc=5",
+      "date": "2026-09-13T12:39:25+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -314,6 +398,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "2MdXHfTcpOi4",
+      "title": "Anthropic boss Dario Amodei calls for AI slowdown - DW.com",
+      "summary": "Anthropic boss Dario Amodei calls for AI slowdown&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
+      "date": "2026-09-12T23:35:07+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -821,18 +917,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Tuqneudrng6F",
-      "title": "New Mexico lawyer fined for using AI-generated brief containing fabricated testimony",
-      "summary": "Stephen Aarons said he tried to use ChatGPT to create a ‘bulletproof summary’ during a murder conviction appealA defense lawyer appealing his client’s murder conviction submitted a legal brief contain",
-      "link": "https://www.theguardian.com/technology/2026/sep/11/new-mexico-lawyer-ai-chatgpt-testimony",
-      "date": "2026-09-11T18:04:05+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "ubESoWn813dx",
       "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters",
       "summary": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows&nbsp;&nbsp;Reuters",
@@ -953,6 +1037,18 @@
       "articleLang": "en"
     },
     {
+      "id": "+iKjCo0OyPyU",
+      "title": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says - Reuters",
+      "summary": "US listing could put Japan's Kioxia in global AI spotlight, Voya's Thomas says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVVuc0hyeVZnUG1QZDdhWFd0MzAzTUw3QmI5TjVPR2J5SURMTTNFeG9rVzhlV0gtTWY1SFNPZ2JWWHB6RVBHWkJxa1duT3lSbDl1aXZiLUdXWGFHUDkyZzRsQ0Y2ZnFGSGw0R2tpcVlBQzVfUExVM1U0VE5Xak4zYzZMZEVaSmNuV3BweEhhOGZwcEtlZVBCZnloRkN3UmlPQ1VQLWlORUlITG0tMG4yMDcwQzdieWZZV3BPcEVCa3d1ekJsSFE?oc=5",
+      "date": "2026-09-11T09:50:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "5CvmyZnsYmFO",
       "title": "Doomsday tech: could AI really kill us all? - France 24",
       "summary": "Doomsday tech: could AI really kill us all?&nbsp;&nbsp;France 24",
@@ -1047,18 +1143,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "PpNGMjKQZ4yo",
-      "title": "Israeli film on AI-backed Gaza killings gets 25-minute ovation - South China Morning Post",
-      "summary": "Israeli film on AI-backed Gaza killings gets 25-minute ovation&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSWxFcGg0NWp5ZVZXcWtBRmJQa05wX3dLeVVISGFBemJlbnhXNUFPMXByY2xrLUZ1bzJqTjIxam9nNTZpSFQ4U0pKbkg4SmUyT1NiXy1zTXJzN1hGMi1TUk1RZmdaekZFTVZEM3JCSEJCcDdFTW1WT2Q0SE9zQndXb1FhN1RHQzhnV185enRiZDF0dk5penZ6djBMMk5MT0xxZGM2bGdwR2RSWTlFWDJuLUdfRDJFcXgyMEJZSVJVU1Q5U2JR0gHEAUFVX3lxTE5LTWtOaHRRUmxKemZnb2oyMUc2UE8zQUQtS0w4Rjdia0lnS3lJX040Mk1FVG1kcW1OS1JjSmt0M3FNMVR5ZlZxUTc1dkhvMGxfbFcxenZIOTZxMHJPaHkwZUIwTEt1SkdMMlMwQmhwb01DWXRxS011ZkxEQjduWXlJYUlVdTk2WlRJQTJNcm1HOUlZLWhFTEp6WUVBVDA5cm5WOUpLeE5HZVFxbXBnZzgxZm45LUg5RWUyNUtHWE40Z2RnQjM?oc=5",
-      "date": "2026-09-11T02:42:15+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
     },
     {
       "id": "Ju0c0juOnnSw",
@@ -1313,18 +1397,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QHEeNG3H17qu",
-      "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
-      "summary": "AI boom poses new financial stability risks, BIS head says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
-      "date": "2026-09-10T12:36:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "TwvPBJk4uolh",
       "title": "COMMENTARY: AI debt splurge is warping credit spreads - Reuters",
       "summary": "COMMENTARY: AI debt splurge is warping credit spreads&nbsp;&nbsp;Reuters",
@@ -1337,6 +1409,30 @@
       "articleLang": "en"
     },
     {
+      "id": "QHEeNG3H17qu",
+      "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
+      "summary": "AI boom poses new financial stability risks, BIS head says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
+      "date": "2026-09-10T11:33:41+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "cjpsMQOMJMwe",
+      "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post",
+      "summary": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5",
+      "date": "2026-09-10T11:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "Crl1Sbi35PNd",
       "title": "Powering AI is an architecture problem",
       "summary": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world&#8217;s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn&#",
@@ -1346,18 +1442,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "mA990ripqpBK",
-      "title": "India plans AI registry as it looks to roll out agentic payments, sources say - Reuters",
-      "summary": "India plans AI registry as it looks to roll out agentic payments, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVVNCTTRPWDZrd1cwM2NQVG84dHJQSHVmMnNJRU5TdGZMc3l2LUFLRlJoNDZQemUtdGF4T3BhdFhtUFhZSXZwQV9PZGxpTW9fMWFJMU4wZENTaTl3Q2tmUGVEVFpIelZFWjJ5R1J5c3dvYk5xUDNmX2Fha0daQUV5eS1RNU1zZXBhQ1Z5VW1JNF9UdzRvdDlzb2U1NW5UUm9vYWM0VGxLcUxzbkttR2cxYU5JWnp6NkJ6Y1E?oc=5",
-      "date": "2026-09-10T10:45:16+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1589,18 +1673,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kabGm+AsBy8c",
-      "title": "Cognition AI raises $2 billion at $48 billion valuation - Reuters",
-      "summary": "Cognition AI raises $2 billion at $48 billion valuation&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3hsV1U1MTdYTkgwaHJhanppVTU1cUZVLW94amhlM3liQjE1SUVFdnJtRFlvcExWRkI5RURMMllzd1djSlhUT09VTGotRHhFZm1NTmdDTXpEYmdNaVhITU1STXdTSVE3NlhQVVAySTE1WUVhXzZSZzdSUl9DRVlmVWVpaEl0cXR5ZzBjYUZlaDRzbkVfSFllNVJEOWlHQQ?oc=5",
-      "date": "2026-09-08T21:52:55+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "WGMuwxAxBrre",
       "title": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit - South China Morning Post",
       "summary": "China ‘can never get ahead’ of US in AI, Bessent says in advance of Xi’s visit&nbsp;&nbsp;South China Morning Post",
@@ -1634,6 +1706,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "RxfLG1NrRbmU",
+      "title": "China’s top court sets out new AI red lines with rules on deepfakes and privacy - South China Morning Post",
+      "summary": "China’s top court sets out new AI red lines with rules on deepfakes and privacy&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdTdMQWx6TTEtMG5pbHZfQmF0aDJGcTRSd0Jienkyd0h0WkVhS0drU3JGeGZKWVRJeWdiVzFrWDYzcjZEX2J5d1hXQWw1aXpTZWkydTN4S2FWbG81MFNPV1hzZ003OS0yODhBN08yR1g5T2hUVmk5ZEJQTUdPUFZTcmRId3hfMC1wVzJBMndBcldHQVlkMXNvX19BNHpOQWRONlNmT0JIX3gxTUlqbmJhbzNqSVBocEJ2bkxmRUNSQjJ0NUlsa0FaSlZqONIBywFBVV95cUxQMTNFX3hGUm5hUmpFa050NGctVl9BOUZCV243ODNiZFpzS3k3LVZmdWRVZ3B4Ymw5RVRUenpkMGRCdzBuenNfenZFcVNjcjI5dWM2WmloOTgwZW1KeFRZTU9IOXlKUXJTUTYxNldJaFBkQ29ETTlGdlYtVTYyQWFFOHRYeW9vRUNIczRBeWZWa0c2b0d0bzFnS3oyZlk5UU1zdjE2RHBralREZUsxVm1kTUZ3MGxrdVpQRGtta3Jmc2F0UEp3Y3BNelVIVQ?oc=5",
+      "date": "2026-09-08T11:12:50+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
