@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T16:18:45.753187+00:00",
-  "articleCount": 129,
+  "generated": "2026-09-15T20:53:03.714951+00:00",
+  "articleCount": 132,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 11
+      "count": 13
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "guardian": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 10
+      "count": 9
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 6
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 27
+      "count": 26
     },
     "reuters": {
       "status": "ok",
@@ -65,9 +65,177 @@
   },
   "articles": [
     {
-      "id": "RO5iIRaBrDfn",
-      "title": "‘Like Syd Barrett’: AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon",
-      "summary": "Experts air concern over AI lingo redolent of Pink Floyd star and James Joyce’s prose that is creating headaches for monitoring and oversightAI models have begun communicating in a strange new version",
+      "id": "VVuHNm6TsxXY",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "date": "2026-09-15T20:12:53+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "OaV9m7PY3l9i",
+      "title": "Bernie Sanders and Steve Bannon call for curbs on AI at ‘pro-human’ summit",
+      "summary": "Leftwing senator and far-right strategist rail against tech oligarchs but offer competing visions on Chinese ‘cold war’The progressive senator Bernie Sanders and rightwing strategist Steve Bannon have",
+      "link": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
+      "date": "2026-09-15T19:51:39+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "mYrlLxoe4iwN",
+      "title": "Tech Life",
+      "summary": "What should children learn in a world transformed by artificial intelligence?",
+      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyf?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-15T19:30:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "T+EgfoMaW2dm",
+      "title": "Bernie Sanders says Congress has been ‘asleep at the wheel’ over AI – video",
+      "summary": "Bernie Sanders criticised the advancement of artificial intelligence at the Pro-Human Assembly in Washington on Tuesday, warning that the current type of AI was 'the least capable version of AI that w",
+      "link": "https://www.theguardian.com/us-news/video/2026/sep/15/bernie-sanders-congress-ai-artificial-inteligence-video",
+      "date": "2026-09-15T19:11:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "cT9GgXJiFnbO",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "date": "2026-09-15T19:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "MkABV8llrbDm",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "date": "2026-09-15T18:29:20+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "0G0CxQsARJDm",
+      "title": "AI ‘Actor’ Tilly Norwood Told Me That ‘All Lives Matter’",
+      "summary": "The virtual character, which is promoting its upcoming movie Misaligned, tries to evade politics by repetitively commenting on the clothes you’re wearing.",
+      "link": "https://www.wired.com/story/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "date": "2026-09-15T18:00:09+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "CcjT4ttxpxEv",
+      "title": "Could AI really wipe out humanity – six experts spell out the risks",
+      "summary": "We examine claims and counterclaims about the risks and calls to slow down the pace of AI developmentThere have been some shocking claims in recent days about AI safety: we face a 10% chance of doom;",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
+      "date": "2026-09-15T17:54:48+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "utdzhPZstnpE",
+      "title": "Roundtables: Could AI really kill us all?",
+      "summary": "Listen to the session or watch below Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more",
+      "link": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+      "date": "2026-09-15T17:47:51+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "1T3Rh2El+CJK",
+      "title": "Louise Haigh: UK must heed warnings from AI experts",
+      "summary": "First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulationMinisters must “heed the warnings” from industry leaders about the threat posed by A",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
+      "date": "2026-09-15T17:43:37+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "RTPk8tK3BlyY",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "date": "2026-09-15T17:42:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "BnV73NIl9HhY",
+      "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here? - Reuters",
+      "summary": "From hallucinating AI chatbots to wiping out humanity: How did we get here?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
+      "date": "2026-09-15T17:35:07+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "EXCLmYvQHfGO",
+      "title": "Ben Jennings on tech leaders’ outcry over the dangers of AI – cartoon",
+      "summary": "Continue reading...",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/15/ben-jennings-tech-leaders-outcry-dangers-ai-cartoon",
+      "date": "2026-09-15T17:12:20+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "QivLK4CuqHk7",
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "date": "2026-09-15T17:05:24+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Ib8weZnl+s2C",
+      "title": "AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon",
+      "summary": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating headaches for monitoring and oversightAI models have begun communicating in a strange new version of English that rea",
       "link": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
       "date": "2026-09-15T16:00:54+00:00",
       "source": "The Guardian AI",
@@ -137,6 +305,18 @@
       "articleLang": "en"
     },
     {
+      "id": "ThUypseKLmpH",
+      "title": "Why AI researchers warn humanity could face extinction - DW.com",
+      "summary": "Why AI researchers warn humanity could face extinction&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVxWHZYTGlqRk9uaE1tUFRIUi1UWGpYQW4tZXFZMUxFamlHZVlqNW54Qy1UXzVoZ005N3lUQzZXcUxic19abi01RmZqYVJxQ0dBdHVjb1NzRHJ4eUZwMHVNTkx1OU9laUNmcThXMDlOdjFWUm5PM21FZEpLVld1aVRVdkp4S0dGMHQ4M3E3UGNUTTNJa2l4RVd4MDJuZGRKa2ZpQ9IBpAFBVV95cUxPaHJDdlVoQkEyR0ltejNlUXNyUk1WUHBINEFQbTIyVTd0cC14T0pNc2NZSEZoY2ppaEZBcjcwaG40QXlBLU9aT2doRlROZnBfMmh3TFpOM0VCVmthYkxvb0N4WEt4aUZBeWFoMFBHQWdlMjZtbWM5MHNseGtlN3hhTTQ1VWRRSnQwSnFaVHM3ckJ1YlZhWmdFaG12Y3h4TDU1NnQyRw?oc=5",
+      "date": "2026-09-15T14:56:38+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "mlLoc9MqSHKA",
       "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
       "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
@@ -146,18 +326,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "RDqd173g+AS3",
-      "title": "Why are AI researchers warning of AI’s threat to humanity? - Reuters",
-      "summary": "Why are AI researchers warning of AI’s threat to humanity?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
-      "date": "2026-09-15T14:34:05+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -293,6 +461,18 @@
       "articleLang": "en"
     },
     {
+      "id": "bGnAWFS5lxnt",
+      "title": "Donald Trump dismisses concerns about dangers of AI - DW.com",
+      "summary": "Donald Trump dismisses concerns about dangers of AI&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5",
+      "date": "2026-09-15T10:17:04+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "QbyPkHAI5i4d",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
@@ -302,18 +482,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "1T3Rh2El+CJK",
-      "title": "Louise Haigh: UK must heed warnings from AI experts",
-      "summary": "First secretary to set out benefits of AI to union conference while vowing government will take safety seriouslyUK politics live – latest updatesMinisters must “heed the warnings” from industry leader",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
-      "date": "2026-09-15T09:33:17+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -353,18 +521,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "OLCd8QaDmsh3",
-      "title": "South Korea to develop new security guidelines for autonomous AI agents - Reuters",
-      "summary": "South Korea to develop new security guidelines for autonomous AI agents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFdoNWxuLU04T2hOREtWVzlqTVBpRkozRDMxREJIM0FJQWx2SzBxVkFPWk1sZ0FFRFNudTZqQlNNd3NOSTJWaFNKQVhaeUtvalh5RjhsejBkbzBqRmozVXdvZ0tqN0x3azhLRElrc250Mk9zbUMtM2FUQmxzS0N6Smw4T0xkR2thRGlGNWtwVktwbTZQeWlGY0JpaUw5eWRSRXRsZUphVWFVYnhCN1lYYm9Id3FwbnpC?oc=5",
-      "date": "2026-09-15T07:13:39+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "fIR/uwQDHwa6",
       "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
       "summary": "President has dismissed anxieties over AI’s dangerous potential even as Democrats and some Republicans acknowledge risksAnalysis: Why a decade of doomsday warnings failed to slow AI raceDonald Trump i",
@@ -377,15 +533,15 @@
       "articleLang": "en"
     },
     {
-      "id": "bGnAWFS5lxnt",
-      "title": "Donald Trump dismisses concerns about dangers of AI - DW.com",
-      "summary": "Donald Trump dismisses concerns about dangers of AI&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5",
-      "date": "2026-09-15T04:17:04+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
+      "id": "OLCd8QaDmsh3",
+      "title": "South Korea to develop new security guidelines for autonomous AI agents - Reuters",
+      "summary": "South Korea to develop new security guidelines for autonomous AI agents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcFdoNWxuLU04T2hOREtWVzlqTVBpRkozRDMxREJIM0FJQWx2SzBxVkFPWk1sZ0FFRFNudTZqQlNNd3NOSTJWaFNKQVhaeUtvalh5RjhsejBkbzBqRmozVXdvZ0tqN0x3azhLRElrc250Mk9zbUMtM2FUQmxzS0N6Smw4T0xkR2thRGlGNWtwVktwbTZQeWlGY0JpaUw5eWRSRXRsZUphVWFVYnhCN1lYYm9Id3FwbnpC?oc=5",
+      "date": "2026-09-15T04:19:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -461,18 +617,6 @@
       "articleLang": "en"
     },
     {
-      "id": "EWgAvREjNj6m",
-      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’  AI-linked stocks tumbled on Monday after the bosses of Anthropic, OpenAI and SpaceX called for a s",
-      "link": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-      "date": "2026-09-14T22:10:52+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "YxtzCz+V2IrW",
       "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
       "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
@@ -482,6 +626,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "m0g40rSu0KDz",
+      "title": "Expanding power of AI alarms China’s intelligence agency - DW.com",
+      "summary": "Expanding power of AI alarms China’s intelligence agency&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkFOcXQyMlNlR2lLSUg3Ui1oMEdfS1ZiaW5wbWV6Y3gtOWxxaXA3ZFdkZ0Z5RXNyY2xBQXpPLTFva2tKS1Q5VWk5bV9INUdQS19HeFV6SFFYaEJ4UDhkNmpLTVVyYzg1NVhKeVU1ZDZmNDVrdTB0dXRSdFJOS1N2cVg5ODdpNjVpbUFsRmU0MGZJbFVlQm5n?oc=5",
+      "date": "2026-09-14T21:40:45+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -533,51 +689,15 @@
       "articleLang": "en"
     },
     {
-      "id": "v8Y9Lm954KJ2",
-      "title": "[Lim Woong] Growing old in the age of artificial intelligence - koreaherald.com",
-      "summary": "[Lim Woong] Growing old in the age of artificial intelligence&nbsp;&nbsp;koreaherald.com",
+      "id": "8WQb5jcFhcJv",
+      "title": "[Lim Woong] Growing old in the age of artificial intelligence - The Korea Herald",
+      "summary": "[Lim Woong] Growing old in the age of artificial intelligence&nbsp;&nbsp;The Korea Herald",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04TU1SVHNlTHB4STRTTFBPVHVmLWhkeWZ5TzJ4Zlp6cWVPS25iU0JGT3BLZEMzMHdqRV9iSzVzaUc2b1IxSVpwb2Iwa244Vk9UYU5QTjl6NA?oc=5",
       "date": "2026-09-14T20:30:00+00:00",
       "source": "Korea Herald Tech",
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "DHnwPrkazti1",
-      "title": "China dismisses AI ‘fearmongering’ as spy chief warns of threat to Communist party rule",
-      "summary": "Beijing hits back after Anthropic CEO calls for US to impede China’s progress in AIChina has dismissed what it said were “fearmongering” calls for the US to block Beijing’s AI industry, even as the to",
-      "link": "https://www.theguardian.com/world/2026/sep/14/china-dismisses-ai-fearmongering-as-spy-chief-warns-of-threat-to-communist-party-rule",
-      "date": "2026-09-14T19:04:10+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "f9MMKHKm7Gf/",
-      "title": "Europe must build own AI or risk getting cut off by US or China, says ECB’s Lagarde",
-      "summary": "Central bank chief says continent’s AI dependency could give trade partners unprecedented leverage in negotiationsEurope must develop its own AI technology and build more datacentres in order to nulli",
-      "link": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-      "date": "2026-09-14T18:41:13+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "dsywIntadwX7",
-      "title": "Microsoft proposes limits on its AI with code of conduct amid safety debate",
-      "summary": "Firm publishes AI guidelines with Microsoft AI CEO saying: ‘AI must be subordinate and always in service of people’Microsoft published a provisional “code of conduct” Monday to apply to the training o",
-      "link": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
-      "date": "2026-09-14T18:19:55+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -701,18 +821,6 @@
       "articleLang": "en"
     },
     {
-      "id": "KXo1fwN15eaz",
-      "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
-      "summary": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional fo",
-      "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-14T14:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "yb8Cj8+jSl1b",
       "title": "Trump dismisses AI safety alarm, says US already has tools to police industry - Reuters",
       "summary": "Trump dismisses AI safety alarm, says US already has tools to police industry&nbsp;&nbsp;Reuters",
@@ -821,10 +929,10 @@
       "articleLang": "en"
     },
     {
-      "id": "FS9UKvse290E",
-      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters",
-      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+      "id": "2c6GWyh59yGX",
+      "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
+      "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
       "date": "2026-09-14T07:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
@@ -833,11 +941,11 @@
       "articleLang": "en"
     },
     {
-      "id": "mDhgeaQCr54m",
-      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
-      "summary": "Trump says 'very negative forces' raising exaggerated concerns over AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
-      "date": "2026-09-14T05:59:02+00:00",
+      "id": "kwwjMSsEcXQx",
+      "title": "Breakingviews - COMMENTARY: AI boom offers strained construction a lasting fix - Reuters",
+      "summary": "Breakingviews - COMMENTARY: AI boom offers strained construction a lasting fix&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFFaR3FZRkNUd0UtcDJ1VkxfWGVLWlFlOXlRVHZ3b2diOW50UENtUzVjbVRRODNyT2U4ZngydHVTY1h2WUZLQnNaeVhuTFpmSkpseXVoNXJoZ3BrcDVNY1c0Rm51bmk2cFJVMUxMeWh0bmdDeE5EaGVQWGNWRTdQU3pVbWZPZTAxSHhyQUJnc1hfQzZpbHB1c05nSGtiTHVHaUpFdjRhdFphLTM3d3c?oc=5",
+      "date": "2026-09-14T05:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -893,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zR/VY91+tnys",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "date": "2026-09-13T19:40:15+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "gw+Zw0CGN0R7",
       "title": "Trump downplays AI development checks, says unwilling to cede edge to China - South China Morning Post",
       "summary": "Trump downplays AI development checks, says unwilling to cede edge to China&nbsp;&nbsp;South China Morning Post",
@@ -941,18 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0rVa8KnULM43",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safe",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "date": "2026-09-13T16:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "fwOn5t0q3J8z",
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
@@ -962,6 +1046,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "mDhgeaQCr54m",
+      "title": "Trump says 'very negative forces' raising exaggerated concerns over AI - Reuters",
+      "summary": "Trump says 'very negative forces' raising exaggerated concerns over AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObThfSFpBRlQ0d1ZsVDV4SnZQdlJkYWZnRTlQRlpKWmRud283dWJQclhHQUUxM1dHSzVJakIxVnVBc2pYU0R2TmdUT01PSkJiY3I3WFRHUGNZNUh5RVdtRGk4QUppT1hVV0dHbDdwdGQzc0ZyZlRxeTUzNjg1UUY3RHpiR0JUOUpCdlV4b2xNd01FaEluMXhZZTA4eV9Gd0gxYW02eWprV05hRUREYWVGZUZLcHZWZWpa?oc=5",
+      "date": "2026-09-13T14:28:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1094,6 +1190,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FS9UKvse290E",
+      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters",
+      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
+      "date": "2026-09-12T20:38:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1241,18 +1349,6 @@
       "articleLang": "en"
     },
     {
-      "id": "utdzhPZstnpE",
-      "title": "Roundtables: Could AI really kill us all?",
-      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Te",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "date": "2026-09-11T20:05:06+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "87dRgRcMb5DF",
       "title": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse - france24.com",
       "summary": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse&nbsp;&nbsp;france24.com",
@@ -1262,18 +1358,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "2c6GWyh59yGX",
-      "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
-      "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
-      "date": "2026-09-11T19:24:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1445,18 +1529,6 @@
       "articleLang": "en"
     },
     {
-      "id": "n8SeME4L26aC",
-      "title": "OpenAI Wants to Know if an AI Industry Slowdown Would Even Be Legal",
-      "summary": "AI leaders worry antitrust law could stand in the way of what they view as an increasingly urgent push to coordinate a slowdown in AI development.",
-      "link": "https://www.wired.com/story/openai-wants-to-know-if-an-ai-industry-slowdown-would-even-be-legal/",
-      "date": "2026-09-10T23:28:42+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "GbeZHa94TDvz",
       "title": "Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude - South China Morning Post",
       "summary": "Anthropic claims Moonshot, DeepSeek secretly diverted user requests to Claude&nbsp;&nbsp;South China Morning Post",
@@ -1490,18 +1562,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "TwvPBJk4uolh",
-      "title": "COMMENTARY: AI debt splurge is warping credit spreads - Reuters",
-      "summary": "COMMENTARY: AI debt splurge is warping credit spreads&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGJydjRSLXNUYlJuVWxDaFA5cFUxNW9TMDBTM2hiQ1BlOURvako3dUhqNzhvS1N6SXp6Z2VfT2xVdWozN0RYcHdJeEZvQkliamxTTUZOUnVSNHB2bm44NldKNEFtNG9pczdxaDYwTWlzelhMa0tMbUd2UjJObzlWSjlPczBlRzZiU3F4dXJPUm05UURrcUhHWGRKY2pDNXM4WUxkTlZ1QVpRVmlWRG1oTzRPc2JZYUhhM1RWSXdPdXZuUQ?oc=5",
-      "date": "2026-09-10T12:05:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1586,30 +1646,6 @@
       "key": "ars",
       "cls": "src-ars",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Maz36Qv4JXJY",
-      "title": "US firm shows how AI helped hijack WeChat account with just 1 unanswered call - South China Morning Post",
-      "summary": "US firm shows how AI helped hijack WeChat account with just 1 unanswered call&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0c3MWhBWWd3b3gtemdXWWZVTXpfSW9rQnNQUy1xck9HTklTaXRERW5VcE01QjFIUjhtb2llblVPWXluWVVtc3BESGIwdlY1Q2VRSElLU2pUOUw4UXp3aGdNekRNUkZCR1E5V3p5MGVCUTR1LWFFQXBMWjY3REtYc1I5M3pJRG9VTHYxaWZfZE1GOHd4OHQzWGJoNFgxSkFVYW84R3JnNEVWbnVWNFF5TUhpSXdwSDIw0gG4AUFVX3lxTE5rR2w1ZTJHYllyZThmNEFEZVhpVXFETkxpRXBQSDYtY2dGVFk0aE5uY04yMnNlTldzRFlMeDRMZlU0cFp5bHVHYXNuV3llRy05TzJDQ0xkbmRpOHc1d3I4VFZsSlc1MzNsTU1tMndmdWVXYVJIaUlNSVQ5Z2JYZFVqWGpycmFEc29iMG96ei1pWVY5NExOckxtb0NZZFRBdFlFLW56TXlROHpUUlc0blRudkozbi1HajE?oc=5",
-      "date": "2026-09-09T08:01:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "/KJ3YDx1RR9S",
-      "title": "Truth or Fake - Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean - france24.com",
-      "summary": "Truth or Fake - Trump posts AI map showing US 'takeover' of North America, Iceland and Caribbean&nbsp;&nbsp;france24.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkJzcDdGYTV3UUVhcXQ5N01GdVFwd1dmWXBmOTVkTHZ1VnZhalZsTGdTSDRzU3l4Rm5YcVBkZHlOd1RsT19lWlNSbGpDMHZCcEpyRERabExlcnE4cExvd0RmMC01cWVkbjB4X3Awa1p6QWRreGFNb0JnRlIxWFlTaGFJWGgwUjhaRzliZE9iWldVd3pRZTJuVG8yNE9OTEdNbGx4WWE4bnBYN2s?oc=5",
-      "date": "2026-09-08T19:43:23+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
