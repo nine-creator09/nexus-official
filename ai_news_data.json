@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-15T20:53:03.714951+00:00",
-  "articleCount": 132,
+  "generated": "2026-09-16T03:26:48.280295+00:00",
+  "articleCount": 139,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -28,19 +28,19 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 2
+      "count": 4
     },
     "bbc": {
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
-      "count": 9
+      "count": 10
     },
     "dw": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 26
+      "count": 25
     },
     "reuters": {
       "status": "ok",
-      "count": 25
+      "count": 26
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,186 @@
     }
   },
   "articles": [
+    {
+      "id": "yO5xB3fyRbjX",
+      "title": "Is Labor going to roll over for big tech – or will it protect the rights of everyday Australians? | Holly Rankin",
+      "summary": "Every family photo you ever posted would be fair game for AI companies unless you choose to opt outLeaked documents from a government proposal show that the Albanese government is considering reversin",
+      "link": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/16/labor-ai-big-tech-australia-rights-consent-copyright-law-opt-out",
+      "date": "2026-09-16T02:24:48+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "5B8iWqrqYboZ",
+      "title": "Amid AI debates, China catches US - The Korea Herald",
+      "summary": "Amid AI debates, China catches US&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44bEgtdDNGaXlWbE92V3lUTWRNbk16N0ZvOUJoelpxS093NmpYQTNOZkpiWnZGTlBlbnlsZWZFV0JXVXpWcXVHUGgwcTRvdUhEaTBDcDBPQQ?oc=5",
+      "date": "2026-09-16T02:12:39+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "m9C1KNJ7CkEa",
+      "title": "AI leaders call for regulations, Trump dismisses 'hoaxes' - DW.com",
+      "summary": "AI leaders call for regulations, Trump dismisses 'hoaxes'&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2NBYndVcDFlRXoyRW15cERrbXJtYjVDNC1Kdi1QVmk1YXdoSmtfdjhkM0d6TWFGeGR0ZFJIdTF6bFRWOHlMQ3JmSGMtM1BIZzIwN2hPaTVIeGpmUUFsRlhwdXp4b0pQRGZqaVI5dU1vUXFRck9hcDJ0TGx3ZERRSG42QlFkYl9VNzNPTGhQN2PSAZABQVVfeXFMTjU3ZGsyaWpEdHI1NXpaT0xWaUVLdFBkRlI5eDF6T1RoQW5fRG5FYlhzZU9obXBHbi1hMWR4OFVwOFBGeEgwS3YzLWxZLTVKMmt0Zmp6bnJUR1BtaUJ5VmVHZUl6LWZhVlBsQjJvQ0ZyN3dHdHVDcEpOZDdRaUt0dHIyaWZqTHctN01QODBKRFZH?oc=5",
+      "date": "2026-09-16T02:06:47+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "oNF6N1TEaXff",
+      "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開　推論強化の上位版も",
+      "summary": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001524/",
+      "date": "2026-09-16T01:16:42+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "Xy7rFt69V8nw",
+      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-16T00:59:20+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Yz37TJ9ZaQqX",
+      "title": "Anthropic CEO renews call for AI slowdown as Nvidia’s urges acceleration",
+      "summary": "At San Francisco conference, OpenAI chief Sam Altman calls for more rigorous security measuresAnthropic’s CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slo",
+      "link": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
+      "date": "2026-09-16T00:21:18+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "nqihnw7DW59n",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "date": "2026-09-16T00:20:39+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fV6AhABBHE59",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "date": "2026-09-15T23:34:25+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "oy0akdbHJ3uL",
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-15T23:27:17+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TNSkqck+DoOB",
+      "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports - Reuters",
+      "summary": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5",
+      "date": "2026-09-15T22:48:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "BJ8nOL8WuWoD",
+      "title": "Why the real AI apocalypse is already here – Stateside with Kai and Carter",
+      "summary": "A former Anthropic researcher’s apocalyptic declaration about artificial intelligence has led to a global panic that the technology might be the end of us all. At an event in Washington today to warn",
+      "link": "https://www.theguardian.com/us-news/video/2026/sep/15/why-the-real-ai-apocalypse-is-already-here-stateside-with-kai-and-carter",
+      "date": "2026-09-15T22:39:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "IIZJfF6WCegr",
+      "title": "OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道",
+      "summary": "OpenAIが、AnthropicやGoogle DeepMindとAIの安全性確保に向けて協議を進めているとBloombergが報じた。反トラスト法の適用除外を巡っては米当局の警戒や議会での法案提出など議論が活発化。一方、NVIDIAのフアンCEOは市場原理で安全性と迅速な開発は両立可能として政府の介入に否定的な見方を示した。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/16/2000001522/",
+      "date": "2026-09-15T22:13:20+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "4K68ws0ZRkcr",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "date": "2026-09-15T21:47:38+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XOc9T4O/GNDH",
+      "title": "Labor accused of throwing creatives ‘under the bus’ with proposal to ease copyright protections for AI giants",
+      "summary": "Compromise revealed as senior personnel from OpenAI, creator of ChatGPT, meets Albanese ministersFollow our Australia news live blog for latest updatesGet our new political email, free app or daily ne",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/16/pocock-says-labor-easing-copyright-protections-for-ai-datacentre-investment-would-throw-creatives-under-the-bus",
+      "date": "2026-09-15T21:29:11+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "nDWzJNYsKJyh",
+      "title": "Spanish data watchdog publicises first AI agent-linked data breach report - Reuters",
+      "summary": "Spanish data watchdog publicises first AI agent-linked data breach report&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLUtrSDJveHRTZDZNeXRVeHZvdjh0TWl1TUc2ZE1lMHpsb0VXWDRvbmVDUUNoSUJ4c3VvTDFQQi11RWpCckRvTDZjM0YtdFRfM3FpYVZjSXp1eXU3TzZKZGFmcElqdWxxMXpsYWNwRV9VSGxCV2FXSS11VFFWdE95eHd2NUw0SlM2cl9Tc1VJdmktLU1VVGtnbDZ0dmluMENkajVNZU1zNFFUbXFtc3A0UXAwSnF3azhUMmc?oc=5",
+      "date": "2026-09-15T21:07:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "VVuHNm6TsxXY",
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
@@ -175,7 +355,7 @@
     {
       "id": "1T3Rh2El+CJK",
       "title": "Louise Haigh: UK must heed warnings from AI experts",
-      "summary": "First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulationMinisters must “heed the warnings” from industry leaders about the threat posed by A",
+      "summary": "First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulation Ministers must “heed the warnings” from industry leaders about the threat posed by",
       "link": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
       "date": "2026-09-15T17:43:37+00:00",
       "source": "The Guardian AI",
@@ -233,9 +413,21 @@
       "articleLang": "en"
     },
     {
+      "id": "HlFWKvQCT+b5",
+      "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise - France 24",
+      "summary": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc296M0FwQXpjNXhFRTFabWdOZU5vMWFLdEZ0ZGFuX0Z5cXJESENRYWdROUh0X3VJWlhScmtub0tXclU5aHhZYVZxSDIyY1duQUF5YnBxdXFCNzFnYUZMNXUxRnRwUEV1bDBMd0N6Umwxei0wbjkwVDZuNmJfVmh1MGlHd3RNeHBEXzVHUm9RWkg1NjFBQlFfRFM2cXNIanBrNDZNRl82RzVhQlRBUl9CeFlnU1R0THNqakdMZEdNS0dWYVN1UDhr?oc=5",
+      "date": "2026-09-15T17:03:25+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "Ib8weZnl+s2C",
       "title": "AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon",
-      "summary": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating headaches for monitoring and oversightAI models have begun communicating in a strange new version of English that rea",
+      "summary": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversightAI models have begun communicating in a strange new version of English that reads",
       "link": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
       "date": "2026-09-15T16:00:54+00:00",
       "source": "The Guardian AI",
@@ -271,7 +463,7 @@
     {
       "id": "9b2N8OYIHmI8",
       "title": "Datacentre giant accused of using AI while lobbying for Victorian minister’s support for hyperscale factory",
-      "summary": "Exclusive: Correspondence requests state MP Melissa Horne to lobby on NextDC’s behalf – but contains alleged AI-created errorsGet our breaking news email, free app or daily news podcastThe Victorian j",
+      "summary": "Exclusive: Correspondence requests state MP Melissa Horne to lobby on NextDC’s behalf – but contains alleged AI-created errorsFollow our Australia news live blog for latest updatesGet our breaking new",
       "link": "https://www.theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory",
       "date": "2026-09-15T15:00:54+00:00",
       "source": "The Guardian AI",
@@ -302,18 +494,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ThUypseKLmpH",
-      "title": "Why AI researchers warn humanity could face extinction - DW.com",
-      "summary": "Why AI researchers warn humanity could face extinction&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVxWHZYTGlqRk9uaE1tUFRIUi1UWGpYQW4tZXFZMUxFamlHZVlqNW54Qy1UXzVoZ005N3lUQzZXcUxic19abi01RmZqYVJxQ0dBdHVjb1NzRHJ4eUZwMHVNTkx1OU9laUNmcThXMDlOdjFWUm5PM21FZEpLVld1aVRVdkp4S0dGMHQ4M3E3UGNUTTNJa2l4RVd4MDJuZGRKa2ZpQ9IBpAFBVV95cUxPaHJDdlVoQkEyR0ltejNlUXNyUk1WUHBINEFQbTIyVTd0cC14T0pNc2NZSEZoY2ppaEZBcjcwaG40QXlBLU9aT2doRlROZnBfMmh3TFpOM0VCVmthYkxvb0N4WEt4aUZBeWFoMFBHQWdlMjZtbWM5MHNseGtlN3hhTTQ1VWRRSnQwSnFaVHM3ckJ1YlZhWmdFaG12Y3h4TDU1NnQyRw?oc=5",
-      "date": "2026-09-15T14:56:38+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -461,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bGnAWFS5lxnt",
-      "title": "Donald Trump dismisses concerns about dangers of AI - DW.com",
-      "summary": "Donald Trump dismisses concerns about dangers of AI&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5",
-      "date": "2026-09-15T10:17:04+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "QbyPkHAI5i4d",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
@@ -485,23 +653,23 @@
       "articleLang": "en"
     },
     {
+      "id": "ThUypseKLmpH",
+      "title": "Why AI researchers warn humanity could face extinction - DW.com",
+      "summary": "Why AI researchers warn humanity could face extinction&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVxWHZYTGlqRk9uaE1tUFRIUi1UWGpYQW4tZXFZMUxFamlHZVlqNW54Qy1UXzVoZ005N3lUQzZXcUxic19abi01RmZqYVJxQ0dBdHVjb1NzRHJ4eUZwMHVNTkx1OU9laUNmcThXMDlOdjFWUm5PM21FZEpLVld1aVRVdkp4S0dGMHQ4M3E3UGNUTTNJa2l4RVd4MDJuZGRKa2ZpQ9IBpAFBVV95cUxPaHJDdlVoQkEyR0ltejNlUXNyUk1WUHBINEFQbTIyVTd0cC14T0pNc2NZSEZoY2ppaEZBcjcwaG40QXlBLU9aT2doRlROZnBfMmh3TFpOM0VCVmthYkxvb0N4WEt4aUZBeWFoMFBHQWdlMjZtbWM5MHNseGtlN3hhTTQ1VWRRSnQwSnFaVHM3ckJ1YlZhWmdFaG12Y3h4TDU1NnQyRw?oc=5",
+      "date": "2026-09-15T08:33:20+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "xNwTGA5yqMdS",
       "title": "AI safety requires more than just slowing our pace | Stuart Russell",
       "summary": "Safety requirements are non-negotiable. They depend on meeting concrete goals, not just adjusting a timelineIt has been a week of high drama in AI, precipitated by the resignation of the AI safety res",
       "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
       "date": "2026-09-15T08:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "hycF3Byp7oFd",
-      "title": "Why a decade of doomsday warnings failed to slow the AI race",
-      "summary": "From Stephen Hawking to Jacob Coxon’s viral Anthropic resignation, fears that AI could threaten humanity have shaken the industry without stopping its pursuit Before an Anthropic researcher resigned a",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/ai-doomsday-warnings",
-      "date": "2026-09-15T08:00:30+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -521,15 +689,15 @@
       "articleLang": "ja"
     },
     {
-      "id": "fIR/uwQDHwa6",
-      "title": "Trump facing AI backlash in Congress as push for guardrails intensifies",
-      "summary": "President has dismissed anxieties over AI’s dangerous potential even as Democrats and some Republicans acknowledge risksAnalysis: Why a decade of doomsday warnings failed to slow AI raceDonald Trump i",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/trump-ai-guardrails-democrats-republicans",
-      "date": "2026-09-15T06:39:40+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "UJGvL1yZ3g3i",
+      "title": "Investors nervous about AI spending slowdown after industry warnings - Reuters",
+      "summary": "Investors nervous about AI spending slowdown after industry warnings&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSzVYeGFhZVhKUVVIZjBFWEF4ck1qZ2p2cUxaYmNMTzkycW9TUXJsbUFXOV80RF9Kb1BQamFzejg0enZFaHRlRGdUaGgzeUpUUGpsbW1BNnNJVWFOanVmZFJDMjBQYWYtT0hPSG5MUUlTYlZweWN5VDFyWndKWl9WNVBLWFFHUVl6dkJhem5EdGduY1ZpcjhuVjd6NDF1TXN5T1REdUZrYUhrajQ1aXdvd2EzcUNMTFBidmVJR0FtLTRWZw?oc=5",
+      "date": "2026-09-15T05:03:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -557,18 +725,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QLunP1xjAHOM",
-      "title": "AI isn’t going to end humanity ... right? - podcast",
-      "summary": "A series of figures in the tech world have been warning about – and even resigning over – the existential threat posed by artificial intelligence. How worried should we be? Today in Focus host Annie K",
-      "link": "https://www.theguardian.com/technology/audio/2026/sep/15/ai-isnt-going-to-end-humanity-right-full-story-podcast",
-      "date": "2026-09-15T04:00:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "GVGwPpumJjew",
       "title": "推論領域への野心強めるNVIDIA　韓国新興と協議か",
       "summary": "NVIDIAが、韓国のスタートアップで推論用NPU（Neural Processing Unit）に強みを持つRebellionsと協議を行っているという。技術提携のみならず、出資や買収も視野に入れているとされる。",
@@ -581,9 +737,9 @@
       "articleLang": "ja"
     },
     {
-      "id": "xJSxyxKVgqtV",
-      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’ - france24.com",
-      "summary": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’&nbsp;&nbsp;france24.com",
+      "id": "IB6CTDrlO/xA",
+      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’ - France 24",
+      "summary": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXFaTkpuX29tVFBkd3ZCWHp5akNwdVdPc25HRmxXdVdpS0lVcjNKdmlzbzl1enZjVThvb0ZOclo3VUJRWC0zMmc3dk1wZ0p6TVN1eDdsMDB5WlpwOTAybXdmMThaZkhOelkzeVMzc0tUaGtqQXB2RUdILTl2MWNIM1RFelZNSnlwWGViTGxCdjdMVmpKU1hPZF83Vjd3WXFvSGFIYkdDMGZpUjB4Ymg5UFdSd2s0dEFMOFBB?oc=5",
       "date": "2026-09-15T01:05:38+00:00",
       "source": "France24 Tech",
@@ -629,18 +785,6 @@
       "articleLang": "en"
     },
     {
-      "id": "m0g40rSu0KDz",
-      "title": "Expanding power of AI alarms China’s intelligence agency - DW.com",
-      "summary": "Expanding power of AI alarms China’s intelligence agency&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYkFOcXQyMlNlR2lLSUg3Ui1oMEdfS1ZiaW5wbWV6Y3gtOWxxaXA3ZFdkZ0Z5RXNyY2xBQXpPLTFva2tKS1Q5VWk5bV9INUdQS19HeFV6SFFYaEJ4UDhkNmpLTVVyYzg1NVhKeVU1ZDZmNDVrdTB0dXRSdFJOS1N2cVg5ODdpNjVpbUFsRmU0MGZJbFVlQm5n?oc=5",
-      "date": "2026-09-14T21:40:45+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "DFbDAiRBFSRV",
       "title": "Opinion | The classic Chinese parenting playbook won’t survive the AI age - South China Morning Post",
       "summary": "Opinion | The classic Chinese parenting playbook won’t survive the AI age&nbsp;&nbsp;South China Morning Post",
@@ -674,6 +818,18 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZJSgnjR9Fnzq",
+      "title": "Lawyer for State Farm fined over AI hallucination in Los Angeles lawsuit - Reuters",
+      "summary": "Lawyer for State Farm fined over AI hallucination in Los Angeles lawsuit&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzhkYi1md1B1bFpWWFZNMXBPZHJIYTZKZE9xWlliVjJkc0F1WkFENmpmb1R3NzlKa05NbFdVc0dlcmZRNUxfbjg0TWhZT1dRcGFXNkJ2Wjh3UUozZkpLQ1dBUlBtaDczdVdtZVFNVWV3VzNHTkdzR1ROUVFaV0RUbGR6dm9XNlhXbFRZZmkyRWhCelNFYlA3Um9QaFAyRmlNTHdYV3Y5Q0tKT0V5dHBoWW11QTRpTW9sSEE?oc=5",
+      "date": "2026-09-14T20:56:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -722,6 +878,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bGnAWFS5lxnt",
+      "title": "Donald Trump dismisses concerns about dangers of AI - DW.com",
+      "summary": "Donald Trump dismisses concerns about dangers of AI&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5",
+      "date": "2026-09-14T16:20:45+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -794,18 +962,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "1irQ3KbEK4h7",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive s",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "date": "2026-09-14T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -922,18 +1078,6 @@
       "summary": "How China is preparing for the risk of AI escaping human control&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM1FUWERnbmM3dlBucFJQMmJmSEp5UVlXUVp0UEI0eU9aV1VzSnVoX3pNZUtWcFZsXzAtNUVXQmdOakFVNUYzZWVwSm9laXBTU2pvRXVaendNSFU3XzJmeGxrdDlKN0N3OUwxd1VSSEhfcWVTQTRNMV9hRnZkVk9WaUowMmtPdC1HTmhIOG9BRHpucDZHTk1KTnVLdXRfU1NVclVibTlCU1hjQQ?oc=5",
       "date": "2026-09-14T08:57:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "2c6GWyh59yGX",
-      "title": "How Anthropic says Claude was used for weapons, spying and cyber operations - Reuters",
-      "summary": "How Anthropic says Claude was used for weapons, spying and cyber operations&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2o0V3htdFZCT1R5VFoxR0JHNDk3QzRxOHdlYXdzdUE4c2hXbUI2WFVLUmM0RFRwN2V2TUdUVlFEcy0tY0Z6eEVySHhaN213M29CdTIwYmJyNjBqU1BkYUhOQVpVYTlXam9jbnNvTV9LVS0zd2xodVBvdVlsRThtcTVCeDExdGRKYnA5S3o0bjllMk1WMFc1NXVCYS1JSFNCNkFfX09ZY1NscGNORFEzTW0xZFc?oc=5",
-      "date": "2026-09-14T07:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1109,9 +1253,9 @@
       "articleLang": "en"
     },
     {
-      "id": "5El4VWgKJ25x",
-      "title": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns - france24.com",
-      "summary": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns&nbsp;&nbsp;france24.com",
+      "id": "syj1CUBToQAp",
+      "title": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns - France 24",
+      "summary": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakRYNlpOVGprMDRlZmpyVExnT0NWMG1EaHhad0hWWHU5NUU4ZExZQzNFWUduTVhldFhSNzVyRnMtdFRiN29la1gydDdjemUzU256MldqNkVSQ0RxcWhDR0t0cUdOQmQtY2Q5SUVGTHNEWDliYUVxMnlXSl9TdEVDZzZCMVMySFVvUUpDSFNYYXVKOV9LRWtBYTRlcmpYY1VmaEwxM3hPOFJGb1NWUW55MllXdGE5YldUSGZHSlBZa3B5WW9D?oc=5",
       "date": "2026-09-13T08:23:11+00:00",
       "source": "France24 Tech",
@@ -1157,6 +1301,18 @@
       "articleLang": "en"
     },
     {
+      "id": "gRUzqMeTsGbZ",
+      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
+      "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
+      "date": "2026-09-12T23:24:06+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "Vl/LeMtVX6J0",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
@@ -1193,51 +1349,15 @@
       "articleLang": "en"
     },
     {
-      "id": "FS9UKvse290E",
-      "title": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable' - Reuters",
-      "summary": "OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkNHUFFrUlZCVWVKZ2dpVVkxSzBmcy16aFFHVTJDV25PZ0YzMjBLVlFQZ0pJcU5EVWJlUW13azNiV1BwOENLcTFVOFpZYVVlT0haaXI2ZkFaOUZxTGp2eE1kaGZCb2pXV1dBQy1XcjQ2NmNXMFA3Nnk5ZnA3MU5wWGZCV0ktTWZad2o0LVBmeW1BclBndWRfWEJScFduQklEZUFEX0NteFBhNDYxRG5keUdiUml3dVYz?oc=5",
-      "date": "2026-09-12T20:38:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "LyHRgc5LA1U0",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "date": "2026-09-12T16:23:40+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "TBULatXh32DE",
-      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree - france24.com",
-      "summary": "Anthropic boss calls for AI slowdown, Altman and Musk agree&nbsp;&nbsp;france24.com",
+      "id": "gHkMdyOnyv2w",
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree - France 24",
+      "summary": "Anthropic boss calls for AI slowdown, Altman and Musk agree&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajlTSF9uYmtwcFR4REFHWlRqbDMtdGJPX3JfMl9VNk5od3BIdWtndFpGdEZ3bDl4Vmh4b2hCOFlPNGhwSWxTRWVVVG5sYTdaUzdhbndsMEJRYkFUSV80bjAxUjdtd1pJc290YXBQcDRjdHZmc0hVenltLWhOMjJ3aUx6ZWNKc0V6TDltRGpuTnhrT09zZ2V1N3FQbUJudEo1NWZwVDBucFIxQQ?oc=5",
       "date": "2026-09-12T15:29:10+00:00",
       "source": "France24 Tech",
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "gRUzqMeTsGbZ",
-      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
-      "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
-      "date": "2026-09-12T14:23:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1265,21 +1385,9 @@
       "articleLang": "en"
     },
     {
-      "id": "nzUXZswkuvs2",
-      "title": "AI tools are making ‘experts’ out of stock traders in mainland China, Hong Kong - South China Morning Post",
-      "summary": "AI tools are making ‘experts’ out of stock traders in mainland China, Hong Kong&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGwzYjhERTl4eVJhekE3c1UyOVViRFZxQ3plYVNyeXFpcHVhaXhnemVlYzVLMW5VdjAzemdKU19tUHA3bkNoNXhhMFZYRVR0Vk5UUHNFMzFEdkZ4NzRXQU45cFBhM0FFV0pfakpFOTVpUjlJRGdYNnNra3FCWlNpV2w5M0JucmpfLWNDMWtRRV91VkZ4SjhBdXpYaV8zQmFwUzViV3lRR2ZpaDBGUHlVMlpKYWJOMXdEZ282b014ZmpKbFhieFHSAcYBQVVfeXFMT0VhZkg2by1Ibk94SnhPaGpYVGdyekdtV1NLMjloc3ZNbTFqdHE2dEpVU2NjYks0bkdwc08tNno1OXRjU2V0cTNyLXhoVkEtejRreVRhUUNqUk9ONTlRSTI5b3FLQ2FfZWZybmlONnd2dmhSVTRfbVJyODhyaXZXR21MUVg3VFZva0JkYllGbldLZHF3cElZX3dRbmllamVmX3Y5di1KM0p5ZXQ3R2pZVklaWFVLcGxXSWZiZmFUVWRESF9HYWJR?oc=5",
-      "date": "2026-09-12T08:00:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "1GEtOAahSrvI",
-      "title": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal - france24.com",
-      "summary": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal&nbsp;&nbsp;france24.com",
+      "id": "FDMRoigHgPLF",
+      "title": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal - France 24",
+      "summary": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW1QY3ZuMk00VDYxTnNySEpqWS1UWlRXeThFcXJ4eTYxRWlXVTdNdmJ0UXFYRFdLNlNDTjlHVnpoclllMnJWamVUb3lWSnpxWWdBbGFNWnJxZmRnX2xCSm5JYUlEanI0aU5Oc3g1U0g5TFUtaDZ0R1RDOEIzMFRNbDVBLTl0bGtXZGZXdzBrRnZsSVJDNVZzQm80dTdDeG9JaTRzMnk1Mnc5VGdqZzZadVl6ZXg?oc=5",
       "date": "2026-09-12T05:15:12+00:00",
       "source": "France24 Tech",
@@ -1301,9 +1409,9 @@
       "articleLang": "en"
     },
     {
-      "id": "IwociHWNdHP+",
-      "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan - france24.com",
-      "summary": "Anthropic says UAE-linked AI op targeted UN experts over Sudan&nbsp;&nbsp;france24.com",
+      "id": "h15tX9GoTiRA",
+      "title": "Anthropic says UAE-linked AI op targeted UN experts over Sudan - France 24",
+      "summary": "Anthropic says UAE-linked AI op targeted UN experts over Sudan&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPblBMemdFMTJOdDVjZTFfX2hSRHJPYVBqcU90aERwREJHSEZhRFBpTFVGbzJFSTdfaU5CQzdKckhlUG55bVNzNnlLUWVKU1R5bUN6czZSSkFqNzRLdktoLXlDNi1tWXZ5X0lBekMyWDNWMnI2WFAxZHQ2RU1nSzFZeU9LS1hkb0hKS2JVSExJVkgwYVJ4YjNLaDhzRXo0Q2NxbTdyQWU4TldraTViTEE?oc=5",
       "date": "2026-09-11T22:41:00+00:00",
       "source": "France24 Tech",
@@ -1349,9 +1457,9 @@
       "articleLang": "en"
     },
     {
-      "id": "87dRgRcMb5DF",
-      "title": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse - france24.com",
-      "summary": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse&nbsp;&nbsp;france24.com",
+      "id": "iQ/v3rvvU8dG",
+      "title": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse - France 24",
+      "summary": "Weapons, spyware and AI scams: Anthropic exposes Claude misuse&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY2Fhb3hveG5yeU95NGk2YmR4eVQ0R2RPSDBqMWd2cDBpRjNnVEZfRzZLYlU1LTdwS25fa1VzWXBaYXVXbGo2Yzh2TGZEekF1eWpDSWl0Vl9rS3QtUHhIbWNNUExkaVoydFg4YmdJdWRKaXJuanJpV0hTQlZHUGRKYmhQYUxRZFpveUVDMGhEZG5pNFl1bjJwenZmYkZ1R2RNSERZZUU0VWlfdVE?oc=5",
       "date": "2026-09-11T19:51:13+00:00",
       "source": "France24 Tech",
@@ -1370,18 +1478,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ubESoWn813dx",
-      "title": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows - Reuters",
-      "summary": "China AI developer Z.AI launches $5 billion Hong Kong share, convertible bond sales, term sheet shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbHdhM2RYWkhIdGYxdFJBLVFQSzRDZWRNeUxsaUU1Tldjd3R0WlZaRXY1Szlmd0Z0dU5SVTdiT0pibjJXSWU2NU50MjY4S08tcTZETF9iVUoyc0s0eFlZM3YtWXhtdm5yaW45S2N2WDV4aDNwN0N2bEpjTlBvQl9NdUc1dGE0aFN0VkJHd2VKMGk1em1qYVVMcjNGRG9xVXlrS2F2TGt1MXVaOWpIZDZaOGhWMm5POGNRWUh0QlA1eVNLaFhyTGdDcDIwa2Z1cFJa?oc=5",
-      "date": "2026-09-11T16:51:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1445,9 +1541,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Su/TslFB1TcA",
-      "title": "Doomsday tech: could AI really kill us all? - france24.com",
-      "summary": "Doomsday tech: could AI really kill us all?&nbsp;&nbsp;france24.com",
+      "id": "5CvmyZnsYmFO",
+      "title": "Doomsday tech: could AI really kill us all? - France 24",
+      "summary": "Doomsday tech: could AI really kill us all?&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNTF5S3R5R1d3M2p4dnVob0ZjV2dQY05QcWpRR2h1NEVNb3VtbklrNXNzWGZWd1R3dC16WDB5LTBkWGowX0loTU40RlQxLWY3MWNUbmJ4MmVZanphdTJWXzdiRENKVlVDYUZtdlFFajRzclRraWpCSUJpVGhEN1JvNHNEalYwQUZXTnl3UUJvOUhUQQ?oc=5",
       "date": "2026-09-11T09:29:13+00:00",
       "source": "France24 Tech",
@@ -1481,18 +1577,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JPs+iDfgqgbE",
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-11T08:15:25+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "79OuVNHc5WvL",
       "title": "‘Freaked out’: why AI safety fears are spiking ahead of Xi-Trump summit - South China Morning Post",
       "summary": "‘Freaked out’: why AI safety fears are spiking ahead of Xi-Trump summit&nbsp;&nbsp;South China Morning Post",
@@ -1505,9 +1589,9 @@
       "articleLang": "en"
     },
     {
-      "id": "NYQbJ1h4qAvO",
-      "title": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says - france24.com",
-      "summary": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says&nbsp;&nbsp;france24.com",
+      "id": "Nt6TNSf8AwEi",
+      "title": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says - France 24",
+      "summary": "China, Iran among countries using AI to spy on dissidents and minorities, Anthropic says&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdFFfYTM0VXZQbWZKZ29DN2EzT3NYTjlQTGljLUNQQ01ET2J0dlpfaHFFRHc4VmsxeFZLQUFhQnNPdWdJRmE2U2I5WjRsUkROVl81YVR6cjhieC0zVUJ6M0RlaW9KaW5mcFh6cnp0QTlzX0VOTjBJc1Q3Zkd4UC0tMjU5MWQ3VURYY1dfVVhDa3hQNGF6UmQ2Q0lseFk3RExFVzZKTjZpZFVLQlpaUi1ZUnI1R2ZpaGxJ?oc=5",
       "date": "2026-09-11T07:35:20+00:00",
       "source": "France24 Tech",
@@ -1541,9 +1625,9 @@
       "articleLang": "en"
     },
     {
-      "id": "P2wrCZQ4iIeI",
-      "title": "Israeli-made film about use of AI for mass killing in Gaza gets record ovation at Venice premiere - france24.com",
-      "summary": "Israeli-made film about use of AI for mass killing in Gaza gets record ovation at Venice premiere&nbsp;&nbsp;france24.com",
+      "id": "/H+lMxBfyyvk",
+      "title": "Israeli-made film about use of AI for mass killing in Gaza gets record ovation at Venice premiere - France 24",
+      "summary": "Israeli-made film about use of AI for mass killing in Gaza gets record ovation at Venice premiere&nbsp;&nbsp;France 24",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQzdueGhPYVJIM3JSUlU3Y0NuOV9fanRQMV9hN1BmMHRiNl90RjZvczJrN0x6RUVoTnVrZUNYUXVTYmotdTJrZmo4bVhRcjhBdEprVzc4NC1pM2xMZlduRFBNdWNfMmxMMlZHd3pjemVPWHlJUW9WT0hzbzNESHRndDJHN3FCMzlFanhTU3paZTU3d05PSWJkaDB3akUwME1wQTNBSEZFTWFGc2Rzdi1IQjhzVVdacHRNZTBQRVJhdWxjampVZFBpZVZ1TTRYWGltWWc?oc=5",
       "date": "2026-09-10T18:19:12+00:00",
       "source": "France24 Tech",
