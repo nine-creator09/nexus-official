@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-16T03:26:48.280295+00:00",
-  "articleCount": 139,
+  "generated": "2026-09-16T10:53:03.413070+00:00",
+  "articleCount": 144,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "mit": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
-      "count": 10
+      "count": 11
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 25
+      "count": 26
     },
     "reuters": {
       "status": "ok",
-      "count": 26
+      "count": 29
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,140 @@
   },
   "articles": [
     {
-      "id": "yO5xB3fyRbjX",
-      "title": "Is Labor going to roll over for big tech – or will it protect the rights of everyday Australians? | Holly Rankin",
+      "id": "F82ZM1nAGPuW",
+      "title": "‘If you’re building Frankenstein, stop’: JD Vance dismisses calls for AI regulation",
+      "summary": "US vice-president’s comments come as former Anthropic researcher revisits recent claim AI could destroy humanityThe US vice-president has dismissed calls for global regulation of AI safety risks, tell",
+      "link": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
+      "date": "2026-09-16T10:42:07+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ea7NlfKaXetu",
+      "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
+      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-16T10:02:05+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "jhH4dt8i78jR",
+      "title": "The US government is failing Americans on AI | Shakeel Hashim",
+      "summary": "Trump and Republicans want companies to regulate themselves. It’s a dereliction of duty that will make AI less safeIt is hard to get Sam Altman, Elon Musk and Dario Amodei to agree on much. But over t",
+      "link": "https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
+      "date": "2026-09-16T10:00:18+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "AvU07N9n9Zrh",
+      "title": "The Spin | Robots bowling the perfect doosra are some way off but AI is already reshaping cricket",
+      "summary": "Artificial intelligence is not replacing the player, coach or analyst, but it is certainly allowing them to do moreDaniel Kokotajlo, a former researcher at OpenAI, warned last week that it was possibl",
+      "link": "https://www.theguardian.com/sport/2026/sep/16/robots-bowling-the-perfect-doosra-are-some-way-off-but-ai-is-already-reshaping-cricket-in-myriad-ways",
+      "date": "2026-09-16T09:30:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "WbT7eKipDrkh",
+      "title": "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+      "summary": "The US and China agree that advanced AI poses serious risks. But Beijing is deeply skeptical of a deal that prioritizes keeping US companies ahead.",
+      "link": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "date": "2026-09-16T09:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "uufR5UH77paf",
+      "title": "‘Pacing’ won’t eliminate the risk of AI doom. Here’s what could | David Krueger",
+      "summary": "The stark reality is this: we don’t know how to maintain control of these systems. But there are actions we can takeWith Jacob Coxon’s resignation from Anthropic, we have reached the AI risk tipping p",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/16/ai-safety-plan-dario-amodei-anthropic",
+      "date": "2026-09-16T09:00:16+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "EXsCYuGAkJBq",
+      "title": "EU's von der Leyen to invite frontier labs for talks on tackling AI risks - Reuters",
+      "summary": "EU's von der Leyen to invite frontier labs for talks on tackling AI risks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS180ZGtUQWlNN0dCTTlRWldNangxVFpwTXl6alNEdzNwSkZXeXRMWVQ1eDhub21tRndaMFVTbEZDZGt0THhLYlpYWnp4UnJYcUJkdmJXRWl1Q2pBR1U3ZENjNEw4VmRIVEVRZTZJVDVXOGFPUmpTcTNKUW1tNUFVOG4xSnY3dDRYN0NEeng1aXROWEdHc0FfTkZ0eEhPZ3VKLWc4STdyQQ?oc=5",
+      "date": "2026-09-16T07:50:42+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "FzuIluOOTK9V",
+      "title": "Decoding America: Why won't Donald Trump regulate AI? - podcast",
+      "summary": "In this episode of Guardian Australia’s weekly US politics podcast, co-hosts Jonathan Yerushalmy and Reged Ahmad look at whether there is any appetite across the political spectrum to put guardrails o",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/sep/16/why-wont-donald-trump-regulate-ai-decoding-america-podcast",
+      "date": "2026-09-16T06:52:47+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "prQdrv5i6Fsw",
+      "title": "I used to think AI would kill us all, until the techbro CEOs said AI will kill us all and now I’m not so sure | First Dog on the Moon",
+      "summary": "Is AI going rogue the worst that could happen? Maybe not …Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if what you need is First D",
+      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/16/i-used-to-think-ai-would-kill-us-all-until-the-techbro-ceos-said-ai-will-kill-us-all-and-now-im-not-so-sure",
+      "date": "2026-09-16T06:40:43+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "UYaQ8815E5Yk",
+      "title": "Wednesday briefing: Why tech companies might be only too happy for us to believe AI will ‘kill us all’",
+      "summary": "In today’s newsletter: It is hard to tell fact from fiction when it comes to AI. What is really going on – and what should the government do about it?Good morning. As a general rule, it pays to be sus",
+      "link": "https://www.theguardian.com/world/2026/sep/16/wednesday-briefing-why-tech-companies-might-be-only-too-happy-for-us-to-believe-ai-will-kill-us-all",
+      "date": "2026-09-16T05:45:20+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "QrOjLEyZX0Yt",
+      "title": "Anthropic lands deal in $31bn datacentre in western Queensland, David Crisafulli says",
+      "summary": "Premier describes deal as ‘major win’ that will deliver more jobs for the state and put more energy into its gridFollow our Australia news live blog for latest updatesGet our breaking news email, free",
+      "link": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
+      "date": "2026-09-16T05:20:00+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "R/+8958//xUH",
+      "title": "Your photos, your words and your work: why is Labor making it easier for AI companies to take them for free? | Holly Rankin",
       "summary": "Every family photo you ever posted would be fair game for AI companies unless you choose to opt outLeaked documents from a government proposal show that the Albanese government is considering reversin",
       "link": "https://www.theguardian.com/australia-news/commentisfree/2026/sep/16/labor-ai-big-tech-australia-rights-consent-copyright-law-opt-out",
       "date": "2026-09-16T02:24:48+00:00",
@@ -89,18 +221,6 @@
       "articleLang": "en"
     },
     {
-      "id": "m9C1KNJ7CkEa",
-      "title": "AI leaders call for regulations, Trump dismisses 'hoaxes' - DW.com",
-      "summary": "AI leaders call for regulations, Trump dismisses 'hoaxes'&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2NBYndVcDFlRXoyRW15cERrbXJtYjVDNC1Kdi1QVmk1YXdoSmtfdjhkM0d6TWFGeGR0ZFJIdTF6bFRWOHlMQ3JmSGMtM1BIZzIwN2hPaTVIeGpmUUFsRlhwdXp4b0pQRGZqaVI5dU1vUXFRck9hcDJ0TGx3ZERRSG42QlFkYl9VNzNPTGhQN2PSAZABQVVfeXFMTjU3ZGsyaWpEdHI1NXpaT0xWaUVLdFBkRlI5eDF6T1RoQW5fRG5FYlhzZU9obXBHbi1hMWR4OFVwOFBGeEgwS3YzLWxZLTVKMmt0Zmp6bnJUR1BtaUJ5VmVHZUl6LWZhVlBsQjJvQ0ZyN3dHdHVDcEpOZDdRaUt0dHIyaWZqTHctN01QODBKRFZH?oc=5",
-      "date": "2026-09-16T02:06:47+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "oNF6N1TEaXff",
       "title": "Google、会話を止めずに裏でタスクを実行する音声モデル「Gemini 3.8 Live」公開　推論強化の上位版も",
       "summary": "Googleが音声対話向け新モデル「Gemini 3.8 Live」と多段階推論を強化した「Gemini 3.8 Live Extended Thinking」を提供開始した。会話を止めずにツール実行や推論を進められる点が特長で、一般向け機能やWorkspace、API経由で展開する。音声には電子透かしを埋め込む。",
@@ -111,18 +231,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "Xy7rFt69V8nw",
-      "title": "OpenAI boss says world 'right to be afraid' but 'should trust' AI firms",
-      "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-16T00:59:20+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
     },
     {
       "id": "Yz37TJ9ZaQqX",
@@ -149,6 +257,18 @@
       "articleLang": "en"
     },
     {
+      "id": "QPrJDx6nvsm3",
+      "title": "AI is not a 'monopoly of great powers', China's top newspaper says - Reuters",
+      "summary": "AI is not a 'monopoly of great powers', China's top newspaper says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjNFNDFWWmlfcUxBcDhrdXhGdjR2dVRpeFdpTmhQcnBWOHZ2dHp0RC1qUExNTDZONkxDN1BZbE5xcF9WalRyX1lwRExmT0lwNUlXUmJ1SlgxamZjdjluTHhpZEFZeGk2R0ZUOHVKT19Cc05OTjY1Smh2RG05SDNMZmxSanRXVy1fbUtiNFdScFRiMkNZWkpxTHoxZnJ6c2VPSkhHVEFUQnhjcEg0WnhF?oc=5",
+      "date": "2026-09-15T23:44:10+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "fV6AhABBHE59",
       "title": "AI and data centers are incredibly unpopular in every poll",
       "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As",
@@ -170,6 +290,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "m9C1KNJ7CkEa",
+      "title": "AI leaders call for regulations, Trump dismisses 'hoaxes' - DW.com",
+      "summary": "AI leaders call for regulations, Trump dismisses 'hoaxes'&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQb2NBYndVcDFlRXoyRW15cERrbXJtYjVDNC1Kdi1QVmk1YXdoSmtfdjhkM0d6TWFGeGR0ZFJIdTF6bFRWOHlMQ3JmSGMtM1BIZzIwN2hPaTVIeGpmUUFsRlhwdXp4b0pQRGZqaVI5dU1vUXFRck9hcDJ0TGx3ZERRSG42QlFkYl9VNzNPTGhQN2PSAZABQVVfeXFMTjU3ZGsyaWpEdHI1NXpaT0xWaUVLdFBkRlI5eDF6T1RoQW5fRG5FYlhzZU9obXBHbi1hMWR4OFVwOFBGeEgwS3YzLWxZLTVKMmt0Zmp6bnJUR1BtaUJ5VmVHZUl6LWZhVlBsQjJvQ0ZyN3dHdHVDcEpOZDdRaUt0dHIyaWZqTHctN01QODBKRFZH?oc=5",
+      "date": "2026-09-15T23:02:08+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -377,18 +509,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BnV73NIl9HhY",
-      "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here? - Reuters",
-      "summary": "From hallucinating AI chatbots to wiping out humanity: How did we get here?&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
-      "date": "2026-09-15T17:35:07+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "EXCLmYvQHfGO",
       "title": "Ben Jennings on tech leaders’ outcry over the dangers of AI – cartoon",
       "summary": "Continue reading...",
@@ -425,30 +545,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Ib8weZnl+s2C",
-      "title": "AI models chatting in ‘surreal’ dialect mixing poetic language and tech bro jargon",
-      "summary": "Experts air concern over AI lingo redolent of James Joyce’s prose that is creating barriers to monitoring and oversightAI models have begun communicating in a strange new version of English that reads",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-      "date": "2026-09-15T16:00:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "1i29fQTrVVIl",
-      "title": "AI can wipe us out – so why can’t it do Guardian cryptic crosswords? | Brief letters",
-      "summary": "AI capabilities | Trump’s judgment | Gardening attire | Death in English literature | Tautologies | Nominative determinismAI may be capable of “taking over the entire internet” (OpenAI boss and Elon M",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/ai-can-wipe-us-out-so-why-cant-it-do-guardian-cryptic-crosswords",
-      "date": "2026-09-15T15:48:35+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "wiTc3nlK4qRE",
       "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
       "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
@@ -461,27 +557,15 @@
       "articleLang": "en"
     },
     {
-      "id": "9b2N8OYIHmI8",
-      "title": "Datacentre giant accused of using AI while lobbying for Victorian minister’s support for hyperscale factory",
-      "summary": "Exclusive: Correspondence requests state MP Melissa Horne to lobby on NextDC’s behalf – but contains alleged AI-created errorsFollow our Australia news live blog for latest updatesGet our breaking new",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/16/datacentre-giant-accused-of-using-ai-while-lobbying-for-victorian-ministers-support-for-hyperscale-factory",
-      "date": "2026-09-15T15:00:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "vs7dRkksFAOD",
-      "title": "No Big Deal review – is this how AI ends humanity … with a sitcom so bad it bores you to death?",
-      "summary": "The characters are dead-eyed waxworks which speak with all the nuance of a satnav. But this AI-created workplace comedy is so bad that even the greatest actors alive couldn’t stop it being unwatchable",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/sep/15/no-big-deal-review-is-this-how-ai-ends-humanity-with-a-sitcom-so-bad-it-bores-you-to-death",
-      "date": "2026-09-15T15:00:53+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "AGAbEliyKr+x",
+      "title": "Johnson says no moratorium on AI, would give China competitive edge - Reuters",
+      "summary": "Johnson says no moratorium on AI, would give China competitive edge&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnIycWstWXJhUmprdWpkMkxDR2FzQVFGZnJWVGtDUHk1alFEQkhuRWJFdFFCcHY5NjdENzdsRkdzOXRqZTBZQnR5N0tXcG4tclpCTF9KcFNZSy1aX2tJZkljYVlVeWs5UWR1dlN5NXc2elNVZy1TeUNtbURhTUYzb1dFV2JHZTFuU1lTcnFYZUd4a3FJQ25pM0xmNUt6bnVLSzFrRGkwbHY?oc=5",
+      "date": "2026-09-15T15:31:40+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -506,6 +590,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ThUypseKLmpH",
+      "title": "Why AI researchers warn humanity could face extinction - DW.com",
+      "summary": "Why AI researchers warn humanity could face extinction&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVxWHZYTGlqRk9uaE1tUFRIUi1UWGpYQW4tZXFZMUxFamlHZVlqNW54Qy1UXzVoZ005N3lUQzZXcUxic19abi01RmZqYVJxQ0dBdHVjb1NzRHJ4eUZwMHVNTkx1OU9laUNmcThXMDlOdjFWUm5PM21FZEpLVld1aVRVdkp4S0dGMHQ4M3E3UGNUTTNJa2l4RVd4MDJuZGRKa2ZpQ9IBpAFBVV95cUxPaHJDdlVoQkEyR0ltejNlUXNyUk1WUHBINEFQbTIyVTd0cC14T0pNc2NZSEZoY2ppaEZBcjcwaG40QXlBLU9aT2doRlROZnBfMmh3TFpOM0VCVmthYkxvb0N4WEt4aUZBeWFoMFBHQWdlMjZtbWM5MHNseGtlN3hhTTQ1VWRRSnQwSnFaVHM3ckJ1YlZhWmdFaG12Y3h4TDU1NnQyRw?oc=5",
+      "date": "2026-09-15T14:36:15+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -545,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "C1YarihYcXfU",
-      "title": "‘I created my mom and talk to her’: AI ghosts and deathslop are changing the way we mourn",
-      "summary": "The rise of AI-generated tributes and bots for ‘talking’ to the dead has experts concerned more people will grieve in isolationTributes rolled in after the death of Dolly Parton last month. Jack White",
-      "link": "https://www.theguardian.com/technology/2026/sep/15/ai-grief-bot-death-isolation",
-      "date": "2026-09-15T12:30:43+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "df7gHEVxv5Iz",
       "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Hitler - South China Morning Post",
       "summary": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Hitler&nbsp;&nbsp;South China Morning Post",
@@ -566,18 +650,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "1UFNDLImK4jm",
-      "title": "Why this AI doomsday warning from former Anthropic researcher broke through",
-      "summary": "Last week, researcher Jacob Coxon announced his resignation from Anthropic, stating that AI ‘could kill us all by the end of the decade’Hello, and welcome to TechScape. I’m Blake Montgomery, US tech e",
-      "link": "https://www.theguardian.com/global/2026/sep/15/ai-doomsday-warning-jacob-coxon-anthropic",
-      "date": "2026-09-15T12:21:06+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -602,6 +674,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LB6Y/+ie5jlo",
+      "title": "As AI race with US heats up, China targets US$4.5b tech goal in new 5-year plan - South China Morning Post",
+      "summary": "As AI race with US heats up, China targets US$4.5b tech goal in new 5-year plan&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQN3E2Y0ZzX2xyR3MyV0M3MDRwdkN2MFJnejkzcUdYWF9hOTJpXzEyRXdtSVVuRHVmS3o4R0ZNemU2Z2xNUFhPZ0taS0QxVlBIOXZUZVBHY0huWXM0dUE0Z1ZGcmluS2xuaW5BV2o0eXdoZUd6QmlpajBzVE5yTC02cnlnb1dkanF6a0gwSHVxUTZ2aTBoOW1IZWt4R3pNeUhaRzR6bTFoTWZ6MDM3NW9xMjNDakVESWhwMHo3cVJjVHBiU1Rpc283R1JOY9IBywFBVV95cUxPWGZpVFBqdDhDMm5hQUV2OTJGaXU1TjN5czBJY3lHT0lQSFdCNmxTeVVsd1JxOFRPVFg4WFBrQUs1ZUZOeGpNaGs5WE8tQVdyRmE4TGFPV09VcFJKR25MTTVnMjFWNHNvS3gzMW94SmNTVGlUeUhQMC1nSFhKRFQwV3NrRUY3aklZUmpjSVV0eWVaR2p4UHVDMFo0eTQ2b0tSU0FrYl91VVQ4M3RUaHA3YU5BUTM3WExJaXJiMGxDckFsaGJEMEU3aExMOA?oc=5",
+      "date": "2026-09-15T12:00:02+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -641,6 +725,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BnV73NIl9HhY",
+      "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here? - Reuters",
+      "summary": "From hallucinating AI chatbots to wiping out humanity: How did we get here?&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG5RTzFSbmtaY0RGal9jR3ZJYUZ6emc0SFpzaFNLSTZmMEhCdjZpMFdGd1pQTWFERWpfZGNyZldOWW9tb3BYQm1HYm5Wbjc2TkRXYzdFejY1T3BVSUY0Uzdxd3BEbkZnM2VaZzZuMmRNMlJGZnZZaGxHbTBQTEZJTDVfdWlicXpza1dQZ3ZGOTdWQi1lYldfaWktZG1EYk43QXJPUlhTandLMVdlbGJGdzRaRmtPM0hUQUpaVWFVdEtzX2JM?oc=5",
+      "date": "2026-09-15T10:02:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "QbyPkHAI5i4d",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "summary": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
@@ -650,30 +746,6 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "ThUypseKLmpH",
-      "title": "Why AI researchers warn humanity could face extinction - DW.com",
-      "summary": "Why AI researchers warn humanity could face extinction&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFVxWHZYTGlqRk9uaE1tUFRIUi1UWGpYQW4tZXFZMUxFamlHZVlqNW54Qy1UXzVoZ005N3lUQzZXcUxic19abi01RmZqYVJxQ0dBdHVjb1NzRHJ4eUZwMHVNTkx1OU9laUNmcThXMDlOdjFWUm5PM21FZEpLVld1aVRVdkp4S0dGMHQ4M3E3UGNUTTNJa2l4RVd4MDJuZGRKa2ZpQ9IBpAFBVV95cUxPaHJDdlVoQkEyR0ltejNlUXNyUk1WUHBINEFQbTIyVTd0cC14T0pNc2NZSEZoY2ppaEZBcjcwaG40QXlBLU9aT2doRlROZnBfMmh3TFpOM0VCVmthYkxvb0N4WEt4aUZBeWFoMFBHQWdlMjZtbWM5MHNseGtlN3hhTTQ1VWRRSnQwSnFaVHM3ckJ1YlZhWmdFaG12Y3h4TDU1NnQyRw?oc=5",
-      "date": "2026-09-15T08:33:20+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "xNwTGA5yqMdS",
-      "title": "AI safety requires more than just slowing our pace | Stuart Russell",
-      "summary": "Safety requirements are non-negotiable. They depend on meeting concrete goals, not just adjusting a timelineIt has been a week of high drama in AI, precipitated by the resignation of the AI safety res",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/15/ai-safety-requirements",
-      "date": "2026-09-15T08:00:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -785,6 +857,18 @@
       "articleLang": "en"
     },
     {
+      "id": "D3lXh4wTPVXc",
+      "title": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight - Reuters",
+      "summary": "US Senator Sanders and Trump ally Bannon call for stronger AI oversight&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmJLNGpYQ3RGZ3dBZS1hbHU1UGIwajJCdzlPSVZVNnhMT0k3b2xOQW9hU0x5OHYzWS1TNzBjTmd5RkFtd3JScmR6ZkxmYnJ5TV81NEpMV2lZRDkweG9jLWtTLUMxX1hVRkxFUm5reVhQZWJLUlN2SnNUUTZoQnZUUTZvQjFDRW03ZG1FdDhKTFJfdmRMcEVkc1BiVHJfY3NZUmNiU3VEOUNfb3JJV0pEcE9aS0VCR3dPRVVWZEdrTnMzYnpx?oc=5",
+      "date": "2026-09-14T21:31:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "DFbDAiRBFSRV",
       "title": "Opinion | The classic Chinese parenting playbook won’t survive the AI age - South China Morning Post",
       "summary": "Opinion | The classic Chinese parenting playbook won’t survive the AI age&nbsp;&nbsp;South China Morning Post",
@@ -857,6 +941,18 @@
       "articleLang": "en"
     },
     {
+      "id": "3A9NZhvWVZXg",
+      "title": "Global AI stocks fall as industry chiefs call for slowing development - Reuters",
+      "summary": "Global AI stocks fall as industry chiefs call for slowing development&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
+      "date": "2026-09-14T18:56:37+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "iAfOQFvekIZS",
       "title": "The AI industry has taken a doomer turn. What now?",
       "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay callin",
@@ -865,18 +961,6 @@
       "source": "MIT Tech Review",
       "key": "mit",
       "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "MeESeiBlK145",
-      "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-      "summary": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as spe",
-      "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-      "date": "2026-09-14T16:27:53+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1013,6 +1097,18 @@
       "articleLang": "en"
     },
     {
+      "id": "nIQvTMhS8i+X",
+      "title": "Trump criticises 'negative forces' seeking to slow AI development - France 24",
+      "summary": "Trump criticises 'negative forces' seeking to slow AI development&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaDBha0JPQk05bi1VaFkyUl9nUkp4OEFlNDJaUVZRTXlOWkNZZGhEZW5BZVl5djdqQWdCNFRHaVhWczM0NFNrZUhoQnlnalBiYWx6alE0UC12X1JJYlEwRUppZFJrUjRYeWJxUkkwZ2R3d3QzcVBaaDZLOXVGU1BiY3o0U0h6T3k3eG5mYVBUYjR5RlRwX3B1VExmRlNxLWtrT1pvamZTWnJvZw?oc=5",
+      "date": "2026-09-14T12:49:03+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "s8qiQB7HNnC8",
       "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Roundtables: could AI really kill us all? Employee",
@@ -1085,35 +1181,11 @@
       "articleLang": "en"
     },
     {
-      "id": "kwwjMSsEcXQx",
-      "title": "Breakingviews - COMMENTARY: AI boom offers strained construction a lasting fix - Reuters",
-      "summary": "Breakingviews - COMMENTARY: AI boom offers strained construction a lasting fix&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcFFaR3FZRkNUd0UtcDJ1VkxfWGVLWlFlOXlRVHZ3b2diOW50UENtUzVjbVRRODNyT2U4ZngydHVTY1h2WUZLQnNaeVhuTFpmSkpseXVoNXJoZ3BrcDVNY1c0Rm51bmk2cFJVMUxMeWh0bmdDeE5EaGVQWGNWRTdQU3pVbWZPZTAxSHhyQUJnc1hfQzZpbHB1c05nSGtiTHVHaUpFdjRhdFphLTM3d3c?oc=5",
-      "date": "2026-09-14T05:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "A5snvZAh67bj",
       "title": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic - Reuters",
       "summary": "China state newspaper blasts Anthropic's calls to slow AI as 'Cold War' tactic&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcXBVbWdJVHFtcDF3SHNDTUx5dV8yeGJDbXRsMmFNY2RmTHZodXo2NUFtU19nNF9NY0JEVURiQ0pockxyNGgxTkdKMVlDaWZSb0tnMUVHSV9sQXIzZGEtR2RCalV4a1Y3ZkRXb1RrR1ZuTFRscHNXYk5EZUpMNjA4c2FQbDdJd1ZWMXpRd3huRkgzT1lLYUxZX0RKSDNsemJ6b3Ftb01XZEFwMUtvV00yd0NVNFVhQlFW?oc=5",
       "date": "2026-09-14T04:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "3A9NZhvWVZXg",
-      "title": "Global AI stocks fall as industry chiefs call for slowing development - Reuters",
-      "summary": "Global AI stocks fall as industry chiefs call for slowing development&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSTRDc1JSdWVDTmE5WmI2MEFCWGgxWUdvcGRNNlNjNXNiMmlaRGhLYmpOUGhFbGNQQzI0cks4Wjk3a0JFaE4wdUVDdFJUangyS1ZOWFRZOUU3VmdjblNOb29feDFwRkRQNDR6WGw5Z0xxMUhTeEhqNGxYanNuSHBDcjRhRVRSYjhQTHBTTXBjZnF3MnA5NnR1TkNLWFZLNXJrd19VRUNaMTg1ZzlKbTB1RnV0VVM2cG84aTdEWGZ3bHRVY2M?oc=5",
-      "date": "2026-09-14T04:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1301,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gRUzqMeTsGbZ",
-      "title": "Anthropic CEO urges AI companies to slow model development amid fears over misuse - Reuters",
-      "summary": "Anthropic CEO urges AI companies to slow model development amid fears over misuse&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObV9NUVhESy1GWXRLaWhTYlM1UUNSU0kweVg1N2YxNTRXUVdORW5EWHQ2MXNpYlo3SHNlLWZVZ2N1ZEZYZlNnUDY4TUZBMVFvcU1BaDBIWm94TkhqQUVXVzRZQlBUX3JOZUJYNnVVcVV3dlhTMDRFMmVXVGpNOU1RUEhnV254NWV0clJhc0NEOVFPWGFYSEtiY2R3U0JqM0NVc3c?oc=5",
-      "date": "2026-09-12T23:24:06+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Vl/LeMtVX6J0",
       "title": "OpenAI’s rogue AI tried to hack another company in May",
       "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib",
@@ -1378,6 +1438,18 @@
       "summary": "Brics members find common ground on AI, trade and de-dollarisation push&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNlM3RjMyUmJuSFZsaGtwOVdOTmdWSG9NWnRfbGR6c1hqbzd0WGNxNjJpYk1JVFM2aEhlQ3R4M0hlanZZa3ZUbktsRkZZR3BXdTJWMDV6VFgyS2FsMFk5VFRnZTQ1VWhURXNDLTVPWkE2NERfSjlUbDgwOWcyY2pka3NVejRPZmoxelZ4azBoRm5YdmdUYmNGaTl4RE56LThaOGNhcEw4ZHlXYVB3Qk9VMnZfMGduUlByOXVWcllSdDJRR1dvUzNlWGFOS3bSAcwBQVVfeXFMTU9selpOSkRqMTU3ZUZ6YW4xTkpPMUJSZGRJRng4VnZ3NzA0NUNZeHdzSTdIbGZGTFlKQnlRNTJpYW1rM2tRWEdCVkQwTDllZ0lnWnVoOG1uVEg3cktJLTNMOVRBNzlSMFZod19TSncyYWZGUmtWbTVIc2tZR1FqNC0wTkJTTmRKQXlWZE9iczE2Z0Y2RlUtalBUdWtHY05ldXY2cHB3amQ2R1RXRVN0NDBmTDc5YVY5LVY1SVdSNmNZMGZ6UjdDZTR2bW4t?oc=5",
       "date": "2026-09-12T10:21:03+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "nzUXZswkuvs2",
+      "title": "AI tools are making ‘experts’ out of stock traders in mainland China, Hong Kong - South China Morning Post",
+      "summary": "AI tools are making ‘experts’ out of stock traders in mainland China, Hong Kong&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGwzYjhERTl4eVJhekE3c1UyOVViRFZxQ3plYVNyeXFpcHVhaXhnemVlYzVLMW5VdjAzemdKU19tUHA3bkNoNXhhMFZYRVR0Vk5UUHNFMzFEdkZ4NzRXQU45cFBhM0FFV0pfakpFOTVpUjlJRGdYNnNra3FCWlNpV2w5M0JucmpfLWNDMWtRRV91VkZ4SjhBdXpYaV8zQmFwUzViV3lRR2ZpaDBGUHlVMlpKYWJOMXdEZ282b014ZmpKbFhieFHSAcYBQVVfeXFMT0VhZkg2by1Ibk94SnhPaGpYVGdyekdtV1NLMjloc3ZNbTFqdHE2dEpVU2NjYks0bkdwc08tNno1OXRjU2V0cTNyLXhoVkEtejRreVRhUUNqUk9ONTlRSTI5b3FLQ2FfZWZybmlONnd2dmhSVTRfbVJyODhyaXZXR21MUVg3VFZva0JkYllGbldLZHF3cElZX3dRbmllamVmX3Y5di1KM0p5ZXQ3R2pZVklaWFVLcGxXSWZiZmFUVWRESF9HYWJR?oc=5",
+      "date": "2026-09-12T08:00:10+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1565,18 +1637,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JWg403BiAlVg",
-      "title": "Why So Many AI Researchers Think the Machines Could Kill Everyone",
-      "summary": "A combination of rapid advances, recursive self-improvement, and agentic swarms are genuinely “spooking people” inside big labs.",
-      "link": "https://www.wired.com/story/why-so-many-ai-researchers-think-the-machines-could-kill-everyone/",
-      "date": "2026-09-11T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "79OuVNHc5WvL",
       "title": "‘Freaked out’: why AI safety fears are spiking ahead of Xi-Trump summit - South China Morning Post",
       "summary": "‘Freaked out’: why AI safety fears are spiking ahead of Xi-Trump summit&nbsp;&nbsp;South China Morning Post",
@@ -1653,7 +1713,7 @@
       "title": "AI boom poses new financial stability risks, BIS head says - Reuters",
       "summary": "AI boom poses new financial stability risks, BIS head says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcDUzRnJ3dHpQaFN0aF9CVHRZbTExQ1h4UHg2OEFaQmxHeHZsdUwtN2piZzdPdk5oYUticEdmSEIyS0RYUlpKYUpRX3ptWFp6WGFNbGp2QXlVNjRIVFdvanlTWXdubklpcXZzUHNWQWxURlBrU3hpcTU0dVJ2M1NEUEpRU3FhUzhHa25XRklRbUo2LUVoVWlsV3dVcVY5SENFc29hd3JXRUZQZG1FbHEw?oc=5",
-      "date": "2026-09-10T11:33:41+00:00",
+      "date": "2026-09-10T12:36:24+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1661,15 +1721,15 @@
       "articleLang": "en"
     },
     {
-      "id": "cjpsMQOMJMwe",
-      "title": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns - South China Morning Post",
-      "summary": "Japan’s AI satellites and other space ambitions ‘a serious threat’, China warns&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOT0VJWkhHYUNGb253UGFtRHV4V2w3YXdGOWd4ZW4zZl9qM1UyRXI2bTloR0JNdEZVMl9idFdjM2c4bHhBTXRPdmNrY3BjRWl5SWRWa2o2TU9VNjcxVkVCN0gyNDBoenZxOU5tU0VJaDdydHQ1OExEX2llVmp0WUVxeWNSYjlPUHhJSy15YjRwbEFZQVl0YmRDZmJ4Mnc0aEdCSF94SUNSNEdVY3M4VWpZd0tOcHNidjlael82WVR5Uk10S3c4ZElEYjlB0gHKAUFVX3lxTE1jZzFtRW9pS0ktaHZYQWNHZzUtQVVONU1FS1djTGFyNzJQaUp1MnZGVlZ2YW1wSC1vdkN5bnNQb1hTZlNXcFJSckk0NWZLZlhDY0JOWnBLVWdXNHdKZ3JWZlFpXzZwQTM3S0hHNUh3eW9DZDBlWWJ2MkFTRzFNby12Y3EwcFRkNzdfRHJaWmw0R3Z5SjZSaC05WXhJMWlwVEhYbElpd0xqVnRiRW9EQXAzMXFTRWlpdDVlSzFoZXh0U01JdUcyTXNUV3c?oc=5",
-      "date": "2026-09-10T11:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "TwvPBJk4uolh",
+      "title": "COMMENTARY: AI debt splurge is warping credit spreads - Reuters",
+      "summary": "COMMENTARY: AI debt splurge is warping credit spreads&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGJydjRSLXNUYlJuVWxDaFA5cFUxNW9TMDBTM2hiQ1BlOURvako3dUhqNzhvS1N6SXp6Z2VfT2xVdWozN0RYcHdJeEZvQkliamxTTUZOUnVSNHB2bm44NldKNEFtNG9pczdxaDYwTWlzelhMa0tMbUd2UjJObzlWSjlPczBlRzZiU3F4dXJPUm05UURrcUhHWGRKY2pDNXM4WUxkTlZ1QVpRVmlWRG1oTzRPc2JZYUhhM1RWSXdPdXZuUQ?oc=5",
+      "date": "2026-09-10T12:05:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
