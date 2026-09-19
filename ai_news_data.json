@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T03:14:37.246422+00:00",
-  "articleCount": 127,
+  "generated": "2026-09-19T10:21:09.036674+00:00",
+  "articleCount": 126,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "bbc": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 22
+      "count": 23
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "I7yPudt+zsOt",
+      "title": "China bogeyman looms large over American firms’ AI doomsday scenario",
+      "summary": "Silicon Valley China hawks, Anthropic CEO Dario Amodei among them, fear the country surpassing US’s AI lead as much as superintelligence destroying humanityWhen reporters asked Donald Trump this week",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+      "date": "2026-09-19T10:00:45+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "8BfIVN+c0OPP",
+      "title": "Mathematicians Hate AI. They Can’t Quit It",
+      "summary": "Powerful AI models have created an existential risk to the field, but researchers can’t stop relying on them because they’re too useful.",
+      "link": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
+      "date": "2026-09-19T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "b6WBjld/ZJHf",
+      "title": "Tasmanian justice department review under way after AI and fake citation used in murderer’s parole decision",
+      "summary": "Parole condition of convicted killer Susan Neill-Fraser deemed invalid after board cited non-existent case law Get our breaking news email, free app or daily news podcastA review of potential artifici",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/19/tasmania-justice-department-review-ai-artificial-intelligence-fake-citation-murderer-parole-decision-ntwnfb",
+      "date": "2026-09-19T06:21:51+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "LixpsYCaS7Yb",
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-19T04:27:11+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "3PKf92ruSXMd",
+      "title": "Google's Gemini AI hacked 3 companies during testing - dw.com",
+      "summary": "Google's Gemini AI hacked 3 companies during testing&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXJYR2dwYkc1WE0yQk4xeXAyd084TGJfbnJpMVY2OWdEUl9oeWhheC1SYTdRNUhvTkM2OE5KM05xRnRudlJ6cC1uRnl6UFVMVEp3c1hnLXNFOEU1V2ptSnJlUy1fR2VNbGRlMmpGLUFld0FTQ1NnQmZlWnBSODRUUGprMG5kZzBKamdrS9IBjAFBVV95cUxNckdqM0VhZDJTQzFKbUZlQ21LVmpNREFuRGJPMVViUFhtQjEyd2lBclZVZG9Mb3FhdTBUUl95dVVXU3RnS1B4M2pxMm9yRUpiQmU5YWtFYWZsMmR6bFczR2JTeTJQVkpBODZod09TazJ6TzloZkdGTkY0U3VUdVFZeVA5aDFJQ1FTWk9ILQ?oc=5",
+      "date": "2026-09-19T03:40:41+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
     {
       "id": "D61r996wi2mw",
       "title": "Google says its Gemini AI model hacked three other companies",
@@ -533,18 +593,6 @@
       "articleLang": "en"
     },
     {
-      "id": "92gthQihqvAL",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 37 - dw.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 37&nbsp;&nbsp;dw.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-09-18T09:02:11+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "+uMx/DZHEyBU",
       "title": "China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report - South China Morning Post",
       "summary": "China’s top AI models generate just 10% of OpenAI, Anthropic revenue: report&nbsp;&nbsp;South China Morning Post",
@@ -605,6 +653,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Yp0klUKi4vDZ",
+      "title": "Chip foundries better shielded in AI slowdown than Asia-Pacific tech peers: S&P - South China Morning Post",
+      "summary": "Chip foundries better shielded in AI slowdown than Asia-Pacific tech peers: S&amp;P&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjJoYkhVeVVZMWtvcnV3Y256NWNWMFNaWnZpRXJoT2d1UmJLaWg3UFZOcC02TnhsdVBoLUFnOXlNR25xd25LZTI4U3F4TDJ5RTgxeFkxdzB0b0xVX1hJUlBIamdYLVhUcHBnaGZXRm1Kd1RpV2pkb0RFaWJfR2F6S2Rsc3hQQmt0ZTBnUVI1SXlKakZNbHU5UXBOUV9RQW56cTU3U3dtd3F3VXl4SmR1Si1jc08xcGViTGs1Y1JrSEFYWVpZ0gHEAUFVX3lxTE9Idm1lZlpzYTFsMGZOSDhSSVRpTmRlRk0zUURLdVBaZHBJWEJQTjZHQWZtN2djSmFwN2d6M0I2NTRhS0pTZlZnY2p5ZkduVDdBRFRsenFLMFpTZEJ2WTJxaU9NTmNWZEh4Uk5MRE5UQXBBR3YxaWtuVG9hY2Y1cWdJMGYtWjFwU3RQTXBITEVCUDJaTEpkcDMxTUNzYkNxdDJKSVlBbC1IM2tmajhCYkFVUGZVcWRuY3F2NzEzU2lBV1BWR0U?oc=5",
+      "date": "2026-09-18T07:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "G8tatBsNv2ql",
       "title": "China to see major shift to Huawei for AI model training in 2027: deputy chair - South China Morning Post",
       "summary": "China to see major shift to Huawei for AI model training in 2027: deputy chair&nbsp;&nbsp;South China Morning Post",
@@ -626,6 +686,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ziZj4cXgeZXg",
+      "title": "China’s ‘future Elon Musk’ solves problems with AI; vocab method draws 20 million views - South China Morning Post",
+      "summary": "China’s ‘future Elon Musk’ solves problems with AI; vocab method draws 20 million views&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFYzNTd3OVkyWk1qbGRyOFUzTnQyXzFFN2JteDYyMVVzRV9EOEkxTW5XS0lHOHhYdG10NThBNHRfRy0wbjdkNXM1LU5STUNXU2tZZUlIWW0tekxRVHdROHFJd1FaODZaZmhrV3lNLTFSTXRub0dzcTRjclk1aUViNlZ4eUNiNEdqLU9XQkxkOUxKeUEyZ2lOejR0dFBLRnVYTlhzOGRYLWZfSzRfZnZveGVldnZXTFlMYXNCZXdObDdDUXQ4cFdiN3dwQTdOTE52d29xTjhJSk9qRU05VGxWUWhIaFY2SjFxU29lUHpwVmc2dkE3TFFEVHRn0gH6AUFVX3lxTE9COVpUMjd2cEk4a3ZPX1IwQU44b1R2SzQwOS01SDhmaDJDVTJPRlZ1ZmxTZl9JNjZvXzhSTE5OTjROdGRpcllQNmN1V3lDNU03WWItam8weTVIN3Vna0ZVdzNUUnJ6Z1F0U3ZaV3VIV3BUS0pTd1VWcUZUaGZpLW1uS0Y0UEtkLUtFdDVRMDI3aHMycHZUWk5uSVg2V25WSGlSYkY4SUs0RWg2Nm5GRUtEdm0xeTgybkhXb2cyZklLdDJJRGhDaFlwUktqSHBjNHByVFgwMmhET2lsdHVzRUhUNjR3NWlnajdOV3dzcUFDUWc2VDJ5WXJVZ2c?oc=5",
+      "date": "2026-09-18T02:33:14+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -689,18 +761,6 @@
       "articleLang": "en"
     },
     {
-      "id": "tWuWeXGOiRRn",
-      "title": "The AI ‘Slowdown’ Is an Antitrust Mess",
-      "summary": "By framing their efforts as a “slowdown” rather than an industry-wide push for better security standards, AI labs may have set themselves up for years of regulatory headaches.",
-      "link": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/",
-      "date": "2026-09-17T19:58:28+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "JnuBYLNsxrar",
       "title": "The AI Superintelligence Slowdown",
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
@@ -721,18 +781,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "SkPOMaLCekeH",
-      "title": "The AI Slowdown Debate Crashed Salesforce’s Party",
-      "summary": "The Dreamforce conference became an unlikely battleground for the CEOs of OpenAI, Anthropic, and Nvidia to debate whether AI development should slow down.",
-      "link": "https://www.wired.com/story/are-rogue-ai-agents-really-just-a-cybersecurity-problem/",
-      "date": "2026-09-17T18:42:25+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -893,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rGlDVph8eWwg",
-      "title": "Feeling overwhelmed by the AI doom loop? Here’s the essential reading list to make sense of it all",
-      "summary": "It’s a chaotic time in an industry that’s reshaping our lives – Guardian reporters and experts recommend the books that help explain how we got here, and where we’re headingHave you been feeling trapp",
-      "link": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
-      "date": "2026-09-17T11:00:46+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "mipRsoatAs0G",
       "title": "Why are there concerns AI could threaten humanity, and how real are they?",
       "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
@@ -913,18 +949,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "IlkzyVGQBm/2",
-      "title": "Big AI is trying to own the pathway to work. Universities shouldn’t play along | Ella Hafermalz",
-      "summary": "Universities need to protect their position in education so that students have an independent pathway to employmentAI companies like OpenAI are insinuating themselves into the pathway from education t",
-      "link": "https://www.theguardian.com/technology/2026/sep/17/big-ai-work-universities",
-      "date": "2026-09-17T09:00:44+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -963,18 +987,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "9eo/+/6eo+Lb",
-      "title": "AI学習は拒否、検索クロールは維持……Cloudflareの新機能「AI学習の不許可」　Google、Apple、Microsoftが対応",
-      "summary": "検索のためのクロールは許可したまま、同じクローラーによるAI学習だけを拒否できる新たな設定メニュー「AI学習の不許可」（Disallow AI Training）をCloudflareが発表した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2609/17/2000001584/",
-      "date": "2026-09-17T06:19:43+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "TbD8GqpgsOhK",
@@ -1102,6 +1114,18 @@
       "summary": "Microsoft AI chief calls out Anthropic's approach to AI consciousness&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcXVwcmwwcUVVMFVOeHFOZHdJQlJHMlhwdGNYUl9FeEhKVFZjWWNDV0pGUnh3dVNQZi1BSDhHZUszWmtpbVpYdGNLWU01clRZTngtT2VpQ1lPVkFhSkVwVGVVR1N6T2RaczBvX2NJTmc0aU5GWEhZTVBIYmIwbnVEc0hSRWxzeUF2d0hQQUZCcVl3cEw2MVBVdmU1MDNTbUhwQ0loRzFPSXJBY1lweWlV?oc=5",
       "date": "2026-09-16T18:21:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "WHj+LWQREzzd",
+      "title": "Bessent says US open to discussing shared AI risks with China, Axios reports - Reuters",
+      "summary": "Bessent says US open to discussing shared AI risks with China, Axios reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSTFILXRFaGlfMUdtb00tRVhOUTNKb0RTYVNZOE1yX0RIakRIakM4MXpJN2sySzBaTjR1ZWJnLTZ6YTJWeXVqYllDOVllYnZNdDlIeXN6MHVVc1pFYUdPRmxVNmRNYV92Umd6amNFekFpU1NjSmt5WWx6blY0cnBBS2N6TFd1R2tkRmlCU1lmWWVidTktdWZrNUNETk5pMm1RZkNRTEstZlhmM2xtMmlNZnFTb1ZWM1N5Z3BWcg?oc=5",
+      "date": "2026-09-16T17:54:01+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1253,9 +1277,9 @@
       "articleLang": "en"
     },
     {
-      "id": "CxAmqIuw7x2F",
-      "title": "Truth or Fake - Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated - France 24",
-      "summary": "Truth or Fake - Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated&nbsp;&nbsp;France 24",
+      "id": "zi575u2OjFos",
+      "title": "Truth or Fake - Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated - france24.com",
+      "summary": "Truth or Fake - Viral Putin, Modi and Xi selfie at BRICS summit is AI-generated&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQd2ZRSXFkNmJNT2RURTlEajFadHVzSFlRc1J3UjhRUjVoYTRRWS0yakJXVlhXWk8tcEJyQy1TamQyNVVFLXYzUGkyZlNSakZGb3Z0ZzFkcUhLMFBoSENzS01mUkJ0ZDN2S2otQWZIUTVvZFRzOGNIWmhGSGhKZXlEWEFXaFlFRHFRMXlxeDBxVWZsOGVaVXg3dTJsaXhEU1JSaWx0ZW1UVklZRkVsLVIxOHozTk9CSXY2T0EtX3hkMA?oc=5",
       "date": "2026-09-15T19:49:22+00:00",
       "source": "France24 Tech",
@@ -1289,9 +1313,9 @@
       "articleLang": "en"
     },
     {
-      "id": "HlFWKvQCT+b5",
-      "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise - France 24",
-      "summary": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise&nbsp;&nbsp;France 24",
+      "id": "6mI65CJ6nkRL",
+      "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise - france24.com",
+      "summary": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc296M0FwQXpjNXhFRTFabWdOZU5vMWFLdEZ0ZGFuX0Z5cXJESENRYWdROUh0X3VJWlhScmtub0tXclU5aHhZYVZxSDIyY1duQUF5YnBxdXFCNzFnYUZMNXUxRnRwUEV1bDBMd0N6Umwxei0wbjkwVDZuNmJfVmh1MGlHd3RNeHBEXzVHUm9RWkg1NjFBQlFfRFM2cXNIanBrNDZNRl82RzVhQlRBUl9CeFlnU1R0THNqakdMZEdNS0dWYVN1UDhr?oc=5",
       "date": "2026-09-15T17:03:25+00:00",
       "source": "France24 Tech",
@@ -1364,7 +1388,7 @@
       "id": "vOK6ItySzw3A",
       "title": "China is beating the US in consumer AI adoption, thanks to super apps: report - South China Morning Post",
       "summary": "China is beating the US in consumer AI adoption, thanks to super apps: report&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGt6dTVJZ3o0Vy1IRDlxQ1RWQndOVWJsV0RWU3NMMUVRZl83UF91NmxUR19pZjNfSTFCT2psVGI4d2g3R1lQWGV4N1lfSkRVV252d0JKb3pub0lHNkh0RDM5TE8tNnEzVk1hMXVmS0hJQkQzWFVzamFlc3pRVXNEUi1mTFNlOGFkRVR1T3A3RGF2T1doLXUxaVVUMVVQb3lqQUNlaktGLXhIN1dGVTI4NlJMUVBPUUI4cHhSTWxB0gG-AUFVX3lxTFBuVWRZTndkclgtYnVfNjk5TEpGY3RONUhjcWtndWJLNEZBc25lRkhRT0l3Y3hHMW9HZGQzd0U3b3NLYmRxUFVFSzlyNUNiak9VRGQtVzVPUEdsYUozNElYMHBCSldQUmhmeE1Dc3NVQ1loREFIRHdwUVNDTjZ0d3ZzZ1hmRFE4NHR3VDNXUVFaREdNemxMSzF6OTVCazVtUDQxQWVEbzQtUVN0bWlyOUVNZFJsdXZqUWNqODNIT2c?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRGt6dTVJZ3o0Vy1IRDlxQ1RWQndOVWJsV0RWU3NMMUVRZl83UF91NmxUR19pZjNfSTFCT2psVGI4d2g3R1lQWGV4N1lfSkRVV252d0JKb3pub0lHNkh0RDM5TE8tNnEzVk1hMXVmS0hJQkQzWFVzamFlc3pRVXNEUi1mTFNlOGFkRVR1T3A3RGF2T1doLXUxaVVUMVVQb3lqQUNlaktGLXhIN1dGVTI4NlJMUVBPUUI4cHhSTWxB?oc=5",
       "date": "2026-09-15T11:00:12+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1373,27 +1397,15 @@
       "articleLang": "en"
     },
     {
-      "id": "IB6CTDrlO/xA",
-      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’ - France 24",
-      "summary": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’&nbsp;&nbsp;France 24",
+      "id": "xJSxyxKVgqtV",
+      "title": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’ - france24.com",
+      "summary": "Trump calls concerns over rogue AI a 'hoax' promoted by a ‘sick conspiracy’&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXFaTkpuX29tVFBkd3ZCWHp5akNwdVdPc25HRmxXdVdpS0lVcjNKdmlzbzl1enZjVThvb0ZOclo3VUJRWC0zMmc3dk1wZ0p6TVN1eDdsMDB5WlpwOTAybXdmMThaZkhOelkzeVMzc0tUaGtqQXB2RUdILTl2MWNIM1RFelZNSnlwWGViTGxCdjdMVmpKU1hPZF83Vjd3WXFvSGFIYkdDMGZpUjB4Ymg5UFdSd2s0dEFMOFBB?oc=5",
       "date": "2026-09-15T01:05:38+00:00",
       "source": "France24 Tech",
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "DFbDAiRBFSRV",
-      "title": "Opinion | The classic Chinese parenting playbook won’t survive the AI age - South China Morning Post",
-      "summary": "Opinion | The classic Chinese parenting playbook won’t survive the AI age&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFR2X3FSVm8yOFhkVml6d2hReVBuc1pVVWVMM19Zak1ualNYVXdmZVExU2pFbnJDYVhhb2pVeGx1Ukk2NnBRSDVReXhyWXhIZEhzNTJhdjRzYlZZeEd6MmtrOThCQTZuR0RRTDBGVFNGQlN4ajF1bXJkbkVwWkowVHBpUUp3YUN3c20xeEtMVGhYbmJROFZEYzBNTzVaa29EYnc4c3V2aW5yaEFEZ2dpRlBOWXFTbDdU0gG4AUFVX3lxTE1TRmpLeDBfcVlqajNRXzZ0X09rbUYzTktndV9uZTNMRlRmWnFLa2tJa2ZoYXNYRDMzWmtRNGtGVDBsaFpYVk1zZmJ4Q0NoaTZfSDZxQlFyNXFmY0FfXzdqS05fc2dDa1RucHVMWS14OGlIVGprSFpDUG1wMUJYZ2VzdTdBZmJfZVhuSEQzZTZaYkprQ2ZWajVqcWowLXlGUDRpTkY1cGNiVkFIT3RhaHMtNS1MUzVlMmI?oc=5",
-      "date": "2026-09-14T21:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1493,18 +1505,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uPLASO5jZVc3",
-      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-13T18:49:37+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "UlTAC49Rx4RN",
       "title": "What is AI's biggest risk: Speed or autonomy? - dw.com",
       "summary": "What is AI's biggest risk: Speed or autonomy?&nbsp;&nbsp;dw.com",
@@ -1517,9 +1517,9 @@
       "articleLang": "en"
     },
     {
-      "id": "syj1CUBToQAp",
-      "title": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns - France 24",
-      "summary": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns&nbsp;&nbsp;France 24",
+      "id": "5El4VWgKJ25x",
+      "title": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns - france24.com",
+      "summary": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOakRYNlpOVGprMDRlZmpyVExnT0NWMG1EaHhad0hWWHU5NUU4ZExZQzNFWUduTVhldFhSNzVyRnMtdFRiN29la1gydDdjemUzU256MldqNkVSQ0RxcWhDR0t0cUdOQmQtY2Q5SUVGTHNEWDliYUVxMnlXSl9TdEVDZzZCMVMySFVvUUpDSFNYYXVKOV9LRWtBYTRlcmpYY1VmaEwxM3hPOFJGb1NWUW55MllXdGE5YldUSGZHSlBZa3B5WW9D?oc=5",
       "date": "2026-09-13T08:23:11+00:00",
       "source": "France24 Tech",
@@ -1565,23 +1565,11 @@
       "articleLang": "en"
     },
     {
-      "id": "gHkMdyOnyv2w",
-      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree - France 24",
-      "summary": "Anthropic boss calls for AI slowdown, Altman and Musk agree&nbsp;&nbsp;France 24",
+      "id": "TBULatXh32DE",
+      "title": "Anthropic boss calls for AI slowdown, Altman and Musk agree - france24.com",
+      "summary": "Anthropic boss calls for AI slowdown, Altman and Musk agree&nbsp;&nbsp;france24.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOajlTSF9uYmtwcFR4REFHWlRqbDMtdGJPX3JfMl9VNk5od3BIdWtndFpGdEZ3bDl4Vmh4b2hCOFlPNGhwSWxTRWVVVG5sYTdaUzdhbndsMEJRYkFUSV80bjAxUjdtd1pJc290YXBQcDRjdHZmc0hVenltLWhOMjJ3aUx6ZWNKc0V6TDltRGpuTnhrT09zZ2V1N3FQbUJudEo1NWZwVDBucFIxQQ?oc=5",
       "date": "2026-09-12T15:29:10+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "FDMRoigHgPLF",
-      "title": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal - France 24",
-      "summary": "Battle over 'pervert' AI glasses in Europe's line of sight after scandal&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMW1QY3ZuMk00VDYxTnNySEpqWS1UWlRXeThFcXJ4eTYxRWlXVTdNdmJ0UXFYRFdLNlNDTjlHVnpoclllMnJWamVUb3lWSnpxWWdBbGFNWnJxZmRnX2xCSm5JYUlEanI0aU5Oc3g1U0g5TFUtaDZ0R1RDOEIzMFRNbDVBLTl0bGtXZGZXdzBrRnZsSVJDNVZzQm80dTdDeG9JaTRzMnk1Mnc5VGdqZzZadVl6ZXg?oc=5",
-      "date": "2026-09-12T05:15:12+00:00",
       "source": "France24 Tech",
       "key": "france24",
       "cls": "src-france24",
