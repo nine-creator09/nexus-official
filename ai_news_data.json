@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-19T20:04:46.670211+00:00",
-  "articleCount": 126,
+  "generated": "2026-09-20T03:31:43.820806+00:00",
+  "articleCount": 127,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "bbc": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "dw": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 21
+      "count": 22
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "GF7NGogsnB/G",
+      "title": "Not all AI workers think the tech could kill everyone",
+      "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-19T23:01:57+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1+YbzCUW3TOn",
+      "title": "AIを入れても「最後は人頼み」　自動化の穴を「AI＋人」で埋める新たなBPOサービス",
+      "summary": "RPAや生成AIを導入しても、例外処理や目視確認、システム更新など「最後に人がやる仕事」は残る。Generative Partnersは、こうした自動化しきれない業務をAIと人力で分担し、BPOとして丸ごと引き受けるサービスを始めた。",
+      "link": "https://kn.itmedia.co.jp/kn/article/2609/20/2000001625/",
+      "date": "2026-09-19T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "YaZOhRG9VP/L",
+      "title": "Ten days that changed the course of AI - Reuters",
+      "summary": "Ten days that changed the course of AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
+      "date": "2026-09-19T21:11:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "x7oiq2o+RlDI",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "date": "2026-09-19T20:44:40+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "1Gfrp57Sn1DH",
       "title": "Your AI doomsday questions answered: ‘What, if anything, can people like me do about it?’",
@@ -89,8 +137,8 @@
       "articleLang": "en"
     },
     {
-      "id": "KXA+vH2i7DsJ",
-      "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+      "id": "boj0fEKc0jzh",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
       "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
       "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
       "date": "2026-09-19T19:57:47+00:00",
@@ -125,15 +173,39 @@
       "articleLang": "en"
     },
     {
-      "id": "owyPDB7lX2ag",
-      "title": "Trump announces new 'AI force' amid mounting pressure - DW.com",
-      "summary": "Trump announces new 'AI force' amid mounting pressure&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcWdsWGF6emZpT2d1ajc1SDRLalNnNmN2WGFDekF2WnBpWUJ3NjduWVhsdGoxc2psdVRkTU5vakhTdHNENkowclBadlA0dV9sTFdmVkVfWGtuQjTSAVtBVV95cUxNYk9GUG9yX3VfQVFBVENnWGkyWjZ4UHJJYXFuWVRrdV9yU2dRV19sNU45b1dpeWc4NnE2cnFPYUt0MDZOLVBtT1l0aE02bk9HS1U4cjJtYWhlRWUw?oc=5",
-      "date": "2026-09-19T18:46:21+00:00",
+      "id": "YHLC2sjGNYjz",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 37 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 37&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-09-19T18:53:40+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "eImJu7R1BhuO",
+      "title": "Trump says he will appoint a new AI adviser, without providing details - Reuters",
+      "summary": "Trump says he will appoint a new AI adviser, without providing details&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeW9QS1RSUzNKWDluSVZQS0pJVDkyYjVWWjZPcWhEUHJkczdpZzhIN3N3THZ4Ylg1M2xLRTBzTDJyd1ktVDhOeHJVaHdqQWZXdVo4X2NqMllhVDNCQjZfUTJ0TV9fdEw5NW5OLTRDbzhEOG9UNjdGNUllQU15WGpuUncwMDd3OGhOY3Y2dTE0WEVoaXR6UzNV?oc=5",
+      "date": "2026-09-19T18:34:17+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "zCEP9/PTJpH9",
+      "title": "Trump says he will create ‘AI Force’, name AI tsar - South China Morning Post",
+      "summary": "Trump says he will create ‘AI Force’, name AI tsar&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORHdWY21IYWFhM0dWY0oyZFo3X2ZGOTVsb1pJNExjNGZNTGdJVTNaUHBRMzJmUmgwU0JtVm1KQi0tcnF6LWdPdTFoX1hnX3hqamdIWkZPYUJVOTNVTnViUWRQdFRYLVFBemlxc3Z6c05FdHp4VG1pUlVaUUNQcFhwU3pwenJOQjV0LURQSXZqT1o2Q09Uak5GOURYMVIwQXZlUFp6QmhUY3NlYzZ5VFZpWmpveDBCTEHSAbcBQVVfeXFMTzh3SXNtbFJ6NVhxNWhRRnRTM1l0STAyNTcyMURjQ2Z5bm1rVkRvdTJQQzFqTFZtRFM5MFlBd1loeFlFZXA5eTdfdmpWbkxVYkR1MWtUaFVaa0RaTGlmRGRrQTE5YXNVSVR5b1VwOTRXSTh4SU9EaWo1UUNsWUVtTHZKcjJrdnhWZVRVU0YyQlNCM2d2X05HSEg4ckN6a3BOTnBJY0NZMU9xa3pMR2IzZTFOWS15WWxr?oc=5",
+      "date": "2026-09-19T18:19:19+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -245,18 +317,6 @@
       "articleLang": "en"
     },
     {
-      "id": "YaZOhRG9VP/L",
-      "title": "Ten days that changed the course of AI - Reuters",
-      "summary": "Ten days that changed the course of AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON2xmamNtUmNHeDRtbGtQS0FQWnJSZF9uWG1MVHNQRTBkMmt0Q3dkN1A1N1ZoSWo1MHBKQVhJZFB3aEhUQ3MtYmVfaTRPZ09DZzBKVWpUMjFTVktCNGxoSEFhbnhCb3lyclgxS2RfM3BpQjVCaVBPNzBOdkxEU1JCOWhpMnVjeE1MbXhRczNDNldCeXp2?oc=5",
-      "date": "2026-09-19T11:31:21+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "iAKCI9lx8RPn",
       "title": "Forget the AI Slowdown—the Vulnerability Explosion Is Already Happening",
       "summary": "AI labs are toying with an industry-wide pact to slow development. Meanwhile, widely available AI chatbots are already helping uncover a tidal wave of security flaws.",
@@ -266,18 +326,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "gtJwwDYVLhLo",
-      "title": "Google's Gemini AI hacked 3 companies during testing - DW.com",
-      "summary": "Google's Gemini AI hacked 3 companies during testing&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXJYR2dwYkc1WE0yQk4xeXAyd084TGJfbnJpMVY2OWdEUl9oeWhheC1SYTdRNUhvTkM2OE5KM05xRnRudlJ6cC1uRnl6UFVMVEp3c1hnLXNFOEU1V2ptSnJlUy1fR2VNbGRlMmpGLUFld0FTQ1NnQmZlWnBSODRUUGprMG5kZzBKamdrS9IBjAFBVV95cUxNckdqM0VhZDJTQzFKbUZlQ21LVmpNREFuRGJPMVViUFhtQjEyd2lBclZVZG9Mb3FhdTBUUl95dVVXU3RnS1B4M2pxMm9yRUpiQmU5YWtFYWZsMmR6bFczR2JTeTJQVkpBODZod09TazJ6TzloZkdGTkY0U3VUdVFZeVA5aDFJQ1FTWk9ILQ?oc=5",
-      "date": "2026-09-19T10:47:39+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -314,6 +362,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "gtJwwDYVLhLo",
+      "title": "Google's Gemini AI hacked 3 companies during testing - DW.com",
+      "summary": "Google's Gemini AI hacked 3 companies during testing&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdXJYR2dwYkc1WE0yQk4xeXAyd084TGJfbnJpMVY2OWdEUl9oeWhheC1SYTdRNUhvTkM2OE5KM05xRnRudlJ6cC1uRnl6UFVMVEp3c1hnLXNFOEU1V2ptSnJlUy1fR2VNbGRlMmpGLUFld0FTQ1NnQmZlWnBSODRUUGprMG5kZzBKamdrS9IBjAFBVV95cUxNckdqM0VhZDJTQzFKbUZlQ21LVmpNREFuRGJPMVViUFhtQjEyd2lBclZVZG9Mb3FhdTBUUl95dVVXU3RnS1B4M2pxMm9yRUpiQmU5YWtFYWZsMmR6bFczR2JTeTJQVkpBODZod09TazJ6TzloZkdGTkY0U3VUdVFZeVA5aDFJQ1FTWk9ILQ?oc=5",
+      "date": "2026-09-19T04:37:45+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -565,18 +625,6 @@
       "source": "The Verge",
       "key": "verge",
       "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "jAFPrw0XktZp",
-      "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "summary": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-      "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "date": "2026-09-18T15:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -905,18 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JnuBYLNsxrar",
-      "title": "The AI Superintelligence Slowdown",
-      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "date": "2026-09-17T19:28:24+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "atUPCrXD8cCW",
       "title": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails - Reuters",
       "summary": "'I'm not a doomer': US Senator Mark Warner makes the case for acting fast on AI guardrails&nbsp;&nbsp;Reuters",
@@ -953,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VlZC0LqV4C4O",
-      "title": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards - Reuters",
-      "summary": "Amazon enters AI safety fray, calls for \"rigorous testing,\" safeguards&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZlc0aEIyZmgxVURSZXZnVWNic05GQW9SVmI1Y1JvbGVtYzR6RmFvMTFKUTBFNWNOaENqckFIdjY3NXh2dWNkZF9UUUY3VXpNbEVPYnZhZnk0N2kwWFNfWS1lNzlEdXNvTlkzRXFmM1dpTHMyOG9GTVdwZ3FkZGt1UXUwUklrWEtaeUdSdVR0WWxCTHdYNi00WFVKbmZRMWJXRFhDblNNM01HQXpGVHVrVFhUUlpHUDRiT1pVbHMyVlc?oc=5",
-      "date": "2026-09-17T14:33:55+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "WD3Hro9v29B0",
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
@@ -974,18 +998,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "L9k27IsmzIC/",
-      "title": "China edges US, EU on AI regulation trust in middle-income countries: Pew survey - South China Morning Post",
-      "summary": "China edges US, EU on AI regulation trust in middle-income countries: Pew survey&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOTVucUs0OTZORHlnUWdDekdyVGxyUFhORFdxMWhKbmtub1h6MXo3aEhCZlR4VVFGRnJveHNQTnk5V1RFSE1UV09lbWhPX3RHRDRWM3prS3Ata2k4bkptZE9JRkE3Q3RlTnNRM19yVnM3SDdlcnJPWC1iMFlqRm1Nbk9MUk5Td3FxREhuTTFBNzI4Z2Z6UTR6c2dQdFFOTUtRd3FSeHhvNUY0SktxcVZkY2c3OGczTVNBSUZBVnFVWW9xenRMcnpZTDQ5RdIBywFBVV95cUxNYnRUdWJ6Nk5mSDVGUzJXTUxsQi1OcGMxR0h4d3BQdDhtNHFzSTQzTUF2ZW1CVVY0M3dtOFMzcFdXdnpuLW5FLXRRUkZTU1VVM1U1MjBnM29NYzVSLXp6ZlhZcEVwYzBWcWM2VUtzTzkxR2doU2pYVmZyQjFNUWJsb05ObF9SaVpSWnFkMFZGcjQzSXFaa042TjNoSmVIc2xzdW1DMi1FOXNPNHVBYnhRY2dPUzVRSllwY2YxQl93dVFyRmZ0S2xndVZwSQ?oc=5",
-      "date": "2026-09-17T14:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1010,6 +1022,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "rh2IiV1KePNZ",
+      "title": "Xi’s industrial power play sees China bet big on AI, chips and smarter factories - South China Morning Post",
+      "summary": "Xi’s industrial power play sees China bet big on AI, chips and smarter factories&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUng2aGxEMnR4cjJlaWtwWDNTak1qOEUzWDFkNWVmNWRUNTBvWkQ0NVlKS3UyWlRzc1NuN1ltMks4ZnhScGY0Qkg2X1MyOHQ3Sy1mZUN5VEZMZjhKNFhTZTFET0JFYXNtYlFrdnJ4a05kUDIzVXprdjlwdEFrUGo0MGVvbDQ2NkJpNm1ZMnQ1UU50RXFXYnF6ZFVSejhOclp5b3lHQ0h4RzBFUUNRMGhrdUYxazE1UVV1QjdFYk9WajY3X3pZUmJXemktbExjRUdoOWdBc0FWUGZhdzlT0gHcAUFVX3lxTE9CQmpnSzFQUHVZMGRtMjVUdWZiR3JxeDI3VTdGdjgzSVVHVWJkeUpVMGFvRjFHdHBRZEhzNkNSaV82Mm9UQ0l6WUtGZGF4c09MLXBuVGlvWnBuRVVfRzBXSDhWYTk5WkRGY3MxZlFHcHFTdW0yYTVjZ2RBVkV6bGt6TTNLeXhUZ2MtY2swUDk5Ni1WbU1aSFJodEtsempLcVIyMDd0bDlJaEZ0SUptaFEwQ3dpMG9ya3hmYUlka0szMHppN2tGWkxOQ19XRTZiVXFhWngzVGpCVkRrYmI?oc=5",
+      "date": "2026-09-17T10:29:58+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1445,6 +1469,18 @@
       "articleLang": "en"
     },
     {
+      "id": "DFbDAiRBFSRV",
+      "title": "Opinion | The classic Chinese parenting playbook won’t survive the AI age - South China Morning Post",
+      "summary": "Opinion | The classic Chinese parenting playbook won’t survive the AI age&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeFR2X3FSVm8yOFhkVml6d2hReVBuc1pVVWVMM19Zak1ualNYVXdmZVExU2pFbnJDYVhhb2pVeGx1Ukk2NnBRSDVReXhyWXhIZEhzNTJhdjRzYlZZeEd6MmtrOThCQTZuR0RRTDBGVFNGQlN4ajF1bXJkbkVwWkowVHBpUUp3YUN3c20xeEtMVGhYbmJROFZEYzBNTzVaa29EYnc4c3V2aW5yaEFEZ2dpRlBOWXFTbDdU0gG4AUFVX3lxTE1TRmpLeDBfcVlqajNRXzZ0X09rbUYzTktndV9uZTNMRlRmWnFLa2tJa2ZoYXNYRDMzWmtRNGtGVDBsaFpYVk1zZmJ4Q0NoaTZfSDZxQlFyNXFmY0FfXzdqS05fc2dDa1RucHVMWS14OGlIVGprSFpDUG1wMUJYZ2VzdTdBZmJfZVhuSEQzZTZaYkprQ2ZWajVqcWowLXlGUDRpTkY1cGNiVkFIT3RhaHMtNS1MUzVlMmI?oc=5",
+      "date": "2026-09-14T21:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "8WQb5jcFhcJv",
       "title": "[Lim Woong] Growing old in the age of artificial intelligence - The Korea Herald",
       "summary": "[Lim Woong] Growing old in the age of artificial intelligence&nbsp;&nbsp;The Korea Herald",
@@ -1457,6 +1493,18 @@
       "articleLang": "en"
     },
     {
+      "id": "VH79EQBHekrw",
+      "title": "The Debate - Where is the kill switch? AI doomsday warnings trigger calls to regulate - France 24",
+      "summary": "The Debate - Where is the kill switch? AI doomsday warnings trigger calls to regulate&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUZsaG5FYXRNN2RxV0dlYlgwRWQ3TmJERm5icVNwU2Qyek42dWdmd1J1VzlUM0tyLTloWUZrNy1uRTNNRHkyOTJBbHRtaktJcXdVY2tkc0d0Mkg2SnhXNHpORkxmTXZiYjc5S0RLN1k0OW56ZlFWaXltNmpycFhIdDJrcWxsbjU0REp4SGIxX0tjWFBtdTZkdldhY1pySTZHYUd6S0FiUW5vQXk1OERMcWd4ZFViR21PSHc2R0N3V2lNU1ZuQ2hv?oc=5",
+      "date": "2026-09-14T18:22:42+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "bGnAWFS5lxnt",
       "title": "Donald Trump dismisses concerns about dangers of AI - DW.com",
       "summary": "Donald Trump dismisses concerns about dangers of AI&nbsp;&nbsp;DW.com",
@@ -1466,18 +1514,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "+xTTNWOTrwQ9",
-      "title": "What is AI, how does it work and why are some people concerned about it?",
-      "summary": "AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.",
-      "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-14T16:09:56+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1529,18 +1565,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gw+Zw0CGN0R7",
-      "title": "Trump downplays AI development checks, says unwilling to cede edge to China - South China Morning Post",
-      "summary": "Trump downplays AI development checks, says unwilling to cede edge to China&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQkdmYUNCaW1zOExkdk10akk4WHg0UmtpMzFXR2FEbjJaUlNuRmNKTzlUdFBmaDBBSVhtbzdWZWtwMDd0R2g5dlFaSk1hS0wzdjdYcHE3dkpCQVRpVDQ4Y01lMUFLbzhPNlNlaGY3V01id0d5ZWhqeG5adGR3ejU1czhTTkxMWTg1MTc0MkZJQU8zR0tIaGxPanI2elhTdGp6ekZld1AzaE9xQnczSDlKRlg1UnNUTDhRN3ZxRi1mczdkb0FSc3ZKR0tfeDF2SHVWN24zZUFNRU51VXJY0gHcAUFVX3lxTE5KSFM4MFJFc0FvYlU5UmhOc053QS1Rc3FnclhmYzJRSzdJbWpYc0I4T2RsbW5wd1hQUTJTbW9GSlVicWlyZ3Y0dkc1WUo4M08xbjQ4MThUaVM0NHBIMVdwMEFTdnZPVHgtajZQaWpwOGxqZWVnNHF6QWE0WEljWUh2cDhwWVUyS21PMWVLaGhPMjFqc2JCV1NyaGhrSl9wdGVzQ2VLLU5ZQWVDWHMtS2JDRF8yWTdZSzNSTUt1bkxXZ09xWVlJWGZvMllGcTdrNjM2YUtFUDNldWltclQ?oc=5",
-      "date": "2026-09-13T19:27:47+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "lbQwaOEbpWgY",
       "title": "What is AI's biggest risk: Speed or autonomy? - DW.com",
       "summary": "What is AI's biggest risk: Speed or autonomy?&nbsp;&nbsp;DW.com",
@@ -1562,18 +1586,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "2MdXHfTcpOi4",
-      "title": "Anthropic boss Dario Amodei calls for AI slowdown - DW.com",
-      "summary": "Anthropic boss Dario Amodei calls for AI slowdown&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1ZYk0xbVVWVzJTZ3lCblZLZ3ZxMTJwUXVYUkI3VUY1SnNhbDVNNkl2eXFQTkV1cU5sclRUYjJXSHliajREVWVHMkhWSzM4MUNxaG9aN1A5YmN4ZEJkQUFPVDFEQnhuN2NMbDN2ZXhFS1ZpVjFSUENGMGwzNnFjWC1KLWVkQ2oyMHfSAYoBQVVfeXFMTXBCX2VWUXNtVDc5Q0Fyd052UHlEeldEX0s5Tzd5UTVWdlRNajlJd1MtSDlYZkxvVEs2N1FVNlNVYWJvelg1NUR0YkJvdF8xYmQwbmxWdnZMV3VULTFTZHNURDFCLXY5bHJrR3duYUlRU0xEWDFJT0lTT3dGWDBocTFZMDVwV2JhWnVn?oc=5",
-      "date": "2026-09-12T23:35:07+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
