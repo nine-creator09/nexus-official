@@ -1,14 +1,14 @@
 {
-  "generated": "2026-09-25T11:12:23.759122+00:00",
-  "articleCount": 123,
+  "generated": "2026-09-25T16:35:52.179982+00:00",
+  "articleCount": 119,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "mit": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 21
+      "count": 20
     },
     "reuters": {
       "status": "ok",
-      "count": 23
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,227 @@
   },
   "articles": [
     {
+      "id": "5b5GoxHQ+Zl4",
+      "title": "The dark art of maths and the AI revolution | Letter",
+      "summary": "Bev Littlewood reminds us that mathematics has been the prime driver of the rise in AI, in response to an editorialYou report in your leader that some mathematicians feel discomfiture at the AI soluti",
+      "link": "https://www.theguardian.com/technology/2026/sep/25/the-dark-art-of-maths-and-the-ai-revolution",
+      "date": "2026-09-25T16:28:05+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "9cpOX/iR5dF9",
+      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agents's promotion across its own apps and beyond.",
+      "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "date": "2026-09-25T16:16:52+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8RCbF+tZ3dAe",
+      "title": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "summary": "Pontiff says artificial intelligence must remain at service of people in first official papal visit to country in 18 yearsPope Leo has warned against losing humanity in a “paradise of machines” as he",
+      "link": "https://www.theguardian.com/world/2026/sep/25/pope-leo-ai-threat-to-humanity-three-day-france-visit",
+      "date": "2026-09-25T16:01:10+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "aWfQ8V9loilx",
+      "title": "For months, OpenAI’s agent swarms have been attacking online databases to find obscure facts",
+      "summary": "The latest unauthorized agent swarms were discovered by researchers.",
+      "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+      "date": "2026-09-25T15:48:14+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "n2sQ6RAbLozN",
+      "title": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail - Reuters",
+      "summary": "Fed's Schmid: Need to understand if AI \"ecosystem\" getting too big to fail&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMHpWaDBIbTVNdXdEbkZOanBGSHNtdXM5WmdtcjNiNVNLVnFlM1VHWlJSM0duSmJhbVVldGZZWlB3RUhYUS1iOFliNWxwU0t5Vkt3T2tnVjJjUlZscWdtZkhWVGE0bkhYcEprMmhlYmxNLVl6RUc4eHlDT2FDX1lyakE0TXZDMEhFUElUSFA1ODhCYjBfYXdQTWdVVG1ITFpkS0ZWT1ZwaXNQUE1DSHAyRUZ4NEJLQzlM?oc=5",
+      "date": "2026-09-25T15:46:34+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "f+JNVSLvdk8+",
+      "title": "Anthropic’s founders seek voting control ahead of IPO",
+      "summary": "Anthropic is asking its shareholders to approve a  structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
+      "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
+      "date": "2026-09-25T15:40:03+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pqCkaLgWXCeC",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Since then, a string of similar incidents involving agents from",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "date": "2026-09-25T15:39:48+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "rMfR7AFCfIop",
+      "title": "OpenAI hack on Australian government reveals anxiety at heart of global artificial intelligence dilemma",
+      "summary": "As the UN warns traditional safeguards are ‘unravelling’, Donald Trump says he will encourage, not restrain, the AI raceWhen the Australian prime minister, Anthony Albanese, sat down for an interview",
+      "link": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "date": "2026-09-25T15:12:38+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "w9RL8B9W5QVk",
+      "title": "She was convicted of a murder she says she didn’t commit. Then AI hallucinations stopped her speaking out",
+      "summary": "Tasmania’s Parole Board used a document citing legal authorities that do not exist to prevent Susan Neill-Fraser from proclaiming her innocence. Advocates say the case is ‘deeply troubling’On 26 Janua",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/26/sue-neill-fraser-yacht-murder-ai-court-case-media-ban-tasmania-ntwnfb",
+      "date": "2026-09-25T15:00:11+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "igZDkWW1ESD5",
+      "title": "NSW crackdown on ‘AI-doctored’ real estate listings hits mural-covered wall",
+      "summary": "Apartment with strange view singled out in government’s fight against deceptive ads – but real estate agent says photo is no fakeGet our new political email, free app or daily news podcastThe New Sout",
+      "link": "https://www.theguardian.com/australia-news/2026/sep/26/nsw-crackdown-on-ai-doctored-real-estate-listings-hits-mural-covered-wall",
+      "date": "2026-09-25T15:00:10+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "NL6Yjm4/gEE1",
+      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
+      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development Save up to $200",
+      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
+      "date": "2026-09-25T15:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "zY4qqHtw2WzO",
+      "title": "It’s going to take more than an email to a public inbox to protect Australians from potential AI doom",
+      "summary": "OpenAI’s hack of Medicare suggests safeguarding civilisation is the task facing leaders in this extraordinary new eraGet our breaking news email, free app or daily news podcastMore than 130 world lead",
+      "link": "https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
+      "date": "2026-09-25T14:58:32+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "+YxKBW5cicLD",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "date": "2026-09-25T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Q8rSf3ZDPQt5",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The Pentagon wants $30 million to build an AI-powe",
+      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "date": "2026-09-25T12:10:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ceNkX8SZlbf8",
+      "title": "The comedians turning AI anxiety into punchlines: ‘It’s so good, it’ll completely alter our grasp on reality’",
+      "summary": "Across videos, standup and cartoons, humorists are skewering big tech’s attempt to make AI ubiquitous and inevitable“Best case scenario, we never have to do any admin again,” says an AI CEO. “Worst ca",
+      "link": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+      "date": "2026-09-25T12:00:50+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "LolBbhzOp1OH",
+      "title": "It’s not hypothetical: the dangers of AI are already here | Granate Kim and Mohamed Hussein",
+      "summary": "Israel and the US have used AI to kill in Gaza and Iran, while law enforcement uses it in surveillance and arrests. The future is hereIn recent weeks, concerns about AI have forged unlikely alliances",
+      "link": "https://www.theguardian.com/commentisfree/2026/sep/25/ai-israel-gaza-iran-police-surveillance",
+      "date": "2026-09-25T12:00:50+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "9Ff2Ti2gkciP",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "date": "2026-09-25T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "f7YfvY0eHgrz",
+      "title": "Prix Goncourt drops Canadian-Haitian writer from top French literary prize list over AI claims - France 24",
+      "summary": "Prix Goncourt drops Canadian-Haitian writer from top French literary prize list over AI claims&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMzdpbGFFQ25Hb2dPMHNhamJPZlVhVVdwSXdKNEZ4akQtblp1TGpSLVZOdlYtRzE2RUNtMV9vOVd6Y1loU3Ezamp5YXZ6Um5ydUdGUUd3SFR4eWZrQ1VjYllqSjlBczRsTEVNa3BuNVBWb3JITmJ0enU3S3RuRHBOdzliOTlINDQwN192Uzk2anZQb0NkdFZ1V1Bjd0d3c1BRMUE2ekI4NzJSS2dVcmtsMTJTaklRREFTeW9qbFdINzAwcjR2ZllHRjVMU2k5UmZ6QWFnTzNFVjI0WmxOa1RsMUJn?oc=5",
+      "date": "2026-09-25T11:35:26+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "bn5QGXyeQZ7r",
       "title": "Rogue AI hacks government system for first time – The Latest",
       "summary": "A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but onl",
       "link": "https://www.theguardian.com/news/audio/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
-      "date": "2026-09-25T10:16:45+00:00",
+      "date": "2026-09-25T11:21:54+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -91,7 +307,7 @@
     {
       "id": "YFXrSxYAoQjg",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “P",
+      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Poly",
       "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
       "date": "2026-09-25T09:16:25+00:00",
       "source": "MIT Tech Review",
@@ -329,18 +545,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+/qDyjbeBDB7",
-      "title": "Rogue AI hacks government system for first time - The Latest",
-      "summary": "A government database has been hacked for the first time by a rogue OpenAI agent, which infiltrated part of the Australian healthcare scheme in June. OpenAI became aware of the hack in August, but onl",
-      "link": "https://www.theguardian.com/news/video/2026/sep/24/rogue-ai-hacks-government-system-for-first-time-the-latest",
-      "date": "2026-09-24T17:14:53+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "0BJt+/3jbpy1",
       "title": "Muse sure looks a lot like OpenClaw",
       "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A",
@@ -401,30 +605,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LmoutItFWDWk",
-      "title": "Ben Jennings on smart glasses and AI hacks – cartoon",
-      "summary": "Continue reading...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/sep/24/ben-jennings-smart-glasses-ai-hacks-cartoon",
-      "date": "2026-09-24T16:25:06+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "KTfRH+hNKmnT",
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "date": "2026-09-24T16:04:31+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "8JhxhC7QixSG",
       "title": "Google tests letting Gemini call businesses for you",
       "summary": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
@@ -449,18 +629,6 @@
       "articleLang": "en"
     },
     {
-      "id": "k0wRFJSwkoqo",
-      "title": "Parents and carers: how has your view on your children’s use of social media or AI changed?",
-      "summary": "Is the scrutiny tech firms are facing making you rethink your children’s relationship with technology? Let us knowAI and social media companies have drawn intense scrutiny in recent months for some of",
-      "link": "https://www.theguardian.com/technology/2026/sep/24/parents-children-ai-social-media",
-      "date": "2026-09-24T15:59:08+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "YU1vPQPEC1aQ",
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
@@ -469,18 +637,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "6hC6m+e86irQ",
-      "title": "AI hack of Medicare exposes Australia’s vulnerabilities and experts warn ‘there is more of this to come’",
-      "summary": "Council on AI Strategy chief says incident unlikely to be isolated and country should enhance capability to detect and report incidentsFollow our Australia news live blog for latest updatesGet our bre",
-      "link": "https://www.theguardian.com/australia-news/2026/sep/25/ai-hack-medicare-australia-vulnerabilities",
-      "date": "2026-09-24T15:00:21+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -497,18 +653,6 @@
       "articleLang": "en"
     },
     {
-      "id": "CLCBZCB4E/uT",
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "date": "2026-09-24T14:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "eEnNwT5Byhz9",
       "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
       "summary": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
@@ -517,30 +661,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "+7KVwOMT4kCf",
-      "title": "Google is sending an AI satellite into space next week",
-      "summary": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher,",
-      "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "date": "2026-09-24T14:15:17+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "7i5yJvy+KLuJ",
-      "title": "The vibes are bad for Flock in Washington",
-      "summary": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th",
-      "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-      "date": "2026-09-24T14:15:05+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -554,30 +674,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "eCx0deuoylMZ",
-      "title": "‘Eat the rich, save the planet’: climate protesters call out big tech’s disconnect from reality",
-      "summary": "Activists gathered outside the OpenAI offices on Monday during climate week in New York CityOn Monday evening, protesters gathered outside the unmarked Manhattan offices of OpenAI, maker of ChatGPT, h",
-      "link": "https://www.theguardian.com/us-news/2026/sep/24/climate-protesters-ai",
-      "date": "2026-09-24T14:00:21+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "ymOK+D+H67KW",
-      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-      "summary": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-      "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-      "date": "2026-09-24T12:54:19+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -701,18 +797,6 @@
       "articleLang": "en"
     },
     {
-      "id": "G63CUFuQc1ax",
-      "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
-      "summary": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, callin",
-      "link": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
-      "date": "2026-09-24T09:19:28+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "1IZNbDQXm7lY",
       "title": "China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian - South China Morning Post",
       "summary": "China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian&nbsp;&nbsp;South China Morning Post",
@@ -761,18 +845,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "eUjoIHl4I9ZS",
-      "title": "OpenAI’s Medicare hack is a bleak opportunity for Australia to address its security shortcomings post-haste | Van Badham",
-      "summary": "All Australians should demand independent means to protect ourselves from Dr Sam Altman Frankenstein and Daddy AmericaWhoopsie! Dr Sam Altman Frankenstein regrets to inform you he’s lost control of hi",
-      "link": "https://www.theguardian.com/commentisfree/2026/sep/24/open-ai-medicare-records-hacked-australia-cyber-security",
-      "date": "2026-09-24T07:27:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "zWEBBHw/DAcx",
       "title": "自治体、企業で進む「Google回帰」　事例で分かる「Gemini Notebook」の活用アイデア",
       "summary": "生成AIを業務に取り入れる企業や自治体が増えるなか、重要になるのが、実際の仕事でどう使うかという視点だ。既存のシステムや業務との兼ね合いに加え、セキュリティや運用面での検討も欠かせない。",
@@ -783,18 +855,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "mswLb302kFb2",
-      "title": "An OpenAI agent infiltrated Medicare – and Australia only found out months later. Here’s what we know so far",
-      "summary": "Experts say ‘fairly minor’ breach is a portent of things to come and proprietary closed systems like OpenAI are ‘the least of the worries’Follow our Australia news live blog for latest updatesGet our",
-      "link": "https://www.theguardian.com/technology/2026/sep/24/openai-agent-hacked-medicare-australia-what-we-know-so-far-ntwnfb",
-      "date": "2026-09-24T05:57:02+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
     },
     {
       "id": "V1oEHWUAlryO",
@@ -818,18 +878,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "EDpY0evqjq5e",
-      "title": "Everything new coming to Meta’s AI agent Muse",
-      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass",
-      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-      "date": "2026-09-24T01:13:32+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -857,30 +905,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "+mOp287J0peR",
-      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "date": "2026-09-24T00:46:17+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "hbbBULS1/fD5",
-      "title": "Meta introduces camera-free AI glasses",
-      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
-      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-      "date": "2026-09-23T23:39:44+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "i0mg2209hK30",
       "title": "Claudeがブラウザを自律操作する「Claude in Chrome」一般提供　プロンプトインジェクションをどう防ぐ？",
       "summary": "Anthropicは、Webブラウザの拡張機能「Claude in Chrome」を全ての有料プランで一般提供した。操作ごとの承認を求めず、AIエージェントが自律的にWebブラウザを操作する。実行の前に安全性分類器が各操作を検証する。",
@@ -902,18 +926,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "6Bp1CCE3A88i",
-      "title": "Anthropic says its biology lab has already found something big",
-      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
-      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-      "date": "2026-09-23T22:17:39+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1001,10 +1013,10 @@
       "articleLang": "en"
     },
     {
-      "id": "OqMQd1vX5nDD",
-      "title": "In Focus | Will Xi and Trump find common ground on AI risk amid an escalating tech war? - South China Morning Post",
-      "summary": "In Focus | Will Xi and Trump find common ground on AI risk amid an escalating tech war?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1hxU1dpaFdILWU0NmFIaFVkZFVVSjdNX3hjaWJaTTZaVzlmbk55Wl9aS29Za0FMR1hjRWVBQ2V1dXRoM2NFWVYzaDViYlBURjZHRWlJVnU4Wm1jVUk4MndZQUI1ZjJFMW5sa1Bna3UtOFh3SE9GNHlvWmRvYWUzNjU2M0pOMTM0UDA0d0FrNHpWWUZEU0RKWWtSRFNLRVc3VE01VnlSM3c5QnJXNnVMYmVCMXpPYmw0S3QzV1JCb1lFVDlOZ1BUbA?oc=5",
+      "id": "QWtaYQqw6zdX",
+      "title": "Will Xi and Trump find common ground on AI risk amid an escalating tech war? - South China Morning Post",
+      "summary": "Will Xi and Trump find common ground on AI risk amid an escalating tech war?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPS1hxU1dpaFdILWU0NmFIaFVkZFVVSjdNX3hjaWJaTTZaVzlmbk55Wl9aS29Za0FMR1hjRWVBQ2V1dXRoM2NFWVYzaDViYlBURjZHRWlJVnU4Wm1jVUk4MndZQUI1ZjJFMW5sa1Bna3UtOFh3SE9GNHlvWmRvYWUzNjU2M0pOMTM0UDA0d0FrNHpWWUZEU0RKWWtSRFNLRVc3VE01VnlSM3c5QnJXNnVMYmVCMXpPYmw0S3QzV1JCb1lFVDlOZ1BUbNIByAFBVV95cUxPX0xrYjZEckFfVDFvWmxRTlZFdTJTSVBnMmg3VUVDTF91bHlvU0ZaODJNMV9tYWdLR1B2VUJNUHNOcmhwVUdvNG9oeHdBQUJSQUMyMFlNc2xrd0ZieUFRWUhJTE52bXdGY3ZVQmpUd0FQZ3ZXRFA3c0NyakV1U0VfVk0wVWpvd1dCV0JJZGRGRUJ0S2xsOEM3aXdZd1M4VlU1VUExY0VIZjBxQ2ozZVhtVlVGcGNraWYtcU5qU3hZZHJBOThVWUxhYg?oc=5",
       "date": "2026-09-23T15:00:06+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1106,18 +1118,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "9XWkVCdEZspO",
-      "title": "As Trump and Xi meet, investors play both sides of AI divide - Reuters",
-      "summary": "As Trump and Xi meet, investors play both sides of AI divide&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQW45WkNOV0lEcDRQOFUxcGJRanlYNURFV2ZuNVg1MUk2dk4wMEhmMUp4VVd3NjBWN1RuOHY4c0QtQ3hxcWVITnpOblZJWl9KSTBWUUVDQUgycjdlRk9lMUhvVDAxN25hVHZXM09HOGZYdE1qdDRUX19DeVpwWXlwV2JNcmdpRDROMGVlNm95NFEyaEpTN1FDYk1CazdaOXNXWkZIekRMN2lCOUN5ZXFZ?oc=5",
-      "date": "2026-09-23T09:09:37+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1229,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kuFsgOGFycjp",
-      "title": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks - Reuters",
-      "summary": "Banks warn AI shopping bots raise scam, fraud and data-privacy risks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDlYaXB6UFVtWndZUGJsNy1FQzRrM203TUc1RDA0VTZ5Y0FaZ0JHVnV0dzVKMHJkSGowOUFYVUs5N1Y2QWJibzhJZEJpbk8xUmxja1o2ME9tY0hfZjRCOGFGWjVVcmVza2F2VGdvNzJjRnVlY2tzeTdIWWUxREVrNkJYRWRPazhzcG00b0NNYzJDRjlQRmhFV3JlQWNZS2lJWFZfeV9VMmdrdmJiZ0xWNlVkblM2Qk0?oc=5",
-      "date": "2026-09-22T15:20:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "5FCZTrdDpHud",
       "title": "China’s Hygon expands into physical AI with new chips for robots and factories - South China Morning Post",
       "summary": "China’s Hygon expands into physical AI with new chips for robots and factories&nbsp;&nbsp;South China Morning Post",
@@ -1277,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Vu8L676UKKG7",
-      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —T",
-      "link": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
-      "date": "2026-09-22T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "OYo24BcTz+2n",
       "title": "Alibaba debuts ‘China’s most powerful’ AI chip, teases 10-trillion-parameter model - South China Morning Post",
       "summary": "Alibaba debuts ‘China’s most powerful’ AI chip, teases 10-trillion-parameter model&nbsp;&nbsp;South China Morning Post",
@@ -1322,18 +1298,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "njNwhC2zbJmO",
-      "title": "AI could boost LatAm, Caribbean economy 5.1% over a decade but wages may fall, IDB says - Reuters",
-      "summary": "AI could boost LatAm, Caribbean economy 5.1% over a decade but wages may fall, IDB says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVi05aHpLMlNmUWw4ekwzTlpCdVBzVzJQaFNCZkM1OTNfNWViRTh2SThXLUtDV0FTbXBWN0tNVkNhTkNoSE9rZlVoVDhtM1NlYk10czhvclNaa1Rzb2dpQVkyRk5UU0wxTzd1Q0FyS0NpdzhWVWN2SFgzOV9aeDlWWXVwaHRIckFJVzRVUGswMFlCa2k0aWVJbEdJNEROSGtGZE45T1BXSEVDRjA5bVBPOHlR?oc=5",
-      "date": "2026-09-21T20:44:26+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1460,20 +1424,8 @@
       "id": "O2F/F0P0O9B0",
       "title": "US announces AI dialogue with China, launches Board of Trade - South China Morning Post",
       "summary": "US announces AI dialogue with China, launches Board of Trade&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnRWbjR0OC1TWVRRck9iMGlBRkp1TzdNbHp5Q0xFVEVaRUtVNnhybXNWcndMamhzNEc4UFkzRVlNa2Q5aUljenRDZUI0ZWNRNmdSNXIwX1p1aVVWOEY5WjQ2b0szN2VsRVFmNWl2ekVoNXpCdG9XZEY4VVV0QnZNcmdIRzh5VUFFamNXY3pwMHpQUTZKTDdMMU8ydXU5TFk2cXktcVBtbWFaM3FDTW1CZU5JdUZQZ9IBtgFBVV95cUxNZEdfelhXeDNnakR5OHJkQmNEajc3TVdJV0pSZERvSGJ2TWt5cW91eHg4dUdERDkxV2l5eFd1YnRCOWl6NkM5Ym9Penlyb1dYZWtJN0h3a0hXc2xZRlBidFlUQkduR1dpc3lPVm10MkRCeVFnZnRETVNBQ0VaY1dYVmJYOWFFR1pQV0UxZmlsbm9qUHlSSTZBYU9ZYlFFaHV4cXpMYU81c2VOWU1HV3JzZ1RCZm1oUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdnRWbjR0OC1TWVRRck9iMGlBRkp1TzdNbHp5Q0xFVEVaRUtVNnhybXNWcndMamhzNEc4UFkzRVlNa2Q5aUljenRDZUI0ZWNRNmdSNXIwX1p1aVVWOEY5WjQ2b0szN2VsRVFmNWl2ekVoNXpCdG9XZEY4VVV0QnZNcmdIRzh5VUFFamNXY3pwMHpQUTZKTDdMMU8ydXU5TFk2cXktcVBtbWFaM3FDTW1CZU5JdUZQZw?oc=5",
       "date": "2026-09-20T14:34:25+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "QO5I8i+UJC/W",
-      "title": "Chinese AI firm Z.ai faces reputation hit after unauthorised uploads - South China Morning Post",
-      "summary": "Chinese AI firm Z.ai faces reputation hit after unauthorised uploads&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMGQ3WDY0UFh2M01udkROM0NqYWs1NlZPNnFtSXV3WFNEcFZKcU1EdktRdUJaOEFPQkNfUnNXRkY2X3pfS0VIODE5RzM5WWJkdFR0aEd4ZWNOMTRFSnhZWTdHWDhGSkg4Q3VRSmk1dzZhTUFBSkN6MmQ2eExwUjRLaUMtMjZnOF8tR2tkX1Z2YUVEVGZqb2V0LXZiaHhNN2RGaHcxdXJhZWlxUlVFcmNIdzdHcGFKZUY2SkRheFB6LUp6SUJkeWtwMDE4Tk3SAcwBQVVfeXFMTW12LXJVZVB0SERUVEpvOUxGeFlHak9idHFZZUdENV8xVGVvYWxYeHBsWENkVjUwbG9yLUlJRDU0LVFNQ2xZaGhiZElwaTNHYVVST1pZTHhlYTNnaHNPRm5GRWtGNUtzZWNJcXA1U0FuRnRJbHZSUVpKdjg1VmpUd25TbXZaMXRtVjJVdjc4WDBDYWd4d21aTWVaYlZUY1JlV1RTaHlRT29rdXQ2UXAtTjkzX2E0YWpzaVNPVk9NVWNiVGhvejVVUERTWUV0?oc=5",
-      "date": "2026-09-20T13:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
