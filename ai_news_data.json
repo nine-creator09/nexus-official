@@ -1,6 +1,6 @@
 {
-  "generated": "2026-09-29T21:53:48.674448+00:00",
-  "articleCount": 121,
+  "generated": "2026-09-30T04:06:26.157973+00:00",
+  "articleCount": 126,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,15 +28,15 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 23
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,150 @@
     }
   },
   "articles": [
+    {
+      "id": "Z7qYycFGZJhJ",
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-30T04:01:52+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "woXogKPzuOAa",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "date": "2026-09-30T00:19:13+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "JqiXPLGCAoUT",
+      "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名",
+      "summary": "トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した。主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名。米連邦政府は行政窓口サイト「America.gov」の創設も発表した。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001871/",
+      "date": "2026-09-29T23:56:35+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "BmB8GLLsHy49",
+      "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
+      "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-29T23:47:10+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "0ZybYtcFH485",
+      "title": "Trump says AI companies agree to 'self-police' - dw.com",
+      "summary": "Trump says AI companies agree to 'self-police'&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTJZa2VBWVNCT2Vya3A3ZC1yRC1NZEJpalFQc24tUGhMaVo3SEpNMGlrVmY4bTRFeFVUS2kyVGtsZnlUM2dNTWdMcGMyRWZmam1MSm1iR0tpbDJIa1hkeW1yOWdFaDBSa0ctQmhjTWpydjZLTlhwQ01XSVZtQzBtTVBpSdIBgwFBVV95cUxNQW10V2ZyVkRXazdKQkZHekFYcGxvUXpyNVRLQzl0RXdFcmplTDB3QkVaTGxYQ3pZX2tHb21IMVNXOW9BQ01iRU1nWVROczNfc2IxRWRfQ3c3eFFENk5XdkUtRTZFY0VTcGhkUWtRV0F6aF9ITjMzd0xKN2ZOQjFoWDI2Yw?oc=5",
+      "date": "2026-09-29T23:26:23+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "4xNaoHDgRRYB",
+      "title": "Trump announces vague ‘morally binding’ AI deal among tech CEOs for ‘tremendous self-policing’",
+      "summary": "US president also issues executive order officially rebranding ‘artificial intelligence’ as ‘superintelligence’Donald Trump announced on Tuesday that the heads of the largest US tech and AI companies",
+      "link": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+      "date": "2026-09-29T23:21:25+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "lkkjHNWUhM8N",
+      "title": "Trump, AI CEOs sign voluntary safety pact, back data center expansion - Reuters",
+      "summary": "Trump, AI CEOs sign voluntary safety pact, back data center expansion&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbnRqUzdYZGRGeF82aU9Kc3BzNk9rLWZwTjJBNWhVNTRfcXU1UEtWWC1XNndCWGNHZDZhekREX2k4bUg1VjNNLUpMSV82U281RTJqMUZjMjFVRzhXaGZ1Q1B0TG9XWG9OVFBHSGZlZnZmX3lBcHp0a2Nrb3daZGliamtZY2kwNUEtRm9Mb092bDVxemtaVGlRME5WM2xXRHZOX25IQWk2cURXc09paHJVNEdmT1Q4UTg?oc=5",
+      "date": "2026-09-29T23:21:06+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "ooYzhRjdBJl8",
+      "title": "Chinese AI tool told researchers how to make bioweapons",
+      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-29T23:15:29+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VsziMMXYVD8M",
+      "title": "OpenAI、豪政府サイトへの不正アクセスで謝罪　最先端AI学習の安全指針も公開",
+      "summary": "OpenAIは、学習中のAIモデルが豪政府サイトへ不正アクセスした問題で、通知の遅れを認め謝罪した。ネットワーク制限の強化や最上位モデルの学習停止に加え、航空や原子力分野にならい学習前に安全性を体系的に検証する仕組みを導入する。豪議会の特別委員会にも出席し、一連の経緯を説明する。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001869/",
+      "date": "2026-09-29T22:41:40+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "KpllS1NkKU1q",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "summary": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "date": "2026-09-29T22:25:45+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "/7W5COMbOyWv",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "date": "2026-09-29T22:20:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kwrjXPpEPnvu",
+      "title": "Trump releases AI accord with tech executives - Reuters",
+      "summary": "Trump releases AI accord with tech executives&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLWFxb3Vsc1pSQlJBMjF2MHFDc3VldTcyWmp6OXUtbVZUNkJqRXlnY2pmR1ZhSktTSl9QTVlLMEVoblVtSlJZMVBNZG1jTFB0clhWV1NOOGRCa2NYd2Q2WUY3X05sOFMzRnNnOVhhS0dXZm5fa05iY0NVVUZRdk1WU0JmYndpZjYwRUJFcmlyNmJkS1BO?oc=5",
+      "date": "2026-09-29T21:59:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "yXJCMR5dAaq8",
       "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
@@ -77,6 +221,18 @@
       "articleLang": "en"
     },
     {
+      "id": "EDlIsxtZT4m6",
+      "title": "OpenAIの「DevDay 2026」で発表された主なことまとめ",
+      "summary": "OpenAIは、年次開発者会議「DevDay 2026」で20件以上の新機能を発表した。常時稼働エージェント「dots」、新モデル「GPT-6.1 Sol」、最大8倍高速な有料枠「Ultrafast」を投入。Codexのクラウド実行やチーム向け協働空間「ChatGPT Space」も公開した。",
+      "link": "https://www.itmedia.co.jp/news/article/2609/30/2000001868/",
+      "date": "2026-09-29T21:36:34+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
       "id": "c+7VStlgHnoK",
       "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
       "summary": "Company’s product comes weeks after Meta introduced its own artificially intelligent agent MuseLess than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model o",
@@ -86,6 +242,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "7ZIy7w74dvlT",
+      "title": "Inside McDonald’s push to have AI price your Big Mac - Reuters",
+      "summary": "Inside McDonald’s push to have AI price your Big Mac&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA?oc=5",
+      "date": "2026-09-29T21:08:10+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -113,10 +281,10 @@
       "articleLang": "en"
     },
     {
-      "id": "2Q2xX19i5f7m",
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "id": "ngl/3A9SYymW",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
       "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
-      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "date": "2026-09-29T19:52:37+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -125,15 +293,15 @@
       "articleLang": "en"
     },
     {
-      "id": "0iz0BshZSlH8",
-      "title": "OpenAI takes on Meta with dots agent in enterprise AI push - Reuters",
-      "summary": "OpenAI takes on Meta with dots agent in enterprise AI push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHpSWDN2U2FHZk9uM2NIZVVkQjVWQXBudENFN09DM3ZWdWlBdVdCdndKTFlQa2duMmpYcDVYamdOSGNhTnBkQmQ1dG01T3ZYU2Zyb2VEXzg1VG05N1dwR0FWZlNqWDlNNldWS2VEcGlDby1TQ1JUMy1La1R1TncwQkN1OVRIN2lEeDJpQTQ2VkNXZ2lmVG12bHBPOU5sZW9sX2FvSlk5VGhTU3c?oc=5",
-      "date": "2026-09-29T19:43:48+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
+      "id": "SUEZWQRVNcal",
+      "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress - South China Morning Post",
+      "summary": "Trump rejects calls to work with China on AI safety despite Xi summit progress&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTRPVkI2a3ViUGcxYlJldktDS0ZtTXhuWmJibFo5azRiNlVGLTd2am51eFhCaVhjaWs3U0owOXNrdnRsQVZlUDk1dFdRMExxbmt3UzdZNk9rVnF6SDNERVpXWTlodHlHMVFzT0RVQ2c1N3gxY2pwWThHRUZfb2RtY29qZzV6N1pFUnprVXdkeXFSYm1aVS01T184akF4LXlHcjFKM3VaQzhkdTduNDFaS1RMTVFTc2FOOEowRmFsRUI2T1nSAcMBQVVfeXFMT2JON2h4b2tJNE1ENUNhR0tIWGZTV3RiQTIxckxZY0d5N181UjBnWFFEa3lXMnIwT01rMVZRRXRmS1N4Z3dIME5MVDlZRGdDTVRPempvVEIyeFBRQkFnck5GT3Y0WUVYclpEajRSaDhDUzdlbkRWOWhqbzFtMEh3UW95dWVmb3hmaHJHU3JDdW5TZ0hmNlJBUXB0TnZELXozMy1pNzNSa2JkSkhXZlhjQkRHc01aSTVoNS1LVWFPZGgxN1Qw?oc=5",
+      "date": "2026-09-29T19:32:03+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -142,18 +310,6 @@
       "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
       "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
       "date": "2026-09-29T19:30:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "z5NkEfJ94I0i",
-      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
-      "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
-      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-29T19:17:43+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
@@ -221,6 +377,18 @@
       "articleLang": "en"
     },
     {
+      "id": "VYzT5yiav50v",
+      "title": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports - Reuters",
+      "summary": "OpenAI targets $30 billion funding at $1.4 trillion valuation, Bloomberg News reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTW5MdG1uUmc5OGRYalhONHdTSDZpOXQ4Y09pNF9Bc2tBb3RwYksyZ0d5V0J1SHI2akpadEVlUnJjNUVGRnVDVmtJTktRaGVfNWVVRUdlX2hXdlotYkJZZU56b0NHclcwb3ZCcWhzWGVhcXNPWDRBSC1acUoxUkRTVXhmUmw1dVhQRUlxVkIyOUhNLVA1Rko5dFNVMlVKekVSZnl0UE5OQnRJUEl5eEFYTEpxM3VfSnlSWGJCTXItbjJmUllQZnRKNlYyQVRxaUU?oc=5",
+      "date": "2026-09-29T18:27:05+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "dcWadSOGd3n9",
       "title": "ChatGPTに「Ultrafast」、Astraを8倍高速に　利用には「月500ドル」最上位プランが必須",
       "summary": "米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。",
@@ -283,7 +451,7 @@
     {
       "id": "v1bTkAzt5NCJ",
       "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
       "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "date": "2026-09-29T17:20:00+00:00",
       "source": "TechCrunch",
@@ -317,10 +485,10 @@
       "articleLang": "en"
     },
     {
-      "id": "96BkHCfOXJmG",
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "id": "SpEiytMoTa4D",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
       "date": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -329,9 +497,9 @@
       "articleLang": "en"
     },
     {
-      "id": "C7Yu3OcEuM9Z",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "id": "mL8d4IV2ie9C",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
       "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "date": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch",
@@ -341,10 +509,10 @@
       "articleLang": "en"
     },
     {
-      "id": "SpEiytMoTa4D",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "id": "96BkHCfOXJmG",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "date": "2026-09-29T17:15:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
@@ -377,21 +545,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Fm2Y3K73Q0hx",
-      "title": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
-      "summary": "China's AI agents can lie and scheme - just like their US rivals&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
-      "date": "2026-09-29T16:57:17+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "7b8RMhDnOR5U",
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+      "summary": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues.",
       "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
       "date": "2026-09-29T16:55:56+00:00",
       "source": "TechCrunch",
@@ -461,18 +617,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7ZIy7w74dvlT",
-      "title": "Inside McDonald’s push to have AI price your Big Mac - Reuters",
-      "summary": "Inside McDonald’s push to have AI price your Big Mac&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA?oc=5",
-      "date": "2026-09-29T13:53:23+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "D4avM6362uql",
       "title": "Meta is expanding its AI agent Muse to small businesses",
       "summary": "The tech giant says the agent can help owners run their business and find new customers.",
@@ -482,6 +626,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "v14dbiB+sjhi",
+      "title": "More than half of China’s population is now using generative AI: report - South China Morning Post",
+      "summary": "More than half of China’s population is now using generative AI: report&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONU5hd0xQTFlVeTdkY0tmbEdDUXlIQmlqY2JmM2ZxLW95Yk5kQWNhT1pwcjRLcFU4RjVjSnktSkszbFQ2MlRRYWE1ZGpXa3VNVWFRLWxDRDZrbkUtNkpPWVJtY0MxS2hoYmt1aVpPYzdxTThZcGlHcmJPdmdRY3ZienhURmE4MThwVTFONmVuMUlFZXEzSzNlYmpCb3ZOREVoZXE4V3FGLWZwenpvSkQzcDZyU0M4cnZKUlVxMVlMM2Ezd2JEZXpOYnJ5LTFfQ2fSAc8BQVVfeXFMTVFJempGMmd5d3A3aW93c2xaM2cwRWh6OGgxclZIVTE5Z0o0dXpPLUZoMVNQa1VqVEZsNXE5OGRzUzVicUtQR0lwSHdKMWJuODVnS21Ya3kwSVdvTVRjMFdhRkJ1aUtkR3ZmdGJXeEY1N3p3cnVyVEVvNWhUY2J2azMySFNmUnRWbnIzU2ZWb2lKVElibVc0d3lJVEUyWmlFcHplQkhCUmlJQkZaZjNza25YUlNibDcwUjlaSWZrbTBRTnpxblR1OVA3TmlERWNr?oc=5",
+      "date": "2026-09-29T13:00:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -533,6 +689,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Fm2Y3K73Q0hx",
+      "title": "China's AI agents can lie and scheme - just like their US rivals - Reuters",
+      "summary": "China's AI agents can lie and scheme - just like their US rivals&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcV91dFhINlctVXNLUDJtUDE4SFRwdTBUVUJLYW9Ed09WSXlhZzB0RWFqRldma2FjVGd5NXBFWkMyQldUMGVPcTd5MjM0VjJ1TERaY0dfZkF5VklnbTZ6VzNBcmJkTmROUTJWVWkzRGhMbkZ1RktfX1BfNVBTUzFGMEljaElSUHU5Vnd6S25NZGVCUXpYYnJocnBPTG9Na0VxSnpLbGlWclk2TmlMRjcyelFhT0pIc0NpRFE?oc=5",
+      "date": "2026-09-29T12:02:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "Ths0d3OSch3+",
       "title": "Stop shaming people for using AI. Start organizing to prevent our obsolescence | Garrison Lovely",
       "summary": "The industry is engaged in a perverse quest to replace humans. We cannot cede the best tools available to the other sideI don’t need to tell you that people hate AI. The list of grievances is long: sl",
@@ -542,18 +710,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "CeXvbW9+3PRM",
-      "title": "To manage AI threats, US and China ‘need to get on the same page’ on risks - South China Morning Post",
-      "summary": "To manage AI threats, US and China ‘need to get on the same page’ on risks&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMjNRU0YwQ1E1cnJIaS1WNmNtd2RMRGdJNlBKWnBta0VrZjlKRWozZjVUbXV4Vjl0eFFra293Yy1kMVFuR2F4STlQNnZfd3hnZmlXbDhlS2V3SlFqVmlnUHpIclR6YVp4OHo4MnhFUDJmbkhtcWVuMTN6a3BxRFF4ajVhNWRXRHl2blhEdHhaRWRVM3M1QUx3VlBUbjdwSERqZXZNOHdfNW9qUjd4TVZseWVGWUVTeVIyN3FnVE1BcDZmek9RZmdsLU9LZjVHUGczMVlPdGJSRGpzZ9IB2gFBVV95cUxQY0ZJNk5RYTBVN2RMZi1KWlNBcFo1ZDJKeTM1S0w3YzdBQjVYZjFsdkZSZC1sUUx0SVdSbHIwZzNVaWxRN0xDYkN2QjZoMG04UkFqNkFlR0l2NkFsYU5YMkxpMTdMSkJXY1AtWENUT0x1ZmswVWFuang1R0NHanRfeW9iZ3dKOXRJdHc0Z3ZXTmVYUkVfSU9EX29scXhsY0kzTkxsbHlDRDNQY1hBZmQyMGtUalpwU3Jrbkw5SUFtTXVJa1pxeXoxNHVELVZSUWJDTU5MbWNaQkxDZw?oc=5",
-      "date": "2026-09-29T12:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -602,6 +758,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ef1ZDnZ6Ye8R",
+      "title": "OpenAI model bypasses internet safeguards - dw.com",
+      "summary": "OpenAI model bypasses internet safeguards&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUnFzS3B1bGpHUmg4cnhvVTBQS1B2QnRtTzZ6T0ZCTGVVY1dqNDNlU2UzVEQyQXRYZUV5YTZjYjJyY09CTlZhd2NMWVN5RVFhaktLVVlBUy1YMVhaZGNhNzF5TnItaFJUc1MwMUJXX2d2STZDUkxFdjZLXzVYMnlqTWVuVXk4ZEkwZ0JMY0tScldzRWRmT1d0WFA4SS1iR0xreG0zR2tXQXhvQVJydTJGZGhjMkV0anc5eC01QjhpN0ZKMVM4Wno2ODR4WQ?oc=5",
+      "date": "2026-09-29T11:05:47+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -701,9 +869,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Uw6Q4HxPSmiy",
-      "title": "AI: Concern grows as Germany plans to double data center capacity - DW.com",
-      "summary": "AI: Concern grows as Germany plans to double data center capacity&nbsp;&nbsp;DW.com",
+      "id": "jpstmmA9NQ0p",
+      "title": "AI: Concern grows as Germany plans to double data center capacity - dw.com",
+      "summary": "AI: Concern grows as Germany plans to double data center capacity&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakNybHhObDlsLU9oQmV1OEtvTjNFVEFPaEdaNG5aWVd5NjJZSTN0MzU1cTEwVVRjZXNWYVBtbjMzTjd1T3B6RHkxNTJLbkd0OUFzTEN4SGJUZjY3em1rVjNFTUR5MDA3aFEtZDlYS1c0Wkh6X1VrZHpNOUVKaXZCNDNvdG5UZm5qekQta1pRUnl2VFppYkHSAZYBQVVfeXFMT0ZWWHR6aE44UnZCWFRsMDgyMF9iNWZLeUF0cndFVjZSdmlfZWczNGhsZHhiLU5DakN4S01VeFdrWTV1M3dZNGpyVkVncVpzYkIwSjlNcGw5YXhVRGUwUVIxRXhRdm01YTJXakZPRDQyLVktbVhscjR5QThIUEtVM01LRFc1Sk8xSWRLcnA3aE9iUGQ2OTBR?oc=5",
       "date": "2026-09-29T10:12:45+00:00",
       "source": "DW Tech",
@@ -773,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "LsM+/rU9/72f",
-      "title": "PODCAST: The right way to prepare future workers for AI - Reuters",
-      "summary": "PODCAST: The right way to prepare future workers for AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXh6TTM2emNuYks1UE9URk1wWkRoWVE0U000aU5EQzdaRmhZQ21Cd2poUzY2VnZaMjI5R21DdXZBeldHaFBmbVNIQ29TQVdRWlhQbUxDN2FsWXNaNHBFd2ZLZG01RGJzSUgxbVVSUkRlREVKTTV2cEdCak5FU29PbnB1d0U0TVluQVFqc19UcExYNVFSS2xFSw?oc=5",
-      "date": "2026-09-29T05:02:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "i17w3af62r9W",
       "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
       "summary": "The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too lateOpenAI scraps release of new model over safety concerns in internal testingFool m",
@@ -809,9 +965,9 @@
       "articleLang": "ja"
     },
     {
-      "id": "MexLG42BRnMr",
-      "title": "OpenAI shelves powerful new AI model amid safety concerns as pressure builds for stronger oversight - DW.com",
-      "summary": "OpenAI shelves powerful new AI model amid safety concerns as pressure builds for stronger oversight&nbsp;&nbsp;DW.com",
+      "id": "Aj+3GhI8RQQq",
+      "title": "OpenAI shelves powerful new AI model amid safety concerns as pressure builds for stronger oversight - dw.com",
+      "summary": "OpenAI shelves powerful new AI model amid safety concerns as pressure builds for stronger oversight&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbzRoMjJEcmNzVEZMTnpHelhSWnVaeWFWSUwyNlZJMnJMZWxOQlpDeWpXZHN5SE1DYlZ0U0FpVzd1dzJSS3RhZGRXV0pvQy1Hd2ptR1pXcGQ5eXd2a0NyS3B6VDZXS0JQNWEwQzFFdXl3WC1ZYzR5XzE4bzJpSWxOOFZ3WGxPdGRq0gGIAUFVX3lxTFBGWjBRT0p0YWhwek1Scm1OaUI0Sy1xMTlGUmJoNGtoeHVqVzJrSmZJWnJpalJuWm5XR0E4YUdtNkV6SHhkd09faGgyZWE4NWd3dWVmOGZtVTdZNnRua1RQVmNwd0VuTDFwMmhVd0NlV01oZEVIZmtGajVvdm1PYk9RZUdkWXVETGI?oc=5",
       "date": "2026-09-29T03:55:08+00:00",
       "source": "DW Tech",
@@ -845,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "56oHmmiW2fAr",
-      "title": "「最大応力はどこ？」とAIに質問、解析結果を確認できるCAEソフト新版",
-      "summary": "アライドエンジニアリングは、構造解析ソフト「ADVENTURECluster2026」を2026年10月1日にリリースする。自然言語による指示で解析条件の設定から実行、結果確認までを自動化する「AI Expert」を搭載。位相最適化の計算時間短縮や、固有振動数を考慮した最適化への対応、大規模モデルへの適用範囲の拡大、接触解析の高精度化も図った。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2609/29/news022.html",
-      "date": "2026-09-28T23:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "7vmPiX6DfzeI",
       "title": "OpenAI shelves new AI model release over safety concerns - Reuters",
       "summary": "OpenAI shelves new AI model release over safety concerns&nbsp;&nbsp;Reuters",
@@ -866,30 +1010,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "DQflGaOCkrUp",
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "date": "2026-09-28T21:31:35+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "QYSQTRqEPst5",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "date": "2026-09-28T21:29:18+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -938,18 +1058,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "gb2nJUwoThqh",
-      "title": "OpenAI’s AI agents need to catch up",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "date": "2026-09-28T18:45:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1253,9 +1361,9 @@
       "articleLang": "en"
     },
     {
-      "id": "F54uqmIMxuLd",
-      "title": "OpenAI tools post user images from ChatGPT online - DW.com",
-      "summary": "OpenAI tools post user images from ChatGPT online&nbsp;&nbsp;DW.com",
+      "id": "QsYeK0MkS3d0",
+      "title": "OpenAI tools post user images from ChatGPT online - dw.com",
+      "summary": "OpenAI tools post user images from ChatGPT online&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2x4VnlOTWhpTzl2QWxoWEZYMHJlYnQ0NnNyekgyQlEzQXBmbk8yeXU3a3pSX0I1cVVXS1k0bkotRzUzUXc0bzhNMHZwVFRCcTRLRnJPTUxSeXZYVE1NNlNmN25iNDZLaHE1b2NGYjctVml0MjBKNnF4ZnF6eVBOQmtZQmdlV1lKS1HSAYoBQVVfeXFMTTRVUXRIbmt5TXNHR1lYd0pHNXBOU0pGd3p5aDdORHNDSVZ6ZjdITlNwcXVzZE1xb0laLTVjWWtKNW0xQV9KRkhDYXg4Z0ZsNS1VT25vSnZkRi1XcGVwSjdWc1hoUFVORlliN3NGNG50OXRfdkZuOVl4bXdKb1lrR0stQWtJLTZKQkxB?oc=5",
       "date": "2026-09-26T06:12:56+00:00",
       "source": "DW Tech",
@@ -1289,9 +1397,9 @@
       "articleLang": "en"
     },
     {
-      "id": "R0Wm+LE+Ik8x",
-      "title": "Pope Leo XIV criticizes AI, assisted dying on France arrival - DW.com",
-      "summary": "Pope Leo XIV criticizes AI, assisted dying on France arrival&nbsp;&nbsp;DW.com",
+      "id": "/nje89uK+g9p",
+      "title": "Pope Leo XIV criticizes AI, assisted dying on France arrival - dw.com",
+      "summary": "Pope Leo XIV criticizes AI, assisted dying on France arrival&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMjB4aFlfcHB3bVZpQVJERkthcm90dmRhM1dtRmNwWm9nRHNTeGp1VzVQTFY3bGkwd29FdnRNQ3dFTkNCLXF6NXEydFFtUVhFbFNaSHloWndiT2M3TE9fbGNJWC11cm95OF82UE9fSWhSa0hEVTM0X0c5emNSNTNrbGZEeVp1N3NSN2JVcHBzV1Zac3ZyVmlJ0gGXAUFVX3lxTE15R0dGOWJSQ1lTZHltdXpGV0c1cEdMY2F5c2RUSjJESEZqV19BN3Fyb1E2UXU4eThSUzdiQTBIQWFOd1BIclNxbzA2MURqb2RQWHVYOUdveHR3bmx1azduOUN0RzQzZTRUZzNueURYTjVuYjluZzFzaVlqWmlfMUZMR3U2d1NmSF9yVUVhMWdFWkd3UDZkS28?oc=5",
       "date": "2026-09-25T13:59:39+00:00",
       "source": "DW Tech",
@@ -1361,42 +1469,6 @@
       "articleLang": "en"
     },
     {
-      "id": "0MamPef0lLJ4",
-      "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-      "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-      "link": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T18:06:40+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "YU1vPQPEC1aQ",
-      "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-      "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T15:42:07+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "y805hPqeXVOQ",
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-24T14:08:38+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "kob9gUHVTT4n",
       "title": "Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks - Reuters",
       "summary": "Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks&nbsp;&nbsp;Reuters",
@@ -1421,21 +1493,9 @@
       "articleLang": "en"
     },
     {
-      "id": "1IZNbDQXm7lY",
-      "title": "China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian - South China Morning Post",
-      "summary": "China’s role in AI development by US remains ‘indispensable’: Zheng Yongnian&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc2Z5eUtmb1p5cklmeU5GdGtIcEY3MVJaM3ZfVU42cml2X3hnREJVSTBHUXpiekRURC04VkNqbXIyajNNN3ptOHl6WU53VjJsSnpyVHM1djQzTE51cDY4M0JwZWEyWmF6Z2QyODNqSTZIMVZXbGl0Z2k4ajl3d2kxcXdMdHc5OG55Mnpub0JhNEc4SGhWTDFLeDF1cGU3STI1YkNHZVZGaEZrNnNOZklrN19aTUlaeW9tLVhwY3BKckh5WmPSAcMBQVVfeXFMTUk2dVBwWk11aEpqN20wdFRTTXBUWWpJbUhacWhmUGMyU2d3RkE5YlB3OWFBUTdFVzNIS2h0by1FX0NPdmxlbmQ5UkQ4NUYwQlNWQS1GNU92am9UM0w3RXBiMHVKVFYxNHE2VG1feWdJMUowLWZPWnNCdjJNU0wwZmpZTVNUdGpScDFwN1ZtWEh0V1JiWlVlY1c4NHV0eWsyNUpQM0paaTVEYUVBemJvWUQ2TU94LW1wVnAzSFVVRGh6ZWhJ?oc=5",
-      "date": "2026-09-24T08:57:33+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "0RK45aaL/vsm",
-      "title": "OpenAI agent hacked Australia government portal: PM Albanese - DW.com",
-      "summary": "OpenAI agent hacked Australia government portal: PM Albanese&nbsp;&nbsp;DW.com",
+      "id": "Muefbo3CfHsv",
+      "title": "OpenAI agent hacked Australia government portal: PM Albanese - dw.com",
+      "summary": "OpenAI agent hacked Australia government portal: PM Albanese&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYzdmX29vNllGamxxMFpzTDBBQWRxLVdKVjlVdlRZb2p4eUNVcURINVdRVHZHZGl6c2NFNlFOZTNrZ0FsbnFRMS1Xamt2akNDNTBxN005VmFzWjhrUW5fMld5YTVCRVdlc1pZVDcxTnpWVC1aOFBTYVNpbjBjR2M2blYtZTZDaUlJeGQ5aUk1X0dXdXZrV29R0gGXAUFVX3lxTE1YeG0wTVBWTXFkb3hfTDUyalYtLUJyUmowcEdFb0wtcXpmb2RUNExmTmhOTVFBNnRxdDlha0ZDOVJtbUNJdU8zZ0wyb3hrd3oxOGZHODlNb1VHRXdKRVNvLXBMUnlPZ2xMWUw0eXlPNy1hVUZyc3dySi1MWVRjWG02M2VxS3I3VGdLOHlRLUEwamVNMEN1OHc?oc=5",
       "date": "2026-09-24T08:19:36+00:00",
       "source": "DW Tech",
