@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T12:47:07.362971+00:00",
-  "articleCount": 100,
+  "generated": "2026-10-06T22:21:15.772576+00:00",
+  "articleCount": 103,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 14
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -32,19 +32,19 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 9
+      "count": 7
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 17
     },
     "france24": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 12
+      "count": 9
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,354 @@
     }
   },
   "articles": [
+    {
+      "id": "E8x0FiHiSgGr",
+      "title": "How AI decision models could change content moderation",
+      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "date": "2026-10-06T20:35:20+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8L29J0w0Shx2",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 38 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 38&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-10-06T20:30:52+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "RgVQhWXl3lfX",
+      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
+      "summary": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
+      "date": "2026-10-06T20:13:08+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "OHl9wJL4C1XF",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "date": "2026-10-06T20:00:30+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "SypAfJWCP+fs",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "date": "2026-10-06T19:56:50+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "zLOTEvkig12x",
+      "title": "‘Artificial’ Roasts AI’s Creators—and Sends a Dark Warning About Its Dangers",
+      "summary": "From their dorky parties to their weird walks, the movie holds OpenAI CEO Sam Altman and other stakeholders with contempt, while demonstrating their recklessness.",
+      "link": "https://www.wired.com/story/artificial-roasts-ais-creators-and-sends-a-dark-warning-about-its-dangers/",
+      "date": "2026-10-06T18:45:39+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6F0I4KUji0Su",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "date": "2026-10-06T18:22:45+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Q/3SFn0gqFfJ",
+      "title": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says - Reuters",
+      "summary": "US power use to beat record highs in 2026 and 2027 as AI use surges, EIA says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTF4RDY5dnNXSGdnLW1jajhQcUUzQXUxNDBCbndJNWRjWkxXY1MyWGFrNnFQdE5TUDltaW4zd194N3RKMEtkZlZUWmdLaGNBY01MaVY3U2M0RmVzbVk3Q0dFZnhTd3I5SllQcTF4T1Q0OGhsNWx5aUFXYmpJYmVjYkRyZEJxYlItRUxvS2ZRdm1JNlZ2bHQtenNicDJaS2VHTHJJZGFXT3JIbkhzR2NZMjlsRDNnZw?oc=5",
+      "date": "2026-10-06T17:32:39+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "3lDIk/kOBuiV",
+      "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+      "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+      "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+      "date": "2026-10-06T17:28:33+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Zes4nhvvGlap",
+      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+      "summary": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew GarfieldOn the day that Luca Guadagnino’s film about Sam Altman and OpenAI premiered, V",
+      "link": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+      "date": "2026-10-06T16:58:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "WBnsrj3BVQyp",
+      "title": "Is regulation enough to stop AI systems killing us all? | Letters",
+      "summary": "Martyn Thomas wonders how any rational person can argue that independent oversight and regulation will be sufficientOnce again a frontier AI model has been withdrawn because it fails safety tests (Ope",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
+      "date": "2026-10-06T16:56:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "TxYk3MQPqZBP",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "date": "2026-10-06T16:35:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WN93RS5fzyJ/",
+      "title": "We can’t just change the definition of ‘recording’",
+      "summary": "With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device with a microphone or",
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "date": "2026-10-06T16:29:44+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "C1Je3z56B2nx",
+      "title": "Tell us: do you use AI agents to manage your finances?",
+      "summary": "We would like to speak to people about their experience of using AI agents when dealing with their financesFollowing the release of Meta’s Muse and Open AI’s dots there’s now capacity for these AI age",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances",
+      "date": "2026-10-06T16:02:24+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "D1bYNIAcR9PZ",
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "date": "2026-10-06T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "aCl/CmAMovMH",
+      "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
+      "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
+      "date": "2026-10-06T15:44:15+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "a0ITwtPYMEK9",
+      "title": "Stop worrying about my AI, says multibillionaire Sam Altman. So we bear the risks and he keeps the money | Chris Stokel-Walker",
+      "summary": "OpenAI’s CEO seems to want to privatise his company’s huge financial gains while making all of us pay for any negative consequencesTech bros’ messianic streaks can show up in subtle ways. But one of S",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/06/ai-sam-altman-billionaire-risks-openai",
+      "date": "2026-10-06T15:30:17+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6yYO6CJkYeTr",
+      "title": "LibreOffice says ‘no AI’ is now a software feature",
+      "summary": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+      "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "date": "2026-10-06T15:25:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "D7D7IxV6nDMh",
+      "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+      "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+      "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "date": "2026-10-06T14:33:16+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "4SgOUmp7nkrq",
+      "title": "Pinterest’s AI now turns beauty Pins into action plans",
+      "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+      "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "date": "2026-10-06T14:00:49+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "i45AKDbpptha",
+      "title": "Who owns ‘brain rot’?: inside the international legal drama over a beloved meme",
+      "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging thatOne of the most beloved characters in an absurdist genre of online video c",
+      "link": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+      "date": "2026-10-06T14:00:16+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "rH8aADJHsCJd",
+      "title": "Is this the end of the British school photo?",
+      "summary": "For generations, professional photographers have captured the country’s pupils in all their awkward glory. But an increasing number of parents are using AI to avoid paying themName: School photos.Age:",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/oct/06/is-this-the-end-of-the-british-school-photo",
+      "date": "2026-10-06T13:54:57+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "t2KeCEtJYzS8",
+      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
+      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
+      "date": "2026-10-06T13:47:59+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "uVH1jTWZmuzT",
+      "title": "Trump makes it clear his power is becoming entwined with AI",
+      "summary": "New alliances between the White House, the Pentagon, US intelligence and AI companies are looming ominouslyHello, and welcome to TechScape. I’m your host, Blake Montgomery, writing to you as I sit und",
+      "link": "https://www.theguardian.com/technology/2026/oct/05/trump-power-ai-techscape",
+      "date": "2026-10-06T13:23:45+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "uMgcVlsOqaCa",
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "summary": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "date": "2026-10-06T13:19:01+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RCOVGLU7YGjE",
+      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
+      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
+      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
+      "date": "2026-10-06T13:15:23+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "aQ1Wjj88T5dE",
+      "title": "Making scents: could AI help perfumers take pressure off endangered plants?",
+      "summary": "Firms working on reproducing compounds without need for repeated harvesting but conservationists are scepticalMany of the world’s most expensive perfumes begin with a wounded tree. When some Aquilaria",
+      "link": "https://www.theguardian.com/science/2026/oct/06/fragrance-biotechnology-endangered-plants-perfume",
+      "date": "2026-10-06T13:00:15+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "xiBuXgUChrXf",
+      "title": "Business - US payroll data shows young workers' jobs most affected by artificial intelligence - France 24",
+      "summary": "Business - US payroll data shows young workers' jobs most affected by artificial intelligence&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXduZmhUMnBRSWhXMUJaaFV4YU1feEw3S205M1d1RlNvb3diYkduMkEyNVRZNnpBbUE0eTZGbHhNdHVJaVB6Z1hqYUxMSTFaMHlqcThBa2dyUVRDTUlDX1dIRG1nTkxCTUlHd0lESHJSQlhyZ0M0clFlNXdvei1Ub1hwTWgxWW5kSWk2YUVhYklaM1NMeTdSSHRPRnp5QlUwZU8yRWhfOU9sU0IzWVgzUEZKOUNVc0M0dnZjMmpXcS1DSUZOZTN3YTNUa0gzSURMZEE?oc=5",
+      "date": "2026-10-06T12:15:16+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "MFR25bQWnDhy",
+      "title": "AI overload? Why China’s developers cannot stop launching model upgrades - South China Morning Post",
+      "summary": "AI overload? Why China’s developers cannot stop launching model upgrades&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUWFENkVzeXl2MHdtOXRvYXdKdUpuR1I4VDQwTlpuVThnUFZTc21ZZnZYbDZaMFFDZ1JUbXFQQVc5X3hId0oyakg3aF94RmtZVzUyYm9IQWRDZVJaMEg3R2hLdzAwT091MS1rdmhuWE1ZOG92SDFndEFpbFNLOVZHRnpYZG1QUTVIVDZodmtndEdvbzExU2JVZGhSVG5TanVhWmJrYVZ0WlQ3Tkp1U3ZaUHc1YkrSAbQBQVVfeXFMUFllMmROc0dwdFBNRlhwWTNjS0xkMjlnbzVDV3k5U2R0ZmtjV2hXLTFQUmstVmVUTHlOMHQ4bWNTYkdlX0JrYkNaY3VUSmZoSi1XUWZ6b0dLNWwwaENwWE5xUzhaN2hRVmtzb0RqS1NjSXI5OXc0ZFV6WE9uelN3aFpiLVZZREd4RGRZbVdCQXBNSXYwVUZCa3BSWHl0ZWl2TDNRakpwTWpSeFZZSXF3YWxERno3?oc=5",
+      "date": "2026-10-06T12:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "XBAXkRouNyan",
       "title": "Italian PM files to trademark her voice against AI threats",
@@ -77,15 +425,27 @@
       "articleLang": "en"
     },
     {
-      "id": "XSOPBcRfWd2A",
-      "title": "OpenAI delivers a mea culpa to the Australian government in person – but answers still elude",
-      "summary": "Jason Kwon’s answers were provided in a helpful, quiet and calm manner. For a company under intense scrutiny, there were no missteps Open AI’s Jason Kwon flew 15 hours from San Francisco to Sydney to",
+      "id": "TAV1EkHtSiOi",
+      "title": "OpenAI’s Jason Kwon gave even-toned, reassuring answers to the Australian government. Did … ChatGPT write this?",
+      "summary": "Kwon’s answers were provided in a helpful, quiet and calm manner, but his mea culpa left the audience not much the wiserOpen AI’s Jason Kwon flew 15 hours from San Francisco to Sydney to give the comp",
       "link": "https://www.theguardian.com/technology/2026/oct/06/openai-delivers-a-mea-culpa-to-the-australian-government-in-person-but-answers-still-elude",
       "date": "2026-10-06T11:12:41+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "28jMureDuWQ+",
+      "title": "AI hopes, industrial malaise drive boom in German startups - Reuters",
+      "summary": "AI hopes, industrial malaise drive boom in German startups&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQi1faEtDSHdFZkhNN2hZWG0tNTU3d05PaHBSVzV3VUFXNEhXMEhQXy1HZnhCZU9qaUFJMWF2OTUwNnJRS2RmcW9UZ1U4dVNETk9pSGJVTkR2QjBjaG9LTlREMXVFV3k0RFViSDdxU3haV1dYR25KOTRIUE8xOW43cDdteVJvNGhnX0xEOTRRLWtqcFIzQkJ0STVwa2hPOXY3?oc=5",
+      "date": "2026-10-06T11:05:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -113,11 +473,11 @@
       "articleLang": "en"
     },
     {
-      "id": "LBd9GTriz3AF",
-      "title": "Mistral CEO says new AI model beats Chinese ones in some areas - Reuters",
-      "summary": "Mistral CEO says new AI model beats Chinese ones in some areas&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjVFRUV6ZzZmeXFiN3NIWmZwUTBGWTR3ZUx1UUhjLWRLMC0wZThtLW00a1FYNjloa3BiSTFveFdZZFkxWnd5d283Qi04MnU1UC1IUl9KdlBkX2o2X3JpQ0pUZVRZQzJ3Uk1fRzR5VnJIdGhwVGI3Q0JWc2RWOGtBZTZzek4tcWQxRTAxZnB3eWJyV2gzY2FlNjdYVk95b2lQX2UtLVNWandvMDA?oc=5",
-      "date": "2026-10-06T08:29:23+00:00",
+      "id": "fOflDB3czvvb",
+      "title": "World Bank raises Africa's 2026 growth forecast, urges AI investments - Reuters",
+      "summary": "World Bank raises Africa's 2026 growth forecast, urges AI investments&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSWxydGRxeGV6eFBoMzd4dGN1aV9rQVV6UTFhLTE0NFozWW10Yk5ndkQ0QkpFX2EwdkJfSzhxTXdZV0p3ZDZXZVNWVC0tLTBvMlR5ZWx4bnVWekpKWVdxNmRqQ2d1VkNOVjdwczY1cWlOZ1JITEtpcnRfc1daMFlGZGNtdnVDVXp4b3l3NW9leWlMUWhuMGZIYXE2Y3Q0VGdTQlFyMktGSkdMZ1VFZUlGSFdKT3k5Szg?oc=5",
+      "date": "2026-10-06T09:05:46+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -221,18 +581,6 @@
       "articleLang": "en"
     },
     {
-      "id": "corDNvlTrnjf",
-      "title": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May - Reuters",
-      "summary": "Wikipedia operator says OpenAI's rogue agents possibly tied to data service disruption in May&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRW51ZFBsNXhuaDZnTUxzNzc5M280OVE1VmZEUGdXaFVJeGJITWRJbEpCWXV1UjlGaGZIZXQ2ZXVybU85UWZaRWx4UjZRRU1rZzV3MVB0cXo4R1JFcW4zQWpIa0tmU2FGRW16LUF5U0JPWGgybDZCZnZFckNubFRmbXBwYlV0WVM1dDZkVndtTmNCaG9oRVQ4THI4V0VtRFA2UFl0eFZrRm1nN2N1MVF0VjdGVHgwUmlRWWc?oc=5",
-      "date": "2026-10-05T23:30:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "omMcPGMMOWAF",
       "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
       "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory s",
@@ -250,6 +598,18 @@
       "summary": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5",
       "date": "2026-10-05T20:54:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "D6sSas7oSJqb",
+      "title": "Conservation group calls for moratorium on AI data centers on US public lands - Reuters",
+      "summary": "Conservation group calls for moratorium on AI data centers on US public lands&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVk1FczA1a3diVW1DaUR1al9yVm1JT3lYZkVQZ19NZ3dFSVBXTzF6akR1THBicXdocmctSVlxMHhHbjFQOVd1bDRVMUVVMjBWbVhvTmFkQVJKNDV2bGFtWmZDTWdDbzlaV28wVzZYM0tVRllLcUZyTFFJZmdaUjZnNmJVU1gzejQ2S250UEJmd00xWk82MUNQbVhscHhjdldtRmdURm8wM1NRLVJKSTloSzB1eUZRSVdmdnVycg?oc=5",
+      "date": "2026-10-05T20:39:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -449,30 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "s7c98Nrr09vB",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "date": "2026-10-05T14:35:09+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "aT05xWCpSX/f",
-      "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-      "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology —",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "date": "2026-10-05T14:30:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "UfjRyJAjRuiZ",
       "title": "OpenAI executive Jason Kwon to face grilling at parliament about AI hacking Australians’ private data",
       "summary": "Unions, employer groups, banks and industry experts will appear at the four-day hearings along with OpenAI, Anthropic, Microsoft and GoogleGet our new political email, free app or daily news podcastOp",
@@ -482,18 +818,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Pl7u+XnUy/H/",
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "date": "2026-10-05T13:47:14+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -545,51 +869,15 @@
       "articleLang": "en"
     },
     {
-      "id": "wIWZZbfLdnJG",
-      "title": "Norway to propose temporary ban on AI glasses in some public places - Reuters",
-      "summary": "Norway to propose temporary ban on AI glasses in some public places&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
-      "date": "2026-10-05T07:04:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "bYHPsKMEb0d1",
-      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
-      "summary": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB?oc=5",
-      "date": "2026-10-05T06:10:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "GrvVgJEXdixg",
       "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI - South China Morning Post",
       "summary": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy0gG4AUFVX3lxTFA0WE10bW1rWmZVb01RcDdURW9td1dKcXh0WTdSS1ZvX1VLRzNHS2xrSWF6Z3lxVmcyendwQjgtazBVVUxtanBOSVltVEx0YzVKelU5TkxXdXR6bmVoMGJXNU9nMDZpZWFmYVE5aHFfMUVCVzRxOF9oNGVla2FZUmhCRzZRQ3pVN3FVdmZ6aS1kYkdrYVIyTjVlNHpBcmJSU2txWFB2V3lqSXN2ZjdxWnBfc2FkT1ZyLWE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy?oc=5",
       "date": "2026-10-05T06:00:10+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "goUvZqUBWbU6",
-      "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
-      "summary": "Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s totalAI-generated child sexual abuse material is proliferating online, with the amount of ille",
-      "link": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
-      "date": "2026-10-05T05:00:49+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -665,90 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QUcomZ6KMIyr",
-      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-      "summary": "AI slop seems to be overwhelming bug bounty programs.",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "date": "2026-10-04T20:31:07+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "KbiPG2THJZbB",
-      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "date": "2026-10-04T20:08:34+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "JhCt5AXQg7Ym",
-      "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
-      "summary": "Clayton had said AI was a ‘gamechanger’ but also posed ‘a threat’ during his confirmation hearingDonald Trump on Sunday named Jay Clayton, the director of national intelligence, to also serve as the n",
-      "link": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
-      "date": "2026-10-04T17:45:28+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "5rqoSf4q10WZ",
-      "title": "Trump unveils his new Super Intelligence Force",
-      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "date": "2026-10-04T15:15:10+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PIXmJ7V3DNhP",
-      "title": "Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’",
-      "summary": "Residents of Dalby may soon live beside a $31bn datacentre. The premier sees ‘opportunity’ for the state – but others fear AI’s global creepFrom the veranda on his bush block, Denver Kanowski has watc",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
-      "date": "2026-10-04T14:00:29+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "YhVARa6nLo/c",
-      "title": "The AI industry is booming. Women are getting left behind",
-      "summary": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruptionThere’s a common fear among people who work in Silicon Valley: snag one of the fast-growing, h",
-      "link": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-      "date": "2026-10-04T13:00:29+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "9TFpN6NC69Cj",
-      "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
-      "summary": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technologyA safety leader at OpenAI has quit the company, warning that its culture was broken and that",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "date": "2026-10-04T07:48:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "YZZKEmrY9Jc2",
       "title": "As AI floods China’s screens with microdramas, viewers are getting picky - South China Morning Post",
       "summary": "As AI floods China’s screens with microdramas, viewers are getting picky&nbsp;&nbsp;South China Morning Post",
@@ -785,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ipOJVidHZhUT",
-      "title": "Black Box: The Chatbots | Life Raft | Ep 4 – podcast",
-      "summary": "More than a billion people are suddenly talking to AI chatbots designed to connect with us. We are sharing with them our deepest secrets, trusting them with our wellbeing and acting on their advice. A",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/oct/04/black-box-the-chatbots-life-raft-episode-4-podcast",
-      "date": "2026-10-03T20:00:07+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "bff7wV9loxJe",
       "title": "OpenAI safety employee quits, says 'time for trial and error is over' - Reuters",
       "summary": "OpenAI safety employee quits, says 'time for trial and error is over'&nbsp;&nbsp;Reuters",
@@ -818,42 +1010,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "PFazZDTipsan",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "date": "2026-10-03T16:30:01+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "96riik8hLu/u",
-      "title": "All the AI agents that can live in your text messages",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "date": "2026-10-03T14:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "1tAoxQF04YjF",
-      "title": "California’s new laws target workers’ biggest fear of AI taking their jobs",
-      "summary": "The state, which is home to many AI companies, is one of the first to roll out workplace regulations targeting the technology California’s laws aimed at protecting workers from the impacts of artifici",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-      "date": "2026-10-03T14:00:00+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -941,35 +1097,11 @@
       "articleLang": "en"
     },
     {
-      "id": "uk1zrr5Ept5t",
-      "title": "China sets up new military academy colleges for AI, drones and discipline - South China Morning Post",
-      "summary": "China sets up new military academy colleges for AI, drones and discipline&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEl4Nkgya3JjNk1McHlLWVpTeElSLURsUXlqNUVvM19HNjBpWFIzWlZLMHQ4RmM2NEZHbmwxWktpWFBCVWRaUmRvSUhfVU0tR0Z0U1FoMm03QjVwcHpvSHFITFRudVFBSWdJcTEyTG9DdW1vQVM0Tnp1bmhpcGZVSkR4SFlfV28xS3FkYk9mbVVWZ3BnU01RaW8wbEFvcmsxVlJ3NTVYWW5lVzA3OGxJN1NsME4zLXpYT2R0X0xXTXpsQmN2OEHSAcYBQVVfeXFMTmNhQ2hMdkNoUnV6dXJQcUVSTEt1eHdpYkw1Zm1FMThGbnR3bWVRMUF0LWVhTFlBd3A2UjRHNkNZODFwLW5mTVVTWTR4UVVTTXRxaWh3Nk5YZF83bi0zM3NJRnlOZ18za0x2WXZLUG43cXN1eFR0Q1A1WHRBckFIUk5Ja3pIRHNwNU5sekxabXh5UWRIQ3d5WHBZYlQzb1drYVFZQ1JPb3dyU0RwUWVMQzhXNjRuYkRfWkNjWGp2aXoxNUJLbjBn?oc=5",
-      "date": "2026-10-02T12:00:16+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "WrhV+x5tyPss",
       "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
       "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
       "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
       "date": "2026-10-02T09:45:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "wfpPW+YVEaQQ",
-      "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
-      "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
-      "link": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
-      "date": "2026-10-02T09:30:00+00:00",
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
@@ -1013,18 +1145,6 @@
       "articleLang": "en"
     },
     {
-      "id": "fvhZwQb+r2/F",
-      "title": "Whatever AI Safety Is, It’s Not This",
-      "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-      "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-      "date": "2026-10-01T22:10:42+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "+qFPuVjBipUk",
       "title": "Truth or Fake - AI deepfake of BBC report falsely links Indians to FlyDubai hijacking attempt - France 24",
       "summary": "Truth or Fake - AI deepfake of BBC report falsely links Indians to FlyDubai hijacking attempt&nbsp;&nbsp;France 24",
@@ -1034,18 +1154,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "B60kskYPl/Jd",
-      "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
-      "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
-      "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
-      "date": "2026-10-01T19:58:31+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1097,18 +1205,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QQmsTwT9hsZ8",
-      "title": "AI pressure, client caution cloud Indian IT earnings in September quarter - Reuters",
-      "summary": "AI pressure, client caution cloud Indian IT earnings in September quarter&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV3BrVHFxS3I1dGVvRUN2bFdEYTQ2WTdTcUdkUERsQTlLa1BkVE1DOFhpSHZ5dWFQMTkxeFY5VE96bWV2WFR2V21LemUzaF9raWVkVVJqSEVQd0h0YmFta3FCT0I3TkhaS0ptcXpzMC14cGNUZ2hJeWJKem9NcFlOYXE1aFdic2xZODl3dVV1VmN1RE9KVFNPQmVZWHNocEpVSy13TGpoWU95WWxPaFY5d0dTRGxweF84?oc=5",
-      "date": "2026-10-01T04:39:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "KnBF8wD+9Iyh",
       "title": "The AI telling farmers when to harvest",
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
@@ -1145,30 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ho/0ugtwjn4p",
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-30T14:00:33+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "9BdPsgLFwait",
-      "title": "Anthropic raises alarm over Chinese GLM-5.3 model’s elite hacking ability - South China Morning Post",
-      "summary": "Anthropic raises alarm over Chinese GLM-5.3 model’s elite hacking ability&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcFNYWHJZZHY5d01zSUdta0lSNlRpNnhWeDZjUHJVRGFWbkphaDBQamRnX1ZOblJhLTFBZklPdFFKTkl0UGtCTkx6RGF6NTg0dkJOTjQwNEg3MExxRm9ESE4tbTN0NDN3bFJWMXFZbVd0NDNVb2JFeHJjTWtpM3U2ZktMazVMNnF5LVdJRVBmVzludzl6Y2NoTFQwNkM4Rzg4RXQwcWdDMlRPMHNkazFCV3d4cnYtOU82Z0hralhYY3NSMHfSAcMBQVVfeXFMTzFhQlFMWEdlclNCWDZ5cGo1R2Q0b3lqS2dPMnVlQlFMcDVrN213YXZ5QnBac3B2TDBsSDd0V1hyc2dHSHpfV01XelZZZ0hvRkxKZm1WY0psMTUzTG52UnNnYTlzWFliZ1hqT1VUUWhiNWI5Ui1qVzlTcFJwY2czbW5iY3dfc01ZN2diaC0wNWMxNmZOOVJMMmhQYjdqSW1iV2NJX1Y3dHNaZmlpck5fdFE1SUJBOVdtLTZEQXRONGMtZFZj?oc=5",
-      "date": "2026-09-30T12:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "g4TvcjVMny3l",
       "title": "Why Trump wants to rebrand AI as 'Super Intelligence' - DW.com",
       "summary": "Why Trump wants to rebrand AI as 'Super Intelligence'&nbsp;&nbsp;DW.com",
@@ -1178,18 +1250,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "G36r8fWAiT/J",
-      "title": "DeepSeek opens tools to help Huawei chips supplant Nvidia in AI - South China Morning Post",
-      "summary": "DeepSeek opens tools to help Huawei chips supplant Nvidia in AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX2pDSnRWMTNZYUhBYnh2eHpWQklRVG1FSDJPYWF5WkI4VTM2VjQteGJTQjRNWjJ6Z3hpcVpiRGpKVjVubkNfeHFVYnY0ODIxbUJKNmFFTFVQUndibGstVDF0WnlMSTRlc0xVMWNlOFhnbEtURjRidE9GejFHdEZBckxZYkZJSzFpNnhGZ0JiS1BSTUdoanBOSGZPd1d0M2FVLVRFalYzNDZRM2NkQ0xEVzN6Rk50OUd5VjQ2NnJwZE5JUTjSAcMBQVVfeXFMT09mUUVmbnlNV0NDZUVUbmE0X0ZKUTVUbkx0RkpseW1OWEZyVHVjSmF3cUNuVG9aNTljcVhSWTVoeldqeWtVczQ0OFcwRnFTSTBOeW93bkNNX2dZTzU2amlZSUFEa1AzV29mTS1IbDA3LTFjcGV4STVUa0E1NFRRU2g4S3JyNUV6aHRsRTVwWW1YX09mMnBxRUNMbmtrV2RmRURRR2l4djBwWm53SG9ta29FTkM2OXNfaVN3aXBBWUVIeHNF?oc=5",
-      "date": "2026-09-30T06:31:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1238,30 +1298,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "SUEZWQRVNcal",
-      "title": "Trump rejects calls to work with China on AI safety despite Xi summit progress - South China Morning Post",
-      "summary": "Trump rejects calls to work with China on AI safety despite Xi summit progress&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLTRPVkI2a3ViUGcxYlJldktDS0ZtTXhuWmJibFo5azRiNlVGLTd2am51eFhCaVhjaWs3U0owOXNrdnRsQVZlUDk1dFdRMExxbmt3UzdZNk9rVnF6SDNERVpXWTlodHlHMVFzT0RVQ2c1N3gxY2pwWThHRUZfb2RtY29qZzV6N1pFUnprVXdkeXFSYm1aVS01T184akF4LXlHcjFKM3VaQzhkdTduNDFaS1RMTVFTc2FOOEowRmFsRUI2T1nSAcMBQVVfeXFMT2JON2h4b2tJNE1ENUNhR0tIWGZTV3RiQTIxckxZY0d5N181UjBnWFFEa3lXMnIwT01rMVZRRXRmS1N4Z3dIME5MVDlZRGdDTVRPempvVEIyeFBRQkFnck5GT3Y0WUVYclpEajRSaDhDUzdlbkRWOWhqbzFtMEh3UW95dWVmb3hmaHJHU3JDdW5TZ0hmNlJBUXB0TnZELXozMy1pNzNSa2JkSkhXZlhjQkRHc01aSTVoNS1LVWFPZGgxN1Qw?oc=5",
-      "date": "2026-09-29T19:32:03+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "mYrlLxoe4iwN",
-      "title": "Tech Life",
-      "summary": "How a Chinese AI model was persuaded to ignore its rules and give dangerous advice.",
-      "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyh?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-29T19:30:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
