@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-06T22:21:15.772576+00:00",
-  "articleCount": 103,
+  "generated": "2026-10-07T04:26:52.135336+00:00",
+  "articleCount": 100,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -28,35 +28,35 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 2
+      "count": 4
     },
     "bbc": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "guardian": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "france24": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "dw": {
       "status": "ok",
-      "count": 6
+      "count": 4
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "scmp": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "reuters": {
       "status": "ok",
-      "count": 20
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "V5eymtpbNtti",
+      "title": "Anthropic、セキュリティ専門家向け「Cyber Verification Program」を拡充　「Claude Mythos 5.1」も対象に",
+      "summary": "Anthropicは、セキュリティ専門家向け「Cyber Verification Program」（CVP）を拡充し、防御・レッドチーム・重要インフラ向けの3段階アクセス枠を新設した。脆弱性発見で実績を上げた「Project Glasswing」と統合する。審査の上位枠ほどモデルの安全制限が緩和され、高度な検証が可能になる。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002084/",
+      "date": "2026-10-07T03:52:55+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "fmc0PkEWrtq9",
+      "title": "Google、「Nano Banana 2.1」公開　APIの画像出力料金は「Nano Banana 2」の約半額に",
+      "summary": "Googleは、画像生成・編集モデル「Nano Banana 2.1」を発表した。「Gemini 3.6 Flash」ベースで最大100万トークンに対応。ベンチマークでは従来モデルやPro版を上回るスコアを記録した。検索の「AIモード」やGeminiアプリ等で順次提供され、APIの画像出力料金は前モデル比でほぼ半額になった。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002078/",
+      "date": "2026-10-07T02:53:08+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "VKduqALWqpu0",
+      "title": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh",
+      "summary": "We don’t accept drugs killing a few people because they cure most patients. Or a few planes crashing because most land safely. AI should be no different OpenAI’s CEO Sam Altman was asked to appear bef",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
+      "date": "2026-10-07T01:00:37+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "/h74fKok2w/i",
+      "title": "OpenAI、社内AIがリーマン予想の関連難問を証明と主張　論文722本をGitHubで公開",
+      "summary": "OpenAIは、社内のフロンティアモデルが生み出した数学の成果722本をGitHubで公開した。多くに証明支援系「Lean」による形式証明が付く。数学者らの独立組織AGMAIの提言を参考にしたもので、計算量や推論過程の要約も開示。過去の発表を巡る論争を踏まえ、数学界との対話や理解促進に向けた支援も進める。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/07/2000002071/",
+      "date": "2026-10-07T00:32:40+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "8Xd5ZQq4XohG",
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "date": "2026-10-06T23:26:38+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "E8x0FiHiSgGr",
       "title": "How AI decision models could change content moderation",
@@ -81,7 +141,7 @@
       "title": "Artificial intelligence – All Content on this topic – Page 1 of 38 - DW.com",
       "summary": "Artificial intelligence – All Content on this topic – Page 1 of 38&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-10-06T20:30:52+00:00",
+      "date": "2026-10-06T20:27:31+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -293,6 +353,18 @@
       "articleLang": "en"
     },
     {
+      "id": "TOPQvKMgfkhP",
+      "title": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India - Reuters",
+      "summary": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXkzMnZtYVVNeE9XUjBxeFNGUHVlNF9sUjkyVXA0VDA5TERLTGE1aUtmWVdUVWlpeDZkeDZUdTd6UWJKNmJSNDVDeWNHaG9ZY0otNzJudjJWQ1ZfY21YbHBxb09VU1NOOU1oNDJQU3RLZnRvRWpEZmJsYjl3aGxCLXBiZ05OMm1QajZWMGN0by1pckZlV2NDTDd3SmctZDZOVVE5SEFnSS0?oc=5",
+      "date": "2026-10-06T14:11:46+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "4SgOUmp7nkrq",
       "title": "Pinterest’s AI now turns beauty Pins into action plans",
       "summary": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
@@ -305,8 +377,8 @@
       "articleLang": "en"
     },
     {
-      "id": "i45AKDbpptha",
-      "title": "Who owns ‘brain rot’?: inside the international legal drama over a beloved meme",
+      "id": "a9XYOm5/JSNU",
+      "title": "Who owns ‘brain rot’? Inside the international legal drama over a beloved meme",
       "summary": "Copyright law in the US only applies to human-made creations, but AI characters like Tung Tung Tung Sahur are challenging thatOne of the most beloved characters in an absurdist genre of online video c",
       "link": "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
       "date": "2026-10-06T14:00:16+00:00",
@@ -326,18 +398,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "t2KeCEtJYzS8",
-      "title": "Citigroup bets on Meta's Muse as AI's 'front door to the internet' - Reuters",
-      "summary": "Citigroup bets on Meta's Muse as AI's 'front door to the internet'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTEtTzZyUDMwaXNvY2QtYy1YTHNmY2xONUdQV3pVUTBhY3ZoZnJ4T1pGQVg3OGVGTm45Y1pNaGRPTUhuM2VsbFpSdUJJYmFjal9RN3dMR2czdG85V0M2Mm5HZ3NjNjlZTzNqRTI1aWVUTXZwUTN3amNicy1taDE4NTNBWmt6cUJPTUpMNTREZ2l2TGdwdXhjYzNB?oc=5",
-      "date": "2026-10-06T13:47:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -494,6 +554,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "roRXJBpl31w5",
+      "title": "Police launch major probe as suspected AI hacks sweep through banks - The Korea Herald",
+      "summary": "Police launch major probe as suspected AI hacks sweep through banks&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJYmlSelR4dTlhYnNiX1hpWXU5elZ6c2dNZ0U0ZnlSM3NGeGM5WkJTd1Njd0t1WkdGWW9LZDdIa1lEc3R2U09zYWpKTHlzX2FuSWFLZnhWNA?oc=5",
+      "date": "2026-10-06T07:30:20+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
@@ -737,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qC1NkApm+86U",
-      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-      "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as cos",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "date": "2026-10-05T16:44:21+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "haQOSKfmuw8M",
       "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
       "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
@@ -785,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FRW6ZE/09AaC",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "date": "2026-10-05T15:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "R7Ty4ijvz605",
       "title": "Ukraine says using AI robot guns to shoot down new Russian drones - France 24",
       "summary": "Ukraine says using AI robot guns to shoot down new Russian drones&nbsp;&nbsp;France 24",
@@ -821,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "zPpMznXVyZ8P",
-      "title": "Accept ‘bad things’ in return for benefits of AI, says Sam Altman",
-      "summary": "Boss of OpenAI calls for a regulatory light touch because of the ‘good stuff’ the technology can deliverSam Altman says he believes the world should accept “bad things” happening with AI in exchange f",
-      "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "date": "2026-10-05T13:27:45+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "6y8O7vqfP26w",
       "title": "Trump chooses top spy boss to run new AI taskforce",
       "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
@@ -841,18 +877,6 @@
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "Prg8El9IQsON",
-      "title": "﻿The UK’s G20 presidency will push Andy Burnham to the centre of the global stage. What will he use it for? | Michael Jacobs",
-      "summary": "This is a chance for the PM to advance his progressive agenda and tackle urgent issues such as AI regulation and climate actionAmong the many crucial decisions Andy Burnham has to make over the next f",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/05/uk-g20-presidency-andy-burnham-global-stage-technology-food-climate-economy",
-      "date": "2026-10-05T09:39:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
       "flag": "🇬🇧",
       "articleLang": "en"
     },
@@ -869,28 +893,40 @@
       "articleLang": "en"
     },
     {
+      "id": "wIWZZbfLdnJG",
+      "title": "Norway to propose temporary ban on AI glasses in some public places - Reuters",
+      "summary": "Norway to propose temporary ban on AI glasses in some public places&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
+      "date": "2026-10-05T07:04:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "bYHPsKMEb0d1",
+      "title": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Reuters",
+      "summary": "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONm1aN3JiNld4ZkM1VTI1TFdCNFRiTmF5TlBFNk5QMmdnaWEwZjJXaTQ5eFBhb29wRnVWM01vWmtiZkVoRG5qSmJnTXY1V0dsTTFtYjZSN1JYRHFodzEwV0NVQVJVYlBaWEVkakQ0WEJXa1hBbUFsRmNJNEotTkd6aHBxYzR4M0NOczhpM00xVkZHQ2t2bV96YjhNSFlaa19McEpwU3ZNMENoQTg3cDhxb0R1YVA5QUprM2d5cVlB?oc=5",
+      "date": "2026-10-05T06:10:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "GrvVgJEXdixg",
       "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI - South China Morning Post",
       "summary": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy0gG4AUFVX3lxTFA0WE10bW1rWmZVb01RcDdURW9td1dKcXh0WTdSS1ZvX1VLRzNHS2xrSWF6Z3lxVmcyendwQjgtazBVVUxtanBOSVltVEx0YzVKelU5TkxXdXR6bmVoMGJXNU9nMDZpZWFmYVE5aHFfMUVCVzRxOF9oNGVla2FZUmhCRzZRQ3pVN3FVdmZ6aS1kYkdrYVIyTjVlNHpBcmJSU2txWFB2V3lqSXN2ZjdxWnBfc2FkT1ZyLWE?oc=5",
       "date": "2026-10-05T06:00:10+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "Dqbv3YRUtloP",
-      "title": "「SpaceXAI」→「SpaceXSI」に改名へ　マスク氏、トランプ大統領の“AI呼称廃止”に追随",
-      "summary": "米SpaceXのイーロン・マスクCEOは10月4日、傘下のAI部門SpaceXAIを「SpaceXSI」に改名する意向をXで示した。SIは「Super Intelligence」の略で、トランプ米大統領が連邦政府に「AI」の呼称をやめるよう命じた直後の動きだ。",
-      "link": "https://www.itmedia.co.jp/news/article/2610/05/2000002000/",
-      "date": "2026-10-05T04:38:51+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "7IRUqLGZGXKJ",
@@ -926,18 +962,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "bd+5xSFRlUHV",
-      "title": "Trump taps Jay Clayton as AI czar for new task force - DW.com",
-      "summary": "Trump taps Jay Clayton as AI czar for new task force&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByN09MRUNYZU03VHRSaWlHNzVGb05ETkppNGdXaXd1bmpIczBjaXNxemh0WnlzbEZ3ZWJaMm5NRFpCRm9TUjlXTkk2R3ZBZVh2WjBlY2VmWW5Xb1NYdUt1ZVZoMEkzc21RZFZGXzFXOWc5QlXSAXNBVV95cUxOclBQcW1sU0xMNGJ0RkpPYWQ2QXFtLWx6bFhDQnVQZFFhUURfeTV3MGVRU0NFdHlkaWNoM2liT1lzODY5TXN6Z1FfRjZwbUxRMUlYaHBlN3VORTBvSGFKd2tPZmZOZExHOFRMWGFYVm5ZZkxR?oc=5",
-      "date": "2026-10-04T21:22:57+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1010,18 +1034,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "vC1ROBkAi6gi",
-      "title": "As public fears of AI grow, Trump digs in on voluntary safeguards - Reuters",
-      "summary": "As public fears of AI grow, Trump digs in on voluntary safeguards&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaktMNDdZV2FZQTFSeGF3SENIXzkwWHhWLUVhT1ZwVHMzTUdQajl0akw3QTlicmFCQ04tV0YxRFFfUEZYYmxqRFA5QVh3TzhTcm9Ca0pWLXBjeTFXaV9DVXV6ZmFPU1h1NXFsUVpxaHlBUlA3SjhxRVNSQU9UZ2ItTmNBN0VvWFpFc05idzd1dWUyaUNmMWRwc0lKR3A4Q0czbkE0ekNXZlM?oc=5",
-      "date": "2026-10-03T12:34:32+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1205,18 +1217,6 @@
       "articleLang": "en"
     },
     {
-      "id": "KnBF8wD+9Iyh",
-      "title": "The AI telling farmers when to harvest",
-      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
-      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-09-30T23:02:21+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "K71oXOhDiUjd",
       "title": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel' - Eye on Africa - France 24",
       "summary": "Ethiopian AI expert, Timnit Gebru, wins 'alternative Nobel' - Eye on Africa&nbsp;&nbsp;France 24",
@@ -1262,42 +1262,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "n5gqVXmxB3bX",
-      "title": "Slow is beautiful: China’s war against AI drama goes beyond algorithms - South China Morning Post",
-      "summary": "Slow is beautiful: China’s war against AI drama goes beyond algorithms&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNlJJUXh4WWdGWkdSd0dNXzhiYVY3MC1YbU1hclpsZTVEaW5sTFlFcjEwVHdrZU5FVHgyN1NLb3BqZzJlR0FGVDdOWVR4ZjJkcWs0c2lIRDJZcnNZZjR4aWdPTzNKa2xMQU1GWnFPN2tuVXJxbEhxcklTdGpRY0w3VE13Zzlicm5NU0QwRG1xZHgwMzF2bjJYemNFR3NZTFFPNVhyVUdrNXdXcWVEOFprdHp6Z1I0Q0xBd1N4MzVQdl84VUdwWXlQT1FB0gHKAUFVX3lxTE1zaHdNUG83UWUxRFVkenJDd2ZILXJNVW44blJxQ0xtXzNkMXpEbVgzZXliaWFQZHpHMzdmclQyQXowY1hhV19GUkZ0N2YtTEozYnZIVWdlSVdUSHprS3d1QmljYWk0S2V1MXlEWmJoYV9leUlMV1hLbWpETWVSUXN1alRKUlJWR0lWVVB4LVVieVhYaVNad3FtODdLWFZ4NGlFZUtCdWpva0pfalNob1hTUXlQdV9oSWV6bEtPOVpwVDNpcWFpMjZJbGc?oc=5",
-      "date": "2026-09-30T04:00:08+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Wk3HzJlGNc3Q",
-      "title": "Trump says AI companies agree to 'self-police' - DW.com",
-      "summary": "Trump says AI companies agree to 'self-police'&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTJZa2VBWVNCT2Vya3A3ZC1yRC1NZEJpalFQc24tUGhMaVo3SEpNMGlrVmY4bTRFeFVUS2kyVGtsZnlUM2dNTWdMcGMyRWZmam1MSm1iR0tpbDJIa1hkeW1yOWdFaDBSa0ctQmhjTWpydjZLTlhwQ01XSVZtQzBtTVBpSdIBgwFBVV95cUxNQW10V2ZyVkRXazdKQkZHekFYcGxvUXpyNVRLQzl0RXdFcmplTDB3QkVaTGxYQ3pZX2tHb21IMVNXOW9BQ01iRU1nWVROczNfc2IxRWRfQ3c3eFFENk5XdkUtRTZFY0VTcGhkUWtRV0F6aF9ITjMzd0xKN2ZOQjFoWDI2Yw?oc=5",
-      "date": "2026-09-29T23:12:33+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "Qh3d2sbdSVfp",
-      "title": "AI companies sign voluntary accord on safety with Trump - France 24",
-      "summary": "AI companies sign voluntary accord on safety with Trump&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0JBc09pUXN5THBDMWwyYVFmVzh6WnBUUjY1Rm5RRTZlQVdsNExpb3Z1VURYRVV1b0VHZ3JRNUhnTVVZY2phQmFoallBTlhfbmdiRFlVVmk4MXRzaTNMdWhSMzZETWtJUERpNDVfQkhIaDU5aklPOThhWDEzeUpjME5tX25kaXdfNFBoVVdHU1pHWHhFTEN4TEdqZkhESVc4MnBWZDRlc3pnekg5Yi12cTZ3?oc=5",
-      "date": "2026-09-29T22:48:00+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
