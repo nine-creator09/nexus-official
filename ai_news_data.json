@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T12:51:06.613934+00:00",
-  "articleCount": 104,
+  "generated": "2026-10-08T22:55:55.440588+00:00",
+  "articleCount": 102,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "mit": {
       "status": "ok",
@@ -24,23 +24,23 @@
     },
     "wired": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
-      "count": 7
+      "count": 6
     },
     "bbc": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "france24": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "dw": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 10
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 24
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,330 @@
     }
   },
   "articles": [
+    {
+      "id": "x4whlc5wWkNE",
+      "title": "損保ジャパン､2万人の「Gemini活用」どう管理？　推進者が語る「リスク回避」の仕組み",
+      "summary": "生成AIの全社導入は、ライセンスを配るだけでは終わらない。損害保険ジャパンは約2万人への「Gemini Enterprise」導入に際し、「使われないこと」と「不適切に使われること」をリスクと捉えた。利用を広げながら、安全に使い続けてもらうための運用をどう築いたのか。",
+      "link": "https://kn.itmedia.co.jp/kn/article/2610/09/2000002145/",
+      "date": "2026-10-08T22:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "OW6KFFQ7anWG",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic secur",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "date": "2026-10-08T21:53:51+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "3ROC6mvJPlCK",
+      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models - Reuters",
+      "summary": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
+      "date": "2026-10-08T21:18:39+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Kf31A4dqCEnN",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safet",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "date": "2026-10-08T20:04:26+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jDBr+UUpf5nB",
+      "title": "A teen tried to navigate Canadian mountains with Claude. His trek ended in an emergency rescue",
+      "summary": "The incident is the latest to raise questions about the growing reliance on digital maps for wilderness navigationThe route up the Widowmaker Arete, a 1,700-foot wall in British Columbia, is deceptive",
+      "link": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
+      "date": "2026-10-08T19:31:23+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "hXHgN8ccq2ot",
+      "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
+      "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
+      "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
+      "date": "2026-10-08T19:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "MkzFX2gHPJLW",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "date": "2026-10-08T18:20:32+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "v34/14XBKIdA",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "date": "2026-10-08T18:19:45+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "HOgtmpdcMoHr",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "date": "2026-10-08T18:19:42+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FzUIZtdDYTNg",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "date": "2026-10-08T18:18:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lxJrYEd2Xlak",
+      "title": "Anthropic changes usage policy to ban model abuse and election interference",
+      "summary": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele",
+      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+      "date": "2026-10-08T18:16:24+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "XuDdZ1wkyS3f",
+      "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+      "summary": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+      "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+      "date": "2026-10-08T18:10:55+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "FHQV2fHZociT",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by R",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "date": "2026-10-08T17:58:33+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RcUEaaY+mMng",
+      "title": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "summary": "According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homesTo say that Maria Zamudio and her team have been busy lately would be a g",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "date": "2026-10-08T17:04:09+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "0AAyQwyDF2ie",
+      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "date": "2026-10-08T17:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8L29J0w0Shx2",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 38 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 38&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-10-08T16:14:35+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "zxqtF+HK0gVA",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "date": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "S2p4oU7w+dz4",
+      "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+      "summary": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and o",
+      "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+      "date": "2026-10-08T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yqk24lojXUx1",
+      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free",
+      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
+      "date": "2026-10-08T15:27:30+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "jYOjH2NzW+Ox",
+      "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+      "summary": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
+      "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+      "date": "2026-10-08T15:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "AwwKSJ8Ehi3G",
+      "title": "Google is launching a one-stop Gemini agent for your work tasks",
+      "summary": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within",
+      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
+      "date": "2026-10-08T14:28:03+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8x6mHOGDB5x6",
+      "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
+      "summary": "The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about itGet our new political email, free app",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
+      "date": "2026-10-08T14:00:22+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "EJdm+Hln3wJz",
+      "title": "Can China match up with Meta’s Muse in race to harness AI agents? - South China Morning Post",
+      "summary": "Can China match up with Meta’s Muse in race to harness AI agents?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcTBKcUszbkREVUNlcDAzRE1wRWo0WTRfZ0xqWWlyYmxNTlZ1YTNlWnpWWUhzVGprTUlsR2l4Y1NHSmluY1p5Q2RNekVvZGs0Yk1YWExOenF3RllRRy1VQ0RUaUhCWURONlg2Q0k3WmF1OWVjdkVnTW40bS12NEFTd1c0dXl5MWlWMWlkQ25CZWJSM2ZycGx3U0FWdno0eXhIZlHSAaIBQVVfeXFMUEpBc05oWng0RUgyLTZxM1JhRlc2Z1l6NzhOdDBISVJSMnVFRmRjUWZ4ME14QUNaVHJyYjV6RDZPTmtEM1gtcWNac3pNYXBEdWt2YkJZdF8yOVhoRlI0VEstand0Mld2NkZkWHhnZnBZWmlTT2lCTGhEd1VWcGU4NnA1SmE3aHh3ejhUM253VFhaNDFza2w4WVg3WjdKVlQ3aTVB?oc=5",
+      "date": "2026-10-08T14:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "cugHLlG18FAE",
+      "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-friendly AI agents. If you’ve been paying attention to this space, you know AI ent",
+      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
+      "date": "2026-10-08T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "o8XQeOpAFyc1",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "summary": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "link": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
+      "date": "2026-10-08T14:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "WGSWpd5m2WoL",
+      "title": "Google releases a new local-first Granola competitor",
+      "summary": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
+      "link": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
+      "date": "2026-10-08T13:28:39+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "QfXXgig2tYoW",
+      "title": "WTO raises trade forecast as AI surge counters Middle East disruptions - South China Morning Post",
+      "summary": "WTO raises trade forecast as AI surge counters Middle East disruptions&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORldBcTBmRVJ3TTF6T3FyVUx4YXJic3FhVS1PaHZMX1lHRzV4Sy1udG9xNnA5aDZYNWVqOUVmNXNSdElOMmRsZ0ZUVW0wWmxxVmFhNnY4ZTBMSDF4M0ZhRndTS2VmR1FEMW9jbGdqUUdLN09OOXVDQWVLMHNZLWZLaGQ3YjNldE1SeEN6cERuUHhLbU5GdlBKckkycTJ6WmNTWW9UNEt1bFhnMi15ZC05NU9pSmw4T190clEtcWgyYm9razFOM2fSAcYBQVVfeXFMTUFWRTBpV0tCSnBNN0pDeXlpbnRHM3g3YXZpa1IyMHpfT2t0OWFveHZRWjd2LTdpZjB0d3dLVllFWUhONVNPQWpNQS1Db2FsU2NWdmNELUxsUzNlaTZZdURoOFhLOURJa2lCaWV0RmVIZERLM243a09ZeExXbHJNdzBqV0QwQUo5NXRyTlZsOE9NNG02ald6NnA4dXVsdUtWRTNFTWM5MFBqUW5pRnRGQXVBaDV3blpRdWRwVWJ6U0ZSSnBLRGVn?oc=5",
+      "date": "2026-10-08T13:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "PsdOYIen8qo3",
       "title": "Tell us: have you been monitored or assessed by AI at work?",
@@ -101,6 +425,18 @@
       "articleLang": "en"
     },
     {
+      "id": "GsRWGI2so4TD",
+      "title": "Hong Kong questions HSBC over plan to set up AI centre in Singapore: sources - South China Morning Post",
+      "summary": "Hong Kong questions HSBC over plan to set up AI centre in Singapore: sources&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMmU2M0lkcmRiNWIxZmVaenA5aVJjVGdEdzlVRlNwNWNNRkpndmlOOXIzLUtwaWFDcGJZNGV1cFlUd0Jpbk1wUk1JTEJUXzRFdVloQkxpZzNlQ2VwUVBNcVBoVHAyVmEtSnd5NjRQZWQyeXp4VnpJNXB1TWdzUWlUcUI1UTlJUmtKNXBOMlY3VDVRM284WU1IMDBkX3NfV1I5eTdoaTVWNGJBYnNjTEZGejNnSnZ1MEg0a3ZFRHNUSW5rbkdPWlpveWNzb2dRcDdZZDZONnd3Y9IB1wFBVV95cUxQUkhPOVhCYU81NmFUaXRCOXNyejVRV0Zhd1hTRXFtdEFSY0ExTmJSNWxNQV9xYmgtUVY0SFp1N0hfVllUdHhyRDFBY3NJbWRPTnVvb3hzMjc4LTdUTVBfZGs0LXJxMndBVWRBWTJiVG1BNEJ2T0J5Y3k4ckdTVU8zV2poNDV1Q3BCQ1AtYlNKNUE1ZThmeUNLMnBncm5uRHRWVy1DZ25oUUZOeWhielRRb2hPZHltTzRTV1NpcHZDZS1xbUFpQi0wbk9jZ0hKY1o5Q01ybGhPZw?oc=5",
+      "date": "2026-10-08T12:00:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "1TAqwEpwqOg1",
       "title": "Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi",
       "summary": "AI is already implicated in violent deaths and nearly started world war three. Those bad things? They only happen to other peopleSam Altman, the chief executive of OpenAI, has some words for you about",
@@ -125,8 +461,8 @@
       "articleLang": "en"
     },
     {
-      "id": "LiTCuUgaM49s",
-      "title": "‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay",
+      "id": "16UGiOoXdXMe",
+      "title": "‘Someone else will do it for less’: refugees in Kenya are powering tech for dwindling pay",
       "summary": "Refugee gig workers for tech companies don’t know how much they’ll be paid – if AI hasn’t already taken their jobs\n In a portable building in Kakuma, a refugee camp near Kenya’s northern border with S",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
       "date": "2026-10-08T09:00:15+00:00",
@@ -149,6 +485,18 @@
       "articleLang": "en"
     },
     {
+      "id": "rsBImVk1W5Fa",
+      "title": "AI use lifts participation in WorldQuant contest - Reuters",
+      "summary": "AI use lifts participation in WorldQuant contest&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU9BU3JlallQY1BwajVXbXR0cVNPNEJsNW1wZDNTTmo5R2JjQ0hrTTBlZWFPWFJSd3dWVTYwaldVRWxneTNCUHZESWMwVWxkQS1YbXNackdiWUNIZlpxOXNGQjJ2Q3VQVmNNa3NtWnUtWVU3LTI5bEZpQ2JzdHFrcjB3NVE1LWVtMkF5ZmRmWXhNRTVI?oc=5",
+      "date": "2026-10-08T08:22:34+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "3/LMo/ZQgBk5",
       "title": "Building a safer path to autonomous industrial AI",
       "summary": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
@@ -158,6 +506,18 @@
       "key": "mit",
       "cls": "src-mit",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "NQuq14DRriXu",
+      "title": "Denmark plans ban on sharing AI deepfakes without consent - Reuters",
+      "summary": "Denmark plans ban on sharing AI deepfakes without consent&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY3lfRzFrRWlzR2kyYVRZdUpaVXZWdmRDT2UxZDRmcmJXbXA5M25XQjhadTIySkFiZ2l0d2NCaUU3eEgxSkIyY0cxTGowLU54dXJkVUlBVEFCazhEWmltYmVsdWRnU3F1YWc5Wl9oS2NZV0V0dDhQZDdDM0VYd2JvQVFfWXJZVUloZUkySzRYc0gxblhxQnJBVVNPMlM?oc=5",
+      "date": "2026-10-08T06:36:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -281,35 +641,23 @@
       "articleLang": "en"
     },
     {
-      "id": "fLTf5YtPkXUP",
-      "title": "AI“狂騒の半年”を振り返る　Mythos公開、Fable停止、GPT-6登場――翻弄されない“堅実なAI導入”の鍵は",
-      "summary": "2026年4月に「Claude Mythos Preview」が公開されてから半年、AIを巡ってさまざまな出来事があった。狂騒に巻き込まれず、AI導入を堅実に進める鍵はどこにあるのか。",
-      "link": "https://www.itmedia.co.jp/business/articles/2610/08/news016.html",
-      "date": "2026-10-07T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "ZFkFbfcWH3Fp",
-      "title": "約1.9kgで3000億パラメーターのLLMをローカル実行、日本HPの最新モバイルWS",
-      "summary": "日本HPは、法人向けモバイルAIワークステーション「HP ZBook Ultra G3a 16 inch」を発売した。「AMD Ryzen AI MAX PRO 400シリーズ」と最大192GBのユニファイドメモリにより、LLMのローカル実行に対応。最大100WのTDPを支える新冷却設計を採用するとともに、AutodeskやPerplexityとの協業を通じて設計業務でのAI活用を後押しする。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news024.html",
-      "date": "2026-10-07T21:30:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Ew2yXGj/trM3",
       "title": "AI companies run virtual drug trials, aim to improve success of human studies - Reuters",
       "summary": "AI companies run virtual drug trials, aim to improve success of human studies&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRzNEYVFhV3haR0RGX2RWa0FjcmxRQlFTLTYwRFc1SlowRDNpUWlwdUd6NVFJVnZha25pZV9jZDlvX21ERllna0tsT01zRE9wUjZSbzg4Zk9XZmwwUEZ3dXkwZ01TWFlKU21lVV80RkdfU0d0d2NIVjV2LTk3NExQUFpzX3JqNENQY1FnOE1sR0xQOW1SWGdRdGVmenlieWlVbnlFY3BKczVnTlBuczUzQTVHZkx0Tkx1bEh5ZVZVbGs?oc=5",
       "date": "2026-10-07T21:01:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "2Kl/lAyVvMRv",
+      "title": "NEWSLETTER: AI wants to cure disease. It needs data first - Reuters",
+      "summary": "NEWSLETTER: AI wants to cure disease. It needs data first&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZko5Um03SjcyYlRWRTh2c2xJYnlVOHNIQVNxa3BKU08tZndRa183Z1RtQ0lKcHdtZk1RRU9yZU9MQ1IwdHFWb2Q2cldVM3Zhekx2b25fVjFNWGtzMjN0YlZ0UGRiWUxBTlEzci01ZnlVbWMwOUh3UnAydzQ3LTdYczU5Ujdsdno4eDl2ck02UjhsLUtCR0RYY3UxTVB2U2h5cjJVcWYwMHdSZ1ZBWDlKX0V3?oc=5",
+      "date": "2026-10-07T21:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -437,18 +785,6 @@
       "articleLang": "en"
     },
     {
-      "id": "e5v19Qe2P0yL",
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "summary": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's pa",
-      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "date": "2026-10-07T18:01:20+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "pbzzilgG8kRT",
       "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
       "summary": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
@@ -469,30 +805,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "It1tl2tFk/SP",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "date": "2026-10-07T16:53:46+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "qupv1y3iAHE2",
-      "title": "ChatGPT is getting college planning tools",
-      "summary": "OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders, to help users with the college application process. \"College Planner bring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
-      "date": "2026-10-07T16:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -521,54 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8VGxO0lumyJJ",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
-      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "date": "2026-10-07T15:07:08+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "syW+FMF9mYxK",
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "summary": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
-      "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "date": "2026-10-07T14:41:38+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "plnDSVvpWioa",
-      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
-      "summary": "Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to combat disease, as rep",
-      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
-      "date": "2026-10-07T14:40:52+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "OBL2R8qmlS4H",
-      "title": "Google experiments with an AI-powered gaming platform",
-      "summary": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-      "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-      "date": "2026-10-07T14:36:23+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "hjTfOmX32lFk",
       "title": "Mumsnet denies using AI for content after prompt appears on message board",
       "summary": "Users reject site’s explanations after detailed instructions for writing response to post on popular forum were publishedMumsnet has denied using AI to produce content after detailed instructions to h",
@@ -578,30 +842,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "kIKd+1M8mgwM",
-      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-      "summary": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up",
-      "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-      "date": "2026-10-07T14:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "2d7EQL9MUKTR",
-      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-      "summary": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-      "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-      "date": "2026-10-07T14:15:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -617,18 +857,6 @@
       "articleLang": "en"
     },
     {
-      "id": "eT6PRuCtxBR+",
-      "title": "Google’s new SynthID website can identify AI-generated media",
-      "summary": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
-      "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
-      "date": "2026-10-07T14:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "MLkfCReMA3mF",
       "title": "Existential threats join bubble fears as AI mood sobers at Singapore forums - Reuters",
       "summary": "Existential threats join bubble fears as AI mood sobers at Singapore forums&nbsp;&nbsp;Reuters",
@@ -638,18 +866,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "GQ6rPCnhnyeL",
-      "title": "AI could upend food delivery",
-      "summary": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: I",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "date": "2026-10-07T12:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -710,18 +926,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "ltdy+UyOpLmz",
-      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
-      "summary": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-      "date": "2026-10-07T09:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -797,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8Xd5ZQq4XohG",
-      "title": "OpenAI drops another batch of mathematical breakthroughs",
-      "summary": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "date": "2026-10-06T23:26:38+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "tU7s6jc6Yh59",
       "title": "Companies cutting jobs as investments shift toward AI - Reuters",
       "summary": "Companies cutting jobs as investments shift toward AI&nbsp;&nbsp;Reuters",
@@ -818,18 +1010,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "E8x0FiHiSgGr",
-      "title": "How AI decision models could change content moderation",
-      "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "date": "2026-10-06T20:35:20+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -845,39 +1025,15 @@
       "articleLang": "en"
     },
     {
-      "id": "OHl9wJL4C1XF",
-      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-      "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "date": "2026-10-06T20:00:30+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "JuBFNVdjf3Ox",
-      "title": "Mistral: French AI firm announces Le Chonk, a new, private model - DW.com",
-      "summary": "Mistral: French AI firm announces Le Chonk, a new, private model&nbsp;&nbsp;DW.com",
+      "id": "59xenrdPXajO",
+      "title": "Mistral: French AI firm announces Le Chonk, a new, private model - dw.com",
+      "summary": "Mistral: French AI firm announces Le Chonk, a new, private model&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTY3bnhWaWNETlRoS1psQkU4Qlp3c2tFWWwtZ1hPUmpNN2ZONkNwYTUzLXpsVTRrRnBQeEpFQnVWVUNydElHdVBQV3BiZ1NLR2diWncya0d4T0VFUzJDUWVZd1Z0Njl0LUhxUzM1OXM2OFh1TGZzOU4yRnc0VDNxazFjSDLSAYQBQVVfeXFMUDRLOUZyR0hsWHdiRFQxZXMxVGVRQkY1ZU1sV0ptRm9kZkRWMUlYQXE5R3Zja205ODlYRzlpTldYUjZPTTNRbEY2azRBbS1TTnBScEYxd29kLUhFekh0WlhKVHRzZllfYmlvOVdxWHRFa3RxSk1XU00xZ1JSWk5wZEstMXZE?oc=5",
       "date": "2026-10-06T19:57:35+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "SypAfJWCP+fs",
-      "title": "The next hurdle for AI agents: getting websites to let them in",
-      "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new stand",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "date": "2026-10-06T19:56:50+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -889,18 +1045,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6F0I4KUji0Su",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
-      "date": "2026-10-06T18:22:45+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -929,66 +1073,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Zes4nhvvGlap",
-      "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
-      "summary": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew GarfieldOn the day that Luca Guadagnino’s film about Sam Altman and OpenAI premiered, V",
-      "link": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-      "date": "2026-10-06T16:58:15+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "WBnsrj3BVQyp",
-      "title": "Is regulation enough to stop AI systems killing us all? | Letters",
-      "summary": "Martyn Thomas wonders how any rational person can argue that independent oversight and regulation will be sufficientOnce again a frontier AI model has been withdrawn because it fails safety tests (Ope",
-      "link": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
-      "date": "2026-10-06T16:56:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "TxYk3MQPqZBP",
-      "title": "Mirror Particle is building a ‘world model’ of human behavior",
-      "summary": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research",
-      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-      "date": "2026-10-06T16:35:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "C1Je3z56B2nx",
-      "title": "Tell us: do you use AI agents to manage your finances?",
-      "summary": "We would like to speak to people about their experience of using AI agents when dealing with their financesFollowing the release of Meta’s Muse and Open AI’s dots there’s now capacity for these AI age",
-      "link": "https://www.theguardian.com/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances",
-      "date": "2026-10-06T16:02:24+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "D1bYNIAcR9PZ",
-      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-      "date": "2026-10-06T16:00:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "aCl/CmAMovMH",
       "title": "France's Mistral launches AI model it says outperforms some Chinese rivals - Reuters",
       "summary": "France's Mistral launches AI model it says outperforms some Chinese rivals&nbsp;&nbsp;Reuters",
@@ -998,42 +1082,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "a0ITwtPYMEK9",
-      "title": "Stop worrying about my AI, says multibillionaire Sam Altman. So we bear the risks and he keeps the money | Chris Stokel-Walker",
-      "summary": "OpenAI’s CEO seems to want to privatise his company’s huge financial gains while making all of us pay for any negative consequencesTech bros’ messianic streaks can show up in subtle ways. But one of S",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/06/ai-sam-altman-billionaire-risks-openai",
-      "date": "2026-10-06T15:30:17+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "TOPQvKMgfkhP",
-      "title": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India - Reuters",
-      "summary": "AI firm ElevenLabs to invest 'hundreds of millions of dollars' in India&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObXkzMnZtYVVNeE9XUjBxeFNGUHVlNF9sUjkyVXA0VDA5TERLTGE1aUtmWVdUVWlpeDZkeDZUdTd6UWJKNmJSNDVDeWNHaG9ZY0otNzJudjJWQ1ZfY21YbHBxb09VU1NOOU1oNDJQU3RLZnRvRWpEZmJsYjl3aGxCLXBiZ05OMm1QajZWMGN0by1pckZlV2NDTDd3SmctZDZOVVE5SEFnSS0?oc=5",
-      "date": "2026-10-06T14:11:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "RCOVGLU7YGjE",
-      "title": "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-      "summary": "With the release of its new trillion-parameter model, Mistral is hoping to demonstrate it’s “still in the race” to build frontier-level artificial intelligence.",
-      "link": "https://www.wired.com/story/mistral-new-model-le-chonk-open-source-china-us-frontier/",
-      "date": "2026-10-06T13:15:23+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1070,30 +1118,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "28jMureDuWQ+",
-      "title": "AI hopes, industrial malaise drive boom in German startups - Reuters",
-      "summary": "AI hopes, industrial malaise drive boom in German startups&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQi1faEtDSHdFZkhNN2hZWG0tNTU3d05PaHBSVzV3VUFXNEhXMEhQXy1HZnhCZU9qaUFJMWF2OTUwNnJRS2RmcW9UZ1U4dVNETk9pSGJVTkR2QjBjaG9LTlREMXVFV3k0RFViSDdxU3haV1dYR25KOTRIUE8xOW43cDdteVJvNGhnX0xEOTRRLWtqcFIzQkJ0STVwa2hPOXY3?oc=5",
-      "date": "2026-10-06T11:05:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "kbgAif0rdD1Q",
-      "title": "Kevin Roose Didn’t Use AI to Write His Book About AI",
-      "summary": "The author of The AGI Chronicles says his book “was written by a very tired, overworked, under-slept human being.”",
-      "link": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "date": "2026-10-06T10:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1205,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6y8O7vqfP26w",
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T10:03:38+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "GrvVgJEXdixg",
       "title": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI - South China Morning Post",
       "summary": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI&nbsp;&nbsp;South China Morning Post",
@@ -1238,18 +1250,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "bd+5xSFRlUHV",
-      "title": "Trump taps Jay Clayton as AI czar for new task force - DW.com",
-      "summary": "Trump taps Jay Clayton as AI czar for new task force&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByN09MRUNYZU03VHRSaWlHNzVGb05ETkppNGdXaXd1bmpIczBjaXNxemh0WnlzbEZ3ZWJaMm5NRFpCRm9TUjlXTkk2R3ZBZVh2WjBlY2VmWW5Xb1NYdUt1ZVZoMEkzc21RZFZGXzFXOWc5QlXSAXNBVV95cUxOclBQcW1sU0xMNGJ0RkpPYWQ2QXFtLWx6bFhDQnVQZFFhUURfeTV3MGVRU0NFdHlkaWNoM2liT1lzODY5TXN6Z1FfRjZwbUxRMUlYaHBlN3VORTBvSGFKd2tPZmZOZExHOFRMWGFYVm5ZZkxR?oc=5",
-      "date": "2026-10-04T21:22:57+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1286,30 +1286,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "fZJ7sWiZp5Gb",
-      "title": "Trump wants to stamp out the term ‘artificial intelligence’. Why? - South China Morning Post",
-      "summary": "Trump wants to stamp out the term ‘artificial intelligence’. Why?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZzhZTng2emxhNHVZWjg2ZE5qZlBseG9ERUwwclRfUERBQ0ZjTkRBek52bjRtVE9DZVFWcVlRczJUUFFUS3JBU1J4MVFfY2VtdElwQlpnYkg4b3QtWGpHT3FJM1pwTkw3c3k0S1RoMWdBQS1hdUVrSG5kNHhyZjJRQmdqVmlvSUNGeUpKNUZ6c1NLamdWWW1kXzEtV0tkUDlMZXdDeDM0ZHLSAagBQVVfeXFMT3diWkRQYzl0SUtDMzNGU2tNNzhjRWJzVU9IZXhyRUlYMXl3bFE4aEhXanhhS21RYkwwcEp2MkRWbVdVRWN4NUZpYUN2azg2VWZDZDFNdWlhTGZEQjd6bGR5bm5FQ2pwQWFRS1k1SEhxRWx6RzF5amlQNXA3RmE5Vi1ZYWE4WVZpNjVTM0pWMzFNbmlXN2diTWF3SWVoZWhMamZ5a0UyaWRO?oc=5",
-      "date": "2026-10-02T14:00:30+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "+qFPuVjBipUk",
-      "title": "Truth or Fake - AI deepfake of BBC report falsely links Indians to FlyDubai hijacking attempt - France 24",
-      "summary": "Truth or Fake - AI deepfake of BBC report falsely links Indians to FlyDubai hijacking attempt&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTZ2RlZrZ0lUSXRVS1hfeFE2RFdxRjV5Ym5FaF9VTUI3YnVNZ29hdnNid2FwbVhmQmRIR2RLSk9wZGFyaFotYVFjVlZZWnl1TmVvS25WS1g2TGh0QkQtRlFnbUdjeHhuNXVpcUZqazc1YU5LbGlrVmcwYUJoZURpVFlWYmw5c2ZpeGd4cUdPRHNJbEpkc01LOHpqZlFubGs5R2ZkbXR0NXR1MHdlU3FRQlVva1BSbVYtU05V?oc=5",
-      "date": "2026-10-01T21:11:44+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     }
   ]
