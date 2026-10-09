@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-08T22:55:55.440588+00:00",
-  "articleCount": 102,
+  "generated": "2026-10-09T04:41:11.100210+00:00",
+  "articleCount": 107,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "ars": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -40,11 +40,11 @@
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 24
+      "count": 25
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,126 @@
     }
   },
   "articles": [
+    {
+      "id": "n3WxzCij298o",
+      "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
+      "summary": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
+      "date": "2026-10-09T04:20:56+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "0OWpCsy+u6xQ",
+      "title": "Nvidia-backed AI data centre firm scraps mega listing due to market volatility",
+      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-09T04:06:23+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Qx9u9f5Hxurr",
+      "title": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
+      "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるか",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
+      "date": "2026-10-09T03:20:15+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "JzH1A8E3qGwr",
+      "title": "履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究",
+      "summary": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
+      "date": "2026-10-09T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "n+mkiYjEEo2a",
+      "title": "トランプ米大統領、「AI」という言葉を使う者は「敵」　政府サイト「AI.gov」は「SI GOV」表記に",
+      "summary": "トランプ大統領は「Artificial Intelligence」（AI）という言葉を使う者を敵と見なすと投稿した。政府は代替呼称「Super Intelligence」（SI）への移行を進めており、政策サイト「AI.gov」のロゴ刷新や大統領令への署名、新組織「SIF」の創設など、公式文書での呼称変更を加速させている。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002157/",
+      "date": "2026-10-09T01:59:24+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "FjL00rkJJs+y",
+      "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+      "summary": "A spokesperson behind the tech company’s AI chatbot has not yet specified what counts as abusive or cruel contentAnthropic has barred users from exhibiting “sustained and needless abusive or cruel beh",
+      "link": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
+      "date": "2026-10-09T01:25:42+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "XKj06f2vkwa2",
+      "title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
+      "summary": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
+      "date": "2026-10-09T00:40:57+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "YRLOzA87gosE",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "date": "2026-10-09T00:08:24+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "tarTEOnigril",
+      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止　影響工作の規定も集約",
+      "summary": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
+      "date": "2026-10-09T00:07:24+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "3ROC6mvJPlCK",
+      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models - Reuters",
+      "summary": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
+      "date": "2026-10-08T22:13:51+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "x4whlc5wWkNE",
       "title": "損保ジャパン､2万人の「Gemini活用」どう管理？　推進者が語る「リスク回避」の仕組み",
@@ -86,18 +206,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "3ROC6mvJPlCK",
-      "title": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models - Reuters",
-      "summary": "Lawmakers raise alarm at Google plan to acquire Spirit Airlines data for AI models&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOTYxUnZPS1BaUTl3NU4tc1pXVEQwNVNKQjA5MllqWmJIejF4TmxUUmVpR2NNTXFWNmNTTHJPZjdSU25FZGdwSnZWX0RNY09OMEZCNUdjdUEzU19tLWRob3BGeXgyZEhlX195bUZGM19DXzF6aGV6NU9LTGNENDhOVnoxXzVScjJEZWNKeHZHbmZER2tCaUpHM1hVc3ppcXQtWDNaYlFYeEhoNzFiS0swYkplSkY?oc=5",
-      "date": "2026-10-08T21:18:39+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -221,8 +329,8 @@
       "articleLang": "en"
     },
     {
-      "id": "RcUEaaY+mMng",
-      "title": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "id": "rEcMT0rPHnzR",
+      "title": "An AI boom is sending San Francisco rents through the roof: ‘Nowhere left for people to go’",
       "summary": "According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homesTo say that Maria Zamudio and her team have been busy lately would be a g",
       "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
       "date": "2026-10-08T17:04:09+00:00",
@@ -413,6 +521,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "OQr/kRQbsr1e",
+      "title": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses - DW.com",
+      "summary": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMl9HaGl4cjRMdkxIM1FGaE80VnRLU3B5TVBmRlNCSmlBX25WTVAyWURnejlud3BiZWNvN0Joa3R4ZXlicWt6MUJSbHp3dEZLTHMycHFhdEY2OXNCOTZEc1RNNURXd2J2ZWQyOV9POUNyZFI0ZDVseUJoMnJ5dG5MV1RPaFhPUGw1Q3hQcHM1N1JLU1hIaHlucy1ab9IBmwFBVV95cUxNM3dBN0t1UmtMOXF4eXFaTUZhQnhEeDdFMDM3XzI1bzEzOWlKc1VEdkRaY2hlbUtoOUZoQUdoOFp1b3VsejFKY215bU00N0pSakhBVEZ5aWpBRloyVWszYWZ2VWJpTjB4d0xRUHBTajdqVmxWWkFjMjU3VWdqemk3WFY2SXpLazY1bmdkLUJFWG5wamlRbkYyLTNuaw?oc=5",
+      "date": "2026-10-08T12:15:38+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "4IrDp/vOhHlu",
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your lif",
@@ -569,16 +689,16 @@
       "articleLang": "en"
     },
     {
-      "id": "HGnxIAsLxb8V",
-      "title": "Anthropic、「Claude Haiku 5.5」公開　「Haiku 4.5」から大幅性能向上で利用コスト約75％減",
-      "summary": "Anthropicは、小型AIモデル「Claude Haiku 5.5」を発表した。前世代から性能を大きく引き上げつつ、コストを約75％削減。推論の深さを調整するeffort設定に初対応し、コンピュータ操作や大量の定型処理、上位モデルのサブエージェント向けに全プラットフォームで即日提供された。",
-      "link": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/",
-      "date": "2026-10-08T01:37:32+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
+      "id": "xw+9Plkn3NkB",
+      "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules - Reuters",
+      "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
+      "date": "2026-10-08T00:19:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "kOAaucDL0zVG",
@@ -591,30 +711,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "IWCTrvoRWdb/",
-      "title": "Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に",
-      "summary": "Anthropicは、小型AI「Claude Haiku 5.5」のAPI提供を開始した。料金は10万トークン以下で前世代の10分の1になり、平均利用コストは約75％下がる。effort設定への初対応やSDKへのブラウザおよびコンピュータ使用ツールセット追加のほか、Sonnet 5.5のキャッシュ料金半額も行われた。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/",
-      "date": "2026-10-07T23:20:36+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "I3J6zec1kIrY",
-      "title": "ArmのCSS for Mobile 2はPC向けの伏線!?　Neoverse CSS N4はAGI CPUと競合せず",
-      "summary": "Armの最新動向について報告する本連載。今回は、2026年9月の「Arm Everywhere China」で発表された3つの新プロダクト「Arm CSS for Mobile 2」「Arm Total design for Physical AI」「Arm Neoverse CSS N4」について少し詳し目に紹介する。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2610/08/news010.html",
-      "date": "2026-10-07T23:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "dayLPmXGKnL6",
@@ -969,23 +1065,11 @@
       "title": "South Korean megachurches probe suspected AI-linked cyberattacks - Reuters",
       "summary": "South Korean megachurches probe suspected AI-linked cyberattacks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHBENnFFZExrOWJJY3plamJVNVUtU1d0bXA5RW1Va1ZBbjc0VWgzemdxZGZWakYwZW01T2lzWE9WMGpiYmc0aENrNmh6QmotUGZrQTl4THlKUzVEa1kyS1lfVlJ4V3dNSG41aXBOcEdHRTdobEhaOXgyY0RhNjBSOTFfWmFiVWdEcWF5SGN5OG9hX2pVT05VU2FZeEdlc3I0TnRZd2FPQ3RvLVBpV1ZBaGo4VWlvSmdp?oc=5",
-      "date": "2026-10-07T03:00:00+00:00",
+      "date": "2026-10-07T05:53:05+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "VKduqALWqpu0",
-      "title": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh",
-      "summary": "We don’t accept drugs killing a few people because they cure most patients. Or a few planes crashing because most land safely. AI should be no different OpenAI’s CEO Sam Altman was asked to appear bef",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
-      "date": "2026-10-07T01:00:37+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1085,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "xiBuXgUChrXf",
-      "title": "Business - US payroll data shows young workers' jobs most affected by artificial intelligence - France 24",
-      "summary": "Business - US payroll data shows young workers' jobs most affected by artificial intelligence&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaXduZmhUMnBRSWhXMUJaaFV4YU1feEw3S205M1d1RlNvb3diYkduMkEyNVRZNnpBbUE0eTZGbHhNdHVJaVB6Z1hqYUxMSTFaMHlqcThBa2dyUVRDTUlDX1dIRG1nTkxCTUlHd0lESHJSQlhyZ0M0clFlNXdvei1Ub1hwTWgxWW5kSWk2YUVhYklaM1NMeTdSSHRPRnp5QlUwZU8yRWhfOU9sU0IzWVgzUEZKOUNVc0M0dnZjMmpXcS1DSUZOZTN3YTNUa0gzSURMZEE?oc=5",
-      "date": "2026-10-06T12:15:16+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "MFR25bQWnDhy",
       "title": "AI overload? Why China’s developers cannot stop launching model upgrades - South China Morning Post",
       "summary": "AI overload? Why China’s developers cannot stop launching model upgrades&nbsp;&nbsp;South China Morning Post",
@@ -1118,6 +1190,18 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "28jMureDuWQ+",
+      "title": "AI hopes, industrial malaise drive boom in German startups - Reuters",
+      "summary": "AI hopes, industrial malaise drive boom in German startups&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQi1faEtDSHdFZkhNN2hZWG0tNTU3d05PaHBSVzV3VUFXNEhXMEhQXy1HZnhCZU9qaUFJMWF2OTUwNnJRS2RmcW9UZ1U4dVNETk9pSGJVTkR2QjBjaG9LTlREMXVFV3k0RFViSDdxU3haV1dYR25KOTRIUE8xOW43cDdteVJvNGhnX0xEOTRRLWtqcFIzQkJ0STVwa2hPOXY3?oc=5",
+      "date": "2026-10-06T11:05:28+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1169,11 +1253,11 @@
       "articleLang": "en"
     },
     {
-      "id": "2IUj7t8Rv3I9",
-      "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - Reuters",
-      "summary": "South Korea plans to develop $3.5 billion frontier AI model starting next year&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5",
-      "date": "2026-10-06T02:22:00+00:00",
+      "id": "7ZIy7w74dvlT",
+      "title": "Inside McDonald’s push to have AI price your Big Mac - Reuters",
+      "summary": "Inside McDonald’s push to have AI price your Big Mac&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZTUwSDRkVzM5OHNmYzN0ekFqdUMwTVVzQmtnc1A5ZXJvNHZENzJ0bHhVWE53aDdYc2Rnams0RjJ6Q0hOYU9zblpUYmk1LVRodW54U1dienZYMEg4em1pdXhJcmI1RGxRMjVjTGdKSV9IVEtFb2tLcjJaRFBXR0c4VTQ4Y0ZieVpEcnFnTGk4YVhiSU1zb3ZCTA?oc=5",
+      "date": "2026-10-06T07:00:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1181,11 +1265,11 @@
       "articleLang": "en"
     },
     {
-      "id": "xw+9Plkn3NkB",
-      "title": "OpenAI, Anthropic tell Australia they would welcome data breach rules - Reuters",
-      "summary": "OpenAI, Anthropic tell Australia they would welcome data breach rules&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPakluaktNLUFlZk8zejE5LUV6VWYtdkphTjB0UVpiYjJ2WVYwd2lXUC0xMTdPcFJXYUNMajk5MlMtcmNlSUxiUGY3T0plNzYxMG02X09jbkNlcDBldEdueENYdXhHVnd6TkVmVExyZGtzN0hqdUF5X2VsaEVMX3hWT21ob3VvWWE5UlNqbnZLb24yTXJlYWJiZGl1cjRWNnNad1ljTlF4WTVJREEza2Y0SmlmX0E0QzJfeVZjU1hFOXdYeDU2bEE?oc=5",
-      "date": "2026-10-06T00:15:00+00:00",
+      "id": "2IUj7t8Rv3I9",
+      "title": "South Korea plans to develop $3.5 billion frontier AI model starting next year - Reuters",
+      "summary": "South Korea plans to develop $3.5 billion frontier AI model starting next year&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5",
+      "date": "2026-10-06T02:22:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1202,18 +1286,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "a2PXXNZFGqr6",
-      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
-      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-05T16:13:21+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1274,18 +1346,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "klhvcnOBL2x9",
-      "title": "Judge warns AI could stunt lawyers' training and harm their clients - Reuters",
-      "summary": "Judge warns AI could stunt lawyers' training and harm their clients&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaW9VTzR5bkJYdmJGams3elZMa3hyaXRmOHJVN05BWnZ6VjNRcGlRM243SGwtWGhMeFlIX05haGhqZkFQeXJYcEpYMjdjazJTdmpHVVNsOFItNWxKd1pyenZ1SDVydnRORUZxNkR0TkJhN1YxeG9XSEY4cy1PMUh2Q1Zmd2VuMExUNWZkQ3l4R0hKbXBmVnJOMUpydGRrbnd1d0ZMdFQyWmN3cHlCV1dmYXI3S01iQQ?oc=5",
-      "date": "2026-10-02T21:30:10+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     }
   ]
