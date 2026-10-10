@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-09T22:17:16.297470+00:00",
-  "articleCount": 118,
+  "generated": "2026-10-10T04:26:51.194376+00:00",
+  "articleCount": 120,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "reuters": {
       "status": "ok",
@@ -65,9 +65,45 @@
   },
   "articles": [
     {
+      "id": "ZZVDVPdNn4gm",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "date": "2026-10-10T00:18:32+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "NyAbHnjmzOpg",
+      "title": "OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明",
+      "summary": "OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/",
+      "date": "2026-10-09T23:28:02+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "6lPDAOLk5yC5",
+      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
+      "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
+      "date": "2026-10-09T22:27:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "G6/qJXnrnix1",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-      "summary": "TypeSafe AI raised $870 million in a round led by a16Z.",
+      "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
       "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "date": "2026-10-09T21:41:29+00:00",
       "source": "TechCrunch",
@@ -242,18 +278,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "L+vlo+mQY2n0",
-      "title": "China vows to curb tech bubbles, keep AI risks in check - Reuters",
-      "summary": "China vows to curb tech bubbles, keep AI risks in check&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw?oc=5",
-      "date": "2026-10-09T13:00:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -471,6 +495,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "WgeNs7eNXCCt",
+      "title": "Opinion | The 3-body problem with AI regulation - South China Morning Post",
+      "summary": "Opinion | The 3-body problem with AI regulation&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLUFjcVQ5MDZjSlRwdDRqV0liRldVZm1qWWNtUUNLc2R4YlBOQ2IzWUFCR1hfSGFxekdibkxoX19NTGQ2ZWJTaWh4N2w1SGlLQXg2QlNxNjE1ZmMxWE1hZ3JVeTZQSWEtaGc2U253d3p6TkpjdlR1cXYzVUJwdUJNMUhtUFIxWG03MExSU052R29mQkwxVWRZbWszRjFCZW5qMUlZZmFkaDR0VklrelHSAa4BQVVfeXFMUEpMazUtV3pvQ3hjSlNhRzZWV0dFOERzNjdRdlc2SGxjS0d0WTFuWjJMQmNELUU1anpITVdoLUNxblByLWNuVm5rNGVLMlROZ3JYVUxBUFc3TGZBS0RON21oeDdmZENMV25VVzVab1VhMkJyZVlzWGxXWHFxMjB4VDhGV3kzUHRQU1FoWGgwcU9lTVRnaXl3Y2xuNlVSaEk5M1Rrdi01NVhlellIVkNB?oc=5",
+      "date": "2026-10-09T01:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "FjL00rkJJs+y",
@@ -701,18 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8L29J0w0Shx2",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 38 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 38&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-10-08T16:14:35+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "zxqtF+HK0gVA",
       "title": "Natura’s $99 smart ring puts AI agents on your finger",
       "summary": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
@@ -778,18 +802,6 @@
       "summary": "COMMENTARY: How AT&amp;T is using AI to reduce its reliance on law firms&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbHRKcklmNGswT3UzcGpwRFFScnpSSlFlRFY0OW1mb2RtekZtcmx4dmJPc05JcGZ1SC1xZUxLTkotd0E4a2lQYzRPY1o4RHNZR043ZDhFcGZ2UUtRVW1OZHgwVUpJUUtyZlktb0VTcUJfMk1lWk9uNk9UOUdZdE1mVXFrOXRXN1RpRE1MS3g3dk80bnZ2amFyQWo1cGtCbWZDZlZqcHg0Uk4?oc=5",
       "date": "2026-10-08T13:08:10+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "a0YPzq6PepSt",
-      "title": "WTO upgrades goods trade forecast as AI boom offsets Middle East disruption - Reuters",
-      "summary": "WTO upgrades goods trade forecast as AI boom offsets Middle East disruption&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONDV4VmEzel9IcmR0elJ5WVc3cExxU2NnRkY4V1l5UnFFV2JVYnktX3FJaldIZ08wMEFYUW1CWTM0b0Vob1pJTXhrc01YRWxHS0xnNmJONjF5TkZRYUtSM1Jyd0IydnozZUxjaEE2OVAzQklkYWZBb0Q1V3Ffa2Z0NDc0bWtIWGxyRzg0bmxfQWR1LTFjaTN6NTJWTEp1ekNibnRmM2dKTzFFQ0dLRzctdU9OVG9LWnhZODd3VVJGNEhEOEdlYlE?oc=5",
-      "date": "2026-10-08T13:05:56+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1262,6 +1274,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "OTjHjIUZxO03",
+      "title": "Musk says TSMC won't run Terafab AI chip complex - Reuters",
+      "summary": "Musk says TSMC won't run Terafab AI chip complex&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdXV3b1VldjdSN0dMQlNTZm9JYmRscDY2UllLUnlaTEJoU21xVzRpVXhucnlxbFhsOUFLUmlYU1EzejBIRWQzYm0zeTdVdE1lckU4V01RZ2pneE9nbkI1UHJHTGM2UkIwaUI4WWltR1pocHpmcHZraExfVHB4dld0N1pGX2ZRTWw5Zjc2V0FhTEg5Y29DN0hYMmdmVV9YVWNnZjlQRmNlNF9sMGozVVFOOWNOc2FDWlBZbVRzaTJxcmFrUU1UT1c2T1NSR0JzQQ?oc=5",
+      "date": "2026-10-07T08:03:14+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
