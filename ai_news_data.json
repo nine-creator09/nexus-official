@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-11T04:08:59.981745+00:00",
-  "articleCount": 120,
+  "generated": "2026-10-11T12:08:49.371987+00:00",
+  "articleCount": 116,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "france24": {
       "status": "ok",
@@ -44,15 +44,15 @@
     },
     "dw": {
       "status": "ok",
-      "count": 5
+      "count": 4
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "dEWUxUi8IV0x",
+      "title": "I Made Terrible Games With Google’s AI Playground",
+      "summary": "A long day’s haul in the video game slop mines.",
+      "link": "https://www.wired.com/story/i-made-terrible-games-with-googles-ai-playground/",
+      "date": "2026-10-11T11:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ppt9SFPsvDr3",
+      "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+      "summary": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’Back through political history to the age of Ronald Reagan, Republicans have repeatedly promised the US pub",
+      "link": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+      "date": "2026-10-11T11:00:25+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "1Q1N1kyUQU8H",
+      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
+      "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly p",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "date": "2026-10-11T11:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "pAahO8tClBJX",
+      "title": "Fixated on AI, the world has forgotten what is staring it in the face: nuclear annihilation | Simon Tisdall",
+      "summary": "This is no scoffing matter. The accelerating proliferation of advanced nuclear weapons is bringing ‘end times’ closer by the dayHumankind has fearfully and sometimes joyfully anticipated the end of th",
+      "link": "https://www.theguardian.com/commentisfree/2026/oct/11/ai-annihilation-advanced-nuclear-weapons",
+      "date": "2026-10-11T09:00:22+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "r5KsVnSdMQQ2",
       "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
@@ -413,6 +461,18 @@
       "articleLang": "en"
     },
     {
+      "id": "zjQN+bSDEWXm",
+      "title": "India's TCS rises as margins steady despite AI investments - Reuters",
+      "summary": "India's TCS rises as margins steady despite AI investments&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckdwSjZhV3lYaVBsMFlkbHZqbHg3ejNwLXJRTjJCRUxvQk5jUXlyQ3NybURhWGliZE5kY0JKaml3RU9TeHlUM1E3OWZIa2tfNUIzSVdrMHVpcFpOVnBtX1Zmb3FYejBuUW1qbW1FQnFLNDZOVldPOG45aEoyZGVkaloyVmg4SF9YN3pjU3Q3Uk5QZFRZX3pGenJmYTFPNGhYem51SG9Uc3paeG9QUGU5dlk3aXRua1ZQaTNfdXZB?oc=5",
+      "date": "2026-10-09T16:26:20+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "B+vP9tF9qJ3W",
       "title": "a16z’s Olivia Moore on the state of consumer AI",
       "summary": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
@@ -437,15 +497,15 @@
       "articleLang": "en"
     },
     {
-      "id": "er5tAc8Nbok8",
-      "title": "Author or artificial intelligence? Literature in crisis - DW.com",
-      "summary": "Author or artificial intelligence? Literature in crisis&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQkdqcDg5b1o3ZEVsRTFnWXFZM3JXanliOHhWR1BmbzgzUmRlS2MtUlpkaU9UdjhIazBEUVp4bTRxaE1XUW4yVVRVeUxyLWRYWWVFLU95Z3J5cXYyckRBakY0WDlHb082TjVNZDBkcE9RYkRrQ2NpZjZ4S0JiR05td2J4a2Y0aURKdm5HOWhVc0TSAZABQVVfeXFMT1Nwbnk4TS1EWWowZTFUdy04Yi16M1lDN1ZLT3dGRlJoazBIUldaaW10aFlRZmNCOVB6bGpqUWFfNTFqMXlsaVBvSXlZUFM1U2N4dWFKQXhyeTBVWWMtaUZyOEFKSGlweWhwYjVReGZ4UkpKT2RQblFtcnBNS1dBb0o5VzVULVpxQ1hvbVc1U19Q?oc=5",
-      "date": "2026-10-09T15:09:58+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
+      "id": "NsNexiDUgHGq",
+      "title": "Judge dismisses US agency worker's lawsuit, citing AI hallmarks - Reuters",
+      "summary": "Judge dismisses US agency worker's lawsuit, citing AI hallmarks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNamRzckNhbENSR1NoaENBX0MzX2xHdi1BOV9CdDZVNGJyaWNRVDl3dkdJd3lJTGNaMEwwM3B2eUNoQlU2TGduLWw1a2xEMDhLeklTTVdrSDVlOERKMVdzM3JJb3pxellUTFNiVi1Ta0RPZWlXeGxJMEpnVE4xZEhpVklrcGdqTXNUb1RKc19pNnNweEh0eE1wVm9yLTNYV0tmbzdHbGx6akR2MXFYVWV6c0JNeF8?oc=5",
+      "date": "2026-10-09T15:05:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -545,18 +605,6 @@
       "articleLang": "en"
     },
     {
-      "id": "C9xto+A0UMUP",
-      "title": "Microsoft brings more AI to PCs as it challenges Apple - Reuters",
-      "summary": "Microsoft brings more AI to PCs as it challenges Apple&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5",
-      "date": "2026-10-09T10:06:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "MPPQrUVNGxVr",
       "title": "Even ‘Law & Order’ Is Terrified of AI",
       "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
@@ -565,18 +613,6 @@
       "source": "Wired",
       "key": "wired",
       "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "uJZYj2jYyX+1",
-      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "date": "2026-10-09T09:48:26+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -653,6 +689,18 @@
       "articleLang": "en"
     },
     {
+      "id": "xmGOfB3ohhSK",
+      "title": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters",
+      "summary": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1rWkJDakhDNW9vbEdSYklkVmdXd1VVYkJRX2NLTHJfazRRN1lndlhnX0V2RHJmLWhDMTFPeWFGZ2M1THo1aGJiT3RzTkxDTXJCVDRkMFFoS0kycVY0RXdDQ3ZQTWNRLVBNY3Y0V0NQOVpUODVtOXZ2U1FxektBYnVDZGROWUtzN0tMcHNtLUhMSnNlQzVVX1A1U04?oc=5",
+      "date": "2026-10-09T05:06:26+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "n3WxzCij298o",
       "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
       "summary": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
@@ -663,30 +711,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "OQr/kRQbsr1e",
-      "title": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses - DW.com",
-      "summary": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMl9HaGl4cjRMdkxIM1FGaE80VnRLU3B5TVBmRlNCSmlBX25WTVAyWURnejlud3BiZWNvN0Joa3R4ZXlicWt6MUJSbHp3dEZLTHMycHFhdEY2OXNCOTZEc1RNNURXd2J2ZWQyOV9POUNyZFI0ZDVseUJoMnJ5dG5MV1RPaFhPUGw1Q3hQcHM1N1JLU1hIaHlucy1ab9IBmwFBVV95cUxNM3dBN0t1UmtMOXF4eXFaTUZhQnhEeDdFMDM3XzI1bzEzOWlKc1VEdkRaY2hlbUtoOUZoQUdoOFp1b3VsejFKY215bU00N0pSakhBVEZ5aWpBRloyVWszYWZ2VWJpTjB4d0xRUHBTajdqVmxWWkFjMjU3VWdqemk3WFY2SXpLazY1bmdkLUJFWG5wamlRbkYyLTNuaw?oc=5",
-      "date": "2026-10-09T03:58:40+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "xmGOfB3ohhSK",
-      "title": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters",
-      "summary": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTW1rWkJDakhDNW9vbEdSYklkVmdXd1VVYkJRX2NLTHJfazRRN1lndlhnX0V2RHJmLWhDMTFPeWFGZ2M1THo1aGJiT3RzTkxDTXJCVDRkMFFoS0kycVY0RXdDQ3ZQTWNRLVBNY3Y0V0NQOVpUODVtOXZ2U1FxektBYnVDZGROWUtzN0tMcHNtLUhMSnNlQzVVX1A1U04?oc=5",
-      "date": "2026-10-09T03:53:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "Qx9u9f5Hxurr",
@@ -929,18 +953,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8x6mHOGDB5x6",
-      "title": "One Nation’s AI video is vile and tired – but the ensloppification of Australian politics doesn’t stop there",
-      "summary": "The inflammatory clip shows the wild west of online politicking created by unrestricted access to AI – and why watchdogs need more powers to do something about itGet our new political email, free app",
-      "link": "https://www.theguardian.com/australia-news/2026/oct/09/one-nations-ai-video-is-vile-and-tired-but-the-ensloppification-of-australian-politics-doesnt-stop-there-ntwnfb",
-      "date": "2026-10-08T14:00:22+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "EJdm+Hln3wJz",
       "title": "Can China match up with Meta’s Muse in race to harness AI agents? - South China Morning Post",
       "summary": "Can China match up with Meta’s Muse in race to harness AI agents?&nbsp;&nbsp;South China Morning Post",
@@ -950,6 +962,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "OQr/kRQbsr1e",
+      "title": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses - DW.com",
+      "summary": "South Korea warns of AI-assisted hacking after breach of big banks' cyber defenses&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMl9HaGl4cjRMdkxIM1FGaE80VnRLU3B5TVBmRlNCSmlBX25WTVAyWURnejlud3BiZWNvN0Joa3R4ZXlicWt6MUJSbHp3dEZLTHMycHFhdEY2OXNCOTZEc1RNNURXd2J2ZWQyOV9POUNyZFI0ZDVseUJoMnJ5dG5MV1RPaFhPUGw1Q3hQcHM1N1JLU1hIaHlucy1ab9IBmwFBVV95cUxNM3dBN0t1UmtMOXF4eXFaTUZhQnhEeDdFMDM3XzI1bzEzOWlKc1VEdkRaY2hlbUtoOUZoQUdoOFp1b3VsejFKY215bU00N0pSakhBVEZ5aWpBRloyVWszYWZ2VWJpTjB4d0xRUHBTajdqVmxWWkFjMjU3VWdqemk3WFY2SXpLazY1bmdkLUJFWG5wamlRbkYyLTNuaw?oc=5",
+      "date": "2026-10-08T13:55:53+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -986,18 +1010,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "PsdOYIen8qo3",
-      "title": "Tell us: have you been monitored or assessed by AI at work?",
-      "summary": "We’d like to hear from people who have been monitored or assessed by AI at work and what they thought about the experienceFirms are increasingly using AI to monitor or assess their employees, leading",
-      "link": "https://www.theguardian.com/technology/2026/oct/08/tell-us-have-you-been-monitored-or-assessed-by-ai-at-work",
-      "date": "2026-10-08T12:23:20+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1049,15 +1061,15 @@
       "articleLang": "en"
     },
     {
-      "id": "1TAqwEpwqOg1",
-      "title": "Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi",
-      "summary": "AI is already implicated in violent deaths and nearly started world war three. Those bad things? They only happen to other peopleSam Altman, the chief executive of OpenAI, has some words for you about",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/08/ai-death-war-sam-altman",
-      "date": "2026-10-08T10:00:16+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "A74s9pb2CTLH",
+      "title": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield - Reuters",
+      "summary": "Dutch firm uses AI to help drone systems 'talk' on Ukraine's battlefield&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNXZJQ083ancxS1lGeXhhV0w2Xy1CaU1md0IxdGlhdklJMnFpcUNfVW9jbjNIT3NxaVFVcHhIcTY1a1lHUUkwenkyQWdCMjBkeTliVkxKcGRzOGppNkhTZUJlbUtfZnRYTFNTb1dTWnAyb2Jua2YzeDVOTU9PS242dF9LUnZiaENXc2J6RDRnbHNUR0tYMHlYbVZsRG1xSXVSWXdwNnQ4TUc5b1FlbVFrbzJyTzltemo4YmtESk5GUHhoUi16b3c4WA?oc=5",
+      "date": "2026-10-08T09:06:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1253,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "U+T9x7IrBGQK",
-      "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO - Reuters",
-      "summary": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
-      "date": "2026-10-07T18:07:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "38O6sUTH0GS5",
       "title": "The New ChatGPT Is More Show Than Tell",
       "summary": "OpenAI is updating ChatGPT for all users with an “Intelligent UI” that’s more visual—generating interactive elements as part of the chatbot’s outputs.",
@@ -1301,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "hZthdiPp16qm",
-      "title": "Experimental approach uses AI to eliminate cold storage for mRNA vaccines - Reuters",
-      "summary": "Experimental approach uses AI to eliminate cold storage for mRNA vaccines&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPenpqSFZJX0FlNldRWkhPdkZ2Q1lvQ3ZMX2VISGpxdF9IRmNiRGEzbUMtZE12S0VTM1RwZEd5V2pmN19LWEgyX3NkaVZSQW9XVlJDV0tMMFlhLXdKWTFWMy01X2Z2amx5dnRVUXp0OFpBY0RDYnNxMk8wR2RUQlZUVmJjbWVfdkRmRms3NXB4QnJMVkpLOUR5OExBZi01U0JhVS1DWml0Wkh2bVM3eDVvVl9nUWZKc1laMDBiWDdRcWlxbWNTYlFnZXA0Nm5nLTRubzBBeg?oc=5",
-      "date": "2026-10-07T11:10:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "AKZtQYsf0aXp",
       "title": "China’s open AI models are winning global users. Who is capturing the value? - South China Morning Post",
       "summary": "China’s open AI models are winning global users. Who is capturing the value?&nbsp;&nbsp;South China Morning Post",
@@ -1322,18 +1310,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "88an24bCQ+uZ",
-      "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-      "summary": "Dots are designed to automate online tasks, like buying furniture. In my initial experience, the always-on agent was a bit buggy and couldn’t complete a captcha.",
-      "link": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
-      "date": "2026-10-07T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1409,18 +1385,6 @@
       "articleLang": "en"
     },
     {
-      "id": "roRXJBpl31w5",
-      "title": "Police launch major probe as suspected AI hacks sweep through banks - The Korea Herald",
-      "summary": "Police launch major probe as suspected AI hacks sweep through banks&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJYmlSelR4dTlhYnNiX1hpWXU5elZ6c2dNZ0U0ZnlSM3NGeGM5WkJTd1Njd0t1WkdGWW9LZDdIa1lEc3R2U09zYWpKTHlzX2FuSWFLZnhWNA?oc=5",
-      "date": "2026-10-06T07:30:20+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "El1kHzJy2Hsy",
       "title": "Nvidia-backed US start-up unveils AI model to challenge China’s open-weight lead - South China Morning Post",
       "summary": "Nvidia-backed US start-up unveils AI model to challenge China’s open-weight lead&nbsp;&nbsp;South China Morning Post",
@@ -1474,18 +1438,6 @@
       "summary": "Huawei, Qualcomm strike multi-year patent agreement across 5G, AI&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWi1LV3ZjcVpUUlNmR2RRZ1MzQld5dDRYSmxTV3FrVFQ5S3dPWkxBZEVOV1N5VXFPX3lEdnFoU3JWNl9Pbk1hWFVWb3h1NzR5bEtqTDdxZHRnaG1NXzdjLTRvLWZ5NEMwSXFHNGwwVkR3NnU0YnlUQ0RyOUJfRFdHOW43X3Y2bWtsZkcyLVkwbUhhMHVBbzRkWlNlaVpIczVLWFBvVjAtVnRxUjFWX09mNnktOHN4RHgy0gG4AUFVX3lxTFA0WE10bW1rWmZVb01RcDdURW9td1dKcXh0WTdSS1ZvX1VLRzNHS2xrSWF6Z3lxVmcyendwQjgtazBVVUxtanBOSVltVEx0YzVKelU5TkxXdXR6bmVoMGJXNU9nMDZpZWFmYVE5aHFfMUVCVzRxOF9oNGVla2FZUmhCRzZRQ3pVN3FVdmZ6aS1kYkdrYVIyTjVlNHpBcmJSU2txWFB2V3lqSXN2ZjdxWnBfc2FkT1ZyLWE?oc=5",
       "date": "2026-10-05T06:00:10+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "b8mccW/zJWSj",
-      "title": "My Take | Dario Amodei’s American AI imperialism - South China Morning Post",
-      "summary": "My Take | Dario Amodei’s American AI imperialism&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ1liSms4Qy11QWpSRW5XdENIYVlVUFF4VE00MUVRTFZNanpCaGg4eTFaOHl5UjFkUVo1WjBJUEYxRVNpZEdrZGIwOWtRNE9xY09UYWtOSmFnYTFGdE5MRl9yS01MeW1kbGlZY1NGRmJlN0NxS0hXUUhoWTdiQ1FLOTZWRVJDWkZpcVpoLWlJekhxNkNHdjNiaDZSaUbSAZwBQVVfeXFMTU5GZlVIVUoyQXdZYVdfS20wUG1aWTE4VTdkQkhrQURQOExwXzhFOE91SmFGYml4MktOWWVIQzFnamttWkgxcjNuTU5GZGE4ZGJMRjNpMjg5aDlQYTh3ZHQwdnNhb3h5S1loc2dGMXFnbFNpMC02VERFc0k1ZjNOcUNHRkpDbnNYa1lKMmxFYWp0RjI1SHItWjZBblVG?oc=5",
-      "date": "2026-10-04T21:30:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
