@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-13T00:10:22.746988+00:00",
-  "articleCount": 120,
+  "generated": "2026-10-13T13:36:39.716237+00:00",
+  "articleCount": 117,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "techcrunch": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "ars": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
-      "count": 9
+      "count": 4
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 18
     },
     "france24": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 26
+      "count": 27
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,35 @@
   },
   "articles": [
     {
-      "id": "CfrFnY7mmPgf",
-      "title": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM",
-      "summary": "Committee chair rejected criticism that letter was ‘pre-determined’ by the government Anthony Albanese’s office signed off on language in a bipartisan letter from a parliamentary committee considering",
-      "link": "https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb",
-      "date": "2026-10-13T00:03:19+00:00",
+      "id": "HpgXRGmn8urn",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "date": "2026-10-13T13:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xy4JFPHfkQIn",
+      "title": "IMF flags risks to global economy from AI market correction, war and debt - Reuters",
+      "summary": "IMF flags risks to global economy from AI market correction, war and debt&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTXc4YzNuVFU1U2dtSjE1SG9xRUIxZTRtMU1xdXNodDkxMTRGaE9yQTJIVVVoeVJjdnFsbi0yeUJ6a09ZbGJ0Z3N5V1NiV1RGZlVDekptcUVqcTVtNGRsdDNpZkd1akEyN2hybUx5aFlXM05pZENOVFdfTXI3XzBxaGRMZ0NVcFFRVXZRbHlZYUNleHhiTTJ1UTN0dXJ6U0h2V3ZoWGdqOWp5SmdCMjFab1doZw?oc=5",
+      "date": "2026-10-13T12:31:54+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "+eAHWLGTs2mj",
+      "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "summary": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksIMF warns global economy ‘could soon test the limits of resilience’The threat of an AI sha",
+      "link": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "date": "2026-10-13T12:30:01+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -77,16 +101,292 @@
       "articleLang": "en"
     },
     {
-      "id": "RxVaxQ/vZ7K9",
-      "title": "新サービス「Gemini Agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし　日本提供時期は未定",
+      "id": "V+7OWFJNEhoH",
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "summary": "The startup will sell some of its assets to Disney for $20 million.",
+      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
+      "date": "2026-10-13T12:23:42+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GGv2SfwgQy/i",
+      "title": "'Brutal session' for chip stocks shows AI trade is turning - Reuters",
+      "summary": "'Brutal session' for chip stocks shows AI trade is turning&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
+      "date": "2026-10-13T12:14:39+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Zrw0PNAnIQ0m",
+      "title": "Scaleway to build AMD-powered AI supercomputer in Sweden - Reuters",
+      "summary": "Scaleway to build AMD-powered AI supercomputer in Sweden&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVFlaGxodDhwTlJlRDBueTJ5UEZWYmtSVV8zejBPbGZ6NWZnV3FYaEczYkh4XzFMOXNuRGpnN0ZUV1VOb1dCYW5paVZXSE9ia3VTbU5kaDk4ZXdFNmw2Mk1FZ3BqUmswdmlNVHZSYk9kRHdjWnpOOFEwVGhjQW84SkcxMlJHWkY2c3A0SnZsN0RGWFczTG9uS1ZTMGprbjRsZXZ4aE10MFl2UmNBMVE?oc=5",
+      "date": "2026-10-13T11:08:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "oHRX2TXxGB6m",
+      "title": "As a pediatrician, loss of human connection is the biggest threat to kids, not AI",
+      "summary": "Amid worries about children’s relationship to tech, the solution is often spending more time talking openly with each otherWe have become obsessed with the idea that screens are destroying human conne",
+      "link": "https://www.theguardian.com/technology/2026/oct/13/human-connection-threat-children-ai-technology",
+      "date": "2026-10-13T11:00:56+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "84C49kUJX1Je",
+      "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+      "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+      "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+      "date": "2026-10-13T11:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fF72go24+y/n",
+      "title": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "date": "2026-10-13T10:32:23+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "f7GPW9/urbqb",
+      "title": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public - Reuters",
+      "summary": "EXCLUSIVE: Behind AI industry's call for independent reviews, a fight over what gets made public&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNR2dpbjFjZ0FCNnBvUWVXYXg2TU5JTFFrcU9oNGxLMFQtQk85VlpDQ0QwbDBDeDI3emlDZUxMOG5ESDRIeDVVUU8wcWExWTAyeVlqSktObWhscFdTbFYtWTB6Mk9iTEtUeDlfTzYwSTcyNEVwZzN4MnNVdWRHdmFpOF83ZXlmbklMS195WE5LZFhVWmc4c3lBUzBPcEpLYnFLTmNYcEpidGlnUW5RdTF0NXNDWmg2NWpBZFVJ?oc=5",
+      "date": "2026-10-13T10:10:23+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "GvroHXiTwM8r",
+      "title": "Scientists call for international body to oversee advanced AI - Reuters",
+      "summary": "Scientists call for international body to oversee advanced AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUnFfeURETmxJbjhUUjBib3BFZmRrQ2JyU09MZkIzVGJncnQ1bWMxME95c3p3a2d6c1pTZDJobkhXX1hPc204SElBUC1xQXE3S2JvMDV3RW5Lemxnb09TTkxuakpFeS1lUUk3aXZBWE5xQzFvdkV2cnVhM3hXeWhRSjg4SVg3SUdNc1VrbExfdzBaeUpzNWJuQlBxZFg1T2pNTHBkTVIxUkFmdkk?oc=5",
+      "date": "2026-10-13T10:04:01+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "sNQeiyA7NIFL",
+      "title": "‘Unfinished business’: the people who want their AI chatbots to ‘live on’ after they die",
+      "summary": "Humans bonded to AI companions are contemplating ways to keep their bots going – often in defiance of companies’ terms and servicesDeath has always been around Alaina Winters. Her father and sister bo",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "date": "2026-10-13T10:00:04+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "nvuWLy9lEedh",
+      "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+      "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+      "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+      "date": "2026-10-13T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "xwQXXucp4HgH",
+      "title": "Chip stocks slide after Broadcom boss likens AI investing to ‘casino’",
+      "summary": "Asian markets fall and Samsung shares tumble after its Chinese rival CXMT claims strong progressBusiness live – latest updatesShares in semiconductor companies fell on Tuesday after the boss of Broadc",
+      "link": "https://www.theguardian.com/business/2026/oct/13/chip-stocks-broadcom-ai-samsung-shares-cxmt",
+      "date": "2026-10-13T09:48:01+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "oBHgMDfA5xB0",
+      "title": "AI godfather Geoffrey Hinton: Trump is ‘corrupt, senile felon’ who knows nothing about AI",
+      "summary": "Pioneering computer scientist on why Trump is using ‘superintelligence’ wrong, whether AI could wipe out humanity – and how our biggest challenge will be accepting we’re not the only intelligent being",
+      "link": "https://www.theguardian.com/us-news/2026/oct/13/geoffrey-hinton-trump-ai-tech",
+      "date": "2026-10-13T09:00:20+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "5nxylXIQk8h0",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm",
+      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "date": "2026-10-13T09:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "URB2HlOpaDmn",
+      "title": "新サービス「Gemini agent」は企業向け、「Gemini Enterprise」加入者は追加料金なし　日本提供時期は未定",
       "summary": "",
       "link": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/",
-      "date": "2026-10-12T23:51:44+00:00",
+      "date": "2026-10-13T06:24:48+00:00",
       "source": "ITmedia AI+",
       "key": "itmedia",
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "zdMP+lwxaJ7N",
+      "title": "AI models may soon self-replicate without access to data centers, Anthropic warns - Reuters",
+      "summary": "AI models may soon self-replicate without access to data centers, Anthropic warns&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
+      "date": "2026-10-13T05:14:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "R0+p4t3KiJ5U",
+      "title": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say - Reuters",
+      "summary": "EXCLUSIVE: Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3V4aHFMSTR2WVhYZVU4NEN4WXZVYmo3WW1YWmZ1MTd1MGFjc3VyMTgwTjdiZGxPdXcyRllRakc5aWNaNVZkQzZIcVZCbjlLTG1hZUdIYk9SdHJiQkd1ejcxSkRubTZRZ25BbXRsa0xBendNSEdrZDgtTXI5end1anA4T0x4QzA3VUpWbXZCYmhUTG1pMWdpSVA1NWJkQ2lOckk2b3RnbDA1N0VJcEJwZVFrdXUzTUJ5REZvYld0d0JGdw?oc=5",
+      "date": "2026-10-13T05:02:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "NHHP8mh5kEGz",
+      "title": "IMF cites AI slowdown, spiking yields as looming global market risks - Reuters",
+      "summary": "IMF cites AI slowdown, spiking yields as looming global market risks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5",
+      "date": "2026-10-13T03:19:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "CamF4xOPfK2R",
+      "title": "Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働",
+      "summary": "Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/",
+      "date": "2026-10-13T02:31:26+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "lItqlyDRALLk",
+      "title": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost - Reuters",
+      "summary": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ21qSmpyZzRDaFJwUUh1Zldnb25yMGphSVlOa0NiN3hPdDVXcThHVzlEdTM2U0NhdkwwSFdnanZ2VENlYVhDZWF3UlA4eVBGRms1clZabHdJbnJQeVpOWEd4NkkyWkVPbzQxRG8xQnFhWGVfVEpseXhfOURzLUI0SVptcW9KNWxjUGlLT1N6Nkh0cVRrMmdmQ2xoS09NbVBQa3RzWFgtWnRFQkZlUnMwekl0U0NJTm5wM2o3QURySFpJNldySHgzUjNzOVhRZw?oc=5",
+      "date": "2026-10-13T02:09:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "nZhR/baWiBGp",
+      "title": "AI investment props up global growth, but war and debt threaten outlook, IMF says - Reuters",
+      "summary": "AI investment props up global growth, but war and debt threaten outlook, IMF says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVlNmbDdlaDUwX1pOeWRzM1FhdDNhWTNnVnk4bXZLZlR2VGwxMFRCcWdiNngwM2p1Tmp3YjZMY0FwY1puZHk3bTlEYWNyd2pYYUxPd19nZVpqQU9CQjVlck9RUGtoajF5SGY4VnYzSWpZXzY2TWZ3TVY3Yl9ucVdEWnc3b2xzT19vbzBqazJUMzlCdmpfakw4VjAzOVZ3Ui13dmlJOV90Nk9pVUxWY1htUHYtNDZhTGhyTDYwZEk3SQ?oc=5",
+      "date": "2026-10-13T02:05:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "b0wGUvz2BH6Y",
+      "title": "IMF warns global economy ‘could soon test the limits of resilience’",
+      "summary": "World Economic Outlook says states’ oil stocks are low and budgets are overstretched, as it upgrades UK GDP growth forecast for 2026Threat of AI share crash puts world financial stability at risk, say",
+      "link": "https://www.theguardian.com/business/2026/oct/13/imf-global-economy-world-economic-outlook-uk-gdp-forecast-2026",
+      "date": "2026-10-13T02:00:11+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "KLNypLdg9nr+",
+      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
+      "summary": "Anthropic says new safeguards sharply reduce AI distillation attacks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
+      "date": "2026-10-13T01:07:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "tFasY2uzEpBv",
+      "title": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push - Reuters",
+      "summary": "Japan's Omron to buy US industrial PC firm Onlogic for $675 million in physical AI push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT2FzdFBLeW5HT3V1UUYzYmN5UkxfdnNKdHI3Nzd1NnhXQkRCekFoQmJrd0hVMlVCRjRxOGpmOGRQRjJUdmJ4blZWZTZaQlJLdldhQlVrWVRmLXFJcGxSNGhwWHFZSGRUckNLZHI3QXJJZlpZNHVMcDJ4UHJMLTNJMXJWSlpBLXhTN3YxRWRqYndBR2RSakJqUzhhM0l0VjlhemN1YWZRSDJTaE1RTWpCWlBZRXYzNzFrdjh3OGNjRHM1UXRtcWh5YXFxSQ?oc=5",
+      "date": "2026-10-13T01:04:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "CfrFnY7mmPgf",
+      "title": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was sent to PM",
+      "summary": "Committee chair rejects criticism that letter was ‘pre-determined’ by the governmentFollow our Australia politics live blog for latest updatesGet our new political email, free app or daily news podcas",
+      "link": "https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb",
+      "date": "2026-10-13T00:03:19+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
     },
     {
       "id": "BkY/jaam1sOO",
@@ -113,11 +413,11 @@
       "articleLang": "en"
     },
     {
-      "id": "YsAPaoNTqcd7",
-      "title": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI - Reuters",
-      "summary": "Meta releases Muse Wonder AI models to challenge Anthropic and OpenAI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWVqemVLdThXMGhqbFNrdkZ1NDUtWjNkdEVfenp5RUp6RXNwNjhlV0JRS3BJcEl0eHl3ZVZBY09HSl80RVV2RHhueXZzTUZQUUlpWnlDVFFTNkZGa1BqQlBxQUl3WlNudDlwNVNFYjVJNFZ1ajRNUUMxODlrWmhTV3Nha3dGQnhSUzNtamNicDR3ekVHRmpRRnZEbDJhV1pHb1Y2TUdac0VtTUE?oc=5",
-      "date": "2026-10-12T18:32:15+00:00",
+      "id": "JhFazlW1MMY7",
+      "title": "US AI testing agency officials to move to White House, The Information reports - Reuters",
+      "summary": "US AI testing agency officials to move to White House, The Information reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQd3NjZGpMYnpWV3ZoWUNuOEFsWnROQzNvT3Y0dnRzdWhMLWZKS2NqY09USExBZWZlRFZmWndkM0sxRDlFOTBZQW1yNk5ZSk9jVURtbldzUFU2SFoydGRLaUp5cEZodnFBZHYyRmxsOTJoRnBHUnNQekdEQ1JmRUFlUk9HTy1QTmVWYkZ0ZlF5R2VYYTZhUU1VaEM0cGgxM1p1R3JTd255NDZEQ3Y1b29IQ1RfTW5RU0U?oc=5",
+      "date": "2026-10-12T20:09:55+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -353,6 +653,18 @@
       "articleLang": "en"
     },
     {
+      "id": "pAslTApNRbNr",
+      "title": "Former HSBC executive launches wealth platform powered by team of AI agents - South China Morning Post",
+      "summary": "Former HSBC executive launches wealth platform powered by team of AI agents&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1d6X2NZSzZURWlDTDFHWWt3TElGS3BZSklHU3IxZURFcUFCUFNOWUNodFVfX2FidHVfcTQ0RzNrUHZFM2xGc25nMHZPV1o5OUI3VlJsaVpkaDJ0UG5PY0NCeFpTaE9OUWdyU0I4dzB4U25qWURkM0ZVcVNKVE9MZEZXNms3bkV1UEhkR0pNN3hJWThLRGgtUnBpNmpxTmwzeTduenRqcjBXWmZ4akdlWFIxN050RGRNT29iTnpIM0dYc09RY1VV0gHHAUFVX3lxTE5fWjRFRV9ZTGlyTFlJZlZMZzJrNmF4OU9kRmZMUW5SaTYwc0RIeVRvallQWVVVd1MxdXlJN2h2NjNKVkVxMkV1UF96U3NNYS1PS2VycVBiVG9FbjVleFFoMGJyQXNFcWVkZ3JzemxEQzA3aVhUMmF3aGhYR2xKR2lpdHdNRDgyeXZ4aUNmaGkzSUw5WmZWRmVzUGR0Sm5CZDBpanhhTTRyWnhoZHBaM1M5R3RPMFBhZkZUOWp1LWNrekFLVnhhMmc?oc=5",
+      "date": "2026-10-12T09:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "EnMQ8CroBbA5",
       "title": "Strengthen ideology, shape opinion: China wades into AI microdramas - South China Morning Post",
       "summary": "Strengthen ideology, shape opinion: China wades into AI microdramas&nbsp;&nbsp;South China Morning Post",
@@ -413,9 +725,9 @@
       "articleLang": "en"
     },
     {
-      "id": "PlH+QZf24C7w",
-      "title": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips - Reuters",
-      "summary": "Broadcom CEO says biggest hurdle in AI-fuelled tech growth is capital, not memory chips&nbsp;&nbsp;Reuters",
+      "id": "rnJwux6p87yW",
+      "title": "Broadcom CEO sees capital hurdle to AI growth, 'casino' in AI investing - Reuters",
+      "summary": "Broadcom CEO sees capital hurdle to AI growth, 'casino' in AI investing&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQT0V6MVV3aEtaaWxQX0hLWjAwUDZ3RFZxMnFjTlJLb0RnTzFpNGNBMU0yUTJ0WHJmd1RmbHhWMXZwU3pGVDVuc044cm1BX19WYURpSnV3cnZiQ1Q1Wm1IYmhrU1RTWllwazRaX0lST0ZzQWJwNEctbEgzNFRKSGNqVnc5TVM1UGZjUHZBMHRqUzlHY0Z6Q0JtaEhOaG9SS0RPVTlQR2t6eW9tZXNVUF9sQXVJd2RYaWZLS2NvRUhiRWZHVFoxeDROcVVMRmo?oc=5",
       "date": "2026-10-12T06:54:00+00:00",
       "source": "Reuters",
@@ -461,18 +773,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IP5DvMmI3Qmf",
-      "title": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom - Reuters",
-      "summary": "TSMC expected to report sixth straight quarter of record profit thanks to AI boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVdZdVEzd2xJRXc2ZDVpOTJESklKcDlSSERrelBfdXdxVmNaek9lLTV1RlZxVGpBa3RmakZ3N3V6al9BTlFtWGl1dEV6dVJ6X2J6MDlEZThzQlQydXZ3NTY3LTRSZzFfVUpGZk5uaGl4VllRdmgwSkUxeGxHOVA5VE5NY3BmeXlVaFlQRHJmelpMZDNZQ3NUUzRaem5UTlB6bXk2N3o4YjhtczVnWTBEaVN5MVJhY1A0ajhuRA?oc=5",
-      "date": "2026-10-12T02:12:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "vk4nfHsLD6Lt",
       "title": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track - South China Morning Post",
       "summary": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track&nbsp;&nbsp;South China Morning Post",
@@ -490,18 +790,6 @@
       "summary": "Andrew Garfield says OpenAI film 'Artificial' turns lens on creators of 'new world'&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaC0yWGptVDVnc2tuUlVSc3V2Rzh2bUVnY3lVRDR3OWtleHVTQThLdU5Uc0JOdWJEX3Vva0tIZGx1WkViSWp5aHpPb3NsX3ZmZmdjOEtIQjFOMVgwNEN5VWhHU1VSbktUbXlhLXp6bEJFSkJyczZMWHV4Tks5d19Db0ZDQnJhaGM0TFo5N29TVDBic2lBSmlUNk5yeEhBSlk5M0NwUzdULVhUOGdscTZTT1V5ODVmclc5UnBN?oc=5",
       "date": "2026-10-12T01:43:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "X9XLHbU6d4KA",
-      "title": "Tencent eyes $4.5 billion bond sale amid AI funding push, source says - Reuters",
-      "summary": "Tencent eyes $4.5 billion bond sale amid AI funding push, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdlB3SUFzTnN6enBNVTRiVXFZdlZsUGRMaFFhR3RENzZQNS1pV2RFMU9HU0x2UFdUZ1ZPNFlFWkZEZzJ2T0g0Wm9JalctMVJaclZkaXk3VHV3Mk1tVnQyMHBnZ1JMb21XZENjV0p0Y1A0aTNzVXRIandNTm4tMnBvb3ByQTVLOHhteXNKUWtTZkZGY0FqQVhzRGxFYUhTZm5sdlBMU3VENXRTak96YjNsaXpHOEtMVUtOdUwzbw?oc=5",
-      "date": "2026-10-12T01:19:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -578,6 +866,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "8L29J0w0Shx2",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 38 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 38&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-10-11T16:50:37+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -689,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "r5KsVnSdMQQ2",
-      "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-      "summary": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of AI",
-      "link": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-      "date": "2026-10-10T23:01:09+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "zQAQ3EWZiKvM",
       "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
       "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is t",
@@ -746,18 +1034,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "JS5WkZXEbQmP",
-      "title": "Black Box: The Chatbots | The Line | Ep 5 - podcast",
-      "summary": "Five stories that feel like five answers to one important question: in a world where AI chatbots can help us through a breakup, listen like a friend, be a life coach, draft a difficult text message an",
-      "link": "https://www.theguardian.com/australia-news/audio/2026/oct/11/black-box-the-chatbots-the-line-ep-5-full-story-podcast",
-      "date": "2026-10-10T19:00:08+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -821,30 +1097,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JYOIOBVQNPvQ",
-      "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
-      "summary": "George Williamson says ‘national resilience’ is key focus of ATI amid US and China’s runaway leadership in fieldThe UK must not become dependent on foreign AI systems that can be switched off at short",
-      "link": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
-      "date": "2026-10-10T10:00:55+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "q+wMLJ9UGN3e",
-      "title": "Jon Davis on job titles in the age of AI – cartoon",
-      "summary": "Continue reading...",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/oct/10/jon-davis-job-titles-ai-cartoon",
-      "date": "2026-10-10T10:00:54+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "ltj9LaQthRCg",
       "title": "China, EU to explore cooperation in AI and new energy following Beijing talks - South China Morning Post",
       "summary": "China, EU to explore cooperation in AI and new energy following Beijing talks&nbsp;&nbsp;South China Morning Post",
@@ -866,18 +1118,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "6lPDAOLk5yC5",
-      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Reuters",
-      "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5",
-      "date": "2026-10-10T02:09:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -929,30 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "5uuEt7psjoD8",
-      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
-      "summary": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the P",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "date": "2026-10-09T21:15:38+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "fD+RKaepFcBM",
-      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-      "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-      "date": "2026-10-09T19:36:56+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "/l7oKGMyTLaa",
       "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
       "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
@@ -962,54 +1178,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "VjuEjV1WcHP7",
-      "title": "Anthropic discloses fake tip to police among new rogue AI incidents - Reuters",
-      "summary": "Anthropic discloses fake tip to police among new rogue AI incidents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUzh0MDhsc3I0ZzFCYTc4V0U4Nlk3WDVkX3ppUW5ZdzBJZTlGSGcxYUUtVThoRF9JZ24tLWhEaEQxRVFjWnRJU28wWVRkYVpRU09pdnBtZnFTdTZuM29vTjBURkdla0Z0N0ozSm8xemVKeXNyNjNDVGhCcWI0VDhPLUZUM1RiWVRGYXRXZ2JGSjRhYS04RGVjQUZ0dGlRN3NHeDA0OVcwQk4?oc=5",
-      "date": "2026-10-09T19:21:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "GnpwQHMTKdNt",
-      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
-      "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tr",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "date": "2026-10-09T19:09:44+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "617im07/JFGR",
-      "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-      "summary": "Amazon says it will&#160;stop using NDAs&#160;when negotiating data center deals with local governments, following&#160;a&#160;similar move from Microsoft&#160;earlier this year. Secrecy has fueled co",
-      "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-      "date": "2026-10-09T16:53:02+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "cd8Chi7gkiSL",
-      "title": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk - Reuters",
-      "summary": "EU tech chief says bloc 'well equipped' to fend off rogue AI risk&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUlZ0bzBBQ1FybjVfRTRYQTlWejZRdndVOHZxMFpJWWJ3dEJNYzBHb2N1QmdFLURtOEZGRm1OUUV4dmJoYmxwMHVXM19uSndXTFNrcHU1SkNjWWtrRW5WQ0ZvSl85cmJJaVpGTVVpNHFHc1VYby1CRzRQLWJzUWQ0RkJOMFo0X29jNk5pa1Exa2J0Sy1IRUlpc2JIWlQtR3ZzejBudw?oc=5",
-      "date": "2026-10-09T16:36:22+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1046,30 +1214,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "L+vlo+mQY2n0",
-      "title": "China vows to curb tech bubbles, keep AI risks in check - Reuters",
-      "summary": "China vows to curb tech bubbles, keep AI risks in check&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbEx6M2UxdWNfSDhCcy1TblhhT2F6aGNGc09hZXdTU2F2LVZLSWdRN0hKQTdGblRBYVE2R2FFakxab0tEcnE2VmJFN0FMUVdfLUNXWFVtWmswemRfN2pjaHByZEtEZWtyUUcyU1pZdHBDdzhYYjdkcHNQSVRUcXRsN3Q4RGl3OWYxS2k2Q1hjdlRySGZDX2owamZRVjRxQ2NGeUdHT2FHaTZjSl9PQUJsTzZrcw?oc=5",
-      "date": "2026-10-09T13:00:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "r/HOgaemV0Na",
-      "title": "China AI developers publish safety tests for just 3.6% of model releases, report finds - Reuters",
-      "summary": "China AI developers publish safety tests for just 3.6% of model releases, report finds&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1kwS2tKWU51ZmxkNThtck5qd0NXamNrM3c5TVZnaFVjTnRiamRRTWMxSDNHMlJzXzlKTi1KTGRob1h1b200LWs4Sl9TM3lvNWp1YmNkQ3N6ODg2Rk1CNjExRTFUZkVEY2QzVjJPbzhpTjRKRVZ1ZUVISlJpSVlvdTJ4LWUyNTNxWW1ZQjRQTWx0b3djX1NTdzRvaUl3N2M4RjhkVFVycWdjLW5pMzJNVU1jdkJkYTd2N1NUWWlCOGJ3YXQtRGp3TA?oc=5",
-      "date": "2026-10-09T12:39:35+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1157,18 +1301,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Lqs4ZjA229Mj",
-      "title": "Modi wants India to power the AI age. Residents are pushing back - Reuters",
-      "summary": "Modi wants India to power the AI age. Residents are pushing back&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM3hfVEZGdld3RW9ZMFEwQXBIVzhLRndhajVkYm1xZXFnbGhaZ0VjQ1VfaGNwWWl2MThudzZPY2Nzem5QZWNvVG03U09wQ2tIdldKcThKN3pRenViMVVjUno4ZFAyVmZNaldNQ0d2QjQ3RmxYa2xZcUMwNkFVcjV4NmxKOTE1Rkw1QzNWRmV6Y2JZb0NsZUtDX2h6V3NVWkpHemtFck16bw?oc=5",
-      "date": "2026-10-09T06:36:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "xmGOfB3ohhSK",
       "title": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters",
       "summary": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO&nbsp;&nbsp;Reuters",
@@ -1181,54 +1313,6 @@
       "articleLang": "en"
     },
     {
-      "id": "n3WxzCij298o",
-      "title": "Anthropic、サイバー防御の新たな取り組み「Cyber Mission」　OSS向け無料脆弱性スキャンや重要インフラ防御プログラムも",
-      "summary": "Anthropicは、社会インフラ保護を支援する「Anthropic Cyber Mission」を発表した。電力や交通などの制御機器防御を担う事業者を支援する「CIDP」と、最上位モデルでOSSの脆弱性を無償スキャンする「OSS Scanner」の2施策を開始し、防御側にAIや研究成果、技術者を提供する。",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/",
-      "date": "2026-10-09T04:20:56+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "Qx9u9f5Hxurr",
-      "title": "“AIキャラチャット”に没頭した人の予後、スタンフォード大などが1年の追跡調査　依存強まる傾向に",
-      "summary": "米スタンフォード大学や米カーネギーメロン大学などに所属する研究者らが発表した論文「Living with AI Companions: Sustained AI Companionship Predicts Lower Well-Being Through Lower Human Interaction」は、いわゆる“AIキャラチャット”への長期的な没頭がユーザーの幸福度にどのような影響を与えるか",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002121/",
-      "date": "2026-10-09T03:20:15+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "JzH1A8E3qGwr",
-      "title": "履歴書100通に1通「AIだけが読める文字」　20万件調査でわかった“就活ハック”の手口　米研究",
-      "summary": "米ノースカロライナ大学チャペルヒル校、米デューク大学、米UCバークレーなどに所属する研究者らがセキュリティ分野の国際会議「USENIX Security Symposium 2026」で発表した論文「Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening」は、AIをだます隠し文字入りの履歴書が現実の就職",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002102/",
-      "date": "2026-10-09T03:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "n+mkiYjEEo2a",
-      "title": "トランプ米大統領、「AI」という言葉を使う者は「敵」　政府サイト「AI.gov」は「SI GOV」表記に",
-      "summary": "トランプ大統領は「Artificial Intelligence」（AI）という言葉を使う者を敵と見なすと投稿した。政府は代替呼称「Super Intelligence」（SI）への移行を進めており、政策サイト「AI.gov」のロゴ刷新や大統領令への署名、新組織「SIF」の創設など、公式文書での呼称変更を加速させている。",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002157/",
-      "date": "2026-10-09T01:59:24+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "WgeNs7eNXCCt",
       "title": "Opinion | The 3-body problem with AI regulation - South China Morning Post",
       "summary": "Opinion | The 3-body problem with AI regulation&nbsp;&nbsp;South China Morning Post",
@@ -1239,42 +1323,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "XKj06f2vkwa2",
-      "title": "Google「Gemini」新サービスで「Claude」利用可能に　他モデルも今後追加予定",
-      "summary": "Google Cloudは新サービス「Gemini Agent」を発表。クラウドで動作するマルチエージェントツールとされる。Geminiに加えて、Anthropicの「Claude Opus 5.5」「Claude Sonnet 5.5」が利用可能だと明かされている。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/",
-      "date": "2026-10-09T00:40:57+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "YRLOzA87gosE",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blue",
-      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "date": "2026-10-09T00:08:24+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "tarTEOnigril",
-      "title": "Anthropic、Claudeへの“虐待”を利用ポリシーで禁止　影響工作の規定も集約",
-      "summary": "Anthropicは、Claudeの利用ポリシー（Usage Policy）改定版を公開した。AIモデルへの継続的で残酷な振る舞いの禁止を新設したほか、プロパガンダや偽サイト運営などの欺瞞的活動に関する項目を集約。さらに兵器や監視、物理機器を操作する高リスクな用途における安全基準を明確化した。11月12日に発効する。",
-      "link": "https://www.itmedia.co.jp/news/article/2610/09/2000002149/",
-      "date": "2026-10-09T00:07:24+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "hXHgN8ccq2ot",
@@ -1325,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "4IrDp/vOhHlu",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI breakthroughs in robotics won’t change your lif",
-      "link": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
-      "date": "2026-10-08T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "GsRWGI2so4TD",
       "title": "Hong Kong questions HSBC over plan to set up AI centre in Singapore: sources - South China Morning Post",
       "summary": "Hong Kong questions HSBC over plan to set up AI centre in Singapore: sources&nbsp;&nbsp;South China Morning Post",
@@ -1358,18 +1394,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "rsBImVk1W5Fa",
-      "title": "AI use lifts participation in WorldQuant contest - Reuters",
-      "summary": "AI use lifts participation in WorldQuant contest&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaU9BU3JlallQY1BwajVXbXR0cVNPNEJsNW1wZDNTTmo5R2JjQ0hrTTBlZWFPWFJSd3dWVTYwaldVRWxneTNCUHZESWMwVWxkQS1YbXNackdiWUNIZlpxOXNGQjJ2Q3VQVmNNa3NtWnUtWVU3LTI5bEZpQ2JzdHFrcjB3NVE1LWVtMkF5ZmRmWXhNRTVI?oc=5",
-      "date": "2026-10-08T08:22:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1409,18 +1433,6 @@
       "articleLang": "en"
     },
     {
-      "id": "9YOvwnoEPdB0",
-      "title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds - Reuters",
-      "summary": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5",
-      "date": "2026-10-07T22:40:51+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "paLLOPKTQm1y",
       "title": "US issues first outbound investment fine over Chinese robotics AI deal - South China Morning Post",
       "summary": "US issues first outbound investment fine over Chinese robotics AI deal&nbsp;&nbsp;South China Morning Post",
@@ -1430,18 +1442,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "45IVd1AGRSGg",
-      "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-      "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-      "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-      "date": "2026-10-07T18:45:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1457,47 +1457,11 @@
       "articleLang": "en"
     },
     {
-      "id": "27faefyLXP7S",
-      "title": "China’s DeepZang AI aims to transform Tibetan language tech, promote unity - South China Morning Post",
-      "summary": "China’s DeepZang AI aims to transform Tibetan language tech, promote unity&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWjBUTkJoaE5XLU43UXB1Z0lDakptR3hIMlVUOU5NS1FvS0F3TmhRakoydV8tNG9PN2Y5NkRjcXFrbFdkZ2NmVTB0ZFBrUGVlVzA4a2dLNnJEZlh1WkJMTjlmSGM2RVgtdFFMUnZNQlBCV0tkczVtQzgyRXFtUVl1UHBGVENWMUY4OURxbGJFdHk1bnlKc0ZKME02LXU0UDN2RTE2UGdrdzBzZE9XZmwxNzVXdzVnYnZtVTNHUU1rLThaOHZUZnZTS21NTmhlZ9IBzgFBVV95cUxQaUw0MWJWQnAzeWtRUW1lQTNaM2ZHOF9rM3AyWEhRWWt1NUlpUi1fTHhrdF90RHRCdUw0V0EyVVdXanF4ZW1kdGpYVW1KQ1Z2Wm5Jc2RHMVNmRkZENHF0dVBPY2QzQjlqbDhIekRRQ3ZvWHdGQnNEYlRrUUdDUHc1Vzk0QXhpR3Jad2JzVDBKNWlEZ0Q3N0RFTGJkRmZ3UXp4YmFGaUJpLWJPT2NnV0tlSl9EeWY4cTU2aWV6Q01LTVdpRkNVZlp0aWg1OWJOUQ?oc=5",
-      "date": "2026-10-07T01:00:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "RgVQhWXl3lfX",
-      "title": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order - Reuters",
-      "summary": "US Justice Dept tells staff to call AI 'super intelligence' under Trump order&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0M0T3dic0tvbGhzbmx3WVNKNm9iU2l0ZUNBUk5jbzZCM24zT0FOV3RFYXpVQ3NPS1BuMU1zOXNzSmdvbE9falZVOTZja2hqMGtVQWxpXzg2VE15T1FVT0pCc0NLRVowMnBKY0J4dTl0WkJTWUlsbXFOeE1VZjJTUlpEOHlldTE3MTdrMGVRQjF3NEo1aDZxUFNJa21Zb0hMdWFLSjY5dVA5YUlBQjltbmcwSDRZV1M1S2xPQUtWSXVGd2M?oc=5",
-      "date": "2026-10-06T20:13:08+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "JuBFNVdjf3Ox",
       "title": "Mistral: French AI firm announces Le Chonk, a new, private model - DW.com",
       "summary": "Mistral: French AI firm announces Le Chonk, a new, private model&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTY3bnhWaWNETlRoS1psQkU4Qlp3c2tFWWwtZ1hPUmpNN2ZONkNwYTUzLXpsVTRrRnBQeEpFQnVWVUNydElHdVBQV3BiZ1NLR2diWncya0d4T0VFUzJDUWVZd1Z0Njl0LUhxUzM1OXM2OFh1TGZzOU4yRnc0VDNxazFjSDLSAYQBQVVfeXFMUDRLOUZyR0hsWHdiRFQxZXMxVGVRQkY1ZU1sV0ptRm9kZkRWMUlYQXE5R3Zja205ODlYRzlpTldYUjZPTTNRbEY2azRBbS1TTnBScEYxd29kLUhFekh0WlhKVHRzZllfYmlvOVdxWHRFa3RxSk1XU00xZ1JSWk5wZEstMXZE?oc=5",
       "date": "2026-10-06T19:57:35+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "kd2AKNU8KDdQ",
-      "title": "Communications Consultant for Suspilne's AI strategy - DW Akademie",
-      "summary": "Communications Consultant for Suspilne's AI strategy&nbsp;&nbsp;DW Akademie",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWm9NLUtGdXA3aFlRTUZzWmFsdkl3bkNtX0szNWlOdndkVjUySXNaTkVwUW1jLURYSVBSejFYXzRpZVNEQW5Oakdpa0dqZFhsMExrZC1HVElFTE9JYlM0Ykh6S2ZsVWNJY1VybkxKWGZvVjRRSEJ5X1h1bWNhd0lyeEc1bnNrQVhHMzNleVlBODlISUE?oc=5",
-      "date": "2026-10-06T08:41:51+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
