@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-13T22:17:59.408308+00:00",
-  "articleCount": 115,
+  "generated": "2026-10-14T03:38:08.837180+00:00",
+  "articleCount": 120,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,15 +24,15 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -65,15 +65,135 @@
   },
   "articles": [
     {
-      "id": "PpZL8WNRPggA",
-      "title": "OpenAI employee arrested after recording device found in office",
-      "summary": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agentsOpenAI said it has found a hidden recording device in one of its offices and has referred t",
-      "link": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
-      "date": "2026-10-13T22:08:48+00:00",
+      "id": "01qKmVMnQbYO",
+      "title": "Googleの新モデル「Gemini 4 Argon」一般提供開始　使えるプラン、価格",
+      "summary": "Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/",
+      "date": "2026-10-14T00:29:49+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "z4QC2AKEu0RO",
+      "title": "「Google Play」、AI Studioで作った自作アプリを自分の端末で実行可能に　AIでゲームを探す機能も",
+      "summary": "Google Playに複数の新機能が追加された。「Google AI Studio」でバイブコーディングした自作Androidアプリを開発者登録なしで自分の端末上で起動・実行できる機能のほか、AIによるアプリ比較「Ask Play」、プレイスタイルを分析して好みの作品を推薦する「Game Finder」などを順次提供する。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002240/",
+      "date": "2026-10-14T00:24:42+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "5y49k3pLFwyp",
+      "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+      "date": "2026-10-13T23:17:59+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "tU1Pgr0+/6h7",
+      "title": "Character.ai、米連邦破産法11条を申請　Disney系が一部IPのライセンス取得で先行入札",
+      "summary": "Character.aiを運営するCharacter Technologiesが、連邦破産法第11条の適用を申請した。手続き中もサービス運営は継続する。Disneyが知財ライセンス取得と移行支援を行う入札者となり、買い手が見つからない場合は段階的に閉鎖される。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/14/2000002238/",
+      "date": "2026-10-13T23:14:19+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "r8jjHzlz1tFp",
+      "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "date": "2026-10-13T23:05:34+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "LnKo0OnVH+fd",
+      "title": "How long will humans be needed for translation?",
+      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13T23:05:29+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZZ09gjAwZy+T",
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-13T23:04:39+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "2GMyyJEaJuOB",
+      "title": "Use of AI in job interviews on the rise – but UK recruiters say they can spot the cheats",
+      "summary": "Body representing some of Britain’s biggest graduate employers reveals misconduct is at a record highIt is obvious when someone is using AI to drum up answers in a job interview, according to Chris Mo",
+      "link": "https://www.theguardian.com/technology/2026/oct/14/use-of-ai-job-interviews-on-rise-uk-recruiters-cheats",
+      "date": "2026-10-13T23:01:38+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "PpZL8WNRPggA",
+      "title": "OpenAI employee arrested after recording device found in office",
+      "summary": "Discovery of ‘sophisticated’ gadget adds to company’s list of privacy concerns after hackings by rogue agentsOpenAI said it has found a hidden recording device in one of its offices and has referred t",
+      "link": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
+      "date": "2026-10-13T22:59:55+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "oY0fBvrFlwvA",
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p",
+      "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "date": "2026-10-13T22:36:59+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kZx/6qvYEfLw",
+      "title": "OpenAI says employee caught planting listening device - DW.com",
+      "summary": "OpenAI says employee caught planting listening device&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU3Z6SEpSd0V3NmtRM1pfRk9IUW1JdDNmQlZsMGw3V1lNT2xkcHZtV3BSUm82NHFtSEtIY3ZISXBWRjdGRXI4YjlNWEhxVFQ1YzFVNkRuZWdwX2sySjA5dDJDMWY0ejZxRTlYWE1sQzhpNDdsbjJlSVlhWUtseTDSAX9BVV95cUxPWkZKZWwxLVQ0WWpJY2JfZm15SUtxbWVXUjNrMGxZZ0stSnRYZmY4eExFMEdDczFQX0FyTHNQc1hveTc2OG1VVGdRNDdSMk5Jb0htcUtLSXRLRDA0bzhYbGMxc01RekhLelFHREdxb2h5QlZlWWNXcXNtakNzYlo0?oc=5",
+      "date": "2026-10-13T21:01:40+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -605,9 +725,9 @@
       "articleLang": "ja"
     },
     {
-      "id": "x/XmARvbbiIi",
-      "title": "AI models may soon self-replicate across smart-home devices, Anthropic warns - Reuters",
-      "summary": "AI models may soon self-replicate across smart-home devices, Anthropic warns&nbsp;&nbsp;Reuters",
+      "id": "q3CaZDuX6a6t",
+      "title": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web - Reuters",
+      "summary": "Anthropic warns AI models may soon self-replicate and could wreak havoc on the web&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFZnZHFlY0QxWV9XbURPeDVpQnlMcWFqaTlDMHRjcWhhLXRhR1hfbTdNeVl3c3dyR3V6V211Wmp5aXNZT1VpN1kwdUs3ZFdBTXB5Z2tEN1JfV2FnUk5FRHpVa2lfRWxENndHaDdNWmRZVUJfQkFody00VG1BNk8wb29Sel9Wd011ampEWXlOQk9xM2x0bkVwTXBib0hEMndtOWNuZXdDWFlEcTRuZzVLRDYxUDFfek9XRTNna3dhZw?oc=5",
       "date": "2026-10-13T05:14:00+00:00",
       "source": "Reuters",
@@ -689,11 +809,11 @@
       "articleLang": "en"
     },
     {
-      "id": "KLNypLdg9nr+",
-      "title": "Anthropic says new safeguards sharply reduce AI distillation attacks - Reuters",
-      "summary": "Anthropic says new safeguards sharply reduce AI distillation attacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlZuUXZob1BWeEV1WEZOdWIwRW9ucW92UFVueWd3clAxbHNSUHh1VXFuX1dTalVxLWgyX3Y5ZmZhYzIxc1BNRGN4Y3JUOXBIQjhZUUlDMlNyZ2Q1WW4zOThMbF85R1NGZ0RrWnRLVWMyNjdFWmswb2hrMmNlQWttOUZVOGFjUnRaUzduMDVKMnI1ODlUaWJuTkZ1M3U5N3haQWIzMzNyNzNNUUt1eW5ZVk5EV1pPczA?oc=5",
-      "date": "2026-10-13T01:07:00+00:00",
+      "id": "I5f28jAmWFat",
+      "title": "Tencent raises $5.7 billion in debt sale as demand defies AI scrutiny - Reuters",
+      "summary": "Tencent raises $5.7 billion in debt sale as demand defies AI scrutiny&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTm9iMHEyQjRTZzhpMTV0RThtWmhoVTNvY2JfN1hNMTRZdmd6V1Y4NUtzLTNpa2JBRE9UQzktT0Z1VmFUdF9XYm1mV0NEYlhyVWI0RjR6WHY3OW13NGNMcGdfRGY5dEhzeFg0VFh3TDllNkNaemYzV0ZmM0JyV1lrQnpTYVB6OVEySnRiS2tqeUxCMHIzWkpmTzYtZ2xROEFBU3R4amg1S3hjaHNR?oc=5",
+      "date": "2026-10-13T01:17:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -809,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "QNJb2af1r4KU",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "date": "2026-10-12T15:27:59+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "0UbHVW/FL/Pk",
       "title": "AI minister warns 'likely' UK's cyber defences will be breached",
       "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
@@ -881,27 +989,15 @@
       "articleLang": "en"
     },
     {
-      "id": "nMUDNfRYqn9T",
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan",
-      "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "date": "2026-10-12T12:47:59+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "sQYuei9g2IDK",
-      "title": "As US medical debt grows, AI will be used more to collect it",
-      "summary": "The debt-collection ecosystem will change as AI takes notes in exam rooms, codes visits and sends billing messagesMedical debt is expected to grow in coming years as Republican-led health cuts come in",
-      "link": "https://www.theguardian.com/us-news/2026/oct/12/ai-medical-debt-billing",
-      "date": "2026-10-12T12:00:55+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "2bktxaLsQZMx",
+      "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption - Reuters",
+      "summary": "IMF says AI investment keeps global growth around 3% but brings massive disruption&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
+      "date": "2026-10-12T12:45:33+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -938,18 +1034,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "ZZziwPacjt/R",
-      "title": "Intel CEO says Chinese frontier AI model adoption has been 'very fast' - Reuters",
-      "summary": "Intel CEO says Chinese frontier AI model adoption has been 'very fast'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOFY3T0ZWM0c1S2Nwam83eHhFalc0c2hzeVBGVlNCT2xSeGp5Y2tWeEtqM1J1bXJNd1VDaFhpUm0teUItZmRwX1VSQlVzOG5HZjdLWTlkRktxSTNlYnRoMWNYQk80RmhzRTRjb2F2WVRaT2haVG5Gd2l2c1BrNDNxWndkVXVUaW9zSnZ5cW95bzBVX014UklYTHRMdWN6ME1SN3MyN251ZVRTMjRZOFVUSUlPczBUVlE?oc=5",
-      "date": "2026-10-12T07:50:40+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1013,22 +1097,10 @@
       "articleLang": "en"
     },
     {
-      "id": "2bktxaLsQZMx",
-      "title": "IMF says AI investment keeps global growth around 3% but brings massive disruption - Reuters",
-      "summary": "IMF says AI investment keeps global growth around 3% but brings massive disruption&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXItVGZaTjNISE9iMlVzZzhlV2ZmYzFDR29feFhfWFRhRzJFdWlwYXk5QkZpUHQ3WVhLZEZId2xobTNmc1E2Y25FN2c1TTg1eldiR3RLR003ajh2RUpSN1RxYXVzYjJ4TW5ZMW1ZcVljRndfSUpoNVVlLUE3eWc1MkhqUUtGQTdYdC1zVUxIbnNJWVJYb2ZIcVN1S3QzWWhQUmdsQ3VFVG9xSEs4NDVvOTZ5dHJRZUNNaUtsazVSMThYQQ?oc=5",
-      "date": "2026-10-12T03:50:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "vk4nfHsLD6Lt",
       "title": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track - South China Morning Post",
       "summary": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFFzbXEzUkYwbmFkNjVOcGhDdVNHcVlYZkIwMFV0NXNEN0h1aGZYNTJMR1dESTJRRWR2bVN0RkxCa0lJUjd0MkVwZlVEbGtaY0g3VnlVcC1DXzg0dUxMbS1pbmJFb1hfSlFBREVYbklhTVk0QXd4M2t3UXJtVWFfdTI0QmVORXgyQnc0c1NFZXhMX0pwaUYyZE9YTUQ1UDF0MFhuSld4d2pSVVBhaldlNzE2a2pneTJDZGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFFzbXEzUkYwbmFkNjVOcGhDdVNHcVlYZkIwMFV0NXNEN0h1aGZYNTJMR1dESTJRRWR2bVN0RkxCa0lJUjd0MkVwZlVEbGtaY0g3VnlVcC1DXzg0dUxMbS1pbmJFb1hfSlFBREVYbklhTVk0QXd4M2t3UXJtVWFfdTI0QmVORXgyQnc0c1NFZXhMX0pwaUYyZE9YTUQ1UDF0MFhuSld4d2pSVVBhaldlNzE2a2pneTJDZGfSAboBQVVfeXFMTzFFSUdWMjd2cVY5ODUwOUZkXzFkU1FDM0dmWGNiazJlTkVRNFRDSHo4ajhLWXlmMUhSWjdaWklDYWg0SUg2ZkZrd1NTcFFkaklodTk1TzlZVWhvRTYwN0lkdmFsUjgteE1ZZVpVeUxTVGk2OTQ0dkhSbElSazZ6aFJWZkZsUHVZM19lY2pCUGk2RjBQN2xFV3MyUDFsUjFZdzduMUFKOEVZa2JzMzc1THl3WkNWR0FwZlFn?oc=5",
       "date": "2026-10-12T02:00:26+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1049,16 +1121,16 @@
       "articleLang": "en"
     },
     {
-      "id": "t6J23ruvzyqV",
-      "title": "Microsoftも“判断特化”AIモデル「Microsoft-Decision-1」、Qwenベースで「Jev」と同価格",
-      "summary": "Microsoftは、文章生成を行わず選択肢ごとの確率を返す判断特化AI「Microsoft-Decision-1」を発表した。「Qwen3.5-9B」を追加学習し、OpenAIの「GPT-6 Sol」の35倍の速度を実現。「Jev」と同じ入力100万トークン当たり0.042ドルで、分類やエージェントの行動判定向けに提供する。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/",
-      "date": "2026-10-12T00:39:33+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
+      "id": "nKZSrLBKL7hq",
+      "title": "US reverses course on Britain's testing of AI models, Telegraph says - Reuters",
+      "summary": "US reverses course on Britain's testing of AI models, Telegraph says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDJvZUFPb2dwVWRONzFpd2RZLVJuLWJSeE1QRHNrYjhTX3l5eGxRaFowem4zUy1heUFEdFBEWHFvaFliWG5lREtrUV9Ob0l0dVpQWDRLLVhQWHFFR3JMbFA2dHE3S1M4NWVjZm51NldZOEFPanJBcHpnZjUzd2ZGQWVmRmFzZkE1WTVPSUIwaEJia2VaNmhuRXZMclFZRzlJcE1XVW9YaFZQVmtzTVR0a3hsZw?oc=5",
+      "date": "2026-10-11T23:48:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "cTNPpjPfMwHL",
@@ -1112,7 +1184,7 @@
       "id": "+V+8Fi4dh5Pv",
       "title": "Japanese giant expands China chip packaging materials output amid AI boom - South China Morning Post",
       "summary": "Japanese giant expands China chip packaging materials output amid AI boom&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHFoc2NlYjItTDR4X25EWV8wOFNadktwMnRJVmg2ZEtxaDZPZ3ZLbGRfbWpIRUkxc0FlS2NrUlZDSWYzTm1EZnEybjVuNm1DRFpKQlNMU3YtYXNNeG1OOWhJUmVmOTZLRmlwUmFrLWpSNVJUeEZYYXRHQVNPMFdBa1pZSzNGRHZZT3plWk05d3E4WjhGUXJZVG5sRmFMQUwxNkl0cTZ1eU9QcFlpTTg3X2xCOE5PV09Jb0VMTHd3Y0V4clFWS1A3ZEtVZEYyVjJqUGg0?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHFoc2NlYjItTDR4X25EWV8wOFNadktwMnRJVmg2ZEtxaDZPZ3ZLbGRfbWpIRUkxc0FlS2NrUlZDSWYzTm1EZnEybjVuNm1DRFpKQlNMU3YtYXNNeG1OOWhJUmVmOTZLRmlwUmFrLWpSNVJUeEZYYXRHQVNPMFdBa1pZSzNGRHZZT3plWk05d3E4WjhGUXJZVG5sRmFMQUwxNkl0cTZ1eU9QcFlpTTg3X2xCOE5PV09Jb0VMTHd3Y0V4clFWS1A3ZEtVZEYyVjJqUGg00gHTAUFVX3lxTFBSYlJhT2drcTF0SlJTMFpnWTB6Y3FBYnZMaWp0cEh3eVdRX003cmlzaDBtczEwRXVweGpUb3VLZTVXMkNXeGQxZlpucWVEdnZhZUhPRUtEam55WmZ0WV94cE14eGNMckNDRzYtNnRVbDU5VUZUNS1laU1NbUhJcXhtcmpTVmt0SGtsVlpGdW5DVVhMVXZmY1ZtNVpJWkZGWFFmRUUxTTFiaGpkQ3JuNXJMUkJ4enFOWDhGY01EeWFRYkloZlNzdXBGSHBmY1Y2NXVXOEU?oc=5",
       "date": "2026-10-11T03:04:32+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1301,18 +1373,6 @@
       "articleLang": "en"
     },
     {
-      "id": "K8OXZgwBFBu1",
-      "title": "'Careless use of AI is the real threat - not the ghost stories'",
-      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-09T07:05:01+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "xmGOfB3ohhSK",
       "title": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO - Reuters",
       "summary": "Breakingviews - COMMENTARY: Failed AI IPO puts fear before FOMO&nbsp;&nbsp;Reuters",
@@ -1412,7 +1472,7 @@
       "id": "kOAaucDL0zVG",
       "title": "‘China already has spies’ at US AI labs, former Anthropic researcher warns - South China Morning Post",
       "summary": "‘China already has spies’ at US AI labs, former Anthropic researcher warns&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWktLVFoNWs4WWFDZnB5ODdqRmZCTmhKM3liRC1lN01zMlpNLUV0V0VBaVBUNzVsME0zYzg2NmVtclZ3bFlMRVJUT3dtekhWQmVqQ0NBY1NlWDJlV3dfMDdWbVNZbHgyTTBSSUFUTldRS3EwUkhZemYzUnFYaTRpbDVJaUNrS0dyOHRLSWNQMlRVMENyVVlyVC0yTG1Vc0stcXpFS3ZyMC1IWXNSYm1HLUN3UzBPMnF4Z2RtMU5LUmfSAcABQVVfeXFMTThmbkk1d3lIczl2SEEzSnUtbHpodWxyUVA3VEY5bkNZLVFKSHMwXzMzVVpOTEdjWFYyaW1BdllMOEFITDk3aTgycHppR3Qtby1IYWR5ZW9jUGZaamU0Z3lSckMyQmh0Y3ZKNkp1YWI5TW92UklhZm8xZmp5Sm51T3hfem1SN2pDVkpaeVdZdnk4YUpkRkcxQVhfN05kVnFpaGlTTUdGZkpnQ1JVcFR6SGVQYWxQbVNNRVMybXFvMXJj?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWktLVFoNWs4WWFDZnB5ODdqRmZCTmhKM3liRC1lN01zMlpNLUV0V0VBaVBUNzVsME0zYzg2NmVtclZ3bFlMRVJUT3dtekhWQmVqQ0NBY1NlWDJlV3dfMDdWbVNZbHgyTTBSSUFUTldRS3EwUkhZemYzUnFYaTRpbDVJaUNrS0dyOHRLSWNQMlRVMENyVVlyVC0yTG1Vc0stcXpFS3ZyMC1IWXNSYm1HLUN3UzBPMnF4Z2RtMU5LUmc?oc=5",
       "date": "2026-10-07T23:39:15+00:00",
       "source": "SCMP",
       "key": "scmp",
