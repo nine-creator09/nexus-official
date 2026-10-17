@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-17T14:59:43.039622+00:00",
-  "articleCount": 119,
+  "generated": "2026-10-17T20:09:26.957033+00:00",
+  "articleCount": 122,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "koreaherald": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "0c7EygvkTeZ0",
+      "title": "Black Box: The Chatbots | What I Saw at the Double Six Ranch | Ep 6 - podcast",
+      "summary": "From his remote property in rural Texas, the millionaire businessman Michael Samadi is plotting a new kind of civil rights movement – for the welfare and protection of AI systems. Guardian journalist",
+      "link": "https://www.theguardian.com/australia-news/audio/2026/oct/18/black-box-the-chatbots-what-i-saw-at-the-double-six-ranch-ep-6-full-story-podcast",
+      "date": "2026-10-17T19:00:39+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "allECZdOuGER",
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "date": "2026-10-17T18:48:08+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5BRdRkbcLE5J",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no lo",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "date": "2026-10-17T15:04:36+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YcFe1m6JQK5O",
+      "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and handed t",
+      "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "date": "2026-10-17T15:00:33+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "TaCK5IN3vSVn",
       "title": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
@@ -149,6 +197,42 @@
       "articleLang": "en"
     },
     {
+      "id": "Vtt3KTo+N09G",
+      "title": "AI summit brings together Big Tech bosses and EU officials - DW.com",
+      "summary": "AI summit brings together Big Tech bosses and EU officials&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNOOVEtd2VHMzFZUE9vNENXajdMck81RkE4SjdsT3dwSGIxemE3WkQ5ZVJJcnhDWURZUl9kTkFhRlRnMU5wc2s5NmhtaFpaWnNSSERvTW1aMGxmakQ3bU1rdE92bDFraEJSV2ZKOWt1cHhUb21Ycnk5SWhISFdETUxjOEZlYTFr0gGIAUFVX3lxTFA4T3JRanpkN0FCb0NKaG10TXhoTk5GbVBvM25VVXRKWXhjTzNmeEV2cDVrcGhZZUZVNzFfRDFGOFB2bjB6MktEZzAxdFI5S1dKaEQzb2FQVDh5YjlzcTJiNTk3ZWVQZlFNN0JpOXBpZU95YXdmeGp0MUdmRjY4Yjk0dHhIQVV2VE8?oc=5",
+      "date": "2026-10-17T06:09:31+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "NU3ySd98eFyL",
+      "title": "EU pledges safe, sovereign AI but lags far behind US and China - DW.com",
+      "summary": "EU pledges safe, sovereign AI but lags far behind US and China&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUJUSEY1ODE2VXp3aC15bGpKVGdsa0NYN21aRWNQRV9ZR0lKYUFxdktpRkdYVHVzcUlGdmxFLTRYeU5JNmRRUEZqR0V0bHg0TEVsMmRtY3JlLURrdnNTenExVVc3Tmo3bkhRaWYzSEZzX0tPZjBpcXZYakxETTFieUtPYUt3XzY2bkRvUzRrQUtHcGw4anJLemxpVlNKNEFHMmstaXdR0gGmAUFVX3lxTFB0LWQtbTFJWmtYUEpuTHRTMDhWZ3RMNkwzei1RNnZYTVJjbE05d2ZZOUwwMTVhdUhYd0Y2QU54WldWM3JLYU5rWjNISEM3WDRPZ1BSeEIzejJLUkFGSVJrT0RERlBRNnlUT3FabXBYU2RrS3NFWVp1Y0RoVUlka05IYmxDdlNjOHpRZVNjbTlLZ3MwcFp3ZkZ5dTVJZVRCNlNSZ1ZKRXc?oc=5",
+      "date": "2026-10-16T23:12:23+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "UjHV2mkdEJXt",
+      "title": "Young Indians are learning to work alongside artificial intelligence - DW.com",
+      "summary": "Young Indians are learning to work alongside artificial intelligence&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEVyNE1jMFVSUWVDU2JiTWpCR3NhdU5yV3lKOVFfWGNtWXdxZXB3SWxSMUVYR3NnTFkyWEo2aTNlUE5Hd0Fyd1dSZWc3MjgwYktWR2NBM0x6NDVpMEw3S2pBSGxfbnRyWHdKNEZHRDR5cGsza3FMdHhOcWI5M2ZMelpjONIBgwFBVV95cUxQZDBjVnRBdlpWbE9Gdm54QS1qSkZHdFNYeGhhRnlrZXhtX3dYSkhTOUZsMnc1VDBZVjVpWUZURTFuQUNyeWlLNmFXR3dTRmU4QzRPa2RJM2NLZ3lxdGI5N3VhaDc3a0JXZEN4RGxiYl95Z2xkc0w3TmdWOXZiTnVSRElFbw?oc=5",
+      "date": "2026-10-16T23:02:26+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "ec9+Q53UgnT7",
       "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
       "summary": "The average person spends 40% of their waking hours online. Clearing out digital clutter can minimise environmental impacts and boost productivity  Change by degrees offers life hacks and sustainable",
@@ -170,18 +254,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "allECZdOuGER",
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "date": "2026-10-16T21:22:28+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -353,18 +425,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Vtt3KTo+N09G",
-      "title": "AI summit brings together Big Tech bosses and EU officials - DW.com",
-      "summary": "AI summit brings together Big Tech bosses and EU officials&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNOOVEtd2VHMzFZUE9vNENXajdMck81RkE4SjdsT3dwSGIxemE3WkQ5ZVJJcnhDWURZUl9kTkFhRlRnMU5wc2s5NmhtaFpaWnNSSERvTW1aMGxmakQ3bU1rdE92bDFraEJSV2ZKOWt1cHhUb21Ycnk5SWhISFdETUxjOEZlYTFr0gGIAUFVX3lxTFA4T3JRanpkN0FCb0NKaG10TXhoTk5GbVBvM25VVXRKWXhjTzNmeEV2cDVrcGhZZUZVNzFfRDFGOFB2bjB6MktEZzAxdFI5S1dKaEQzb2FQVDh5YjlzcTJiNTk3ZWVQZlFNN0JpOXBpZU95YXdmeGp0MUdmRjY4Yjk0dHhIQVV2VE8?oc=5",
-      "date": "2026-10-16T13:21:09+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "iwoKJkiSQQ8m",
       "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
       "summary": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
@@ -434,18 +494,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "ay5rwhVUQzIj",
-      "title": "Doris Dörrie's new film considers ageing and dying in AI era - DW.com",
-      "summary": "Doris Dörrie's new film considers ageing and dying in AI era&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBQc2NJeGlCbkpiOXdVUmhZYTJZWWhYSkZvTGd5VjdIeWg2SV9tMGlybVZvRDdBLV9QbVZlNW8xU3ZaeWdyeHVfbUw1LVhONlc0YjM0NzZJWk1WLXE5T2t2SUI4ckNuZlFqRHJXRWh6Qm1OR21wUHhUNExFX1hocjFac3FsUzY1TzhyQTVfRjVWcm5PU0h1ZnRhVHhPOGFTRkN6MmRTMFAtUXR5cXlxUXJ30gGyAUFVX3lxTE9yLU9KMjJMRVZxM1dqUHRNSllMcHZjSzBteEtpWnBaNzlFVUIzXzNfVFZVeU9YZUU5My1yN0RnQmtMZWdzTTRtV3p1VU5GSUg1UnA1bkRGM2ZFTm1iczZ2aU9VbE9oVXlyNzBoQlA5QlpVdnNCN0JkVUNvZm1CdFBMbmpKZGxReVVYNkFGTE16cmVKOVpEcEdmTU53UjdWZUNqRjdYQ2lCdXRMQWkwM0YyWnc?oc=5",
-      "date": "2026-10-16T08:01:01+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -773,15 +821,15 @@
       "articleLang": "en"
     },
     {
-      "id": "E3Igovtz9jaG",
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "date": "2026-10-15T16:21:45+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "RNAPRBc1jgDr",
+      "title": "AI credit worries send default insurance to record high - Reuters",
+      "summary": "AI credit worries send default insurance to record high&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
+      "date": "2026-10-15T16:18:59+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -842,6 +890,30 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ay5rwhVUQzIj",
+      "title": "Doris Dörrie's new film considers ageing and dying in AI era - DW.com",
+      "summary": "Doris Dörrie's new film considers ageing and dying in AI era&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBQc2NJeGlCbkpiOXdVUmhZYTJZWWhYSkZvTGd5VjdIeWg2SV9tMGlybVZvRDdBLV9QbVZlNW8xU3ZaeWdyeHVfbUw1LVhONlc0YjM0NzZJWk1WLXE5T2t2SUI4ckNuZlFqRHJXRWh6Qm1OR21wUHhUNExFX1hocjFac3FsUzY1TzhyQTVfRjVWcm5PU0h1ZnRhVHhPOGFTRkN6MmRTMFAtUXR5cXlxUXJ30gGyAUFVX3lxTE9yLU9KMjJMRVZxM1dqUHRNSllMcHZjSzBteEtpWnBaNzlFVUIzXzNfVFZVeU9YZUU5My1yN0RnQmtMZWdzTTRtV3p1VU5GSUg1UnA1bkRGM2ZFTm1iczZ2aU9VbE9oVXlyNzBoQlA5QlpVdnNCN0JkVUNvZm1CdFBMbmpKZGxReVVYNkFGTE16cmVKOVpEcEdmTU53UjdWZUNqRjdYQ2lCdXRMQWkwM0YyWnc?oc=5",
+      "date": "2026-10-15T14:16:12+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "6M/LYerINhci",
+      "title": "AI rout slows as investors buy the dip on tech - Reuters",
+      "summary": "AI rout slows as investors buy the dip on tech&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVVDZGpleGljMkt2cm12UEhqSHA5QWpUR3JITXBsQWpPZ1hkYXQyMkRjSmJXTWg5dkNJd0w4U1RpSGVWVnFrYUtydk91VzN2ZXNoQ3NLSmpqMExESkliZ3pmQ1JISjJqN0NtYVlzYkhCSUpRQ3Azay1MWGRWZVVpSXpScw?oc=5",
+      "date": "2026-10-15T14:16:10+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -917,6 +989,18 @@
       "articleLang": "en"
     },
     {
+      "id": "YOmHEUaa15t/",
+      "title": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift - Reuters",
+      "summary": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5",
+      "date": "2026-10-15T09:11:55+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "WqIk/ohvJeOs",
       "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan - South China Morning Post",
       "summary": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan&nbsp;&nbsp;South China Morning Post",
@@ -946,30 +1030,6 @@
       "summary": "COMMENTARY: AI investment boom may be papering over US economic cracks&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1Q2OXZIUkpRbEJQUVlCVUJzdDZQQ2pJelNhTmZVTGJYSEtCWGd6TXZtTzJnc01UUGR5bzdmZW4tZ2pLQ3hCSXQwMzV4TGdXQS1ZMkE3cDg0R2RjYXRQRF9ETERWNXpLS3JjcjViWk5ZLU14ajZjbmt0aWJaZHphdWhEV0tCZ2RiRU1ZLTQwRE1GWHo3dUxkeFM1aWEtRDNyWERYTTZJN05qUmRmSEJGU19oTGdEWnFOSElyTnp3ZFB3V0RrOEI4LUhVeWRhX3pHQ1NaZQ?oc=5",
       "date": "2026-10-15T07:56:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "YOmHEUaa15t/",
-      "title": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift - Reuters",
-      "summary": "AI-boosted UK economy beats forecasts, giving Healey pre-budget lift&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQclVJOWlaQURzRjZZVzhibFpUTnpjc2F3enRTT1NKZUotUjF2WUpCWjhFT0lzSlY0SXpoZ3ZlZDhMYkMtN1Vfa3Y1UGtZemFmV3N6WVVPQ3p2dld0N3ZubDUzVndDRE52dWdVbmpwOEFYY0UxbzYwR3dGcTNxSG9UcmNxd2ZhSzJVT2FRUTRrbnNldjg?oc=5",
-      "date": "2026-10-15T06:06:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "RNAPRBc1jgDr",
-      "title": "AI credit worries send default insurance to record high - Reuters",
-      "summary": "AI credit worries send default insurance to record high&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa21Bbk9kN3JUMWZXLWNLVWFlRkQ1dDFSYnRQQzBRNDVudTYtaDhjcjcyenBQM0prdHlYY2ZxY25fZzdYQk9FYkh1N043NW83amxZbHVvZUxYUXk5YnVtR3NtaXdPMFFNa3Z4UUpYdWlXQzhmbjV2bF96TktQQ3VNOFFhLWMtcUE2NllOMzNsN3I?oc=5",
-      "date": "2026-10-15T05:18:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1013,18 +1073,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "lrq181H7CswY",
-      "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users - Reuters",
-      "summary": "Eight US states sue OpenAI, claiming ChatGPT harms young users&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
-      "date": "2026-10-15T02:44:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "wSGkAKdzq1RT",
       "title": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources - South China Morning Post",
       "summary": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources&nbsp;&nbsp;South China Morning Post",
@@ -1046,6 +1094,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "r8a6P+z0DJNt",
+      "title": "AI-powered law firms draw lawyers from big firms - Reuters",
+      "summary": "AI-powered law firms draw lawyers from big firms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXRSZjIwMHhfT29JbER6S2JUaWhJRV9IVkJPVmxoQ2wzSW9zSkotT2cteTBZS3NkUDJRRFFUandGWE53RVdhQmRnVGZ5NEhJVkZtb21JRkNJclNXWkg1TWliSHZoaHVybmV6RUZVbTI5b29CcDdCcWpvV1R0VG9rbm1DcTZSZHI1WWZUcnJmZjNIN29rVTZSR0ZHUTNZb1Fs?oc=5",
+      "date": "2026-10-14T21:55:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1121,18 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6M/LYerINhci",
-      "title": "AI rout slows as investors buy the dip on tech - Reuters",
-      "summary": "AI rout slows as investors buy the dip on tech&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVVDZGpleGljMkt2cm12UEhqSHA5QWpUR3JITXBsQWpPZ1hkYXQyMkRjSmJXTWg5dkNJd0w4U1RpSGVWVnFrYUtydk91VzN2ZXNoQ3NLSmpqMExESkliZ3pmQ1JISjJqN0NtYVlzYkhCSUpRQ3Azay1MWGRWZVVpSXpScw?oc=5",
-      "date": "2026-10-14T18:39:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "q9ofPiXlmAu8",
       "title": "AI Came for Math. Now It’s Chasing the Rest of Science",
       "summary": "AI may soon be the default way to solve theoretical problems in economics, high-energy physics, and other fields, MIT researchers tell WIRED.",
@@ -1154,18 +1202,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "znnbEgWpSzZm",
-      "title": "Could AI ‘change the stakes’ in the development of bioweapons?",
-      "summary": "Experts say the technology could help terrorists and nation states with production but that significant hurdles remainIn his annual speech on threats to the nation, Sir Ken McCallum, the head of the U",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/could-ai-change-the-stakes-in-the-development-of-bioweapons",
-      "date": "2026-10-14T17:34:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
