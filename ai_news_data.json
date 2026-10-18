@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-18T10:26:12.085634+00:00",
-  "articleCount": 123,
+  "generated": "2026-10-18T15:24:49.688156+00:00",
+  "articleCount": 119,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 16
+      "count": 15
     },
     "france24": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 16
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "C7BtDoRSvNss",
+      "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+      "summary": "The tech company says successful AI worms need more capability on less powerful devices, but current trends make that feasible by the end of the yearWarnings about what artificial intelligence might d",
+      "link": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+      "date": "2026-10-18T13:30:00+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "SGGABielr0oY",
+      "title": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+      "summary": "Development by UK firm Nscale heralded by ministers as largest of its kind in country loses anchor tenantThe development of a huge AI datacentre hailed by the UK government has received a fresh setbac",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns",
+      "date": "2026-10-18T13:05:14+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "b5JOAionGwYY",
+      "title": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
+      "summary": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial systemRogue French fridges were an unlikely talking point for the world’s leadin",
+      "link": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+      "date": "2026-10-18T11:46:50+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "9NKFNm/Q6H+E",
+      "title": "OnlyFans Creators Are Pissed That Meta Lets Muse Talk Dirty",
+      "summary": "Adult performers are questioning why Meta allows its AI agent to sext while restricting their social media accounts.",
+      "link": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "date": "2026-10-18T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "cbGR0349XdBj",
       "title": "World Bank says ‘small AI’ could transform developing countries",
@@ -197,18 +245,6 @@
       "articleLang": "en"
     },
     {
-      "id": "M+dSeWauzdcR",
-      "title": "Is AI replacing entry-level jobs? - DW.com",
-      "summary": "Is AI replacing entry-level jobs?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUG9ENnoyelhZZUM3bXFFTGZWVlQzcmlyTzR1OVpVNnZEUGxIZHNJczVNYjZGQ0hxS3BuVUdLRkgwZF9uZUhaQTlTWEtZSDM1QjJtbVdOSDdxalVpZVc4dmlhVDFnUktYbTBQNEdmcmdRemotSktWVw?oc=5",
-      "date": "2026-10-17T12:12:05+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "HU2EulfnR7EN",
       "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
       "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies?&nbsp;&nbsp;South China Morning Post",
@@ -218,18 +254,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "7p3eJEMB2ZzB",
-      "title": "Will AI-powered autonomous weapons obey the laws of war? - DW.com",
-      "summary": "Will AI-powered autonomous weapons obey the laws of war?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2V4cU5TZ04tQndPYmpmTEtaV3BDOFRNMEIxRGdIaU9jaWE4ZG82T2JyWk9RcGJLVGthckczT1IydEtkRFBWOWg0OFpENmJBZWtUUlp0TGhPTHc1aGNjQUt1NGRBd0pHMlFfVktLZ2RLS3NRVnEtTTN3WjA5ZWg5UW5VWWhFN0I0ZXplelAyNl9Vd3BOal9n?oc=5",
-      "date": "2026-10-17T11:36:12+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -293,30 +317,6 @@
       "articleLang": "en"
     },
     {
-      "id": "NU3ySd98eFyL",
-      "title": "EU pledges safe, sovereign AI but lags far behind US and China - DW.com",
-      "summary": "EU pledges safe, sovereign AI but lags far behind US and China&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUJUSEY1ODE2VXp3aC15bGpKVGdsa0NYN21aRWNQRV9ZR0lKYUFxdktpRkdYVHVzcUlGdmxFLTRYeU5JNmRRUEZqR0V0bHg0TEVsMmRtY3JlLURrdnNTenExVVc3Tmo3bkhRaWYzSEZzX0tPZjBpcXZYakxETTFieUtPYUt3XzY2bkRvUzRrQUtHcGw4anJLemxpVlNKNEFHMmstaXdR0gGmAUFVX3lxTFB0LWQtbTFJWmtYUEpuTHRTMDhWZ3RMNkwzei1RNnZYTVJjbE05d2ZZOUwwMTVhdUhYd0Y2QU54WldWM3JLYU5rWjNISEM3WDRPZ1BSeEIzejJLUkFGSVJrT0RERlBRNnlUT3FabXBYU2RrS3NFWVp1Y0RoVUlka05IYmxDdlNjOHpRZVNjbTlLZ3MwcFp3ZkZ5dTVJZVRCNlNSZ1ZKRXc?oc=5",
-      "date": "2026-10-16T23:12:23+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "UjHV2mkdEJXt",
-      "title": "Young Indians are learning to work alongside artificial intelligence - DW.com",
-      "summary": "Young Indians are learning to work alongside artificial intelligence&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEVyNE1jMFVSUWVDU2JiTWpCR3NhdU5yV3lKOVFfWGNtWXdxZXB3SWxSMUVYR3NnTFkyWEo2aTNlUE5Hd0Fyd1dSZWc3MjgwYktWR2NBM0x6NDVpMEw3S2pBSGxfbnRyWHdKNEZHRDR5cGsza3FMdHhOcWI5M2ZMelpjONIBgwFBVV95cUxQZDBjVnRBdlpWbE9Gdm54QS1qSkZHdFNYeGhhRnlrZXhtX3dYSkhTOUZsMnc1VDBZVjVpWUZURTFuQUNyeWlLNmFXR3dTRmU4QzRPa2RJM2NLZ3lxdGI5N3VhaDc3a0JXZEN4RGxiYl95Z2xkc0w3TmdWOXZiTnVSRElFbw?oc=5",
-      "date": "2026-10-16T23:02:26+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "ec9+Q53UgnT7",
       "title": "Decluttering your online life: how to get your digital house in order and protect your data from AI",
       "summary": "The average person spends 40% of their waking hours online. Clearing out digital clutter can minimise environmental impacts and boost productivity  Change by degrees offers life hacks and sustainable",
@@ -353,6 +353,18 @@
       "articleLang": "en"
     },
     {
+      "id": "7p3eJEMB2ZzB",
+      "title": "Will AI-powered autonomous weapons obey the laws of war? - DW.com",
+      "summary": "Will AI-powered autonomous weapons obey the laws of war?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS2V4cU5TZ04tQndPYmpmTEtaV3BDOFRNMEIxRGdIaU9jaWE4ZG82T2JyWk9RcGJLVGthckczT1IydEtkRFBWOWg0OFpENmJBZWtUUlp0TGhPTHc1aGNjQUt1NGRBd0pHMlFfVktLZ2RLS3NRVnEtTTN3WjA5ZWg5UW5VWWhFN0I0ZXplelAyNl9Vd3BOal9n?oc=5",
+      "date": "2026-10-16T19:48:08+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "tMxsWjVd2hHo",
       "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
       "summary": "Beijing seeks tighter grip on AI exports amid US rivalry&nbsp;&nbsp;Reuters",
@@ -386,18 +398,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "LDHyKDHuiu43",
-      "title": "AI farming: Rwanda, Ghana and Morocco show what's possible - DW.com",
-      "summary": "AI farming: Rwanda, Ghana and Morocco show what's possible&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1p0QWRqSnBySllXVEZMbTA0NF9IQU1Sc3JGQ09uNy1xaHhLVkV0M1B5azVpYWdZTmR6X012UGdXZkJnaUhnRG9rejRieGdwOVV1M0xsajZxVWpyaWRidEpVb3QtSS1qZUxtOHBETXVySGtGX1ZrejYtMHZzWEIxSk9NeWU0RTFBMFdxakFfNEFCNEJ3bk1NUER2RGFGOFBOV3lLdEZ3ZHE2YzdNQXlFUEw4SjZvRzlE?oc=5",
-      "date": "2026-10-16T17:38:40+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -461,6 +461,18 @@
       "articleLang": "en"
     },
     {
+      "id": "sCc9IwWPVnRi",
+      "title": "EU pledges safe, sovereign AI but lags far behind US and China - dw.com",
+      "summary": "EU pledges safe, sovereign AI but lags far behind US and China&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUJUSEY1ODE2VXp3aC15bGpKVGdsa0NYN21aRWNQRV9ZR0lKYUFxdktpRkdYVHVzcUlGdmxFLTRYeU5JNmRRUEZqR0V0bHg0TEVsMmRtY3JlLURrdnNTenExVVc3Tmo3bkhRaWYzSEZzX0tPZjBpcXZYakxETTFieUtPYUt3XzY2bkRvUzRrQUtHcGw4anJLemxpVlNKNEFHMmstaXdR0gGmAUFVX3lxTFB0LWQtbTFJWmtYUEpuTHRTMDhWZ3RMNkwzei1RNnZYTVJjbE05d2ZZOUwwMTVhdUhYd0Y2QU54WldWM3JLYU5rWjNISEM3WDRPZ1BSeEIzejJLUkFGSVJrT0RERlBRNnlUT3FabXBYU2RrS3NFWVp1Y0RoVUlka05IYmxDdlNjOHpRZVNjbTlLZ3MwcFp3ZkZ5dTVJZVRCNlNSZ1ZKRXc?oc=5",
+      "date": "2026-10-16T13:58:15+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "Nlxaqyf+8GCk",
       "title": "US's AI task force sets path for study and reviews, leader tells CNBC - Reuters",
       "summary": "US's AI task force sets path for study and reviews, leader tells CNBC&nbsp;&nbsp;Reuters",
@@ -473,11 +485,35 @@
       "articleLang": "en"
     },
     {
+      "id": "M+dSeWauzdcR",
+      "title": "Is AI replacing entry-level jobs? - DW.com",
+      "summary": "Is AI replacing entry-level jobs?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwUG9ENnoyelhZZUM3bXFFTGZWVlQzcmlyTzR1OVpVNnZEUGxIZHNJczVNYjZGQ0hxS3BuVUdLRkgwZF9uZUhaQTlTWEtZSDM1QjJtbVdOSDdxalVpZVc4dmlhVDFnUktYbTBQNEdmcmdRemotSktWVw?oc=5",
+      "date": "2026-10-16T13:38:07+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "Vtt3KTo+N09G",
       "title": "AI summit brings together Big Tech bosses and EU officials - DW.com",
       "summary": "AI summit brings together Big Tech bosses and EU officials&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNWNOOVEtd2VHMzFZUE9vNENXajdMck81RkE4SjdsT3dwSGIxemE3WkQ5ZVJJcnhDWURZUl9kTkFhRlRnMU5wc2s5NmhtaFpaWnNSSERvTW1aMGxmakQ3bU1rdE92bDFraEJSV2ZKOWt1cHhUb21Ycnk5SWhISFdETUxjOEZlYTFr0gGIAUFVX3lxTFA4T3JRanpkN0FCb0NKaG10TXhoTk5GbVBvM25VVXRKWXhjTzNmeEV2cDVrcGhZZUZVNzFfRDFGOFB2bjB6MktEZzAxdFI5S1dKaEQzb2FQVDh5YjlzcTJiNTk3ZWVQZlFNN0JpOXBpZU95YXdmeGp0MUdmRjY4Yjk0dHhIQVV2VE8?oc=5",
       "date": "2026-10-16T13:21:09+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "PpOFclYYhzR3",
+      "title": "Young Indians are learning to work alongside artificial intelligence - dw.com",
+      "summary": "Young Indians are learning to work alongside artificial intelligence&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEVyNE1jMFVSUWVDU2JiTWpCR3NhdU5yV3lKOVFfWGNtWXdxZXB3SWxSMUVYR3NnTFkyWEo2aTNlUE5Hd0Fyd1dSZWc3MjgwYktWR2NBM0x6NDVpMEw3S2pBSGxfbnRyWHdKNEZHRDR5cGsza3FMdHhOcWI5M2ZMelpjONIBgwFBVV95cUxQZDBjVnRBdlpWbE9Gdm54QS1qSkZHdFNYeGhhRnlrZXhtX3dYSkhTOUZsMnc1VDBZVjVpWUZURTFuQUNyeWlLNmFXR3dTRmU4QzRPa2RJM2NLZ3lxdGI5N3VhaDc3a0JXZEN4RGxiYl95Z2xkc0w3TmdWOXZiTnVSRElFbw?oc=5",
+      "date": "2026-10-16T13:08:54+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -809,9 +845,9 @@
       "articleLang": "en"
     },
     {
-      "id": "0HPzmIOVy+mW",
-      "title": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk - DW.com",
-      "summary": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk&nbsp;&nbsp;DW.com",
+      "id": "pZQ3EKMn6KjK",
+      "title": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk - dw.com",
+      "summary": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aeXVHZmRwdjdLWXpvWm4zcXhHMm11bEYzdk1iSDJ1UlJrZFM4OTIzMFdtNklvLTQ0VDB5NUpXa3BIMjJqM3VuVEppaUc1RjJaY25xTVIxbURXNEpQbUVEdUpYMER1QnJrY0p0bGUtNWhWN3fSAXNBVV95cUxPZi1kb1pkR0lLV3hodFVjMWx1S0RqU25GWm5qRWptQi1iajVyLXRaTmUyVVc2Yy1nZmJabERjMWFRb293Z041SUdSeGx4aG9zSjZlZnRJWFBSV1FSLVVRQTM3WUFJT1oxZ0RJdTVSUzdxYTcw?oc=5",
       "date": "2026-10-15T18:57:28+00:00",
       "source": "DW Tech",
@@ -821,9 +857,9 @@
       "articleLang": "en"
     },
     {
-      "id": "Cnl2RI0dmOdB",
-      "title": "AI is much hyped, frequently feared, and possibly overrated - DW.com",
-      "summary": "AI is much hyped, frequently feared, and possibly overrated&nbsp;&nbsp;DW.com",
+      "id": "3if+T1KW7//4",
+      "title": "AI is much hyped, frequently feared, and possibly overrated - dw.com",
+      "summary": "AI is much hyped, frequently feared, and possibly overrated&nbsp;&nbsp;dw.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDZ1dTVxV3pMLXluLUJSRXcxeDIzMEktQzZLQkx4MS1FaDRRdjJYd1dEd3FURFhrTEgtb2Z0T2hpN1VlQVhyb1JSRjY1TUVaSTlkQ1pPNGROclMtT00yY0doZ2ZnSzNaOThYMkxkNF9RRjloRTl2X3lVRUtzV3pCcnp1T1ZvSlRpaFEtQk9SX1ktcWZ5SmxiQnNB?oc=5",
       "date": "2026-10-15T18:57:25+00:00",
       "source": "DW Tech",
@@ -1025,6 +1061,18 @@
       "articleLang": "en"
     },
     {
+      "id": "5KWmRt4TBr+6",
+      "title": "AI farming: Rwanda, Ghana and Morocco show what's possible - dw.com",
+      "summary": "AI farming: Rwanda, Ghana and Morocco show what's possible&nbsp;&nbsp;dw.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX1p0QWRqSnBySllXVEZMbTA0NF9IQU1Sc3JGQ09uNy1xaHhLVkV0M1B5azVpYWdZTmR6X012UGdXZkJnaUhnRG9rejRieGdwOVV1M0xsajZxVWpyaWRidEpVb3QtSS1qZUxtOHBETXVySGtGX1ZrejYtMHZzWEIxSk9NeWU0RTFBMFdxakFfNEFCNEJ3bk1NUER2RGFGOFBOV3lLdEZ3ZHE2YzdNQXlFUEw4SjZvRzlE?oc=5",
+      "date": "2026-10-15T11:21:13+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "A3swPXK2d+eu",
       "title": "Is your boss watching you? The rise of AI surveillance at work - video",
       "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processi",
@@ -1076,7 +1124,7 @@
       "id": "pfNUvSmo/AD4",
       "title": "Macroscope | Why the AI investment boom could spark the next financial crisis - South China Morning Post",
       "summary": "Macroscope | Why the AI investment boom could spark the next financial crisis&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGw2dV91UTc1c19rcDM4ZHRsX2UwUFBSZjU3a3B3TzV6RDdyczA3d0JEb3IyODBINy1KdE5ZWWhEVWRBV01GbTR6NXRLUmlCWWxwbmRHZnVFZG5XdVdZRndSRXBFWWNrYm9YVDBLTUFVOG1aeHZIQ1p5MzU0VUJRYzJuamZ4eWxnTEVMQmhpc3d2UlgySVNTVXhsTlpTYzFQX014dWJzLXFHS0NyZTN0RVpOaG1Od9IBtgFBVV95cUxNVko3MHlDd3VvMlVUX2tXTWU4djBCZkd6cmZCRWJnSU5rYVFMVFRVamhvNkRIbUd1SFFaTHNfN0txMWZ0TVFRSkY2a19ic0RQWnV5TElNZW5FVzE2SVp4WWFKZXgxODZ3VmwySjMtVWNfY1ptUVZTMGVVdWJQTVdFOXp5dENwMUppRWpvSDNjbnJ5VlAxVlQ2OXlPaG1VMlJJM19RYXM3M2U1djdkSUlrZ3h5NzlZUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGw2dV91UTc1c19rcDM4ZHRsX2UwUFBSZjU3a3B3TzV6RDdyczA3d0JEb3IyODBINy1KdE5ZWWhEVWRBV01GbTR6NXRLUmlCWWxwbmRHZnVFZG5XdVdZRndSRXBFWWNrYm9YVDBLTUFVOG1aeHZIQ1p5MzU0VUJRYzJuamZ4eWxnTEVMQmhpc3d2UlgySVNTVXhsTlpTYzFQX014dWJzLXFHS0NyZTN0RVpOaG1Odw?oc=5",
       "date": "2026-10-15T08:30:05+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1157,15 +1205,15 @@
       "articleLang": "en"
     },
     {
-      "id": "RWQkv9b5QaOL",
-      "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-      "summary": "US states sue ChatGPT maker and seek to force the company to change how its products work for young users Eight US states sued OpenAI Wednesday, alleging the ChatGPT maker is harming children en masse",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/openai-child-self-harm-lawsuit",
-      "date": "2026-10-14T21:50:29+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
+      "id": "r8a6P+z0DJNt",
+      "title": "AI-powered law firms draw lawyers from big firms - Reuters",
+      "summary": "AI-powered law firms draw lawyers from big firms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXRSZjIwMHhfT29JbER6S2JUaWhJRV9IVkJPVmxoQ2wzSW9zSkotT2cteTBZS3NkUDJRRFFUandGWE53RVdhQmRnVGZ5NEhJVkZtb21JRkNJclNXWkg1TWliSHZoaHVybmV6RUZVbTI5b29CcDdCcWpvV1R0VG9rbm1DcTZSZHI1WWZUcnJmZjNIN29rVTZSR0ZHUTNZb1Fs?oc=5",
+      "date": "2026-10-14T21:55:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1181,18 +1229,6 @@
       "articleLang": "en"
     },
     {
-      "id": "WEE9VbMNJgev",
-      "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
-      "summary": "Hours before Apple and the ChatGPT maker were due to face off in court, a new allegation delayed the showdown An ⁠OpenAI employee who left the ChatGPT maker for Apple sent more than 100 files about an",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit",
-      "date": "2026-10-14T20:31:15+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "/EGNYkp1SmBC",
       "title": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack - Truth or Fake - France 24",
       "summary": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack - Truth or Fake&nbsp;&nbsp;France 24",
@@ -1202,18 +1238,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "c5/lNAeG2CV9",
-      "title": "OpenAI’s London staff receive average of £2.3m per person annually",
-      "summary": "Accounts for the Westminster-based company behind ChatGPT show that 110 staff shared £87m in salaries and £168m in shares last yearOpenAI’s London staff each received £2,318,181 on average last year,",
-      "link": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
-      "date": "2026-10-14T19:15:14+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1250,18 +1274,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "qOmL1OfYEa2k",
-      "title": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions - Reuters",
-      "summary": "Ukrainian drones hit Russia's top data centre in attack on AI ambitions&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYlNheVdFZk5KM25CV0NxS0tHbG81dGlSTTRZaVNLbkNiQklzNmV5d0s5M2NtTlBlSTIzTk5DbXFBME5USFNYS21ZYUxpeVhuUXpkZ2hCVVVITFZ1Q2ZJOWZsWlVkWVdSX3k4Qm5vNkl4MjhGWXp0NXVIcnNHc1c5S0VwU2Q5V29FcmF1NWh1a0hZa0FycXdvRVd3Q0I2VU9sS3NB?oc=5",
-      "date": "2026-10-14T14:03:24+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1334,30 +1346,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "qnLagZ4O3O3K",
-      "title": "Men Can’t Stop Faking How Much They Know About AI",
-      "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
-      "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
-      "date": "2026-10-14T09:30:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "poxcK3Rmc2jC",
-      "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-      "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
-      "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-      "date": "2026-10-14T09:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -1445,18 +1433,6 @@
       "articleLang": "en"
     },
     {
-      "id": "syzNLEcymz1N",
-      "title": "‘Easy money is past’: why investors are rethinking the AI memory-chip trade - South China Morning Post",
-      "summary": "‘Easy money is past’: why investors are rethinking the AI memory-chip trade&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbTZGRWw4d0JCZU9ybHlXckhBNHdBV2h3WXNzdHJqdkNPVVBrby11aks1bVU4OEh2NkY0OGZqOU5lQlNvZzlSR1hPY2NhZm1WQjFweE9nZ1dXclZYNGJCMjF2T2sxalE0TDk4OHdMbVlGZ2drc1dhdU9TNXpuMlJUb2QweGU5UG12dUNDWlhFejJmZmExYllzUEEycXlEcGUta2h5TkNFeUdRcEloaUg1eWI5dnVoYXhhWDFiRUZJYTNSUHR0T1BRRy1JUnZYaEXSAc8BQVVfeXFMT0piY2pOT3pTVnUybnBHVGZkcEFMUi0xY2o5bFhNazFSaDhkZ0toaEd4ZXVuN3J0ZmlwakZlaUJBYTVTM1NPYk9zdFpHZW53SEZSbG9LUmNKaHE4UkhpMGg5X3BxcXFxMTU2Nmg2ZjZoU0tWWVNqNTNfMzM4UVZSSFNBblZhdlNPeHpDMEEyZUk3b194UUpVZnpYNVRQRURrYVN1STFsUzJ4UVlHOS15a1p3emxFb2xNMTJuTW5xcHJ2R1NYNm5VbDg2R2ExNEtz?oc=5",
-      "date": "2026-10-13T10:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "savbD/OBB4RS",
       "title": "KAIST unveils physical AI strategy to take robotics beyond humanoids - The Korea Herald",
       "summary": "KAIST unveils physical AI strategy to take robotics beyond humanoids&nbsp;&nbsp;The Korea Herald",
@@ -1505,18 +1481,6 @@
       "articleLang": "en"
     },
     {
-      "id": "vk4nfHsLD6Lt",
-      "title": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track - South China Morning Post",
-      "summary": "Exclusive | As AI and the Iran war loom, China’s energy technocrats are on the fast track&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRFFzbXEzUkYwbmFkNjVOcGhDdVNHcVlYZkIwMFV0NXNEN0h1aGZYNTJMR1dESTJRRWR2bVN0RkxCa0lJUjd0MkVwZlVEbGtaY0g3VnlVcC1DXzg0dUxMbS1pbmJFb1hfSlFBREVYbklhTVk0QXd4M2t3UXJtVWFfdTI0QmVORXgyQnc0c1NFZXhMX0pwaUYyZE9YTUQ1UDF0MFhuSld4d2pSVVBhaldlNzE2a2pneTJDZGc?oc=5",
-      "date": "2026-10-12T02:00:26+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "uFFE/2+k2A9D",
       "title": "Bill Gates warns cyberattacks most imminent AI threat - France 24",
       "summary": "Bill Gates warns cyberattacks most imminent AI threat&nbsp;&nbsp;France 24",
@@ -1526,18 +1490,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "WEOrStcmAVGD",
-      "title": "Leading Chinese mathematicians unite behind use of AI in research - South China Morning Post",
-      "summary": "Leading Chinese mathematicians unite behind use of AI in research&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVW9aRHpSSWlJX3Q4SFZIZk5jdWluQ09OM1B1b3dZLTVhVkgyUjMxNXN2TnBJWTQ2NE1DQlNnVnZWaE8wdk5zSExGOER2X0tRMDlnMWlQN3NQRmpIdV80aVNUNDc1amZ6UUdJTU9wWHpyWVBsdFQ2S0hzVk1CR2dFLUh3TmJ4b2JUQXZWOFViUVlwMkd6UjlCVzVudXo2eDRyUlNHaUZYanpaOW0yYzVpdWl1enNHd9IBtgFBVV95cUxNRDJwQVJqTkNqMmttNGY2cUtyOTF5RFYzdkVLby1NWHdnT2tTbDNfSVZ4WnZ4VjBqSGZsdmY4R2doRDliOE4wS1dqUlFjUm1nZml3SWg5M2ZEWkZQamZtNUdjcXpLNjhwZEJMTTRLbE1XcGpIU2FIZmlJYXBHc2p1TVF3NGJTZXZDQmRLeWg2cGgwc2pkUVVWYnpCNE44X0JjWkk3RGF6MGRpUzRmMEoyOFRxUGJwdw?oc=5",
-      "date": "2026-10-11T12:00:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
