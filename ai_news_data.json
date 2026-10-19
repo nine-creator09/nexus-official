@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-19T03:21:48.241532+00:00",
-  "articleCount": 121,
+  "generated": "2026-10-19T12:12:07.717709+00:00",
+  "articleCount": 122,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 1
+      "count": 2
     },
     "ars": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 5
+      "count": 6
     },
     "bbc": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "france24": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "reuters": {
       "status": "ok",
@@ -65,11 +65,35 @@
   },
   "articles": [
     {
-      "id": "T8S74MR24OvC",
-      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
-      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19T03:17:46+00:00",
+      "id": "+hjvnZNZl+w8",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "date": "2026-10-19T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "RqihcjdHMVtV",
+      "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
+      "summary": "The $48bn giveaway comes amid concerns about the tech and preparations for a stock market listingAnthropic has said it will commit 5% of its shares to a fund for the “public good”, as the AI developer",
+      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
+      "date": "2026-10-19T11:10:34+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "CdyB4UsJQWcB",
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19T09:38:25+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
@@ -77,16 +101,52 @@
       "articleLang": "en"
     },
     {
-      "id": "wp+LU2SYHRq6",
-      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
-      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19T02:41:41+00:00",
+      "id": "SOqrdiRd8kN7",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini",
+      "link": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "date": "2026-10-19T09:08:05+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "TGAmv56xKUq6",
+      "title": "Disney Asked Character.AI to Go Bankrupt for a Get-Out-of-Lawsuits Card",
+      "summary": "The entertainment giant hopes to get trust and safety tech, among other IP, from a startup whose chatbots dozens of states allege encouraged minors to self-harm and kill their parents.",
+      "link": "https://www.wired.com/story/disney-asked-characterai-to-go-bankrupt-for-a-get-out-of-lawsuits-card/",
+      "date": "2026-10-19T09:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "aN3AC9p8WPYA",
+      "title": "China's growth accelerates as AI boom helps boost exports",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-19T06:08:02+00:00",
       "source": "BBC Technology",
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
       "articleLang": "en"
+    },
+    {
+      "id": "xxjUXas2r525",
+      "title": "AIエージェントの業務管理、答えは「プロジェクト管理」にある？　NTTテクノクロスの「AI-PMO」構想を基に考察",
+      "summary": "人間とAIエージェントが協働してどのように成果を上げ、目標を達成するか。そのマネジメントはプロジェクト管理の手法で担えないか――。NTTテクノクロスの取り組みから発想したことについて考察する。",
+      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/19/news068.html",
+      "date": "2026-10-19T04:25:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "0zCEm6PNW0ze",
@@ -137,6 +197,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "q5x+LWZKw14I",
+      "title": "COMMENTARY: AI isn’t Asia’s only game in town - Reuters",
+      "summary": "COMMENTARY: AI isn’t Asia’s only game in town&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYUpOVHc3NGYyMUJiTWt5eGJlaXEzcTBXaE5tci1jSS1mV3ZxUzJyZXdzOVBpU0lmQ09KQ01lZ2JUeS10U0s1VW9pODV0SHVhTm90Z1lqdFJZWWgweDJOWUVzbGJadmF2NkdKb08xNW12UU41SktyTGNGTVRBMUhzQ3pBR2FRbnpvUGJPWXJhSnRTSjZZS2tQTXBsVl9TbUgwUy1qMmpxSnNhWjZRTENpMXZSM25PcUkxaUE?oc=5",
+      "date": "2026-10-18T23:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "HdXBHwwMK4Yc",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
       "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
@@ -161,10 +233,10 @@
       "articleLang": "en"
     },
     {
-      "id": "Ier074ZZgzsR",
-      "title": "In Focus | The AI promise was automation. The reality? Managing digital workers - South China Morning Post",
-      "summary": "In Focus | The AI promise was automation. The reality? Managing digital workers&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnJ6bWRRbEVJRDlBWE9wcF9jMmNTaUw2eEpBUWV6eHVTR3JZX181cFBxTGFlXzdKSm9kZDZXZElLT20wNkdJWHIzSUpPUzdyWnZKbk9uemJtbEN1dUswMFQwUVJVLUp2RUpqM0hEZXdVUTJRamZVNWVhRWtnU243UFd0RnZRYW93MkVTZDRkLTdEcENNNjNzdmdUeFZUTkVkTWRDenRONWdkWU1rQlE?oc=5",
+      "id": "GlHmCcM/Q0Ha",
+      "title": "The AI promise was automation. The reality? Managing digital workers - South China Morning Post",
+      "summary": "The AI promise was automation. The reality? Managing digital workers&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnJ6bWRRbEVJRDlBWE9wcF9jMmNTaUw2eEpBUWV6eHVTR3JZX181cFBxTGFlXzdKSm9kZDZXZElLT20wNkdJWHIzSUpPUzdyWnZKbk9uemJtbEN1dUswMFQwUVJVLUp2RUpqM0hEZXdVUTJRamZVNWVhRWtnU243UFd0RnZRYW93MkVTZDRkLTdEcENNNjNzdmdUeFZUTkVkTWRDenRONWdkWU1rQlHSAa4BQVVfeXFMT09CQlZlZlkya09NemhSVE9nUV8tRXE4WDMyWmp0eXY0b1oxYlNJeHIwUF9OUmpSY2tFQU16b2xwMjJoN012MU00OUc1YmREQVRQRGdwU1JXdGFESUEwS1FiOE5pZDlsdzhyZm9uNTVmNC1GNXVpaTFUSGVTbmtBWW9qNnJPVDk1TUNDTHFEb0ZYWU93X0NBRzhhZjZJdFg5NTQxeF9uNkJDemYzUHFn?oc=5",
       "date": "2026-10-18T14:00:08+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -449,6 +521,18 @@
       "articleLang": "en"
     },
     {
+      "id": "LEIZCDkG8xsa",
+      "title": "North Korea tests new AI-equipped torpedo, KCNA says - Reuters",
+      "summary": "North Korea tests new AI-equipped torpedo, KCNA says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTh0MnBUY0FSUC1FdGM2REw2OFBSOVYyd2ZHb212YTFrUmdIRXc3enJINnFqOFRyOEJFN2dCS0wweEhPODlMMGY1dTM5WHM2MlF6Vk1aaEJIZmVEY0hmdkhlaHFJcm1HS3I1NU1xZTZjWDdIdGVFR0s5TWRhRU90bUZGYzNsdXdzSWFsTkxkUjk3aUdiTHJrakhqby1JbVE1bDFZY1N0U1hzdw?oc=5",
+      "date": "2026-10-16T22:26:59+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "7fwl6c9OwIbK",
       "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
       "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
@@ -506,6 +590,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "fDWSQXa5ZGe1",
+      "title": "Why CoreWeave is in the crosshairs of the AI scare - Reuters",
+      "summary": "Why CoreWeave is in the crosshairs of the AI scare&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWDBmSEI4THQ5MFFtQXA5a1YweUdtQ2RIYXJXU0t0SFpiQ2kzbENpUWpVbW9hRU5KY1FiMkZPdDVOcmY3OW5WTVRqTFo1SnZKQmxweEFXeVhkY0ZySUdjQWVoV2p3TEVlbXVSSVBZTnNVbXdNc2Q1bmpzSVFrYXFtTmVhUloyaDRqeHp0NllQZWxDTHFENXhv?oc=5",
+      "date": "2026-10-16T17:51:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -845,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "dLq0GNnTbTCZ",
-      "title": "AstraZeneca strikes $40 million AI drug discovery deal with insitro - Reuters",
-      "summary": "AstraZeneca strikes $40 million AI drug discovery deal with insitro&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaGhDYkZMZ0F5S0ZlU3NudjgxN1Mzb2NQeVFNQ2FCN253aFI4Vzdlb0JMSHZfUm9KaUYxam9Ga01rbUJod29GS3FycDhmQkRSeUNBa3dWZERBbGhmLTlscllTSkR3ajU4MF9zOFJZTFhYX1VnR3N2bVZwSHVnRTVPZWFpd3gtd2NtN2Y5b1ZtTFBqbEJjaEFTeTlIUFRPOGJGUXZCVElUMjVXRmRMNG1uU2NMMERidDIxUFVn?oc=5",
-      "date": "2026-10-15T22:55:09+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "eEky0kU8tPgJ",
       "title": "ChatGPT can peek at your Chrome tabs now",
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op",
@@ -941,18 +1025,6 @@
       "articleLang": "en"
     },
     {
-      "id": "oypRYWcT1RWQ",
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "date": "2026-10-15T19:57:16+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "MNCaWFgD5rF9",
       "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
       "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
@@ -962,18 +1034,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "kChkKWvN1rQB",
-      "title": "Truth or Fake - Fake AI images of protester go viral after woman punched at Trump's Ohio rally - France 24",
-      "summary": "Truth or Fake - Fake AI images of protester go viral after woman punched at Trump's Ohio rally&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVmJHaG9iUHRHRFNFdGZvbU01OThuWUIxZG9NYjhhQkxTY2wydHp1TFh4a1dHekNiS0k1RjlSaEM2enc3QkZoX2VsOXZ0SHBRTlBmNldWaVExUTFOOU9wb3ZPUHVGbG1Bc2l1TGFKeDhRUVVaYmIzZmEyTS1LTVFHTmRGbUVra2Vuckt1Zy1rVjFraWg5QWQtYmRjY0Y5OUdZTDBJU1V5UVhVQQ?oc=5",
-      "date": "2026-10-15T19:47:44+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -1001,9 +1061,9 @@
       "articleLang": "en"
     },
     {
-      "id": "3if+T1KW7//4",
-      "title": "AI is much hyped, frequently feared, and possibly overrated - dw.com",
-      "summary": "AI is much hyped, frequently feared, and possibly overrated&nbsp;&nbsp;dw.com",
+      "id": "Cnl2RI0dmOdB",
+      "title": "AI is much hyped, frequently feared, and possibly overrated - DW.com",
+      "summary": "AI is much hyped, frequently feared, and possibly overrated&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDZ1dTVxV3pMLXluLUJSRXcxeDIzMEktQzZLQkx4MS1FaDRRdjJYd1dEd3FURFhrTEgtb2Z0T2hpN1VlQVhyb1JSRjY1TUVaSTlkQ1pPNGROclMtT00yY0doZ2ZnSzNaOThYMkxkNF9RRjloRTl2X3lVRUtzV3pCcnp1T1ZvSlRpaFEtQk9SX1ktcWZ5SmxiQnNB?oc=5",
       "date": "2026-10-15T18:57:25+00:00",
       "source": "DW Tech",
@@ -1061,18 +1121,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TsCyiIF3YgRN",
-      "title": "Germany plans AI cooperation deal with Nvidia, Handelsblatt says - Reuters",
-      "summary": "Germany plans AI cooperation deal with Nvidia, Handelsblatt says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMENmUllvcDNtemJGTUdXYlh1UWRmNUVLTzNreFJOSWtKZVowMHk1WHMzNmwweHY2NVJZU2hxR0NOa3BVOG80YXN2SWN0U3J0R1RjYzc5blkzdVBsaTZhVDFCc3dyNUl0QVhpY0Q4OUdsZi05UU5xTEdCQXBVdGJWRVl3R0ZnTUhIeE5PdVItY0RvVHBWYXNsVlV5OGFQNGtCSkVYWFdXa0ttSWVf?oc=5",
-      "date": "2026-10-15T16:29:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "bRdDGu/7ekNY",
       "title": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events - Reuters",
       "summary": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events&nbsp;&nbsp;Reuters",
@@ -1106,18 +1154,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "UniqtZ/BGack",
-      "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
-      "summary": "Chip makers and tech investors such as Samsung and SoftBank plunge as potential interest rate hikes spook marketsBusiness news – live updatesLarry Elliott: the global economy is muddling through. But",
-      "link": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
-      "date": "2026-10-15T14:33:12+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1178,18 +1214,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "A3swPXK2d+eu",
-      "title": "Is your boss watching you? The rise of AI surveillance at work - video",
-      "summary": "Workers have always been monitored by their bosses, first through output targets, and then via computer software labelled ‘bossware’. But AI is transforming the capabilities of these systems, processi",
-      "link": "https://www.theguardian.com/science/video/2026/oct/15/is-your-boss-watching-you-the-rise-of-ai-surveillance-at-work-video",
-      "date": "2026-10-15T11:10:25+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1277,10 +1301,10 @@
       "articleLang": "en"
     },
     {
-      "id": "wSGkAKdzq1RT",
-      "title": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources - South China Morning Post",
-      "summary": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVV5dVB5dEpkdEMtUkNiT29kS0ZWanpqdVBOaTI1UnVJRER4cWdXR2syNXFMMjNod09kdy1yVHB0OG9TQzlYeFFRaVFHQ1FWMFF4Y0JfNnNObzNXcmI4b0N2TElBUWtQRHhjaWtmeEU5U0FlbE5OM1E1TTRRTklCajNtRGVVSktBWDJOM2tVb1cwbFZLdERON1JSQ2lEdmIzbnZXem5BVHh2c3FQZHZwYWE2am9RYTJzazlSU25XRGNDam0ybTFRMWFRVE80QdIBzgFBVV95cUxNSXpXa0ZUSE9BNmhNV1RDWUJ3eUxrcjhPeDdsQlBmVnByaWtCZUV5anVXdlZCbnhGMTZYdlpnVWpmNGlYa2xMaU5Ic1gxUm44T1ZfSU5feWpNZkRvZXFwb1Z0ZUs0TG13WmthenZJbjJody1aeU9QNkFFQ3RCV0lCYU1fWkMtRXNvMlk1MGc3ZmZjMVM4cjg0dUJrX2puTExMODNvTzI5dklSUGNZOVk4NFU3Y3lpWmtSQ3I2UC1rOGdVRmI0aVloeEFXVDFCQQ?oc=5",
+      "id": "ejkGFGYqbqdO",
+      "title": "Exclusive | US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say - South China Morning Post",
+      "summary": "Exclusive | US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVV5dVB5dEpkdEMtUkNiT29kS0ZWanpqdVBOaTI1UnVJRER4cWdXR2syNXFMMjNod09kdy1yVHB0OG9TQzlYeFFRaVFHQ1FWMFF4Y0JfNnNObzNXcmI4b0N2TElBUWtQRHhjaWtmeEU5U0FlbE5OM1E1TTRRTklCajNtRGVVSktBWDJOM2tVb1cwbFZLdERON1JSQ2lEdmIzbnZXem5BVHh2c3FQZHZwYWE2am9RYTJzazlSU25XRGNDam0ybTFRMWFRVE80QQ?oc=5",
       "date": "2026-10-15T01:00:22+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1361,6 +1385,18 @@
       "articleLang": "en"
     },
     {
+      "id": "GVqp1ZPPWdbn",
+      "title": "AI risks could repeat China shock that cost jobs, former US commerce chief warns - South China Morning Post",
+      "summary": "AI risks could repeat China shock that cost jobs, former US commerce chief warns&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUVllMThwaFpaNkVjVjFuREtkcXBZYjVocnJsdkRQSHNlSm1uMGlGR0J3UkhrMENxeXh1N3IxMVJDS3hiV2NhaU1jd3M3SHotUEtrSVZ2MXdkd3BZVGJBLXhYcjFES3FwLWJBeTVpbjFwSWk0aC1XYUNFVW5tM3RZMGFMSi1tb3otenZGanZ3N1NyUkF4VjdQUHZ1NHY1T05kRkhNNlRCYXhQQjNONk91Q001UlI5bDVteHYwS015cnhtT3fSAcMBQVVfeXFMTTVlS3NJSzNGUHBlYTVCQnNsbW5NcVp0Rjc1SHN0QWNfQlJ4bDBSdWRwaU9qYUlGU0ZKWGpXVm9uRElodmNaTV8xa1VnTzV5djJwU0ZBZm0yWXpfTC1zeEw5WkNnRTd2R0F6cWV1VlRYRzJjQTQwWm9HSEQ4eE5mNDVPbWFhVExEeWJSSmJxLUpVMXA5N09tMjZ4ekJlQUtCazdrdmJLMzNyNS1ZRWNTRFhYZlJvR2Ftc0t5dHJENEtOclhR?oc=5",
+      "date": "2026-10-14T13:00:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "DtPDIiKMbWf5",
       "title": "AI-assisted song climbs Korean charts as copyright rules struggle to keep pace - The Korea Herald",
       "summary": "AI-assisted song climbs Korean charts as copyright rules struggle to keep pace&nbsp;&nbsp;The Korea Herald",
@@ -1393,18 +1429,6 @@
       "source": "Ars Technica",
       "key": "ars",
       "cls": "src-ars",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "0QWlW8085ii+",
-      "title": "My Friend Has No Soul",
-      "summary": "The second iteration of the viral Friend AI necklace is louder and less interesting.",
-      "link": "https://www.wired.com/story/my-friend-has-no-soul/",
-      "date": "2026-10-14T11:00:00+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -1454,18 +1478,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "qxeEYiqMjeZc",
-      "title": "Brutal session for chip stocks shows AI trade is turning - Reuters",
-      "summary": "Brutal session for chip stocks shows AI trade is turning&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM1RJWWJHTmtIMnhaYWVyeFFpYV8wZndZMUFOVXM2NkpJdUNfRGlyQzdHeVcwMXkxcXkyWFFZQ3hXS3RpM0NqZUtNcmxNd3NkSGZETmlvTjRRYjJ3X3BXa0FEamh0NDExSTZieGRHam9BdFBiZXdOcTBSUXRPNlFEeTVKOEtkN3JiV25QUEsyekp0OTJRaU5nVA?oc=5",
-      "date": "2026-10-13T18:04:55+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
