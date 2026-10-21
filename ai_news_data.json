@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-21T03:24:47.983992+00:00",
-  "articleCount": 116,
+  "generated": "2026-10-21T11:12:17.645544+00:00",
+  "articleCount": 113,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -16,7 +16,7 @@
     },
     "ars": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "venturebeat": {
       "status": "ok",
@@ -24,11 +24,11 @@
     },
     "wired": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 11
+      "count": 9
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 19
+      "count": 16
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "md/FAUBc20Y8",
+      "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "summary": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "link": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
+      "date": "2026-10-21T10:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bdbq71q+pF5h",
+      "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in The Way",
+      "summary": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany. Across Europe, policymakers are weighing AI ambitions against climate objectives.",
+      "link": "https://www.wired.com/story/europe-data-centers-climate-change/",
+      "date": "2026-10-21T08:30:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "d6djd3KrFTCA",
+      "title": "「政府機関向けGemini」登場　米国政府・自治体と共同開発　データをプライベートクラウドに保持",
+      "summary": "Google Cloudが米政府機関向け「Gemini for government services」をプレビュー公開。州政府や連邦機関と共同開発し、データは機関のプライベートな環境に保持、許可なく学習に使わないとうたう。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/",
+      "date": "2026-10-21T07:41:52+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "GZ03mqhkB5Sp",
+      "title": "DeepSeek seeks ‘total victory’ with new open-source tool to slash AI cost - South China Morning Post",
+      "summary": "DeepSeek seeks ‘total victory’ with new open-source tool to slash AI cost&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXFBckZ0NnY0WmJlNE12RXNpWFJKVUs2MmxaeTNZY2otWWRPMFNzeFlOaUE1VDFyNEo3MEszMU5sbHBGVzhxNE5fel9xUDFqdUVLUy03cDJHYUk4MzFFQkQzWkIxQmcwZzVYUkNRdmdvSXhpQ1lKdG5ZdlJUTXZ3dlp4Y0RpVFRPN0hxVzJBNkxGSkM3bEo2MU45SHZRMUR4MjVjUU9oNThFejZTb0czaFlXY3NTN1J1U1ZELVNHWWJvcmlDLUdpSkNMc9IBywFBVV95cUxPVW5Gay1kMUJNNEU3MzQ3dGI4c04ySWFlMEt0OUw3d3pYSUdwMkFxTkp1OGpyWHNCa2Vpc2YxOU1PNEU0ZFdNS0JKeXBuRlZHVktXVE9ySy0xMW9iQ2hBV29HX0VCLVYyenp4MHUtR3ROVUEyeHZxYV9BUE5sbmVwYWM3Nk1aUGlwNGJxWWZvWHpTRFlveVlTWHhObDUyWG1sTTJGS3dTcTJYZVhqanNYY0J5Vklyb2FjOTB2LVRUOUhTdURfcGJydXAxWQ?oc=5",
+      "date": "2026-10-21T05:03:27+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "yFAizo96hLyY",
+      "title": "AIに200万円渡してネットショップを1年運営させてみた──Alibabaの研究者らがシミュレーション　資産14倍の例も",
+      "summary": "中国AlibabaのQwenチームや香港科技大学（HKUST）などに所属する研究者らが発表した論文「E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation」は、AIモデルに1年間のネットショップ経営を任せ、その長期的なビジネス運用能力を検証した研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/article/2610/21/2000002421/",
+      "date": "2026-10-21T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "YXgX65EZ7nVm",
       "title": "「Gemini Notebook」で始める「AI×自動化」実践ガイド",
@@ -87,6 +147,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "NxeZ8Q2yqaNG",
+      "title": "Japan exports rise 16.7% in September as AI chip demand powers trade - Reuters",
+      "summary": "Japan exports rise 16.7% in September as AI chip demand powers trade&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekhvQVFDR1c2NlRtV3BYYXdpSkpUYl9qVWthYmc5a1E3RkNrZTRpTFQxREtzSGs2NjN0ZzZNeHZTQnItZFFNeTZtMks1TmJwQm5KcDZha2d3WUw2NDBVXzRkN1JkMEJwVmlxOWxhXzg1dXdxOWxPLWg2R3BLREN5UlRZaUZ4aGJ5Z3M1dDBlMUtoOHN5eFQyYXFjSmdfUEI5ekFYYS1GS0tHSGJ5MjlV?oc=5",
+      "date": "2026-10-21T00:17:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "kgvUEVJEeId0",
@@ -115,13 +187,25 @@
     {
       "id": "ix3pGzH3sjBz",
       "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+      "summary": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
       "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "date": "2026-10-20T23:01:23+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "GJOjHd00IkoV",
+      "title": "AI data center projects boost US warehouse demand and rents, real estate company JLL says - Reuters",
+      "summary": "AI data center projects boost US warehouse demand and rents, real estate company JLL says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWU5WMjhadm4wRHVRWV9HcTFWbWFhVHJkalVBeF8tTDJCRWliVWxfZGl2OG1FbDFCeE1sZ0NSNEFPSjJPc0hzNE11SWVlMmwxOUw0WUhCQ2l1TEVKTU5SRFNDdG9KUUE2THVjUXUxU3lHTjhyd21vUlowSXpxb0VpUHQzYllZUlRqM2pKOGlON090YS1ESEpfYmJfdTd1anJNbzZud1c1QlhQbVBYeHA3M0JjX3o1aW1IWGVPbjNUU1ZYaHpIaERnZXh2c0xGVzZvdWl1TVRmbw?oc=5",
+      "date": "2026-10-20T22:55:47+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -139,7 +223,7 @@
     {
       "id": "4JoHA/Ivi3pj",
       "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
-      "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+      "summary": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
       "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "date": "2026-10-20T22:24:02+00:00",
       "source": "TechCrunch",
@@ -175,7 +259,7 @@
     {
       "id": "s97HnGMbov1Y",
       "title": "SpaceX’s AI business is beating expectations",
-      "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "summary": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.",
       "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "date": "2026-10-20T20:40:41+00:00",
       "source": "TechCrunch",
@@ -653,18 +737,6 @@
       "articleLang": "en"
     },
     {
-      "id": "nZx2+yRyNdIl",
-      "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft - South China Morning Post",
-      "summary": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
-      "date": "2026-10-19T22:36:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "PzBXrrJzp0vw",
       "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
       "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photographDoctors have developed an artificial intelligence tool that can predict a cancer patient’s",
@@ -909,7 +981,7 @@
       "title": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites - Reuters",
       "summary": "EXCLUSIVE: How one hacker used AI agents and a few thousand dollars to break into scores of sites&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSUVKUWRvY0tQeUZscHhGcDBLYjI5VVZaYXRFRklFbmEzX29RaVFuMmt6cDlpMURENUtWRFpBQVBnNngwcWJla3NJZllZVDFBb2NKU21YUnBkMTNKb1NEM3BNLXk2OXpVbVpyZXM3NHVaOUNrWGZzRWhGQlRFSDhPa0E4TVdCTnBuZjNBS2R2UU9ySzV1c2hCbUVycmFHUTNpVk1vX0kxSEEyMUllRlpsakRfNEdZUlJUWVBVRTFqYkZiYm5jR1E?oc=5",
-      "date": "2026-10-19T10:04:00+00:00",
+      "date": "2026-10-19T10:11:36+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1121,18 +1193,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7fwl6c9OwIbK",
-      "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
-      "summary": "The short-lived White House press secretary was listed as an adviser to a Kristi Noem–linked company that aims to use AI for mining. Both the company and she say she never worked there.",
-      "link": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
-      "date": "2026-10-16T20:05:08+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "tMxsWjVd2hHo",
       "title": "Beijing seeks tighter grip on AI exports amid US rivalry - Reuters",
       "summary": "Beijing seeks tighter grip on AI exports amid US rivalry&nbsp;&nbsp;Reuters",
@@ -1232,7 +1292,7 @@
       "id": "fxCoOdQPMyVf",
       "title": "China mulls new tech export bans covering AI, biotechnology and solar power - South China Morning Post",
       "summary": "China mulls new tech export bans covering AI, biotechnology and solar power&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5",
       "date": "2026-10-16T08:31:39+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1301,30 +1361,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bRdDGu/7ekNY",
-      "title": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events - Reuters",
-      "summary": "Breakingviews - COMMENTARY: AI boom stumbles over white swan events&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTlZeXJxOEtPVGJnZ3c4bjY5NnRTSko5WHlRUVZxM2NnWTEzZjZkdXI2N3JOVmhTNUMtYW5RV1JJNnNSdFdEX0t4M0ZvX0xXQjY3NjFPNkpJSmQ3Z05pSmpCalFvYWFtaS1BS0VCVUwxdkViZi1HYjRsUlNpUGw2TkVzYl9BdzZHSzdJZExlZlVYYjhXb1luTFdGVWV6YXlOUlE?oc=5",
-      "date": "2026-10-15T15:57:21+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "ay5rwhVUQzIj",
-      "title": "Doris Dörrie's new film considers ageing and dying in AI era - DW.com",
-      "summary": "Doris Dörrie's new film considers ageing and dying in AI era&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVFBQc2NJeGlCbkpiOXdVUmhZYTJZWWhYSkZvTGd5VjdIeWg2SV9tMGlybVZvRDdBLV9QbVZlNW8xU3ZaeWdyeHVfbUw1LVhONlc0YjM0NzZJWk1WLXE5T2t2SUI4ckNuZlFqRHJXRWh6Qm1OR21wUHhUNExFX1hocjFac3FsUzY1TzhyQTVfRjVWcm5PU0h1ZnRhVHhPOGFTRkN6MmRTMFAtUXR5cXlxUXJ30gGyAUFVX3lxTE9yLU9KMjJMRVZxM1dqUHRNSllMcHZjSzBteEtpWnBaNzlFVUIzXzNfVFZVeU9YZUU5My1yN0RnQmtMZWdzTTRtV3p1VU5GSUg1UnA1bkRGM2ZFTm1iczZ2aU9VbE9oVXlyNzBoQlA5QlpVdnNCN0JkVUNvZm1CdFBMbmpKZGxReVVYNkFGTE16cmVKOVpEcEdmTU53UjdWZUNqRjdYQ2lCdXRMQWkwM0YyWnc?oc=5",
-      "date": "2026-10-15T14:16:12+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "LDHyKDHuiu43",
       "title": "AI farming: Rwanda, Ghana and Morocco show what's possible - DW.com",
       "summary": "AI farming: Rwanda, Ghana and Morocco show what's possible&nbsp;&nbsp;DW.com",
@@ -1361,42 +1397,6 @@
       "articleLang": "en"
     },
     {
-      "id": "pfNUvSmo/AD4",
-      "title": "Macroscope | Why the AI investment boom could spark the next financial crisis - South China Morning Post",
-      "summary": "Macroscope | Why the AI investment boom could spark the next financial crisis&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeGw2dV91UTc1c19rcDM4ZHRsX2UwUFBSZjU3a3B3TzV6RDdyczA3d0JEb3IyODBINy1KdE5ZWWhEVWRBV01GbTR6NXRLUmlCWWxwbmRHZnVFZG5XdVdZRndSRXBFWWNrYm9YVDBLTUFVOG1aeHZIQ1p5MzU0VUJRYzJuamZ4eWxnTEVMQmhpc3d2UlgySVNTVXhsTlpTYzFQX014dWJzLXFHS0NyZTN0RVpOaG1Od9IBtgFBVV95cUxNVko3MHlDd3VvMlVUX2tXTWU4djBCZkd6cmZCRWJnSU5rYVFMVFRVamhvNkRIbUd1SFFaTHNfN0txMWZ0TVFRSkY2a19ic0RQWnV5TElNZW5FVzE2SVp4WWFKZXgxODZ3VmwySjMtVWNfY1ptUVZTMGVVdWJQTVdFOXp5dENwMUppRWpvSDNjbnJ5VlAxVlQ2OXlPaG1VMlJJM19RYXM3M2U1djdkSUlrZ3h5NzlZUQ?oc=5",
-      "date": "2026-10-15T08:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "fZT20C5xllsk",
-      "title": "Global financial watchdog calls for more human oversight of agentic AI - Reuters",
-      "summary": "Global financial watchdog calls for more human oversight of agentic AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWGFNeG9sS1g2RElieWFWS1l0a3FPSmRqT1BkSXpDbHc5LW9qY3c1UGFONlZNMHdGMHFPR1JPMzk2Rlg5OVlEM0pwaU5CZ2hyN3lzWTdPWVd2UlFaOVZPVVM4U1dPUzFFc2lEOU5hZ0V3ZG1ONm5LUHc5OUc3VVVHOHNNUUctRWNWQktSOGFDS01YUFd1Q1Atczh0ZFBlSlNGOGhNWTVWa2NPeE0wZDJqV2hyWkFoNDQ?oc=5",
-      "date": "2026-10-15T04:06:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "wSGkAKdzq1RT",
-      "title": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources - South China Morning Post",
-      "summary": "Exclusive | US, China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen: sources&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUVV5dVB5dEpkdEMtUkNiT29kS0ZWanpqdVBOaTI1UnVJRER4cWdXR2syNXFMMjNod09kdy1yVHB0OG9TQzlYeFFRaVFHQ1FWMFF4Y0JfNnNObzNXcmI4b0N2TElBUWtQRHhjaWtmeEU5U0FlbE5OM1E1TTRRTklCajNtRGVVSktBWDJOM2tVb1cwbFZLdERON1JSQ2lEdmIzbnZXem5BVHh2c3FQZHZwYWE2am9RYTJzazlSU25XRGNDam0ybTFRMWFRVE80QdIBzgFBVV95cUxNSXpXa0ZUSE9BNmhNV1RDWUJ3eUxrcjhPeDdsQlBmVnByaWtCZUV5anVXdlZCbnhGMTZYdlpnVWpmNGlYa2xMaU5Ic1gxUm44T1ZfSU5feWpNZkRvZXFwb1Z0ZUs0TG13WmthenZJbjJody1aeU9QNkFFQ3RCV0lCYU1fWkMtRXNvMlk1MGc3ZmZjMVM4cjg0dUJrX2puTExMODNvTzI5dklSUGNZOVk4NFU3Y3lpWmtSQ3I2UC1rOGdVRmI0aVloeEFXVDFCQQ?oc=5",
-      "date": "2026-10-15T01:00:22+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "/EGNYkp1SmBC",
       "title": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack - Truth or Fake - France 24",
       "summary": "Trump sparks outrage over AI tiger video after sharing footage of fatal UK attack - Truth or Fake&nbsp;&nbsp;France 24",
@@ -1418,42 +1418,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "Ni8La2wt4rWp",
-      "title": "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets - South China Morning Post",
-      "summary": "China approves Alibaba AI models for use in iPhone Duo and other Apple handsets&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQejNmSGsxcXJaTlUteER2Rkh6RVZiQ0VxVUE0b1Rlc2tJdmx4RmtjSU44OGNwanFNREZwUjNmdnR5NGVScUpFSjJJZTBQOTFiR25kaXAwbTJDakNfa3ZFYmNRQmVZUHdMcm1sQUpSSjFBeHJfTXFWUGwxb2xGTXRWTU5EVnFyQnppYlY3UHpaaERaZXNLSVZHRzIxTGU0REtPenhKSVRma3lDNFJfZjJieGhVN1VVY3ZIcV9MbVFVdWLSAcABQVVfeXFMTjZ0SVptZnpvRXlHRFZWLUlOamc3MTBjZXRiaTVBemJhSmV3MFhwY1hmdzB5NTNkQnJQYlhIZzQySWFNMTlpaWJYN3hxS1JNYnI2RFZ6T1lndUVzYmpfT1BNRTk2VmlPZ0YxRzI3ZWZvSTlIMy1QQV9WMzJsa2ZWcjd5d0lDWWZRTUplQXhmWldXbFZYRV83SDZscEs2ZlpGYlFnWURrMmd6TmhLSGxiV256eS1iZEloQUU1MGQ0X1lP?oc=5",
-      "date": "2026-10-14T11:06:20+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "n+83iTWkThle",
-      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-      "summary": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
-      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-      "date": "2026-10-14T11:00:30+00:00",
-      "source": "Ars Technica",
-      "key": "ars",
-      "cls": "src-ars",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "kZx/6qvYEfLw",
-      "title": "OpenAI says employee caught planting listening device - DW.com",
-      "summary": "OpenAI says employee caught planting listening device&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlU3Z6SEpSd0V3NmtRM1pfRk9IUW1JdDNmQlZsMGw3V1lNT2xkcHZtV3BSUm82NHFtSEtIY3ZISXBWRjdGRXI4YjlNWEhxVFQ1YzFVNkRuZWdwX2sySjA5dDJDMWY0ejZxRTlYWE1sQzhpNDdsbjJlSVlhWUtseTDSAX9BVV95cUxPWkZKZWwxLVQ0WWpJY2JfZm15SUtxbWVXUjNrMGxZZ0stSnRYZmY4eExFMEdDczFQX0FyTHNQc1hveTc2OG1VVGdRNDdSMk5Jb0htcUtLSXRLRDA0bzhYbGMxc01RekhLelFHREdxb2h5QlZlWWNXcXNtakNzYlo0?oc=5",
-      "date": "2026-10-14T10:04:27+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
