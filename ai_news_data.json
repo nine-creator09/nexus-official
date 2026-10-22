@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-22T03:23:35.788837+00:00",
-  "articleCount": 123,
+  "generated": "2026-10-22T11:11:38.698911+00:00",
+  "articleCount": 124,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -12,7 +12,7 @@
     },
     "mit": {
       "status": "ok",
-      "count": 0
+      "count": 2
     },
     "ars": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "guardian": {
       "status": "ok",
@@ -65,6 +65,102 @@
   },
   "articles": [
     {
+      "id": "aKwXKapyaG9I",
+      "title": "'500 new vulnerabilities' found in government, says AI minister",
+      "summary": "'500 new vulnerabilities' found in government, says AI minister",
+      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-22T10:08:44+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "L/mgiyICh/AV",
+      "title": "Making the case for context-aware AI",
+      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
+      "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+      "date": "2026-10-22T10:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "f/qcZ78iPc0t",
+      "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+      "date": "2026-10-22T10:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "bbdNj7eBBHLt",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "date": "2026-10-22T08:41:18+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "raW1qlxvT+Zw",
+      "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+      "summary": "Equating to the loss of 5% of its 93,000 global staff, job cuts come as bank announces jump in quarterly profitsBusiness live – latest updatesBarclays is cutting 5,000 jobs as part of wider cost-savin",
+      "link": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+      "date": "2026-10-22T08:40:42+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "t6fJt+G/pllU",
+      "title": "Poland to become second EU member of global healthcare AI network - Reuters",
+      "summary": "Poland to become second EU member of global healthcare AI network&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQm0wN2VGQnFGRURWQVB6dUlMTkxmdGZ5cW1ST0ZYY25hUzMwSkpWbkRndUtqc2hoRlR0bDFuUUhUdEk3bGNMU21hYS1ZUDFsZ0JZRHhfa3V6MVoxakZMRURzTTZrWXRubTRIaEpDNk50ZUc0NDZyWXZGcHowRnIxUFJpRms1SzFwTEdRRmE3UmduQVdVbk1rSnBrZU9PcVQ1WF9oOERmY3JLTzg0ek9Qdlc1cE0ySWNoMGlyTVM4eURJamh1NEdfaXpUNA?oc=5",
+      "date": "2026-10-22T07:02:02+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "h5fx+0z9IeC3",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-22T06:24:59+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Etmtfhqn4Qwx",
+      "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+      "summary": "Exclusive: Nvidia, Microsoft and Cisco taskforce urges ministers to offer areas greater benefits from tech infrastructure amid fears of US-style oppositionAI companies have told ministers they have 12",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "date": "2026-10-22T05:00:08+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "FUkGl7loJGZ5",
       "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開　OpenSSHの修正にも貢献",
       "summary": "Anthropicは、AIモデル「Claude」でソフトウェアの攻撃対象領域を分析・縮小する研究結果を公開した。オープンソース25件を分析し、設定矛盾など493件の問題を特定。「OpenSSH」では、認証前に到達可能なコードを約5分の1削減し、最新版に対策が反映された。手法は脆弱性検出サービス「OSS Scanner」に組み込まれる。",
@@ -75,6 +171,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "ETreXeBeHSPM",
+      "title": "DeepSeek wrapping up $15 billion fundraising to fuel AI race - Reuters",
+      "summary": "DeepSeek wrapping up $15 billion fundraising to fuel AI race&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQkI4b1B0WkYzUnhGdTF6b0VTRnBCWjRxelF3Q2g4VlRjTzNUOFFTZUhrM3VHSWs2M1VpWkZqN0FleF9JREgzdXpEWFNHM0VvSXhhNm5pdHRXZkRrNUR0UGFJVUMzRjNDWWRwZ0ZtOEsyMm93VU82Rno1R3FxQTNxMllyeWh2YnJRY19hUjZMbExjank3YUg5anFYdjRHRUdnSlN3cFMwMU9TLVBDSldIYUpUdy1vYTdtS3RHTnphNU1KYTdtYWVzNFFR?oc=5",
+      "date": "2026-10-22T02:46:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "eVSR5KOVh+eP",
@@ -209,9 +317,21 @@
       "articleLang": "en"
     },
     {
+      "id": "zhzXmpj3HcR4",
+      "title": "Walmart launches tools for AI agents to shop for customers - Reuters",
+      "summary": "Walmart launches tools for AI agents to shop for customers&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQmtSSlFFOWZ0ZnlfU0YyQXZBR3l6VjNvdjFtanMtdkdHOFctdFdVTld2a0M4cUlEZmNaS3hnV1ZTdzc1WnQ2RVl4NG1BbVQ1MzUwZV9KWlgzWEFsRGhLOFUzVHdnQzE5VDhBWWx4NU9OZ1ZkNUJ6ZFlSdFBpOXJ1ZmhvaFM0VEVxcDV0MDNUeklPQ0Q5R1pJNVU5ZkdieFlIQkE?oc=5",
+      "date": "2026-10-21T21:29:49+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "tx2gwuahzrSu",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "date": "2026-10-21T21:14:19+00:00",
       "source": "TechCrunch",
@@ -497,6 +617,18 @@
       "articleLang": "en"
     },
     {
+      "id": "am+dzdE/K/vZ",
+      "title": "Chinese mathematician Sun Zhiwei proposes 1,000 problems to challenge AI - South China Morning Post",
+      "summary": "Chinese mathematician Sun Zhiwei proposes 1,000 problems to challenge AI&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbV92SzFta2VZcml1VXJjbkY4dndVLW03dFdmeVlGUEpIbVZTc056UmZvZW5xclI4eTRyaDJVaFJGMExFYmNabUVPUDhGSm8zYmFLQzRvSG8xUWRRamNTYWhfeHFmRWpWV29yTE9ocUMtTUhxUTVpZDBtMmlBeFVQdUUyY0VXVE9jYUFyY2JtenFzdU1jN2JRcVRXTFRLZ0NtN2l2N0lDazl1eS1nazZtRGNDWWtFQUhvQkpJWTNKZGpNUdIBwgFBVV95cUxNcGxlT0puTXV3U211TW9WSUsyYUsyS0NyR2YxMEszRkQ5amdlUWNPUFFuTjdjb0MtbGswRXRNemY4eEVnMXVfb0Y3QUk3MWo4OG5JM3Q1UFg1MkVVYWVGMVhWVEpadXQ4eFpOTUtpQmI0SkplQ3B6Snc1Rm5vUUVVSkRzOTFiUDhza2xQVnpXT1RNdlNYRlJGNEpRN0FiN2xJSmdXNHRlTE1QY3hCXzloVHZiaTlRTV81MG5UemhpdTR1QQ?oc=5",
+      "date": "2026-10-21T12:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "2fMehJMxVVlb",
       "title": "Macron says world leaders have made 'stupid' comments on France riots based on fake AI videos - France 24",
       "summary": "Macron says world leaders have made 'stupid' comments on France riots based on fake AI videos&nbsp;&nbsp;France 24",
@@ -602,6 +734,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "NxeZ8Q2yqaNG",
+      "title": "Japan exports rise 16.7% in September as AI chip demand powers trade - Reuters",
+      "summary": "Japan exports rise 16.7% in September as AI chip demand powers trade&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPekhvQVFDR1c2NlRtV3BYYXdpSkpUYl9qVWthYmc5a1E3RkNrZTRpTFQxREtzSGs2NjN0ZzZNeHZTQnItZFFNeTZtMks1TmJwQm5KcDZha2d3WUw2NDBVXzRkN1JkMEJwVmlxOWxhXzg1dXdxOWxPLWg2R3BLREN5UlRZaUZ4aGJ5Z3M1dDBlMUtoOHN5eFQyYXFjSmdfUEI5ekFYYS1GS0tHSGJ5MjlV?oc=5",
+      "date": "2026-10-21T00:17:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -785,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bja4fqOQC9Qe",
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-      "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "date": "2026-10-20T17:41:58+00:00",
-      "source": "Wired",
-      "key": "wired",
-      "cls": "src-wired",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "bSnJDkvnW6LD",
       "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
       "summary": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
@@ -850,6 +982,18 @@
       "summary": "AI startup ASI valued at $3 billion in latest funding round&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWjR1SjBuOXZkbzFpSXdTZHpVc0R5bVhDZlJGNWNEVkZOX3RCeDhSSEg4UkJUWlg0ZWkxNFhIb0VfdExYQWpRblJKSnZaY28tdDEtcU9wSk9xcy1CWTYxal9YRXRqV29FcTdFTlNPLVdpdGJ6VEFOX3Bfb1hGb0J0MUtUVE5LMm1hZ2RWQmdsOUJzTlVuYllaNWs1aE91QQ?oc=5",
       "date": "2026-10-20T15:54:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "cVq3FDn4VEpb",
+      "title": "South Korean firm's debut plunge adds to investor concerns about AI spending - Reuters",
+      "summary": "South Korean firm's debut plunge adds to investor concerns about AI spending&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1JYM3hYdDlsc1JuLWVCVHlKcld3Skc0Y1M0WWgzbk1JNFVJbzhsNU13eVVmSUNTX0hPX1ZGUXotNzVkV3UxTi1yMTlhNm04S2lzODk4NlRhOXFDMUFfb1cxbXd3TzZoZVl3QS00aldHcmNieDZSZ0x1eDlEYjZ5NmRCbWVEeTQwQ2RreWdkb2ljUXB5cDlKalhpTWZ3SnN5ek5pVzlBRWNEQ0d1SVdOREpqMUE1LUZf?oc=5",
+      "date": "2026-10-20T15:10:56+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1061,18 +1205,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cVq3FDn4VEpb",
-      "title": "South Korean firm's debut plunge adds to investor concerns about AI spending - Reuters",
-      "summary": "South Korean firm's debut plunge adds to investor concerns about AI spending&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU1JYM3hYdDlsc1JuLWVCVHlKcld3Skc0Y1M0WWgzbk1JNFVJbzhsNU13eVVmSUNTX0hPX1ZGUXotNzVkV3UxTi1yMTlhNm04S2lzODk4NlRhOXFDMUFfb1cxbXd3TzZoZVl3QS00aldHcmNieDZSZ0x1eDlEYjZ5NmRCbWVEeTQwQ2RreWdkb2ljUXB5cDlKalhpTWZ3SnN5ek5pVzlBRWNEQ0d1SVdOREpqMUE1LUZf?oc=5",
-      "date": "2026-10-20T00:17:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "PzBXrrJzp0vw",
       "title": "New AI tool can predict cancer survival by a single patient selfie, study suggests",
       "summary": "System can estimate a person’s biological age and predict chances of cancer survival from a single photographDoctors have developed an artificial intelligence tool that can predict a cancer patient’s",
@@ -1082,42 +1214,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "I9Yx33dxUNFs",
-      "title": "US banning Chinese AI DeepSeek from government agency IT systems - Reuters",
-      "summary": "US banning Chinese AI DeepSeek from government agency IT systems&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtJNmIzcGdtUF96Zk5qZ1JfRVZJZE9mSnluMVJZMHVXbGpzWUozSVYyVzQ5dldnRU1aMXVEZ2JDOXczRmd0Q01FeDZvVFpyX2phVENGMURyX1VDM0cwd0VyYS1ra0VnYzdxZGFBZkp6VzR1SVRPVkFVYnBUSUNPVHc0OU1FamVXYWh3d0NHeHRKU0w0OE1pcjlfQ09oYXR2N3dycXNXWFFZdw?oc=5",
-      "date": "2026-10-19T21:23:20+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "LMpAce5LeuWW",
-      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
-      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19T21:12:30+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "DFFaaMy0UsSi",
-      "title": "Germany's Merz urges AI investment ahead of Nvidia deal - Reuters",
-      "summary": "Germany's Merz urges AI investment ahead of Nvidia deal&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT09KR2R3TjktZGltSk9PMGtKcGVMeFBuSmR5eTVkMERSbkVuc0d5bGhnanJ2WloyWUtULU1PTkFVQlNhaklmWmJESHF2cEV0Q01YQ3NBb3RxWklLQlNLelBEMzVBSF9nZ09Uc0FjLUhHUmhOeUF1Z0pObndUclVjT0s2Q3Fka2Z6dWltWC1MQ0g5cmo0V1dUeFY0M3hEOE5aSzV3RjdZZ2JFUTU4TEE?oc=5",
-      "date": "2026-10-19T21:11:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1157,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "BTyMdvTIPTja",
-      "title": "US bans China's DeepSeek from government in race for AI dominance",
-      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
-      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19T18:21:54+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "5PIiCVDfgczY",
       "title": "Top hyperscalers likely to have more AI-linked debt than now known, S&P Global warns - Reuters",
       "summary": "Top hyperscalers likely to have more AI-linked debt than now known, S&amp;P Global warns&nbsp;&nbsp;Reuters",
@@ -1178,42 +1262,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Nd/ZDC+4ZRDE",
-      "title": "Calls to strengthen workplace privacy in Australia as employers turn to AI to track staff",
-      "summary": "Monitoring tools common in a range of workplaces, including factories, office jobs, delivery work and in retail – often without employees being informedGet our breaking news email, free app or daily n",
-      "link": "https://www.theguardian.com/technology/2026/oct/20/workplace-privacy-concerns-employers-use-ai-to-monitor-staff",
-      "date": "2026-10-19T14:00:03+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "UH7fdmGwpAbI",
-      "title": "COMMENTARY: Ballooning global imbalances risk amplifying messy AI unwind - Reuters",
-      "summary": "COMMENTARY: Ballooning global imbalances risk amplifying messy AI unwind&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUkJXWk93aWxuTEM4NmVkd2VjSlgtREktVkNGRDBOcnZlV0p5OXZVNUh2VlNnaXZfWlFSWkdoSXN3V2tZVHdCNFlyWjkwQUV1Y3E2SElJeE00Rzh5Wlp4VUxnQVZLTEhOS0lEUnZfbm9pdW5BQkZIV2NaMXNSb1BpS3J6bDE4NVgydFZRejg0MDRJN1RtdGRBR3hoc3JidlR6WlZsTDgtRkxMU3FjQVkyWWROVl9HVC1faHlRRDNnbS1IeXFwZ0pReDNLcGxmMVd0SThKTQ?oc=5",
-      "date": "2026-10-19T13:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "RqihcjdHMVtV",
-      "title": "AI firm Anthropic to commit 5% of shares to fund for ‘public good’",
-      "summary": "The $48bn giveaway comes amid concerns about the tech and as the company prepares for a stock market listingAnthropic has said it will commit 5% of its shares to a fund for the “public good”, as the A",
-      "link": "https://www.theguardian.com/technology/2026/oct/19/ai-firm-anthropic-to-commit-shares-to-fund-for-public-good",
-      "date": "2026-10-19T12:51:04+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1238,18 +1286,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "CdyB4UsJQWcB",
-      "title": "Musk and Anthropic pledge public share giveaways",
-      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
-      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-19T09:38:25+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1421,18 +1457,6 @@
       "articleLang": "en"
     },
     {
-      "id": "uv+iVpl2nkHI",
-      "title": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts - Reuters",
-      "summary": "COMMENTARY: AI jitters, Trump's fading oil clout and China shock 2.0: The financial week in five charts&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT0JUeTlGZHJqb29Dcnp1dEhpLXFEN0EwdG1IX0pzb29pampFTEhISTdSODVqdDd4a2dSRllSSy12YzBHSXR1bmZCVmJyRXFmTl9IN2tDVTkwbWFXa09hTUFhaER0U2hZMkh3YTZwaXlMZzkyUUNMUWtRUW96clBaR3JpNnVFanlyUjFqek1FWTV3TGtqbHRHWDR1RDZZZnBiRFlzdElpcEw3czFJaVkyT3pMLURLQm1FQzhxY0lJdHBUbUYwd25Ralk4R21xb1VQdUdqempCX2lpRUNwbHc?oc=5",
-      "date": "2026-10-16T11:28:34+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "/M6KB5NwSGMW",
       "title": "Focus - How books are being scanned and destroyed to train artificial intelligence - France 24",
       "summary": "Focus - How books are being scanned and destroyed to train artificial intelligence&nbsp;&nbsp;France 24",
@@ -1526,18 +1550,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "WqIk/ohvJeOs",
-      "title": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan - South China Morning Post",
-      "summary": "HSBC to double Hong Kong AI team to 300, outpacing Singapore plan&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmotYmhhZWF5T29za3RLeWFuZ3ptTkdlYm5QUzlJb2VvQlY4UWxac18wU3haSERiVzV6S0djZ1Bpc3V3NEJEVENMQlZPTGJuelBOUWNLZnNqdm9sbkZIMHZ6SzhOSTBXUjBrVU42NGE4QThkb0ZjLU1oNzFoMXJFTzB0MTJ6bHpQM0Q3aDJQWmUyMzJtamlhX2RpVjVoN3pkMG9pNi1sLUtRZmxwUC1uUm5tOTZoa2xxQlhlWdIBvAFBVV95cUxONEVfdHBmdDFTYnE3c1VXSjFLaFhTNkNTZXNDaUtES2YwUnFSTnhYRHkya1hJbzhHZXVZWUNqejBLVnJVYjdPWmZUNDVnNHVHVTdmdGZhTkpKbk1lbDF4RUN5LXYyb3BmNW44SnR3Q3ltV0ZfMnNmZkNHVHB3ZDBtNlNvZk10UzRxNTlaNWdhY0lUX3A3U3kzSFdLeFR4TlNrdVJtNW05dlQ1cV9lQzJlTDZhZ3RrbFBsX25DUw?oc=5",
-      "date": "2026-10-15T08:37:19+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
