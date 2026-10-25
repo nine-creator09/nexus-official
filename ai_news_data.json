@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-24T20:15:35.340344+00:00",
-  "articleCount": 103,
+  "generated": "2026-10-25T03:18:34.489963+00:00",
+  "articleCount": 104,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "techcrunch": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "guardian": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "sR3GCPH88Yu2",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "date": "2026-10-24T21:29:12+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "x5b1rOBpnFBt",
       "title": "‘Synthetic twin’: Why Socceroo Cristian Volpato is the latest footballer to license his AI clone",
@@ -146,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "/CxgU9KcPtLS",
+      "title": "Chase & Status on the upside of AI for music - Reuters",
+      "summary": "Chase & Status on the upside of AI for music&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVRTdVNLdTZONl9PSVpiLVJXTjdHOXlpRG9KejZodFBHcmd4cnU0UUQ0QUl4Tmdva1BkTVNOajdsdUJDTlVxbVI2Q01mSEtYVllRVldkaG5UT0l1bW1GbXVfN25JaXFEUi1saXF3bzhXSkVXYUdmdmkxTzFkZU9PYlo5aG5pRWZnUFFrTWdFeVVNWmlB?oc=5",
+      "date": "2026-10-24T10:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -548,7 +572,7 @@
       "id": "VsMpt+RM0ChI",
       "title": "A real-life Tang dynasty tragedy is the focus of this popular AI microdrama - South China Morning Post",
       "summary": "A real-life Tang dynasty tragedy is the focus of this popular AI microdrama&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnpFUUVfN2Y4MkpKUmN3YU1YRXB4UklzX0Z2YWc3Y05RMEo0ZG44YUx6SE5DU08taExfVEZIaG13VG40VnpiLU9oaUJmdXRGLU0zV1pfRnJMN2RFSXJyeDlPb2V0dHRmbnRuTU9lN1dLUm9QZDhEQUdWMUY2MmdMYlZQejNOUkcxY3RTdVZaWmxTM24tOVBrT0NuYzItdzl0c0pRNkU3RzFiT2tRblIxOEJfS0ljSFA4NGtmWFZzR1FnQ1lBQWdBTU1MONIBywFBVV95cUxQdjNXN0lKMmQ3Ry1qUDNDZTJScVIwZkFhdy05Vm93WDUtYW55dXlUdW0wZDRkblRuamZjMlJOZDVkQzNjdTJqeVBxeGdRY0g3WTlNRjZ4MzVmUnM0RC0yX1F5Rm9kQkEzSjhXeEtzbjhBUWFEWEhKT3FqVGN2NXRfWUFQQ2hMdDZUUk1YYjh0ZXhUX1lUUWY4bVZPcjVTakQxLU10OElQWUo3YzJEMVBVeUp6Y3lTdUc2Z3BWUGVNQzVWTWlCYUJVUUNmOA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnpFUUVfN2Y4MkpKUmN3YU1YRXB4UklzX0Z2YWc3Y05RMEo0ZG44YUx6SE5DU08taExfVEZIaG13VG40VnpiLU9oaUJmdXRGLU0zV1pfRnJMN2RFSXJyeDlPb2V0dHRmbnRuTU9lN1dLUm9QZDhEQUdWMUY2MmdMYlZQejNOUkcxY3RTdVZaWmxTM24tOVBrT0NuYzItdzl0c0pRNkU3RzFiT2tRblIxOEJfS0ljSFA4NGtmWFZzR1FnQ1lBQWdBTU1MOA?oc=5",
       "date": "2026-10-22T23:15:08+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1025,18 +1049,6 @@
       "articleLang": "en"
     },
     {
-      "id": "ftZHTpGEFxMh",
-      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
-      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
-      "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-21T17:04:13+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "/weJ1N61je2K",
       "title": "This Startup Is All In on Recursive Self-Improvement. Its Latest Model Is Scary Good",
       "summary": "Recursive makes the case that the benefits of using AI to build AI outweigh the risks.",
@@ -1094,18 +1106,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "am+dzdE/K/vZ",
-      "title": "Chinese mathematician Sun Zhiwei proposes 1,000 problems to challenge AI - South China Morning Post",
-      "summary": "Chinese mathematician Sun Zhiwei proposes 1,000 problems to challenge AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbV92SzFta2VZcml1VXJjbkY4dndVLW03dFdmeVlGUEpIbVZTc056UmZvZW5xclI4eTRyaDJVaFJGMExFYmNabUVPUDhGSm8zYmFLQzRvSG8xUWRRamNTYWhfeHFmRWpWV29yTE9ocUMtTUhxUTVpZDBtMmlBeFVQdUUyY0VXVE9jYUFyY2JtenFzdU1jN2JRcVRXTFRLZ0NtN2l2N0lDazl1eS1nazZtRGNDWWtFQUhvQkpJWTNKZGpNUQ?oc=5",
-      "date": "2026-10-21T12:00:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1258,6 +1258,18 @@
       "summary": "What exactly is an ‘AI city brain’ and should Hong Kong follow Hangzhou’s lead?&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTzJNb3RKQ2dockk1U2lhWTd5YTZzR1NPMklyWHRiUmhhT2FWcG0yZEVad0MxWkQ4U1lEMDExdmdiYWY2ZlpLREZnR2d6Tldlb2M1V2l5SHlnZnNtc0dQcGxuMEY2d0tBMkNZTVdqNUtRSXNuejh0THBJVUFJVTB1QkZOZERvX0lGeW5XNC1XYWU5NEV0VWRNdW55NlZ5RFJZd3Y1ctIBpAFBVV95cUxPVGpNN3NmRHV5RkI4bkhTclBILWZLb3Y0cW5fNVZEVE1BRGRzN1RraUxaZGU5YUQwS0pBN3ZvM3Y5QlpyT3pFek1sT0tlZVdobVVBSFJvd0lDVzRMblhSMndWbmpGaS1UbFR6XzlrdWFtZGJ0SVR3THNCM01EYjhYZWVvSDdFcnU0YU9tNGZrTE1HX1dmQVhhb205UFFGb2llYlhfVg?oc=5",
       "date": "2026-10-20T00:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "nZx2+yRyNdIl",
+      "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft - South China Morning Post",
+      "summary": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLUlXRzA1YVNhSkh4U0dNMjVIZko0VHFqZHFaTlptUUdPTlFzU25TeFl3dXVnLVBMSGFXWExCMkpQRFpncV9VSjNncEVTTnl2SHB5R0ZmVGJnWUhBQUJXM1hibzdNVk1QVFdrOW1LVjBXQmVzNkN6bi01NFNPeHMtb1R3RkpLbl9XMkVWc2xrOTRKd3ZNUnBVUGdYeTdrNFZ5NEtiVDJ2Mm5tLWQwLTJkeDRuMkRaTU94anFQODZma0VlX0JIa1hzbmlQLXNIVWlYa1VJ0gHTAUFVX3lxTFB3SGxmMDdDZUNibnhKc1RHTGhSNzJZZFptRUh5NmlqRnlmUUE0bTAwMmMyNk15dUN1cTRFUmNqeDB3Nnh6VjdqSThnM3Q5ZmNxdDFRX0ptSjhDUnJLX1AtTEpBWWQwRFA2VzBJX2V6TWJna0IxWVdjVlVjMFpmZ3pVcWtzRV9aazdPeXpMSjcwMUN6NU9IRzZBcFdBeXZBWjlGQUJ6aHUwZEpHRFBmX19lOXg4Z3U3X1E3a3poX2ZGYVRvQ1VGMnhBZ29XZkJMWktuMG8?oc=5",
+      "date": "2026-10-19T22:36:07+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
