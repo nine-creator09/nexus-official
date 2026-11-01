@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-31T20:59:51.877198+00:00",
-  "articleCount": 114,
+  "generated": "2026-11-01T04:31:11.890617+00:00",
+  "articleCount": 116,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 17
+      "count": 18
     },
     "reuters": {
       "status": "ok",
-      "count": 24
+      "count": 25
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "m5I5fHy1PLuF",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-01T01:37:26+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "3mogjOyTOvtN",
+      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
+      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
+      "date": "2026-10-31T23:31:07+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "X65Y64++gUQZ",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "date": "2026-10-31T21:41:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9cu4dJnmx0TW",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "date": "2026-10-31T21:17:03+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
     {
       "id": "THR0DZ4wUhDX",
       "title": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
@@ -110,6 +158,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "e/sR9TGWuDsn",
+      "title": "Opinion | SI is the future of AI – just not in the way Trump thinks - South China Morning Post",
+      "summary": "Opinion | SI is the future of AI – just not in the way Trump thinks&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOWNfNFdUU0c3WDlEV016RnM5SWhXaGxZeGJRdThyY1BvcWNXZXNrelpuS3BQSWlnWnZnV3BRMkRjTkE5TzBYdC1peU41VDJ3UVVmV3RsbE9IS0RlUXpSaVpORFNYNWFCVGRrdmtGQjZMV08zMWxveTRSaFZhRXVhQUhhZnRnQzgtSF8zOGwtTWhQcElzVmh2eERWNVdxQdIBngFBVV95cUxOUFZFaDhCREhxSFh5dnZqTTBQWlU1NGVYZ3lYX2wzSk91ZUVpRkc2T0lnWTliZDU0SjRTTWNGYXE2TEF5VmdoZUVYN3FYeHFqWW5zVmxPdE5QdmwzQ1gtVmkxMlJuOHhDd0g0bHB2NjAwUXp1RElfcXdWbFpKdjlPUDFUU0VlMENHNmdtQUE4SVM0Rk13Q1ZwbVlqejlFZw?oc=5",
+      "date": "2026-10-31T12:30:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -365,6 +425,18 @@
       "articleLang": "en"
     },
     {
+      "id": "0RAT9Oqmex/R",
+      "title": "US SEC's top cop says agency is monitoring AI corporate disclosures - Reuters",
+      "summary": "US SEC's top cop says agency is monitoring AI corporate disclosures&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXRhQ21VYXhpVHRJdXpvbmZiSTFZcExBQlVIc0VnQ1pPMW80Y3VCdFNDR2d5aGNwYXZrNExMRGZjeEx2cFJXRHVlcmU1VHFYbTdzREtucFFNV1dBSXBoNlNpZ0syZzJMYjFmOUJ2YmstWmtOYzdnY3ltamJSOG14ZUhJb3RQcVpFNnFTMVpPamhFYkNNNUtOZF9DYl9lTFV5QTFESjBkeEJVamRaSjdIbk90OGVaTUVFM0Fv?oc=5",
+      "date": "2026-10-30T19:05:53+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "+OyWISQlzfFw",
       "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
       "summary": "Big tech stocks falter as investors question whether billions being poured into AI can generate returns quickly enoughA sell-off of tech stocks that began earlier this month and gained steam with disa",
@@ -545,6 +617,30 @@
       "articleLang": "en"
     },
     {
+      "id": "q4Us5nzQ1hzJ",
+      "title": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops - Reuters",
+      "summary": "As US airlines deploy AI pricing tools, startups help travelers cash in on fare drops&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0VUMlZaQy14M01qRlpabngtZS0xOFRiVm9GUThrcFkyUmRrdzR0OXo2ZTNMZ1VfeVlnZ2M5OG1tSUM2UzdOTHlfcWdHZ1l0MnZoSmRpUVVpSmJlUEJMbWNFTWM4ZXJ4NzBEdjJjeVYwUWNyM2NJeGZXWGE3V3BtYU11THlQRmxuUXlzR3ItYzZ3ZnF2RjhXLTN2aWpPV3VzWURRLVdsZzk0RjRGU2d0ZXpFTDVxQ0x5S3BTbw?oc=5",
+      "date": "2026-10-30T10:22:14+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "1MC1Du8ykrTF",
+      "title": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble - Reuters",
+      "summary": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzVucjcwZFNveGxHdm5KS1M5UEotQXQyVDJNNmNCY211QXpxNTJFc0ZQcXhkbzlXNTAySlZlQWFvRzl2bnBrd2d1UXZ2eXZCU0Q4WW1ZQVdWWXBaWkxvOV9zY0lYdkxaSU1kRWEtMHdEMXFpZ2ZSQ0xDYm5RUEg3cEhfT3NnTllHcU1ZRUtaNFZ5N042elFCYkoxNHk4NXJzVmRBOFloajNWd0Z4RjUzcnpvRQ?oc=5",
+      "date": "2026-10-30T09:48:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "i0uXkjTgtZXJ",
       "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
       "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning&nbsp;&nbsp;Reuters",
@@ -681,7 +777,7 @@
       "title": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment - Reuters",
       "summary": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw?oc=5",
-      "date": "2026-10-29T22:00:00+00:00",
+      "date": "2026-10-29T22:04:19+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -701,39 +797,15 @@
       "articleLang": "en"
     },
     {
-      "id": "NKLELqyRYQiN",
-      "title": "Rivian expands joint venture with VW to include AI assistant",
-      "summary": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
-      "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-      "date": "2026-10-29T20:05:47+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "n8CRgo/2vrK9",
-      "title": "OpenAI-backed Thrive Holdings acquires ADT",
-      "summary": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
-      "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-      "date": "2026-10-29T19:56:19+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "S+tQCVRLyb0o",
-      "title": "Meta quietly launches an AI fashion app called Style Sketch",
-      "summary": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your ca",
-      "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-      "date": "2026-10-29T19:14:36+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "CiOWJvULqwLP",
+      "title": "Cash is king, as investors draw new battle lines in AI spending boom - Reuters",
+      "summary": "Cash is king, as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
+      "date": "2026-10-29T18:48:35+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -809,18 +881,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qmyZJRitekiF",
-      "title": "My AI therapist: A chatbot experiment - DW.com",
-      "summary": "My AI therapist: A chatbot experiment&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZVhMUS00QURPZUM2a2tSYzVJV1dMRldINWhndEt0SExkMFZsbVJkOXo5SThRYWMxQVhjQVliR1lOeFNiNnNFR2Jmckt4Sl9HSDUtQ2VUcXVaaU5seDI0M2xRVUFHREQ0V0MtQmRzTGY2ZkFCckJSQ0dPbWstNXJlMWdfQWIzTVo3N25WdnlZWlJZUkY3anpnTEN0b0o1blU?oc=5",
-      "date": "2026-10-29T13:29:41+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "a1xu4nJM89nS",
       "title": "Could Abdul El-Sayed’s plan for AI companies stave off catastrophe? | Jerel Ezell",
       "summary": "The Michigan Senate candidate is calling for public ownership and other reforms, offering a potential antidote to ideological gridlockThe Michigan senatorial candidate Abdul El-Sayed, a Democrat, occu",
@@ -893,6 +953,18 @@
       "articleLang": "en"
     },
     {
+      "id": "qmyZJRitekiF",
+      "title": "My AI therapist: A chatbot experiment - DW.com",
+      "summary": "My AI therapist: A chatbot experiment&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTZ4bDFBcU91OU5tcDh2V1IwOWUtc1dOXzlLenVqcUR4cTQtd05DVVFIWEtIS3FMd0hSMXVBaHhQdHdYemZGdFpKb3BXZmNhcDhPUWhPTXhJX1RhU3F6MmZIWkdrN0ZISXhxMktzUUV4bWRyVUFZNUtsVzZEZlFZZGNXSld1UGpUSFp0N2cwSmlDSzBFb3VjZnR1bmlRQQ?oc=5",
+      "date": "2026-10-29T06:51:43+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "0qA98nJ8ebvE",
       "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
       "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say&nbsp;&nbsp;Reuters",
@@ -915,30 +987,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "WHtnGSBZdNbl",
-      "title": "AIが人間に“闇バイト”を発注？　AIが物理的労働を買う求人サイト「RentAHuman」の実態",
-      "summary": "独立研究者のPulak MehtaさんとAryan Deshkumarさんが発表した論文「Security Risks of AI Agents Hiring Humans: An Empirical Marketplace Study」は、2026年2月に開設した、AIエージェントが人間を雇うことを目的に設計された人材雇用マーケットプレース「RentAHuman」の求人情報を分析し、悪用されてい",
-      "link": "https://www.itmedia.co.jp/news/article/2610/29/2000002679/",
-      "date": "2026-10-29T03:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "CiOWJvULqwLP",
-      "title": "Cash is king, as investors draw new battle lines in AI spending boom - Reuters",
-      "summary": "Cash is king, as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
-      "date": "2026-10-29T02:31:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
     },
     {
       "id": "jSX7VKMu+lyN",
@@ -1037,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8FBYgJSUuTG+",
-      "title": "AI giants' funding ambitions test Wall Street's appetite for risk - Reuters",
-      "summary": "AI giants' funding ambitions test Wall Street's appetite for risk&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVkJOM2pFRE9nVHZubFRxVXQxa0NNTWRublIxQS1kOGt6OGd1VUFTems0QjZMWDFMbTF4dDVtTEMtbTh4VVkxLUdnMnZXa25fX0VLczRBU25feWtGNDM0MVBKMlFVWTFfQk94R0pDZVdzOXVxbXBIdzhaRlV3SFNQb0xPYjh6U2JfdE1waFBDY0FxWHpqaTdiY0paekF5OXRnT2pULXdsdURDZzhMajVqakNiWkZuUQ?oc=5",
-      "date": "2026-10-28T17:37:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "cB1npziaj13u",
       "title": "Social media is full of weird video game mashups. Where are they all coming from?",
       "summary": "AI tools are making it easier to modify and recreate games, raising questions about piracy, copyright and how far the technology could disrupt the industry• Don’t get Pushing Buttons delivered to your",
@@ -1133,18 +1169,6 @@
       "articleLang": "en"
     },
     {
-      "id": "KFvKWyRnedfh",
-      "title": "Scale AI rejects claims it illegally surveils AI-training workers - Reuters",
-      "summary": "Scale AI rejects claims it illegally surveils AI-training workers&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzhyQ1lyaWVleENRNmE1Y0FaTlBBSTcxRTM3STJHRnAyVmJnejVWVHd3ZkJOUmQ2RkdLdmh0amxGQkZqem16OHY4Zmp1WXU1T0lJcW9DNFU1Vm9EanprR3NkUmxLZkU4TXlXazhORGgyNUlwUVlLdlY2Qk9oTVNONld5VlBhMi0yeW9tZms0MGVFd2hRaFNZalNWUUd6LWE1QWowNWhDcjhUd29raURz?oc=5",
-      "date": "2026-10-28T11:48:16+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "fAWJgSf2IuGK",
       "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
       "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
@@ -1154,18 +1178,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "9uestcw21/pZ",
-      "title": "European sovereign AI, cloud not yet ready for major banks, Temenos CEO says - Reuters",
-      "summary": "European sovereign AI, cloud not yet ready for major banks, Temenos CEO says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVWw1UFVIWTdPSExHTUt6TmNtM3lSY3diRE11SGR6WGtWZjNRa18yWW5zNGhrcFgyQUMzTmN0cUpwRGpURHplZ0ZjZmk2czBWTlBKTEVEN0dfVEhxRzZMcXVNWGtYV2hpR3JiZXEySjlDaWkwa2czd19laEpOelBvMGVVY1FaeUgwWGVtcUxoaXhMeDZCUVNKUUlIUEpnMmFVeC1jSU5TNVprUnRDU1RMb05yNGJtdndLMFdrQWY4Ujk?oc=5",
-      "date": "2026-10-28T08:55:52+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1385,6 +1397,30 @@
       "articleLang": "en"
     },
     {
+      "id": "AkhZ2UlZkgkD",
+      "title": "US growth boosted by AI, but no sign of a turning point higher - Reuters",
+      "summary": "US growth boosted by AI, but no sign of a turning point higher&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQWJDYTAzYXBReXFpWXVtczNMSktHdnZTRzl3QktrREpMbTgzR3B2OTdqRUo4bjlBb0Y5ZDl0ZXd1TnRYY0RwMmlEMExselZFQUZtNURZQ242S1dXdnRPT2JHbmhnWGxLeVpPNFlkb0JsM0ZYRjZTOENFUVZFWVVENTk3dC1BdFlSOVNMYUsxNWNCZFdJNk0wRVF1UU9nZw?oc=5",
+      "date": "2026-10-26T10:05:44+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "XNfikGR3WW2s",
+      "title": "China’s AI race needs data fuel. Can a new state-owned giant deliver? - South China Morning Post",
+      "summary": "China’s AI race needs data fuel. Can a new state-owned giant deliver?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjRPclZSWTR3NklSZUlsanZxaG1kYnloVTVyWFhKNjl3M21IWDg2TnNkcmNGY1UtNFA0eEFxcXN4LTNOdVplVFJjd3Y2YmV2MUVyYUpCb3lFUlVibVdpbWJvVmpNVG1icWZLLXZhdXNPM3FtU19pTWRzUXZCZXBtMnk2Y3Rkek9uYjlrOTBDSXJTQ1I4YXlfLXlIZG9IUVpibHRzQzhCVkQyUG5EbTk3WXM2a9IBswFBVV95cUxOLUh4S0l0Q2tiSTJxRVJrTEhjcDh4Q2lvQVA2UkJ2ekJ1TVJLME1mUkNzREFBOTBxcmxUMUplV01HcDVIYjBJakdWSDdYQS1aRTVWSWc0MWFtOEEwYnZVZFFjaVUzcVVDOVBpQW1BUUFsTlFJNFE3dFIwRXp4dWxHRnlUVk1TU0lFVXg0bFFlaDJ3WnItMWVzbFhwSE42X2V5ODZTTDFWbHdTZG9BMTVGUWl5WQ?oc=5",
+      "date": "2026-10-26T09:00:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "K5KUKdYqr2wl",
       "title": "AI shoppers get first say in Korea's retail race - The Korea Herald",
       "summary": "AI shoppers get first say in Korea's retail race&nbsp;&nbsp;The Korea Herald",
@@ -1414,18 +1450,6 @@
       "summary": "Why does China favour open AI models like DeepSeek while others remain cautious?&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNExKTlJVTVJnVHhfQUdtZzhXWWxJQThQMmJhLW9vXzk4R2szSnBIaUdZdUhpRzE5Tk02MmprQmQyT3BSd09zdVVGX0RLLUlVTGhGMW1FbmRPUGp2bDNBUWJWczh6dHBGVnV4U2VDV242Y1Y1c0N1Z21RRG14RWFiMXJ6M2hIRmhuMm83QWR6dkExb2dQZXNVYXp5M3NaeGpxQy1TRFVXNVNydWhBQ1FxYXdrdHRPVkXSAbcBQVVfeXFMUG85SVp5MGNCOXhxWERXeUU1VkMwdmFjcmtwb3JKZWxENGY4NXFBLW14V2xVZkdIbDR6TVJIN3hiSE9rT0g5azhVZVhheTVqbG5rZGZJT0JVbk1xeVpleUVUSzJUYlBXTnJfY0p2cmdzSzgyeWN4cTlyWmYtVkgzbUpaT1FfeWpjbHN1RGxwOGNtZzlucTRVVUUxYWFSZXlNU3kxMl91aXFidFRiVjI5ZlBDQzFBbkdZ?oc=5",
       "date": "2026-10-26T02:00:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "A05yKg5KdsJs",
-      "title": "China’s tech giants are paying 1 million yuan for a new kind of AI engineer - South China Morning Post",
-      "summary": "China’s tech giants are paying 1 million yuan for a new kind of AI engineer&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQenFjdkc1ODFiS2NKVWdqbERCdzllX2R1R3ZVU1FLTHRZbUtsanJCZFR2YzFaOUVHamZjRnhOVHZQRU44T29kZDJwUkZVX09lSG5KMGR1Tnl5aGtmdG9YUFRzbTN2QXE0aWM1UUlQb0RLWW1abzM4TGRjb29WT04wYjRqb2h6bGVsTHVKaHZ3SWxOUXlZMEZSNVNKdmhKYU5IYlI1WFB1bWtMZl9OMGNSNndma0lNZG9IQW1N0gG7AUFVX3lxTFAxazkyRjhZS2tTNFFvUVRlRGxfUC1JeTY2bEVZanRydDFybjd4ZVd1RUFiU0YtcXU3N0dpWGJCa1hYb3dnYWgzdTR2cFVJbWhTYkVvZkVBSTIycWZJZ2hEc1hWS1VoaHg2aGxHb0dCSEFxVTVQQWZUbFVxZjRzbGNxNk1BM1RJU256eVp3VDV1TTVwWXNHWWxtVG5STGo0cDJEMmtqLVdCLTc4N196R2VyVkYxalVHLXRUTUk?oc=5",
-      "date": "2026-10-25T06:00:20+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
