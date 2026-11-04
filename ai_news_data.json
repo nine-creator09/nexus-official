@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-04T04:55:39.441565+00:00",
-  "articleCount": 101,
+  "generated": "2026-11-04T13:48:32.985654+00:00",
+  "articleCount": 104,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "mit": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     "koreaherald": {
       "status": "ok",
@@ -56,7 +56,7 @@
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "CF8knBLo1RT2",
+      "title": "Securing the agentic enterprise with data lineage",
+      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
+      "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+      "date": "2026-11-04T13:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "c9Id4gVl4BLn",
+      "title": "Google hasn&#8217;t figured out how to make AI pay like its search engine",
+      "summary": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over yea",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
+      "date": "2026-11-04T12:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "uUv1VSQB2chE",
+      "title": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks - South China Morning Post",
+      "summary": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0dsak9NNUxVNE1STlluTEhVM1hXSFh5TG1YSE5XdGpjNF9jVFVwMENfa0tMcWRYeThqYzZtSGNhSlNOblhDVUpVZWdjREQtYTZOR01sbVB5UU5RZTVMXzB2TkNjOTM3YldfUHBDVEl6M2dsUHFIQVQ2T1hrM2NzbHMwOUdvbnFRemloUWRhaTRKa0NNWGlhRkRYd0c3eXlIU3djQXZ5T0s0YUZGMUEtaExIdFI2OVBJNm1jLVN4WlZvS2_SAcMBQVVfeXFMUFBNa3lhMkJXWjQxRlpBU3lFWnEwWFZJVDVQNzc4ODRsU09MRWxYdHg0OU94bDFmcmZTc3VvOXRGTXNXcDBkeTRIVzhNb2toaHNaWnhXOVJ4cGJfVHFKOS10VEJCdk1QZ19ubGNhRlk4YjFqOFNKSHVPdUZNVFppR2syM21lTFhXdXRIV3o4bW92bzBGZGk4Vzhva0lhTXUwSl9jeGpvWlptNDNURG81SGRVWUNobHFOaHlSR3RsenBqanRz?oc=5",
+      "date": "2026-11-04T11:43:44+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "r+p9GwJRJWJy",
+      "title": "Tencent launches Hy4 in bid to break into AI’s top tier of open-weight models - South China Morning Post",
+      "summary": "Tencent launches Hy4 in bid to break into AI’s top tier of open-weight models&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjhaVmtvbDRMdDIxNUFvcFBCZFluNVk2elhjd0Z6cVlZOXhDczhEZ3JaS1NrWGtERXlVR0tsMHJWNmVHcFJoQ2JPaXY3ZkEyOVdhMEpKUEVESEl6N3pKZHE4S1VnODZjWlh0Qlo3bGZGZE1IbXlqeHhhdlUyVEt4cVNpWHdRRGVnYmk5QjRTQjhHSXFnWTZTTTBqUHZOS081NnU4S3BJanV2VVdrLTB5QklDNjJxV1RX?oc=5",
+      "date": "2026-11-04T07:01:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "+jeS3MN1+c/o",
       "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
@@ -75,6 +123,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "39VjrVY1ZyG6",
+      "title": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards - South China Morning Post",
+      "summary": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnRlUmo3TGlsWDduLWpsb2JkUXN2TnYwa1doVlduaWdxdjEzalQ2MTJ5eVp3dnphcnhOTE1sb3RYdHJheHhzMmdDekRQYkdrc0xmOWlVQXdYWUc0VUJqNmxoLVI3aVFxOU9PNlJlc2hTQnhnYjRrM09XczNXTGpJRV9sRENSM1ZDU0VxdkJsejhCNUFYbkkxWFgxMmt0M1VOOUtGRXN5cDlWT0dGM0kzcWdHSDFmSVVWZ0dqWDR30gG-AUFVX3lxTFB0cW55STgwYkhmUy1Gb1dwR05UV19Yd05rb0FjbTlOQmtteG1BV0s5Ni1oelRfM2N6S1hDXzVnUHlvYmlsZkIyY2pnUEd4aTRtSTNFNC05M3F0aXRMQmdSTndMYkQwVUhHS3RWaUNBT0JhMmJPRWxOdnJmU0VPVDZlSUZnZUd5bk5nZjdTdUJ4RDBRWGlmNzhKMHhLYVk3djVqNGlrTTI2Zi1ka0NibHZtZkxCMmZDRFZhM2x1TGc?oc=5",
+      "date": "2026-11-04T01:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "myixppkkuS+U",
@@ -245,18 +305,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JKt85CbV42Qk",
-      "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
-      "summary": "OpenAI employees warned about operational security lapses for years, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-      "date": "2026-11-03T18:56:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "7rTBJgxG2h3x",
       "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
       "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
@@ -357,7 +405,7 @@
       "title": "COMMENTARY: On AI and Iran, Trump risks bombing himself in the foot - Reuters",
       "summary": "COMMENTARY: On AI and Iran, Trump risks bombing himself in the foot&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmtQdFh0bkk2aXhMdk5pZTFnWkxib1RjTmlZMnFva0pNUFprSExfMHB0VW95QnI1aUZQR3p2b093Vmo4cFI1NzJKZl9XWEFCUmp1QkE3Z20xdEFiMWZOVk5kT3JUUG92bkpEZ1ZrZm9ZV3RXMFRrQ2h1T0hCOFVyZnhiMkk3a3lrVXg4Y29NOGdWX0ZEWFBvMTk4NzRfOWRKYmFZNWNBTjUzQWw0a2RCMXlKY3BuMTBOejVvcEZ6TkFzY2s?oc=5",
-      "date": "2026-11-03T15:56:44+00:00",
+      "date": "2026-11-03T15:47:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -374,6 +422,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qu9mhtNE3K55",
+      "title": "Artificial intelligence – All Content on this topic – Page 1 of 39 - DW.com",
+      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 39&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
+      "date": "2026-11-03T14:59:49+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -434,6 +494,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "sQbC7HzwuoBt",
+      "title": "US AI giants are offering billions in bonds, competing with European governments for investor capital - DW.com",
+      "summary": "US AI giants are offering billions in bonds, competing with European governments for investor capital&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHE0ODBGekNRVEI4YXZOWWhRTGNjRHRMUG1MaFpYcUUyUnFMUklyMWtpLUhxRFlfY1Nvdm1NUDFiU0xDWGZXVFA3amFpOEdBa1lvcVdscDMtaV9HM3cwMGtQRkI4dURUMk9YTUlDbncyQ2lTTEFEbXdvNTRrVEZJa1RaZEV0N21UYVpRRU5NSFpOT0NX0gGUAUFVX3lxTE4yX0c3SzBFTm5ITmVxaWhqa1VCRWwzbnVKd1FTenBQcjVkY1hORUM3SnhHN0ZvNVBKQTQycEhwdF82TzlxZ0tlSHlMM1g3S0k0RjhUS0J3M1pwN3JndHM2OVNOUW1QUW5UMU1aY3BZT0JjbWNkUW9NallxOGtCQ0EtY0lMLVFQWjBlVldxRF9uVmg2djc?oc=5",
+      "date": "2026-11-03T11:59:47+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -533,9 +605,9 @@
       "articleLang": "en"
     },
     {
-      "id": "gRRX+urcJ0Lz",
-      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
-      "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedingsA senior crown prosecutor acting in a high court case cited an imaginary",
+      "id": "9H/pasVqdXmE",
+      "title": "‘A serious failure’: CPS prosecutor cites imaginary case to court after AI search",
+      "summary": "Exclusive: Nonexistent precedent cited in alleged child rape case adds to dozens of AI-related errors plaguing court proceedingsA senior crown prosecutor acting cited an imaginary legal precedent in a",
       "link": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
       "date": "2026-11-03T06:00:40+00:00",
       "source": "The Guardian AI",
@@ -626,6 +698,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ONPzPD5nZRKs",
+      "title": "What the US midterms could mean for markets, AI and the debt ceiling - Reuters",
+      "summary": "What the US midterms could mean for markets, AI and the debt ceiling&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+      "date": "2026-11-03T00:21:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -761,18 +845,6 @@
       "articleLang": "en"
     },
     {
-      "id": "8oLd9N3wn/lG",
-      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
-      "summary": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
-      "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "date": "2026-11-02T16:30:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "pVFj5JJ283Ms",
       "title": "Merz says Germany must preserve 'digital sovereignty' in AI era - Reuters",
       "summary": "Merz says Germany must preserve 'digital sovereignty' in AI era&nbsp;&nbsp;Reuters",
@@ -869,6 +941,18 @@
       "articleLang": "en"
     },
     {
+      "id": "bn0nwOESoL6w",
+      "title": "South Korea to pour billions into AI - DW.com",
+      "summary": "South Korea to pour billions into AI&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Galk5dG1IWTBpblBhZllpNzJseUNpYk8wSTF4eGM1Q211SnBuNVAxSDByaHAxajdfUnJvRlp0X0ZGWHY4OVQ3UzhocXJKN3U1SWdfb2JzUXhUbkpDWkJpLXBOeHdNTzlwRmRzUEROOFJRSGhjZWdSb9IBeEFVX3lxTFBxU0NFdm5NaGJua1pxNXhVSjNtdUFWODZlT283dnJpS1F3ZmxqaTE3VkRuY3VHQnd3bmZyVTRYQ1ZWNlU1ZXZRTlNfSkM1TmQ2THpiX0xRSGtSNHl6MGJWN2V5RXBZcWpjN0RUb09LSFAxUGdxcU5BSA?oc=5",
+      "date": "2026-11-02T09:11:08+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "qlau0+LCtQR0",
       "title": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE - Reuters",
       "summary": "Abu Dhabi's ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE&nbsp;&nbsp;Reuters",
@@ -878,18 +962,6 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "bn0nwOESoL6w",
-      "title": "South Korea to pour billions into AI - DW.com",
-      "summary": "South Korea to pour billions into AI&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Galk5dG1IWTBpblBhZllpNzJseUNpYk8wSTF4eGM1Q211SnBuNVAxSDByaHAxajdfUnJvRlp0X0ZGWHY4OVQ3UzhocXJKN3U1SWdfb2JzUXhUbkpDWkJpLXBOeHdNTzlwRmRzUEROOFJRSGhjZWdSb9IBeEFVX3lxTFBxU0NFdm5NaGJua1pxNXhVSjNtdUFWODZlT283dnJpS1F3ZmxqaTE3VkRuY3VHQnd3bmZyVTRYQ1ZWNlU1ZXZRTlNfSkM1TmQ2THpiX0xRSGtSNHl6MGJWN2V5RXBZcWpjN0RUb09LSFAxUGdxcU5BSA?oc=5",
-      "date": "2026-11-02T08:29:53+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -917,35 +989,11 @@
       "articleLang": "en"
     },
     {
-      "id": "rIKbvxZyhEDY",
-      "title": "Google search has gone from being very handy to useless | First Dog on the Moon",
-      "summary": "Google’s AI summary is punching a huge hole in their own profits – is this good?Sign up here to get an email whenever First Dog cartoons are publishedGet all your needs met at the First Dog shop if wh",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/02/google-search-has-gone-from-being-very-handy-to-useless",
-      "date": "2026-11-02T05:54:05+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "kv44WprLUqPD",
       "title": "HSBC to open Hong Kong AI Institute following Singapore launch - Reuters",
       "summary": "HSBC to open Hong Kong AI Institute following Singapore launch&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJEbEdTMF9LdGR3OVJPLUFuc0w2aDFGZWdpT2FWdS1HRHM4b2NPLTBKd1lid1NkR1VjcDYzTlA4amotMTF3TTh5b1RKNThKTVJVVVRsSXdIYUpsT1dVcmxpby1oZEtBbV9WUVhjTFNVdml4WjZyc3hCUGpZbERlOFFEXzNTVkxXa3ZzRGRTNmtGdXpSWXd1ZnhvMTJmSTRiU2c0b2ZqVFkwNEltOWtNQ2RnTlM?oc=5",
       "date": "2026-11-02T03:34:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Q2vOLTm2nIki",
-      "title": "South Korea's Lee vows to make bold AI investment in record budget push - Reuters",
-      "summary": "South Korea's Lee vows to make bold AI investment in record budget push&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbll4VGlsal9aSG5UR3h5ZjZobjJGSHV4UVJXZDNrSEV4M3lTQXRnaWRaemVBZjRzMk4wVU5lTG1tMDFQLTdweklqemdlQkhoS3JBOWZFVHFxbG1yMXltcnl0LThzNm15R1Q3ZS1temp1TWJqOXBCM1J6UjhSRHBsNGQ0VnVLelFERjJZeW5oM3U3eGVpSWxSUUFrU0VHcUVvSXBsRDF5NTdReGVWaXZYQlJkbTUtSUp6Tkhj?oc=5",
-      "date": "2026-11-02T02:37:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1046,18 +1094,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "dLO/aekbpGBV",
-      "title": "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
-      "summary": "Apple to launch iPhone AI features in China in December via Alibaba partnership&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5",
-      "date": "2026-10-31T10:02:17+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1181,15 +1217,15 @@
       "articleLang": "en"
     },
     {
-      "id": "EboRS7zzbKEQ",
-      "title": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind? - South China Morning Post",
-      "summary": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNG9rV1NDVEhOdjV2cURGcDkyQ1BVQ2pKUzF1akJWZURrRmFwRDNtOXVRQkdmU1pyQXF0bTNRX3kxYzFkM0MxTDhxTlFUdU5OT0xPZlBQQzRlX3JOUjdzSHVTUDByNldJSzlFVm1xZmdnVjgwaEpBWGpLNE95d1VHb0lIWXlvcUlhdGtCN2xMOF9peFlKVFFlU2FKZU1TVU5zUnRCZXBxS1U2R2E1bExEUWFsYUNuTHEtSDN3Yk1HRE0?oc=5",
-      "date": "2026-10-29T23:00:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "i0uXkjTgtZXJ",
+      "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
+      "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
+      "date": "2026-10-30T09:11:13+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1198,6 +1234,18 @@
       "summary": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw?oc=5",
       "date": "2026-10-29T22:04:19+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "CiOWJvULqwLP",
+      "title": "Cash is king, as investors draw new battle lines in AI spending boom - Reuters",
+      "summary": "Cash is king, as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
+      "date": "2026-10-29T18:48:35+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1229,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "/wX9QZobZy5E",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ ac",
-      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "date": "2026-10-29T12:10:00+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "cJAMa3kwZszQ",
       "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters",
       "summary": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation&nbsp;&nbsp;Reuters",
@@ -1265,15 +1301,15 @@
       "articleLang": "en"
     },
     {
-      "id": "CfyU93wzXBBj",
-      "title": "How Lao Gan Ma, China’s iconic chilli brand, got caught in an AI storm - South China Morning Post",
-      "summary": "How Lao Gan Ma, China’s iconic chilli brand, got caught in an AI storm&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX1V4XzRnWjkyYVZYMHU5Y3VlR3ZHVmxoYWJtVDVTQi1TN01MdDE5aGZwY3RSblFJTU5tUUJLRngzcjdNcnVNRHJha3RMVTBHWlQ1bjlGY3dVOUZVQnFDNHdiS3NyejRQdEdMeEpjRm1tVmltS2dIWmZZODRyNTYwTTZGVTdCbDNqVnhiYUFkaU1UZDlucy1JUEtvRGE4WmFOb0o3ay1OalBwcjVKcWlONXMyMnZxZ9IBtgFBVV95cUxPSHc1UUlldnpNX3Y4bmtxLWlvd1hSUE4xeVk2QVZDRHFtOEk4N0tDZGlla2wwc3l4enk4aDVkdm5kVnhRZWJ3dWhJRjBiUHBQUXo1NmFGNXFxNWlHZ18zUkl4REhoSExOa2E4WUlnX09XdGFFazNja1ZfLUNJVGpHNkxaWWhfY2NEQU1sRDcwakxoU1dTWEZGTmJyVWxqSl9JVmlSeW04dXlPWkNHbm1wbS1lMG5fZw?oc=5",
-      "date": "2026-10-28T08:00:12+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "0qA98nJ8ebvE",
+      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
+      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
+      "date": "2026-10-29T03:28:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     }
   ]
