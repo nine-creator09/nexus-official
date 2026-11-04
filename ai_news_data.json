@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-03T22:55:25.270438+00:00",
-  "articleCount": 100,
+  "generated": "2026-11-04T04:55:39.441565+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -32,11 +32,11 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
-      "count": 14
+      "count": 13
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "koreaherald": {
       "status": "ok",
@@ -65,6 +65,66 @@
   },
   "articles": [
     {
+      "id": "+jeS3MN1+c/o",
+      "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
+      "summary": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
+      "date": "2026-11-04T01:40:15+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "myixppkkuS+U",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "date": "2026-11-04T00:42:10+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Jqp6WilF7KR+",
+      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
+      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
+      "date": "2026-11-04T00:37:42+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "TPR6sn+KWrgI",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "link": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-04T00:04:35+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "jqM7s8Tt36gR",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "date": "2026-11-03T23:37:45+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
       "id": "3UbpLqcrCe+P",
       "title": "Anthropic is working on a system to prove AI models’ identity",
       "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
@@ -75,6 +135,18 @@
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
       "articleLang": "en"
+    },
+    {
+      "id": "R7IFNTPCgnNz",
+      "title": "Google、学校の生徒向けAI機能を原則オフへ　「AIなしのGoogle検索」は選べず批判も",
+      "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
+      "date": "2026-11-03T22:31:04+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
     },
     {
       "id": "erLjP7H4Ptz2",
@@ -91,7 +163,7 @@
     {
       "id": "HGm9WuH/Lx4p",
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
       "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "date": "2026-11-03T21:43:08+00:00",
       "source": "TechCrunch",
@@ -110,6 +182,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "OSZxaRCjfjZa",
+      "title": "AMD forecast eases AI spending fears as data-center sales surge - Reuters",
+      "summary": "AMD forecast eases AI spending fears as data-center sales surge&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM01ic0VHVkhaaTh2RV9KVV8zNHFCNW1TZnRlc29mMDg5T200aGRFZkdhd0JtYmtiZGt4LVJRdTdzWlV4dnhnRk9WVW5NWE1QWEFXSmhnZFVDNHpUVk94b0NFOEt4MXNLRWFmYTQzZnlZN3VvTGNtVzZFNnFHQVJ6NWlISXlsNFFBYnVVMnhXTVlOUHE0MWk2TWhYUFgtQ2Yzc1JzVHVRNmo5RmpvQ3Qwc3E3bkJVQTRnQ2JIX2x5NVg?oc=5",
+      "date": "2026-11-03T21:18:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -154,6 +238,18 @@
       "summary": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
       "date": "2026-11-03T19:16:17+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "JKt85CbV42Qk",
+      "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
+      "summary": "OpenAI employees warned about operational security lapses for years, sources say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+      "date": "2026-11-03T18:56:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -277,30 +373,6 @@
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "mKMv4nLLZkc/",
-      "title": "Apple is all in on AI — its own and everyone else&#8217;s",
-      "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever f",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-      "date": "2026-11-03T15:24:51+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Dm346ClIJ2M5",
-      "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-      "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bip",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-      "date": "2026-11-03T15:00:44+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -470,6 +542,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VoGdakx/5bpK",
+      "title": "Global markets were already fragile. Big AI bets could break them - Reuters",
+      "summary": "Global markets were already fragile. Big AI bets could break them&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+      "date": "2026-11-03T05:08:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -653,6 +737,18 @@
       "articleLang": "en"
     },
     {
+      "id": "JsrAa8+CbLdC",
+      "title": "Germany news: Berlin hosts digital summit with AI focus - DW.com",
+      "summary": "Germany news: Berlin hosts digital summit with AI focus&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTDRMRTJlUmhMTFRvdXYxQm1meWRienlpcWs4LTNSajRDSnlQY05Jcnp2dklWTFA4bTdPSjByOVIzN2VyTEd1aFUtTG1zQVI4bENyaWVnQ19sVk1zZkNIdXpnTEJTSGR6SlJhV2lOaEJoTWk4UjVqNkpGN2xsVmtnaGJXQU01Nkx2RVBoY1RXWVZhREZK?oc=5",
+      "date": "2026-11-02T17:03:45+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "O+FazI9GrSQj",
       "title": "Raising the quality of insights in agentic analytics",
       "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
@@ -833,18 +929,6 @@
       "articleLang": "en"
     },
     {
-      "id": "dDLCRVJPVfal",
-      "title": "Breakingviews - COMMENTARY: Anthropic can do a better job of helping humanity - Reuters",
-      "summary": "Breakingviews - COMMENTARY: Anthropic can do a better job of helping humanity&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeXRndTVXajlBUm5QZ19Cd2hodkFQbXZzTVBwVTdyanJiaEZOalN1djhYVGdqc1BsWG9uaVZfTm1ESkNoRjlCZ2tFYmlYNmVnSThkVm14YjdBRm82RW84UzFwaU5BSEQ5Z1AwOWMxZ2VBMXEwa3NDWUsydHN4X2Y0d2RQSi1fZEx3Qzc0VjlWY0ZEZlFTYmF4NUo3dXIyV2diS09mOGp0VkQ?oc=5",
-      "date": "2026-11-02T05:00:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "kv44WprLUqPD",
       "title": "HSBC to open Hong Kong AI Institute following Singapore launch - Reuters",
       "summary": "HSBC to open Hong Kong AI Institute following Singapore launch&nbsp;&nbsp;Reuters",
@@ -872,7 +956,7 @@
       "id": "AtjIKuDYCl7C",
       "title": "Game studios use AI to cut costs, but look to Southeast Asia for human touch - South China Morning Post",
       "summary": "Game studios use AI to cut costs, but look to Southeast Asia for human touch&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHhYYjBTODNVNjRVU0xfUWNMejJQVW5FNEVtZjNfQmx6QWlDdVpic2pSdk9QbjdlUlZXWjAwTGNGZDgzanI0NW5GRVRaMXZpejlCOXZoXzVXT09KUU4xQjdJaXZ3NkZDang2R3pRMVBUUlhrSmg4NmF2a2dkQkhfVlVJVlNDbHQtMWozX0RfWldWQW5yVVA4T0FGTGlCSTF2S1E5aUVXNWFuZ210V1FReVRqcnd3dTdXeGc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSHhYYjBTODNVNjRVU0xfUWNMejJQVW5FNEVtZjNfQmx6QWlDdVpic2pSdk9QbjdlUlZXWjAwTGNGZDgzanI0NW5GRVRaMXZpejlCOXZoXzVXT09KUU4xQjdJaXZ3NkZDang2R3pRMVBUUlhrSmg4NmF2a2dkQkhfVlVJVlNDbHQtMWozX0RfWldWQW5yVVA4T0FGTGlCSTF2S1E5aUVXNWFuZ210V1FReVRqcnd3dTdXeGfSAboBQVVfeXFMTzZnTkJGYjd5d2pkdUgxSno3RzNSZkw2SnFLYUl5c2lZTnpsemU1OVZMc3VybDM1UjlRWXBTb3dwVklnZ3Bqbm8wVzJ5cFg1Mm5IOGZhZXQxVFRRNFZGRnFEc0hYRktmQV9BLTZqWF9wR0lMTmhXODBYTF9JR0premNyeWVESmE2aUw0V0JrWFpkOE0yc1BsWmExSUFKRTZRaWl4YU9Ic3JJSTlpSDFoRENXcFIzdGJ1Vzh3?oc=5",
       "date": "2026-11-02T00:00:16+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -891,18 +975,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "um4ACUlzoS3b",
-      "title": "National Grid to site biggest substation in UK near planned Teesside datacentre",
-      "summary": "New electricity generating capacity would enable north-east to attract investment for large-scale AI infrastructureNational Grid has taken a step towards building Britain’s biggest electricity substat",
-      "link": "https://www.theguardian.com/business/2026/nov/01/national-grid-to-site-biggest-substation-on-teesside-near-planned-ai-datacentre",
-      "date": "2026-11-01T18:37:42+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
     },
     {
       "id": "51XDpsGbZLXY",
@@ -939,18 +1011,6 @@
       "cls": "src-bbc",
       "flag": "🇬🇧",
       "articleLang": "en"
-    },
-    {
-      "id": "3mogjOyTOvtN",
-      "title": "AI学習への利用拒否をrobots.txtで一括指定へ　OpenAIやGoogleなどが対応表明",
-      "summary": "OpenAI、Google、Microsoftは、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を一括で指定できる共通の仕組みへの対応を発表した。Anthropicも担当者が個人名義で実装を表明している。robots.txtに共通トークンを記述するだけで、AI各社のAIクローラーを一元管理できるようになる。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/01/2000002776/",
-      "date": "2026-10-31T23:31:07+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "e/sR9TGWuDsn",
@@ -1061,18 +1121,6 @@
       "articleLang": "en"
     },
     {
-      "id": "EGm5kYYsdC5F",
-      "title": "AIの「費用対効果が分からない」問題、解決へ？　Claude Enterprise搭載の「3つの新機能」",
-      "summary": "AI導入が進む中で、IT部門は費用対効果を厳しく問われる局面に入っている。Anthropicが企業向けプラン「Claude Enterprise」に追加した新機能は、その説明材料になるか。利用状況の可視化から予算の配分まで、3つの機能の中身とは。",
-      "link": "https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html",
-      "date": "2026-10-31T00:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "DSHZrj2SpKjp",
       "title": "Character.AI moves ahead with asset sale over states' objections - Reuters",
       "summary": "Character.AI moves ahead with asset sale over states' objections&nbsp;&nbsp;Reuters",
@@ -1133,30 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "i0uXkjTgtZXJ",
-      "title": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning - Reuters",
-      "summary": "COMMENTARY: AI’s rewiring of US warfare may be only the beginning&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRkQ0Yk1sYXhtUVJUYmt6NzlmMTBMUmhURDNGbjVWTkctZF9wZ0dmZENrVUJhZHdpaWE5QVQyNDRRRTJWVjlDMzRhNER0eFQwRDIzeHpIN1d5OEhPT1RGUXZ5OE9NZ3pCREgzclV6VGFMMTNwc3R0bnVEUkpaRFRJSm8xU0FPYjdWbEZiTjVXN1ZwekJqcXd4emlndmZxMURwTTdpdFJwOFVLXzdxcXdwNXEzZmtTbnM?oc=5",
-      "date": "2026-10-30T09:11:13+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "lTWL58P4Pu+q",
-      "title": "“でぶねこ”の重み公開　1兆パラメータのAIモデル「Mistral Large 4」（Le Chonk）がダウンロード可能に",
-      "summary": "AI開発企業の仏Mistral AIは、AIモデル「Mistral Large 4」（通称Le Chonk）の重みをHugging Faceで公開した。コーディングやサイバーセキュリティ分野で高い性能を示すという。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2610/30/2000002762/",
-      "date": "2026-10-30T08:46:58+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "EboRS7zzbKEQ",
       "title": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind? - South China Morning Post",
       "summary": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?&nbsp;&nbsp;South China Morning Post",
@@ -1174,18 +1198,6 @@
       "summary": "Breakingviews - COMMENTARY: Artificial intelligence reaches its Napster moment&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEM3SHF5UUZnYkdJSE5hMWJaY1RQTWRpUG90YjhhWHhZcGtXT2FlcXpfdElleFRGbjdlVVZaR0J1cFpKRTJ3Vzc3ZFg4bG1rNDNvMG8zcVBxSTBPd1NxTTROemttQkN3clc0VUlIUElpenVHY2h3R2N2MXZoYlRXVkhIOUhRYU1YSzFxQXBlSXBiYXpTU0Z1Q0xEN2lQVnE5MDNQckNsYVFvQm9XdnVfMw?oc=5",
       "date": "2026-10-29T22:04:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "CiOWJvULqwLP",
-      "title": "Cash is king, as investors draw new battle lines in AI spending boom - Reuters",
-      "summary": "Cash is king, as investors draw new battle lines in AI spending boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnRkb1hlemJ1dC1UWVotYWtHNW9rVlhfc1otUFZOTmlBUlVLbTlNSWNtUks0WEpYMnpVLXZJLWRLNldGRGRNRXB0OHpfeGJwRmRhcjgyaC1pMHVvWTA3dzAxekZ4Xy0xN3NVQU9URjhJTXVZLXFXQXpvWFo3UE5aWGhjNElxLWJtcVVsWFI5N0hBV0VrM0NCQzdlYkdNUHMwTXpkNG02bEY0QQ?oc=5",
-      "date": "2026-10-29T18:48:35+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1229,6 +1241,18 @@
       "articleLang": "en"
     },
     {
+      "id": "cJAMa3kwZszQ",
+      "title": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation - Reuters",
+      "summary": "Serval triples valuation to $3 billion as businesses adopt AI workflow automation&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWGsxVlVwdm94YVFRbXJ6eWNIXzRuWkZqVkZwNm5QUnkyc0EyUHFyY21WTE9LRFNRSVpEbHg5b0UxaGJsbEYtdVRuTWxHN0xFVnkwa1kya1I4S0ZadXhGQmZmZWtQdGJvbDVrQXI1UVhjLU1zWTdPQWlpLW5ubEdEMWhrczRhbGNHUVRxVTJBZVZtVmpiT0UtWlYwZEZMRjN3NW1LSFhYR1pfc1lLS0lBaGdnc1pLazVyT0dJ?oc=5",
+      "date": "2026-10-29T12:02:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "qmyZJRitekiF",
       "title": "My AI therapist: A chatbot experiment - DW.com",
       "summary": "My AI therapist: A chatbot experiment&nbsp;&nbsp;DW.com",
@@ -1238,18 +1262,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "0qA98nJ8ebvE",
-      "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say - Reuters",
-      "summary": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5",
-      "date": "2026-10-29T03:28:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
