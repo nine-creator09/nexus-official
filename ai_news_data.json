@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-05T23:16:47.955300+00:00",
-  "articleCount": 108,
+  "generated": "2026-11-06T05:13:56.987546+00:00",
+  "articleCount": 109,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 8
     },
     "bbc": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 23
+      "count": 22
     },
     "reuters": {
       "status": "ok",
@@ -64,6 +64,126 @@
     }
   },
   "articles": [
+    {
+      "id": "HDFsxrQ1j4lb",
+      "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
+      "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002899/",
+      "date": "2026-11-06T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "9OgqJLWeGmZw",
+      "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+      "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-06T02:57:24+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "UhmYm/o/Qsu8",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center proj",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "date": "2026-11-06T00:37:56+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "hCAcrbgirIk8",
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "date": "2026-11-06T00:06:12+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "KJR17sWAQIPl",
+      "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
+      "summary": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。",
+      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
+      "date": "2026-11-06T00:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "6nLrKGY53Eds",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
+      "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
+      "date": "2026-11-05T23:49:28+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "YuGoKsSmpvrf",
+      "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
+      "summary": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNGVmWktzeU5zbmRiaDdiZ2pxbEJhRk94VGN2V1lxUmpTNTFFNjhLR0puTjROeHE4UENDYjQ3OEFNbHdralNNdVJ2ZThsMldHZFlrcDZ1U21BTS1aeHU1aGNUNWRnTHc2SU5DVUktREt0Q3hzUkNhN1VJNDZYR3JLdjhwZUlaQjZCSl9Oa1dfT0d2dUotaWhDMkgxU1RBdVJOSEMwMzJsd0M3TmIyTGZ2WFZpVQ?oc=5",
+      "date": "2026-11-05T23:41:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "a/d8Uar7cfN9",
+      "title": "How Singapore confronts AI fears of ‘broken’ career ladder, no pause button - South China Morning Post",
+      "summary": "How Singapore confronts AI fears of ‘broken’ career ladder, no pause button&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVhGa0ZoMUdramxIbzZGLTFtYW9UbFVkalpzdWgzelVkMFo2NlZSRXlrNUZEYl9LZ3lSLVRTUDhIS2w2Vkh5bEU4aGdsUk9NVEMyY21QbDhEQkVlbm92ZEpsZXVwcU1iOGJYVGxac1J1dXpBbkZpMVRHOHQxVXFFUExCWUxoakZNX3p4YUFGNzF3SEtMRG9lTTRkTWFOTkNiSW85bGdfTWU5MUsxTnZiQ3B3X0VEMFJzb3A4M041VEJDTlRO0gHEAUFVX3lxTE5vR09aYW1iMTRsRk9sZV96V2dEcWZQSkk0LWJkdk9SYnlieVRkeHdWV09vb19MMWJKcThBYzZHY2hTV1lIdEpVaUN3LWZLT0tVVHNLMlNCUDNHNklGbUt4bHQ1bGhKWEJidmg2VXVhN0VRekJOV3pKSFJSQVpUYjNyMURkNXBnNENBLTV0WlVIRDF3RjFoMkhkVEZ1RVJiUkwxTDdKdS1NSVprUXh4a1ZjVFlEOUo4V0JleFhrdE1UdjI3YTQ?oc=5",
+      "date": "2026-11-05T23:30:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "5NpNTGZRdWCN",
+      "title": "Hong Kong police to enable AI facial recognition on CCTV network this month - SCMP",
+      "summary": "Hong Kong police to enable AI facial recognition on CCTV network this month&nbsp;&nbsp;SCMP",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZ2w2U2lqMkVDM3phX2h0bjJqV2otVlNFR0l6dTcwOEtNcHlpa1B4OUhtWnlsdXV2dmxkeEwtbzlhZmp0cjY5UEdta1B5WHc3MHd2bXRSUWY0d09Kcl9KME9OMG5taFY4MTY0OEFjWWFadHFaSkFiSHhVcWZuZTQ5Y09xMlJnMzhlSHhiNkFERGYydWZhd0JUc2hxd3JITEpUTTEyb2p1VmxSdVVabnhhSGFSdFliaThqMm1tZE1xYUF2VjlPNy1zNmtB0gHKAUFVX3lxTE1JZVJfNk5sT3pZVnhsTFBfczlUYzFqTWoteHVUc0VLZWN1SVpPaUZxd0cwckpmMzJ4amZxaC03bW5nSWwwMjl5MVlJTGdQSHNCN3c5VG9Nb2V3M2l5Rk1vM2lpcF9lV3JEMnJPdHJKN0c4ekZhX3RfeHpxRWoyb1B1Y0h3TmdEQ1FKZnM4R3dVOWFCTlBPcnZYUzFOaTctSVpoUnRoOTBuY0ZYRFZ0RlpzdV9IZ1Q1c19Jc18tVnZfaFhYZWpXVExvbGc?oc=5",
+      "date": "2026-11-05T23:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "Gb9/nwOS5ti8",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
+      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
+      "date": "2026-11-05T22:57:34+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "sO+NinFSn9MJ",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -77,15 +197,27 @@
       "articleLang": "en"
     },
     {
-      "id": "YXJuz1jGOzbd",
-      "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
-      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
-      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-05T22:13:38+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
+      "id": "EoGKIRtOaUVP",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "date": "2026-11-05T22:26:50+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "6MlD40+vQLeA",
+      "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms - Reuters",
+      "summary": "India flags Chinese-linked AI tools in hacking campaign against financial firms&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ?oc=5",
+      "date": "2026-11-05T22:26:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -110,6 +242,18 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "qeSJiHRk99S9",
+      "title": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push - Reuters",
+      "summary": "AI data center firm IREN delays Microsoft AI deliveries, plans $15 billion spending push&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnlxQ1JoQmdtMWZ4UzhHRWJacmNRTGNCeDJmTWRRV2xpdU9xUzY2MzhVSklqMkNxeG93QVNnRUZCYUxvVUNBaHVta2lPS2VxMDlxQnZvandHTXZQVk1LNmVTakZxTzJjcHFGbjBwUHd0ajBwdl9HUERfaEsyWGNicU9yeklKMldtNldLMk5rNWpRNnMyWXY1QUNVa3lLU21tcXEwbXUzMFUzTTZtNnRN?oc=5",
+      "date": "2026-11-05T21:35:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -285,7 +429,7 @@
       "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools - Reuters",
       "summary": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT2FNazA4NjVLU04wVlFLNTFIcGplRVJsWmVsakIyMUdZQzRVc0lkY1dHTXVTd0d3ZnR6MU95MDYzTWpJOEZ3MkFNaVlqOFZJMGxabG1Jd2lnZC1ReHNxS1U5ekd1UFhMUXBoSEdPLWNXTWNPdzBhSnYtTVY3MzVuZTQtNEk3SkFVSUxaMWFGM3ItWFRBLUwzYUMteG9oVFd4WURaSTZZSGlVaDM2UlNiMUJWaFNQT280dWRYYmVXRjNyZw?oc=5",
-      "date": "2026-11-05T16:10:23+00:00",
+      "date": "2026-11-05T16:05:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -461,27 +605,15 @@
       "articleLang": "en"
     },
     {
-      "id": "M8D1e016woW/",
-      "title": "Powered by GPT-6, Unitree humanoid robots master painting without prior training - South China Morning Post",
-      "summary": "Powered by GPT-6, Unitree humanoid robots master painting without prior training&nbsp;&nbsp;South China Morning Post",
+      "id": "RDM/wbDbtMDd",
+      "title": "Powered by GPT-6, Unitree humanoid robots master painting without prior training - SCMP",
+      "summary": "Powered by GPT-6, Unitree humanoid robots master painting without prior training&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2JhbTlFSk1uZ1RhdEN3SXBXZWh6UkxiYVpIUWVOaV90dDdGbkw1enNoNkVEejVMbUpzc2ZId2QzU3JGMWJUak5CTDVZYURsdXk1cFFOQW5TV2EtY1VPU2ZCUWNTemRjRjJnbkhMZHVCdDRFcUFlVTFOdEVmSGg0Qkx1cUNSdjRpVkpFMmZXVFR6RGFDdDdqQUtObVZEemNNckRhQk9GYWZ0NDFWd0FrT3YweXhjM2lGX0ZRLVNXQThuTjIwVk5tQVlycVpsOGFsRGRHZlVn0gHWAUFVX3lxTFBlc3ZLQ2ZiUGVRVk9OWWU0b2tmMDIxaTkzZzN3NFBQMi0yWVNDeDRVOEpValRmSmQxZE1Ga2t3S2lqUmtRaHVETVhvN1Y3eHBldWNfcTgzUlZXUlZCLWgyRVR0MmZ2T2VIdFhXdzB6LXhBOENYaVRrZXI4MjlUcWI4bUV5N2U4VlNSMTAxa1JtWkNJZ1BPcTJBUnhmR2hjZ1dvS1lKOWZIRG90a0RHXzgxNmE2YUtBYVg3eXZEZ180NEUySFdUZHpISG1vX29QejRXSnIxdlE?oc=5",
       "date": "2026-11-05T11:00:23+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "AcSn66NKgSrJ",
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "date": "2026-11-05T10:45:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -509,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6MlD40+vQLeA",
-      "title": "India flags Chinese-linked AI tools in hacking campaign against financial firms - Reuters",
-      "summary": "India flags Chinese-linked AI tools in hacking campaign against financial firms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTWVkN29DQ3RzdVJEWDZTU0JvTXZCSldfNVROUHNLMzFsTF9mSTN1Z1FCV2VQSE16MHR5YU1lR1lhVUgxdkhYQ2VpT0prNktfT3IybFhJTE0zbWZ4U3h5aWUzSTMxZm1JRTVDUkJXeHRGaHBpM1dUYnhDSzhqbVNkVlJMZmJMTS1nRC1vZzBDZDZlMjlzdUZINzZuMFpFM0VnOVRhUEdBZEEzSFRSUHBIX21QTEktTmdCYTFUTjZTUk5qeHpxU2RVdQ?oc=5",
-      "date": "2026-11-05T08:41:48+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "rcaSpuNsAd3O",
       "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
       "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for",
@@ -530,18 +650,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "rRKuITVFBThS",
-      "title": "Chip selloff drags global stocks lower on AI spending concerns - Reuters",
-      "summary": "Chip selloff drags global stocks lower on AI spending concerns&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUG9ENFo3M0RHNWI0VEdfTlZhWmpjVGR0UjViV3dBQllRVkNha0YzU1FhX2lDaWVUT1U1Ym5DbWRlOFpJZ3JPU3AwZ1Nia3NNWjdKc3Jvd0VXU3otQU83ZjFlQmZwbHcyZmJKZFk4dVJWaXhWQnV6MTF6TUpmaDcxNmdhbFFNaU1N?oc=5",
-      "date": "2026-11-05T02:35:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -602,18 +710,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "08R9oXos6Bh1",
-      "title": "Costs above competition? Why US voters aren’t buying Trump’s China AI pitch - South China Morning Post",
-      "summary": "Costs above competition? Why US voters aren’t buying Trump’s China AI pitch&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOODBENThjT0psT0JLem0yOXBTZHV3OV9hNFlDaWNwT0sxa0tHRndLNF9oUVUyTnhnS3pfWGx3aHZTdXZXVGRwN2J0Yk92MURsMk13Mml3d3NpUlpJeElXNTlRMjI3YVdsQmctYkJXMjBrbWlTNHpVTGxWWTV5QkhLb1kwX1VrQ0liSS1QUmNEakVXcV92Mm9UOWRCUTh4bVFpOVY3MDZIQkNfMkpXVjUyZVNiYWE0SnpTc3RRUUlETDNyMUdZdkN1RkV30gHKAUFVX3lxTFB2ek1fVkEtbU1qU1NPWkFwcHhfcWR6enN6MGlBVHpOdWpSUG5kMEN5c3JXdGszeFFJbUwyTGVrUHJCUVdLZndjRzFCMzJUTVJXSWduMzZaVjFORkpHOTJHTng5MkNEZFp5LXVBY3NlQlUzOFUzRjl4c3ZyeGZ1WU9RXzVGTWJ2OXlrM2dnTmdpMWZ6b3pnaGltS2pUVjFRdFFvbTRUSHpUTnc2ODdFNDM4bmlvN3U2ek1ZY01IVVRqOHpDSDFQcDlmdEE?oc=5",
-      "date": "2026-11-04T22:56:47+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -881,9 +977,9 @@
       "articleLang": "en"
     },
     {
-      "id": "+wO4eIS6+5Zi",
-      "title": "Education chief dismisses push for final-year university internships amid AI threat - South China Morning Post",
-      "summary": "Education chief dismisses push for final-year university internships amid AI threat&nbsp;&nbsp;South China Morning Post",
+      "id": "ICsdBSielBBI",
+      "title": "Education chief dismisses push for final-year university internships amid AI threat - SCMP",
+      "summary": "Education chief dismisses push for final-year university internships amid AI threat&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFJ5el9zdVVPeGtvOFA5dkx3QjM5VERTTzB0V2R4TnBXVmFQaXgwZm1hVHo0Rm9jdnRWOUZKSEpkSnZ2NGRqcnhCWTZ5dTUxRVk0VmxXVTV5bk8tV1JIX1Q3X1ZNS19NeGtzT01xXzM0V2pEaWZBSnd2SkhOX0w2UUpadkw3UDYxRkU4M0F3LXktZFFGVXl2R3pEMjFVVGJmeklKbTVuYTFDLVpkMERQSmx0b0ZjYkFwd2EzeTNnNFcyNmhXMTR6aUl5VlZRU2p0SXJUNEprVTHSAdgBQVVfeXFMUEhzb0RjNXhmcm5IS1p6dHJXeWw4dDFqeDYtTmJqUVpkQUN0QlBzZm16STVYX0NOV0xOX1NRRnRpTmFDU21ZSHNkUXphX1RJSnl4bXhwMUpDQjlJMzNLd0xSNEFNV2x3ZTJLOGVCaFpKNFpwR294MXVheDJPeFNaem1fMXNuRkFxR3BLbGs5V0ZPMzk5NWdWRGdNRUpwbzNIUXVwRG5VM2VhWC1yRElPNjUyU25NdFpsMGhseVZTMXlfeURqTUZGSUhsLVRoN3dpUTZOQlhOLWx1?oc=5",
       "date": "2026-11-04T11:03:49+00:00",
       "source": "SCMP",
@@ -917,9 +1013,9 @@
       "articleLang": "en"
     },
     {
-      "id": "uUv1VSQB2chE",
-      "title": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks - South China Morning Post",
-      "summary": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks&nbsp;&nbsp;South China Morning Post",
+      "id": "Mm3m3weu8SyB",
+      "title": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks - SCMP",
+      "summary": "US midterm shift could squeeze China on AI, bring clarity to bilateral talks&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc0dsak9NNUxVNE1STlluTEhVM1hXSFh5TG1YSE5XdGpjNF9jVFVwMENfa0tMcWRYeThqYzZtSGNhSlNOblhDVUpVZWdjREQtYTZOR01sbVB5UU5RZTVMXzB2TkNjOTM3YldfUHBDVEl6M2dsUHFIQVQ2T1hrM2NzbHMwOUdvbnFRemloUWRhaTRKa0NNWGlhRkRYd0c3eXlIU3djQXZ5T0s0YUZGMUEtaExIdFI2OVBJNm1jLVN4WlZvS2_SAcMBQVVfeXFMUFBNa3lhMkJXWjQxRlpBU3lFWnEwWFZJVDVQNzc4ODRsU09MRWxYdHg0OU94bDFmcmZTc3VvOXRGTXNXcDBkeTRIVzhNb2toaHNaWnhXOVJ4cGJfVHFKOS10VEJCdk1QZ19ubGNhRlk4YjFqOFNKSHVPdUZNVFppR2syM21lTFhXdXRIV3o4bW92bzBGZGk4Vzhva0lhTXUwSl9jeGpvWlptNDNURG81SGRVWUNobHFOaHlSR3RsenBqanRz?oc=5",
       "date": "2026-11-04T06:49:33+00:00",
       "source": "SCMP",
@@ -927,42 +1023,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "+jeS3MN1+c/o",
-      "title": "Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開",
-      "summary": "Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連コードなどを公開した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/",
-      "date": "2026-11-04T01:40:15+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "39VjrVY1ZyG6",
-      "title": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards - South China Morning Post",
-      "summary": "From cyclists to wild dogs: Baidu’s new AI preps robotaxis for rare road hazards&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdnRlUmo3TGlsWDduLWpsb2JkUXN2TnYwa1doVlduaWdxdjEzalQ2MTJ5eVp3dnphcnhOTE1sb3RYdHJheHhzMmdDekRQYkdrc0xmOWlVQXdYWUc0VUJqNmxoLVI3aVFxOU9PNlJlc2hTQnhnYjRrM09XczNXTGpJRV9sRENSM1ZDU0VxdkJsejhCNUFYbkkxWFgxMmt0M1VOOUtGRXN5cDlWT0dGM0kzcWdHSDFmSVVWZ0dqWDR30gG-AUFVX3lxTFB0cW55STgwYkhmUy1Gb1dwR05UV19Yd05rb0FjbTlOQmtteG1BV0s5Ni1oelRfM2N6S1hDXzVnUHlvYmlsZkIyY2pnUEd4aTRtSTNFNC05M3F0aXRMQmdSTndMYkQwVUhHS3RWaUNBT0JhMmJPRWxOdnJmU0VPVDZlSUZnZUd5bk5nZjdTdUJ4RDBRWGlmNzhKMHhLYVk3djVqNGlrTTI2Zi1ka0NibHZtZkxCMmZDRFZhM2x1TGc?oc=5",
-      "date": "2026-11-04T01:30:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "Jqp6WilF7KR+",
-      "title": "Apple、刷新版「Siri AI」を全開発者に開放　アプリ連携で予約や注文などの操作が可能に",
-      "summary": "Appleは、音声アシスタント「Siri AI」とサードパーティアプリを連携させる機能を開発者向けに開放すると発表し、各OSのβ版でプレビュー提供を開始した。「App Intents」を利用し、アプリを開かずにSiri AIから直接操作が可能になる。一般ユーザーへの提供は数カ月後の見込みだ。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002855/",
-      "date": "2026-11-04T00:37:42+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "TPR6sn+KWrgI",
@@ -1025,18 +1085,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JKt85CbV42Qk",
-      "title": "OpenAI employees warned about operational security lapses for years, sources say - Reuters",
-      "summary": "OpenAI employees warned about operational security lapses for years, sources say&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
-      "date": "2026-11-03T18:56:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "1LKJ3HE++/Z1",
       "title": "Datacentres are deeply unpopular – so the geniuses at OpenAI are rebranding them | Arwa Mahdawi",
       "summary": "These resource-guzzling centres drive up utility bills and are hated across the political spectrum. Cue a clunky, but potentially influential, new name for themJesus may have turned water into wine, b",
@@ -1064,20 +1112,8 @@
       "id": "sQbC7HzwuoBt",
       "title": "US AI giants are offering billions in bonds, competing with European governments for investor capital - DW.com",
       "summary": "US AI giants are offering billions in bonds, competing with European governments for investor capital&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHE0ODBGekNRVEI4YXZOWWhRTGNjRHRMUG1MaFpYcUUyUnFMUklyMWtpLUhxRFlfY1Nvdm1NUDFiU0xDWGZXVFA3amFpOEdBa1lvcVdscDMtaV9HM3cwMGtQRkI4dURUMk9YTUlDbncyQ2lTTEFEbXdvNTRrVEZJa1RaZEV0N21UYVpRRU5NSFpOT0NX?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHE0ODBGekNRVEI4YXZOWWhRTGNjRHRMUG1MaFpYcUUyUnFMUklyMWtpLUhxRFlfY1Nvdm1NUDFiU0xDWGZXVFA3amFpOEdBa1lvcVdscDMtaV9HM3cwMGtQRkI4dURUMk9YTUlDbncyQ2lTTEFEbXdvNTRrVEZJa1RaZEV0N21UYVpRRU5NSFpOT0NX0gGUAUFVX3lxTE4yX0c3SzBFTm5ITmVxaWhqa1VCRWwzbnVKd1FTenBQcjVkY1hORUM3SnhHN0ZvNVBKQTQycEhwdF82TzlxZ0tlSHlMM1g3S0k0RjhUS0J3M1pwN3JndHM2OVNOUW1QUW5UMU1aY3BZT0JjbWNkUW9NallxOGtCQ0EtY0lMLVFQWjBlVldxRF9uVmg2djc?oc=5",
       "date": "2026-11-03T15:57:50+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "qu9mhtNE3K55",
-      "title": "Artificial intelligence – All Content on this topic – Page 1 of 39 - DW.com",
-      "summary": "Artificial intelligence – All Content on this topic – Page 1 of 39&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vVHkyUTZQNlo5akV0MmF5am45aGlqZTFsb1RVcFdBeUVOREZ1LWVEQXJMOGlXcXhySFZJOW1KUzRLSTVvQk9pdGRVV2l5bVcxZ0p6VTVNdkltZlRMNjltakIwU2h3ZGtjZG1qTkUzQUQ?oc=5",
-      "date": "2026-11-03T14:59:49+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -1109,9 +1145,9 @@
       "articleLang": "en"
     },
     {
-      "id": "bPYWrT3yqT+Z",
-      "title": "Why Chinese AI stars struggle to match Anthropic’s profit margin - South China Morning Post",
-      "summary": "Why Chinese AI stars struggle to match Anthropic’s profit margin&nbsp;&nbsp;South China Morning Post",
+      "id": "6JEhtf58y5fk",
+      "title": "Why Chinese AI stars struggle to match Anthropic’s profit margin - SCMP",
+      "summary": "Why Chinese AI stars struggle to match Anthropic’s profit margin&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVURXY2VPbTFzUm1qanpySWpqUmNvaXJ2ZEg1ZDBzb1hXYVVMWUh6NHpwQzB2Wi1qa2NYNjBxNlBuUEd2aDJNU1lMSkxKVHZ5TVZwX3RBM1Q2R000NlozMWVmOWZjaHAxNVdYd013UGF6cmw5X2FrMWsyZG9VUlhVVW9DUTlNeTZDQ1V2VURvMlc0Wk1ZcGtxZ1NfbUY5M1k3UUdGbFhuQVpqWS1DVGc5cmdDS1A5X1lQeGxMWEFtWTM?oc=5",
       "date": "2026-11-03T12:30:13+00:00",
       "source": "SCMP",
@@ -1157,9 +1193,9 @@
       "articleLang": "en"
     },
     {
-      "id": "6rpCN+FzuLlY",
-      "title": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’ - South China Morning Post",
-      "summary": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’&nbsp;&nbsp;South China Morning Post",
+      "id": "Gv/t+8hgiEIU",
+      "title": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’ - SCMP",
+      "summary": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0dfTWRxb0xQTVBBcVVrSlFiek1xTk8yMjAwUXl6STQwRkpjdDlZeVFheXFMTU4yLV9zckl1Q2tnMWtJVjFUX1BRTVhDZERmYnRPYUc4U2VtRnpLY2ZMRGxfczZ3WmtkRWhNRTRoY3lZUUZwRzlNc0hzb2R1N3Z2RnlhU2VKU0ItRE10NUJCckpGUTBLb0tNcWpNQVpILWJaTUYyUWdraUkxaGJEYkgySzNMdFA2U1FzdVJOWjhvcE5iYjRPdGZPMDRfdjJxZG43YUVrblM1UQ?oc=5",
       "date": "2026-11-03T06:39:28+00:00",
       "source": "SCMP",
@@ -1193,9 +1229,9 @@
       "articleLang": "en"
     },
     {
-      "id": "NDTT/2ALAL/N",
-      "title": "OpenAI executive urges caution in China-US AI talks, warns of distillation - South China Morning Post",
-      "summary": "OpenAI executive urges caution in China-US AI talks, warns of distillation&nbsp;&nbsp;South China Morning Post",
+      "id": "Kk4a1aSBIrUw",
+      "title": "OpenAI executive urges caution in China-US AI talks, warns of distillation - SCMP",
+      "summary": "OpenAI executive urges caution in China-US AI talks, warns of distillation&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMnc2WVBXWTcxcVhqcndHd3BkTXFZelV6WmNXSjk1Q2tPNmo1Q1J4dXoxdThOSXhtSE9vMl9MVi1TN1llakZzWm42aDJmend3eTZ5dFp3VG1zeTU4Snk2QkF0UHd6MXktVnVmblVZYktxNDNWdFltOTdfYWNnQzcxcHFkcUtFblV5cTBxS3hfQjUzbFpBUU5WTHBieW9lUDliaGVhdWZ5R0NiaTFNSXdXd3V3VldnRkRDeVNvadIBvAFBVV95cUxQTGxrWkRuaHZXalFjREpXNU5SMFdDYmxoNHZySkNnb1laUk9fUXZsbjdYYzBBUXBzWWdNZVVFV19xaW9MOHM5aHBJUER2TzVLZWloalBadHlLQ2NGYkNUal9jbmhsQ2RkaHFTb1lpNzI2MFQxVHo1c1JJUkxHZ2VYR0FOeVlYSW8wWU94aktONXVWc2tuQnlQTjF3OHp6b0hhY3VkMkhaT0NlR2J0ZmdkWllkMUpVOEQ0dk03Ug?oc=5",
       "date": "2026-11-03T00:03:51+00:00",
       "source": "SCMP",
@@ -1217,23 +1253,11 @@
       "articleLang": "en"
     },
     {
-      "id": "IG/46zlHIL/k",
-      "title": "As AI solves complex maths puzzles, mathematicians face uncertain future - South China Morning Post",
-      "summary": "As AI solves complex maths puzzles, mathematicians face uncertain future&nbsp;&nbsp;South China Morning Post",
+      "id": "b1T3fnPk7XaZ",
+      "title": "As AI solves complex maths puzzles, mathematicians face uncertain future - SCMP",
+      "summary": "As AI solves complex maths puzzles, mathematicians face uncertain future&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV25taW9zeldyYkZRYlRUMXYxNkZJMG8wajdrdlVCRGhnc2V1NWx0Z2lRTEVnbUR3dDZ0dXdqb2JnTm9QcFhUdFBLNl9nNENRQ1p4SFo2X3YxSG56U3ZwV21QR2FPSzh0bEpWYm54OWdCcHRjZjlHTkZ1ekJlMmV1NUh1Nk9PNWRmc0tadExTRzBMWEYyS01RTm5TS25IaER0bFNnQ3dhZU9TeFJoRzRWeGhsV3VTUXdDeFlkZ1dwMnp0RkIxejV2aHhha0lMaUs2ZGpOONIB1AFBVV95cUxOWkpvNWVvSzBMR3pOdXM1eXkxQTRqN0dRYU83bkdFNUZuc19fX21uNXlQb250Rmh3cmlaLXUwT0U1NTdCVWo5T2o5dGluSUpHRDBtM2lwOXJBcU80eVdTYTl1WUMzcEJuc29WWnFDQk1jTlhqRzFOX3NpeTVsOEVldlhTS0xucEUwaHh3TXRyX3o1NzBNaTJPRjBMQzNhdlR1OGEtZnpQa1dfeXpyMkk0LWwtWTQ4NjhGdW11TktxRG9JS1BOeVpsejFyc0lrS2xIWEQyNg?oc=5",
       "date": "2026-11-02T20:31:27+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "1GTw1H8t6kV0",
-      "title": "Meta says it met Hong Kong privacy watchdog over AI-enabled glasses concerns - South China Morning Post",
-      "summary": "Meta says it met Hong Kong privacy watchdog over AI-enabled glasses concerns&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHpOSlkyT2hxOUVxejVzNDlrVFctUDU5VzhZb21QcDlIc2pwREpyS0ZQdVNnVnBPWUwwdjVOU2FLZ3JGUjg4MGdEdWF6c0RSY1VPR3E3ZjNhTlF5dlNGU1dpb1pKV241djRDS2twNXc2ZzVLQzI1NXlTelB0NWFRTWFidzZyY3BhQ3MtckFLX0U0cGplTE1xZG5wcTFxUklRclAzNlUxN0p6dGR2c0xodDFEa0hoLWU2YmUzLVZQOElzZTdBMTBTY2tTNTYyX1diNUHSAdIBQVVfeXFMTzk1M3dpM1JwVU1CM3lqank3X2xMLU1TQk1iMkdEV1owMmlNTEU2TFJKWTBEUHdEdkkyby1tU0Y3UnRmVUFWbmRfSGhfUHZKcExzd0trSjlsQnFlWUZVc2hhemNzYVZDRkE5aU92ZjBFZ1pnTkVlbVVnTWowemVXREprUjNZV1JfcmVmVlJjNWFZSTczWnE1aFo3OTRYNllZVWJnZkc5YTRsOXIyTW5lUG5ZVTRDd3c4dnVwcW4yVzQ2WER0MVgxa3FzMHEzSVdEemxn?oc=5",
-      "date": "2026-11-02T11:39:12+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1313,23 +1337,11 @@
       "articleLang": "en"
     },
     {
-      "id": "dLO/aekbpGBV",
-      "title": "Apple to launch iPhone AI features in China in December via Alibaba partnership - South China Morning Post",
-      "summary": "Apple to launch iPhone AI features in China in December via Alibaba partnership&nbsp;&nbsp;South China Morning Post",
+      "id": "6b05L/R1Tu0c",
+      "title": "Apple to launch iPhone AI features in China in December via Alibaba partnership - SCMP",
+      "summary": "Apple to launch iPhone AI features in China in December via Alibaba partnership&nbsp;&nbsp;SCMP",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN2tkN3NFenBvWmVSMHFlWEJGWnlfeWpyVzFQQzhoUllDZ3ljS05venFUT1ZnT3pQai13c3hmUHU0RTlESklTekVvU2VuTXJXeDF0Z1k4THFicC1ybU0wcVk5MVBuNmdaMXVCUlZ3dTBPcmtLTVBjTnBKV2lHZEFGRmlKU0loWWttaWlXbDM3QkxLS1RkaHhic04xYm5FWGcyWWxDZDZFT01kVXl5WTFWQUtrcW1uZU020gG4AUFVX3lxTFA4YTg1dUhJeDhZajg5NTFxU29RRWNNeVZzZXRxMmpoUjZ3QTNuWktwS0FQVkxvbUQ3YjQ1NGcwa3hVRDE3TnNOTmVhdXk5QTVuYUhuMGgxR0tmWHZGbDdKV09tdnhWQWhJWTdnaW9mNmhZRWowaV9wQmdvZTRTa3FzdExZakVlTHpXT0RGNGxYS0RpeXd1emlfYXBqVkVCMk1MUjJhbmlQdV90M2RqN3FiakNEM3VYU2w?oc=5",
       "date": "2026-10-31T10:02:17+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "QQBZLIBCL75H",
-      "title": "AI could turn China’s social credit system into surveillance tool: study - South China Morning Post",
-      "summary": "AI could turn China’s social credit system into surveillance tool: study&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLTVTS1hGOFMxMG5WMDI3R2hwcUFLc0hOUlQ4UXdhdnpEVFdfbEtYMlR3c1Ytc29kWk5nYnJaRjZrcXV5RWRma1ZZMzNuV2g5YVQ2UV9RdC1tLVlERVlfa192c2czNzFfcUFiWTA1WnJ0VDFPOVR2d0M1MWE0UmJ6SFA3WFQ2c2R6U0ExMjhaR0U3dTJqd1h0WjlHbmlIM1dmM1BQR1BnQ3haT2RzUXdvOTRKX0VqQWJwU3N3Y3BqTWJibTB5YkcteF9BMUgwZlpyRWFFLVNB0gHWAUFVX3lxTE5EODZhb0ZoLUotY3hESi01QnBGbTd1Y0NiZmtHQl9qbDZxWGRlWmhGcUN3bGZ1VEY3clBpNkFGSm9aWlFrZzFPOFdJY1Z2OUVsSTJpeVk4RWNPdDFFUW1Ja1VZemdoM24tSlg2MFJZaHhWTEVlS2tQUWVpZmUwb0VRMFJNZlU4NUZEMVpZQlVLcmgtUHd6LTU4a1J3cW9aZjFyck9oZkhjZEtkd1NnOUdpbDVmVm1wQTZ5TlAtcXJZV3AyRldjUjFjUGdvdk9rTXp1VWxnVUE?oc=5",
-      "date": "2026-10-31T10:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1349,15 +1361,15 @@
       "articleLang": "en"
     },
     {
-      "id": "8V+MWRl68hLS",
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-10-30T20:34:46+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
+      "id": "2jLftNpL4t/Y",
+      "title": "‘I’m terrified’: AI comes for Southeast Asia’s graduate jobs - South China Morning Post",
+      "summary": "‘I’m terrified’: AI comes for Southeast Asia’s graduate jobs&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWVR5U21FeEljVlR6UG5CRkYySlBQMTRYdVpsODd2ZmNmMGdMNjhiQ1dqbzR3aHp0VEt3UjQwdG11QWljX0ZkajJ3cXJBSE1xVVZzQnc5Y1MyMnI0TFd2T3RUbGdNNnY5YllmUFNXSUl2d3FtYlRDTUpNVFhiYnBhYVhraDFhRGp1dzViR1FlMFVyaDhzVDdCSkJXSXVpWHVtWVNJdk5WcWZoa0lu0gGsAUFVX3lxTE40blJlM0xEcU5yTndUZ0ZQcmNDQ09LM0otcW15Ujk5aGNHRHhoNTYtSmpTa3hEMWFPNzNTTXA3NVE0b0RPUXJkSEFlWUxNb1g4WUpUMUZQSUYwZnl3MHpGSUVma3RvYW1WaktJd2tnZDZLdVdQN3NaZ2dwUmM2N0hoUk9PcVNkbnBiYjRBdWNLbjFKNDNpRG05aEw0UWo0UDIwczEySW1RYkJCZ1A?oc=5",
+      "date": "2026-10-31T00:00:12+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
