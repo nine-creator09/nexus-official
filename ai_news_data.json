@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-07T12:29:39.205435+00:00",
-  "articleCount": 113,
+  "generated": "2026-11-07T21:27:55.919164+00:00",
+  "articleCount": 111,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 10
     },
     "techcrunch": {
       "status": "ok",
-      "count": 17
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -36,11 +36,11 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 17
+      "count": 15
     },
     "france24": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "dw": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "G5wA5zLp7UUi",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "date": "2026-11-07T15:50:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "ABCQZcauGhGU",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "date": "2026-11-07T15:43:45+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "23wpos0EjnmR",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series l",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "date": "2026-11-07T15:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "P88uGZiwTCsE",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "date": "2026-11-07T12:30:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Jnbr51sz0FBg",
+      "title": "Chinese university stops using AI to spot absent-minded students after outcry - South China Morning Post",
+      "summary": "Chinese university stops using AI to spot absent-minded students after outcry&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZnRTbXZoVXQzQ3ZhTkxLRmpQWmdTR1NfUUFfRGtQcy1qUkN3U0o1VmNjZGNaZ2dZUS1wYUc5UzVfR3FDaUx4QVFYSW1hbnMzWU50SW9FVWtXS21NWlBGSTR1U3ZCOHA2NEt1cHdNWEQ3Z2xzaFdBNXVyUVdEeWZ5Zno4alBFNUxzdzRnNXcxemVBcEp1dW1wNmhjdHVMQkNlWHNXQ2JINHdFa21XWnZOV2QzdkVvR01ldDdLSmFOUUY0UHRxVmtGeWRBamhJeVnSAc8BQVVfeXFMTWd5aHQ5N05nbGlYTk1SdVR3czRuX1hoeWN4UXlHYnh0Rk5pR2hsUWV0UVVpekdPZU15NGN3WDVlR01BVmx2dVA4QVBkYll6b1pQbVVETnNOcXVkZlhFU0xsYXZXblphT1kxUXNCeDhneU5uNDJWM3hxSnNIX0FzUnJwSVh2bE1RZWpUSmFtT0V4LXJsRDlxb3NfZ3hDVld1aU0yZUtWM2VpX2FSOWstemI1dWFQUnJQc21pQUdsVXZtNXZGdDl0c0pmMVU2Wkcw?oc=5",
+      "date": "2026-11-07T12:00:09+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
     {
       "id": "kLYERXm2dMzv",
       "title": "Apps for Caregivers Get a Dose of AI, but That Might Not Be Enough",
@@ -521,18 +581,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JtN/zP+rHHR8",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "summary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "date": "2026-11-06T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "GAxUBwQeJ9wo",
       "title": "Teachers and parents: what are your experiences of AI-generated emails?",
       "summary": "We’d like to hear from teachers and parents about how AI is changing communication between schools and familiesAs AI tools such as ChatGPT and Claude become increasingly common in everyday life, we ar",
@@ -653,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "IzBJXxd0bZD5",
-      "title": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules - France 24",
-      "summary": "Tech stocks plunge as US midterm results fuel fears of tighter AI rules&nbsp;&nbsp;France 24",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQb1l0R2ZDZkhfWDNxR1ZkR3Q5UFY4SEVGdnlNOWNOQ0w2TENZd0YyQU9ZU3BySXFKVGVDZ0piNFhHZVljdkZURzZYUmJhTzFSUXBrZ1RHeDR5dHhOdHhpaFZ6Y3dYMXRNRTJHNmU2MEdzblhxQXNNdElMODhBbXRvbGNDRHd4SzVEZWJvRkRoSQ?oc=5",
-      "date": "2026-11-06T05:02:06+00:00",
-      "source": "France24 Tech",
-      "key": "france24",
-      "cls": "src-france24",
-      "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
       "id": "HDFsxrQ1j4lb",
       "title": "AIに自販機経営を1年任せてみた　指示は“利益の最大化”だけ　米ハーバード大などがシミュレーション",
       "summary": "米ハーバード・ビジネス・スクールとAI評価企業Andon Labsに所属する研究者らが発表した論文「Robber Bots: Autonomous AI Agents Mirroring the Darker Side of Human Commerce」は、利益の最大化だけを命じられた自律型AIエージェントにビジネスを任せるとどうなるかを検証した研究報告だ。",
@@ -675,18 +711,6 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
-    },
-    {
-      "id": "UhmYm/o/Qsu8",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center proj",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "date": "2026-11-06T00:37:56+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
     },
     {
       "id": "KJR17sWAQIPl",
@@ -845,18 +869,6 @@
       "articleLang": "en"
     },
     {
-      "id": "esDxYa9q/GBe",
-      "title": "Nasdaq sees worst day in 19 months as investors bet on AI slowdown after Democrats’ election triumph",
-      "summary": "Nearly $2tn shaved off Nasdaq value as worries of curbs to AI datacenters ripple across boursesThe Nasdaq share index had its worst day in 19 months after slumping 5.5% on Thursday amid growing signs",
-      "link": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
-      "date": "2026-11-05T21:23:18+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "okouLJqW6w22",
       "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
       "summary": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演から、AIエージェントの現在地と今後を読み解く。",
@@ -902,18 +914,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "XsJ6oyS/adsf",
-      "title": "Winner of the Prix Goncourt literary prize admits to using AI",
-      "summary": "Philippe Jaenada told French radio that he used ChatGPT to ‘play with the reader’, after the prize removed a different book from its longlist over allegations of AI useThe winner of France’s most pres",
-      "link": "https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada",
-      "date": "2026-11-05T18:08:58+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -970,18 +970,6 @@
       "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
       "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
       "date": "2026-11-05T15:19:05+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "6DeUO4DWZMpe",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "date": "2026-11-05T14:42:00+00:00",
       "source": "TechCrunch",
       "key": "techcrunch",
       "cls": "src-techcrunch",
@@ -1145,18 +1133,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FJLteFkzoPap",
-      "title": "US bank regulator issues first-ever AI guidance for examiners - Reuters",
-      "summary": "US bank regulator issues first-ever AI guidance for examiners&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNXzJNWm5iUUp0bUVhSUJOR0FZZHVBbjJwb3BqbW5yYUJTZlpYYTNlVEU5ZXBORnhZQUpyVnNYeWlnaXFkdmZQa2h1YjVEVk92aEpkcUhueTRsTjRMU3NPekZMLWRxdGFyOUFvNWlHNmhCSFZmcTBLbVNiU1Zlb0hHeDZyLVVORnRUMDNLZ3VTZTBOd2pyajVCSnlqWXZuOEpzUkdEa01VRF9aYnpOemlz?oc=5",
-      "date": "2026-11-04T15:35:36+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "h36gTvW/6APE",
       "title": "How Democratic sweep could slow AI growth in US – and help China’s ambitions - South China Morning Post",
       "summary": "How Democratic sweep could slow AI growth in US – and help China’s ambitions&nbsp;&nbsp;South China Morning Post",
@@ -1277,6 +1253,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Pds57tcP8iNg",
+      "title": "Schwarz Digits and Bull partner up to build European AI computing services - Reuters",
+      "summary": "Schwarz Digits and Bull partner up to build European AI computing services&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWQ2WUFhNnhncGQtQnItaF9xaUl3QU1qSXY0YVRlYWxFN3JpZ0U4M2V1V3Q2LWhOencyZTVaY3hnaUNVR1FUbkZLS2ZvREpZS1oxT0Y2Ym91cE9FRElVRDZsbDRYMzhlMGtXMVMxcm9TblN4cmlPNW9fb1psM1E1ZUN2VE9iRVhHODMwSlBYZlp1RzJvNGRoTEZIVDhlTXJJSmJJZXVzbWV6ZjVQNGZHRjRwWl9XV3Q4UmtjZ2YzeE1tS3VFZHZr?oc=5",
+      "date": "2026-11-03T13:08:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "X15MjS16I1R+",
       "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin - South China Morning Post",
       "summary": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin&nbsp;&nbsp;South China Morning Post",
@@ -1294,18 +1282,6 @@
       "summary": "Open-source AI is the ‘only’ sustainable way forward, says Alibaba’s Joe Tsai&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTBJbHVvTm4yUjBKYUgxUlFTQUJiM01yNmhZNi1FNTJDWTVwdkJEN1MwNUQ0dkRYSmFpT0wxeFNuVGs1c3dKQ1A4cnd4eEpEcUZyNlJVUmxPYmtwbmZhQnl2TTFCUEozc01QUUk3amlYVDhTRGRoRVplNXd2bk9KQi1XUkVMTmJVOVYtUEpLRVVFYXJPa0pYdXNZOEZ1c1RPT2JwckVQYlBnSFpzb2tFb3JVOVhmRkNpelBqbHp6R3VKdlo1d0HSAcYBQVVfeXFMUDh5U3A4YVNIQkZkR3I2OURyanJOX014cEZIemRtTlVXbjdtajZmTnB1MzkteVliSnRVLVlaVkpKX2NxLUV3SDRjbEFWdVRyNGpKeUhhVG5HdlltaWxkQTZyeGhnVGhHZmxFSU1EZ3JmRTBCdmVsTGNVWGVPdUNwNWpmcS0tX1F6aGEtZnpTZm1RRjU0TS1VXy1vcmNQNHFhZElrdWNTZ1RIZmZnUEViX1U1YzdGNkExQ1BhR3liRWRkZWpmcFJ3?oc=5",
       "date": "2026-11-03T12:00:17+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "tHBAewdwzLIa",
-      "title": "China-US AI investment gap narrower than figures suggest: report - South China Morning Post",
-      "summary": "China-US AI investment gap narrower than figures suggest: report&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUm9WRXBhVTV0T1VtaVRaM1RTVVhqQXNJYmRmcktYZWxGSmtGQ1l3M3dmcTdZTEtZX0hxT3lGZ1g2YVhrSTJ1dHZ5LTZWUjZvc3FodW1aMlM5ZGZudVF0ZkVDOF9reG9JYkpMekN4Mklrek9lSzFzTy1JZFdiNW9JMUJFNUFWczN4X1RpckFYUXZfbEFEaEhjMEw5eHcwZi1UVUtwLTd4M09OZTFPNGFIc1ZDQU9nTnhN0gG4AUFVX3lxTFA2dVhiaGhmaTdWQU04Nk1lcWRqMWNicUZfSjJDT1h0US1IVjRqNlJiWE9kTVRRWmVkNFdmS043enliZ05vbkstdkpfazJKRUJFZnNscWhwd1MzWERGOTExTF9sczJXeEdxRzBRakJLNUpjeG82dzE5WDJOTjhMMVdDSHg4S2RiblJmWnRDUFZEWVU2OXRPNjN1NXdCZVVFdVlwQ2c0S3NQUHMwRHJ1VWt6cjhXM1J5M2o?oc=5",
-      "date": "2026-11-03T11:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
