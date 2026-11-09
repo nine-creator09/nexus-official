@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-08T21:41:42.806243+00:00",
-  "articleCount": 108,
+  "generated": "2026-11-09T04:46:02.170631+00:00",
+  "articleCount": 102,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 6
+      "count": 3
     },
     "bbc": {
       "status": "ok",
@@ -48,15 +48,15 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 0
     },
     "scmp": {
       "status": "ok",
-      "count": 24
+      "count": 21
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 19
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,66 @@
     }
   },
   "articles": [
+    {
+      "id": "/sbdzrvuk7d/",
+      "title": "Sakana AI「初のモバイルアプリ」開発中　テスターも募集",
+      "summary": "Sakana AIは、同社初のモバイルアプリ「Sakana AI App（仮）」を開発中と発表した。テスターも募集している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000003008/",
+      "date": "2026-11-09T03:35:58+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "vzs70k0PUZul",
+      "title": "ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？",
+      "summary": "院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/",
+      "date": "2026-11-09T01:18:41+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "qk7grZMTVoS0",
+      "title": "Trump says AI risks can be managed, signals openness to guardrails - Reuters",
+      "summary": "Trump says AI risks can be managed, signals openness to guardrails&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5",
+      "date": "2026-11-09T00:29:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "0vxQNHBcEQ09",
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "date": "2026-11-08T22:54:50+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "QzB16IiE045t",
+      "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses - Reuters",
+      "summary": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNW9UVDViMV80RXpjYmswQ1lNQ0pMVG02UDEwcUVINjZRNTI5R2cydUxFYm9nMEI2YVUtNm5KT2xzdUwyNW93cGpldzBudzJkSWU0dEg2NU5LN1UyVW9tVW0zbDJ6Z0JmVl84UVc5ZEdBakZUcGhDMjNFX1ZhX2JfM0NIanRJM0tuYnVSZHZrTU5lSVNSSVZJZVdmZjRIclNic2UyYjZacE40cUxWMnJVeFg5RGNlUkdxSGRPVnBDdUZhV3UtT2hZ?oc=5",
+      "date": "2026-11-08T22:43:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "hJ4r2arlSbvx",
       "title": "Apple is racing to make Siri more agentic",
@@ -163,7 +223,7 @@
     {
       "id": "g0ln3DVOybXl",
       "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
-      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to“It started as a trickle in 2024 and now it’s a",
+      "summary": "MPs, local authorities, lawyers, schools and more are receiving floods of grievances, requests and legal challenges, often complex to read and respond to‘It started as a trickle in 2024 and now it’s a",
       "link": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
       "date": "2026-11-08T08:00:36+00:00",
       "source": "The Guardian AI",
@@ -329,18 +389,6 @@
       "articleLang": "en"
     },
     {
-      "id": "tUlOrNluwciJ",
-      "title": "AI-generated cats showcasing rural life, Chinese cuisine land top brand sponsorships - South China Morning Post",
-      "summary": "AI-generated cats showcasing rural life, Chinese cuisine land top brand sponsorships&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNDNmVXFFbVhLYXdTODktMXVhZnBTek1VLXhNRzlISXBpN1o2NUJZTGlLc0tBTjhQQ3hueUNGNzY1ZU5sQWRYQnFFLVJZT1N4ektfUHVvZXRwTGpKN0MwNEtWWFR1Qzh5eVlQMlBvcHBSNnRNM1pPUjAzcUFGZnU0NlU3V3RiVENnUWw3aXdZbG1NVGJUMFRhWW9QNU5sLVFHWHQzbHkwc21LTVc0VHpPc3NHa0FIMFh4TzJ2S2lMc1ZBWjNjaWpZcHhTRW1BWGM2cmw3VktUVGtXeC1UWUxIa2ZzcHhGNHVWdDNWUkVJeE5lWWdK0gH0AUFVX3lxTE5lMGJOdDdjeFJOb1NyZXhqUU1CdGVkVW13a1JxbUlNZHpvV19HZUp6S01UWUxRWkM0M3ZlNmxXUUYwcGUtOUhiajdCRkV4dmlFUE5uNXhETmJiUFhNRGJESW44S1pzMVVYV3E5aE00N2FUZEF5RzMxTEtQYlBFVEZ6VW4wb1Utd0NIVG83N1RtVERZQVdGR2diQ05SR2dabno4bTF0bXZIajVyQkhZNU12M0JyZDhYMTM4R2tKbm5acEhvaE1rdDZodFhjU2E3SXAyYzB5bzBsaHR5VDBkbGFnNHhoQU0yRmVfSGZKYmIxS1NBNlY?oc=5",
-      "date": "2026-11-07T02:00:31+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "7DjTcT8qnF8w",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "summary": "The deal highlights the challenges of developing massive AI data centers.",
@@ -482,18 +530,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "8O6jWZOoGh0l",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "date": "2026-11-06T20:02:22+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
       "articleLang": "en"
     },
     {
@@ -761,42 +797,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "LLmVGv5dfYuv",
-      "title": "[Graphic News] Seoul ranks third globally in AI cities index, tops AI adoption - The Korea Herald",
-      "summary": "[Graphic News] Seoul ranks third globally in AI cities index, tops AI adoption&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ubEZMa01TQTJOWkc3aW9BMTFUNDkwVE9LUzBYbUNZUEtuYWE2b3pDWjRNaW5feWE5eGd2b25DS2JjN0JBSTFEcF9uME52WF9YZHd5Zjg2SQ?oc=5",
-      "date": "2026-11-06T01:00:07+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "KJR17sWAQIPl",
-      "title": "AIで過去図面を検索、資料探索を平均4.5分に短縮し年間工数90％削減へ",
-      "summary": "空研工業とRecursiveは、OpenAI APIを活用した「AIナレッジ基盤システム」を共同開発した。過去の図面や技術資料から必要な情報を検索する「図面検索」と、複数の資料の整合性を確認する「図面チェック」の2機能を備える。試用段階では、従来数十分から半日を要していた図面探しが平均4.5分で完了したという。",
-      "link": "https://monoist.itmedia.co.jp/mn/articles/2611/06/news005.html",
-      "date": "2026-11-06T00:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "6nLrKGY53Eds",
-      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供",
-      "summary": "Anthropicは、AI「Claude」に個人の財務状況を把握できる新機能「Personal Finance」β版を追加した。Plaid経由で銀行やカード口座を連携し、支出のカテゴリ分けや家計分析を自然言語で行える。データは読み取り専用で資金移動はできず、学習にも使われない。米国の有料プラン向けに順次提供される。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002935/",
-      "date": "2026-11-05T23:49:28+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "YuGoKsSmpvrf",
       "title": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say - Reuters",
       "summary": "EXCLUSIVE: AI backlash could threaten Anthropic IPO timing, potential investors say&nbsp;&nbsp;Reuters",
@@ -833,18 +833,6 @@
       "articleLang": "en"
     },
     {
-      "id": "Gb9/nwOS5ti8",
-      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見",
-      "summary": "OpenAIは、サイバーセキュリティ特化型AI「GPT-6 Cyber」を発表した。汎用モデル「Astra」をベースに脆弱性発見や攻撃コード開発能力を大幅に強化。提供先は厳格な審査を通過した防御者に限定され、高度なAIによる攻撃が普及する前に、防御側が重要インフラの保護やシステム修正を迅速に行えるよう支援する狙いだ。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002931/",
-      "date": "2026-11-05T22:57:34+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "sO+NinFSn9MJ",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
       "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
@@ -867,18 +855,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "p8JQ7zfYv7mM",
-      "title": "OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など",
-      "summary": "OpenAIは、AI向けデータセンター（Compute Campusと呼び方を変更）の建設・運営に関する地域社会への約束と、政府向けの政策提言を発表した。電力や関連インフラ費用の全額負担、公職者との原則的なNDA不使用を盛り込むとともに、大口電力利用者への追加負担など、業界共通のルール作りを政府に求めている。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002928/",
-      "date": "2026-11-05T22:03:55+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "G+3vTmt94QQz",
@@ -927,18 +903,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "okouLJqW6w22",
-      "title": "「48ドルの返金が4800ドルに」　AIエージェントの暴走を止める、本番運用の勘所",
-      "summary": "Linux Foundation傘下のAgentic AI Foundation（AAIF）が「AGNTCon + MCPCon Japan 2026」を東京・渋谷で開催した。同イベントとしては日本初開催となる。MCPの共同開発者らの講演から、AIエージェントの現在地と今後を読み解く。",
-      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/06/news012.html",
-      "date": "2026-11-05T20:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "C1ILizWM6GO5",
@@ -1064,24 +1028,12 @@
       "id": "M8D1e016woW/",
       "title": "Powered by GPT-6, Unitree humanoid robots master painting without prior training - South China Morning Post",
       "summary": "Powered by GPT-6, Unitree humanoid robots master painting without prior training&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2JhbTlFSk1uZ1RhdEN3SXBXZWh6UkxiYVpIUWVOaV90dDdGbkw1enNoNkVEejVMbUpzc2ZId2QzU3JGMWJUak5CTDVZYURsdXk1cFFOQW5TV2EtY1VPU2ZCUWNTemRjRjJnbkhMZHVCdDRFcUFlVTFOdEVmSGg0Qkx1cUNSdjRpVkpFMmZXVFR6RGFDdDdqQUtObVZEemNNckRhQk9GYWZ0NDFWd0FrT3YweXhjM2lGX0ZRLVNXQThuTjIwVk5tQVlycVpsOGFsRGRHZlVn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2JhbTlFSk1uZ1RhdEN3SXBXZWh6UkxiYVpIUWVOaV90dDdGbkw1enNoNkVEejVMbUpzc2ZId2QzU3JGMWJUak5CTDVZYURsdXk1cFFOQW5TV2EtY1VPU2ZCUWNTemRjRjJnbkhMZHVCdDRFcUFlVTFOdEVmSGg0Qkx1cUNSdjRpVkpFMmZXVFR6RGFDdDdqQUtObVZEemNNckRhQk9GYWZ0NDFWd0FrT3YweXhjM2lGX0ZRLVNXQThuTjIwVk5tQVlycVpsOGFsRGRHZlVn0gHWAUFVX3lxTFBlc3ZLQ2ZiUGVRVk9OWWU0b2tmMDIxaTkzZzN3NFBQMi0yWVNDeDRVOEpValRmSmQxZE1Ga2t3S2lqUmtRaHVETVhvN1Y3eHBldWNfcTgzUlZXUlZCLWgyRVR0MmZ2T2VIdFhXdzB6LXhBOENYaVRrZXI4MjlUcWI4bUV5N2U4VlNSMTAxa1JtWkNJZ1BPcTJBUnhmR2hjZ1dvS1lKOWZIRG90a0RHXzgxNmE2YUtBYVg3eXZEZ180NEUySFdUZHpISG1vX29QejRXSnIxdlE?oc=5",
       "date": "2026-11-05T11:00:23+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "GIIBg9zjcmep",
-      "title": "India cybercrime agency warns financial firms of AI-driven cyberattacks - Reuters",
-      "summary": "India cybercrime agency warns financial firms of AI-driven cyberattacks&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkFBZFNmUmkyWnBoUmgtbjBGeWFPMlU5SDNUZ19saThaWFZUVzd6ZWFWMnhNUXNYd1JDTnFoLXJTdWJZQzN6YUk0cHV1enM3ZjY3MmZYa2REY2Y2RVpIMDBJRkxJTU5TSmN5bTZNZ3JqUi0xZ29wRVlVS2xSZzkySUd4SHJzdENTbk9HZktlcFBBZXpOVGFNOXpFcmZWM3l0eFN2bk1nSFRnREdZR2c?oc=5",
-      "date": "2026-11-05T02:05:14+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1094,18 +1046,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "qgZ0nJPqoWSf",
-      "title": "NEWSLETTER: In midterm ballot measures, voters send a message to AI builders - Reuters",
-      "summary": "NEWSLETTER: In midterm ballot measures, voters send a message to AI builders&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNallWOEU2by0wRExyWXN4NUl2MEtUTEFnN2wyRTZyQlc1cnJncGFQb0xWYm5xNnBoSU1maEsyalhsYUdqck5Ca2Qta0dlZHBha0p3R3BuaEtubHoxT1ZhT0hKc3lZRDRsVXN4dDlZR2R3aFhKcEVNMnRreVJSWXhiM1ptRTQyWm9hempneFVZZEVIT0NCeG9uUFJUTmdPdjdlZElzRm9QcHFBa3BUckVPczNGYWhtclpZOHVEUFh1cmgxdmxM?oc=5",
-      "date": "2026-11-04T22:56:46+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1265,9 +1205,9 @@
       "articleLang": "en"
     },
     {
-      "id": "bPYWrT3yqT+Z",
-      "title": "Why Chinese AI stars struggle to match Anthropic’s profit margin - South China Morning Post",
-      "summary": "Why Chinese AI stars struggle to match Anthropic’s profit margin&nbsp;&nbsp;South China Morning Post",
+      "id": "X15MjS16I1R+",
+      "title": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin - South China Morning Post",
+      "summary": "Why Chinese AI stars like Z.ai, MiniMax struggle to match Anthropic’s profit margin&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVURXY2VPbTFzUm1qanpySWpqUmNvaXJ2ZEg1ZDBzb1hXYVVMWUh6NHpwQzB2Wi1qa2NYNjBxNlBuUEd2aDJNU1lMSkxKVHZ5TVZwX3RBM1Q2R000NlozMWVmOWZjaHAxNVdYd013UGF6cmw5X2FrMWsyZG9VUlhVVW9DUTlNeTZDQ1V2VURvMlc0Wk1ZcGtxZ1NfbUY5M1k3UUdGbFhuQVpqWS1DVGc5cmdDS1A5X1lQeGxMWEFtWTM?oc=5",
       "date": "2026-11-03T12:30:13+00:00",
       "source": "SCMP",
@@ -1301,18 +1241,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6rpCN+FzuLlY",
-      "title": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’ - South China Morning Post",
-      "summary": "As global AI sell-offs rattle investors, Goldman Sachs touts ‘enormous opportunities’&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0dfTWRxb0xQTVBBcVVrSlFiek1xTk8yMjAwUXl6STQwRkpjdDlZeVFheXFMTU4yLV9zckl1Q2tnMWtJVjFUX1BRTVhDZERmYnRPYUc4U2VtRnpLY2ZMRGxfczZ3WmtkRWhNRTRoY3lZUUZwRzlNc0hzb2R1N3Z2RnlhU2VKU0ItRE10NUJCckpGUTBLb0tNcWpNQVpILWJaTUYyUWdraUkxaGJEYkgySzNMdFA2U1FzdVJOWjhvcE5iYjRPdGZPMDRfdjJxZG43YUVrblM1UQ?oc=5",
-      "date": "2026-11-03T06:39:28+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "pWlkyRG/T4uE",
       "title": "China’s ‘Lipstick King’ hawks tokens as AI gets Singles’ Day push - South China Morning Post",
       "summary": "China’s ‘Lipstick King’ hawks tokens as AI gets Singles’ Day push&nbsp;&nbsp;South China Morning Post",
@@ -1337,6 +1265,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BC56zWMM4tDb",
+      "title": "Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules - Reuters",
+      "summary": "Law firm's AI use doesn't warrant cutting legal fees, US appeals court rules&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdS1LX2NIT2xSeTRSSk00YUVVOENZMDFvdENwZV90MkN3U1VEcDhkQ0tPX2lyTzQ4YTdIZjd5VlJqWl9yUkM4ZG9tdDVaZ01jWlFXVGVtTkJyZF9QdlpMZWl1MTc4bXNCaGNUcFp1WXRFUHFITWJtS3FubGlLU2R0MFE1c3h3aGl3SVBkaW5hYUktYVZ5cHlRNzFMbExxNUE5cXR5RUh4M0dTU1ozM2VfcEtTYWp2VmVPZjBPajBzUnp3dk5u?oc=5",
+      "date": "2026-11-02T22:37:46+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "bn0nwOESoL6w",
       "title": "South Korea to pour billions into AI - DW.com",
       "summary": "South Korea to pour billions into AI&nbsp;&nbsp;DW.com",
@@ -1346,18 +1286,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "tii6ivbXP8hV",
-      "title": "China’s AI milestone: models generate more tokens than used in training - South China Morning Post",
-      "summary": "China’s AI milestone: models generate more tokens than used in training&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmlZMmVuUEtoVVZMenUyZnpyTWdaLWs5Z0kwZjlwZG56T3N4SzNRYWdDU0JWWkVMUFpEY2JmV2hpb1Z4TUxydmdyS3NuekhPbm9oSWYtcFdDNTc3a1FzZkRmRVJQUW1sTU9GY0tybjFEWkl4QXp2RXlub0kyRXA1X0RCMFRXd1E2V09zZ3Q4Q0xudUVMajlZTWZQeVhFOU5vSWtjUkNlUUtLa1RrV3pkMmdXTFZXdkplRDRRdnZkVDXSAcABQVVfeXFMTzNwWm5uQXdBc0hCejQzZHdaQnlBWmk4bVhvU3hLd2lFbzRRTXFXSHhMeDB2d3o5Q01VNURkWEtuVmhTbnFNWW1fRlNtZWIwNGp4ajJoaF8xNTFvZGN4dFVMZ1drX2tyX3NJc0F4cnAwdThuOWpZcWN2ZzQxbEhOQnI5Tm1mM1ZQUnlpdS1CUEJKT2lfZ3JTR0Y0RU5MS041dWNEdEdBZTFtM3Ffa2o3TzVYVnVwRWd0RWV0YW5ha18w?oc=5",
-      "date": "2026-11-02T07:00:23+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
