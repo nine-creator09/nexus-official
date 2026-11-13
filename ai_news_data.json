@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-12T23:13:59.430820+00:00",
-  "articleCount": 93,
+  "generated": "2026-11-13T05:11:42.016189+00:00",
+  "articleCount": 97,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "bbc": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 4
+      "count": 5
     },
     "koreaherald": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 11
+      "count": 13
     },
     "reuters": {
       "status": "ok",
@@ -65,9 +65,105 @@
   },
   "articles": [
     {
-      "id": "wql+iANP2Vtk",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "id": "47r7S9krxNO/",
+      "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
+      "summary": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003110/",
+      "date": "2026-11-13T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "8Qrxf2/mi7wW",
+      "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks - Reuters",
+      "summary": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTMxZ0ZpeTBfbVZEb3dFbFRpM0xYcU9ta3ZRVnRzc040LUlmWU9IN05La0xrSnBKYzlVVUF3amZuaTJHZGZYa05ObFpJcERkajJiajhVV2RBVzJDVzc0Uzk4NVVfeGhWOG5SSnUtQlRTV1M3MnNON29WZzZZYVlnbGVCVE1LTkpUcm8zOHlmOTdaWGo0dGZJT2Eyb2NqNlB2VWk1bmRCcXdIS3JjRDQ0aTRn?oc=5",
+      "date": "2026-11-13T02:54:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "Xesv/53DnkrT",
+      "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
+      "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
+      "date": "2026-11-13T01:22:05+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "7dcY3ZeLVu03",
+      "title": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance - South China Morning Post",
+      "summary": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWhZVG1Wb0kyRjZkazBka2RhSFVRTFlmRTBUdTFiQm5OVzNmcG1Tei1ITEZIWUFVem5DcVpXSmxRaTBlbkRHNjBWTFJsNEdQWHN2LTRac0U1T2xnUFFjcVZhZV9OcEV1dzY0eV8zZVIzeTlJazdXcW1LVEJyR1JMZkNPcjJVaVQ1QXc3d0g1dzViVmtaTm5ra29Ba2NLOUlHZFhpY0tlTUVmU3Z0cWVHemlQZ2xSZ2MzWTI4TmdPQWpvekV4MFY5N2tSMnVXR21BWDJET1RjUXhDb1Vr0gHcAUFVX3lxTE04ZWxCNmNWSEx5eFRYZnJoQ3lrQlk0SzJCdVItWlhDbEtJZi1wSmF4NmZfbEZHZVdiQVNDNDZ4dVRqN05CMWNmRXladkFuaE9JMXhqWEhUV2gzTzcwSFZFR1JmbV80SWtFd2VFUUN4SEprVEtaRmhqaW8zRURUVzRKOFhfWkNBWVMyaU1uTU1ERGlLc0V2UldvRmpHTmQ2UjFRUC04ZWtScXM4ODZTUDNFVlNPcnpQSllvWGppRGhIZGc5cnRtSW5TN0hhMm41VllIVTFUUXVvcklhbXg?oc=5",
+      "date": "2026-11-13T00:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZNcfJLI0UNg2",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13T00:13:35+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "wFkXEGwSm604",
+      "title": "M365障害、ChatGPT／Claudeのコネクタにも影響　「ほとんどのリクエストで動作しない」",
+      "summary": "「Microsoft 365」の複数サービスで障害が発生しており、OpenAIの「ChatGPT」とAnthropicの「Claude」のMicrosoft 365コネクタも正常に動作していないと両社が報告している。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
+      "date": "2026-11-13T00:08:39+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "DNFk+zN8YCLn",
+      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
+      "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
+      "date": "2026-11-12T23:04:46+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "8D0gE6rJvSoO",
+      "title": "Jensen Huang’s exit may signal tighter US controls on AI chip exports to China - South China Morning Post",
+      "summary": "Jensen Huang’s exit may signal tighter US controls on AI chip exports to China&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMmRYUm1uWTZkMGFzTTdrQk9RSUViWDgwaUYtdGhBS2h2V0lBdXdQNEhHaU9mZmx3Y0ZlaW50RTVfSXJOQjBtRWRWSW1hUTBTUkFEMGdVMVFlMUNYV1RoT2ZUaGxqbFdleHRxc1g2T2hybHk5ZDIzM0NrMWV4VER5SHIwd3RQell1MWN5c1Z2UURPTF9na3ZrSkMxT3NxWTgtaDE3X2dISERPUkNNOFk5Qlc0aGFqLWtCQ05LZWFHbnRTYmdTNzM3WlhDRGM4NknSAc8BQVVfeXFMTU9jc1RGV1FKTVJqdmdZQmpQSlhZcm5FVUMxZTNSY1ZTZzlySXhzaVd1WFkzaVYyRXd0LU5LNTM2MVFCVVVfSDQ5R0FwQ2ZEbDNsc0g3N3dCNjBhR2hzdXdocXhFdEZKSkNZaXJNcXpBNDA0MTcxTzRETldvejR3cnpsYkZ5VjJCcjVENzk3TWJpQTVpZ25NVXg1eGJGcUd5VjM3SDZRZkltdk9JbjJzYkdKYlUwNVBDeHlvUGFRaUpwZ3VPOURvWkwwRWs0WTg0?oc=5",
+      "date": "2026-11-12T22:35:06+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "1RcdAejrVkod",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "date": "2026-11-12T22:22:28+00:00",
       "source": "TechCrunch",
@@ -365,6 +461,18 @@
       "articleLang": "en"
     },
     {
+      "id": "dHL5w82XNydY",
+      "title": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality - Reuters",
+      "summary": "Fed's Barr: US should prepare for 'serious' AI job disruption, widening inequality&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNlJiazNmNldsT18xR0xkNXFCQ1QzeFJJeWhMVHRLQU83LTU1UHBvbWQ4WHVDMFJHY2VOYmlSWm9UcFVOVWt5OUdFeDBEWWQya25sYi1XOG9wOW5oUlM5Z0huRHVCV3F5M2xxLS0xd0hSZ1JVb2hGdmtmcW5OMXRrX19MVklYZnA0dmlvOTFFenFaMnlUUU9GTnFINllwQlJCU2xmbEZxMmZPRGFwMUhDTVl0aDI5dDJVU1NJYVItMnQ1Yzct?oc=5",
+      "date": "2026-11-12T16:55:51+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "hW7vZU2yH4Q0",
       "title": "How AI visionary Jensen Huang was undone by his own bad decisions",
       "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
@@ -605,6 +713,18 @@
       "articleLang": "ja"
     },
     {
+      "id": "r2ubQ2Myz5JN",
+      "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters",
+      "summary": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
+      "date": "2026-11-12T05:31:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "LysRDdOXSmRc",
       "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
       "summary": "ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、予定関連のメールをMuseのメアドに転送してカレンダーに予定を入れさせたりできるようになる。",
@@ -653,18 +773,6 @@
       "articleLang": "en"
     },
     {
-      "id": "FFncJHbzAxvN",
-      "title": "会社員の仕事に「Claude Fable 5.2」は必要か？　調査、要約、資料作成でOpus／Sonnetと比較してみた",
-      "summary": "会社員の仕事に「Claude Fable 5.2」は必要か。白書の要約と資料作成、取材前の調査で「Opus 5.5」「Sonnet 5.5」と出力のクオリティや利用コストを比較した。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003113/",
-      "date": "2026-11-11T23:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "Q8XJfgR7qUTK",
       "title": "Law firm Latham earmarks cash for associates' AI contributions - Reuters",
       "summary": "Law firm Latham earmarks cash for associates' AI contributions&nbsp;&nbsp;Reuters",
@@ -675,30 +783,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "pUy8SKJ5TjO+",
-      "title": "Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表　回答を生成せず確率で返す",
-      "summary": "Googleは、ツールの選択や条件判定など選択肢から答えを選ぶ用途に特化した「Gemini Decisions API」を発表した。専用モデルを用い、テキストや画像などのマルチモーダル入力を1回の推論で評価し、確率と信頼度スコアを返す。従来のモデルより高速かつ安価に動作し、他社が先行する判断特化型AI市場への本格参入となる。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/",
-      "date": "2026-11-11T22:03:58+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
-      "id": "bsL64cjrkEkR",
-      "title": "Claude Enterpriseがセキュリティと管理機能を強化　DLP・EDR連携など新機能の全容は",
-      "summary": "Anthropicは「Claude Enterprise」のセキュリティと管理機能の拡充を発表した。設定状況の一覧化やDLP連携、個人アカウントの遮断などによって、企業のAI統制とシャドーIT対策を支援する。",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/12/2000003082/",
-      "date": "2026-11-11T22:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "+iYmsyTvCkMU",
@@ -785,6 +869,18 @@
       "articleLang": "en"
     },
     {
+      "id": "8a1TihQ0teis",
+      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says - Reuters",
+      "summary": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
+      "date": "2026-11-11T06:06:52+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "ywzjT/oJQxmu",
       "title": "Australians are not streaming Australian music. Why the hell not?! | First Dog on the Moon",
       "summary": "Is it because a) live music is just too hard (expensive) to do and b) AI streaming algorithms are eating our brains? ProbablySign up here to get an email whenever First Dog cartoons are publishedGet a",
@@ -809,22 +905,10 @@
       "articleLang": "en"
     },
     {
-      "id": "8a1TihQ0teis",
-      "title": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says - Reuters",
-      "summary": "US and China should stay clear-eyed on AI cooperation and competition, Bessent says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWUdDU2JVSnpLTmIzYVRmNm5Wb2Y3UC1vVElXMTZwdlM4M2YwRGZKT2tkYXI5YVlzRk1GZm5HRmY3NDlPQm1UaC1McjQ3STR0ME1LeDJCQ2NPQlVyU1RBa0RkSUotV2tSWndkN3NiQmdsVFFoVENFUVdFTExITml0bnc3RVdGcU1mSTB1T1gzcHpWMUM4MXFnSm1oWTdhZ0I2TG11M1JBU0xfUUtYLTNDRlcxeFpWcWZSUFVz?oc=5",
-      "date": "2026-11-11T01:25:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "wuQL+OHqYxYb",
       "title": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks - South China Morning Post",
       "summary": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHFIX25WU0Z0eVJGa0FJMU1yZlRfVFBPZl9QNUFiNHVTZVFDZzlpakgzMUFFbFpHN28ybVNyTDN0NW9zeTFmQzQxdHp6RVRpV2dCQVVnNHBWZ0VuQzBfdVdKZFdCRFdzT3ZfYXJSYVlmVGFKdEJLU1hhRjlnRXZJTUpoS2d6Z1ZVT1BPM3d3MUVWVFBaaER1VGJvaWg4SkZmS0lxVWFYTTl2SDVNT2ozdEl3RXhyWk9DTXhkZ1QyTC1qeGs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHFIX25WU0Z0eVJGa0FJMU1yZlRfVFBPZl9QNUFiNHVTZVFDZzlpakgzMUFFbFpHN28ybVNyTDN0NW9zeTFmQzQxdHp6RVRpV2dCQVVnNHBWZ0VuQzBfdVdKZFdCRFdzT3ZfYXJSYVlmVGFKdEJLU1hhRjlnRXZJTUpoS2d6Z1ZVT1BPM3d3MUVWVFBaaER1VGJvaWg4SkZmS0lxVWFYTTl2SDVNT2ozdEl3RXhyWk9DTXhkZ1QyTC1qeGvSAcMBQVVfeXFMTnIwVElvVWZqRUNBMVoyRUxlcGM1M3NLd2JwdEFleUVzRlpyVER6WHBYQlBqcHdPeUozcUxpV0pnTUFoSTRwMERpZEZ1eVZTd09RdXBkTjc0SGV5TXd6MzJ4U3BSaXY4ZjdkenBGQUdRWFRTYWNEUkxveGRzVDR2bFYtajB4YmstTy1ESThsRzlHYmZmb081R25sdEEtQ29weTRqSkdxLXNQQUdoajJUaFlxdnFVd1dUaEVyTC1GdUN3bXVn?oc=5",
       "date": "2026-11-11T01:05:15+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -842,18 +926,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "V+EKuiBv78r4",
-      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports - Reuters",
-      "summary": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5",
-      "date": "2026-11-10T23:54:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -893,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "TFyNH7qriyxf",
-      "title": "AI debt faces pressure as Democrats prepare to take over Congress - Reuters",
-      "summary": "AI debt faces pressure as Democrats prepare to take over Congress&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOalJvYkZzQXhzZ2pHSFo5c2Jfb0VfZVpNNXpHZEE5dkxUM0lUYmdEeG1rbUNzV1JWbzNwMnBwSGNTeHZjS3p4TEVzTDBVSnNQbG5oUG1GTW82VVBsaXA4dTFHVnVkZUpJVFprQVhXbG9kZjUzTUgwaDFhMTYwYlBfTVJJakc2Q0h5eWc4Z1FEOTM1Y1lmUW56Qzd5SkY2cXhtZlFNb1NQVXpBOVJkc2JqTTduQ2dfQQ?oc=5",
-      "date": "2026-11-10T17:30:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "d1ISjqHSnaja",
       "title": "AI training startup Mercor valued at $20 billion in latest funding round - Reuters",
       "summary": "AI training startup Mercor valued at $20 billion in latest funding round&nbsp;&nbsp;Reuters",
@@ -934,18 +994,6 @@
       "summary": "Alibaba AI chip unit T-Head files for Hong Kong IPO&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR19pRkVFTE5nSE5tQkhjZGpqT09XM2x2VE9rLTlWbTExRU9sVEVjTUlDQkZHU2MwNmdTTm5RY0dQNDEyQjBDVGNMeWY2VGxXUV9hTjROOWl2VF9abWYwRmZfVGNVeVlRX0VZS1d3cl84QmVJdElBMXJDc2Z6blE0dGswakhsclRRX3RCZ18zZjNicUVxSmlNVFloRHcyVG8xV3d2ZTRaSGJmR3hFNGJEMHJBR3pKT3J6MVljQlhZX1FIU3UwMUM0S1lB?oc=5",
       "date": "2026-11-10T13:47:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "uWlnWFh3P+UW",
-      "title": "Banks seek to rein in soaring AI agent costs, McKinsey says - Reuters",
-      "summary": "Banks seek to rein in soaring AI agent costs, McKinsey says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWlk5SWg5U2ZDeExQOUMycHJsMWoycHpLYWY2S2Ntc3RhZllRcTBFTnpQSlU1eF96emQ3S1VRRFoybFdBaHZvR1k4TmFDd19uT3huaElhUzhmaUtlTW1LaEZjSmZCbENrenRkNzJjMlZwcDN6QW1zc2hHUFYtbHJJYTZWV09yRHllSWtmZ1ZNa1FEZ1NyYVdiRFdibi1OOURTLWpXSGhNRnE?oc=5",
-      "date": "2026-11-10T13:32:52+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1022,18 +1070,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "CoUW4+Egf0sQ",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-10T05:22:39+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1178,6 +1214,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "Xignef6g24Vm",
+      "title": "European shares join global sell-off after AI fears hammer Asian markets - DW.com",
+      "summary": "European shares join global sell-off after AI fears hammer Asian markets&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjFLNDFvcVVFVTM0LU9ZTUMtYVZhcGhiTTRJVElXUHFZMHRLMGxyZ2xsX1djamVfOUNGdGxnbkZZc1lTVHNPSHotU1JMNEpuSnRBNHlBeDB0WFZVSWpoRUpSZmJCU0ttbmVZOGhBZmlPazNDckswNGRPS2hMRXFvN2V0OU04MmFVMmU2cFJSY0FxdUhVTWs2VHptU1ctNW8ybEUyYm44bzlCamplNDRIWVRWZkdaaXdLa3poVlBuNFN3MmNSWjE3ONIByAFBVV95cUxNbUx2MmJUZFFFeF84ZHBkcXI0UnBBd0hpWWFsWXhYdE8ySTN5YUk4NTFSVWpheXlVWGkxUVV6UG5uc0pzMDdlYjA4UGdKWWk4Y3BvWFVuODlLcXo0QnpQZGlHeXZWeExjeEk3cG0zZXRRdUtuSUJza3ZsVmRXejVTTHNIWXh3VzNoSEVMWlFFSTNWaHhZLVNNVlRuRXM4NGpMWVNjcFJUb2pTZW15WDB2aVpnTjlPT2dnb2xaZ09mMm1kNHFnMjhMZw?oc=5",
+      "date": "2026-11-06T12:54:15+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
