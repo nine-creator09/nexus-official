@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T23:16:01.393760+00:00",
-  "articleCount": 99,
+  "generated": "2026-11-14T05:00:50.939303+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "guardian": {
       "status": "ok",
@@ -40,7 +40,7 @@
     },
     "france24": {
       "status": "ok",
-      "count": 0
+      "count": 1
     },
     "dw": {
       "status": "ok",
@@ -52,7 +52,7 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "reuters": {
       "status": "ok",
@@ -65,6 +65,18 @@
   },
   "articles": [
     {
+      "id": "7CRnGDSn5RTZ",
+      "title": "Tech Now",
+      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14T01:00:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
       "id": "HOTDkRXbOd69",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
       "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
@@ -74,6 +86,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "vY2I/34p2Cgq",
+      "title": "AI rockets to top of worries about financial system in latest Fed survey - Reuters",
+      "summary": "AI rockets to top of worries about financial system in latest Fed survey&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5",
+      "date": "2026-11-13T22:26:58+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -185,6 +209,18 @@
       "articleLang": "en"
     },
     {
+      "id": "BKPAhpMiSVda",
+      "title": "The Nvidia affair: Are markets about to fall out of love with AI? - France 24",
+      "summary": "The Nvidia affair: Are markets about to fall out of love with AI?&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS3Q4MXZRZHpLWjdKZGhDclZrZlJnS3VUN2VLY0RFNzlHenVMWElvZ0NKQk96dTVVY2xGUVg3cmdVUWdMdEJSV3BrcUR2cXVWWEVzTVY2MjRrZ2dSQV9HV3I1VzhXTkdMZDctWGkwMTZ1ZGVPaS1UZWRJMTVjeDZRdDdZWVMzZTBUZUYxWFFTaVdsaFE2VkQyR00xYkl2SUROMXk1LVNXM2pXUjhYYnc?oc=5",
+      "date": "2026-11-13T17:02:40+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "nYarDMzxYvFm",
       "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
       "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most",
@@ -194,6 +230,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "6MGEIhA9HiGQ",
+      "title": "Fed's Warsh to take stock of AI revolution as US public grows wary - Reuters",
+      "summary": "Fed's Warsh to take stock of AI revolution as US public grows wary&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
+      "date": "2026-11-13T16:30:03+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -257,6 +305,42 @@
       "articleLang": "en"
     },
     {
+      "id": "e2qCL2o+t/jh",
+      "title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom - Reuters",
+      "summary": "Nvidia fallout throws spotlight on Southeast Asia's AI boom&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ZhbGw3QVB1NDhidHA1aEFOMnJFd0hTelBxaXp5dHdGU2V0aDVmSDRqOHUwQ0l1SjNBWDVVMnVsUFJpZDl2dHpQOF93VVdKNTJ2MWVneUZEdWt1S0JOWjJabDVjYXVWeWVZa1NyWGhFekttNnhtcGxZYnpxWUwxY1dlc1NBcGRZakJVT2hXRlpDRW9IRTRKWlNtbjE4TTY3bVhMN3UycDNVYXhJbjln?oc=5",
+      "date": "2026-11-13T13:20:10+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "cuJgG0yu8m2/",
+      "title": "EU leaders urged to 'act now' to stay AI competitive - DW.com",
+      "summary": "EU leaders urged to 'act now' to stay AI competitive&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkpJOWt3MC1XY3JPR1pfOE1oWnlLMEtUUGkwcHBhSEFSSlJ2R2ZNWFZxZEdtdnh2bXBhalY3WVBOODhjZlBfMTZiS0pwT25WeWZHOGxDQ2ZiY2dPUkpSTFpWamR4THlDYnFXMzd1SGtJNUVPakZvY3NxUWM3Ul80X0FSUXlVaWxtSVg2MDRMd2t2X1FQOVBOcEZRTFhxUdIBngFBVV95cUxQS09SXzFOWXdpU2dBbnd4TlpERjlOZUhXZEswQUJab3VaZHBmNXFCRmlXbzgwTGxTczJ0eHFVc2JudXJGSlo1OGpDRC1WLWFQdHhHblkxRENjUHdxUUppcndhaHlod0JuOTNacVoweTN1Ty1BZ3RfRU1mekpTTDBnV3pyWlFCc0N4TnVEMDY3TGp1RGtBZDZaYW5ocmhpZw?oc=5",
+      "date": "2026-11-13T13:13:52+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "WfwnUnfDcC2S",
+      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
+      "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
+      "date": "2026-11-13T12:52:31+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "RfSFtkIq7Pop",
       "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
       "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
@@ -266,18 +350,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "WfwnUnfDcC2S",
-      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
-      "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
-      "date": "2026-11-13T12:32:39+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -314,18 +386,6 @@
       "key": "bbc",
       "cls": "src-bbc",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "cuJgG0yu8m2/",
-      "title": "EU leaders urged to 'act now' to stay AI competitive - DW.com",
-      "summary": "EU leaders urged to 'act now' to stay AI competitive&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkpJOWt3MC1XY3JPR1pfOE1oWnlLMEtUUGkwcHBhSEFSSlJ2R2ZNWFZxZEdtdnh2bXBhalY3WVBOODhjZlBfMTZiS0pwT25WeWZHOGxDQ2ZiY2dPUkpSTFpWamR4THlDYnFXMzd1SGtJNUVPakZvY3NxUWM3Ul80X0FSUXlVaWxtSVg2MDRMd2t2X1FQOVBOcEZRTFhxUdIBngFBVV95cUxQS09SXzFOWXdpU2dBbnd4TlpERjlOZUhXZEswQUJab3VaZHBmNXFCRmlXbzgwTGxTczJ0eHFVc2JudXJGSlo1OGpDRC1WLWFQdHhHblkxRENjUHdxUUppcndhaHlod0JuOTNacVoweTN1Ty1BZ3RfRU1mekpTTDBnV3pyWlFCc0N4TnVEMDY3TGp1RGtBZDZaYW5ocmhpZw?oc=5",
-      "date": "2026-11-13T10:15:59+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -423,6 +483,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "7dcY3ZeLVu03",
+      "title": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance - South China Morning Post",
+      "summary": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaWhZVG1Wb0kyRjZkazBka2RhSFVRTFlmRTBUdTFiQm5OVzNmcG1Tei1ITEZIWUFVem5DcVpXSmxRaTBlbkRHNjBWTFJsNEdQWHN2LTRac0U1T2xnUFFjcVZhZV9OcEV1dzY0eV8zZVIzeTlJazdXcW1LVEJyR1JMZkNPcjJVaVQ1QXc3d0g1dzViVmtaTm5ra29Ba2NLOUlHZFhpY0tlTUVmU3Z0cWVHemlQZ2xSZ2MzWTI4TmdPQWpvekV4MFY5N2tSMnVXR21BWDJET1RjUXhDb1Vr0gHcAUFVX3lxTE04ZWxCNmNWSEx5eFRYZnJoQ3lrQlk0SzJCdVItWlhDbEtJZi1wSmF4NmZfbEZHZVdiQVNDNDZ4dVRqN05CMWNmRXladkFuaE9JMXhqWEhUV2gzTzcwSFZFR1JmbV80SWtFd2VFUUN4SEprVEtaRmhqaW8zRURUVzRKOFhfWkNBWVMyaU1uTU1ERGlLc0V2UldvRmpHTmQ2UjFRUC04ZWtScXM4ODZTUDNFVlNPcnpQSllvWGppRGhIZGc5cnRtSW5TN0hhMm41VllIVTFUUXVvcklhbXg?oc=5",
+      "date": "2026-11-13T00:30:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
     },
     {
       "id": "wFkXEGwSm604",
@@ -737,18 +809,6 @@
       "articleLang": "en"
     },
     {
-      "id": "kqa8CcnZ/LMu",
-      "title": "More game developers are starting to use generative AI",
-      "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surve",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "date": "2026-11-12T17:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "T//fvdNBKWVd",
       "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
       "summary": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos",
@@ -845,11 +905,11 @@
       "articleLang": "en"
     },
     {
-      "id": "KOBs3YnVCwBa",
-      "title": "AI shakeout lands convertible investors better terms - Reuters",
-      "summary": "AI shakeout lands convertible investors better terms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG83aHNBWWF5MjUwMDJVUGtyaVpId0owdF9qamExUGZxZ00zcnFpTUs5QnI4MmE5ZWhsNUFPaE1keWtadFhyY0ppaGU3Y3daZWJmU014MUdmTnAxMmttRXF3eVBfZERNLW5uQjNKeEdVRFdHTzBEQXNSRktQWWlhWDJITUViWlVVeWYxeThyalktM2tHOE9RMFN1S1ZRZw?oc=5",
-      "date": "2026-11-12T11:54:57+00:00",
+      "id": "r2ubQ2Myz5JN",
+      "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters",
+      "summary": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
+      "date": "2026-11-12T11:33:50+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -977,18 +1037,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "r2ubQ2Myz5JN",
-      "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs - Reuters",
-      "summary": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
-      "date": "2026-11-12T05:31:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "LysRDdOXSmRc",
       "title": "AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる",
       "summary": "ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、予定関連のメールをMuseのメアドに転送してカレンダーに予定を入れさせたりできるようになる。",
@@ -1076,24 +1124,12 @@
       "id": "wuQL+OHqYxYb",
       "title": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks - South China Morning Post",
       "summary": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHFIX25WU0Z0eVJGa0FJMU1yZlRfVFBPZl9QNUFiNHVTZVFDZzlpakgzMUFFbFpHN28ybVNyTDN0NW9zeTFmQzQxdHp6RVRpV2dCQVVnNHBWZ0VuQzBfdVdKZFdCRFdzT3ZfYXJSYVlmVGFKdEJLU1hhRjlnRXZJTUpoS2d6Z1ZVT1BPM3d3MUVWVFBaaER1VGJvaWg4SkZmS0lxVWFYTTl2SDVNT2ozdEl3RXhyWk9DTXhkZ1QyTC1qeGs?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdHFIX25WU0Z0eVJGa0FJMU1yZlRfVFBPZl9QNUFiNHVTZVFDZzlpakgzMUFFbFpHN28ybVNyTDN0NW9zeTFmQzQxdHp6RVRpV2dCQVVnNHBWZ0VuQzBfdVdKZFdCRFdzT3ZfYXJSYVlmVGFKdEJLU1hhRjlnRXZJTUpoS2d6Z1ZVT1BPM3d3MUVWVFBaaER1VGJvaWg4SkZmS0lxVWFYTTl2SDVNT2ozdEl3RXhyWk9DTXhkZ1QyTC1qeGvSAcMBQVVfeXFMTnIwVElvVWZqRUNBMVoyRUxlcGM1M3NLd2JwdEFleUVzRlpyVER6WHBYQlBqcHdPeUozcUxpV0pnTUFoSTRwMERpZEZ1eVZTd09RdXBkTjc0SGV5TXd6MzJ4U3BSaXY4ZjdkenBGQUdRWFRTYWNEUkxveGRzVDR2bFYtajB4YmstTy1ESThsRzlHYmZmb081R25sdEEtQ29weTRqSkdxLXNQQUdoajJUaFlxdnFVd1dUaEVyTC1GdUN3bXVn?oc=5",
       "date": "2026-11-11T01:05:15+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "V+EKuiBv78r4",
-      "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports - Reuters",
-      "summary": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSWgwbFNYa2Z4R1pzeU83WUhSVTUwSG9vTC1tT0lfV0FMZk1oWGlNellpU083T2M2VGJDV19fLXhJY3N4dHJUUnUxMTNSeU1XdVdtd3YxNWZ6RWxlcTE1RTRyZDB5UDAweUhFTk9wRjVmNGlzSFUxOEpZTkc0TEdJY05DN3VNRDlidmJnVlJHTEY5dTJaakVFX0x3Mkl2TEZFTDBfN3dBTXhZVkxVRG41X2lyMENmWVFJQ2hHbWs0bHdzem5NSER6d0xhMjl0dw?oc=5",
-      "date": "2026-11-10T23:54:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1118,18 +1154,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "W27l25WsbGsn",
-      "title": "Israeli AI security startup Bay raises $50 million - Reuters",
-      "summary": "Israeli AI security startup Bay raises $50 million&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR1FUM21STWZfakdFdy1yUEE3dHhGTUtoazJLcHAtZ3hlVXRvbEV5LVA0YXAwRlVGQ05qQ0Z1azV5Wk5wTWFVVXdKZ0FjSy04bkxlcDc5N2xsMFp2eUs5RzF6endfbXA0Ymt3WGo2UllEYzB1aWZmT0I2Smd1MVFBaHBtZzFWZC1pci1icms2cFJFZWxOTVg0aWpyaDU?oc=5",
-      "date": "2026-11-10T13:10:38+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
