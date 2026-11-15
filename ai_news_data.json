@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-15T13:27:49.884577+00:00",
-  "articleCount": 103,
+  "generated": "2026-11-15T22:29:28.590170+00:00",
+  "articleCount": 101,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 6
+      "count": 5
     },
     "techcrunch": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
@@ -44,19 +44,19 @@
     },
     "dw": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
-      "count": 2
+      "count": 1
     },
     "scmp": {
       "status": "ok",
-      "count": 14
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 20
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,78 @@
     }
   },
   "articles": [
+    {
+      "id": "CTvhxKJhl623",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T22:24:20+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "VHfVZPjTvRtw",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "date": "2026-11-15T21:56:35+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Qma7xAM0yprl",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "date": "2026-11-15T19:15:43+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "9mFZK91FAkx0",
+      "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
+      "summary": "Whitehall needs to change, but more technology isn’t enough. Opening routes to leadership would bring skills that are too often overlookedThe cabinet secretary, Antonia Romeo, called for an overhaul o",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-civil-service-reform-ai-cannot-conjure-a-capable-state-on-its-own",
+      "date": "2026-11-15T17:25:19+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "UwVGDQHvsbN+",
+      "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+      "summary": "The role AI played in job losses at Australia’s NAB, Qantas, Canva and Atlassian is far from clear  – but it may prove to have more impact on the stock market than the jobs marketGet our breaking news",
+      "link": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+      "date": "2026-11-15T14:00:19+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "l4xB5X1XH8XB",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-15T13:37:45+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "eCsGkxD6Mudj",
       "title": "AI DJs Completely Kill My Groove",
@@ -89,6 +161,18 @@
       "articleLang": "en"
     },
     {
+      "id": "nLSByGgdhQ6w",
+      "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit - South China Morning Post",
+      "summary": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1NHVXdIdFNQNThiVVp4RTltM0U5WjM3LVhKbkMwYWJDR3liTzJrQTRrYkdxRHZsRVRFLVJYbURfQnhkOWdGUF9DZGhkT2xac2pvNG9HdVVNb3Q5VDhITG80RC14cUViTC12dUttVE9CWDE2TzdyNlU3ZEZPVTAySUwxSTZHVjQ0R1JseG1QejR6NTJVNjg4Ump2Rm40dTg1Vnk1RV91dHBKeF9sX0NDczl6bjPSAbQBQVVfeXFMTnpRamhRUGxRLXBLZy1UWW00T3hzNm0yX3I0MTN3ZU9Cdmc1UnZnNjd6eHB6d3BuY1dCcUpvcGVLMUpSS2tzWlZVTUFBN21YcmVZNkxVTV8taDVUbU1wdG1ack16RkxuWjFJMmVmSU9ZYmx2MWtNRk8tU19ONC1kb2JncExSMnBubnF3a194Z3BKSHRvVU9NN0ptY3RKTEpobVcydHVxbVF2em92ZmNmakM5T3Vi?oc=5",
+      "date": "2026-11-15T09:00:10+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "eX/PSzUqA/x2",
       "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
       "summary": "Fears for national college entrance exam next week as test taker admits sending photos of questions to AI toolThe marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax acco",
@@ -98,6 +182,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "tRwQ1ottti+x",
+      "title": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
+      "summary": "Top scorer on South Korean tax exam confesses to cheating with AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
+      "date": "2026-11-15T08:40:52+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -116,8 +212,20 @@
       "id": "bwLpKXZRd3fy",
       "title": "Could universal basic income be part of the solution in an AI economy? - DW.com",
       "summary": "Could universal basic income be part of the solution in an AI economy?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEZKM1E5ZWFCRGItY1huZ1dnY3k5X0pmWVdscmRVbmI3SmVDOEU2RTNuSFdNa0lSU0E1YjBMYWFMMEx3QTF4V1BqTWNaYUxJd2Q0Z29SQnR6VW8ySkxoTy1KRUR3T1BFenFib0FDbkxSVDlGNFF0d0gxUno0S1RxaEttZ1J6TXhHRGxZeGJTRHUtbC1IRU9xQy1YVlFTYk1jcDV0dtIBpAFBVV95cUxQWmI3cGcwVTAyM0Q3VTYxVV94Mm52RVJ6aXZjTEVtSk1yU1laQmo1TWJuTzQ0N3Y3WDNwNXN2eTkwdy10TTFYTHVkajJEQ25GMlFrRE5EbVFwdGxkeXZyRmpDVnNJdVo0bHI2SEpPSXpkVHlZTmgzVmJtazNSajZQVHJIMVRvZ25PNkwyU3VrWXpXN1QtTFBicVBteUdBNHRrTERRMQ?oc=5",
-      "date": "2026-11-15T06:26:59+00:00",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFMRFoxc01TM241MDJxRFpOT3hIVjZhOVd3d3JtaXB5eGRCV21qdkdqRnkxaG0tejNSdzhvQ0RzQ0p1NHcybTRuVGQ5Wlc0SThtWHZzLTNzSmVRY0lsbG50cXV4RHJOR1RxY0J3RDJUQVlPcVVYN0RCWGh6V0pfZjZmbVF0UdIBhgFBVV95cUxPYUlRZk1JV1ZVZkZUZFRPT0oxMlhuWmdycXlpRHROUkY1cEhiUGg4OGRtUGJvOXBRQnVxcDJMY3F5cmprbElDVndobTVUaHgwRmg1bTdlaGFqQ0VoZFdHblhhOE1pVjBnLVVXUW0yVm9jUmNLN1NRYTQ4OWFWa1h3ejhwQlFPQQ?oc=5",
+      "date": "2026-11-15T06:35:52+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "ztbMdKMK4tPr",
+      "title": "Nigeria: Can the influence of AI in the upcoming elections be mitigated? - DW.com",
+      "summary": "Nigeria: Can the influence of AI in the upcoming elections be mitigated?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDhaWkxHT29MZDVfOGN2WUp1QTFHbkpqYlM1dnFRQTR5ZXI4TDY4dkltX0lmWHJaWElBaDgwZjUtWUo4ZnNGZWtrdFZ4R0lxWDFxRlJWT1ZBc3YwMzRtOU9ZVWpEeHZWSXJmZnVjYnNkaERQMHFDbmpraEtDejVVNURvVy1BcnhzbHlLMjN2ZGkwMzk1YUd3RHhB0gGaAUFVX3lxTFBkYm91Y0ZGdlhraHQ2cTRGblVFaEVNSDFSRWY2dUVSWkNqME0yYlNwbUpLN2h3bTNzOTVmSzRMOHk4R1JsRXZnT1M2OF9EU3dzSTRqQ0NGcjZZY0tEdm1lamhoSm5IMFlWTndhc3VoYTFZZ1BaV2RzSDh2RzN2LV9nUzRnSTFvd2ZkaHlXSTRDRWs5RVNYdjZIUmc?oc=5",
+      "date": "2026-11-15T06:14:28+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -158,18 +266,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "tRwQ1ottti+x",
-      "title": "Top scorer on South Korean tax exam confesses to cheating with AI - Reuters",
-      "summary": "Top scorer on South Korean tax exam confesses to cheating with AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5",
-      "date": "2026-11-15T04:29:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -320,7 +416,7 @@
       "id": "7CRnGDSn5RTZ",
       "title": "Tech Now",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcnews?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
       "date": "2026-11-14T01:00:00+00:00",
       "source": "BBC Technology",
       "key": "bbc",
@@ -485,6 +581,18 @@
       "articleLang": "en"
     },
     {
+      "id": "6MGEIhA9HiGQ",
+      "title": "Fed's Warsh to take stock of AI revolution as US public grows wary - Reuters",
+      "summary": "Fed's Warsh to take stock of AI revolution as US public grows wary&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
+      "date": "2026-11-13T16:30:03+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "4OpYf3z7BoR6",
       "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
@@ -629,23 +737,11 @@
       "articleLang": "en"
     },
     {
-      "id": "T6HIBs3IbxnN",
-      "title": "What happened overnight with the Microsoft global outage?",
-      "summary": "Microsoft is struggling to fix a global outage, with services including Teams, Outlook and AI software Copilot affected by \"connectivity problems\".",
-      "link": "https://www.bbc.co.uk/news/videos/cwm2591k27e2o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-13T07:18:17+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "qRPDKi9U92h2",
       "title": "EU leaders seek to tackle challenges at first ever AI summit - Reuters",
       "summary": "EU leaders seek to tackle challenges at first ever AI summit&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMy10dU5kazRqbk9PSWxUbGRiUm53LU9sLXBHVnBNUW0xbElWLVVoUG9udExuMGlYZ2xldnlOQUJpMzNpNjEzN0N2TllYaUJkQzFDZG5QSXRKZWQwZlF5cUVTWlI3NVZUWkpra0diZGNtT2F3WnRFZ3ZKd3VvQ250c2tOM2VHOFlFMlRYTm5jbGZ4R0ZWaDNQc1ljR2R4SVU4Umo0NQ?oc=5",
-      "date": "2026-11-13T06:06:00+00:00",
+      "date": "2026-11-13T06:09:57+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -653,9 +749,9 @@
       "articleLang": "en"
     },
     {
-      "id": "SMTTm2N/lRyl",
-      "title": "SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs - South China Morning Post",
-      "summary": "SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs&nbsp;&nbsp;South China Morning Post",
+      "id": "NsUTgS9Cgqg/",
+      "title": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs - South China Morning Post",
+      "summary": "China’s SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdndWc1ZTejZ1Mmc1OGJqbEVzVXE4YjRsTXFrT1l4SGdqVEx4S1JoUzhZWGpRRm5XYUc1cHdObm9wTlhnSldiXzkxb0FRUWpvS0RFQV9SeDNqeW5QSmluT3E4amstRGtYdENkVzlKLU5mRlFqVG94ZVRoS0JBWkQxaEN5S2dUQkhfNU1Pb0FjeDNZbnpFV1p5d3ZKYmZwZzRybHpYQXR0TkpIYTlrYUo1SmtpaHpQa0tFYVZkZkp1dm5IZnkwamlUeEFLUVN2dWxM?oc=5",
       "date": "2026-11-13T05:55:56+00:00",
       "source": "SCMP",
@@ -785,18 +881,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "U6hNBkBTDb6U",
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "date": "2026-11-12T21:55:32+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "XiRcho77wfxC",
       "title": "NVIDIAのAIモデル「Nemotron」が日本語合成データセットを素早く投入できる理由",
       "summary": "NVIDIAは、東京都内で開催したAIエージェントの技術イベント「NVIDIA Agentic AI Day Japan 2026」において、日本語AIの開発を支援する2つの合成データセット「Nemotron-Personas-Finance-Japan」と「Nemotron-PII-Japan」について説明した。",
@@ -881,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "xMh5KM7fEPF8",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "date": "2026-11-12T19:42:40+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "Cry+niyQG7Og",
       "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
       "summary": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
@@ -929,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "+P8CwaP5W4Az",
-      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-      "summary": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "date": "2026-11-12T18:39:23+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "9sgPHo+wjjij",
       "title": "Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached?",
       "summary": "CEO’s affair and resignation has brought company’s murky corporate contracts and supply chains into sharp focusCan the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean",
@@ -953,35 +1013,11 @@
       "articleLang": "en"
     },
     {
-      "id": "FSTVHvRen+WH",
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-      "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "date": "2026-11-12T17:36:40+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "S/YAbBzewzaS",
       "title": "From washing dishes at Denny’s to rockstar of AI: the rise and fall of Nvidia’s Jensen Huang",
       "summary": "Technical expertise and an ability to engage gave the chipmaker’s co-founder, who has now resigned, the edge with customers and investorsJensen Huang resigns as Nvidia CEO after alleged affairsJensen",
       "link": "https://www.theguardian.com/technology/2026/nov/12/rise-and-fall-of-nvidia-ceo-jensen-huang-profile",
       "date": "2026-11-12T16:17:31+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "a4ArV/lIZHrS",
-      "title": "US public workers are fighting to protect their jobs from AI – and some are winning",
-      "summary": "As governments adopt AI, workers are gaining ground in how it’s used and securing safeguards against its harmsIn the shadow of Silicon Valley, workers for the city of Oakland, California, worry the re",
-      "link": "https://www.theguardian.com/technology/2026/nov/12/us-workers-governments-unions-ai",
-      "date": "2026-11-12T15:00:44+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -1001,18 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qNrUM/Hli60D",
-      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’The Zimbabwean author Simbarashe Kundizeza has been cle",
-      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "date": "2026-11-12T13:14:38+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "XYGwiaz9QwbU",
       "title": "Macroscope | US data centre backlash could be blessing in disguise for AI buildout - South China Morning Post",
       "summary": "Macroscope | US data centre backlash could be blessing in disguise for AI buildout&nbsp;&nbsp;South China Morning Post",
@@ -1022,30 +1046,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "KOBs3YnVCwBa",
-      "title": "AI shakeout lands convertible investors better terms - Reuters",
-      "summary": "AI shakeout lands convertible investors better terms&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTG83aHNBWWF5MjUwMDJVUGtyaVpId0owdF9qamExUGZxZ00zcnFpTUs5QnI4MmE5ZWhsNUFPaE1keWtadFhyY0ppaGU3Y3daZWJmU014MUdmTnAxMmttRXF3eVBfZERNLW5uQjNKeEdVRFdHTzBEQXNSRktQWWlhWDJITUViWlVVeWYxeThyalktM2tHOE9RMFN1S1ZRZw?oc=5",
-      "date": "2026-11-12T11:54:57+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "R/ob7Q69x2kb",
-      "title": "French army ministry to set up centre for defence-related AI - Reuters",
-      "summary": "French army ministry to set up centre for defence-related AI&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk02WVl5aUx2TTl0QmJjZEpSVUkySGFQSkZqYTZpRXc3c0V4RlViNWhJVkE3b2szcC1Qai1sWWRVTDVhVlRyVWxYUW91cVFpSW5TZ0xSTnJRclZBWWFEaXBKaXBORTV3blJrOTN5ZXNOdFpHUnozc0x2LTRZdndDWjNjM3lhb2RjRU1xSTBiYWhuV213WGUyNFItdURucG81T0E?oc=5",
-      "date": "2026-11-12T11:17:45+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1145,18 +1145,6 @@
       "articleLang": "ja"
     },
     {
-      "id": "CvGP9chFMyzZ",
-      "title": "JetBlue president says airlines should follow customers' lead on AI booking agents - Reuters",
-      "summary": "JetBlue president says airlines should follow customers' lead on AI booking agents&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNDhLbTNtbkcxR2pZVGJLN3kzVEh0U0U4MFUyd3hYYmw2WWNwTkVKZmx0LWhpQWxsWWxZd2VyN0RxeTY1SVVROUN4d0pRanE5d0FRTVZWajBkMG53X1cxOTZEanpRZTRGRmRuVFpfMzNDeGZLUUFVeTRpZmxnVFMxazRqM3d3VFcxMGlyYlg5dnpzYmFZOVdUUkc0UDh5b252UU12MUxIanZSdndmTHF4dmtQX0ZDRzdQakdoOG1TOEJIN0gzLUZpMkpSSQ?oc=5",
-      "date": "2026-11-12T01:21:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "Q8XJfgR7qUTK",
       "title": "Law firm Latham earmarks cash for associates' AI contributions - Reuters",
       "summary": "Law firm Latham earmarks cash for associates' AI contributions&nbsp;&nbsp;Reuters",
@@ -1226,18 +1214,6 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "IwfJFTP7Wjf7",
-      "title": "S. Korea ranks 10th place in global AI, digital competitiveness - The Korea Herald",
-      "summary": "S. Korea ranks 10th place in global AI, digital competitiveness&nbsp;&nbsp;The Korea Herald",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01ekl5X3RoX0Fodk1tNVptcHF5MU5ZdDBfS2hzaENnVjd6YmdmTGVaZkNYaGNYbF8zOHZfbzlwbGN6OHpkVFprLTlTamNtajdtb1pObk5VZw?oc=5",
-      "date": "2026-11-11T00:28:30+00:00",
-      "source": "Korea Herald Tech",
-      "key": "koreaherald",
-      "cls": "src-koreaherald",
-      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
