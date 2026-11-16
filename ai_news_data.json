@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-16T04:51:56.490657+00:00",
-  "articleCount": 97,
+  "generated": "2026-11-16T14:51:10.564264+00:00",
+  "articleCount": 98,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -24,7 +24,7 @@
     },
     "wired": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "itmedia": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 3
+      "count": 4
     },
     "guardian": {
       "status": "ok",
@@ -40,23 +40,23 @@
     },
     "france24": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "dw": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
-      "count": 1
+      "count": 4
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 21
+      "count": 18
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,186 @@
     }
   },
   "articles": [
+    {
+      "id": "BF5D78P1h9/Z",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "summary": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery",
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "date": "2026-11-16T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "YdTZFGirdlKf",
+      "title": "Google Maps can now create trip itineraries for you",
+      "summary": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "date": "2026-11-16T14:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "K/Onix+WIEc8",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "summary": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon wh",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "date": "2026-11-16T13:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "S2vPMbjp/VqK",
+      "title": "Building AI that can work across the enterprise",
+      "summary": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "date": "2026-11-16T13:00:00+00:00",
+      "source": "MIT Tech Review",
+      "key": "mit",
+      "cls": "src-mit",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "niN5/3itWMOz",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "summary": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "date": "2026-11-16T12:30:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Vt1hNdTS9HSg",
+      "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-16T12:20:49+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "i4syqcLivAP7",
+      "title": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps - Reuters",
+      "summary": "Chip tensions loom over Trump-Xi summit, as US and China push AI safety steps&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkh0ckZncVlZLW10eldobVVJNEs3SHAwbGNnakh3bExOZ2t6SEtpNjloRHZndS13UTBFUXZMUVA4RGZCZE9DTUVxRWJBMmxRdndNX1Y3YXJ3NWMwUm5JQXlkdEFxMEZJcVhmaUZtd0tGTk4yRFBKOWtjT2pJaXQyX1JxZi1Sd2FTS0VWS3A0bDFmdk1RQTE3MnptQTVIa1o1UUFiRXExaFNETEtLcV9OV0dzWTBUcV9DNmptN1lEREgxd0dZLWdV?oc=5",
+      "date": "2026-11-16T12:15:34+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "+lVhagzUeB+h",
+      "title": "Nvidia Was Already in Trouble Before the Jensen Huang Mess",
+      "summary": "AI competitors are catching up to Nvidia—and poised to take advantage of the chaos.",
+      "link": "https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "date": "2026-11-16T11:00:00+00:00",
+      "source": "Wired",
+      "key": "wired",
+      "cls": "src-wired",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Gyl2ssAM9F4Z",
+      "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+      "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominateGet our daily political email, free app or daily ne",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "date": "2026-11-16T09:40:29+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "7D4PBt19fJlT",
+      "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
+      "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
+      "date": "2026-11-16T09:04:16+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "1AZp9dZYxhkc",
+      "title": "AI in German classrooms: Fighting the great 'dumbing down' - DW.com",
+      "summary": "AI in German classrooms: Fighting the great 'dumbing down'&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYnNmdFktd05XMVpiTEMycHUyMUhyYl9ELXV6WWlYd1JpR0lHMlAwZ1ZCZWRSR0dqTWJwODRGYWVRWDZvQnhVTTFqb3lEZzlNNnRjLURNV3YtZUN5cDdUXzNqc2VGV3E2RGhvTWpweTVWQVRTYzBPWlZhbXBDTmY0LVFNVzlTbmw5SVg4TWxCanFUd9IBkgFBVV95cUxQV0U0ZV9ENzdDb2ZOSGpqUkxQb0lyN2dmdWtONkw1TXdwa1A1ZENoclIwOXNHQW9neXo3SUJLdkcxNG5RLUxMZUtBN3puWHhMcnpOX0RXX2l6SVNRYmVtSUxVeE1NSmMxUTdVMmlldHlpQnZsdFZOYWF3VFdlNS1OalVJeF9PTWQ5RExHTUpuYzJJdw?oc=5",
+      "date": "2026-11-16T07:52:30+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "7UTtaM+VdD8p",
+      "title": "「Gemini 4 Hydrogen」とは　性能とユースケースまとめ　Googleの「誰でも使える」最新モデル",
+      "summary": "Googleは新AIモデル「Gemini 4 Hydrogen」を発表。「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。その概要と性能、使い道、料金をまとめる。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/",
+      "date": "2026-11-16T07:17:48+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "GpblNC4+/Rg0",
+      "title": "Googleの“人気AI講座”、先着1万人に無料提供　リスキリング推進団体",
+      "summary": "リスキリングを推進する団体の日本リスキリングコンソーシアムは、米GoogleのAI講座「Google AI プロフェッショナル認定証」を先着1万人に無料で提供すると発表した。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/16/2000003225/",
+      "date": "2026-11-16T06:17:41+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "j+H8/1ufYqzL",
+      "title": "South Korea races to curb AI cheating ahead of college entrance exam - The Korea Herald",
+      "summary": "South Korea races to curb AI cheating ahead of college entrance exam&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE02aGVST0RWNnM4d0NBbmxBS1FMSXdkQXZLNy1PaFBHWmZyTk1GVW9aTWZhd05Gc0FPc0hMRS1ndm9HN2YtN3puM1hydHlIT2RkdzF4U0Vwdw?oc=5",
+      "date": "2026-11-16T06:08:54+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "AfKoHM2LJo+d",
+      "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports - Reuters",
+      "summary": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
+      "date": "2026-11-16T04:17:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "8yfU6NqcAS16",
       "title": "フリーランス市場、受注者の約8割がAIを利用　自発的に開示は1割弱、両者に意識差　IBMリサーチなど調査",
@@ -123,6 +303,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "87sGM5r/c1Qz",
+      "title": "Inside China's drive to build an AI-native generation - Reuters",
+      "summary": "Inside China's drive to build an AI-native generation&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVUtY3hKeno0SFNRY2lXTS1Ka29uakhJcGlqMmw5YldNRElPQWJPVjRWcU5IXzZRaDhPZ2F5MExxQjdGZEVsNXZNd1dvSnA3OEJoSVNlbzFxdHFRNWF3RUNSV21rOW12Z1NSdVROTXdfdU5hS1p6SHh2eFdyaXJUN1BJbk9YZWtGamowbWVhTV92SGNTMjhTVS1ZZHdtQQ?oc=5",
+      "date": "2026-11-16T00:06:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "eWlFg9xzfO/X",
@@ -185,6 +377,18 @@
       "articleLang": "en"
     },
     {
+      "id": "bwLpKXZRd3fy",
+      "title": "Could universal basic income be part of the solution in an AI economy? - DW.com",
+      "summary": "Could universal basic income be part of the solution in an AI economy?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFMRFoxc01TM241MDJxRFpOT3hIVjZhOVd3d3JtaXB5eGRCV21qdkdqRnkxaG0tejNSdzhvQ0RzQ0p1NHcybTRuVGQ5Wlc0SThtWHZzLTNzSmVRY0lsbG50cXV4RHJOR1RxY0J3RDJUQVlPcVVYN0RCWGh6V0pfZjZmbVF0UdIBhgFBVV95cUxPYUlRZk1JV1ZVZkZUZFRPT0oxMlhuWmdycXlpRHROUkY1cEhiUGg4OGRtUGJvOXBRQnVxcDJMY3F5cmprbElDVndobTVUaHgwRmg1bTdlaGFqQ0VoZFdHblhhOE1pVjBnLVVXUW0yVm9jUmNLN1NRYTQ4OWFWa1h3ejhwQlFPQQ?oc=5",
+      "date": "2026-11-15T17:47:11+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "9mFZK91FAkx0",
       "title": "The Guardian view on civil service reform: AI cannot conjure a capable state on its own | Editorial",
       "summary": "Whitehall needs to change, but more technology isn’t enough. Opening routes to leadership would bring skills that are too often overlookedThe cabinet secretary, Antonia Romeo, called for an overhaul o",
@@ -194,6 +398,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "A6WZ0SGaWdU4",
+      "title": "Why the Nvidia scandal is bad news for Europe’s AI ambitions - France 24",
+      "summary": "Why the Nvidia scandal is bad news for Europe’s AI ambitions&nbsp;&nbsp;France 24",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSFZJVzZyTzVPRUVMZnA1dVFOa003aUhsdlhvWm1GV0RBS19xUnlMYnJHeU1MVTVCNjVCSUtDUmJ1TU5FeEctaUFnd0N5OXJCeFZGSEFFckF6Ty05ZndiQmU5RkpLNWZ2SFRPZG5QNHAwZmlHaXNOUEsxd056Q0hLWm5CTEltWXo1c1l4UTZUTHk1LWE3WG9DemxUZmdlOTlXeVpNdlNsNllDRzYwRkVsQWdrYmo?oc=5",
+      "date": "2026-11-15T14:16:24+00:00",
+      "source": "France24 Tech",
+      "key": "france24",
+      "cls": "src-france24",
+      "flag": "🇫🇷",
       "articleLang": "en"
     },
     {
@@ -269,18 +485,6 @@
       "articleLang": "en"
     },
     {
-      "id": "bwLpKXZRd3fy",
-      "title": "Could universal basic income be part of the solution in an AI economy? - DW.com",
-      "summary": "Could universal basic income be part of the solution in an AI economy?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUFMRFoxc01TM241MDJxRFpOT3hIVjZhOVd3d3JtaXB5eGRCV21qdkdqRnkxaG0tejNSdzhvQ0RzQ0p1NHcybTRuVGQ5Wlc0SThtWHZzLTNzSmVRY0lsbG50cXV4RHJOR1RxY0J3RDJUQVlPcVVYN0RCWGh6V0pfZjZmbVF0UdIBhgFBVV95cUxPYUlRZk1JV1ZVZkZUZFRPT0oxMlhuWmdycXlpRHROUkY1cEhiUGg4OGRtUGJvOXBRQnVxcDJMY3F5cmprbElDVndobTVUaHgwRmg1bTdlaGFqQ0VoZFdHblhhOE1pVjBnLVVXUW0yVm9jUmNLN1NRYTQ4OWFWa1h3ejhwQlFPQQ?oc=5",
-      "date": "2026-11-15T08:39:08+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "KaT34nbR35xW",
       "title": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears - France 24",
       "summary": "'Is this a cyberattack?' Grounded flights, a Microsoft outage and AI chaos fuel cybersecurity fears&nbsp;&nbsp;France 24",
@@ -290,18 +494,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "ztbMdKMK4tPr",
-      "title": "Nigeria: Can the influence of AI in the upcoming elections be mitigated? - DW.com",
-      "summary": "Nigeria: Can the influence of AI in the upcoming elections be mitigated?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDhaWkxHT29MZDVfOGN2WUp1QTFHbkpqYlM1dnFRQTR5ZXI4TDY4dkltX0lmWHJaWElBaDgwZjUtWUo4ZnNGZWtrdFZ4R0lxWDFxRlJWT1ZBc3YwMzRtOU9ZVWpEeHZWSXJmZnVjYnNkaERQMHFDbmpraEtDejVVNURvVy1BcnhzbHlLMjN2ZGkwMzk1YUd3RHhB0gGaAUFVX3lxTFBkYm91Y0ZGdlhraHQ2cTRGblVFaEVNSDFSRWY2dUVSWkNqME0yYlNwbUpLN2h3bTNzOTVmSzRMOHk4R1JsRXZnT1M2OF9EU3dzSTRqQ0NGcjZZY0tEdm1lamhoSm5IMFlWTndhc3VoYTFZZ1BaV2RzSDh2RzN2LV9nUzRnSTFvd2ZkaHlXSTRDRWs5RVNYdjZIUmc?oc=5",
-      "date": "2026-11-15T06:14:28+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -353,6 +545,18 @@
       "articleLang": "en"
     },
     {
+      "id": "YwOA86Zd/mcC",
+      "title": "Hyundai Home Shopping to debut fully AI-generated sales show - The Korea Herald",
+      "summary": "Hyundai Home Shopping to debut fully AI-generated sales show&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BbG5QODRFV0E2cGc2d290a1pWWlRkeU5PeE1kM1lCczNmVV9BU0FBaldJSWVaOVRkenZMX0dyblBKa0ZjWUJMVUJoNklQTUQ2cGlTSWZYYw?oc=5",
+      "date": "2026-11-15T02:22:55+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "I11r77Vo1eHA",
       "title": "Can Chinese AI companies curb open-weight cyber risks without losing their edge? - South China Morning Post",
       "summary": "Can Chinese AI companies curb open-weight cyber risks without losing their edge?&nbsp;&nbsp;South China Morning Post",
@@ -362,6 +566,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "ztbMdKMK4tPr",
+      "title": "Nigeria: Can the influence of AI in the upcoming elections be mitigated? - DW.com",
+      "summary": "Nigeria: Can the influence of AI in the upcoming elections be mitigated?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDhaWkxHT29MZDVfOGN2WUp1QTFHbkpqYlM1dnFRQTR5ZXI4TDY4dkltX0lmWHJaWElBaDgwZjUtWUo4ZnNGZWtrdFZ4R0lxWDFxRlJWT1ZBc3YwMzRtOU9ZVWpEeHZWSXJmZnVjYnNkaERQMHFDbmpraEtDejVVNURvVy1BcnhzbHlLMjN2ZGkwMzk1YUd3RHhB0gGaAUFVX3lxTFBkYm91Y0ZGdlhraHQ2cTRGblVFaEVNSDFSRWY2dUVSWkNqME0yYlNwbUpLN2h3bTNzOTVmSzRMOHk4R1JsRXZnT1M2OF9EU3dzSTRqQ0NGcjZZY0tEdm1lamhoSm5IMFlWTndhc3VoYTFZZ1BaV2RzSDh2RzN2LV9nUzRnSTFvd2ZkaHlXSTRDRWs5RVNYdjZIUmc?oc=5",
+      "date": "2026-11-14T21:13:58+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -398,18 +614,6 @@
       "key": "verge",
       "cls": "src-verge",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "slgh7/bM2E3q",
-      "title": "Zero capital, 116 projects: AI spots the devils in details of Wuhan graft case - South China Morning Post",
-      "summary": "Zero capital, 116 projects: AI spots the devils in details of Wuhan graft case&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEhORk5wWUU5SGhkZzJuTEtGbEVHZzlqODN1ck9BdUlIeTdRU3BnaVBHYlhXblBvMzhELWEtOURMd21pUWJFa181R2s2VG93S2k4MFEwSVl4TFVDeW9JYWs4WWY0eUU4UXVnODJiUXlGOTkydWhrZG9DVDl4Wk9CaFprQmJZTjFLZEFDeUpZYWltNmxPNnMzaTJ3OVRuT2t6WVB2M242QnlxSmhmM0pUS2x6VDgwQkJINDlodUVaQXN1d2VsNDc00gHHAUFVX3lxTFB1eWdyUW9PNW1hNFVwd3MybTZTV0c3V1ZaZVhpUWZraG8zTkxRQksybkFGVzBIcThUMWQwWU13UG9wRDl0b0xIYU5QZ1dhcTdqZ1hMNDB3QmZ3RmZCQXhqeTBYbzJxUDBJV1RMazlBYVY5a3plbGVCWU02Yms5Zk05T1o5YXBvNDlzdlpFVXN0TTZabERMZ3BNX3hzN2JCRE1BRU8xQ25fTkQ0TEl6U25hZjZtaTV6aU01bURuclBoaEdiLUdDODA?oc=5",
-      "date": "2026-11-14T14:00:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -485,18 +689,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cuJgG0yu8m2/",
-      "title": "EU leaders urged to 'act now' to stay AI competitive - DW.com",
-      "summary": "EU leaders urged to 'act now' to stay AI competitive&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkpJOWt3MC1XY3JPR1pfOE1oWnlLMEtUUGkwcHBhSEFSSlJ2R2ZNWFZxZEdtdnh2bXBhalY3WVBOODhjZlBfMTZiS0pwT25WeWZHOGxDQ2ZiY2dPUkpSTFpWamR4THlDYnFXMzd1SGtJNUVPakZvY3NxUWM3Ul80X0FSUXlVaWxtSVg2MDRMd2t2X1FQOVBOcEZRTFhxUdIBngFBVV95cUxQS09SXzFOWXdpU2dBbnd4TlpERjlOZUhXZEswQUJab3VaZHBmNXFCRmlXbzgwTGxTczJ0eHFVc2JudXJGSlo1OGpDRC1WLWFQdHhHblkxRENjUHdxUUppcndhaHlod0JuOTNacVoweTN1Ty1BZ3RfRU1mekpTTDBnV3pyWlFCc0N4TnVEMDY3TGp1RGtBZDZaYW5ocmhpZw?oc=5",
-      "date": "2026-11-14T04:18:47+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "7CRnGDSn5RTZ",
       "title": "Tech Now",
       "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
@@ -541,18 +733,6 @@
       "source": "Ars Technica",
       "key": "ars",
       "cls": "src-ars",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "rR8tfHGZnj2U",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "date": "2026-11-13T20:45:10+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
       "flag": "🇺🇸",
       "articleLang": "en"
     },
@@ -653,6 +833,18 @@
       "articleLang": "en"
     },
     {
+      "id": "cuJgG0yu8m2/",
+      "title": "EU leaders urged to 'act now' to stay AI competitive - DW.com",
+      "summary": "EU leaders urged to 'act now' to stay AI competitive&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTkpJOWt3MC1XY3JPR1pfOE1oWnlLMEtUUGkwcHBhSEFSSlJ2R2ZNWFZxZEdtdnh2bXBhalY3WVBOODhjZlBfMTZiS0pwT25WeWZHOGxDQ2ZiY2dPUkpSTFpWamR4THlDYnFXMzd1SGtJNUVPakZvY3NxUWM3Ul80X0FSUXlVaWxtSVg2MDRMd2t2X1FQOVBOcEZRTFhxUdIBngFBVV95cUxQS09SXzFOWXdpU2dBbnd4TlpERjlOZUhXZEswQUJab3VaZHBmNXFCRmlXbzgwTGxTczJ0eHFVc2JudXJGSlo1OGpDRC1WLWFQdHhHblkxRENjUHdxUUppcndhaHlod0JuOTNacVoweTN1Ty1BZ3RfRU1mekpTTDBnV3pyWlFCc0N4TnVEMDY3TGp1RGtBZDZaYW5ocmhpZw?oc=5",
+      "date": "2026-11-13T16:59:17+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "nYarDMzxYvFm",
       "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
       "summary": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theoremsThe Austrian logician Kurt Gödel was one of the most",
@@ -662,18 +854,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "6MGEIhA9HiGQ",
-      "title": "Fed's Warsh to take stock of AI revolution as US public grows wary - Reuters",
-      "summary": "Fed's Warsh to take stock of AI revolution as US public grows wary&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
-      "date": "2026-11-13T16:30:03+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -698,42 +878,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Wi/OnYp1L2+K",
-      "title": "What&#8217;s really at stake in the Jensen Huang saga",
-      "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much",
-      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "date": "2026-11-13T14:47:16+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "78lOwekN9QZQ",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "date": "2026-11-13T14:00:00+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "e2qCL2o+t/jh",
-      "title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom - Reuters",
-      "summary": "Nvidia fallout throws spotlight on Southeast Asia's AI boom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ZhbGw3QVB1NDhidHA1aEFOMnJFd0hTelBxaXp5dHdGU2V0aDVmSDRqOHUwQ0l1SjNBWDVVMnVsUFJpZDl2dHpQOF93VVdKNTJ2MWVneUZEdWt1S0JOWjJabDVjYXVWeWVZa1NyWGhFekttNnhtcGxZYnpxWUwxY1dlc1NBcGRZakJVT2hXRlpDRW9IRTRKWlNtbjE4TTY3bVhMN3UycDNVYXhJbjln?oc=5",
-      "date": "2026-11-13T13:12:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -821,18 +965,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7MeYNeN5R8Rm",
-      "title": "Have we finally found a valid use case for AI? Meet Pino the autonomous virtual kiwi | First Dog on the Moon",
-      "summary": "Pino noodles about making his own AI decisions. He has decided independently that he is into trains and cats. Aren’t we allSign up here to get an email whenever First Dog cartoons are publishedGet all",
-      "link": "https://www.theguardian.com/commentisfree/picture/2026/nov/13/have-we-finally-found-a-valid-use-case-for-ai-meet-pino-the-autonomous-virtual-kiwi",
-      "date": "2026-11-13T05:35:13+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "47r7S9krxNO/",
       "title": "Googleの社内専用コーディングAI「GfG」、その全容　Geminiに社内データ1兆トークン学習させ開発　所要時間半減の業務も",
       "summary": "米Googleなどに所属する研究者らが10月に発表した論文「Customizing an LLM for Enterprise Software Engineering」は、AIに企業独自の膨大な開発データを学習させ、社内システム開発に特化したコーディングモデルを構築する手法とその実用効果をまとめた研究報告だ。",
@@ -857,30 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "SlfdfoBrbahb",
-      "title": "SMIC says AI chip supply chain will remain tight through 2027 - Reuters",
-      "summary": "SMIC says AI chip supply chain will remain tight through 2027&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUGF5dmVoMEpMVWFtUTVVMTQ1R3B1OWtfZ21TNnQtcjEwVFNFdEtvWmwzc21ZM2Y5amEyeVJPODFDcG44NFBfUS1mb2lfcmZBU2hJTENlYk5oOVhPZWRSYzlOVE9FRWQzdENyOGoyLUZ3em45UlRhcTltdkFzc1U3WDhmbWtuSTlZOTRyNjZfYXk2NDZWOWk1Q29lcm5XYkxncWpTcXdHME5ON1BR?oc=5",
-      "date": "2026-11-13T02:01:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Xesv/53DnkrT",
-      "title": "「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り",
-      "summary": "クラウド型ワークスペース「Notion」のAI機能「Notion AI」のチャット記録が漏えいした恐れがある事案を巡り、Notion運営の米Notion Labsは、法人向けプランでZDR（ゼロデータ保持）を利用するーユーザーでも漏えいした可能性があることを明らかにした。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/",
-      "date": "2026-11-13T01:22:05+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "7dcY3ZeLVu03",
       "title": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance - South China Morning Post",
       "summary": "Why city is losing ground in AI data centre race as Malaysia, Singapore advance&nbsp;&nbsp;South China Morning Post",
@@ -891,30 +999,6 @@
       "cls": "src-scmp",
       "flag": "🇨🇳",
       "articleLang": "en"
-    },
-    {
-      "id": "oamuj+Q5XWs7",
-      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster - Reuters",
-      "summary": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
-      "date": "2026-11-13T00:04:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "DNFk+zN8YCLn",
-      "title": "Google、高速で低価格の「Gemini 4 Hydrogen」発表　無料ユーザーも利用可能",
-      "summary": "Googleは、AIエージェントによる作業や日常的なコーディングに向けた高速・高効率の新モデル「Gemini 4 Hydrogen」を発表した。「Gemini 3.8 Flash」の約2.5倍の速さでタスクを終え、推論の深さを4段階から選べる。APIやGeminiアプリなどで同日から順次提供している。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/13/2000003162/",
-      "date": "2026-11-12T23:04:46+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "8D0gE6rJvSoO",
@@ -953,42 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gWFM9D3bO3HP",
-      "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports - Reuters",
-      "summary": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN0pUQzVjV3ltd2hkZ29PSjdjWElOb3dmUlNPSG5HMC01V1EzSnlQdUl0Tm9WNnhJdktOamVLa1JWOTF5SGJZYTFrNWpBbElkc1lGUklCUUNVLXhHNWM1M0JmaHZTTmVaODlldER3Ulc3Q19zVGtOUDl1NzdCQWNuYkR5LWRVcXFUOGFTQXFDUDlTb2VLVzE3Z1M2dnlfeFFwSVV0MEpNNzExRHNxTlpsZGcyTlE1bE5LbEdLNGVtczd3M2hra1E?oc=5",
-      "date": "2026-11-12T21:31:07+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "2cjxcRIAgJNR",
-      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-      "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
-      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-      "date": "2026-11-12T21:27:10+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "St6mVbAJBWFc",
-      "title": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development - Reuters",
-      "summary": "OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI development&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTR4ak5BdnRmV3hzYTZOcVhBYklWU01YRmtLak03b2hmeC1PMTd5blRQWUkxR2Q1ZXZWRC0xNkNxVDVoN2VOdTVlX1hFMXgwS1Y5TW1fUGt4NThQaEhRVFdna1YxUDhLTnBYUFJ6WTlFajlLM1BZTTRwNk5sWFMydkZtMlJNUnU4MWlDcUN6QmNtVHdUT1pLNXd6QXc4QVk0WmMtM1JxWU5XVC1PUGRIMVJNY2wzN1Z1d2N6WWJkbw?oc=5",
-      "date": "2026-11-12T20:35:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "wZE92YQrFo4U",
       "title": "Help wanted: AI firms court ex-spies as Nvidia crisis spotlights security risks - Reuters",
       "summary": "Help wanted: AI firms court ex-spies as Nvidia crisis spotlights security risks&nbsp;&nbsp;Reuters",
@@ -1013,23 +1061,11 @@
       "articleLang": "en"
     },
     {
-      "id": "hIOan8irTvsk",
-      "title": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom - Reuters",
-      "summary": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEZUUGlzOUZwcFdtamtJMHBhWUVzaGNtV2ZDX052OU11RkVnRENCbmxnQlpPem5PTG1EYnR4RTRWM0wtcDB2MG1GTHI0akxGMUJZRUFRdzFtUW1hM0ZxOTRFcndMN0dUQnk4Q2pkS0s1aFR3UVk2bWdZcUt2OUE2OXhpVkM1NzZGWi1XYjNfaTFER2NqaThfY28tNjBaejd1NXlLOFc3R0hDal84LWc1WDJyS3FsVXpqOVJfZ3pwVXNoTFBjdzZz?oc=5",
-      "date": "2026-11-12T20:16:11+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "0TOTrZIqe7jJ",
-      "title": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns - Reuters",
-      "summary": "Explainer: Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRERObVhKZklNOEliOFhfQmhqMmZaQWktbkVWTXlxZU8zbUtxQ1cwZnZpaGJwZ1djUHFFVVlydTFsQUd3UUJEV0NOdUliUGY1ZGNKN1ZPWG1zYkpxcEgtNGJlSFVrTi1EVm84MnFFbWxmeXR1YmotNUdzVFBtUVU1VmhPR3ZGTHFUcHlSUnRQQmU0WUYyRi1fdnNHOHc3QUh2OWVsQURUb3BwVTVaMm9NRUdnbw?oc=5",
-      "date": "2026-11-12T19:08:21+00:00",
+      "id": "a5bx5/Ol4kPU",
+      "title": "IMF monitoring AI developments, too early to say if AI reassessment underway - Reuters",
+      "summary": "IMF monitoring AI developments, too early to say if AI reassessment underway&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajBjUkJzUkpMQjZLck00SEljVmF6U3lRNWRVY3l4S2RpdDhJUVZHY2tmTmNrbE85VFZTQjdWU0ZiU1U0Nl8td0haRzdKOVhEYWRjMFFKaDhfbVE2NkoyS1dOUm96czBjSmlhdmJzcTdVSk1oUzZqSW1UQzZFR21zRDBlOWd1V0oxRk1ObUVlYlVjT0RfOFhlWUVZM3R2ZGh5NVAteWY4RGdfcWdqYjFaaFJnRDJOUTFZSmx5eEZ0ZmFrYVpyZ1BUemRHM1VvQQ?oc=5",
+      "date": "2026-11-12T17:49:42+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1061,6 +1097,18 @@
       "articleLang": "en"
     },
     {
+      "id": "R/ob7Q69x2kb",
+      "title": "French army ministry to set up centre for defence-related AI - Reuters",
+      "summary": "French army ministry to set up centre for defence-related AI&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk02WVl5aUx2TTl0QmJjZEpSVUkySGFQSkZqYTZpRXc3c0V4RlViNWhJVkE3b2szcC1Qai1sWWRVTDVhVlRyVWxYUW91cVFpSW5TZ0xSTnJRclZBWWFEaXBKaXBORTV3blJrOTN5ZXNOdFpHUnozc0x2LTRZdndDWjNjM3lhb2RjRU1xSTBiYWhuV213WGUyNFItdURucG81T0E?oc=5",
+      "date": "2026-11-12T11:17:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "tRK+kNPiG0tr",
       "title": "AI to stay dominant force behind US business investment in 2027, Goldman says - Reuters",
       "summary": "AI to stay dominant force behind US business investment in 2027, Goldman says&nbsp;&nbsp;Reuters",
@@ -1078,18 +1126,6 @@
       "summary": "Most large firms plan higher open-weight AI use to cap bills, study shows&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYWVBOHhodjNxVmZ6Q05XeEJBOFlHNUFzTjRyMVBUMEtoOEgwRWJKT0dqWlU0RGo2ZmZFNm5nZ0ZYSXJydEZfbTJyUmxCQmc1OEhvMmlBc1N0aUJNZXFjb2FFM2Y3N0ZoQzN2bEZKcEU4N3pUeWxiYWhwT1kzUHdLTkwzSUJyZXhpSUxQck1RUzUzQ1JNa2EzV0hURFl6V3VsRDR5eUl1SzBVczN1WV9BTkU3cno?oc=5",
       "date": "2026-11-12T09:04:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "FPxQMhzhUWfw",
-      "title": "Public funds ploughing cash into AI will 'own' megatrends shaping economy - Reuters",
-      "summary": "Public funds ploughing cash into AI will 'own' megatrends shaping economy&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjBfMHFEMWtxaW56eGgzUTV3TUtJajZJUmdaS2NzY2tkY1I0aFhlYTRlZ3pNVVViQ01HQU5kTHNzWWxaUlJnZGRVekU2VUlIdlRtQnVZMGV1QjdzbGliNkgzWVFiemVWdkFleTMtTEdpU0NPQnl3bERNR3Z6dHh0NVBIWkh0ci01VmJXcVhUYTVXYUREejJUVUFLeXQ1WmMwSEszb0xnTFFEM3JpZTE0RHdXUjgwYU5neXViclZhYkUwdw?oc=5",
-      "date": "2026-11-12T06:06:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1145,18 +1181,6 @@
       "articleLang": "en"
     },
     {
-      "id": "qL01balPiat3",
-      "title": "Amid Nvidia saga, T-Head IPO crucial for Alibaba – and Chinese AI - South China Morning Post",
-      "summary": "Amid Nvidia saga, T-Head IPO crucial for Alibaba – and Chinese AI&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQ0VfUmZUVDNvUUdQRlVialFLUDdwaUw5MzVuTzZKYTVlbzlQSmpTQ1JFaEZaSFJfVlJhMUw0MGlTUnpoMVJvclh4QVpXT2Y4anhiQ2tNQk1WbWRQc2dpTldrNlpldW1UVzM0UXRVbW9CbmtiYVU3X0JxSVkzVzRKc1NtOEhOdy05dXVqd3ZPQzVtYm9OSFd4OFpVX1A2aTVDMldpU2Z4WFliMnlHcUR0aFIyZDhTa2U5aE9rdVlYU0PSAcABQVVfeXFMT2RaeXR6ZWNab09KRnNMRk5FaFlOQWRha3ZyQ01BTktHc3dNMUUwTWlRMlNqT09wTUFFTHJFSlQ3REtIaTk2M3hsckJ4SXcwY18tbGM0UEpNQVBVUUlnQ2lsckY3X2hPQVQ1ZXBOZk5hZHVBMHdhb19ZQ1pZaXk1a3FMTFFwVXBfeXlUZjhVcmxySW1sTGt1MkxIY0JRVzJOUzF2aXg1U3NSQTF3NFlmQkc0bE5wZFZBNS1mSXQwVXB1?oc=5",
-      "date": "2026-11-11T10:31:02+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "wuQL+OHqYxYb",
       "title": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks - South China Morning Post",
       "summary": "Exclusive | China, Russia and US try to nail down AI nuclear agenda in time for Apec talks&nbsp;&nbsp;South China Morning Post",
@@ -1169,15 +1193,15 @@
       "articleLang": "en"
     },
     {
-      "id": "1l0/ZvN/fIF+",
-      "title": "Alibaba chip unit T-Head files for Hong Kong IPO amid China’s AI push - South China Morning Post",
-      "summary": "Alibaba chip unit T-Head files for Hong Kong IPO amid China’s AI push&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZUJHVlpyRkNPSWRKNUFKWGdGVVFBdnl3YzluMm9MdDM5UHFvdFFJVUlwanNlaTFscXo4N3Y3S0pzQ0pFb21oV2l4SjB2bzFicEdmY19rZW1FOXFvcXQ4cXl2Q19fbkNPejZhXzdJQ1g2MnY1bDI0V3I1bHUyWHJKT2lCZEl3WHVGdDRPNzlFRzhQX3FTNFlmTGZhSElZa0xuUkN6eDRnNDV1b2FBOVRsSE5ldFo5YlI4NExScTlCZ1lCQ2RJLTBGTDA5THhRcmlsUDFNNVBjWjhZdkU?oc=5",
-      "date": "2026-11-10T13:20:29+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
+      "id": "IwfJFTP7Wjf7",
+      "title": "S. Korea ranks 10th place in global AI, digital competitiveness - The Korea Herald",
+      "summary": "S. Korea ranks 10th place in global AI, digital competitiveness&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE01ekl5X3RoX0Fodk1tNVptcHF5MU5ZdDBfS2hzaENnVjd6YmdmTGVaZkNYaGNYbF8zOHZfbzlwbGN6OHpkVFprLTlTamNtajdtb1pObk5VZw?oc=5",
+      "date": "2026-11-11T00:28:30+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
       "articleLang": "en"
     },
     {
@@ -1214,18 +1238,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "u4ePTkj4454P",
-      "title": "The backlash about data centers might really just be about electricity",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in",
-      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-      "date": "2026-11-09T19:35:33+00:00",
-      "source": "MIT Tech Review",
-      "key": "mit",
-      "cls": "src-mit",
-      "flag": "🇺🇸",
       "articleLang": "en"
     }
   ]
