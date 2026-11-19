@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-18T23:53:49.946408+00:00",
-  "articleCount": 106,
+  "generated": "2026-11-19T05:59:13.989494+00:00",
+  "articleCount": 108,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 5
     },
     "bbc": {
       "status": "ok",
@@ -44,19 +44,19 @@
     },
     "dw": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
-      "count": 6
+      "count": 7
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 22
+      "count": 21
     },
     "economictimes": {
       "status": "ok",
@@ -65,8 +65,104 @@
   },
   "articles": [
     {
-      "id": "p1P1oIePy11+",
-      "title": "Amidst fears of AI-cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "id": "lrRQsE8YOgjx",
+      "title": "Datacentres to create 70% more carbon emissions by 2030, IEA report warns",
+      "summary": "Global energy watchdog forecasts huge rise as US and China turn to fossil fuels to power AI growth agendas  The world’s datacentres will create 70% more carbon emissions within the next four years as",
+      "link": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
+      "date": "2026-11-19T05:00:18+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "nQKPDIzZqQQ+",
+      "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
+      "summary": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
+      "date": "2026-11-19T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "41qR1T2v8C0S",
+      "title": "AIモデルとAIエージェントをつなぐ「APIルーター」に注意？　428件を調べてわかった乗っ取り手口　暗号資産を盗む例も",
+      "summary": "米カリフォルニア大学サンタバーバラ校（UCSB）などに所属する研究者らが発表した論文「Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain」は、AIエージェントと外部のAIモデルを仲介する「APIルーター」に潜む危険性を調査した研究報告だ。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003310/",
+      "date": "2026-11-19T03:00:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "17GI7tzQqrM+",
+      "title": "Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」　一部「Fable同等」性能をコスト半分で",
+      "summary": "Googleが「Gemini 4 Neon」を公開。同シリーズのモデルは2カ月足らずで4つ目となる。第三者機関の評価では、コーディングエージェントとしての性能がClaude Fable 5.2と同等で、コストは半分以下だった。",
+      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/",
+      "date": "2026-11-19T02:25:30+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "zDkl/xy2QMsb",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-19T02:20:15+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "QQWbmTFWy25l",
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters",
+      "summary": "Arizona says it is investigating OpenAI, other firms over possible rogue agents&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
+      "date": "2026-11-19T01:45:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "C1SELO0B80Fx",
+      "title": "Over half million students take Suneung amid AI cheating concerns - The Korea Herald",
+      "summary": "Over half million students take Suneung amid AI cheating concerns&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lV3JvRlBLbE0zUnZROXpqV1pIQjdES1NiaFNpOXFpc3RXTnU1dEswdmE4UmJGNHFqN2E1eHA4ZHhaaHZBRnFOcFFWb3JxZ3RBZmg3ZEgwaw?oc=5",
+      "date": "2026-11-18T23:59:49+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
+      "id": "8fkFEjsJpjXK",
+      "title": "Four Maryland high school students sue after AI mistakes Doritos bag for gun",
+      "summary": "Football players say they are ‘traumatized’ after being handcuffed and detained by police while waiting for rides homeFour current and former students at a Maryland high school have filed a lawsuit a",
+      "link": "https://www.theguardian.com/us-news/2026/nov/18/maryland-baltimore-county-doritos-gun-ai-lawsuit",
+      "date": "2026-11-18T23:53:51+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "um2gj5tsN3kL",
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
       "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
       "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
       "date": "2026-11-18T23:45:00+00:00",
@@ -74,18 +170,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "NApwSDg43eKr",
-      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T23:44:27+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -125,20 +209,8 @@
       "articleLang": "en"
     },
     {
-      "id": "uXdt1juFThv9",
-      "title": "Anthropic prices blockbuster IPO at $83 a share, source says - Reuters",
-      "summary": "Anthropic prices blockbuster IPO at $83 a share, source says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR3NST2trRTZCZkdmblYtRm5pcldXRUJTVjZkZUJ6bHJYbjFUSUJ6ZGVJNW1SMVg0ZWthVnlfVVRhZnlld192c0pBaUZSUzRZS0xGdFlYRnViSU9RYVhHWXRpVDlULS0tREUzcDhfa0NGSVIzVkFTOXBzeW5JelpBVy1RV2FFWEpwdnFhZnlqUVN0bUxWSXJaTVFzTEQxTDlFVVpkRERxQmplM0V2X3c?oc=5",
-      "date": "2026-11-18T22:44:18+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "AMXF7M+s6eQx",
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "id": "84ocLiT6FVk6",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
       "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "date": "2026-11-18T22:11:15+00:00",
@@ -183,6 +255,18 @@
       "cls": "src-itmedia",
       "flag": "🇯🇵",
       "articleLang": "ja"
+    },
+    {
+      "id": "Xku1VxEf0BPB",
+      "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
+      "summary": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
+      "date": "2026-11-18T21:53:07+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
     },
     {
       "id": "CNVqdsGmkUxL",
@@ -353,6 +437,18 @@
       "articleLang": "en"
     },
     {
+      "id": "A/R+dcOc+MiZ",
+      "title": "Can industrial AI give Germany a competitive edge? - DW.com",
+      "summary": "Can industrial AI give Germany a competitive edge?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5ndHBnNHJobk1tWFZ2QmNCUTBOQzc3X21rbmVweUNMOVQybWxDUzVFNkpTUG5YclFETlowZHN0WU8td2tGQ0tMX2JjOHhpNTZva2Zwd2ZTMmRqTFJNUGZWSklRLUhoR3VDMHFQUFpDZkE3Q0JVWVVEMlBzbW1GTUJhVDROYWxBWVc0SDdDUQ?oc=5",
+      "date": "2026-11-18T15:43:10+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "gcO0uWiBrM6t",
       "title": "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
       "summary": "Thomas Nagel has done landmark work on consciousness in nonhumans; this week, he won the million-dollar Berggruen Prize for his contributions to the field. And he has a lot of thoughts on AI.",
@@ -449,18 +545,6 @@
       "articleLang": "en"
     },
     {
-      "id": "GSSh0GJjIzJJ",
-      "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
-      "summary": "Nvidia stops shipping US-approved AI chips to China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
-      "date": "2026-11-18T12:08:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "dkWAaB0h7xU7",
       "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
       "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
@@ -521,6 +605,18 @@
       "articleLang": "en"
     },
     {
+      "id": "QRBpjOrphGVb",
+      "title": "Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run - South China Morning Post",
+      "summary": "Tencent says US chip curbs ‘unfortunate’ and may slow AI training in short run&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRUNyMXBsSWE5YXpVWU1EeWF5amNod19wQ1NvaEcxRS1RY2hraGZ3bFk0QzNrUHZ5ME94d2VIbTBfWDhlYXpzMTAyUEhGODVQZWtpQXFUWDlaa05FdnRtRGIwT3djclZhNS0zVUhYNkF2MGpWU2ktdjN6YnRjNVRnX2lXUkpOcWRHczMtQzA4ejdGNnRrblRrbVVwdzhWTk5OdjBoeGV2Tl9waDktREhTNmhGVzlaYjJSZmF5eWZRVWxocEpkTFNtWWtzSUM?oc=5",
+      "date": "2026-11-18T09:49:49+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "eGulqDJLkDi6",
       "title": "Security flaw found in Java, world's third-largest programming language",
       "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
@@ -536,7 +632,7 @@
       "id": "bPCRZd5eu/hv",
       "title": "Xi Jinping urges South Korea to cooperate with China on AI and supply chains - South China Morning Post",
       "summary": "Xi Jinping urges South Korea to cooperate with China on AI and supply chains&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGFvTkVLV1RVM1ctNmltc0oya1F5NTd0R0VMTDRLbVRzUFg1Rmk2V3lKNjJyc0ZRNkdiYmVFNjV2OFJFekl4c2NhTzZtSWVHS2NMTzJLcW04SkFSeE1VTE5feW84MnloX1VJV1ZBWHBNOGdEVG5aaEpPeVRtZGZ0X3lOYUZLUzhUMmRMeWgxSDJWTnVMY1hfVmFJTkRFUFUwMXpMU3hETE8zYXladDBVY29pWElCSzFjVlh5X2w2OUjSAcABQVVfeXFMTnViOTBDMGptTFdPOWxFTzdtSTItWG9FWGZFVGRSRzAzd010OFEzYXNaaWNUR21FQkRXQWwwMy1NQV92dFk2NnlYOElSUHFVU0xoMjVvc21wQVg5VTdXZkRLekl6UmZfZ0NyaDlaZjZaREpGWjVhWDk2LURaOHI3Q2x0bkRVUzZTSHRYcnhQdEtyTmloMnRnZWxUVUxLMGZVRkVOMEV2WXFkQW5nQWlxWVVuLTdoZ2txYVFraURZTFhL?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGFvTkVLV1RVM1ctNmltc0oya1F5NTd0R0VMTDRLbVRzUFg1Rmk2V3lKNjJyc0ZRNkdiYmVFNjV2OFJFekl4c2NhTzZtSWVHS2NMTzJLcW04SkFSeE1VTE5feW84MnloX1VJV1ZBWHBNOGdEVG5aaEpPeVRtZGZ0X3lOYUZLUzhUMmRMeWgxSDJWTnVMY1hfVmFJTkRFUFUwMXpMU3hETE8zYXladDBVY29pWElCSzFjVlh5X2w2OUg?oc=5",
       "date": "2026-11-18T08:42:47+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -639,18 +735,6 @@
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
       "articleLang": "en"
-    },
-    {
-      "id": "+aDKVvR7xmGg",
-      "title": "「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大",
-      "summary": "OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」を発表。Astraは一部の性能評価で、前世代を上回るスコアを3分の1以下のコストで実現したとうたう。第三者機関の総合指標ではClaude Fable 5.2次ぐ2位。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/",
-      "date": "2026-11-18T01:32:09+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "lO30WM38koS1",
@@ -953,30 +1037,6 @@
       "articleLang": "en"
     },
     {
-      "id": "gKEHh6JQjjsC",
-      "title": "California sues OpenAI over safety concerns after rogue agent hacking",
-      "summary": "Lawsuit stems from earlier incident where tech company’s products hacked into open-source platform Hugging FaceCalifornia sued OpenAI on Monday, accusing the artificial intelligence titan of developin",
-      "link": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
-      "date": "2026-11-16T21:41:10+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "w8xfd4IZD0sT",
-      "title": "Albanese signs on to Trump’s AI supply chain pact before leaders’ meeting at Quad summit",
-      "summary": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China’s efforts to dominateGet our daily political email, free app or daily",
-      "link": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
-      "date": "2026-11-16T21:00:21+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "7D4PBt19fJlT",
       "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
       "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry&nbsp;&nbsp;Reuters",
@@ -1085,10 +1145,10 @@
       "articleLang": "en"
     },
     {
-      "id": "EGTT+cEJetKe",
-      "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries - SCMP",
-      "summary": "China’s Moonshot AI puts Kimi models into race for scientific discoveries&nbsp;&nbsp;SCMP",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpucXFHMllYak5sZ0xCX2gzaUttVldTLVhuMjdmTTBQMHBsYnlxUVNfYU05Y3ZrQzM4YWxnaG9ZRllhLUxNUXFObEtPTWdLZTQwR1J5NG9VYW5Hak1aT1VoV2Y3M2x3WnV5Nmp2d1VRUlp0blRYRUFJcGw1ZTlQdUl4S3BkeWFVUkY5N1EtbkJCb0JWeDU4MHhaYmotZjd0YThrTQ?oc=5",
+      "id": "hJv8aYYVsDXx",
+      "title": "China’s Moonshot AI puts Kimi models into race for scientific discoveries - South China Morning Post",
+      "summary": "China’s Moonshot AI puts Kimi models into race for scientific discoveries&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekpucXFHMllYak5sZ0xCX2gzaUttVldTLVhuMjdmTTBQMHBsYnlxUVNfYU05Y3ZrQzM4YWxnaG9ZRllhLUxNUXFObEtPTWdLZTQwR1J5NG9VYW5Hak1aT1VoV2Y3M2x3WnV5Nmp2d1VRUlp0blRYRUFJcGw1ZTlQdUl4S3BkeWFVUkY5N1EtbkJCb0JWeDU4MHhaYmotZjd0YThrTdIBpAFBVV95cUxPSDh1S2RyczlzTnc4RnNEVnNRMl9SWW1jQXVPZVNXVmEzVW1kWnFZT29oRFQ1R0hWTGFKenBWeTZOUkZvWERUUjNlWlVHY21iMnJDX2dueTFxT2dLRVozcGlkaG5BNFlGZ09FOFpubGIyRjJ5Tll1NDR3dkV6VUdfN1B6Y1JRMjUxaTRXb3Nodk8xcVFWUWJhNnFIZnExMTlDckg5UQ?oc=5",
       "date": "2026-11-16T07:30:08+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1114,18 +1174,6 @@
       "summary": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
       "date": "2026-11-16T04:17:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "87sGM5r/c1Qz",
-      "title": "Inside China's drive to build an AI-native generation - Reuters",
-      "summary": "Inside China's drive to build an AI-native generation&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdVUtY3hKeno0SFNRY2lXTS1Ka29uakhJcGlqMmw5YldNRElPQWJPVjRWcU5IXzZRaDhPZ2F5MExxQjdGZEVsNXZNd1dvSnA3OEJoSVNlbzFxdHFRNWF3RUNSV21rOW12Z1NSdVROTXdfdU5hS1p6SHh2eFdyaXJUN1BJbk9YZWtGamowbWVhTV92SGNTMjhTVS1ZZHdtQQ?oc=5",
-      "date": "2026-11-16T03:32:58+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1210,18 +1258,6 @@
       "summary": "No actors, no crew, no ticket sales: why China’s first AI feature film bombed&nbsp;&nbsp;South China Morning Post",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX3hPd1dvOWRWX3J2NklEeUhNdVBvclJRdEh3VTAzYkJrN1RuZHpHT3IteVViNDZfSDdWTWh0V01kcEl1QjhjRHZIdk5VNG50STdTZUVIY0xBU3ZZYkJLTFNqTVdrdmwzVE5ydkdyOU5ISXEydHFmY0VVbmhva3djV2dsbEhFandoY25neVZuaHQ3Q09mSmkxVmtfTG9sRjJhaEVHQnBfVXpFOG9KbVdXZUVfekwwRDlyY0F2N3d5Xy1IcXBuZW5WNExxUDRMbVlsR1RB?oc=5",
       "date": "2026-11-15T05:00:06+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "I11r77Vo1eHA",
-      "title": "Can Chinese AI companies curb open-weight cyber risks without losing their edge? - South China Morning Post",
-      "summary": "Can Chinese AI companies curb open-weight cyber risks without losing their edge?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdVdsanItZFBWdTdDcnJUQ3FWMVIyTkRxTjF2RWpMZ0RZR3FvZzVBWG4tUDVIamVPS1pGZ1hxa1N4SUt1UXpLZ2FoSjd5MHBCM2hiaFkxbEJMbHBMMUI5QXhwVU0yMEN6SUx3SGJ2VHRicldiczd1QmE4Nld6QWhtUWpPQUxQVDdyQnJNa1ZoYXRSVlROSmpRcFJmRmF0ODIwVHZhcmZ5QllvYlBJSEtXVWp1dXVWWFZzNTZJVElZbTZ0VkRVVjNxZjM0ZnltUWE5VjI1emozSdIB1wFBVV95cUxQLWJ6TmNrVE1qSlpzWlBBVDFOb2I3ZFQ4cW91NFZBQlYxRU1iOHVlaEluTmJtYlowU3d6eWJVa0NHT2JOaFpDMUU4Wk0wckZFVVhWWVU0SE14VjNfXzAtSkdtNkVKWU5WTnN3bHNGN3FkSHlZSmhNYzBvRmFmeURudkFvcVFIcXl2d2QteWNidUEzZXl3LWhERmNuSkZ1cEZGVGRIYVBlaVhUZVoyUDJ2ZkdlbW5sRVVNeHg2SzlyZWQtZVVVRWQxaU4teGFLUmNLM0NDWjMxMA?oc=5",
-      "date": "2026-11-15T02:00:09+00:00",
       "source": "SCMP",
       "key": "scmp",
       "cls": "src-scmp",
@@ -1322,18 +1358,6 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "UwyI8BWrzBBQ",
-      "title": "Opinion | America’s AI bubble is a Ponzi scheme - South China Morning Post",
-      "summary": "Opinion | America’s AI bubble is a Ponzi scheme&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUQtUWgwd2cwc3FzNGFxQWxBdm8wVVJTMlNLN1FNTGFwTUNXZFJLS2VSMjNta1AzMjY1LTFCaS1hM1BpVTVpX25RTFFfa01QbDFlR0FrV2pPcjR4eTJOUjR6X0s5REVFYnVrdDUzNlFNaHdJdkx1cFVNRWYwX1BTeU5oSFpKZ29kRmh3M2pHWTcteW4w0gGUAUFVX3lxTE1zbG5Hd00yYlUyLVJrbms2MXBlSkVzdjJCaXBUY3JiSU5vOFh3SFBuMTc4NW5WQlpNRTNQaEt5Z3JYaUREcHpaVC1iQlhpSlpXdG5CWVlKRHlZUFdZT0QyV25henh5NnljVG1sT1M4ajNSR2txNVpUMWtXbXdRQXFZZUFTTWlpZGNFbElUb2g4elVfREY?oc=5",
-      "date": "2026-11-13T12:30:07+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     }
   ]
