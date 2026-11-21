@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-20T23:41:32.710238+00:00",
-  "articleCount": 113,
+  "generated": "2026-11-21T05:43:41.610005+00:00",
+  "articleCount": 109,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -28,11 +28,11 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 4
+      "count": 3
     },
     "bbc": {
       "status": "ok",
-      "count": 9
+      "count": 8
     },
     "guardian": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 12
+      "count": 13
     },
     "reuters": {
       "status": "ok",
-      "count": 18
+      "count": 16
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,18 @@
     }
   },
   "articles": [
+    {
+      "id": "U3Pzk6NoSc4P",
+      "title": "Can AI really help spot Black Friday deals? We put it to the test",
+      "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21T00:06:11+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
     {
       "id": "7SRbk2orzLmK",
       "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
@@ -134,18 +146,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "WfwnUnfDcC2S",
-      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
-      "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WHlsODFJRVA2MEVaNG5DZnZVTkg3c0ZxNGJjUC1nUnl3X25hNVpkVnp3QU9ZU0tiN21aLVpRaVNpT1FJd0xDSzVQOEF3OXV6TS1Ia3ZwbEVZWFl3SFZtOWItQUVGX3k1ZVFEbVFOa2RkeXNFTmdWWEg1UdIBe0FVX3lxTE5pV0htV3ZDa2ZOWHd5Q3N2YXdLVVJhajdrQmNCOUhZNVNTMzl1U2lDSjNBZFl4cmNMaHlqYlFfWjNyVWFsY0MzdE5nVjdLbU5sbnNaTVU2eVRMQWtWeGlXRS16dGJ6SVBoSE1MdS1ramJlNlh5T0lSdHRMOA?oc=5",
-      "date": "2026-11-20T19:42:33+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -221,6 +221,18 @@
       "articleLang": "en"
     },
     {
+      "id": "Ehv+S6ll5TSd",
+      "title": "Fed's Cook says central bank watching AI industry financing - Reuters",
+      "summary": "Fed's Cook says central bank watching AI industry financing&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHI2aWRzcEgxVVM4TVNuQWFOMVpVZ2cwb19XUEo2ZlhhYjJQXzJlMXdZVFlRVFdicHlrYmoxRE9GZ1NZUFF0R09CeFZ4SV80dWh5M0YxUzFyUEVqMXJLUDBGR0Q5NEhNMkhDYWRRVHZMVWZYZ05UczcyT1hvMkdJLW5jSDZyQU9lUloza1hhQ2EzZWl1cldEaXdmUE50aWJZVGoxYmF3?oc=5",
+      "date": "2026-11-20T18:13:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "KBjecHkMuATC",
       "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says - Reuters",
       "summary": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says&nbsp;&nbsp;Reuters",
@@ -230,6 +242,18 @@
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "spbbDQM+Befd",
+      "title": "Anthropic researcher says Claude has solved maths’ greatest riddle - South China Morning Post",
+      "summary": "Anthropic researcher says Claude has solved maths’ greatest riddle&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVXJvcVB6c0YxRTdhSENHbGJvUkFuM01RVFVtNUlkaGFoaWU5NmhWNHVQNTNRcllza0FJTmZNc2dIUVhrQ0w4d3Rpc3o1dDlKUmZzTHFFcWNQS0phdkE1eXVpNndXOEZCb092Q3luTEFDeEQ0aWZoUDh3bHkxVnJDdGtVTEdFQ2dnbFk4VlNiZDVWaUdrbUVna2c4Mm4tZGt1Q2E3UGtuV05xeUV0ajlRZ01rVVRwRG1wWUJ0RDM4WDB1SlcyRVdyMWdXdHdDdzjSAc8BQVVfeXFMTS1RZFhDajR3bVROelpuVGVaQUNLWU1TNkFFQW1rdDJ3MGZySGRBOG54dmNIUEg1ZTcxMXZTaXVUQzFfY0RHQm85VWJBOWhESW1IWDdPSF8wek56dTdkRlR0WmFQUTZUby04M2dySDFSTnpkVF9RcUFFWWFiMWg0bXRyNDh3N19HbHpQLW1veFZHSHVuUmxHaXF5SHpta0ROcHpPTThNVm9SejJBN21kMUhpcENLcDkxdFcybWJVUlRMLXNrclJKRGlFR053MDM4?oc=5",
+      "date": "2026-11-20T17:55:08+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -314,6 +338,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "WfwnUnfDcC2S",
+      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
+      "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80WHlsODFJRVA2MEVaNG5DZnZVTkg3c0ZxNGJjUC1nUnl3X25hNVpkVnp3QU9ZU0tiN21aLVpRaVNpT1FJd0xDSzVQOEF3OXV6TS1Ia3ZwbEVZWFl3SFZtOWItQUVGX3k1ZVFEbVFOa2RkeXNFTmdWWEg1UdIBe0FVX3lxTE5pV0htV3ZDa2ZOWHd5Q3N2YXdLVVJhajdrQmNCOUhZNVNTMzl1U2lDSjNBZFl4cmNMaHlqYlFfWjNyVWFsY0MzdE5nVjdLbU5sbnNaTVU2eVRMQWtWeGlXRS16dGJ6SVBoSE1MdS1ramJlNlh5T0lSdHRMOA?oc=5",
+      "date": "2026-11-20T10:41:18+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -641,18 +677,6 @@
       "articleLang": "en"
     },
     {
-      "id": "VNRsx8vN29Qz",
-      "title": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says - Reuters",
-      "summary": "US signed off on sales of nearly 900,000 AI chips to China in six months, House committee says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOFRrWXhLbGJZcHVKYzUycHNKbTdKZUE2clNGYUp5WFFBOTdaWndZbVdDZW0xSTQzUi1EZlRsRElldE00bktXMUFMaG1Sclo4eGdCVnZab1JUbWJwZHQ4cGFSTzgyNkZSZmF0WHAzR0hTa1B3eUQ5cmJRTGRfd1ZBdkFiSzNpU1RDeF8wU0pmbXBqWXYxeFNuaWdmV01QLWk0MWdrclJDV2ZYNVFFN0puWU9B?oc=5",
-      "date": "2026-11-19T20:11:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "WQ+zjaae0UN7",
       "title": "Who are Anthropic’s seven co-founders, now worth $180bn?",
       "summary": "The company counts physicists, a former journalist and an associate of the pope among its guiding lightsThe paper fortunes of Anthropic’s seven co-founders reached a total of more than $180bn on Thurs",
@@ -677,18 +701,6 @@
       "articleLang": "en"
     },
     {
-      "id": "OYRpcbXD27Lm",
-      "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public - Reuters",
-      "summary": "From anti-war physicist to AI power broker, Amodei takes his safety approach public&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnhhNDVzR1JMenI2MDVJa0lUc1E0T2dZRHpzREt6eUtxTVJfdHdWX3BQcU5nc0w5RUR0VzRFVjVDVDA3ZVo1c2w3Zk9SYlhhd1RoLXNOUjdvN01MQWJjUTNaSGk1Z1p6WWRFM3lwNlUyamYwb0dTNkxweXBhM1JRT1pNQkdtTTFrTjRVTXQzNFpfZXlRVmMxZF9JYlFBZUs3bGU0aVVRWndzcTdNY3B5dGJ2S1lXdW8?oc=5",
-      "date": "2026-11-19T19:16:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "t9L76LpM4tu/",
       "title": "Anthropic’s IPO could deliver $156B to charity",
       "summary": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
@@ -698,18 +710,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "Ru0uhQlv8Rpt",
-      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
-      "summary": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
-      "date": "2026-11-19T18:34:39+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -989,18 +989,6 @@
       "articleLang": "en"
     },
     {
-      "id": "nQKPDIzZqQQ+",
-      "title": "ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……",
-      "summary": "ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実態を調査した研究報告だ。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003309/",
-      "date": "2026-11-19T03:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
-    },
-    {
       "id": "mQ2RI13PRaWW",
       "title": "Perfect LEET scorer vanishes amid AI cheating suspicions - The Korea Herald",
       "summary": "Perfect LEET scorer vanishes amid AI cheating suspicions&nbsp;&nbsp;The Korea Herald",
@@ -1034,18 +1022,6 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "JjW2vHwgGqFs",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-18T23:42:07+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1097,11 +1073,11 @@
       "articleLang": "en"
     },
     {
-      "id": "GSSh0GJjIzJJ",
-      "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
-      "summary": "Nvidia stops shipping US-approved AI chips to China&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
-      "date": "2026-11-18T12:08:59+00:00",
+      "id": "YWQ6dQK93f9Q",
+      "title": "Malaysia says data centres must comply with US AI chip rules - Reuters",
+      "summary": "Malaysia says data centres must comply with US AI chip rules&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUFnczFGX2xRSlVqVVVmazE1Zks1SDMySV9wNjM0aWRrQVQ2czRaOUdUVDZjVk9melJxR2NQSGhGNkY2MEVCVTQ3dEp1WTRHUUo4c2hINFFlSGJXWkliMXBtcFJHZjhvdVdtVUxxV29Pc2lnNXBqdkU4bUV5cnNjX0xOT0d4Y24xakt1TlFDOFVqY0lKbVQ2dm5fUFJjZ3piWHdhVWZuLVJiQzllR2ZzbDEzUQ?oc=5",
+      "date": "2026-11-18T12:22:19+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1394,30 +1370,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "ztbMdKMK4tPr",
-      "title": "Nigeria: Can the influence of AI in the upcoming elections be mitigated? - DW.com",
-      "summary": "Nigeria: Can the influence of AI in the upcoming elections be mitigated?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUDhaWkxHT29MZDVfOGN2WUp1QTFHbkpqYlM1dnFRQTR5ZXI4TDY4dkltX0lmWHJaWElBaDgwZjUtWUo4ZnNGZWtrdFZ4R0lxWDFxRlJWT1ZBc3YwMzRtOU9ZVWpEeHZWSXJmZnVjYnNkaERQMHFDbmpraEtDejVVNURvVy1BcnhzbHlLMjN2ZGkwMzk1YUd3RHhB0gGaAUFVX3lxTFBkYm91Y0ZGdlhraHQ2cTRGblVFaEVNSDFSRWY2dUVSWkNqME0yYlNwbUpLN2h3bTNzOTVmSzRMOHk4R1JsRXZnT1M2OF9EU3dzSTRqQ0NGcjZZY0tEdm1lamhoSm5IMFlWTndhc3VoYTFZZ1BaV2RzSDh2RzN2LV9nUzRnSTFvd2ZkaHlXSTRDRWs5RVNYdjZIUmc?oc=5",
-      "date": "2026-11-14T08:17:46+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "7CRnGDSn5RTZ",
-      "title": "Tech Now",
-      "summary": "Yasmin Morgan-Griffiths follows a team testing AI early warning systems for landslides.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0034hf1?at_medium=RSS&at_campaign=rss",
-      "date": "2026-11-14T01:00:00+00:00",
-      "source": "BBC Technology",
-      "key": "bbc",
-      "cls": "src-bbc",
-      "flag": "🇬🇧",
       "articleLang": "en"
     }
   ]
