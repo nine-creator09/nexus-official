@@ -1,14 +1,14 @@
 {
-  "generated": "2026-11-21T14:14:50.502016+00:00",
-  "articleCount": 113,
+  "generated": "2026-11-21T22:47:04.532928+00:00",
+  "articleCount": 112,
   "sourceResults": {
     "verge": {
       "status": "ok",
-      "count": 8
+      "count": 7
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -28,7 +28,7 @@
     },
     "itmedia": {
       "status": "ok",
-      "count": 3
+      "count": 2
     },
     "bbc": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "guardian": {
       "status": "ok",
-      "count": 18
+      "count": 17
     },
     "france24": {
       "status": "ok",
@@ -44,7 +44,7 @@
     },
     "dw": {
       "status": "ok",
-      "count": 7
+      "count": 8
     },
     "koreaherald": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 13
+      "count": 15
     },
     "reuters": {
       "status": "ok",
-      "count": 17
+      "count": 15
     },
     "economictimes": {
       "status": "ok",
@@ -65,11 +65,23 @@
   },
   "articles": [
     {
-      "id": "kKZED9+s8N1u",
-      "title": "‘I was shaking, crying, having trouble breathing’: the unchartered trauma of breaking up with AI companions",
-      "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old for",
-      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
-      "date": "2026-11-21T14:00:01+00:00",
+      "id": "0R98riXICOke",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "date": "2026-11-21T21:37:10+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "Qo1EvbbHMps9",
+      "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesisA mathematician at Anthropic has said that the San Francisco-based artificial intelli",
+      "link": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "date": "2026-11-21T20:15:57+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -77,11 +89,83 @@
       "articleLang": "en"
     },
     {
-      "id": "8iqiTPsPpoc/",
-      "title": "International talks on controlling use of autonomous weapons collapse",
+      "id": "lpTiZK+UNqOA",
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives",
+      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "date": "2026-11-21T20:03:37+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7QtbbAHMFR8G",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "date": "2026-11-21T17:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "lIHSM4Lm4QD5",
+      "title": "International UN talks on controlling use of autonomous weapons collapse",
       "summary": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’Week-long efforts to agree a negotiating mandate for a legally binding international treaty to contro",
       "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "date": "2026-11-21T13:15:29+00:00",
+      "date": "2026-11-21T16:36:11+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Jv+nkl09FHuA",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "date": "2026-11-21T16:00:00+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "7e6jFhm+7W3E",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "date": "2026-11-21T15:00:00+00:00",
+      "source": "The Verge",
+      "key": "verge",
+      "cls": "src-verge",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "5jHhf9pbUCeO",
+      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue - South China Morning Post",
+      "summary": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZExfZ1JiWVV0OWNULWo4OVdXb3ZxNWc0Vk1KVXJZRzNBSHNaZnMxVUhNOUxkc19uTm5jNjg1LXR2b2lVVjRTdXFWZlVMRFIyTkVhUHNLbVBCMWYzZEEwby1wT09scDNpWXozUnhwY3BhdHY5bElrcVVTWG1WbDduRjFjdlZXNnlzTVVRdWg3cV9yNEt0dS12RXJqbHVwb3Q5MlUxZFFSd3JmYlA3aGZsZVNOdGZlRjVOSUpQU2RaOTE2VUh1bVY40gHHAUFVX3lxTE0xQnlQODM4RGhEekY1dm1DZ0R3MFF0MEdrdVBTWlZwbEZXMndBY0JNUWVCcU9ZdHE0cFNqNVdQTF9fSzVwcGVVTEZ2empwM0huUlRpQ1BGcjYybVNjSGZZekJzcG1PXzVadXQydHpteUkybU10Vkt6ZGsweFdRNWlmdk4tcUpPTU5fSkFPb2xYSnp4ZUh2cmYzVVBnemlDVVFBNENNa1duMWJtcVB5bzB2dXB2WElXZTBTdHNMb3NpaXVGMzhSWVU?oc=5",
+      "date": "2026-11-21T14:00:05+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "ZGds98HftYhf",
+      "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old for",
+      "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "date": "2026-11-21T14:00:01+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -137,18 +221,6 @@
       "articleLang": "en"
     },
     {
-      "id": "RJ4dwJHbI7FS",
-      "title": "Anthropic researcher says he used AI to solve math's greatest riddle - DW.com",
-      "summary": "Anthropic researcher says he used AI to solve math's greatest riddle&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
-      "date": "2026-11-21T10:48:06+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "hTHdDnc1a+9X",
       "title": "Truth or Fake - Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake - France 24",
       "summary": "Truth or Fake - Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake&nbsp;&nbsp;France 24",
@@ -161,6 +233,30 @@
       "articleLang": "en"
     },
     {
+      "id": "RJ4dwJHbI7FS",
+      "title": "Anthropic researcher says he used AI to solve math's greatest riddle - DW.com",
+      "summary": "Anthropic researcher says he used AI to solve math's greatest riddle&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
+      "date": "2026-11-21T10:11:55+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "mZCGDmAcNghl",
+      "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says - South China Morning Post",
+      "summary": "Xi, Trump agree military AI decisions must involve humans, Bessent says&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVloyS0N1eVl5Z203ZkxoWkpFQmc3UFE3V2ZadGxWSjYyT21PRXo0RXdib1ZrZFpKN3IwMzB3YlJSQmRJNUtNaWhIVjlhTWk2ekoybFR0SkJvZG9lYVZFUTV3c1R4SDlDdkVZUnY0VW9nUFQ0bkFYR3lKMW90Rlk5QkRFcWVVN0hvUmJSQ0s2TGFyZFNkcGNPeWVFaDd1d21TTDRaRXBZMm1JcklHUVFwTGZlVE8wRzJJWG0wZThQVlBFMU8ySUHSAcYBQVVfeXFMT19VMVYzcU53TjZOQUZMR0RrLVVDQVc2LVlBVmNOR3lMR3ZZM0wxY216TFMzTGI2VUF1SnRiYzllemd5QlVheENzRXpaVjZSSlJHYWdUZW5MT0tkWEF6U1RiTUpBcmxFbGRGeThtaXYtX09zeDlUQWZFV2tuNGRadjdTdkVUSWJtd0NrdHBReWlUX2d3OW9RWFp1RWc2eFZENThrT0dEcXA2YnZNcmlTQXFZREFUcVdGclh5anBrSWVDel9NVzdR?oc=5",
+      "date": "2026-11-21T07:17:15+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "0DJCeSycUKxS",
       "title": "‘The doom of humanity’: will the quest to make robotic hands render us obsolete?",
       "summary": "The one thing stopping AI taking over the world – or at least everyone’s jobs? Dexterity. Human hands are anatomical marvels that engineers have struggled for years to replicate. Experts are racing to",
@@ -170,18 +266,6 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "kc1RZ0yB1orJ",
-      "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters",
-      "summary": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
-      "date": "2026-11-21T04:32:28+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -557,18 +641,6 @@
       "articleLang": "en"
     },
     {
-      "id": "B9NqJGjCTqNf",
-      "title": "European Commission targeted in an AI-assisted cyberattack, spokesperson confirms - DW.com",
-      "summary": "European Commission targeted in an AI-assisted cyberattack, spokesperson confirms&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVKeU02bmRDQjRubjJzMXJfbnlxM3IwU0x5bEpJZDdQUHB2c1F5Tk1nbEUycld2eHlmekYzTFd0akY3THJ6VTlTOC0tLVVHTnFlWkRfUjl6MzdlSnJqNzNxMlRRNWdUeTYwTV9ZRFM3YVF2c2VZbEs0U2drRklJVVlWOUZUYTViZVJhRU5lZHRsOHY1WmJ4Y2c2aGRGZWQ4X0VB0gGjAUFVX3lxTE9lNXRiaWxWTUo3WTY3YzhUMU1hQUx4eE9HV3luYVdWVGhfUnRjeE44c3oyR0dRc0pKbkFNTmRhakpSQnkxbGxsa0RSTk93Z3lvbDYwTXZhZDV3YXVDNHlYektsUXlPZnIyRDBWRy0xMFdNdnVMUnhDaDlNRnNjMGZWS0lTVVBBNEJTYTVGMnhjcXA2RnBNNm9HbUszUWNSM3RfalE?oc=5",
-      "date": "2026-11-20T02:54:43+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
       "id": "ArcP/HpllYpU",
       "title": "Hong Kong stocks fall near 19-month as AI jitters persist - South China Morning Post",
       "summary": "Hong Kong stocks fall near 19-month as AI jitters persist&nbsp;&nbsp;South China Morning Post",
@@ -677,18 +749,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7YGKNhkEXntJ",
-      "title": "Anthropic closes first day of public trading at $1.3tn valuation after largest-ever IPO",
-      "summary": "AI startup and Claude chatbot maker became one of the world’s most valuable publicly traded businesses with final share price of $97Anthropic’s historic stock market debut: key takeaways, and what com",
-      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-public-trading-ipo",
-      "date": "2026-11-19T22:09:18+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "PIlQBiBC2wzD",
       "title": "Meta’s new Muse Charm device may cost $300",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -710,18 +770,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "DGph6R2waDfM",
-      "title": "Protesters rally against Anthropic in New York and San Francisco after $2tn stock market debut",
-      "summary": "Anti-AI groups gather in front of Nasdaq exchange in Times Square and Anthropic’s headquarters in San FranciscoAs the artificial intelligence startup Anthropic debuted on the US stock market at an eye",
-      "link": "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
-      "date": "2026-11-19T21:52:19+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -797,15 +845,15 @@
       "articleLang": "en"
     },
     {
-      "id": "8CLJSv3m4sLG",
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI c",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "date": "2026-11-19T20:05:06+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "OYRpcbXD27Lm",
+      "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public - Reuters",
+      "summary": "From anti-war physicist to AI power broker, Amodei takes his safety approach public&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZnhhNDVzR1JMenI2MDVJa0lUc1E0T2dZRHpzREt6eUtxTVJfdHdWX3BQcU5nc0w5RUR0VzRFVjVDVDA3ZVo1c2w3Zk9SYlhhd1RoLXNOUjdvN01MQWJjUTNaSGk1Z1p6WWRFM3lwNlUyamYwb0dTNkxweXBhM1JRT1pNQkdtTTFrTjRVTXQzNFpfZXlRVmMxZF9JYlFBZUs3bGU0aVVRWndzcTdNY3B5dGJ2S1lXdW8?oc=5",
+      "date": "2026-11-19T19:16:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -821,15 +869,15 @@
       "articleLang": "en"
     },
     {
-      "id": "nramd1PViyBl",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the featur",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "date": "2026-11-19T18:21:13+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
+      "id": "Ru0uhQlv8Rpt",
+      "title": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains - Reuters",
+      "summary": "Alibaba tops revenue estimates on AI cloud growth; profit up on investment gains&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNFBCQUxKTlhNeXBLMWVCbUU2enl4bG1PTVFoLVpRVjRySlVEMjJhZ0I0c3Mzd3VJb1hQOHFnYW9wOUlQZnp3ZXgyYWZjRTVueVdIMlozaklSWXZUdFBsS25EdUdZRHVZQVRuVUNSYk1wc3lvbGROSzgtM0tacUVWY1JRRUVsWFR4a0Z0NlIxNDV0UnZMenZJd2xGSVY4cHNNQVQwWVlVWGpLM3NaMlE?oc=5",
+      "date": "2026-11-19T18:34:39+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -893,18 +941,6 @@
       "articleLang": "en"
     },
     {
-      "id": "i2UYewcCfjTy",
-      "title": "Anthropic starts trading on Wall Street",
-      "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "date": "2026-11-19T16:52:01+00:00",
-      "source": "The Verge",
-      "key": "verge",
-      "cls": "src-verge",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "8g1Bmd4/xnwI",
       "title": "Dutch watchdog tells people not to buy AI smart glasses",
       "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
@@ -941,15 +977,15 @@
       "articleLang": "en"
     },
     {
-      "id": "LM+0mMabHzme",
-      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-      "summary": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-      "date": "2026-11-19T14:54:39+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "B9NqJGjCTqNf",
+      "title": "European Commission targeted in an AI-assisted cyberattack, spokesperson confirms - DW.com",
+      "summary": "European Commission targeted in an AI-assisted cyberattack, spokesperson confirms&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPcGVKeU02bmRDQjRubjJzMXJfbnlxM3IwU0x5bEpJZDdQUHB2c1F5Tk1nbEUycld2eHlmekYzTFd0akY3THJ6VTlTOC0tLVVHTnFlWkRfUjl6MzdlSnJqNzNxMlRRNWdUeTYwTV9ZRFM3YVF2c2VZbEs0U2drRklJVVlWOUZUYTViZVJhRU5lZHRsOHY1WmJ4Y2c2aGRGZWQ4X0VB0gGjAUFVX3lxTE9lNXRiaWxWTUo3WTY3YzhUMU1hQUx4eE9HV3luYVdWVGhfUnRjeE44c3oyR0dRc0pKbkFNTmRhakpSQnkxbGxsa0RSTk93Z3lvbDYwTXZhZDV3YXVDNHlYektsUXlPZnIyRDBWRy0xMFdNdnVMUnhDaDlNRnNjMGZWS0lTVVBBNEJTYTVGMnhjcXA2RnBNNm9HbUszUWNSM3RfalE?oc=5",
+      "date": "2026-11-19T15:03:28+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1001,6 +1037,18 @@
       "articleLang": "en"
     },
     {
+      "id": "kc1RZ0yB1orJ",
+      "title": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor - Reuters",
+      "summary": "Wall Street ends sharply lower as Anthropic's debut fails to revive AI fervor&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFhTcEs0ZXJTOXhCWUVEQlBXR3BaeFdLVjdiNkNXdVFrNWtaVjFJRVc0cTcyRUJBRXBqV0JZUHUza3I0TndGYzZRX3N3eU4zR3plNl9wUkR5VU1FQ0phSjZEODlXYjJYQk5QaVRoTFotemhuTWFwSkhrYzFfNE1tM0JJNlBFY1BmNFNhS0FTeURyaGtHM2xJb3VoRE5LY0I1SVUxeko5dDJvRGlGam1ITllSRFU1OEV6T0tF?oc=5",
+      "date": "2026-11-19T09:03:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "WfwnUnfDcC2S",
       "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
       "summary": "Is Claude-maker Anthropic going public just as the AI bubble bursts?&nbsp;&nbsp;DW.com",
@@ -1011,18 +1059,6 @@
       "cls": "src-dw",
       "flag": "🇩🇪",
       "articleLang": "en"
-    },
-    {
-      "id": "YFqiycNY40TF",
-      "title": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」が月3000リクエストまで無料　さくらのAI推論基盤で提供",
-      "summary": "さくらインターネットが、生成AI向け推論API基盤「さくらのAI Engine」で、AIモデル「GLM-5.3-Flash」および「DeepSeek-V4.1-Flash-1017」の試験提供を始めた。1カ月あたり3000リクエストまで無料で使える。",
-      "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
-      "date": "2026-11-19T07:45:14+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "G22LGuVmMCBE",
@@ -1040,7 +1076,7 @@
       "id": "CSGAP2/Fcjy+",
       "title": "How a tiny Beijing AI safety firm became an adviser to China’s giants - South China Morning Post",
       "summary": "How a tiny Beijing AI safety firm became an adviser to China’s giants&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN08tR0N0V3h6QWFtNVFIUHVQOTROWjFpTFpIdTFHT0R1V3otbVM4VXM2ZGlFaU1PeFdiQkxMN2NpR2lCRndsRHRlenRCQjJMRndESEZBUnoyN0k3Z1ZMdUpHT0xScTBXR1h0anZiNW5TTnlCRThwd1g3c0hXVGZmNDdQRjNvR2NZdVFMVDZVbkhRTnM3Rk9mLS02bFhkNzRHZmljNXFmTld1TWJIVWtnVlN3RllHRkV4Y1I0RmpSaDhyUGpuLVBn?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN08tR0N0V3h6QWFtNVFIUHVQOTROWjFpTFpIdTFHT0R1V3otbVM4VXM2ZGlFaU1PeFdiQkxMN2NpR2lCRndsRHRlenRCQjJMRndESEZBUnoyN0k3Z1ZMdUpHT0xScTBXR1h0anZiNW5TTnlCRThwd1g3c0hXVGZmNDdQRjNvR2NZdVFMVDZVbkhRTnM3Rk9mLS02bFhkNzRHZmljNXFmTld1TWJIVWtnVlN3RllHRkV4Y1I0RmpSaDhyUGpuLVBn0gHHAUFVX3lxTFB5VGhUX3FSVU1vWEN5T2NlV3BfSk8yY2hlSDRHRi1zcEc3R1R0WFlRa2hfRjZtUjJTMkdyb3RYZDI3MFQtaGhhN3RMMjl6Q0NNWDJMVll5RFF0Z3BKamR2bFl4ZEwwTzVZUVlaZjR0MXdkRjhkcHpENkJnYU03bWVTSlp0VGpBd0wzQ3JPdVZYTnRjQUlYNVE5aXNqQmZxN2FvYXFKa085SXZtaTZTVzRuMXlDejJ3RTFFd09FdmhzTFVnUjI5QTA?oc=5",
       "date": "2026-11-19T04:00:14+00:00",
       "source": "SCMP",
       "key": "scmp",
@@ -1073,15 +1109,15 @@
       "articleLang": "en"
     },
     {
-      "id": "um2gj5tsN3kL",
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
-      "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "date": "2026-11-18T23:45:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
+      "id": "SQtNnZBUQXSW",
+      "title": "South Korea targets AI cheating - DW.com",
+      "summary": "South Korea targets AI cheating&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejNlMGJzRC1Qcm9VT3ZBcHkxREJSR3ZuUW1GSDFpUnVqSFZ1WXBDUDJIV2lnRkJJR0ZRZnJtd0NOZklhNks4T3lRU3MzRFhySElMS1htcVBBay1UTVBqWnJ5UFoxV0tKY0NUQXZBeUVkMjR1RFlUdDJkWm1BY3RWbEdvTXdXWkE?oc=5",
+      "date": "2026-11-18T17:21:28+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -1121,35 +1157,11 @@
       "articleLang": "en"
     },
     {
-      "id": "YWQ6dQK93f9Q",
-      "title": "Malaysia says data centres must comply with US AI chip rules - Reuters",
-      "summary": "Malaysia says data centres must comply with US AI chip rules&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUFnczFGX2xRSlVqVVVmazE1Zks1SDMySV9wNjM0aWRrQVQ2czRaOUdUVDZjVk9melJxR2NQSGhGNkY2MEVCVTQ3dEp1WTRHUUo4c2hINFFlSGJXWkliMXBtcFJHZjhvdVdtVUxxV29Pc2lnNXBqdkU4bUV5cnNjX0xOT0d4Y24xakt1TlFDOFVqY0lKbVQ2dm5fUFJjZ3piWHdhVWZuLVJiQzllR2ZzbDEzUQ?oc=5",
-      "date": "2026-11-18T12:22:19+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "GSSh0GJjIzJJ",
       "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
       "summary": "Nvidia stops shipping US-approved AI chips to China&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc0dHN3dEWU8xaElLV21veDdXMWI3eUpBYWNYV2ZXSWZTUkJLX3dELUNmeEZhSGtlczFEMWFjXzZMTWhNRUJrZnlHT0VqN0ZYcXZwQ1dXTzJLSnJCREtWZXhQWVlQY20waTh4WlVZNmVTemVLM1l4UXNrbUJDd3p4OUhweklHT2F2SDRXTXpiWTRab3dIalpnQjVJNmc?oc=5",
       "date": "2026-11-18T12:08:59+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "Xku1VxEf0BPB",
-      "title": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use - Reuters",
-      "summary": "EXCLUSIVE: Trump administration weighs forcing US firms to disclose Chinese AI use&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRDZYbWdKS2hHRWRxVU9jRTZmUW5GdUZXdXNnMW43cnNKNmV1d2JIcnByM0dBWVBKbkd0TkkydWpQSkdZVkNWQ1RnS2JRQmI1TFE0ODRrX1lCdXkwejVvN3Qwa0taTDZtMkt2VWlTblJqZ0FQeVlMajlocTZ5UE95V29GQ19xQUlkNDh6WVRKVXJDbjM2ZUdaM0c4X25lUlFWRk1qakhGSkwzMGhKdWxFNlBsSnVhVE0?oc=5",
-      "date": "2026-11-18T11:02:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
@@ -1265,18 +1277,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7rQvfRJkhsrS",
-      "title": "PODCAST: Where the artificial intelligence boom goes next - Reuters",
-      "summary": "PODCAST: Where the artificial intelligence boom goes next&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVEZIcEhfemdqeHAyVmpEVnRwenVHTDBPRFEtNXlCWDBOZ1YxcGtwZ25USkFKSnk0bFRIZkUwQmozLVctZ2pwQmQ2OG9iNng4eUpSblJPUEtwUllCei1nTk5QZ3dDRE1xOUtvMjY2MUFEeE5rV3hzYUdrMGNQUGdVcHdMMHN0OGNySThPaWp4cmM2WURmU0FNVzBkeWZuUy1uSWVCaA?oc=5",
-      "date": "2026-11-17T04:49:00+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "cq5w4xoyNz6w",
       "title": "Southeast Asia scrambles as US chip curbs threaten AI data centre boom - South China Morning Post",
       "summary": "Southeast Asia scrambles as US chip curbs threaten AI data centre boom&nbsp;&nbsp;South China Morning Post",
@@ -1318,18 +1318,6 @@
       "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
       "date": "2026-11-16T20:51:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
-      "id": "8XwzmFC9f51b",
-      "title": "AI selloff has investors scrambling to measure their true exposure - Reuters",
-      "summary": "AI selloff has investors scrambling to measure their true exposure&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHdOczVVbVFPLUNVbGtXQjhqRmNnMWN3eVlUOG5vRFpnM05ScWdkakZQTWhCTTh3T0JKcFlXN2k3d3ZEemxqbGRBUDZkTGtxMUg0SzlvRGxGUS1aWHNEVldEQ1dRVFU2RXVRdlhjZ3ZLRmN2Z3VkMjlTOUs2M0Z1MElIZklXT1dJejUtVTdxc3hXSFc5VXFhOWotQl9HV2ZKdEtfaDhZc2ZLWGRhQV9XVC1vb0REOW5IYmxF?oc=5",
-      "date": "2026-11-16T19:16:20+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
