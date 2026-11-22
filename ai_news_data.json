@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T22:47:04.532928+00:00",
+  "generated": "2026-11-22T05:12:52.807998+00:00",
   "articleCount": 112,
   "sourceResults": {
     "verge": {
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 14
     },
     "reuters": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,30 @@
     }
   },
   "articles": [
+    {
+      "id": "iXTnSqvp05k3",
+      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
+      "summary": "Choi Kyo-jin said he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothingSouth Korea’s education minister resigned on Sunday a",
+      "link": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+      "date": "2026-11-22T05:04:39+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "msxkzs+Cfl3X",
+      "title": "Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定",
+      "summary": "Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。",
+      "link": "https://www.itmedia.co.jp/news/article/2611/22/2000003388/",
+      "date": "2026-11-21T23:21:31+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
     {
       "id": "0R98riXICOke",
       "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
@@ -197,6 +221,18 @@
       "articleLang": "en"
     },
     {
+      "id": "RJ4dwJHbI7FS",
+      "title": "Anthropic researcher says he used AI to solve math's greatest riddle - DW.com",
+      "summary": "Anthropic researcher says he used AI to solve math's greatest riddle&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
+      "date": "2026-11-21T12:12:49+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "hpHnk1rFPfeQ",
       "title": "I’m a priest. Silicon Valley’s search for the ‘soul’ of AI is deeply troubling | Rev Kevin Deal",
       "summary": "Humans experience beauty and sit with mysteries. Unlike AI, we do not exist merely for utilityLast month, religious leaders from across San Francisco gathered behind closed doors to discuss what it me",
@@ -230,18 +266,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "RJ4dwJHbI7FS",
-      "title": "Anthropic researcher says he used AI to solve math's greatest riddle - DW.com",
-      "summary": "Anthropic researcher says he used AI to solve math's greatest riddle&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUnB5dlFHb1BpVjhJTnhMa2QxdHAxNjhEM1FwT1lONWV4bFJiX3hjV2ZsVE51WjlkOWh1RGZYU2ZVam9OVVB3T1oyWDRKYlQxcGhWaXV5WTR3SENfdGtVdWkxTTk0TmpHOGRhbTB6VVFkeDA2T0tHb1p2R2RMTjhUN3JIMFdXMXBUazd6b1A0ZGNNTDFrWFpZ0gGXAUFVX3lxTE85V0xZdUNTdG9weTdhbVZKUEprVlREZUNUSk9seFVuY1VXNFNsN0NJWDRuQWZNaUFEeFJGeUs3b0pjOUpGQWVUaGR3VFRYaE9BdUp1NkE2X1BXS2dYQkJrRE5qenVOU3lvZTNUY29GOFFnbTJYMXo1VmNTQTVVQXloVVRJYTBmamIzM0lxNE8teGVsalJVNGc?oc=5",
-      "date": "2026-11-21T10:11:55+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
@@ -509,18 +533,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rRltNS2qRSw+",
-      "title": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips? - South China Morning Post",
-      "summary": "After Nvidia, will AMD be a target as China’s ‘2nd-choice’ supplier for AI chips?&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdndqUWFldVF3WGdTZXBxakJSM2FaNWZING9hbkh5TnBITGRQWUNNeTNnblZvU1hlX0hqWHMwZDJUTk52RkZveDY1RlhHS1BESFRabXZvMllKX3lPMWZhRGJYdGFwYWxOVnJ0T2M1UjNlbGhub0hvM2V4YmlUQUJaNlA4cVM4bUFmLVoxU0hvOTZKckh5NGRKT2Z5dTh5OXFPYXkzMGtjdTBMVVRWZENPeENn0gGyAUFVX3lxTE5YTHJWWnlyaU9iSEpUSHBZNVIzUExBaTNVSDk3aElXNTBPOHVEUzZBUnZOeHQ4ODVUOVBMTk1pa21XdTg1M1N5ZElYLTY2ZzgyUWUyNjZGS3F5ZzRLZWQ4cWNIM1R6Z0tLWDVUdmlwanFCRkJJV3FFTGk5cWZEdWJISHlDWmJnNGhFbVh4b1RtVGVuMHJ2aW01NHdGSUFNSVY0S1NNVEF3ajBtLWxSNUFDR1E?oc=5",
-      "date": "2026-11-20T12:30:09+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "ZeQlxLmTc8CV",
       "title": "Muse Is Unleashing a World of Pettiness on Instagram",
       "summary": "Meta’s AI assistant can track and unfollow Instagram users who don’t follow you back—and some people are taking full advantage.",
@@ -737,18 +749,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rsosIGZ28epp",
-      "title": "Anthropic shares end first day of trading at $97 as Wall Street closes sharply lower – as it happened",
-      "summary": "All ⁠three major US stock indexes ⁠ended the session ​sharply lower after record-breaking IPO by maker behind AI agent ClaudeAnthropic closes first day of public trading at $1.3tn valuationProtesters",
-      "link": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
-      "date": "2026-11-19T22:13:52+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
       "id": "PIlQBiBC2wzD",
       "title": "Meta’s new Muse Charm device may cost $300",
       "summary": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
@@ -795,18 +795,6 @@
       "cls": "src-dw",
       "flag": "🇩🇪",
       "articleLang": "en"
-    },
-    {
-      "id": "Sm+rONrZFjw5",
-      "title": "さよなら「Claude Code」　人気AIに愛想を尽かしたエンジニアの意外な移行先：906th Lap",
-      "summary": "多くのエンジニアに支持されるコーディングAI「Claude Code」。長年愛用してきたエンジニアが、ある日、あえて無名のコーディングAIへの乗り換えを決めた。使い慣れた人気ツールに別れを告げるほどの問題とは何だったのか。",
-      "link": "https://kn.itmedia.co.jp/kn/article/2611/20/2000003337/",
-      "date": "2026-11-19T21:00:00+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "wLVcZeA3vYWb",
@@ -866,6 +854,18 @@
       "key": "techcrunch",
       "cls": "src-techcrunch",
       "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "IAFavOHMRbKW",
+      "title": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy - Reuters",
+      "summary": "Goolsbee says the Fed's job right now is to keep AI surge from overheating the economy&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPem1LUUZ0MzVCaURJTHpfcktwS0tMWGMydV9rNlFwSE1uWkQ5eFNsZ1locTBSMzAtOFhmNHJpUWVBaXVrTnRGeEpaLThoRXpKaU93TExUV3hlNE5TLU5aVzFoT1loQzhXOWNJZlpTWElmZ0ljRTJtMFNWUnlDSTY4bW1ROEkyTmFsaWJmVTlSS2VTa3JmTjdXazlxeWpYa0pwd1BSR2NJNTBlVkFNbllhMHA3LUU?oc=5",
+      "date": "2026-11-19T18:59:56+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
       "articleLang": "en"
     },
     {
@@ -1001,6 +1001,18 @@
       "articleLang": "en"
     },
     {
+      "id": "tggHTw8JMtoJ",
+      "title": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future' - Reuters",
+      "summary": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future'&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXEzRFlWTEdhd3lGQThDc1NRMGhfYWdMUDBlUVFzMlo1Vzl4b1Q5RG5iaXE0bzFaMTF4TGV6MjViSzBmYzl1UVVwLXU4QnZSa25WbkU1eEE2MkdsYjRYY01vQ2JCc1ZGUzNhd2lueFR3bGdGRExZbXRhcXp5Zlo4Y3Q3bnJURWlIYk9IRFdncDl2TW56ZHN1c0t0aXZucG5aMEFScGV3OEJ2RXdYZEZnQTNTMDR5c1VHMnRKYlkxMk9sejA?oc=5",
+      "date": "2026-11-19T14:27:43+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
       "id": "e8K+C39UbsRU",
       "title": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers - South China Morning Post",
       "summary": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers&nbsp;&nbsp;South China Morning Post",
@@ -1114,18 +1126,6 @@
       "summary": "South Korea targets AI cheating&nbsp;&nbsp;DW.com",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejNlMGJzRC1Qcm9VT3ZBcHkxREJSR3ZuUW1GSDFpUnVqSFZ1WXBDUDJIV2lnRkJJR0ZRZnJtd0NOZklhNks4T3lRU3MzRFhySElMS1htcVBBay1UTVBqWnJ5UFoxV0tKY0NUQXZBeUVkMjR1RFlUdDJkWm1BY3RWbEdvTXdXWkE?oc=5",
       "date": "2026-11-18T17:21:28+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
-      "articleLang": "en"
-    },
-    {
-      "id": "A/R+dcOc+MiZ",
-      "title": "Can industrial AI give Germany a competitive edge? - DW.com",
-      "summary": "Can industrial AI give Germany a competitive edge?&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWW5ndHBnNHJobk1tWFZ2QmNCUTBOQzc3X21rbmVweUNMOVQybWxDUzVFNkpTUG5YclFETlowZHN0WU8td2tGQ0tMX2JjOHhpNTZva2Zwd2ZTMmRqTFJNUGZWSklRLUhoR3VDMHFQUFpDZkE3Q0JVWVVEMlBzbW1GTUJhVDROYWxBWVc0SDdDUQ?oc=5",
-      "date": "2026-11-18T15:43:10+00:00",
       "source": "DW Tech",
       "key": "dw",
       "cls": "src-dw",
@@ -1313,18 +1313,6 @@
       "articleLang": "en"
     },
     {
-      "id": "7D4PBt19fJlT",
-      "title": "US, allies team up to protect AI tech and infrastructure amid China rivalry - Reuters",
-      "summary": "US, allies team up to protect AI tech and infrastructure amid China rivalry&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5",
-      "date": "2026-11-16T20:51:44+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "aap7RpWbnkck",
       "title": "Nvidia scandal: How Jensen Huang's downfall is exposing tensions in the US-China AI rivalry - DW.com",
       "summary": "Nvidia scandal: How Jensen Huang's downfall is exposing tensions in the US-China AI rivalry&nbsp;&nbsp;DW.com",
@@ -1346,6 +1334,18 @@
       "key": "scmp",
       "cls": "src-scmp",
       "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
+      "id": "KV6Feg4TlotZ",
+      "title": "AI - Humanity's Final Invention? - DW.com",
+      "summary": "AI - Humanity's Final Invention?&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0teE1DcGJnTWpObnNZcU9CRU1kVHNsUUxZWmF0VW5Ic1dlSTJ0TXViLUJVYmxLTDV5bGx4MFFqa0VPbHFXdHdsSGdnUkZySmVYWHYtc2tIN0NSXzZ0NUVubUFNVTNrRGZ3TWxJU1pn0gFuQVVfeXFMUGdyVFc2X1JqN1RmY3B5bldBc3haY3FBUGd1T2tXUFI5NEFPSk1tNHlHMTR3YmprMVF3d296MUJJVkVpZl96UU5NQjZxS1pvNlJ5dTBsdExPM1JYMUdDUzNlc3JpZ29tYk4zczhTMFE?oc=5",
+      "date": "2026-11-16T15:03:20+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
       "articleLang": "en"
     },
     {
