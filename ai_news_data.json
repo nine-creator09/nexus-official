@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-22T23:15:23.381309+00:00",
-  "articleCount": 106,
+  "generated": "2026-11-23T05:52:37.555448+00:00",
+  "articleCount": 104,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -8,7 +8,7 @@
     },
     "techcrunch": {
       "status": "ok",
-      "count": 15
+      "count": 16
     },
     "mit": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "guardian": {
       "status": "ok",
@@ -52,11 +52,11 @@
     },
     "scmp": {
       "status": "ok",
-      "count": 15
+      "count": 12
     },
     "reuters": {
       "status": "ok",
-      "count": 13
+      "count": 12
     },
     "economictimes": {
       "status": "ok",
@@ -64,6 +64,54 @@
     }
   },
   "articles": [
+    {
+      "id": "/9UFnsimtus5",
+      "title": "Victorian Liberal party uses AI to write Jess Wilson’s tribute to Molly Meldrum",
+      "summary": "Exclusive: Statement on death of Australian music industry legend drafted using search and AI but ‘fact checked and edited’ before approval, party saysTributes flow for Molly Meldrum: Human Nature, Ja",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/23/victorian-liberal-party-uses-ai-to-write-jess-wilsons-tribute-to-molly-meldrum",
+      "date": "2026-11-23T03:23:44+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "Nf3tjaNArEG7",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "date": "2026-11-23T01:25:53+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "kiZJg4eK4PXz",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-23T00:08:00+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "ajmbnsHH0Nnb",
+      "title": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP - Reuters",
+      "summary": "COMMENTARY: AI bust hurts Chinese stocks far more than GDP&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUFLdUZQYzFtXzVMTHBnR1lTMnhES0gzd2dKY0p5dlVkWUNiX0hFYUZvdGxSaDI0ak5GZkdQZWtpZU41eGpuWHBKX3ZnbE1abnJzME1Xa3RRcVo2dGVKcWJLZ3JLUkNqMHp3RXBOOGF2VzZWYU5oTHZibUlHX3M5VXRGYldyVDMxNzJ2c052VEdpTHRHZU9ucEM5R1dHYk5qNHp5eW9kTDNyZ0RTTE9HUTNOVU1aN1FnajAtczlZUG5aZnhlbElTVWt3ZDVyaDR4a0E?oc=5",
+      "date": "2026-11-22T23:00:00+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
     {
       "id": "eQapNXNgu90I",
       "title": "OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」",
@@ -341,21 +389,9 @@
       "articleLang": "en"
     },
     {
-      "id": "5jHhf9pbUCeO",
-      "title": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue - South China Morning Post",
-      "summary": "Why a slow-paced show about broken friendships is China’s antidote to AI fatigue&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZExfZ1JiWVV0OWNULWo4OVdXb3ZxNWc0Vk1KVXJZRzNBSHNaZnMxVUhNOUxkc19uTm5jNjg1LXR2b2lVVjRTdXFWZlVMRFIyTkVhUHNLbVBCMWYzZEEwby1wT09scDNpWXozUnhwY3BhdHY5bElrcVVTWG1WbDduRjFjdlZXNnlzTVVRdWg3cV9yNEt0dS12RXJqbHVwb3Q5MlUxZFFSd3JmYlA3aGZsZVNOdGZlRjVOSUpQU2RaOTE2VUh1bVY40gHHAUFVX3lxTE0xQnlQODM4RGhEekY1dm1DZ0R3MFF0MEdrdVBTWlZwbEZXMndBY0JNUWVCcU9ZdHE0cFNqNVdQTF9fSzVwcGVVTEZ2empwM0huUlRpQ1BGcjYybVNjSGZZekJzcG1PXzVadXQydHpteUkybU10Vkt6ZGsweFdRNWlmdk4tcUpPTU5fSkFPb2xYSnp4ZUh2cmYzVVBnemlDVVFBNENNa1duMWJtcVB5bzB2dXB2WElXZTBTdHNMb3NpaXVGMzhSWVU?oc=5",
-      "date": "2026-11-21T14:00:05+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "ZGds98HftYhf",
       "title": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
-      "summary": "People are falling in love with AI systems like ChatGPT and Gemini - and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old for",
+      "summary": "People are falling in love with AI systems like ChatGPT and Gemini – and some relationships are ending in ways that feel like the very human experience of being dumpedSónia Veenstra, a 48-year-old for",
       "link": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
       "date": "2026-11-21T14:00:01+00:00",
       "source": "The Guardian AI",
@@ -562,18 +598,6 @@
       "summary": "The encroachment of artificial intelligence smells like the death of sport. Can we find the will and collective backbone to resist?There was an interesting development this week in the endless rolling",
       "link": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
       "date": "2026-11-20T19:00:36+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
-      "articleLang": "en"
-    },
-    {
-      "id": "7GT2uVCse41E",
-      "title": "Is Claude creator Anthropic really worth $1.3 trillion? - The Latest",
-      "summary": "The AI firm and Claude chatbot maker Anthropic has made a historic stock market debut, with a peak valuation of $1.3tn on its first day of trading. It marks a remarkable ascent for a start-up launched",
-      "link": "https://www.theguardian.com/news/video/2026/nov/20/is-claude-creator-anthropic-really-worth-15-trillion-the-latest",
-      "date": "2026-11-20T18:53:50+00:00",
       "source": "The Guardian AI",
       "key": "guardian",
       "cls": "src-guardian",
@@ -1037,18 +1061,6 @@
       "articleLang": "en"
     },
     {
-      "id": "tggHTw8JMtoJ",
-      "title": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future' - Reuters",
-      "summary": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future'&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcXEzRFlWTEdhd3lGQThDc1NRMGhfYWdMUDBlUVFzMlo1Vzl4b1Q5RG5iaXE0bzFaMTF4TGV6MjViSzBmYzl1UVVwLXU4QnZSa25WbkU1eEE2MkdsYjRYY01vQ2JCc1ZGUzNhd2lueFR3bGdGRExZbXRhcXp5Zlo4Y3Q3bnJURWlIYk9IRFdncDl2TW56ZHN1c0t0aXZucG5aMEFScGV3OEJ2RXdYZEZnQTNTMDR5c1VHMnRKYlkxMk9sejA?oc=5",
-      "date": "2026-11-19T14:27:43+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "e8K+C39UbsRU",
       "title": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers - South China Morning Post",
       "summary": "‘Too high, but I’d still buy’: Anthropic IPO entices Chinese investors despite barriers&nbsp;&nbsp;South China Morning Post",
@@ -1241,18 +1253,6 @@
       "articleLang": "en"
     },
     {
-      "id": "rpwtf22jPvlD",
-      "title": "AI advances coincide with sharp rise in cyber incidents, Marsh data shows - Reuters",
-      "summary": "AI advances coincide with sharp rise in cyber incidents, Marsh data shows&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORlhXMW5RQ1U5RWx0Z1lhbjg2OTFKamZTY0NHLXd3b24zZU13bFo3RUZTcTNwcTZ0Yk9CMlY1Q2ZPZTVvY2hrVFk3Nzl2V2VDeG5Nd1lzWXhmdDBvRTFEZFNBNTBtUkhfWVZ4eWNaYlh3WkdGdnNmcDFyWFdwR05NMUhlZllWTUJyRXVLdVdnN3lES2xkRWFBS3FsaHZRajdYUnFRZ0hxcVVMZE83M01GeHQyai1QNEFSbFZVUV9Ydw?oc=5",
-      "date": "2026-11-17T17:19:50+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "leaXhLjPOXSu",
       "title": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite - Reuters",
       "summary": "EXCLUSIVE: China taps US AI models to train homegrown rivals as chip curbs bite&nbsp;&nbsp;Reuters",
@@ -1265,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "cq5w4xoyNz6w",
-      "title": "Southeast Asia scrambles as US chip curbs threaten AI data centre boom - South China Morning Post",
-      "summary": "Southeast Asia scrambles as US chip curbs threaten AI data centre boom&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWFMxcG8tNWRCTEZIcHJ0ems1QnJPZDZpcXhKSm5lVzNQd0JnUElyT29hZTFGZUNjRUdmdDBERExzUE40RDF5a3JuOTBfQUJabkZPQ0xfdVF2WF9vcmNHdlFUcnI2Unlod094Z051RFJRYVl1OWtSSnFVNm5sRjRyU1U5Z21XQ1lHRTdpN1paWWV6TThZSlRaN1A5dVJDSzY3VGJib3E0NGhkX2c5cjBSQ0NuekhObHAxSFJSS2tmSjJTWUlibWhGQzEzckQwTlR4aDdCM9IB1AFBVV95cUxNMkxwRW9iZ2QyNHZheFNpUjVvcGRwWlV5T1psc1Z2UDNRTUlIT1NKb3ZTaHZZcGZQOHNJb3p0NTNlZUxwQjBNNTNFdHc5VXZQaWR0RE5fNjhOUmJld2pFMnV2YUtvQUVLYXI3cWtDaG1IblNuRlJ3QWtTWExMcTRxZzFUQmZKUnVaU19WT0pRYWxGSVVhbndmanVvT1ZHNC1VdmtFS0NLYXQ0ZVFFRmUtLWRRZjBUM3FGQVVRUG13UzliSS1QZFdreHVGRnNUQXZHSFI2Sw?oc=5",
-      "date": "2026-11-17T02:39:53+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
       "id": "FjTC4OP9+JO4",
       "title": "Gov't to ban smart devices, deploy extra staff to prevent AI cheating in Suneung - The Korea Herald",
       "summary": "Gov't to ban smart devices, deploy extra staff to prevent AI cheating in Suneung&nbsp;&nbsp;The Korea Herald",
@@ -1286,18 +1274,6 @@
       "key": "koreaherald",
       "cls": "src-koreaherald",
       "flag": "🇰🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "VDHB3ATcM6S5",
-      "title": "US tightens AI chip export curbs to close China’s overseas data centre loophole - South China Morning Post",
-      "summary": "US tightens AI chip export curbs to close China’s overseas data centre loophole&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXR0eHlISk42c0xsTHZmRkdteHAyOWU4MzdwWFktZ3FmOWMwbW5PME1oQlc2Nl9aQ2p0RG5EMFBjc2ZvWGdmeW5sM09XR0ZlS1l5ZUNKQjhYLTVpTmY5NVlPWUZraGg2RXVBWlFTQjB6YTM0cW42aXgyQVBuN2dSZVhyTFZfQUhTSHMydUJVR2hwamFTaF8tbnZuTHR1RDBlQXRPYW10TlBrWmVXSUYxTGgxVVpJd3hq0gG4AUFVX3lxTE9ycnlXb29STElqa2RVdnZIREZLdXZ4NlBMWlBkMzVjNE1fd0h2S2EyT09Zeldkby15MTk1QlhfNkE0cTBjN1RPamhvaHdQalgzbEM5eF83eXhhWHZGSHRwTGoyWWI5N0VJLVJJWDQtRWtaY1YyNnozdUdLS0N5a3pTNVh3bmpqYW9taWNFeGd4X0FfVllSQ2Z6U1J2OVpxblltZUM4R3l3RmVOUmRXYTRjUUwzVi1EWVY?oc=5",
-      "date": "2026-11-16T15:46:42+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
