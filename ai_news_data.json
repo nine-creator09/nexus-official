@@ -1,6 +1,6 @@
 {
-  "generated": "2026-11-26T16:25:52.916467+00:00",
-  "articleCount": 107,
+  "generated": "2026-11-27T01:29:42.202909+00:00",
+  "articleCount": 112,
   "sourceResults": {
     "verge": {
       "status": "ok",
@@ -32,7 +32,7 @@
     },
     "bbc": {
       "status": "ok",
-      "count": 8
+      "count": 9
     },
     "guardian": {
       "status": "ok",
@@ -48,11 +48,11 @@
     },
     "koreaherald": {
       "status": "ok",
-      "count": 2
+      "count": 3
     },
     "scmp": {
       "status": "ok",
-      "count": 16
+      "count": 19
     },
     "reuters": {
       "status": "ok",
@@ -65,8 +65,80 @@
   },
   "articles": [
     {
-      "id": "Dtpz46DkROts",
-      "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "id": "n3GOPWZiYYiY",
+      "title": "電通が「Geminiを使いこなすFDE」ら3000人育成プログラムを開始　その内容とは？",
+      "summary": "生成AIを導入しても、現場の業務に生かせないと成果にはつながらない。電通は約3000人を対象に、「Gemini Enterprise」を使いこなし、現場での生成AI活用を推進できる人材の育成を始めた。人材をどう育てるのか。",
+      "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/27/news038.html",
+      "date": "2026-11-27T00:45:00+00:00",
+      "source": "ITmedia AI+",
+      "key": "itmedia",
+      "cls": "src-itmedia",
+      "flag": "🇯🇵",
+      "articleLang": "ja"
+    },
+    {
+      "id": "lEcDENpXUnc1",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-26T23:08:12+00:00",
+      "source": "BBC Technology",
+      "key": "bbc",
+      "cls": "src-bbc",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "XnscYLhF9ybO",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "date": "2026-11-26T20:03:54+00:00",
+      "source": "TechCrunch",
+      "key": "techcrunch",
+      "cls": "src-techcrunch",
+      "flag": "🇺🇸",
+      "articleLang": "en"
+    },
+    {
+      "id": "yIo/dFa8F/2e",
+      "title": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips - Reuters",
+      "summary": "Kazakhstan boosts AI cooperation with Russia, which is hungry for advanced US chips&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmRrMnRZNThoLUtNVGFhaXJMeG1NaWZ1YXVxS1l2UkczbFZJcUxUWFJSQkF0RlJiczJwQkFPNlV2RDFRaV9DdlVXbFRKb0ZQSFQyODNTZ3Btdy1nOGFfVzJCdzI1cHk4dm12ZDdLYmZOeDVLQ0VlUnNucm1JNHdsdnFZS3liQTVxTVg4MUlaOEJGSG13d2gyV2ZiaUdFWkF2QWdhSEhuZ08yRktJTC1pZDJMbTQ3TmhmLVZwUkZrSVJUenhjMTVrM0tSNA?oc=5",
+      "date": "2026-11-26T18:52:09+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "YXify22nf/NT",
+      "title": "Can Elon Musk really put AI datacentres in space? - The Latest",
+      "summary": "The Trump administration has approved Elon Musk’s plan to create datacentres in space. US federal regulators have authorised the launch of one million Starmind orbital satellites, which are built by M",
+      "link": "https://www.theguardian.com/news/video/2026/nov/26/can-elon-musk-really-put-ai-datacentres-in-space-the-latest",
+      "date": "2026-11-26T18:34:17+00:00",
+      "source": "The Guardian AI",
+      "key": "guardian",
+      "cls": "src-guardian",
+      "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "7ytHEt8AgMTi",
+      "title": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports - Reuters",
+      "summary": "SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUhZaXItb2lOYVhHRHBoUkpGZFM2Y0ZpQ1dSN3QwUnEyQlBKdmlRVG9fdFM5WS1UNm41dGZnRVhyY1FIbjBvOUNFWEREN1F4S1l1amVSUGFheGl4N1NNbk1ieF9HU3N0azQ1djN1bjA2RWhIc1VhVWVWb0RVbG1HMVlPbFQyb0N5N1ZLTUVZeXlxMDk4d3d0UHh1ajdZeWd3ekx5TU52Z3BDaXdhOU9uN3dtd1lLMXM?oc=5",
+      "date": "2026-11-26T16:56:45+00:00",
+      "source": "Reuters",
+      "key": "reuters",
+      "cls": "src-reuters",
+      "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "8lcs5rRbmVfF",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
       "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
       "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "date": "2026-11-26T16:00:00+00:00",
@@ -122,6 +194,18 @@
       "key": "guardian",
       "cls": "src-guardian",
       "flag": "🇬🇧",
+      "articleLang": "en"
+    },
+    {
+      "id": "LGFyAz0vUIVh",
+      "title": "China and Netherlands send ‘positive signal’ over global controls on military AI - South China Morning Post",
+      "summary": "China and Netherlands send ‘positive signal’ over global controls on military AI&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcFpyZENzQTZoTDdSaVBrRlQ4eDh1cXRsVFRCeVZTaEZRdVFWNVVOV0NxOGgtNnVtRXFxWjVqSkZFWm0xd3ZkQ3J0b3lpLUtydDVLdVN4dEZPV3NFSFpoUl9uVWs4OEo4LUVPS1d2cnVIeV9yd0FyejltYlNOeEIyb1p1ekM4Mk8zN3diUkE1aUpiaXRkMHJ0Q211VmxfSk1CbWh6MURxVnJpNlV0WTJmaWQ5eWdXSGpLbjBjTTZRZ0o5dERFbHd6Z0ZMSjhHQdIBzgFBVV95cUxNbFQwUkExclFWUEY0QzNfdzMxU1M0dmlMckU3bk5UanVsQXhrQkpsQmVtTVVQQUxkSDJ4WFhuQV95b1hma05ZSC0zbGRVdGcxTGhnb2xCekJaeU1rYk1GSS1nQ091NU9ueHdYMG5wTi1QRThxZkNNQThtZ09zTEtKdHZlY2dxb3E0RWtSejFqc2JVUFd6dml5djUyQVFyZkdZa0NqTnZSWVJ2aXJfRWt1UFVnZUpmQnUxOWJPc2JkYXpKd0VUMDdWS2k3cW1zZw?oc=5",
+      "date": "2026-11-26T11:16:21+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -189,11 +273,23 @@
       "title": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says - Reuters",
       "summary": "EXCLUSIVE: Data from Chinese AI firm MiniMax accessed by unidentified parties, researcher says&nbsp;&nbsp;Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYXlXQVE4enJyRWstWjJvUGdBczBMWHdfZHRmYTNSN3I0eFpqeXBfVU5tN3NRSERpcjBPeE1rV1kwWTBwWnY3U2s1TnlpY2EtakM5TmItUW1UdnVFZXJWTWVRQk1paVhJeTBpSlB0eHJyWERRdnZ1bVctUmctdGJZOXpZMnFMdkxYVlZ3UHI4OE1wZEhocHBGNW0wU1Z3S2VxQ0x6a1pablJOUzlTOXlMSkxUYjRFcWtIc2tB?oc=5",
-      "date": "2026-11-26T06:28:14+00:00",
+      "date": "2026-11-26T06:16:00+00:00",
       "source": "Reuters",
       "key": "reuters",
       "cls": "src-reuters",
       "flag": "🌐",
+      "articleLang": "en"
+    },
+    {
+      "id": "4IG0QqZ2sCRS",
+      "title": "Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut - South China Morning Post",
+      "summary": "Chinese AI trade turns cautious after Wall Street volatility, Anthropic’s rocky debut&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNlJkUE5hNktnNlozc1R4c0NWN0ExX3J4OTVBOEd1WEFVakJCSXd2YWtYNU02M2tEbFVka1d5YzkxYmhqbTNmRDI1N3BvbkpIX0Jxd0U2WWs5ck1jQnNRekZ4M2hjdUE0V05lWmM0Uy16XzYxaFRqQWw5UVE0N1V6ZHl5cUJmYmR0T01MNnJ1c2hYdHp5eU9WQ2pjbDUwblpMc2xTamYxVDZaWDRCN0QyUXIyeUFhS19xN3pjWkNnRHFLeWRNVzhGNTN4MDFUaGsySFVBRVpGSW16cEV1?oc=5",
+      "date": "2026-11-26T06:00:07+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -485,18 +581,6 @@
       "articleLang": "en"
     },
     {
-      "id": "6FJxhNQOMsg9",
-      "title": "Nio says AI use could lift gross margin by 10 percentage points - Reuters",
-      "summary": "Nio says AI use could lift gross margin by 10 percentage points&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVk4Z3NFNkE2YmZPQVVvVlhOa3RNODFIZFF0QU1OVFBjMTNkTkpvUTRRRGt0bF81UUtQTmsxVTMtLTRYMktYRlF2dGRHTGtLQnVoYkIzSGhvYVFkVGdxVlNYUERJSlJXTHFYdlpLZ1RuU09qV0lHTU5xb0loUER2YU82ZUt3amNkaXFLZmNZRnhQc2NERmRva2taeFJHMlRYSUU3ZzFjTzdoWERnY2FV?oc=5",
-      "date": "2026-11-25T14:07:45+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "T3h5cpZDudO7",
       "title": "Aidan didn’t expect a spoken-word component in his thesis - but universities hope it will help tackle AI",
       "summary": "Honours students are increasingly being asked to sit oral assessments – but at the University of Sydney it’s become a requirement for allGet our breaking news email, free app or daily news podcastWhen",
@@ -665,6 +749,18 @@
       "articleLang": "en"
     },
     {
+      "id": "GBaXJ/7ogQDc",
+      "title": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm - The Korea Herald",
+      "summary": "AmCham hosts Korea-US AI talks with Apple, AWS and Qualcomm&nbsp;&nbsp;The Korea Herald",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WQU9RcGpyYTZlRnNRRUNjQzM2QzJLeWtza3Nyam1qTEJYclNxT2ZZWDJPeEhOaklXejFhb2diNjVHX1o1Sk5tZlE1U0hzclZyai10THVQbw?oc=5",
+      "date": "2026-11-25T08:15:51+00:00",
+      "source": "Korea Herald Tech",
+      "key": "koreaherald",
+      "cls": "src-koreaherald",
+      "flag": "🇰🇷",
+      "articleLang": "en"
+    },
+    {
       "id": "UKmo1KOVYkJO",
       "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
       "summary": "Several employees say rapid speed at which algorithms work means mistakes can happen at greater scaleMeta employees have expressed concern at the company’s push to replace human moderators with artifi",
@@ -711,18 +807,6 @@
       "cls": "src-reuters",
       "flag": "🌐",
       "articleLang": "en"
-    },
-    {
-      "id": "dbVWFdKy5czQ",
-      "title": "「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供",
-      "summary": "Anthropicは、AIアシスタント「Claude」で作成したアーティファクトをMac／Windows向けのデスクトップアプリとして導入できる「Install as app」を全プラン向けにβ提供すると発表した。専用ウィンドウで動作し、通知やメニューバー表示、許可に応じたファイル操作にも対応する。",
-      "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003431/",
-      "date": "2026-11-25T01:07:59+00:00",
-      "source": "ITmedia AI+",
-      "key": "itmedia",
-      "cls": "src-itmedia",
-      "flag": "🇯🇵",
-      "articleLang": "ja"
     },
     {
       "id": "uwt1JCCyIeA9",
@@ -833,6 +917,18 @@
       "articleLang": "en"
     },
     {
+      "id": "EZUB0RjfqHLF",
+      "title": "The AI trade is hard to escape — even for investors who are deliberately trying to avoid it - DW.com",
+      "summary": "The AI trade is hard to escape — even for investors who are deliberately trying to avoid it&nbsp;&nbsp;DW.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZzVOZmtnSTdyb0RWUnNBQVRLbXZzampza2RoX3RpdVFKNFRHZG9lWDF3R2d6MGhXbTVDZGNORE53U1JUZTY3YTZtbW9YZzV3Qjl5azYzbEEzUHQxd1RfQWgzV3k4TkVhOFJhUkl1aWk5dkdTeV9uTTdkSTlwRWhyT19yVThidTc3c1JzM281R1VUaFBVLUJIdtIBmAFBVV95cUxOaU5qbElrOGVQWU9lSF8yVEJTR1NNbFl1UmM5Z1RTVUtScFZnUjdsZ3RwWVFaQURqVDN5eVI5cFBCRlBidnZXQmUwTWdhSFBHMmhyYUVFNmNvbHJEdW9wcWE0aU5aMkU1ZVo4Nnh0NFZoaUhKRzg2bkgtWWJ6YjR4T1pnYWZ3MnI2QU85eDVyNDN1VVY4UE4zaQ?oc=5",
+      "date": "2026-11-24T20:12:25+00:00",
+      "source": "DW Tech",
+      "key": "dw",
+      "cls": "src-dw",
+      "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
       "id": "1xZMAog5fCJF",
       "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
       "summary": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
@@ -905,18 +1001,6 @@
       "articleLang": "en"
     },
     {
-      "id": "JspNl/Pe0FlR",
-      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-      "summary": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
-      "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-      "date": "2026-11-24T16:46:00+00:00",
-      "source": "TechCrunch",
-      "key": "techcrunch",
-      "cls": "src-techcrunch",
-      "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
       "id": "DeJDzRZljsMF",
       "title": "Mamdani questions AI economy as Jensen Huang returns to Nvidia – video",
       "summary": "New York City mayor Zohran Mamdani weighed in on the corporate turbulence surrounding Nvidia and the chipmaker’s chief executive officer, Jensen Huang, saying he does not think working Americans 'sign",
@@ -962,18 +1046,6 @@
       "key": "wired",
       "cls": "src-wired",
       "flag": "🇺🇸",
-      "articleLang": "en"
-    },
-    {
-      "id": "9NIcw430kvL8",
-      "title": "Meta launches Muse in UK – the AI agent that can do your Christmas shopping",
-      "summary": "Users can give agents tasks such as booking travel or buying presents, but glitches have been reportedHave you downloaded Meta’s AI assistant Muse or do you plan to?Want to avoid the Christmas shoppin",
-      "link": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
-      "date": "2026-11-24T14:36:32+00:00",
-      "source": "The Guardian AI",
-      "key": "guardian",
-      "cls": "src-guardian",
-      "flag": "🇬🇧",
       "articleLang": "en"
     },
     {
@@ -1097,6 +1169,18 @@
       "articleLang": "en"
     },
     {
+      "id": "XBs+N+lkg7Rv",
+      "title": "Hong Kong stocks erase gains as Jensen Huang’s comeback offset by AI jitters - South China Morning Post",
+      "summary": "Hong Kong stocks erase gains as Jensen Huang’s comeback offset by AI jitters&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVhDenptTFg3SWQ1ZTdaNkJkZ25BQTh2WHZFMnltOFl4QW1nZ0VGdHZiVElaam54QVVzbG9kRE1UWmM4THFCUThTWVhuZ0hGa25VQWl3VG1lVmZlXzI3eHdBVUxTSWdOUXJ4bDRxMngtSEFuVkd4SUcwYVJtUVB4QlZIZmZncmUwMEZpemVfdW9PV1FKWEJCY1k1SG54cjJHMlJRTzVYQXZta2JWa0JMN3lJdzY2ZHV6YmJmM1dnaTFZZHZfQS1GRkVKX1FDTUE?oc=5",
+      "date": "2026-11-24T01:45:16+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
+      "articleLang": "en"
+    },
+    {
       "id": "O3KWgB2v7wLX",
       "title": "At AI speed, Nvidia's Jensen Huang finds exoneration - Reuters",
       "summary": "At AI speed, Nvidia's Jensen Huang finds exoneration&nbsp;&nbsp;Reuters",
@@ -1181,18 +1265,6 @@
       "articleLang": "en"
     },
     {
-      "id": "odymb3h3/D/9",
-      "title": "AI tools help brands curb Black Friday deals, from clothes to skincare - Reuters",
-      "summary": "AI tools help brands curb Black Friday deals, from clothes to skincare&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalEtTjcxRkpZeXFjX1k3Zkd2YXV6RE5IMGtGblV4ZzM0cURnSXdFcVFHcG9vRVBXaUdsRllSQnU5LWVCNW9MU3k3VDFUSjFBQXJkd3FvZjZMSll5MUtVX1F1RUc4SGpVR2c0X01oeXRXaGJmWUc4MXVMWFR4cUMwSWpNNGFyQ0xxaldmakNfR1BIaXV1X1NLZkNDNGtrZmx6WlpMcUJ3UjF0bVhZSFZlWDlUSFV0OVYxcS1NbTVKYw?oc=5",
-      "date": "2026-11-23T11:39:49+00:00",
-      "source": "Reuters",
-      "key": "reuters",
-      "cls": "src-reuters",
-      "flag": "🌐",
-      "articleLang": "en"
-    },
-    {
       "id": "zsTAUWSsNs2N",
       "title": "Netflix AI clause divides Germany's dubbing industry over voice training rights - DW.com",
       "summary": "Netflix AI clause divides Germany's dubbing industry over voice training rights&nbsp;&nbsp;DW.com",
@@ -1202,6 +1274,18 @@
       "key": "dw",
       "cls": "src-dw",
       "flag": "🇩🇪",
+      "articleLang": "en"
+    },
+    {
+      "id": "ude9ta90P4Mf",
+      "title": "Can Singapore’s AI financial push close digital maturity gaps across Asean? - South China Morning Post",
+      "summary": "Can Singapore’s AI financial push close digital maturity gaps across Asean?&nbsp;&nbsp;South China Morning Post",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUDNXam5yNEludDFPTE1Md3N4Yk1aZXNGQWxENFZOanREZFEwVjNjRldWbXMxcXJzcG1qamtSRm1FanVlejFzUVZkbkhYUHVQbTVwUTVXaHQwVGpKS3NPb2VibUowSkJTeWZabENnUWpoUFJhdThOQ0N6WHg2dmJmVktaU1NZTXRJa1VWTDJIQUl1VnJhVzJhYU5kTzU2NGZseGs4ckNwMUtZMG5MeEZzb2otYjFab2xGODJTeEFyZ0szX25hci1MYXQ2al9WMlHSAc8BQVVfeXFMTlRfc3FrMUs3MGdWZkV4bUwtcENLRUN3UWx6OWhSYTNXTGZkbEJIQ2dGbzdxQVdwb2ZPMmdVM1IyYmVBZnFVQlBGYlZIa1dEMXFMT095VTVoWDVPcGQzZWZIMWNrbmtCZUNVMTJZcFE5MHl6U3V0aGhDMFdRMnBxYXJlSXhvX0VIRTg5UnM1aUxSSmQ5dzNxSnI1ODFscExNeTFVRVpJaGxDS3FDRHQwdTdHMFZXakJyNVJMNVA0ei1BYlB2TTAzNVdNVi1JSzFv?oc=5",
+      "date": "2026-11-23T11:00:11+00:00",
+      "source": "SCMP",
+      "key": "scmp",
+      "cls": "src-scmp",
+      "flag": "🇨🇳",
       "articleLang": "en"
     },
     {
@@ -1322,30 +1406,6 @@
       "key": "france24",
       "cls": "src-france24",
       "flag": "🇫🇷",
-      "articleLang": "en"
-    },
-    {
-      "id": "mZCGDmAcNghl",
-      "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says - South China Morning Post",
-      "summary": "Xi, Trump agree military AI decisions must involve humans, Bessent says&nbsp;&nbsp;South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVloyS0N1eVl5Z203ZkxoWkpFQmc3UFE3V2ZadGxWSjYyT21PRXo0RXdib1ZrZFpKN3IwMzB3YlJSQmRJNUtNaWhIVjlhTWk2ekoybFR0SkJvZG9lYVZFUTV3c1R4SDlDdkVZUnY0VW9nUFQ0bkFYR3lKMW90Rlk5QkRFcWVVN0hvUmJSQ0s2TGFyZFNkcGNPeWVFaDd1d21TTDRaRXBZMm1JcklHUVFwTGZlVE8wRzJJWG0wZThQVlBFMU8ySUHSAcYBQVVfeXFMT19VMVYzcU53TjZOQUZMR0RrLVVDQVc2LVlBVmNOR3lMR3ZZM0wxY216TFMzTGI2VUF1SnRiYzllemd5QlVheENzRXpaVjZSSlJHYWdUZW5MT0tkWEF6U1RiTUpBcmxFbGRGeThtaXYtX09zeDlUQWZFV2tuNGRadjdTdkVUSWJtd0NrdHBReWlUX2d3OW9RWFp1RWc2eFZENThrT0dEcXA2YnZNcmlTQXFZREFUcVdGclh5anBrSWVDel9NVzdR?oc=5",
-      "date": "2026-11-21T07:17:15+00:00",
-      "source": "SCMP",
-      "key": "scmp",
-      "cls": "src-scmp",
-      "flag": "🇨🇳",
-      "articleLang": "en"
-    },
-    {
-      "id": "E8XDXj9AQ9gE",
-      "title": "Anthropic trading tests investors' appetite for AI - DW.com",
-      "summary": "Anthropic trading tests investors' appetite for AI&nbsp;&nbsp;DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnZ0WTVLTnNETEJvVjdTeWU1YlZXQmpMV3lqdnRyaGEyLVUwaFlGNlRNWWpDMElsWm5ydXBabm5CU2xWWkZkZ1NiZmlPMEZYX2dCVmZhRzZJZk82WGhWU3ZUNGFvdFo1enV2UWsxR25QbUh3aG1qelYwU3R2bUZCX3ZfdVpDbFJFbnfSAYoBQVVfeXFMT09NLUVzMlBNR2V5NEpic1c1X2tmeWJBMUhyUlhzbEtwaWVWeDR0UmU0a3U4ZzhqVEw0NTFoYzQxWTBRTUdvbHNzd2hLYmM5YTJIdjlqbzdwV183clNPcnFwUWprZWtQZTBvOFNxc3FVUlViallaS0syS0Fxb0lBanJRdUI2c25MX3pB?oc=5",
-      "date": "2026-11-19T21:11:52+00:00",
-      "source": "DW Tech",
-      "key": "dw",
-      "cls": "src-dw",
-      "flag": "🇩🇪",
       "articleLang": "en"
     }
   ]
